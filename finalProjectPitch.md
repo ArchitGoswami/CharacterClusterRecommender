@@ -10,6 +10,13 @@ Traditional TV recommenders suggest shows based on genre or plot similarity. Thi
 
 ## Professor Feedback Requirements
 
+### Key sections and aspects a potential project should include:
+- Evalutaions
+- crawling and web agents
+- classification
+- profiling
+- ML training
+
 ### Scientific Rigor Needed
 
 - **Baseline Metrics**: Establish performance benchmarks
