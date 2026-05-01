@@ -1,0 +1,25 @@
+{
+  "title": "Glee",
+  "original_query": "Glee",
+  "imdb_id": "tt1327801",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2015,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "plot": "A group of ambitious misfits try to escape the harsh realities of high school by joining a glee club headed by a passionate Spanish teacher.",
+  "actors": [
+    "Lea Michele",
+    "Jane Lynch",
+    "Matthew Morrison"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "44 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUwYWRkMDItYTNkNy00OWQ0LWJhYTQtNzI3MWFmMmI3ZDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

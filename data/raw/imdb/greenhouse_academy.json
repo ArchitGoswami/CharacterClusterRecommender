@@ -1,0 +1,25 @@
+{
+  "title": "Greenhouse Academy",
+  "original_query": "Greenhouse Academy",
+  "imdb_id": "tt6076336",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2020,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Almost a year after their astronaut mother's tragic death, Alex and Hayley Woods start attending an elite boarding school for future leaders, but soon begin to realize that everything is not as it seems.",
+  "actors": [
+    "Ariel Mortman",
+    "Finn Roberts",
+    "Chris O'Neal"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "25 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWEyOWRlMGQtYzIyOC00Zjg4LWE1ODItM2E1NDg3ODk0ZTdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Cold Case",
+  "original_query": "Cold Case",
+  "imdb_id": "tt0368479",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2010,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned \"cold cases\". Detective Lilly Rush combines her instincts with the updated technology to bring about justice for all the victims she can.",
+  "actors": [
+    "Kathryn Morris",
+    "Danny Pino",
+    "John Finn"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGEzYmFhNzMtODNhNC00MmZiLWFjMWEtZjIxNzQxZWVlNWEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

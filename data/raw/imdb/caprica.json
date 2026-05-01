@@ -1,0 +1,25 @@
+{
+  "title": "Caprica",
+  "original_query": "Caprica",
+  "imdb_id": "tt0799862",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2010,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "Two families, the Graystones and the Adamas, live together on a peaceful planet known as Caprica, where a startling breakthrough in artificial intelligence brings about unforeseen consequences.",
+  "actors": [
+    "Eric Stoltz",
+    "Esai Morales",
+    "Paula Malcomson"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTA2NGZiOGUtNDI2My00NjAxLWFjZDItNzNhYTJmNmY4MjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

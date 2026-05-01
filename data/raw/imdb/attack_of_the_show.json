@@ -1,0 +1,23 @@
+{
+  "title": "Attack of the Show",
+  "original_query": "Attack of the Show",
+  "imdb_id": "tt21030046",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Attack of the Show is your weekly content explosion, featuring the best and/or worst of the internet with a healthy side of pop culture comedy, news, discussion, and horse-based character cameos.",
+  "actors": [
+    "Kassem Gharaibeh",
+    "Gina Darling",
+    "Fiona Nova"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "N/A",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTE1YWQ1MDYtOGQ0MC00MWJiLWE0M2EtOWZlMGI5YTlhZjM0XkEyXkFqcGdeQXVyMjcyODEzOA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

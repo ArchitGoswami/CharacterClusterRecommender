@@ -1,0 +1,23 @@
+{
+  "title": "Hidden Hills",
+  "original_query": "Hidden Hills",
+  "imdb_id": "tt0320030",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2003,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A sitcom about life in the suburbs.",
+  "actors": [
+    "Louis Ferreira",
+    "Paula Marshall",
+    "Stacy Galina"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE0ZWVkOTAtMTc5Ny00YmQ0LTgzYzYtZWM4NWZjYzYwOWQ2XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

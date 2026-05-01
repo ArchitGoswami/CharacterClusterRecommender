@@ -1,0 +1,23 @@
+{
+  "title": "Arrested Development",
+  "original_query": "Arrested Development",
+  "imdb_id": "tt0367279",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2019,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.",
+  "actors": [
+    "Jason Bateman",
+    "Michael Cera",
+    "Portia de Rossi"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTk3N2M0MjktMDhkNi00ZGVhLTk4YTUtYjI5MDJmMWUzNTgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

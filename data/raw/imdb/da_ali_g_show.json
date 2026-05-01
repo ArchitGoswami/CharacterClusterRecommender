@@ -1,0 +1,23 @@
+{
+  "title": "Da Ali G Show",
+  "original_query": "Da Ali G Show",
+  "imdb_id": "tt0241088",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2004,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Sacha Baron Cohen provides an inimitable mix of global reportage and celebrity chat via his characters Ali G, Borat Sagdiyev and Brüno Gehard.",
+  "actors": [
+    "Sacha Baron Cohen",
+    "Steve Ellington",
+    "T.N.T. Crew"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI2ZjY5OWYtMTI3Yy00ZTI4LWEyYzItMjRmNWU0OTA1M2MyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

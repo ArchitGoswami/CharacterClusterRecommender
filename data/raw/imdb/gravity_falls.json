@@ -1,0 +1,25 @@
+{
+  "title": "Gravity Falls",
+  "original_query": "Gravity Falls",
+  "imdb_id": "tt1865718",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2016,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle's tourist trap in the enigmatic Gravity Falls, Oregon.",
+  "actors": [
+    "Jason Ritter",
+    "Alex Hirsch",
+    "Kristen Schaal"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_SX300.jpg",
+  "source": "omdb"
+}

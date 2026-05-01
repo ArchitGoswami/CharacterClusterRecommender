@@ -1,0 +1,24 @@
+{
+  "title": "Clarissa Explains It All",
+  "original_query": "Clarissa Explains It All",
+  "imdb_id": "tt0101065",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1994,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "As events unfold in her life, Clarissa explains to the viewer the motivations behind people's actions.",
+  "actors": [
+    "Melissa Joan Hart",
+    "Jason Zimbler",
+    "Elizabeth Hess"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4M2QyYmEtYWY4Ny00MDYxLWFkNWItY2Y2YzIzZDBlN2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

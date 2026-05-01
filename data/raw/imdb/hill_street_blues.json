@@ -1,0 +1,25 @@
+{
+  "title": "Hill Street Blues",
+  "original_query": "Hill Street Blues",
+  "imdb_id": "tt0081873",
+  "type": "TV",
+  "year": 1981,
+  "year_end": 1987,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "The lives and work of the staff of an inner city police precinct.",
+  "actors": [
+    "Daniel J. Travanti",
+    "Michael Warren",
+    "Bruce Weitz"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWIwNzY1M2MtNmViOC00NTg3LThmOGEtNTZmNzE0NmViMmE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

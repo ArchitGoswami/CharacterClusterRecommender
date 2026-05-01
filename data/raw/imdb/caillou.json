@@ -1,0 +1,25 @@
+{
+  "title": "Caillou",
+  "original_query": "Caillou",
+  "imdb_id": "tt0262153",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2018,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "An imaginative four-year-old boy learns life lessons and discovers new things with his friends and family.",
+  "actors": [
+    "Evan Smirnow",
+    "Ellen David",
+    "Daniel Brochu"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "3.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjgyM2MzYmYtMjYxNy00NTAyLWEwMGItYzViZGZlOGU0YzQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

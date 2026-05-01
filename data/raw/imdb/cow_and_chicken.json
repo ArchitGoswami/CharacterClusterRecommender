@@ -1,0 +1,25 @@
+{
+  "title": "Cow and Chicken",
+  "original_query": "Cow and Chicken",
+  "imdb_id": "tt0118289",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The program focuses on the misadventures of two unlikely yet somehow biological siblings: Cow and Chicken.",
+  "actors": [
+    "Charlie Adler",
+    "Candi Milo",
+    "Dee Bradley Baker"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmI3MjQ4MmYtMzlhZS00OTg0LThjMWYtOGJkZTczMWRmOTY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

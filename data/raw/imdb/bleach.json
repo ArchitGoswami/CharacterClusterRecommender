@@ -1,0 +1,25 @@
+{
+  "title": "Bleach",
+  "original_query": "Bleach",
+  "imdb_id": "tt0434665",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2012,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from \"Hollows\".",
+  "actors": [
+    "Johnny Yong Bosch",
+    "Michelle Ruff",
+    "Stephanie Sheh"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "32S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWQwOWY5NTUtMjAyZi00YjQzLTkwODgtNmQwZjU1MGIzZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Boy Meets World",
+  "original_query": "Boy Meets World",
+  "imdb_id": "tt0105958",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 2000,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "An adolescent with two siblings tests his various theories about life as he endures the trials of growing up alongside a good friend.",
+  "actors": [
+    "Ben Savage",
+    "Rider Strong",
+    "William Daniels"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "23 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkyMjAyNzAxNl5BMl5BanBnXkFtZTcwNjk1MDk5NA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Jonas",
+  "original_query": "J.O.N.A.S.",
+  "imdb_id": "tt1044418",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2010,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "plot": "The show follows the Jonas Brothers through fun and unusual situations as they try to live ordinary lives.",
+  "actors": [
+    "Kevin Jonas",
+    "Chelsea Kane",
+    "Nicole Gale Anderson"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "25 min",
+  "imdb_rating": "4.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdjOThmNzMtNWE2My00MGY4LTljN2QtNWI2ZGI0YmE2OTFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Dave the Barbarian",
+  "original_query": "Dave the Barbarian",
+  "imdb_id": "tt0386176",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Follow the adventures of Dave, one incredibly unusual barbarian, who's more interested in raising his family and cooking yummy gourmet meals than conquering new lands.",
+  "actors": [
+    "Danny Cooksey",
+    "Jeff Bennett",
+    "Estelle Harris"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjVlZjI4MzUtM2QxMy00ZDcwLWI3ODEtMmUxNTlkZGY2Mzc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Alcatraz",
+  "original_query": "Alcatraz",
+  "imdb_id": "tt1728102",
+  "type": "TV",
+  "year": 2012,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency is tasked with re-capturing them.",
+  "actors": [
+    "Sarah Jones",
+    "Jorge Garcia",
+    "Jonny Coyne"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQ4ODE2ODk2NF5BMl5BanBnXkFtZTcwMzQwNDIyNw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

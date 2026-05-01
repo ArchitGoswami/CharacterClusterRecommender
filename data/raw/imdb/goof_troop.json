@@ -1,0 +1,25 @@
+{
+  "title": "Goof Troop",
+  "original_query": "Goof Troop",
+  "imdb_id": "tt0103428",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 1993,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The classic Disney character Goofy is a single father raising his son, Max, in Spoonerville. Pete, a frequent antagonist from the old cartoons, lives next door with his family.",
+  "actors": [
+    "Rob Paulsen",
+    "April Winchell",
+    "Jim Cummings"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODYzNjk0NjctYmQzMy00NzU5LWE4YzAtMmJlN2QwZTgyNzM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

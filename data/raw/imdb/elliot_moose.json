@@ -1,0 +1,25 @@
+{
+  "title": "Elliot Moose",
+  "original_query": "Elliot Moose",
+  "imdb_id": "tt0373522",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "A moose learns important values of life while being with his friends.",
+  "actors": [
+    "Keith Knight",
+    "Al Mukadam",
+    "Amos Crawley"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MDQwMTAyN15BMl5BanBnXkFtZTgwNTE2NzgwMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

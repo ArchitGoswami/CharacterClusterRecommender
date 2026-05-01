@@ -1,0 +1,25 @@
+{
+  "title": "Doctor Who",
+  "original_query": "Doctor Who",
+  "imdb_id": "tt0436992",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2022,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+  "actors": [
+    "Jodie Whittaker",
+    "Peter Capaldi",
+    "Pearl Mackie"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "45 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGVmY2RkZjAtZDAwMC00MmZhLThhMGItZmVlNzE4MTgyMWRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

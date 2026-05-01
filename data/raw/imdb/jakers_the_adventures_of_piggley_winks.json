@@ -1,0 +1,25 @@
+{
+  "title": "Jakers! The Adventures of Piggley Winks",
+  "original_query": "Jakers! The Adventures of Piggley Winks",
+  "imdb_id": "tt0381772",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Grandad tells his grandchildren about his adventures as a boy.",
+  "actors": [
+    "Maria Darling",
+    "Peadar Lamb",
+    "Russi Taylor"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM2ODYyNTMzMF5BMl5BanBnXkFtZTcwNTUxOTIzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

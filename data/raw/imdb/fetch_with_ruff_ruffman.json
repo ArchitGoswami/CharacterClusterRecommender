@@ -1,0 +1,25 @@
+{
+  "title": "FETCH! with Ruff Ruffman",
+  "original_query": "Fetch! with Ruff Ruffman",
+  "imdb_id": "tt0496195",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Kids compete in challenges in this game show, hosted by an animated dog.",
+  "actors": [
+    "Jim Conroy",
+    "Rosario Corso",
+    "Marc Prophet"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjQ0ODUyZDUtNTJkOS00MzVmLTk1ZTQtMDc0MjIyNmVhODczXkEyXkFqcGdeQXVyMzAxNTY5MzY@._V1_SX300.jpg",
+  "source": "omdb"
+}

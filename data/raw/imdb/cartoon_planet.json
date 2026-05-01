@@ -1,0 +1,25 @@
+{
+  "title": "Cartoon Planet",
+  "original_query": "Cartoon Planet",
+  "imdb_id": "tt0111911",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Musical"
+  ],
+  "plot": "Following success as a late night talk show host, Space Ghost recruits Brak (now somewhat brain-damaged) to his cast for his very own variety show. Zorak (from Coast to Coast) serves as the third host.",
+  "actors": [
+    "George Lowe",
+    "C. Martin Croker",
+    "Andy Merrill"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjk0MWRlMjctY2FjZi00YTliLTgxNzctZGZkZGU2ODAxODRlXkEyXkFqcGdeQXVyOTc2Mzg5OQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

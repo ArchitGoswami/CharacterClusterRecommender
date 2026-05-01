@@ -1,0 +1,25 @@
+{
+  "title": "Brandy & Mr. Whiskers",
+  "original_query": "Brandy & Mr. Whiskers",
+  "imdb_id": "tt0423621",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A snobbish dog named Brandy Harrington and a dim-witted rabbit named Mr. Whiskers try to make the best of things when they get stranded in the Amazon rainforest together.",
+  "actors": [
+    "Charlie Adler",
+    "Kaley Cuoco",
+    "Corey Burton"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOThmMTE1NWQtZGE1NS00NjMwLWE2OGItZTA0NGIyZjRkMDg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

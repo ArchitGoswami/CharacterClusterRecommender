@@ -1,0 +1,25 @@
+{
+  "title": "Dexter",
+  "original_query": "Dexter",
+  "imdb_id": "tt0773262",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2013,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and his nights committing them.",
+  "actors": [
+    "Michael C. Hall",
+    "Jennifer Carpenter",
+    "David Zayas"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "53 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

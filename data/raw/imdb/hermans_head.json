@@ -1,0 +1,23 @@
+{
+  "title": "Herman's Head",
+  "original_query": "Herman's Head",
+  "imdb_id": "tt0101115",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1994,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Four aspects (intellect, sensitivity, fear, and lust) of Waterton Publishing Company fact-checker Herman Brooks' personality help him get through different situations in both his private and professional life.",
+  "actors": [
+    "William Ragsdale",
+    "Hank Azaria",
+    "Jane Sibbett"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NhNTJhM2YtYmQ0Mi00ZjExLTkwZGUtYTcwNGEzYjg3ZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

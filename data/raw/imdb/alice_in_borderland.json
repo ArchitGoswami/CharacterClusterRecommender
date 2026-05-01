@@ -1,0 +1,25 @@
+{
+  "title": "Alice in Borderland",
+  "original_query": "Alice In Borderland",
+  "imdb_id": "tt10795658",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2025,
+  "genres": [
+    "Action",
+    "Drama",
+    "Horror"
+  ],
+  "plot": "Arisu - a listless, jobless and video-game-obsessed young man - suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive.",
+  "actors": [
+    "Kento Yamazaki",
+    "Tao Tsuchiya",
+    "Nijirô Murakami"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "50 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmMzODA4M2MtMjBmNC00YjFhLTg4NzgtODgyNzE4NWQxMThmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

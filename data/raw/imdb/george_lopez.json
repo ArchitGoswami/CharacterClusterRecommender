@@ -1,0 +1,24 @@
+{
+  "title": "George Lopez",
+  "original_query": "George Lopez",
+  "imdb_id": "tt0310460",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2007,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Comedian George Lopez stars as a Los Angeles manufacturing plant manager attempting to deal with his wacky family along with random mishaps.",
+  "actors": [
+    "George Lopez",
+    "Constance Marie",
+    "Luis Armand Garcia"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmM3NDI4NzItMzA1My00OTQzLWJjZDMtN2M4NmZhM2NjYjNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

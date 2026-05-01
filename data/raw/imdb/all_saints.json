@@ -1,0 +1,23 @@
+{
+  "title": "All Saints",
+  "original_query": "All Saints",
+  "imdb_id": "tt0163924",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2009,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A drama series centred on the lives of the nurses at All Saints Western General Hospital.",
+  "actors": [
+    "Judith McGrath",
+    "Georgie Parker",
+    "Tammy Macintosh"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzYzJiM2MtNzdjOS00NDhkLTg5ZTItMTEwNmMyY2ZmZjhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

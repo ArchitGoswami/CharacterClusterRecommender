@@ -1,0 +1,25 @@
+{
+  "title": "Baby Shark's Big Show!",
+  "original_query": "Baby Shark's Big Show!",
+  "imdb_id": "tt10518284",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "PINKFONG's popular brand, Baby Shark, is back with a fun-filled preschool series. It follows Baby Shark and his best friend, William the fish, as they journey on comedic adventures in their community of Carnivore Cove.",
+  "actors": [
+    "Kimiko Glenn",
+    "Luke Youngblood",
+    "Georgie Kidder"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "24 min",
+  "imdb_rating": "3.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWNhOTkxN2EtOWQ3NC00ZDU5LWI4NzItMjZmZGY4NjcyMGY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

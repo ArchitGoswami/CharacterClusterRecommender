@@ -1,0 +1,25 @@
+{
+  "title": "Gosei Sentai Dairanger",
+  "original_query": "Gosei Sentai Dairanger",
+  "imdb_id": "tt0106015",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1994,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Angered by the Dairanger's lack of confidence in each other in dealing with the Key Jester, Master Kaku forces the team to learn a history lesson regarding the Gorma and the consequences of their failure.",
+  "actors": [
+    "Keiichi Wada",
+    "Tatsuya Nômi",
+    "Ei Hamura"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "25 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDYzMGZhYjctMzBkNy00YWFjLThhNzQtNDJkNmMxNDcyOWY1XkEyXkFqcGdeQXVyNjg2ODgyMTM@._V1_SX300.jpg",
+  "source": "omdb"
+}

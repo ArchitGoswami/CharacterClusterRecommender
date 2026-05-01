@@ -1,0 +1,25 @@
+{
+  "title": "Ghost in the Shell: Stand Alone Complex",
+  "original_query": "Ghost in the Shell: Stand Alone Complex",
+  "imdb_id": "tt0346314",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Action",
+    "Crime"
+  ],
+  "plot": "The futuristic adventures of a female cyborg counter intelligence agent and her support team.",
+  "actors": [
+    "Peggy O'Neal",
+    "Atsuko Tanaka",
+    "Osamu Saka"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "24 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NkZmQwOWQtNDc3Mi00MzVhLWI5NGUtNzg2ODBhMWZhNjgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

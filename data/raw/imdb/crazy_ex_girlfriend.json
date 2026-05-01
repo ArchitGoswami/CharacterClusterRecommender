@@ -1,0 +1,24 @@
+{
+  "title": "Crazy Ex-Girlfriend",
+  "original_query": "Crazy Ex-Girlfriend",
+  "imdb_id": "tt4094300",
+  "type": "TV",
+  "year": 2015,
+  "year_end": 2019,
+  "genres": [
+    "Comedy",
+    "Musical"
+  ],
+  "plot": "A young woman abandons a choice job at a law firm and her life in New York in an attempt to find happiness in the unlikely locale of West Covina, California.",
+  "actors": [
+    "Rachel Bloom",
+    "Donna Lynne Champlin",
+    "Vincent Rodriguez III"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjVjM2Y3YzctYzQwMi00OTY2LWEyMjMtODdkZmZiMWQxM2M4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

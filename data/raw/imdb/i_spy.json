@@ -1,0 +1,24 @@
+{
+  "title": "I Spy",
+  "original_query": "I Spy",
+  "imdb_id": "tt0058816",
+  "type": "TV",
+  "year": 1965,
+  "year_end": 1968,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A pair of intelligence agents posing as a tennis pro and his coach go on secret missions around the world.",
+  "actors": [
+    "Robert Culp",
+    "Bill Cosby",
+    "Kenneth Tobey"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "51 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWY1ZThkMDYtZWMzZS00N2NhLWEzY2MtZDk1ZmY4ZDY1YTBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Corn & Peg",
+  "original_query": "Corn & Peg",
+  "imdb_id": "tt9847692",
+  "type": "TV",
+  "year": 2019,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Two inseparable best friends, a unicorn and a pegasus, strive to make their world of Galloping Grove a better place.",
+  "actors": [
+    "Shechinah Mpumlwana",
+    "Anneke van Hooff",
+    "Shayle Simons"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2ZjZGViOTAtM2ZhNC00ZjEwLWIyOTUtZWU1NDQ1OTE2OGNmXkEyXkFqcGdeQXVyNTM0NjIxMzA@._V1_SX300.jpg",
+  "source": "omdb"
+}

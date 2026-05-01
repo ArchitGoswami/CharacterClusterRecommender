@@ -1,0 +1,25 @@
+{
+  "title": "6Teen",
+  "original_query": "6teen",
+  "imdb_id": "tt0439341",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Set in a giant shopping mall, this show follows the after-school lives of six 16-year-olds.",
+  "actors": [
+    "Christian Potenza",
+    "Jess Mal Gibbons",
+    "Brooke D'Orsay"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxYmMzNzItZjU0MC00NzgyLTljNjEtMGJlMTAzYjgwYzlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

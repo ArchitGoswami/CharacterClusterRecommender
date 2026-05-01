@@ -1,0 +1,25 @@
+{
+  "title": "The Haunting of Hill House",
+  "original_query": "Haunting of Hill House",
+  "imdb_id": "tt6763664",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "plot": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+  "actors": [
+    "Michiel Huisman",
+    "Carla Gugino",
+    "Henry Thomas"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "572 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SX300.jpg",
+  "source": "omdb"
+}

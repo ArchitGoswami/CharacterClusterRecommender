@@ -1,0 +1,25 @@
+{
+  "title": "Encantadia",
+  "original_query": "Encantadia",
+  "imdb_id": "tt5861134",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2017,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "In the world of Lireo, a thousand years after the Lirean War, Queen Mine-a senses danger is around the corner. Her daughters Pirena, Amihan, Alena, and Danaya are chosen as successors to guard the gems.",
+  "actors": [
+    "Marian Rivera",
+    "Dingdong Dantes",
+    "Glaiza De Castro"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTJjYTAwZTgtYmNmOC00NTMyLWE0YjctZmI0ZTQ4NjdjZjg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

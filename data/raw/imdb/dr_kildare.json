@@ -1,0 +1,23 @@
+{
+  "title": "Dr. Kildare",
+  "original_query": "Dr. Kildare",
+  "imdb_id": "tt0054535",
+  "type": "TV",
+  "year": 1961,
+  "year_end": 1966,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "The dramatic relationship between a young medical intern and his surgeon mentor.",
+  "actors": [
+    "Richard Chamberlain",
+    "Raymond Massey",
+    "Lee Kurty"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMzZjNjMDctOTA2ZC00N2IzLWE1MTMtYmRhZWYwNWE3NDg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Dragon Ball GT",
+  "original_query": "Dragon Ball GT",
+  "imdb_id": "tt0139774",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 1997,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "After Goku is made a kid again by the Black Star Dragon Balls, he goes on a journey to get back to his old self.",
+  "actors": [
+    "Andrew Chandler",
+    "Elise Baughman",
+    "Masako Nozawa"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "24 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQyMzQwNzQtZTgxYy00OGY0LTg0MmItZjNkNTk3NjgyYmJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

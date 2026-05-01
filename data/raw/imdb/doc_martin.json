@@ -1,0 +1,25 @@
+{
+  "title": "Doc Martin",
+  "original_query": "Doc Martin",
+  "imdb_id": "tt0408381",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2022,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "The trials and tribulations of Martin Ellingham, a brilliant but socially challenged doctor who moves from London to the picturesque village of Port Wenn in Cornwall.",
+  "actors": [
+    "Martin Clunes",
+    "Caroline Catz",
+    "Ian McNeice"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "46 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjQ1MmFjZjgtZDZlNS00NGExLWJlOWYtMzc5OTc2OGJjZTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

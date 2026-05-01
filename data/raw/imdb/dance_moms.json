@@ -1,0 +1,23 @@
+{
+  "title": "Dance Moms",
+  "original_query": "Dance Moms!!",
+  "imdb_id": "tt1991410",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2019,
+  "genres": [
+    "Reality-TV"
+  ],
+  "plot": "The series follows doting mothers and their childrens' early steps on the road to stardom, all under the discerning eye of a notoriously demanding and passionate dance instructor.",
+  "actors": [
+    "Abby Lee Miller",
+    "Nia Sioux",
+    "Holly Frazier"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "42 min",
+  "imdb_rating": "4.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM1M2E0ZDItY2FmYS00ZTdmLWFhODYtZDJhYzJhMDM3Y2QwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "I Dream of Jeannie",
+  "original_query": "I Dream of Jeannie",
+  "imdb_id": "tt0058815",
+  "type": "TV",
+  "year": 1965,
+  "year_end": 1970,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "A United States astronaut finds his life vastly complicated when he stumbles on to a bottle containing a female genie.",
+  "actors": [
+    "Barbara Eden",
+    "Larry Hagman",
+    "Bill Daily"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "51S min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDNjMzhkOTUtODM0NS00NGNlLTgxNDItN2M2NzE0NWE5MjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

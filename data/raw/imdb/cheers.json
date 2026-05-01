@@ -1,0 +1,24 @@
+{
+  "title": "Cheers",
+  "original_query": "Cheers",
+  "imdb_id": "tt0083399",
+  "type": "TV",
+  "year": 1982,
+  "year_end": 1993,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "The regulars of the Boston bar \"Cheers\" share their experiences and lives with each other while drinking or working at the bar where everybody knows your name.",
+  "actors": [
+    "Ted Danson",
+    "Rhea Perlman",
+    "John Ratzenberger"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "22 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGFjY2QwM2QtZGI3Yi00MzM3LTliOGUtZDJhNzVhMGNmN2ZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

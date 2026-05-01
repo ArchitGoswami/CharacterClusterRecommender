@@ -1,0 +1,25 @@
+{
+  "title": "Hercules: The Legendary Journeys",
+  "original_query": "Hercules: The Legendary Journeys",
+  "imdb_id": "tt0111999",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 1999,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "Hercules is half-man, half-god and a hero of fantastic strength. After his malevolent stepmother, Hera, kills his wife and children, he wanders about Earth with mortal best friend Iolaus, fighting evil and trying to overcome his l...",
+  "actors": [
+    "Kevin Sorbo",
+    "Michael Hurst",
+    "Kevin Smith"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "4 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDZiM2I5ZGEtNGIxYy00YzAwLTgxZmQtMWQxZWM3MWVkOGMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Carnivàle",
+  "original_query": "Carnivàle",
+  "imdb_id": "tt0319969",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2005,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "plot": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+  "actors": [
+    "Michael J. Anderson",
+    "Adrienne Barbeau",
+    "Clancy Brown"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "55 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNkYTAwMjQtNjZlNC00MGZiLWE1YTYtNmNjMjE5ODAzY2U2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

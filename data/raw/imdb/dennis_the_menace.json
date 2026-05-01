@@ -1,0 +1,25 @@
+{
+  "title": "Dennis the Menace",
+  "original_query": "Dennis the Menace",
+  "imdb_id": "tt0166910",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1988,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Good-natured, 6 y.o. Dennis is a menace to his parents and especially to his neighbor, Mr. Wilson. He has adventures with his friends and dog, Ruff. Each episode has 3 6-10 min. stories.",
+  "actors": [
+    "Brennan Thicke",
+    "Jeannie Elias",
+    "Marilyn Lightstone"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQ0ZjU4NDQtYmUxNi00OGExLThhZGMtMWY3ZmZmZGVhMjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

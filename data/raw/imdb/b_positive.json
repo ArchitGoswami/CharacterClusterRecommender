@@ -1,0 +1,24 @@
+{
+  "title": "B Positive",
+  "original_query": "B Positive",
+  "imdb_id": "tt11839500",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2022,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Newly divorced dad Drew faces finding a kidney donor and is at the end of his rope and his hope when he runs into Gina, a rough-around-the edges woman from his past who volunteers her own.",
+  "actors": [
+    "Annaleigh Ashford",
+    "Thomas Middleditch",
+    "Darryl Stephens"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "31S min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNlMzdiNzUtZjA4YS00YWU5LWJiZTgtNDUwZjc3NWRjNWZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

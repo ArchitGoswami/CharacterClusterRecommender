@@ -1,0 +1,25 @@
+{
+  "title": "Everybody Hates Chris",
+  "original_query": "Everybody Hates Chris",
+  "imdb_id": "tt0460637",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2009,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "plot": "Comedy following an awkward young African-American teenager (based on a young version of comedian Chris Rock) as he attempts to survive with his family and his all-white school in 1980's Brooklyn, New York.",
+  "actors": [
+    "Terry Crews",
+    "Tichina Arnold",
+    "Tequan Richmond"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2U1M2QxZDYtMzgyYS00OWQ5LWIyNGUtMmQ1MGQ2NTU2NzNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

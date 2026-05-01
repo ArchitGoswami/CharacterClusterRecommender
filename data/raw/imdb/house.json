@@ -1,0 +1,23 @@
+{
+  "title": "House",
+  "original_query": "House",
+  "imdb_id": "tt0412142",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2012,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.",
+  "actors": [
+    "Hugh Laurie",
+    "Omar Epps",
+    "Robert Sean Leonard"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Beavis and Butt-Head",
+  "original_query": "Beavis and Butt-Head",
+  "imdb_id": "tt0105950",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 2011,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Music"
+  ],
+  "plot": "The show is about two slow-witted teenagers Beavis and Butt-Head and their everyday exploits, including trying to get laid (or \"score,\" as they like to call it), breaking things, pulling pranks, skipping school and watching TV.",
+  "actors": [
+    "Mike Judge",
+    "Kristofor Brown",
+    "Dale Revo"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzU3Mzk0ZTUtMmRkNS00MjI1LWEzNjYtNzI2MWJkN2JkNjc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

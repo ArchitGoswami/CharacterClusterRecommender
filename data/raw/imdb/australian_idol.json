@@ -1,0 +1,25 @@
+{
+  "title": "Australian Idol",
+  "original_query": "Australian Idol",
+  "imdb_id": "tt0382400",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2026,
+  "genres": [
+    "Game-Show",
+    "Music",
+    "Reality-TV"
+  ],
+  "plot": "Australian Idol sought to discover the most commercial young singer in Australia through a series of nationwide auditions. The final winner was determined by public voting.",
+  "actors": [
+    "Marcia Hines",
+    "Osher Günsberg",
+    "Kyle Sandilands"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "4.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODMxODIzY2MtZmYzZS00Yjk5LWJhNTgtYThlMzI1NDVlODBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

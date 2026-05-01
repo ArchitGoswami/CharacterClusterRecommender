@@ -1,0 +1,25 @@
+{
+  "title": "Dog with a Blog",
+  "original_query": "Dog With A Blog",
+  "imdb_id": "tt2222135",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2015,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "A family adopts a dog named Stan in the hope that two feuding step-siblings will bond over the pet. It works when the siblings soon find out that the dog can talk and write.",
+  "actors": [
+    "Genevieve Hannelius",
+    "Blake Michael",
+    "Francesca Capaldi"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "22 min",
+  "imdb_rating": "5.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM5ODIwODM4M15BMl5BanBnXkFtZTgwMTk5MDIwMjE@._V1_SX300.jpg",
+  "source": "omdb"
+}

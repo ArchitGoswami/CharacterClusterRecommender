@@ -1,0 +1,25 @@
+{
+  "title": "iCarly",
+  "original_query": "iCarly",
+  "imdb_id": "tt0972534",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2012,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "plot": "Carly hosts her own home-grown web show, iCarly, Carly and sidekick Sam's regular webcasts ultimately feature everything from comedy sketches and talent contests to interviews, recipes, and problem-solving.",
+  "actors": [
+    "Miranda Cosgrove",
+    "Jennette McCurdy",
+    "Nathan Kress"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2JlM2JiNmQtNTdhNy00MDljLThjNDQtZDExNWI0NTNhMjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

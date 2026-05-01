@@ -1,0 +1,23 @@
+{
+  "title": "America's Test Kitchen",
+  "original_query": "America's Test Kitchen",
+  "imdb_id": "tt0437700",
+  "type": "TV",
+  "year": 2000,
+  "year_end": null,
+  "genres": [
+    "Documentary"
+  ],
+  "plot": "Hosts Julia Collin Davison and Bridget Lancaster and the Test Kitchen cooks prepare America's favorite recipes, passing along valuable tips as they go.",
+  "actors": [
+    "Christopher Kimball",
+    "Julia Collin Davison",
+    "Bridget Lancaster"
+  ],
+  "director": "",
+  "rated": "Unrated",
+  "runtime": "30 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E0NjI0YzktZjk2My00N2M0LWEzMTgtY2Y5NWM2Zjc5OGM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

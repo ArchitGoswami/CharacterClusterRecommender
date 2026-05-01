@@ -1,0 +1,25 @@
+{
+  "title": "Danger Mouse",
+  "original_query": "Danger Mouse",
+  "imdb_id": "tt0081848",
+  "type": "TV",
+  "year": 1981,
+  "year_end": 1992,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Danger Mouse, the greatest secret agent in the world, must follow Colonel K's orders (and try not to break Professor Squawkencluck's inventions) to foil Baron Greenback's and his henchman Stiletto's plans.",
+  "actors": [
+    "David Jason",
+    "Terry Scott",
+    "Edward Kelsey"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA3NjMxZWEtZjk1NS00MjdlLTg0YzctNDMyODk4ZDM2YTljXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

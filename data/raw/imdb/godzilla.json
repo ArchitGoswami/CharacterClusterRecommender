@@ -1,0 +1,25 @@
+{
+  "title": "Godzilla",
+  "original_query": "Godzilla",
+  "imdb_id": "tt0177814",
+  "type": "TV",
+  "year": 1978,
+  "year_end": 1980,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "The crew of a research vessel, the Calico, investigate strange phenomena and menaces that force them to summon the mighty Godzilla, whose clumsy relative Godzooky is also in their care.",
+  "actors": [
+    "Marlene Aragon",
+    "Michael Bell",
+    "Ted Cassidy"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjI1Mjg1ZWEtYTRiZi00Mjk0LTk1NTItNjQ0Y2E5NTM5YmJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Emergency!",
+  "original_query": "Emergency!",
+  "imdb_id": "tt0068067",
+  "type": "TV",
+  "year": 1972,
+  "year_end": 1979,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+  "actors": [
+    "Randolph Mantooth",
+    "Kevin Tighe",
+    "Julie London"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "60 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIyNTcyMzMxMF5BMl5BanBnXkFtZTcwMDYxNjEzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

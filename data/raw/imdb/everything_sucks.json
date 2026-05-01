@@ -1,0 +1,24 @@
+{
+  "title": "Everything Sucks!",
+  "original_query": "Everything Sucks",
+  "imdb_id": "tt7078710",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "In 1990s Oregon, members of a high school A/V club clash with the drama club.",
+  "actors": [
+    "Jahi Di'Allo Winston",
+    "Peyton Kennedy",
+    "Patch Darragh"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzU1NWE2Y2MtOWYwZS00ZTg2LTgzZjktNWJkNTk5YjM4MjMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

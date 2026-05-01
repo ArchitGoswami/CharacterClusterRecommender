@@ -1,0 +1,23 @@
+{
+  "title": "Amen",
+  "original_query": "Amen",
+  "imdb_id": "tt0090395",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1991,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Rev. Rueben Gregory, finds dealing with the headstrong, opinionated, and unethical Deacon Ernest Frye--who works as a lawyer when not tending to church business--won't make his job easy.",
+  "actors": [
+    "Sherman Hemsley",
+    "Clifton Davis",
+    "Anna Maria Horsford"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "22S min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjIxNmU5MzMtNjZkNy00NDQ4LWE4ZjQtZDRkOWNmZjY3M2VmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

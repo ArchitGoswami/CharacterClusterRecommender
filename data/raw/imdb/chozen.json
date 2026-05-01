@@ -1,0 +1,24 @@
+{
+  "title": "Chozen",
+  "original_query": "Chozen",
+  "imdb_id": "tt3221268",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "Chozen is an animated comedy about its title character, \"Chozen,\" a gay white rapper fresh out of prison.",
+  "actors": [
+    "Bobby Moynihan",
+    "Michael Peña",
+    "Hannibal Buress"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "24 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQxMjM2MTE3MF5BMl5BanBnXkFtZTgwMjc2MzQ5MDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

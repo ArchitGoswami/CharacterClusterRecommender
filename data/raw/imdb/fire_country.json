@@ -1,0 +1,23 @@
+{
+  "title": "Fire Country",
+  "original_query": "Fire Country",
+  "imdb_id": "tt16098700",
+  "type": "TV",
+  "year": 2022,
+  "year_end": null,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A young convict joins a firefighting program looking for redemption and a shortened prison sentence. He and other inmates work alongside elite firefighters to extinguish massive blazes across the region.",
+  "actors": [
+    "Max Thieriot",
+    "Kevin Alejandro",
+    "Jordan Calloway"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQ3YTlmMjItNjBmZC00MDJkLTg2NWUtNDY0NzkwNjBmOTcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

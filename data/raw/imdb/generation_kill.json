@@ -1,0 +1,24 @@
+{
+  "title": "Generation Kill",
+  "original_query": "Generation Kill",
+  "imdb_id": "tt0995832",
+  "type": "TV",
+  "year": 2008,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "plot": "A Rolling Stone reporter, embedded with The 1st Recon Marines chronicles his experiences during the first wave of the American-led assault on Baghdad in 2003.",
+  "actors": [
+    "Alexander Skarsgård",
+    "James Ransone",
+    "Lee Tergesen"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "70 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM2NjAxOTQzNl5BMl5BanBnXkFtZTcwMjk4NzU3MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

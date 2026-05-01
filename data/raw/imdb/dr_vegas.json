@@ -1,0 +1,24 @@
+{
+  "title": "Dr. Vegas",
+  "original_query": "Dr. Vegas",
+  "imdb_id": "tt0410978",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2005,
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "plot": "A young, unconventional doctor lives and works in an old-school, Palms-like hotel/casino in Las Vegas.",
+  "actors": [
+    "Rob Lowe",
+    "Sarah Lancaster",
+    "Lisa Gabriel"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "5.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2FmMWYyYTctMGFmZi00NTlmLWI1N2UtYTA5Y2M1MDdkYTM5XkEyXkFqcGdeQXVyMTI2NTUxOTE@._V1_SX300.jpg",
+  "source": "omdb"
+}

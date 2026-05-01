@@ -1,0 +1,25 @@
+{
+  "title": "Dead Like Me",
+  "original_query": "Dead Like Me",
+  "imdb_id": "tt0348913",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2004,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "Georgia Lass is surprised to discover that an afterlife does exist, and that she's already been assigned a job. Her new boss is Rube, a \"reaper\" -- one of the many who pluck the souls of the living and escort them to their eternal...",
+  "actors": [
+    "Ellen Muth",
+    "Callum Blue",
+    "Jasmine Guy"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "56S min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE5OTM0NTIzN15BMl5BanBnXkFtZTcwOTQ4MTAwMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

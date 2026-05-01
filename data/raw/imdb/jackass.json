@@ -1,0 +1,25 @@
+{
+  "title": "Jackass",
+  "original_query": "Jackass",
+  "imdb_id": "tt0264263",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2007,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Reality-TV"
+  ],
+  "plot": "The cast performs various crazy stunts for our amusement.",
+  "actors": [
+    "Johnny Knoxville",
+    "Bam Margera",
+    "Chris Pontius"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA1OGE4MzctYzZlMC00MzhkLTk0NGEtN2Y5NWY5Y2RmYWM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

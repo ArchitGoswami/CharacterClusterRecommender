@@ -1,0 +1,23 @@
+{
+  "title": "Great Expectations",
+  "original_query": "Great Expectations",
+  "imdb_id": "tt1949720",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2012,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "The orphan Pip becomes a gentleman when his life is transformed by a mystery benefactor.",
+  "actors": [
+    "Douglas Booth",
+    "Jack Roth",
+    "Ray Winstone"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGYyNDZhMGQtZDAyOC00NDI0LTliNjItNzA0ZTU1OGMyM2QwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

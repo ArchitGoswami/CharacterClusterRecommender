@@ -1,0 +1,25 @@
+{
+  "title": "Desert Punk",
+  "original_query": "Desert Punk",
+  "imdb_id": "tt0440988",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "In the future, Japan is a wasteland with scattered humans in the Great Kanto Desert. A short-statured man named \"Sunabozu\" makes a living as a bounty hunter, but he has a weakness for the opposite sex.",
+  "actors": [
+    "Eric Vale",
+    "Cole Brown",
+    "Chihiro Suzuki"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "580 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjNiNmViZDgtYTczNS00MjUxLWI3YmEtNjg2YWFkOWI0MjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

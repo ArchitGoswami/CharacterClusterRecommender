@@ -1,0 +1,25 @@
+{
+  "title": "Blood Ties",
+  "original_query": "Blood Ties",
+  "imdb_id": "tt0808013",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "plot": "Vicki Nelson, a former homicide detective turned private investigator, and Henry Fitzroy, a 470-year-old vampire, form a unique team solving cases and dealing with the supernatural world.",
+  "actors": [
+    "Christina Cox",
+    "Dylan Neal",
+    "Kyle Schmid"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUwOGE0OTgtMjAyOS00MDIwLWJjNmMtYTM1YzIyYTM3OTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

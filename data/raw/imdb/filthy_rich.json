@@ -1,0 +1,23 @@
+{
+  "title": "Filthy Rich",
+  "original_query": "Filthy Rich",
+  "imdb_id": "tt10327526",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "The heirs of a wealthy Southern businessman hatch a plan to get a piece of his fortune.",
+  "actors": [
+    "Kim Cattrall",
+    "Melia Kreiling",
+    "Steve Harris"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjc3NTg1MTctNTExOS00NDBjLWI5N2ItY2Y1MTkwMWM3NmQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Beast Wars: Transformers",
+  "original_query": "Beast Wars",
+  "imdb_id": "tt0115108",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The Transformers' war continues in an older time, through a new generation. On pliocenic Earth, the heroic Maximals and the evil Predacons battle for survival against each other and against a violent planet.",
+  "actors": [
+    "Scott McNeil",
+    "Garry Chalk",
+    "Ian James Corlett"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "58S min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDUxODg4MzE5NV5BMl5BanBnXkFtZTYwNDA0OTc4._V1_SX300.jpg",
+  "source": "omdb"
+}

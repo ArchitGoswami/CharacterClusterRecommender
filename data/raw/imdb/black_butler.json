@@ -1,0 +1,25 @@
+{
+  "title": "Black Butler",
+  "original_query": "Black Butler",
+  "imdb_id": "tt1316554",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2011,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "Ciel Phantomhive takes care of the many unsettling events in Victorian England. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities. But is there more to this black-clad butler than meets the eye?",
+  "actors": [
+    "J. Michael Tatum",
+    "Brina Palencia",
+    "Michael C. Pizzuto"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "24 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzU2YzkyMGMtYTVjNi00NWY0LWE0MDAtMzZmYTU3Y2MyZTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

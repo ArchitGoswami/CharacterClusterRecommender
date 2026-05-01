@@ -1,0 +1,23 @@
+{
+  "title": "Fawlty Towers",
+  "original_query": "Fawlty Towers",
+  "imdb_id": "tt0072500",
+  "type": "TV",
+  "year": 1975,
+  "year_end": 1979,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+  "actors": [
+    "John Cleese",
+    "Prunella Scales",
+    "Andrew Sachs"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODM5YWE5NDAtZTU4MC00YWI0LThjMjItNTlhMTQ5Y2Y5NWJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

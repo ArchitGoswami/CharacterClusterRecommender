@@ -1,0 +1,25 @@
+{
+  "title": "American Horror Stories",
+  "original_query": "American Horror Stories",
+  "imdb_id": "tt12306692",
+  "type": "TV",
+  "year": 2021,
+  "year_end": 2024,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "plot": "An anthology series of stand-alone episodes delving into horror myths, legends, and lore.",
+  "actors": [
+    "Jessica Barden",
+    "Sierra McCormick",
+    "Paris Jackson"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTY4NTQ0ZDMtMGM4ZS00YmYwLWFkYmUtYWFlZmUwMTA5MWMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

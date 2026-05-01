@@ -1,0 +1,24 @@
+{
+  "title": "Chappelle's Show",
+  "original_query": "Chappelle's Show",
+  "imdb_id": "tt0353049",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2006,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "plot": "Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture.",
+  "actors": [
+    "Dave Chappelle",
+    "Donnell Rawlings",
+    "Neal Brennan"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "22 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzgxYTFlMjYtMWM0MC00ZjQzLWJjMjUtNDZhNGE0Yzg2YmRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

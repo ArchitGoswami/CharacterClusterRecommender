@@ -1,0 +1,25 @@
+{
+  "title": "Axe Cop",
+  "original_query": "Axe Cop",
+  "imdb_id": "tt2497834",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The adventures of an axe-wielding police officer dedicated to killing the various bad guys he comes across.",
+  "actors": [
+    "Nick Offerman",
+    "Ken Marino",
+    "Rob Huebel"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "35S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJlMzljMjktZDUwZS00NzgwLTlhMWYtNGQ3YTRhNWJlMjczXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

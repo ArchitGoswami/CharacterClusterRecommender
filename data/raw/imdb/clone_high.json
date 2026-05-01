@@ -1,0 +1,25 @@
+{
+  "title": "Clone High",
+  "original_query": "Clone High",
+  "imdb_id": "tt0305011",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2003,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "plot": "A high school is populated by the clones of well-known historical figures.",
+  "actors": [
+    "Will Forte",
+    "Phil Lord",
+    "Michael McDonald"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGI1ZmY3OGQtOGRmMy00OWQ4LWJkMmEtMmE2ZTJmZTMyNzZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Ben 10: Alien Force",
+  "original_query": "Ben 10: Alien Force",
+  "imdb_id": "tt1192169",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Fifteen-year-old Ben Tennyson must utilize the Omnitrix yet again in order to locate his missing Grandpa Max, accompanied by his cousin Gwen and former enemy Kevin 11.",
+  "actors": [
+    "Yuri Lowenthal",
+    "Dee Bradley Baker",
+    "Ashley Johnson"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQ5YWFjYjItODE5OC00ZDQxLTk5ZmYtNzY0YzM4NjIyMWFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Beetlejuice",
+  "original_query": "Beetlejuice",
+  "imdb_id": "tt0096543",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 1991,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Adventures of the ghostly con-artist and his 12-year-old pal, Lydia.",
+  "actors": [
+    "Stephen Ouimette",
+    "Alyson Court",
+    "Tabitha St. Germain"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU0YWM0NDYtYzEyMS00NThlLTlhMGEtM2JkYTJlYzVhOTFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

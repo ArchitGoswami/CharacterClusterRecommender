@@ -1,0 +1,23 @@
+{
+  "title": "Community",
+  "original_query": "Community",
+  "imdb_id": "tt1439629",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2015,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
+  "actors": [
+    "Joel McHale",
+    "Danny Pudi",
+    "Donald Glover"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGIwYzNmYTktZWExZC00MzAyLTk4NTItODgwZmIyNWZhNDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

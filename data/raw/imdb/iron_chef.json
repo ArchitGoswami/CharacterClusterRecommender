@@ -1,0 +1,24 @@
+{
+  "title": "Iron Chef",
+  "original_query": "Iron Chef",
+  "imdb_id": "tt0220265",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 2002,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "plot": "Chefs from all over the world come to fight a culinary battle against one of President Kaga's \"Iron Chefs\". They have one hour to prepare a meal where each dish must prominently feature the special ingredient of the day.",
+  "actors": [
+    "Chen Kenichi",
+    "Hiroyuki Sakai",
+    "Wayne LeGette"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzkzNmFhYzgtYmVmNS00NTcwLWE4ZWItNTM1MzE1MDIwOWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

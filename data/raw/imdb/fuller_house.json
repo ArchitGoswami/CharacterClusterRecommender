@@ -1,0 +1,25 @@
+{
+  "title": "Fuller House",
+  "original_query": "Fuller House",
+  "imdb_id": "tt3986586",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2020,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "In a continuation of Full House (1987), D.J. Fuller is a recently-widowed mother of three young sons. Her sister Stephanie, her best friend Kimmy, and Kimmy's teen daughter all move in to help raise her sons. The house is now a lo...",
+  "actors": [
+    "Candace Cameron Bure",
+    "Jodie Sweetin",
+    "Dashiell Messitt"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzU5MzA0MF5BMl5BanBnXkFtZTgwODgyOTg1MzI@._V1_SX300.jpg",
+  "source": "omdb"
+}

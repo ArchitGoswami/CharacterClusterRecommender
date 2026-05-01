@@ -1,0 +1,23 @@
+{
+  "title": "Dynasty",
+  "original_query": "Dynasty",
+  "imdb_id": "tt6128300",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2022,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "Follows two of America's wealthiest families as they feud for control over their fortune and their children.",
+  "actors": [
+    "Elizabeth Gillies",
+    "Rafael de la Fuente",
+    "Robert Christopher Riley"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDU3MTk5Y2UtNGZhYS00NzA3LWExMWUtNmVlZjRiMTg3MDY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

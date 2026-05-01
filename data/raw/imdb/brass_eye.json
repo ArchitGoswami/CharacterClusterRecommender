@@ -1,0 +1,23 @@
+{
+  "title": "Brass Eye",
+  "original_query": "Brass Eye",
+  "imdb_id": "tt0118273",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2001,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Controversial spoof of current affairs television, and the role of celebrity in the UK.",
+  "actors": [
+    "Christopher Morris",
+    "Mark Heap",
+    "Kevin Eldon"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "25 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFhMGE2OWEtY2JiYS00MmUwLWIwMzMtYWZmZjdlZWI3MDI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

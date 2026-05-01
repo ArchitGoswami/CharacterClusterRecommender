@@ -1,0 +1,25 @@
+{
+  "title": "How I Met Your Mother",
+  "original_query": "How I Met Your Mother",
+  "imdb_id": "tt0460649",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2014,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.",
+  "actors": [
+    "Josh Radnor",
+    "Jason Segel",
+    "Cobie Smulders"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg",
+  "source": "omdb"
+}

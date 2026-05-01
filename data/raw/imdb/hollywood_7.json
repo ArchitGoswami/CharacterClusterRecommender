@@ -1,0 +1,24 @@
+{
+  "title": "Hollywood 7",
+  "original_query": "Hollywood 7",
+  "imdb_id": "tt0292840",
+  "type": "TV",
+  "year": 2001,
+  "year_end": null,
+  "genres": [
+    "Family",
+    "Music"
+  ],
+  "plot": "",
+  "actors": [
+    "Hannah Spearritt",
+    "Jon Lee",
+    "Tina Barrett"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNzU0NDA2OV5BMl5BanBnXkFtZTcwOTU5OTQxMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

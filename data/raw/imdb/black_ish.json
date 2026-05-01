@@ -1,0 +1,23 @@
+{
+  "title": "Black-ish",
+  "original_query": "Black-ish",
+  "imdb_id": "tt3487356",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2022,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
+  "actors": [
+    "Anthony Anderson",
+    "Tracee Ellis Ross",
+    "Marcus Scribner"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzc5MTQ1OGUtMmY5ZS00OWUwLTk4ZDgtMjViODU1MGUxMGZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

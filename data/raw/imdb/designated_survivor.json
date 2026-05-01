@@ -1,0 +1,25 @@
+{
+  "title": "Designated Survivor",
+  "original_query": "Designated Survivor",
+  "imdb_id": "tt5296406",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2019,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the line of succession.",
+  "actors": [
+    "Kiefer Sutherland",
+    "Adan Canto",
+    "Italia Ricci"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmZmYjhlMTgtYmRjYi00NTk3LWI2M2EtMzYwZTAyMmIzZTI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

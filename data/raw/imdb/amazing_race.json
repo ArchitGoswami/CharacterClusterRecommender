@@ -1,0 +1,25 @@
+{
+  "title": "The Amazing Race",
+  "original_query": "Amazing Race",
+  "imdb_id": "tt0285335",
+  "type": "TV",
+  "year": 2001,
+  "year_end": null,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Game-Show"
+  ],
+  "plot": "Multiple teams race around the globe for $1,000,000 to 'amazing' locations.",
+  "actors": [
+    "Phil Keoghan",
+    "Joyce Robinson",
+    "Uchenna Agu"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTM0NGI5MGUtZmZiYS00YmM4LTg2OTQtM2RlY2FhOTAwNDgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

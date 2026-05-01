@@ -1,0 +1,25 @@
+{
+  "title": "Awkward.",
+  "original_query": "Awkward",
+  "imdb_id": "tt1663676",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2016,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "An unpopular 15-year-old gains immediate, yet unwanted, popularity at her high school when the student body mistakes an accident she has for a suicide attempt.",
+  "actors": [
+    "Ashley Rickards",
+    "Beau Mirchoff",
+    "Jillian Rose Reed"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjBmNTU4Y2EtNDc5Yy00NDdjLTk5ZTgtYTEwMDQzMWM2YjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

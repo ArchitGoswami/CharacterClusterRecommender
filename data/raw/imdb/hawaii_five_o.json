@@ -1,0 +1,25 @@
+{
+  "title": "Hawaii Five-O",
+  "original_query": "Hawaii Five-O",
+  "imdb_id": "tt0062568",
+  "type": "TV",
+  "year": 1968,
+  "year_end": 1980,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Follows the investigations of Hawaii Five-0; an elite branch of the Hawaii State Police, and answerable only to the governor, and headed by the stalwart, Steve McGarrett.",
+  "actors": [
+    "Jack Lord",
+    "James MacArthur",
+    "Kam Fong"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDg5MjA3NjA4MV5BMl5BanBnXkFtZTcwNTY0NDMzMg@@._V1_SX300.jpg",
+  "source": "omdb"
+}

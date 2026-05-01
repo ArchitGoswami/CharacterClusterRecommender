@@ -1,0 +1,25 @@
+{
+  "title": "2 Stupid Dogs",
+  "original_query": "2 Stupid Dogs",
+  "imdb_id": "tt0105928",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "A not-too-bright canine duo get into all sorts of mischief and trouble.",
+  "actors": [
+    "Brad Garrett",
+    "Mark Schiff",
+    "Jess Harnell"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "22 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGY0NWY3N2YtMTkxNC00M2FjLTg2ZDAtMjlkMTE4OWVhYjZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Big Love",
+  "original_query": "Big Love",
+  "imdb_id": "tt0421030",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2011,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A Utah polygamist who owns home improvement stores in the Salt Lake City area juggles relationships with three wives while trying to keep his complex family life from becoming a public scandal.",
+  "actors": [
+    "Bill Paxton",
+    "Jeanne Tripplehorn",
+    "Chloë Sevigny"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "32S min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxMjEzNTE0Ml5BMl5BanBnXkFtZTcwNTM3MDAzNA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

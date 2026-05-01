@@ -1,0 +1,25 @@
+{
+  "title": "Gavin & Stacey",
+  "original_query": "Gavin & Stacey",
+  "imdb_id": "tt0908454",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2024,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "Essex and Wales collide when Gavin and Stacey fall in love, bringing their friends, family and baggage with them.",
+  "actors": [
+    "Mathew Horne",
+    "Joanna Page",
+    "James Corden"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTEzOGY5MTQtYjM1MC00NGQzLWFlNGQtOTAwNDI4ODQ5NjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

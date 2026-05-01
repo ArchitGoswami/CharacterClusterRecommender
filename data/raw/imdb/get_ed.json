@@ -1,0 +1,25 @@
+{
+  "title": "Get Ed",
+  "original_query": "Get Ed",
+  "imdb_id": "tt0756486",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In the distant future, a popular courier service is threatened by an evil mastermind known as Dr. Bedlam, who has plans for the stalwart company, especially its artificially superhuman member simply named Ed.",
+  "actors": [
+    "Lyon Smith",
+    "Bailey Kennedy",
+    "Jennifer Dale"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODAyNGJkOWItNTI0ZC00OThmLTlkY2YtODBmMGExNzdiYjQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

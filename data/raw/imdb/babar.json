@@ -1,0 +1,25 @@
+{
+  "title": "Babar",
+  "original_query": "Babar",
+  "imdb_id": "tt0156200",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 2002,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The adventures of the King of the elephants, his family, and friends.",
+  "actors": [
+    "Richard Binsley",
+    "Gordon Pinsent",
+    "Dawn Greenhalgh"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzJhZTMzOWYtZDhhOS00ZDU0LWI5YWItMzY3ZmNjNDRkZmM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

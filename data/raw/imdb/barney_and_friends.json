@@ -1,0 +1,23 @@
+{
+  "title": "Barney & Friends",
+  "original_query": "Barney & Friends",
+  "imdb_id": "tt0144701",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 2010,
+  "genres": [
+    "Family"
+  ],
+  "plot": "From pretending to be a pilot on a make-believe airplane to pretending to be a pirate in search of buried treasure, Barney's friends discover that creativity lets them soar in the wings of imagination!",
+  "actors": [
+    "Bob West",
+    "Julie Johnson",
+    "Patty Wirtz"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "3.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGMwMjVhNDctMjE5My00YjViLWFkMGItYzU3N2M3OTdkMDViXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "And Just Like That...",
+  "original_query": "And Just Like That",
+  "imdb_id": "tt13819960",
+  "type": "TV",
+  "year": 2021,
+  "year_end": 2025,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "The series follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+  "actors": [
+    "Sarah Jessica Parker",
+    "Cynthia Nixon",
+    "Kristin Davis"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "5.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzM2YyNGEtOTc3MS00YmM5LWIzMzEtZWEyYTA2MWI5ZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

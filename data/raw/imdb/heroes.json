@@ -1,0 +1,25 @@
+{
+  "title": "Heroes",
+  "original_query": "Heroes",
+  "imdb_id": "tt0813715",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2010,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "Ordinary people discover that they possess extraordinary powers.",
+  "actors": [
+    "Hayden Panettiere",
+    "Jack Coleman",
+    "Milo Ventimiglia"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "45 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Brothers & Sisters",
+  "original_query": "Brothers & Sisters",
+  "imdb_id": "tt0758737",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2011,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "The story of the drama surrounding a family's adult siblings.",
+  "actors": [
+    "Dave Annable",
+    "Calista Flockhart",
+    "Rachel Griffiths"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc2OTA0MjczM15BMl5BanBnXkFtZTcwNjU2MTc0MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

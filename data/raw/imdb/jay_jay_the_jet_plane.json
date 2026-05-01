@@ -1,0 +1,25 @@
+{
+  "title": "Jay Jay the Jet Plane",
+  "original_query": "Jay Jay the Jet Plane",
+  "imdb_id": "tt0362350",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "Children's series about the aventures of a blue jet plane and his friends.",
+  "actors": [
+    "Michael Donovan",
+    "Brian Cant",
+    "Eve Whittle"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "11 min",
+  "imdb_rating": "3.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDkzMjU3NzA4OV5BMl5BanBnXkFtZTcwODAyNjc0MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "FLCL",
+  "original_query": "FLCL",
+  "imdb_id": "tt0279077",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2001,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "Mysterious things start happening when 12-year-old Naota meets a strange woman on a Vespa wielding a big guitar.",
+  "actors": [
+    "Jun Mizuki",
+    "Mayumi Shintani",
+    "Izumi Kasagi"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "151 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjg2YzVmZWItYWMyMy00YjI2LTk0YTMtMDU1NGU0ZTRiODNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

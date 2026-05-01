@@ -1,0 +1,25 @@
+{
+  "title": "Gotham",
+  "original_query": "Gotham",
+  "imdb_id": "tt3749900",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2019,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+  "actors": [
+    "Ben McKenzie",
+    "Jada Pinkett Smith",
+    "Donal Logue"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg0ZmM3N2QtYmFiMy00YzUzLWE1M2QtZWVhMzBiNGZjMmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

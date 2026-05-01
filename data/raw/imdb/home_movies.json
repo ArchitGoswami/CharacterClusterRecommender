@@ -1,0 +1,25 @@
+{
+  "title": "Home Movies",
+  "original_query": "Home Movies",
+  "imdb_id": "tt0197159",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2004,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Brendon Small, an ambitious eight-year-old filmmaker, shoots movies with his two best friends, while coming to terms with adolescence, life, and relationships.",
+  "actors": [
+    "Brendon Small",
+    "H. Jon Benjamin",
+    "Melissa Bardin Galsky"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "34S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzIwZDVkZmYtNjJhOC00YTJjLWFlYzMtMDhhNjdhNDEwYTE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

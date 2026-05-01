@@ -1,0 +1,25 @@
+{
+  "title": "CHiPs",
+  "original_query": "CHiPs",
+  "imdb_id": "tt0075488",
+  "type": "TV",
+  "year": 1977,
+  "year_end": 1983,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "The adventures of two California Highway Patrol motorcycle officers.",
+  "actors": [
+    "Erik Estrada",
+    "Larry Wilcox",
+    "Robert Pine"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "16S min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM3MWM0YTctNGZkNi00ZjRlLWIwNzctMjVmZGEwMGYxYjAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

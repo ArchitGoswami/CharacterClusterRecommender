@@ -1,0 +1,25 @@
+{
+  "title": "Dog the Bounty Hunter",
+  "original_query": "Dog the Bounty Hunter",
+  "imdb_id": "tt0424627",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2012,
+  "genres": [
+    "Documentary",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "Follows the exploits of real-life bounty hunter Duane 'Dog' Chapman and his family chasing down actual fugitives in the Hawaiian Islands.",
+  "actors": [
+    "Duane 'Dog' Chapman",
+    "Leland Chapman",
+    "Beth Chapman"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "59S min",
+  "imdb_rating": "5.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIyNzQyNjAzMV5BMl5BanBnXkFtZTcwNDYzNjcyMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

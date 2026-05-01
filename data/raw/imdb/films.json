@@ -1,0 +1,24 @@
+{
+  "title": "Cursed Films",
+  "original_query": "Films",
+  "imdb_id": "tt10036104",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2022,
+  "genres": [
+    "Documentary",
+    "Horror"
+  ],
+  "plot": "Cursed Films is a five part documentary series which explores the myths and legends behind some of Hollywood's notoriously cursed horror film productions.",
+  "actors": [
+    "Mitch Horowitz",
+    "Phil Nobile Jr.",
+    "Ryan Turek"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "30 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzk4ODUzODAtNDQ4OS00Yjk4LTk2NzQtYWEzMWY2Mzg4OWM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

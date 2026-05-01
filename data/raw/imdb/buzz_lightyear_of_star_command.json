@@ -1,0 +1,25 @@
+{
+  "title": "Buzz Lightyear of Star Command",
+  "original_query": "Buzz Lightyear of Star Command",
+  "imdb_id": "tt0260602",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2001,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The further adventures of Buzz Lightyear as a Space Ranger of Star Command and his comrades.",
+  "actors": [
+    "Patrick Warburton",
+    "Stephen Furst",
+    "Nicole Sullivan"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWEwMDdlOGMtZDk4Zi00MmVjLWIxNDEtYzdlOWVmZDA0YjZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Catscratch",
+  "original_query": "Catscratch",
+  "imdb_id": "tt0421306",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "When their owner passes away, three cats, who are brothers that don't resemble each other, inherit a large amount of fortune along with a giant mansion and a very sarcastic butler named Hovis.",
+  "actors": [
+    "Wayne Knight",
+    "Rob Paulsen",
+    "Kevin McDonald"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "23 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjVjMTI4MmEtZTYwOC00ODdhLTg4ODctYjVlZDc0Yzc3YTU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Angel Beats!",
+  "original_query": "Angel Beats!",
+  "imdb_id": "tt1639109",
+  "type": "TV",
+  "year": 2010,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "Rebellious teens fight in armed combat against one dispassionate girl's supernatural powers in an afterlife high school.",
+  "actors": [
+    "Hiroshi Kamiya",
+    "Harumi Sakurai",
+    "Kana Hanazawa"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "25 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NlOWI5OTMtODRhZi00NjY3LTljZTUtYTQwZTMxOTBjNzE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Fight Club",
+  "original_query": "Fight Club",
+  "imdb_id": "tt0137523",
+  "type": "Movie",
+  "year": 1999,
+  "year_end": null,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Meat Loaf"
+  ],
+  "director": "David Fincher",
+  "rated": "R",
+  "runtime": "139 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "source": "omdb"
+}

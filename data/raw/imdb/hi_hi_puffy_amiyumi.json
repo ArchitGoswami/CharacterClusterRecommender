@@ -1,0 +1,25 @@
+{
+  "title": "Hi Hi Puffy AmiYumi",
+  "original_query": "Hi Hi Puffy AmiYumi",
+  "imdb_id": "tt0407398",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Hi Hi Puffy AmiYumi follows two famous Japanese rock stars reacting to event their lives, their fans, and the adventures they go on.",
+  "actors": [
+    "Ami Onuki",
+    "Yumi Yoshimura",
+    "Grey DeLisle"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "6.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTRlZWRkMTgtY2FjNC00MDRkLThkZjItMzFkNmU0MTE4YjM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

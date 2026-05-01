@@ -1,0 +1,25 @@
+{
+  "title": "Hustle",
+  "original_query": "Hustle",
+  "imdb_id": "tt0379632",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2012,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A motley group of London con artists pulls off a series of daring and intricate stings.",
+  "actors": [
+    "Robert Glenister",
+    "Robert Vaughn",
+    "Rob Jarvis"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "37S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGVkMzQ1MDUtNmQ1NS00MDdlLTk3MzItYjQzMGM0OTRiYzVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

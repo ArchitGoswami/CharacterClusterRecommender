@@ -1,0 +1,25 @@
+{
+  "title": "It's Pony",
+  "original_query": "It's Pony",
+  "imdb_id": "tt11416026",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2022,
+  "genres": [
+    "Animation",
+    "Short",
+    "Action"
+  ],
+  "plot": "A normal girl's life is made extraordinary by her best friend: an unpredictable, outrageous, hilarious talking pony. No matter what complications he causes, everything is better when Pony is around.",
+  "actors": [
+    "Jessica DiCicco",
+    "Josh Zuckerman",
+    "India de Beaufort"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRkZGUzNzctZGQ1YS00YjViLWEwMGQtNDc1ODQ4MzU1ODNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

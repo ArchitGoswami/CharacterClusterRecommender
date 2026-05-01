@@ -1,0 +1,25 @@
+{
+  "title": "Band of Brothers",
+  "original_query": "Band of Brothers",
+  "imdb_id": "tt0185906",
+  "type": "TV",
+  "year": 2001,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "plot": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+  "actors": [
+    "Scott Grimes",
+    "Damian Lewis",
+    "Ron Livingston"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "594 min",
+  "imdb_rating": "9.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

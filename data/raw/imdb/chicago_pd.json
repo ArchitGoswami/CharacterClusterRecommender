@@ -1,0 +1,25 @@
+{
+  "title": "Chicago P.D.",
+  "original_query": "Chicago PD",
+  "imdb_id": "tt2805096",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Follows the lives of the personnel of the fictional 21st District, which houses both uniformed officers and the department's elite Intelligence Unit as they fight every day to keep the city of Chicago, Illinois safe.",
+  "actors": [
+    "Jason Beghe",
+    "Marina Squerciati",
+    "Patrick John Flueger"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTJjNWVlNmEtNWZhMS00Yzk3LTg5NjctMTU5N2IxMGYxOTUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

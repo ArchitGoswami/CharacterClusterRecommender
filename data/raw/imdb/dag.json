@@ -1,0 +1,24 @@
+{
+  "title": "Dag",
+  "original_query": "DAG",
+  "imdb_id": "tt1711386",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2015,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "'Dag' is a Norwegian comedy series about a marriage counselor who thinks people should live in solitude.",
+  "actors": [
+    "Atle Antonsen",
+    "Tuva Novotny",
+    "Anders Baasmo"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "23 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAzODI5ODYyNl5BMl5BanBnXkFtZTgwNDkzNjkxNzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

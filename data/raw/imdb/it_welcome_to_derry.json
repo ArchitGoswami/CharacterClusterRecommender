@@ -1,0 +1,24 @@
+{
+  "title": "It: Welcome to Derry",
+  "original_query": "It – Welcome to Derry",
+  "imdb_id": "tt19244304",
+  "type": "TV",
+  "year": 2025,
+  "year_end": null,
+  "genres": [
+    "Fantasy",
+    "Horror"
+  ],
+  "plot": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+  "actors": [
+    "Jovan Adepo",
+    "Bill Skarsgård",
+    "Taylour Paige"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "source": "omdb"
+}

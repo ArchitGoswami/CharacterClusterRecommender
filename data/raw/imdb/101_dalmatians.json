@@ -1,0 +1,25 @@
+{
+  "title": "101 Dalmatians: The Series",
+  "original_query": "101 Dalmatians",
+  "imdb_id": "tt0144700",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 1998,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Lucky, Cadpig, Rolly, and Spot have a series of adventures around the Dearly Farm.",
+  "actors": [
+    "Kath Soucie",
+    "Tara Strong",
+    "Jeff Bennett"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBjMzY5MmItY2RhNC00OGE2LWI2MzAtNDNiN2JkNGJlYmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

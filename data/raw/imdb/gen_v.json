@@ -1,0 +1,25 @@
+{
+  "title": "Gen V",
+  "original_query": "Gen V",
+  "imdb_id": "tt13159924",
+  "type": "TV",
+  "year": 2023,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "From the world of \"The Boys\" comes \"Gen V,\" which explores the first generation of superheroes to know that their super powers are from Compound V. These heroes put their physical and moral boundaries to the test competing for the...",
+  "actors": [
+    "Jaz Sinclair",
+    "Lizze Broadway",
+    "Maddie Phillips"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Castle",
+  "original_query": "Castle",
+  "imdb_id": "tt1219024",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2016,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Successful author Richard Castle teams up with NYPD Detective Kate Beckett to solve complex murder cases.",
+  "actors": [
+    "Nathan Fillion",
+    "Stana Katic",
+    "Susan Sullivan"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2NjU0ODU0NF5BMl5BanBnXkFtZTgwMDAwMzg5NjE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Broke",
+  "original_query": "Broke",
+  "imdb_id": "tt9448006",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A trust-fund baby who is cut off by his dad is forced to move in with his wife's estranged sister.",
+  "actors": [
+    "Jaime Camil",
+    "Pauley Perrette",
+    "Natasha Leggero"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "3 min",
+  "imdb_rating": "4.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTEyNGE5ZDctYzM3Yy00NWY3LWFkNmQtZjI2MGRjZjFhNmFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

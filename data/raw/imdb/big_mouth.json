@@ -1,0 +1,25 @@
+{
+  "title": "Big Mouth",
+  "original_query": "Big Mouth",
+  "imdb_id": "tt6524350",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2025,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "Teenage friends find their lives upended by the wonders and horrors of puberty.",
+  "actors": [
+    "Nick Kroll",
+    "John Mulaney",
+    "Jessi Klein"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0YjUyNDctYmM0OC00OWU5LWJmNTMtODY5Njc4MzVlMWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

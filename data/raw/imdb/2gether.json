@@ -1,0 +1,25 @@
+{
+  "title": "2gether",
+  "original_query": "2gether",
+  "imdb_id": "tt12048276",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "A student named Tine wants to get rid of a gay admirer. His friends recommend getting a pretend boyfriend, Sarawat, who plays hard to get until he finally agrees. The two become close and intense emotions soon erupted.",
+  "actors": [
+    "Vachirawit Chivaaree",
+    "Metawin Opas-Iamkajorn",
+    "Chinnarat Siriphongchawalit"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "50 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWM4MmQwYzctY2VhZC00ZTczLTgyZWQtMmJiOTI2NzU0Yzg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

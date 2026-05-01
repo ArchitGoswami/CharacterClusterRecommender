@@ -1,0 +1,25 @@
+{
+  "title": "In the Heat of the Night",
+  "original_query": "In the Heat of the Night",
+  "imdb_id": "tt0094484",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 1995,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "The cases and adventures of the police forces in and around Sparta, Mississippi.",
+  "actors": [
+    "Carroll O'Connor",
+    "Alan Autry",
+    "David Hart"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "16S min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmFiNzMwMzItYzkwOS00YjE2LWFiZjYtM2ZjNmEwYjY2Mjc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

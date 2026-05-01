@@ -1,0 +1,25 @@
+{
+  "title": "Astro Boy",
+  "original_query": "Astro Boy",
+  "imdb_id": "tt0124228",
+  "type": "TV",
+  "year": 1980,
+  "year_end": 1981,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Originally intended to be kept a secret, the Pinocchio-like character becomes a publicly renowned superhero -- complete with devices like laser-firing fingers, uncanny hearing, and jet-powered boots -- all eventually used to repul...",
+  "actors": [
+    "Mari Shimizu",
+    "Hisashi Katsuta",
+    "Masako Sugaya"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "24 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzkyMTQ3NF5BMl5BanBnXkFtZTcwMjkwNDQzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

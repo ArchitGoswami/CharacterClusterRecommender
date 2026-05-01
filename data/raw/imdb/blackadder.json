@@ -1,0 +1,23 @@
+{
+  "title": "Blackadder",
+  "original_query": "Blackadder",
+  "imdb_id": "tt0084988",
+  "type": "TV",
+  "year": 1982,
+  "year_end": 1983,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "In the Middle Ages, Prince Edmund the Black Adder constantly schemes and endeavors to seize the crown from his father and brother.",
+  "actors": [
+    "Rowan Atkinson",
+    "Brian Blessed",
+    "Elspet Gray"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "195 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWY2OGZjZDYtYjQwNC00NjEzLTg2YzEtMGJiOTdlYjAyZmMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

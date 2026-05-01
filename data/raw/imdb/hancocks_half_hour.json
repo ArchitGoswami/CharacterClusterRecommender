@@ -1,0 +1,23 @@
+{
+  "title": "Hancock's Half Hour",
+  "original_query": "Hancock's Half Hour",
+  "imdb_id": "tt0124703",
+  "type": "TV",
+  "year": 1956,
+  "year_end": 1960,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "TV version of the popular BBC radio show of the same name, with Tony Hancock as the modern man of the world (in his own eyes). Sid James is there to bring him back to earth.",
+  "actors": [
+    "Tony Hancock",
+    "Sidney James",
+    "Johnny Vyvyan"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmRhYzdlOWItNWY2YS00ZTU3LWJlM2EtNTAyYzU1Y2E0NTVhXkEyXkFqcGdeQXVyNjg1NzcwODE@._V1_SX300.jpg",
+  "source": "omdb"
+}

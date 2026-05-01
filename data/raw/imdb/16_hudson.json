@@ -1,0 +1,24 @@
+{
+  "title": "16 Hudson",
+  "original_query": "16 Hudson",
+  "imdb_id": "tt8970244",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "plot": "A charming building hosts diverse neighbors who cherish cultural celebrations like Chinese New Year, Norooz, and Diwali. Their small adventures are treasured among friends.",
+  "actors": [
+    "Andrea Libman",
+    "Vincent Tong",
+    "Tabitha St. Germain"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "5.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM3ODc3YTEtOGNkZi00YWZhLThlMGQtMzBmNmQ3YTEyMWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

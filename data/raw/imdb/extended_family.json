@@ -1,0 +1,23 @@
+{
+  "title": "Extended Family",
+  "original_query": "Extended Family",
+  "imdb_id": "tt11312248",
+  "type": "TV",
+  "year": 2023,
+  "year_end": 2024,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A multi-cam comedy centered around the shifting family dynamics following a good-natured divorce — and the surprisingly hilarious moments that come with co-parenting.",
+  "actors": [
+    "Jon Cryer",
+    "Donald Faison",
+    "Abigail Spencer"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "5.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODhmNWE5MGItYzAxOS00M2ViLWE5YzktYzk0MTVlODlmYmJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

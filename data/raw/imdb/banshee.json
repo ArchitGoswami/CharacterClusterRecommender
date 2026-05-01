@@ -1,0 +1,25 @@
+{
+  "title": "Banshee",
+  "original_query": "Banshee",
+  "imdb_id": "tt2017109",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2016,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "An ex-con assumes the identity of a murdered sheriff in the small town of Banshee, Pennsylvania, where he has some unfinished business.",
+  "actors": [
+    "Antony Starr",
+    "Ivana Milicevic",
+    "Ulrich Thomsen"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkzNTA1MDI5M15BMl5BanBnXkFtZTcwNTY3NjAwOQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

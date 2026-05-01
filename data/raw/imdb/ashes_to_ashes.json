@@ -1,0 +1,25 @@
+{
+  "title": "Ashes to Ashes",
+  "original_query": "Ashes to Ashes",
+  "imdb_id": "tt1008108",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2010,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "After being shot in 2008 while investigating DCI Sam Tyler, DI Alex Drake wakes up in 1981.",
+  "actors": [
+    "Philip Glenister",
+    "Keeley Hawes",
+    "Dean Andrews"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "2 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmZjODQzYTQtMjU0OC00NzY3LWFjN2QtZDg3NmU3NTc4NTQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

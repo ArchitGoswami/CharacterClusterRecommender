@@ -1,0 +1,24 @@
+{
+  "title": "Belle and Sebastian",
+  "original_query": "Belle and Sebastian",
+  "imdb_id": "tt0283710",
+  "type": "TV",
+  "year": 1981,
+  "year_end": 1982,
+  "genres": [
+    "Animation",
+    "Adventure"
+  ],
+  "plot": "The adventures of a boy searching for his mother with his only companion being a large Pyrenean mountain dog falsely accused of being dangerous.",
+  "actors": [
+    "Tôru Furuya",
+    "Keiko Yokozawa",
+    "Ichirô Nagai"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "24 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWM5MzFmODUtN2U2MS00YWQ5LTk1OTMtYjA3NTU4MGNhODEzXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg",
+  "source": "omdb"
+}

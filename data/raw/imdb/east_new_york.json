@@ -1,0 +1,25 @@
+{
+  "title": "East New York",
+  "original_query": "East New York",
+  "imdb_id": "tt18115928",
+  "type": "TV",
+  "year": 2022,
+  "year_end": 2023,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Police procedural following Deputy Inspector Regina Haywood and her diverse team in East New York's 74th Precinct.",
+  "actors": [
+    "Amanda Warren",
+    "Kevin Rankin",
+    "Richard Kind"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGE1YjZiZjItZGE0Mi00ODUzLTkyZjEtNmY0MjE1YjNhYzJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

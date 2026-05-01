@@ -1,0 +1,25 @@
+{
+  "title": "Aladdin",
+  "original_query": "Aladdin",
+  "imdb_id": "tt0105935",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Aladdin, the clever hero of Agrabah, continues his adventures with the help of his fiancee Princess Jasmine, his pet monkey Abu, Magic Carpet, Iago the greedy parrot, and of course his best friend the semi-cosmic Genie.",
+  "actors": [
+    "Dan Castellaneta",
+    "Scott Weinger",
+    "Frank Welker"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUxYjFiNzAtNzMwMS00Y2M0LThkMDUtNDk2MDRjZjBkODM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

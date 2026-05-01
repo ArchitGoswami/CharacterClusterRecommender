@@ -1,0 +1,24 @@
+{
+  "title": "Dad's Army",
+  "original_query": "Dad's Army",
+  "imdb_id": "tt0062552",
+  "type": "TV",
+  "year": 1968,
+  "year_end": 1977,
+  "genres": [
+    "Comedy",
+    "War"
+  ],
+  "plot": "A ragtag group of Home Guard volunteers prepare for an imminent German invasion during World War II.",
+  "actors": [
+    "Arthur Lowe",
+    "John Le Mesurier",
+    "Clive Dunn"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzRlNWI1MWMtY2FmYS00YTJkLTk3NzctMDk3ZGY1NjFlMWU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

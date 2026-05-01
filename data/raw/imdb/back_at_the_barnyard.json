@@ -1,0 +1,25 @@
+{
+  "title": "Back at the Barnyard",
+  "original_query": "Back at the Barnyard",
+  "imdb_id": "tt0857277",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2011,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A carefree cow named Otis becomes the leader of all of the animals in the barnyard.",
+  "actors": [
+    "Jeffrey Garcia",
+    "Chris Hardwick",
+    "Cam Clarke"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "85 min",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjJlYmMxOTYtZTFiMi00OGYyLTkyZmEtZWI5Nzc0ZmNhNjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

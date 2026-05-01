@@ -1,0 +1,25 @@
+{
+  "title": "Andromeda",
+  "original_query": "Andromeda",
+  "imdb_id": "tt0213327",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2005,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "Captain Dylan Hunt and the crew of the Andromeda Ascendant set out on a mission to rebuild the Systems Commonwealth 300 years after its fall.",
+  "actors": [
+    "Kevin Sorbo",
+    "Lisa Ryder",
+    "Laura Bertram"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "43 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmVhZmZhMDktODg1Ny00ZGNkLWFjYjItNTY5ZWFmM2RjNTYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

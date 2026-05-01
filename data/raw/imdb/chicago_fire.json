@@ -1,0 +1,24 @@
+{
+  "title": "Chicago Fire",
+  "original_query": "Chicago Fire",
+  "imdb_id": "tt2261391",
+  "type": "TV",
+  "year": 2012,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "plot": "Follows both the professional and personal lives of the firefighters, rescue personnel, and paramedics of the Chicago Fire Department at the fictional Firehouse 51 as they risk their lives to save and protect the city of Chicago, ...",
+  "actors": [
+    "Taylor Kinney",
+    "Christian Stolte",
+    "Joe Minoso"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDVhYTBmYzUtNjU5NC00NjE3LWE5ZWQtZmNkYTIyYmQ3NGU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

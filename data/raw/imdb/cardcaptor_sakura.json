@@ -1,0 +1,25 @@
+{
+  "title": "Cardcaptor Sakura",
+  "original_query": "Cardcaptor Sakura",
+  "imdb_id": "tt0221735",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2000,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Sakura stumbled upon the book of Clow Cards in a library. Accidentally setting the magical cards loose, it's now up to Sakura to catch them all with her best friend Tomoyo, and Kerberos, the guardian of the cards.",
+  "actors": [
+    "Sakura Tange",
+    "Sam Vincent",
+    "Brian Drummond"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "30 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTllNzI2NTQtZWJlYi00YTJlLWFlZDYtODZmMGJkN2NmMWY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

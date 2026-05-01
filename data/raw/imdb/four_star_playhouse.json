@@ -1,0 +1,25 @@
+{
+  "title": "Four Star Playhouse",
+  "original_query": "Four Star Playhouse",
+  "imdb_id": "tt0044263",
+  "type": "TV",
+  "year": 1952,
+  "year_end": 1956,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "This show featured four rotating stars, Charles Boyer, David Niven, Ida Lupino, and Dick Powell in individual episodes consisting of everything from comedy to drama.",
+  "actors": [
+    "David Niven",
+    "Dick Powell",
+    "Charles Boyer"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzY1Mzk5Nl5BMl5BanBnXkFtZTcwMTc5ODU5Mw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

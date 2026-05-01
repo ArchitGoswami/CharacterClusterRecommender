@@ -1,0 +1,25 @@
+{
+  "title": "Bonkers",
+  "original_query": "Bonkers",
+  "imdb_id": "tt0213334",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1994,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Bonkers, an out-of-work cartoon, joins the Hollywood Police Department and helps his partners (first a doughnut-munching stress-bomb, then a beautiful blonde) catch cartoon criminals.",
+  "actors": [
+    "Jim Cummings",
+    "Earl Boen",
+    "Frank Welker"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "27 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNjZmVjNjEtNjBhMS00YzQ1LWE3NWQtYTY0NjM1NjI2OTBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

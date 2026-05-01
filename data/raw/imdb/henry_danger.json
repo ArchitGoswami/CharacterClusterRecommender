@@ -1,0 +1,25 @@
+{
+  "title": "Henry Danger",
+  "original_query": "Henry Danger",
+  "imdb_id": "tt3596174",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2020,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Looking for a part-time job, 13-year-old Henry Hart lands the post of sidekick of superhero Captain Man, but he must keep this a secret from his family and friends.",
+  "actors": [
+    "Jace Norman",
+    "Cooper Barnes",
+    "Riele Downs"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzMzMTM3ZWQtMWZhNS00N2RmLWE0YjUtYjA2MjY3NDM5ZWM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

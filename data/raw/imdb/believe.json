@@ -1,0 +1,25 @@
+{
+  "title": "Believe",
+  "original_query": "Believe",
+  "imdb_id": "tt2592094",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "plot": "A relationship forms between a gifted young girl and a man sprung from prison who has been tasked with protecting her from the evil elements that hunt her power.",
+  "actors": [
+    "Jake McLaughlin",
+    "Johnny Sequoyah",
+    "Jamie Chung"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "31S min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTg1NzQzMTEtMDZjOC00YzYyLTliYmMtMzAxYjk1ZWEwYmRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

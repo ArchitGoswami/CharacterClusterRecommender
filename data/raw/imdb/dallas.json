@@ -1,0 +1,24 @@
+{
+  "title": "Dallas",
+  "original_query": "Dallas",
+  "imdb_id": "tt0077000",
+  "type": "TV",
+  "year": 1978,
+  "year_end": 1991,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "J. R. Ewing, a Texas oil baron, uses manipulation and blackmail to achieve his goals, both personal and professional. He frequently clashes with his brother Bobby, his arch-enemy Cliff Barnes and his long-suffering wife Sue Ellen.",
+  "actors": [
+    "Larry Hagman",
+    "Ken Kercheval",
+    "Patrick Duffy"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIwOTYxZTItYWU4Ny00YTI5LTk0NzgtNDdjODE4YjUwMTdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

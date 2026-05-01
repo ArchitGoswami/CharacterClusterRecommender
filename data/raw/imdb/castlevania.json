@@ -1,0 +1,25 @@
+{
+  "title": "Castlevania",
+  "original_query": "Castlevania",
+  "imdb_id": "tt6517102",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2021,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A vampire hunter fights to save a besieged city from an army of otherworldly creatures controlled by Dracula.",
+  "actors": [
+    "Richard Armitage",
+    "James Callis",
+    "Alejandra Reynoso"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "23 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1_SX300.jpg",
+  "source": "omdb"
+}

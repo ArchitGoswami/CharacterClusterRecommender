@@ -1,0 +1,25 @@
+{
+  "title": "Bewitched",
+  "original_query": "Bewitched",
+  "imdb_id": "tt0057733",
+  "type": "TV",
+  "year": 1964,
+  "year_end": 1972,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
+  "actors": [
+    "Elizabeth Montgomery",
+    "Dick York",
+    "Dick Sargent"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "25 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU4ZTY1OTgtNDcxZS00ZWE2LWEwM2ItMGI1NTIxMzY0N2M0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

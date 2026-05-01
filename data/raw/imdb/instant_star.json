@@ -1,0 +1,24 @@
+{
+  "title": "Instant Star",
+  "original_query": "Instant Star",
+  "imdb_id": "tt0420416",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2008,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "plot": "Based on a song she wrote and performed, a young girl wins a national contest for a recording contract. Now she must balance the life of a normal teenager with that of a rising star in the music industry.",
+  "actors": [
+    "Tim Rozon",
+    "Alexz Johnson",
+    "Kristopher Turner"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FlOTQ5NmEtYzNiMC00ZDNjLWE0N2EtZGQ1ZGNlZjUxOGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

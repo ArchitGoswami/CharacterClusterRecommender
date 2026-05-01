@@ -1,0 +1,24 @@
+{
+  "title": "Gilmore Girls",
+  "original_query": "Gilmore Girls",
+  "imdb_id": "tt0238784",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2007,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.",
+  "actors": [
+    "Lauren Graham",
+    "Alexis Bledel",
+    "Melissa McCarthy"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "57S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM2OGZjMTItNzc2OS00YzA4LWE0ZTUtYzE5NjU0MTIyZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

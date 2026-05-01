@@ -1,0 +1,25 @@
+{
+  "title": "He-Man and the Masters of the Universe",
+  "original_query": "He-Man and the Masters of the Universe",
+  "imdb_id": "tt0126158",
+  "type": "TV",
+  "year": 1983,
+  "year_end": 1985,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The most powerful man in the universe, He-Man, goes against the evil forces of Skeletor to save the planet Eternia and to protect the secrets of Castle Grayskull.",
+  "actors": [
+    "John Erwin",
+    "Alan Oppenheimer",
+    "Linda Gary"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzAxYzg1YmUtMzJkOS00NGEyLTkyM2MtNTk1NzE4MTQ1MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

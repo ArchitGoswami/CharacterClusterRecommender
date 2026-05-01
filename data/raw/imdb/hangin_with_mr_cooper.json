@@ -1,0 +1,25 @@
+{
+  "title": "Hangin' with Mr. Cooper",
+  "original_query": "Hangin' with Mr. Cooper",
+  "imdb_id": "tt0103435",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 1997,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Sport"
+  ],
+  "plot": "American comedy with a larger-than-life teacher and his housemates.",
+  "actors": [
+    "Mark Curry",
+    "Holly Robinson Peete",
+    "Sandra Quarterman"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDhmOGUzMWQtNmU3My00NDQ1LTgyYTgtYjcyMmEzMjkxYmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

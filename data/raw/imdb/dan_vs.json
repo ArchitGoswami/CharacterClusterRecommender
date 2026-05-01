@@ -1,0 +1,25 @@
+{
+  "title": "Dan Vs.",
+  "original_query": "Dan Vs.",
+  "imdb_id": "tt1675276",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2013,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A rude, crude, and scruffy curmudgeon named Dan tries to get revenge on anyone and anything that angers him.",
+  "actors": [
+    "Dave Foley",
+    "Curtis Armstrong",
+    "Paget Brewster"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzU5NmY0NDEtZmY3ZS00YjZjLWI5NTYtMTU5ZWRlNjExY2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

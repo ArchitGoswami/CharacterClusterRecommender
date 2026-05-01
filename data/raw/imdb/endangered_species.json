@@ -1,0 +1,25 @@
+{
+  "title": "Endangered Species",
+  "original_query": "Endangered Species",
+  "imdb_id": "tt4406352",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Pickle the adrenaline-junkie bunny, Merl the safety-conscious squirrel, and Gull the naïve but loving seagull find themselves in ridiculously dangerous-and always hilarious!-situations whenever they try to go about their daily life.",
+  "actors": [
+    "Sam Vincent",
+    "Tabitha St. Germain",
+    "Lee Tockar"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "22 min",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQxNDUxOF5BMl5BanBnXkFtZTgwOTcwODUzNDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

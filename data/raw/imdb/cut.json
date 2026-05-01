@@ -1,0 +1,23 @@
+{
+  "title": "Cut",
+  "original_query": "Cut",
+  "imdb_id": "tt8027828",
+  "type": "TV",
+  "year": 2017,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Five students from Saudi Arabia pursue filmmaking in the United States, as they deal with cultural identity, romance and family conflicts.",
+  "actors": [
+    "Fahad Albutairi",
+    "Mohammed Sef",
+    "Yousef Aldakheel"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTEzNWU3YmMtNDFhYy00ZjU1LWE4NGYtOWE1MzZiNDY1MTlhXkEyXkFqcGdeQXVyNDYwMTI1MjQ@._V1_SX300.jpg",
+  "source": "omdb"
+}

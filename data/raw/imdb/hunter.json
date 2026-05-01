@@ -1,0 +1,25 @@
+{
+  "title": "Hunter",
+  "original_query": "Hunter",
+  "imdb_id": "tt0086734",
+  "type": "TV",
+  "year": 1984,
+  "year_end": 1991,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Rick Hunter is a renegade cop who bends the rules and takes justice into his own hands. Partnered with the equally stunning and rebellious Sgt. McCall, he sets out to crack down on L.A.'s slimiest criminals.",
+  "actors": [
+    "Fred Dryer",
+    "Stepfanie Kramer",
+    "Charles Hallahan"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "48 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcxMjE2NjU2MF5BMl5BanBnXkFtZTcwNjExNjczMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Good Luck Charlie",
+  "original_query": "Good Luck Charlie",
+  "imdb_id": "tt1415889",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2014,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "The Duncan family are adjusting to the surprise birth of their fourth child, Charlie. When parents Amy and Bob return to work they put their latest addition in the care of her three older siblings.",
+  "actors": [
+    "Bridgit Mendler",
+    "Leigh-Allyn Baker",
+    "Bradley Steven Perry"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "22 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5NjUzMTcwNF5BMl5BanBnXkFtZTgwODE3NzQxMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

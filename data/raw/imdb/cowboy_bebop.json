@@ -1,0 +1,25 @@
+{
+  "title": "Cowboy Bebop",
+  "original_query": "Cowboy Bebop",
+  "imdb_id": "tt0213338",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+  "actors": [
+    "Kôichi Yamadera",
+    "Unshô Ishizuka",
+    "Megumi Hayashibara"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "24 min",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

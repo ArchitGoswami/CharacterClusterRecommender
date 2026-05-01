@@ -1,0 +1,23 @@
+{
+  "title": "Bookie",
+  "original_query": "Bookie",
+  "imdb_id": "tt22485826",
+  "type": "TV",
+  "year": 2023,
+  "year_end": 2025,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Follows a veteran bookie struggling to survive the impending legalization of sports gambling, increasingly unstable clients, family and co-workers.",
+  "actors": [
+    "Sebastian Maniscalco",
+    "Omar J. Dorsey",
+    "Jorge Garcia"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjU4N2IyNDYtZWViOC00YzFkLTk3OWEtNjkzZWIzZjEwY2RjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

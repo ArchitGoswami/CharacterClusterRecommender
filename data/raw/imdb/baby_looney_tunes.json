@@ -1,0 +1,25 @@
+{
+  "title": "Baby Looney Tunes",
+  "original_query": "Baby Looney Tunes",
+  "imdb_id": "tt0338580",
+  "type": "TV",
+  "year": 2001,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The characters of Looney Tunes are all babies and live with Granny.",
+  "actors": [
+    "Sam Vincent",
+    "Terry Klassen",
+    "Britt McKillip"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE1ZWZjNzItNjQ3Ni00ODhlLThkZTgtZGViMTU4MzdhMGE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Blue Heelers",
+  "original_query": "Blue Heelers",
+  "imdb_id": "tt0108709",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 2006,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "The series primarily focuses on the daily lives of Victorian police officers working at a police station in the fictional small town of Mount Thomas.",
+  "actors": [
+    "Julie Nihill",
+    "John Wood",
+    "Martin Sacks"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzc5MzMwZGEtZjM3YS00NTU3LTk4ZjMtN2FhMmE3MDU2NTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

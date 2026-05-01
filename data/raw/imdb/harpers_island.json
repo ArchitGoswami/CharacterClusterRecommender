@@ -1,0 +1,25 @@
+{
+  "title": "Harper's Island",
+  "original_query": "Harper's Island",
+  "imdb_id": "tt1232320",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "plot": "Harper's Island was once the scene of a gruesome series of murders. Seven years later, family and friends gather on the island for a wedding, but one by one they begin to die.",
+  "actors": [
+    "Elaine Cassidy",
+    "Christopher Gorham",
+    "Matt Barr"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "40 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDEwZTIyNmItMDc5Yi00ZGVlLWJjYmEtMTZiMjJlNTJmN2NiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Blacklist",
+  "original_query": "Blacklist",
+  "imdb_id": "tt9892494",
+  "type": "TV",
+  "year": 2019,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "After his sister went missing, Traffic is offered to join \"Blacklist,\" a group of students who work together to stop the crimes and injustices in their school.",
+  "actors": [
+    "Korapat Kirdpan",
+    "Pawat Chittsawangdee",
+    "Wachirawit Ruangwiwat"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjI3OGVkYmMtNmYwOC00OWZhLTliYWMtZGRkNmVmYzkyYWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

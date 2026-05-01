@@ -1,0 +1,24 @@
+{
+  "title": "Coupling",
+  "original_query": "Coupling",
+  "imdb_id": "tt0237123",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2004,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "Six best friends talk about all aspects of sex and relationships on their never-ending quest to find true love.",
+  "actors": [
+    "Jack Davenport",
+    "Gina Bellman",
+    "Sarah Alexander"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2EzMTA4MjgtOTBiYS00NGI2LWJhYTQtYWUzZDI2YjI2NTJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Jane the Virgin",
+  "original_query": "Jane the Virgin",
+  "imdb_id": "tt3566726",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2019,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A young, devout Catholic woman discovers that she was accidentally artificially inseminated.",
+  "actors": [
+    "Gina Rodriguez",
+    "Andrea Navedo",
+    "Yael Grobglas"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "4 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjNjZWI4OWUtZDY3Yy00NDBhLWE3YjMtNzc2ZTVjMjRkOWFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

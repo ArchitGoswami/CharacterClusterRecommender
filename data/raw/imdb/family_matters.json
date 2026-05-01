@@ -1,0 +1,25 @@
+{
+  "title": "Family Matters",
+  "original_query": "Family Matters",
+  "imdb_id": "tt0096579",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 1998,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel.",
+  "actors": [
+    "Reginald VelJohnson",
+    "Jaleel White",
+    "Darius McCrary"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2YxNmI0NzgtMGM5Yi00YjJmLThjZmEtYTQ3ZTljYTU4MjdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

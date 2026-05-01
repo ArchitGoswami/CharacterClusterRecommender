@@ -1,0 +1,25 @@
+{
+  "title": "Get Blake!",
+  "original_query": "Get Blake!",
+  "imdb_id": "tt4573608",
+  "type": "TV",
+  "year": 2015,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "BLAKE MYERS is a fearless, adventure-seeking kid as he races headlong into all of life's experiences along with his best friend Mitch. What's impressive about Blake is that he lives for today, despite knowing the awesomeness that ...",
+  "actors": [
+    "Robbie Daymond",
+    "Spike Spencer",
+    "Tarah Consoli"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "22 min",
+  "imdb_rating": "5.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQwYjIyMjUtOGZlZC00MmI2LTlkYTctMDM0ZmI1NTc0NDU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Good Sam",
+  "original_query": "Good Sam",
+  "imdb_id": "tt11055882",
+  "type": "TV",
+  "year": 2022,
+  "year_end": null,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "Follows a talented yet stifled surgeon who embraces her leadership role after her renowned and pompous boss falls into a coma.",
+  "actors": [
+    "Sophia Bush",
+    "Jason Isaacs",
+    "Skye P. Marshall"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "6.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2RkOTg3YmMtYWIzZi00NzY1LWJkYmUtMWM5ZmIzNTliODQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

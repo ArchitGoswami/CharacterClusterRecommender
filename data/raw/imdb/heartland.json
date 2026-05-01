@@ -1,0 +1,24 @@
+{
+  "title": "Heartland",
+  "original_query": "Heartland",
+  "imdb_id": "tt1094229",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "plot": "A multi-generational saga set in Alberta, Canada and centered on a family getting through life together in both happy and trying times.",
+  "actors": [
+    "Amber Marshall",
+    "Michelle Morgan",
+    "Shaun Johnston"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "45 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjdmZjlmNGMtYjE1MC00NGNlLWI1OTYtYTcyOTY2ZGNlZjRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

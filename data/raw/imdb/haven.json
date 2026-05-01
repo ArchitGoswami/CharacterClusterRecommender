@@ -1,0 +1,25 @@
+{
+  "title": "Haven",
+  "original_query": "Haven",
+  "imdb_id": "tt1519931",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2015,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "Many in the coastal town of Haven, Maine have a dormant curse or \"trouble\" that could trigger at any time for any reason. FBI agent Audrey Parker, the sheriff and the town's black sheep must deal with the troubles' deadly effects.",
+  "actors": [
+    "Emily Rose",
+    "Lucas Bryant",
+    "Eric Balfour"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGU0YWVlZjgtZTI2My00MDVlLTg4NmMtZGNjZTQ2MjNjMWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

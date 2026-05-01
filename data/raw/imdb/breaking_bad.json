@@ -1,0 +1,25 @@
+{
+  "title": "Breaking Bad",
+  "original_query": "Breaking Bad",
+  "imdb_id": "tt0903747",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2013,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+  "actors": [
+    "Bryan Cranston",
+    "Aaron Paul",
+    "Anna Gunn"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "49 min",
+  "imdb_rating": "9.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "source": "omdb"
+}

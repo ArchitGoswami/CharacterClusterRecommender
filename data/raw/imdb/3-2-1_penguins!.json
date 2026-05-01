@@ -1,0 +1,25 @@
+{
+  "title": "3-2-1 Penguins!",
+  "original_query": "3-2-1 Penguins!",
+  "imdb_id": "tt1114703",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "3-2-1 Penguins. is a kids cartoon that teaches kids about the Bible and helps them learn different Bible verses with Zidgel, Midgel, Fidgel and Kevin with the help of Michelle and Jason.",
+  "actors": [
+    "Quinn Lord",
+    "Claire Margaret Corlett",
+    "Ellen Kennedy"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjcxNTk0ZDktYzE0OC00MWJiLWExZTEtN2E4OWIyZDgxYjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

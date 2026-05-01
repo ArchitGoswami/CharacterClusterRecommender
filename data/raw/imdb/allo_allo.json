@@ -1,0 +1,25 @@
+{
+  "title": "'Allo 'Allo!",
+  "original_query": "'Allo 'Allo!",
+  "imdb_id": "tt0086659",
+  "type": "TV",
+  "year": 1982,
+  "year_end": 1992,
+  "genres": [
+    "Comedy",
+    "History",
+    "War"
+  ],
+  "plot": "In France during World War II, René Artois runs a small café where Resistance fighters, Gestapo men, German Army officers and escaped Allied POWs interact daily, ignorant of one another's true identity or presence, exasperating René.",
+  "actors": [
+    "Gorden Kaye",
+    "Carmen Silvera",
+    "Vicki Michelle"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "45 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTllODA0ZjMtYTA0Yy00ODkwLWIzOTctNDc0OTZiNmFiY2JhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "In Plain Sight",
+  "original_query": "In Plain Sight",
+  "imdb_id": "tt0935095",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2012,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "U.S. Marshal Mary Shannon must hunt down witnesses for federal cases in the witness protection program while also managing a rather dysfunctional family and her own personal life.",
+  "actors": [
+    "Mary McCormack",
+    "Frederick Weller",
+    "Paul Ben-Victor"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "31S min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDQxNzM5NzU0OF5BMl5BanBnXkFtZTcwNDg0MjY0Mg@@._V1_SX300.jpg",
+  "source": "omdb"
+}

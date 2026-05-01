@@ -1,0 +1,23 @@
+{
+  "title": "Holby City",
+  "original_query": "Holby City",
+  "imdb_id": "tt0184122",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2022,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "British drama, following the everyday lives, professional and personal, of the doctors, nurses and patients who find themselves, for various reasons, in the wards of the frenetic cardiac unit of the fictional Holby City General Ho...",
+  "actors": [
+    "Hugh Quarshie",
+    "Rosie Marcel",
+    "Jaye Jacobs"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTg3ZThjYjMtMmRlYi00OGFhLWJjZGQtODg2ZWZjNjIzMjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

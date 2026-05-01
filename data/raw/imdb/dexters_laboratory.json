@@ -1,0 +1,25 @@
+{
+  "title": "Dexter's Laboratory",
+  "original_query": "Dexter's Laboratory",
+  "imdb_id": "tt0115157",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2003,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The misadventures of a boy genius and his annoying sister.",
+  "actors": [
+    "Kath Soucie",
+    "Jeff Bennett",
+    "Christine Cavanaugh"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE4ZmI4YzMtYTU4My00YTRiLWIzOGEtOWEzNWYxM2NjYzgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

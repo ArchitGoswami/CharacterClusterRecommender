@@ -1,0 +1,24 @@
+{
+  "title": "Cougar Town",
+  "original_query": "Cougar Town",
+  "imdb_id": "tt1441109",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2015,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "Follows the escapades and relationships of a group of neighbors living in Gulfhaven, Florida.",
+  "actors": [
+    "Courteney Cox",
+    "Christa Miller",
+    "Busy Philipps"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQyMDI2MDM5NF5BMl5BanBnXkFtZTgwOTcyNDE5MDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

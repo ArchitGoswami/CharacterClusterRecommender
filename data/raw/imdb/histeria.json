@@ -1,0 +1,25 @@
+{
+  "title": "Histeria!",
+  "original_query": "Histeria!",
+  "imdb_id": "tt0175738",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2000,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Edutainment animated series that parodies and satirizes history, pop culture and edutainment concept itself.",
+  "actors": [
+    "Frank Welker",
+    "Tress MacNeille",
+    "Laraine Newman"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQwNDcwNTMtNjUyNC00YWNmLWEwNjAtMjRlMzRlZDY4N2VjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

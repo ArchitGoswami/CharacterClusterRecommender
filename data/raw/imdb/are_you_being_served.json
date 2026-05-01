@@ -1,0 +1,23 @@
+{
+  "title": "Are You Being Served?",
+  "original_query": "Are You Being Served?",
+  "imdb_id": "tt0068040",
+  "type": "TV",
+  "year": 1972,
+  "year_end": 1985,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "The misadventures of the staff of a retail floor of a major department store.",
+  "actors": [
+    "Mollie Sugden",
+    "John Inman",
+    "Frank Thornton"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "31S min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDA4OGU2ZTgtZDM1MC00MmQ5LWE5YTAtYWRlZTliMjRkNTBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

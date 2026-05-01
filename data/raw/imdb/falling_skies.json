@@ -1,0 +1,25 @@
+{
+  "title": "Falling Skies",
+  "original_query": "Falling Skies",
+  "imdb_id": "tt1462059",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2015,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "Survivors of an alien attack on earth gather together to fight for their lives and fight back.",
+  "actors": [
+    "Noah Wyle",
+    "Drew Roy",
+    "Maxim Knight"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTM5NzBkMjgtODYzMC00NzNjLWI0MWYtYmViYzU2ZTVlMjgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

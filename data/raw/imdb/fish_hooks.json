@@ -1,0 +1,25 @@
+{
+  "title": "Fish Hooks",
+  "original_query": "Fish Hooks",
+  "imdb_id": "tt1725902",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2014,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Three friends attend a school for fish submerged in a pet shop.",
+  "actors": [
+    "Chelsea Kane",
+    "Kyle Massey",
+    "Justin Roiland"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "33S min",
+  "imdb_rating": "5.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJlZjdkMmUtMGJkOC00NzU1LWIyNmQtMjBhYTVlMDQ5OWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

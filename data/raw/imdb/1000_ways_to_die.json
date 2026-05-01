@@ -1,0 +1,25 @@
+{
+  "title": "1000 Ways to Die",
+  "original_query": "1000 Ways to Die",
+  "imdb_id": "tt1105711",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2012,
+  "genres": [
+    "Documentary",
+    "Comedy",
+    "Horror"
+  ],
+  "plot": "Several different deaths based on true stories.",
+  "actors": [
+    "Alisdair Simpson",
+    "Ron Perlman",
+    "Khyber Zaffarkhan"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "23 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzIyNDMxMTA1N15BMl5BanBnXkFtZTgwMzg5ODYxMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

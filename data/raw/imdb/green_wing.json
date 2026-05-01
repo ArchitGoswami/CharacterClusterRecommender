@@ -1,0 +1,24 @@
+{
+  "title": "Green Wing",
+  "original_query": "Green Wing",
+  "imdb_id": "tt0423661",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2007,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Funky hospital-based sketch-comedy-drama type show.",
+  "actors": [
+    "Sally Bretton",
+    "Oliver Chris",
+    "Olivia Colman"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "65 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZhNDY1OWUtYTJmZi00ZTMxLTljY2MtZjJlYzM3ZjFhN2JhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

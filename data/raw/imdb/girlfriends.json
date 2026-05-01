@@ -1,0 +1,25 @@
+{
+  "title": "Girlfriends",
+  "original_query": "Girlfriends",
+  "imdb_id": "tt0247102",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2008,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "A look at the lives, loves, and losses of four different women: Toni, Maya, Lynn, and Joan.",
+  "actors": [
+    "Tracee Ellis Ross",
+    "Golden Brooks",
+    "Persia White"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjE3NmY2ZGUtNzQ4Mi00YWIyLTg2MDMtMzMwNDQ2ZTU3OGZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

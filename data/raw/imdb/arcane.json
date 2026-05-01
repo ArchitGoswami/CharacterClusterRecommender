@@ -1,0 +1,25 @@
+{
+  "title": "Arcane",
+  "original_query": "Arcane",
+  "imdb_id": "tt11126994",
+  "type": "TV",
+  "year": 2021,
+  "year_end": 2024,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "actors": [
+    "Kevin Alejandro",
+    "Hailee Steinfeld",
+    "Ella Purnell"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "9.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Dragon Ball Z",
+  "original_query": "Dragon Ball Z",
+  "imdb_id": "tt0214341",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2003,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "With the help of the powerful Dragonballs, a team of fighters led by the saiyan warrior Goku defend the planet earth from extraterrestrial enemies.",
+  "actors": [
+    "Doc Harris",
+    "Christopher Sabat",
+    "Scott McNeil"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "17S min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "12 oz. Mouse",
+  "original_query": "12-oz Mouse",
+  "imdb_id": "tt0465774",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2020,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In this crudely animated series, a mouse performs odd jobs so he can buy more beer.",
+  "actors": [
+    "Matt Maiellaro",
+    "Adam Reed",
+    "Nick Weidenfeld"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "15 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTk3NWZlMjctNDQ1YS00MWFkLTljYTctNGZmZmM3MDliZjAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

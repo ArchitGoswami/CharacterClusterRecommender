@@ -1,0 +1,25 @@
+{
+  "title": "Father Brown",
+  "original_query": "Father Brown",
+  "imdb_id": "tt2215842",
+  "type": "TV",
+  "year": 2013,
+  "year_end": null,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "In the early 1950s, Father Brown, a Roman Catholic priest based in the fictional Cotswold village of Kembleford, uses his distinctive skills to solve various crimes.",
+  "actors": [
+    "Mark Williams",
+    "John Burton",
+    "Sorcha Cusack"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "43S min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDI5YTA0MDQtMmMyZi00NGQ4LWIyNzMtZWViZWU1NmY1ZWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

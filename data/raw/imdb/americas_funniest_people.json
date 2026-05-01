@@ -1,0 +1,24 @@
+{
+  "title": "America's Funniest People",
+  "original_query": "America's Funniest People",
+  "imdb_id": "tt0098741",
+  "type": "TV",
+  "year": 1990,
+  "year_end": 1994,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "A TV show that presents home videos of weird people doing all kinds of funny things.",
+  "actors": [
+    "Lindsay Ridgeway",
+    "Dave Coulier",
+    "Shannon Ratigan"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "4.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM5ZDZjZjItNjRmZS00ZTg3LWJmODYtODdlYzVkMTkwYWYxXkEyXkFqcGdeQXVyNjUyNTE0NTY@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Assy McGee",
+  "original_query": "Assy McGee",
+  "imdb_id": "tt0795065",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "Animated cop drama satire focusing on a grizzled, short tempered cop and his straight man partner, the former of which is simply a lower male torso.",
+  "actors": [
+    "Larry Murphy",
+    "H. Jon Benjamin",
+    "Carl W. Adams"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "5.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU3YjU0MjktMDk5Zi00YzQ5LThhYzMtMjQ0NzQ2ZjM3YjQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Archer",
+  "original_query": "Archer",
+  "imdb_id": "tt1486217",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2023,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.",
+  "actors": [
+    "H. Jon Benjamin",
+    "Judy Greer",
+    "Amber Nash"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "22 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg3NTMwMzY2OF5BMl5BanBnXkFtZTgwMDcxMjQ0NDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

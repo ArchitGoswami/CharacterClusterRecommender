@@ -1,0 +1,24 @@
+{
+  "title": "Crusoe",
+  "original_query": "Crusoe",
+  "imdb_id": "tt1117552",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2009,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "The story follows the escapades of Crusoe, who embarks on a high-seas adventure and gets shipwrecked on a remote tropical island.",
+  "actors": [
+    "Sam Neill",
+    "Philip Winchester",
+    "Tongayi Chirisa"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgyNDc1MTUyM15BMl5BanBnXkFtZTcwNDExMzg5MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

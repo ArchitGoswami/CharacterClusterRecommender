@@ -1,0 +1,24 @@
+{
+  "title": "Fridays",
+  "original_query": "Fridays",
+  "imdb_id": "tt0080219",
+  "type": "TV",
+  "year": 1980,
+  "year_end": 1982,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "plot": "Live late-night comedy sketch show similar to \"Saturday Night Live.\"",
+  "actors": [
+    "Jack Burns",
+    "Brandis Kemp",
+    "Mark Blankfield"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "70 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2VmMDJiMTUtN2VlNi00NGU3LWIwZTQtODBlNjBiNWViNThlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "source": "omdb"
+}

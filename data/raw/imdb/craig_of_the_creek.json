@@ -1,0 +1,25 @@
+{
+  "title": "Craig of the Creek",
+  "original_query": "Craig of the Creek",
+  "imdb_id": "tt7713450",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2025,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "Craig of the Creek follows a young boy, Craig, and his two friends, Kelsey and JP, as they go on adventures within a world of untamed, kid-dominated wilderness in the creek.",
+  "actors": [
+    "Philip Solomon",
+    "Michael Croner",
+    "Noël Wells"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzNlNDgxOTItNzI1Yi00ZGQzLWJhMTctMTllNmEwYWNmYTcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

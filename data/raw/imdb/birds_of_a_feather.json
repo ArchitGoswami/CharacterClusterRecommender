@@ -1,0 +1,23 @@
+{
+  "title": "Birds of a Feather",
+  "original_query": "Birds of a Feather",
+  "imdb_id": "tt0096545",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 2020,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Comedy series following the lives of sisters Tracey and Sharon who are left to fend for themselves after their husbands are arrested for armed robbery.",
+  "actors": [
+    "Linda Robson",
+    "Lesley Joseph",
+    "Pauline Quirke"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "75 min",
+  "imdb_rating": "6.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTMwYTY3YTMtZjc2Ni00MTRkLTkxYzAtZDU4MmNkMWUyNWUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Aqua Teen Hunger Force",
+  "original_query": "Aqua Teen Hunger Force",
+  "imdb_id": "tt0297494",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2023,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "The misadventures of a milkshake, an order of fries, a meatball, and their retired next door neighbor in the suburbs of New Jersey.",
+  "actors": [
+    "Dave Willis",
+    "Carey Means",
+    "Dana Snyder"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "15 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwMzg5OTEwODJeQTJeQWpwZ15BbWU4MDgzOTU4MDMx._V1_SX300.jpg",
+  "source": "omdb"
+}

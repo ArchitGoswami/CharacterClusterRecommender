@@ -1,0 +1,24 @@
+{
+  "title": "America's Most Wanted: America Fights Back",
+  "original_query": "America's Most Wanted",
+  "imdb_id": "tt0094415",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 2021,
+  "genres": [
+    "Documentary",
+    "Crime"
+  ],
+  "plot": "True crimes are dramatized in hopes that viewers can give information leading to the capture of the criminals.",
+  "actors": [
+    "John Walsh",
+    "Daniel David Sim",
+    "Don LaFontaine"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjE4ZDhmY2YtM2Y0Zi00NTkyLWFhNzEtNWEwYjA5NTYzZDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

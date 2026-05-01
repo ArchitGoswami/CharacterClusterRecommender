@@ -1,0 +1,25 @@
+{
+  "title": "Dungeons & Dragons",
+  "original_query": "Dungeons & Dragons",
+  "imdb_id": "tt0085011",
+  "type": "TV",
+  "year": 1983,
+  "year_end": 1985,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A group of kids are thrown into a fantasy world where they must search for a way home, armed with magic weapons that an evil tyrant wants.",
+  "actors": [
+    "Willie Aames",
+    "Don Most",
+    "Adam Rich"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDc4YzU1ZTEtOTM0Yy00ZTNjLWIzODktZmMxNmFmYTc2MWQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

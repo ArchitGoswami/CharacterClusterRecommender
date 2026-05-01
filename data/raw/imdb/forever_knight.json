@@ -1,0 +1,25 @@
+{
+  "title": "Forever Knight",
+  "original_query": "Forever Knight",
+  "imdb_id": "tt0103417",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 1996,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "800-year-old vampire Nick Knight quests for redemption as a cop in Toronto, trying to hide his vampiric nature from the rest of the world.",
+  "actors": [
+    "Geraint Wyn Davies",
+    "Catherine Disher",
+    "Nigel Bennett"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDYzNTc2OTctMmRhOS00MzAzLTkxNjctMWJlNGZkZjM0Yjk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

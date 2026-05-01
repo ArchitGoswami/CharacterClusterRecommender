@@ -1,0 +1,25 @@
+{
+  "title": "Beauty and the Beast",
+  "original_query": "Beauty and the Beast",
+  "imdb_id": "tt2193041",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2016,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Romance"
+  ],
+  "plot": "A beautiful detective falls in love with an ex-soldier who goes into hiding from the secret government organization that turned him into a mechanically charged beast.",
+  "actors": [
+    "Kristin Kreuk",
+    "Jay Ryan",
+    "Nina Lisandrello"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3MzE1ODE4OF5BMl5BanBnXkFtZTcwODI0MTcyOA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

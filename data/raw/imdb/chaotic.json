@@ -1,0 +1,25 @@
+{
+  "title": "Chaotic",
+  "original_query": "Chaotic",
+  "imdb_id": "tt0850635",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "A group of friends find a portal to Perim, another worldly dimension, where Chaotic, a popular card game, is real.",
+  "actors": [
+    "Marc Thompson",
+    "Rebecca Soler",
+    "Andrew Rannells"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGM1ZjgyNDctYjhhMC00MzUyLTg5ZDAtMDA0M2YyOWQxZmM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

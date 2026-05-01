@@ -1,0 +1,23 @@
+{
+  "title": "Greg the Bunny",
+  "original_query": "Greg the Bunny",
+  "imdb_id": "tt0280257",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2004,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Greg the Bunny is one of the 3.2 million fabricated Americans living in the United States. Wanting a job that doesn't involve working only on Easter, he finds a job on a kid's show.",
+  "actors": [
+    "Eugene Levy",
+    "Seth Green",
+    "Bob Gunton"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUzOTg3OTI0Nl5BMl5BanBnXkFtZTcwMzY5ODYyMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

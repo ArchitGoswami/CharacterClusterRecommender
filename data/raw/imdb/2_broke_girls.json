@@ -1,0 +1,23 @@
+{
+  "title": "2 Broke Girls",
+  "original_query": "2 Broke Girls",
+  "imdb_id": "tt1845307",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2017,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Two young women waitressing at a greasy spoon diner strike up an unlikely friendship in the hopes of launching a successful business - if only they can raise the cash.",
+  "actors": [
+    "Kat Dennings",
+    "Beth Behrs",
+    "Garrett Morris"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_SX300.jpg",
+  "source": "omdb"
+}

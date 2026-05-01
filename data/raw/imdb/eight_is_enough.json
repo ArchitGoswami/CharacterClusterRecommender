@@ -1,0 +1,25 @@
+{
+  "title": "Eight Is Enough",
+  "original_query": "Eight is Enough",
+  "imdb_id": "tt0075500",
+  "type": "TV",
+  "year": 1977,
+  "year_end": 1981,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "This comedy drama focused on a family with eight very independent children.",
+  "actors": [
+    "Dick Van Patten",
+    "Lani O'Grady",
+    "Connie Needham"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "24S min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI3Njc2MDc5Nl5BMl5BanBnXkFtZTgwODQwMzkwMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

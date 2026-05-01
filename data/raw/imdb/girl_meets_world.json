@@ -1,0 +1,25 @@
+{
+  "title": "Girl Meets World",
+  "original_query": "Girl Meets World",
+  "imdb_id": "tt2543796",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2017,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "Cory and Topanga Matthews of Boy Meets World (1993) are married and have two children. Their daughter Riley faces life lessons through her family, friends, and school--where her father is her history teacher.",
+  "actors": [
+    "Rowan Blanchard",
+    "Sabrina Carpenter",
+    "Ben Savage"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "23 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc2NTAwMzgwOF5BMl5BanBnXkFtZTgwNTcxMTIwMjE@._V1_SX300.jpg",
+  "source": "omdb"
+}

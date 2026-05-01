@@ -1,0 +1,25 @@
+{
+  "title": "Intelligence",
+  "original_query": "Intelligence",
+  "imdb_id": "tt2693776",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "A high-tech intelligence operative, enhanced with a super-computer microchip in his brain, aids an elite government cyber-security agency in special missions.",
+  "actors": [
+    "Josh Holloway",
+    "Meghan Ory",
+    "John Billingsley"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "31S min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTk4OTM0NDI0NV5BMl5BanBnXkFtZTgwOTY4NjQ3MDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Horrid Henry",
+  "original_query": "Horrid Henry",
+  "imdb_id": "tt0985991",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2021,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "Horrible Henry, he lives an unfair life and feels that the rest of the world is against him and maintains a constant war with the adults.",
+  "actors": [
+    "Lizzie Waterworth",
+    "Tamsin Heatley",
+    "Emma Tate"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "11 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQxNWRmMTYtNGEwNi00MTcyLThhYmQtYWVlYzMzM2I1MWU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Jekyll",
+  "original_query": "Jekyll",
+  "imdb_id": "tt0497298",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Crime",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "plot": "Brilliant scientist Tom Jackman shares his body with a wicked alter ego while an ancient organization monitors their conflict. Tom uses technology to watch over his sinister half and keep his family safe, as a centuries-old plan u...",
+  "actors": [
+    "James Nesbitt",
+    "Gina Bellman",
+    "Denis Lawson"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "334 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTNmNjgxNTctMTg0Ni00NmVlLTg1Y2MtYjMyZDUxZGZmYTI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

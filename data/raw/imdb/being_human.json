@@ -1,0 +1,25 @@
+{
+  "title": "Being Human",
+  "original_query": "Being Human",
+  "imdb_id": "tt1349938",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2013,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "A vampire, a werewolf and a ghost live together as they deal with the challenges of being supernatural creatures.",
+  "actors": [
+    "Lenora Crichlow",
+    "Russell Tovey",
+    "Aidan Turner"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc0NjEzMTAyM15BMl5BanBnXkFtZTcwMTQ3NTM0Mw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

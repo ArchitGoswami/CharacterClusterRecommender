@@ -1,0 +1,25 @@
+{
+  "title": "Æon Flux",
+  "original_query": "Aeon Flux",
+  "imdb_id": "tt0111873",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "There is a mysterious and immoral secret agent from the country of Monica. Her motives and background remain unexplained, as do those of her antagonist/lover, Trevor Goodchild.",
+  "actors": [
+    "Denise Poirier",
+    "John Rafter Lee",
+    "Max Redmond"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTBiZWUwOTEtNDNlMy00Yjk3LTg5MTctNjgyZDYyZmNiYWY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

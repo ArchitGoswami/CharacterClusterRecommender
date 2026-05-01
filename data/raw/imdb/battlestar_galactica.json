@@ -1,0 +1,25 @@
+{
+  "title": "Battlestar Galactica",
+  "original_query": "Battlestar Galactica",
+  "imdb_id": "tt0407362",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2009,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+  "actors": [
+    "Edward James Olmos",
+    "Mary McDonnell",
+    "Jamie Bamber"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmMzYzdmNWMtM2ZmMi00Y2E2LWI5ZTMtYWJlNmJiMDgyYWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

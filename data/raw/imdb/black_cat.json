@@ -1,0 +1,25 @@
+{
+  "title": "Black Cat",
+  "original_query": "Black Cat",
+  "imdb_id": "tt1085074",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Action",
+    "Crime"
+  ],
+  "plot": "Train Heartnet is a famous assassin known as Black Cat. He works for Chronos, an organization that secretly controls the world.",
+  "actors": [
+    "Takashi Kondô",
+    "Keiji Fujiwara",
+    "Misato Fukuen"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "25 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ4YTc3YWYtNDdjNi00NmVjLWE0YTEtNTU2MDlkNjllYzBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

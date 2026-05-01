@@ -1,0 +1,25 @@
+{
+  "title": "Alias",
+  "original_query": "Alias",
+  "imdb_id": "tt0285333",
+  "type": "TV",
+  "year": 2001,
+  "year_end": 2006,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Sydney Bristow agrees to become an international spy for a secret branch of the CIA. The secrecy complicates her social and love lives, but it's nothing compared to what happens when she finds out her employer has no ties to the CIA.",
+  "actors": [
+    "Jennifer Garner",
+    "Ron Rifkin",
+    "Carl Lumbly"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWE1OTkzNTItNWY2Yy00MjY5LWI2ZDktOWQ4YjE5MWJmNzEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

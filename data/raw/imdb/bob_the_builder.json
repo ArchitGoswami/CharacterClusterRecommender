@@ -1,0 +1,25 @@
+{
+  "title": "Bob the Builder",
+  "original_query": "Bob the Builder",
+  "imdb_id": "tt0262151",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Bob Builder and his machine team are ready to tackle any project. Bob and Can-Do Crew demonstrate power of positive thinking, problem-solving, teamwork,.",
+  "actors": [
+    "Rob Rackstraw",
+    "Kate Harbour",
+    "Neil Morrissey"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "39S min",
+  "imdb_rating": "5.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzUyYTZhNDYtMTEzNS00N2FhLTg3ZWUtNGQ3ODI4NDY1YzNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

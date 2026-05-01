@@ -1,0 +1,25 @@
+{
+  "title": "Buck Rogers in the 25th Century",
+  "original_query": "Buck Rogers in the 25th Century",
+  "imdb_id": "tt0078579",
+  "type": "TV",
+  "year": 1979,
+  "year_end": 1981,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "plot": "20th century astronaut Buck Rogers emerges out of 500 years of suspended animation into the 25th century to become Earth's greatest hero and to explore the unknown reaches of deep space.",
+  "actors": [
+    "Gil Gerard",
+    "Erin Gray",
+    "Felix Silla"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNiMDQ3YjUtZGU1MC00NjYwLWIwMTQtOTk3MzQ1OTYxMTU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

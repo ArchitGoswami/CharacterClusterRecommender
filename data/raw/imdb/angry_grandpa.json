@@ -1,0 +1,25 @@
+{
+  "title": "The Angry Grandpa Show",
+  "original_query": "Angry Grandpa",
+  "imdb_id": "tt7493646",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2017,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Reality-TV"
+  ],
+  "plot": "This series follows a cranky old man by the name of Angry Grandpa and his chaotic - Over the top Adventures with his trouble-making son Pickleboy and Pickleboy's girlfriend Bridgette.",
+  "actors": [
+    "Charles Marvin Green Jr.",
+    "Micheal Green",
+    "Tina Marie Sharp"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjQwN2IxM2QtMjgwNS00ODNmLTgwMWItYzRkNzdlN2Y4OGI1XkEyXkFqcGdeQXVyNjQ2NjgwNzg@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bob Hearts Abishola",
+  "original_query": "Bob Hearts Abishola",
+  "imdb_id": "tt10329024",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2024,
+  "genres": [
+    "Short",
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "An American guy falls in love with his Nigerian nurse.",
+  "actors": [
+    "Billy Gardell",
+    "Folake Olowofoyeku",
+    "Gina Yashere"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "21 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDAxYzQ0MDctZGVkYi00YWU5LTlhZjctZmZmOTZlNjQxNTE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

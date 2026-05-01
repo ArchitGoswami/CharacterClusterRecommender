@@ -1,0 +1,25 @@
+{
+  "title": "Dinosaurs",
+  "original_query": "Dinosaurs",
+  "imdb_id": "tt0101081",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1994,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "This show follows the life of a family of dinosaurs, living in a modern world. They have televisions, refrigerators, et cetera. The only humans around are cavemen, who are viewed as pets and wild animals.",
+  "actors": [
+    "Stuart Pankin",
+    "Allan Trautman",
+    "Jessica Walter"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzlmYzRlZjUtZGM1NS00ODg3LWJhYjUtNzc5MGIyMGY3MjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

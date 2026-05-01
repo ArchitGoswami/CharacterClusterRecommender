@@ -1,0 +1,23 @@
+{
+  "title": "Curb Your Enthusiasm",
+  "original_query": "Curb Your Enthusiasm",
+  "imdb_id": "tt0264235",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2024,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Larry David stars as an over-the-top version of himself in this comedy series that shows how seemingly trivial details of day-to-day life can precipitate a catastrophic chain of events.",
+  "actors": [
+    "Larry David",
+    "Cheryl Hines",
+    "Jeff Garlin"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "28 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmFiZDY2ZDItZDliOC00Y2JhLTliMWYtODkzMTA0YmIwZDA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Celebrity Deathmatch",
+  "original_query": "Celebrity Deathmatch",
+  "imdb_id": "tt0208614",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "Celebrities duel it out in a wrestling ring, the first one who dies loses.",
+  "actors": [
+    "Maurice Schlafer",
+    "Len Maxwell",
+    "Mills Lane"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "25 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzkxYjgyNjYtMDU2ZS00ODNiLTljN2MtY2VkNWEwZDFiNDkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

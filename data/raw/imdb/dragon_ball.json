@@ -1,0 +1,25 @@
+{
+  "title": "Dragon Ball",
+  "original_query": "Dragon Ball",
+  "imdb_id": "tt0088509",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1989,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A young martial artist named Goku teams up with inventor Bulma and other quirky allies on a globe-trotting quest to find the seven Dragon Balls, mystical orbs that can summon a wish-granting dragon.",
+  "actors": [
+    "Masako Nozawa",
+    "Jôji Yanami",
+    "Hiromi Tsuru"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "24 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ0ZWE4NDYtYWY0Mi00MjE0LWI1MzctZDA1NGExYzE3N2FiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

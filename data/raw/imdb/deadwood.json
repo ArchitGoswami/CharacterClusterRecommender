@@ -1,0 +1,25 @@
+{
+  "title": "Deadwood",
+  "original_query": "Deadwood",
+  "imdb_id": "tt0348914",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2006,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "plot": "A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.",
+  "actors": [
+    "Timothy Olyphant",
+    "Ian McShane",
+    "Molly Parker"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "31S min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODFiMjBkNDMtN2I1NS00YWM3LTliNWEtMTg0NjVlN2I5YTNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

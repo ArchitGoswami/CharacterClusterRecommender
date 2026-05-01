@@ -1,0 +1,25 @@
+{
+  "title": "The Big O",
+  "original_query": "Big O",
+  "imdb_id": "tt0280240",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2003,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In a futuristic city with lost memories, an expert negotiator fights threats to the city with the help of an android and his own giant robot.",
+  "actors": [
+    "Mitsuru Miyamoto",
+    "Steve Blum",
+    "Akiko Yajima"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNiN2IyOTctMTg4Yi00NDc1LTk4ZWItMWZkZjljMGYyYTA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

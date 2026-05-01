@@ -1,0 +1,24 @@
+{
+  "title": "Dennis Miller Live",
+  "original_query": "Dennis Miller Live",
+  "imdb_id": "tt0108742",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 2002,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "plot": "A weekly talk/comedy show hosted by Dennis Miller. Each show starts off with a topical monologue typical of evening talk shows. After this, Dennis goes into \"The Rant\" in which he talks about some subject that bothers him, startin...",
+  "actors": [
+    "Dennis Miller",
+    "David Spade",
+    "Jon Stewart"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg2ODM4OTE1MF5BMl5BanBnXkFtZTcwMDkyMDAyMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Duck Dynasty",
+  "original_query": "Duck Dynasty",
+  "imdb_id": "tt2229907",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2017,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "plot": "Follows a wealthy Louisiana family known for their successful duck-hunting business.",
+  "actors": [
+    "Jase Robertson",
+    "Si Robertson",
+    "Willie Robertson"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjJkNWU0OTktOGNkYi00YWU1LWE1MTUtNmZlMWY5Yjk0MjgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

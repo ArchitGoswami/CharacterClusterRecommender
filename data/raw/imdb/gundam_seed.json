@@ -1,0 +1,25 @@
+{
+  "title": "Mobile Suit Gundam SEED",
+  "original_query": "Gundam Seed",
+  "imdb_id": "tt0374407",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2003,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The discovery of an advanced model of combat mecha on their space colony throws a young man and his friends into involvement in an interplanetary war as the crew of a powerful fighting ship.",
+  "actors": [
+    "Sôichirô Hoshi",
+    "Scott McNeil",
+    "John Novak"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "50 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTVmODgwZGItNzI5Yy00NGEwLWFiZWItMzk4MjkxZTJkNDgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

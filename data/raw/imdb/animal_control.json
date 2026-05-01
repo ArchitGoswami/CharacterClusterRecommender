@@ -1,0 +1,23 @@
+{
+  "title": "Animal Control",
+  "original_query": "Animal Control",
+  "imdb_id": "tt21376524",
+  "type": "TV",
+  "year": 2023,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A group of animal control workers begin to see their lives complicated by humans and not so much by animals.",
+  "actors": [
+    "Joel McHale",
+    "Vella Lovell",
+    "Michael Rowland"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDhmNDI1M2ItMjBhMC00NzFkLWE0M2QtM2U1NDg1MTJjNzA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

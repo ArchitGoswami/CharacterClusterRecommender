@@ -1,0 +1,25 @@
+{
+  "title": "China Beach",
+  "original_query": "China Beach",
+  "imdb_id": "tt0094433",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 1991,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "plot": "The trials of a weary nurse, her friends and colleagues in a Vietnam War field hospital.",
+  "actors": [
+    "Dana Delany",
+    "Marg Helgenberger",
+    "Brian Wimmer"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "120 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWFmZGIwYzctMWQxMy00NmZhLWEzMzUtMjJmMzAzY2YyM2VkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

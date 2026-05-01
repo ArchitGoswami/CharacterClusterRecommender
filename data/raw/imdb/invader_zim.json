@@ -1,0 +1,25 @@
+{
+  "title": "Invader ZIM",
+  "original_query": "Invader Zim",
+  "imdb_id": "tt0235923",
+  "type": "TV",
+  "year": 2001,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "An alien named Zim from the planet Irk is sent on a secret mission to conquer Earth, not realising that his leaders were just trying to get rid of him and hoped that he would die. Once there, Zim manages to disguise himself as a h...",
+  "actors": [
+    "Andy Berman",
+    "Richard Steven Horvitz",
+    "Rikki Simons"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "1 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAzNDRmODctMTBiMi00MTZkLTlhOGItN2Q1N2FhZGJjYTc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Friday the 13th: The Series",
+  "original_query": "Friday the 13th: The Series",
+  "imdb_id": "tt0092357",
+  "type": "TV",
+  "year": 1987,
+  "year_end": 1990,
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "plot": "Two young antique store owners must recover cursed antiques.",
+  "actors": [
+    "Louise Robey",
+    "Chris Wiggins",
+    "John D. LeMay"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "3 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDUyYjZlZjYtMDIxZS00MjI0LWEzM2QtYjMwMmJhN2E2ZGVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

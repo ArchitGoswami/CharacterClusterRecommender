@@ -1,0 +1,25 @@
+{
+  "title": "GLOW",
+  "original_query": "GLOW",
+  "imdb_id": "tt5770786",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2019,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "plot": "A look at the personal and professional lives of a group of women who perform for a wrestling organization in Los Angeles during the 1980s.",
+  "actors": [
+    "Alison Brie",
+    "Marc Maron",
+    "Betty Gilpin"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "35 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2RlNTc4NzMtNTNjZC00NWEyLTlhMWItMDdkM2E2ZTdkZWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

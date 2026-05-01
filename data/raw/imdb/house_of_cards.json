@@ -1,0 +1,24 @@
+{
+  "title": "House of Cards",
+  "original_query": "House of Cards",
+  "imdb_id": "tt1856010",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2018,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "plot": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+  "actors": [
+    "Kevin Spacey",
+    "Michel Gill",
+    "Robin Wright"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "51 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

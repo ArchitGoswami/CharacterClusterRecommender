@@ -1,0 +1,25 @@
+{
+  "title": "Detective Conan",
+  "original_query": "Detective Conan",
+  "imdb_id": "tt0131179",
+  "type": "TV",
+  "year": 1996,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "plot": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development.",
+  "actors": [
+    "Minami Takayama",
+    "Wakana Yamazaki",
+    "Hoang Khuyet"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "25 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNjMjVmODYtMGMzZi00MWUyLTk1ZDQtYzI2ZTk2MmYzYTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

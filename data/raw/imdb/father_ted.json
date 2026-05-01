@@ -1,0 +1,23 @@
+{
+  "title": "Father Ted",
+  "original_query": "Father Ted",
+  "imdb_id": "tt0111958",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 1998,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Three misfit priests and their housekeeper live on Craggy Island, not the peaceful and quiet part of Ireland that it seems to be.",
+  "actors": [
+    "Dermot Morgan",
+    "Ardal O'Hanlon",
+    "Frank Kelly"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NmMzNkZDAtYzEyMy00NzY2LTlhMmMtNzc2M2M5ZTk2MmY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

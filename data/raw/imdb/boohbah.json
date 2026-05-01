@@ -1,0 +1,24 @@
+{
+  "title": "Boohbah",
+  "original_query": "Boohbah",
+  "imdb_id": "tt0398429",
+  "type": "TV",
+  "year": 2003,
+  "year_end": null,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "As seen on ITV and Nick Jr UK, Boohbah is about five little sparkling atoms who love to dance. They encourage viewers at home to follow along.",
+  "actors": [
+    "Emma Insley",
+    "Alex Poulter",
+    "Cal Freestone"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "20 min",
+  "imdb_rating": "4.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2U1ZDdjZTAtNWNiOC00NDE1LThhNGUtMzA1ZTdhMzk3MzAzXkEyXkFqcGdeQXVyOTMwNTUwNTk@._V1_SX300.jpg",
+  "source": "omdb"
+}

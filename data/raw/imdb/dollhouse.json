@@ -1,0 +1,25 @@
+{
+  "title": "Dollhouse",
+  "original_query": "Dollhouse",
+  "imdb_id": "tt1135300",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2010,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "plot": "A top secret organization erases the identities of attractive young people, turning them into blank \"dolls\" ready for imprints of temporary identities they need to fulfill assignments for clients.",
+  "actors": [
+    "Eliza Dushku",
+    "Harry Lennix",
+    "Fran Kranz"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42S min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTFkNDliMDItMWFjOS00YTY1LWIzMjctOTU4ZTZlN2EwMWI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

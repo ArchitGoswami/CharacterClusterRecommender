@@ -1,0 +1,24 @@
+{
+  "title": "Donkey Hodie",
+  "original_query": "Donkey Hodie",
+  "imdb_id": "tt11749408",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Donkey Hodie follows the adventures of a little yellow donkey who dreams big. With perseverance, great pals, and a laugh along the way, there's nothing she can't do! Hee-haw!",
+  "actors": [
+    "Haley Jenkins",
+    "Frankie Cordero",
+    "David Rudman"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY0ZmYwY2QtZjAyMC00NDM3LWE3NmUtMmNjMmQ1NTRiNTgxXkEyXkFqcGdeQXVyMTMwMTg1ODQw._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Homicide: Life on the Street",
+  "original_query": "Homicide: Life on the Street",
+  "imdb_id": "tt0106028",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1999,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "An American police procedural television series chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+  "actors": [
+    "Richard Belzer",
+    "Clark Johnson",
+    "Yaphet Kotto"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "34S min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE0NjVhM2ItZTMzNi00M2QxLWEzZjctYzcxMTU2Y2QzMmEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

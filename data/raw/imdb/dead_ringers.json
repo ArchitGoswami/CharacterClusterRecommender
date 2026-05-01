@@ -1,0 +1,25 @@
+{
+  "title": "Dead Ringers",
+  "original_query": "Dead Ringers",
+  "imdb_id": "tt12923632",
+  "type": "TV",
+  "year": 2023,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "plot": "The Mantle twins, identical from head to toe, are on a mission to change the way women give birth.",
+  "actors": [
+    "Rachel Weisz",
+    "Britne Oldford",
+    "Poppy Liu"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQ0ZjNiYmYtYWE0Yy00NjBlLTgyNjUtZTlkZmQyZjc0OTUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

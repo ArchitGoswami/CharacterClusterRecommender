@@ -1,0 +1,25 @@
+{
+  "title": "H2O: Just Add Water",
+  "original_query": "H2O: Just Add Water",
+  "imdb_id": "tt0491603",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2010,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Three girls become mermaids after a mysterious island transforms them and gives them special powers.",
+  "actors": [
+    "Cariba Heine",
+    "Phoebe Tonkin",
+    "Angus McLaren"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk5Y2FjZjktM2FjMy00MTFkLTg5MTktZDBmMGI0MzM5YjE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

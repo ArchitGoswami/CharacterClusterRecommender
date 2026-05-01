@@ -1,0 +1,24 @@
+{
+  "title": "Happy Endings",
+  "original_query": "Happy Endings",
+  "imdb_id": "tt1587678",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2013,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.",
+  "actors": [
+    "Eliza Coupe",
+    "Elisha Cuthbert",
+    "Zachary Knighton"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjE0NTQyOTM5OF5BMl5BanBnXkFtZTcwOTYyMTU2OA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

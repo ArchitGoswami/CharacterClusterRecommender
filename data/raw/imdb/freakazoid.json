@@ -1,0 +1,25 @@
+{
+  "title": "Freakazoid!",
+  "original_query": "Freakazoid!",
+  "imdb_id": "tt0111970",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 1997,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Washington, D.C. has a new defender: Freakazoid. The comedy and insanity never stop when he's around, and he's only one of the weird heroes of the series. It's better than a nice tub of good things.",
+  "actors": [
+    "Paul Rugg",
+    "Joe Leahy",
+    "Tress MacNeille"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE0NTRiODMtMTcwNi00YWUxLWEyOTEtNzhhNjljMzA5NTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Everybody Loves Raymond",
+  "original_query": "Everybody Loves Raymond",
+  "imdb_id": "tt0115167",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2005,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Ray Barone, a successful sports writer and family man, deals with a resentful brother and meddling parents who happen to live across the street.",
+  "actors": [
+    "Ray Romano",
+    "Patricia Heaton",
+    "Brad Garrett"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "17S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDczNTk4MGMtYjJlNi00MjViLTgxYmMtMTEwMWM1ZDUxMWUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Angelmouse",
+  "original_query": "Angelmouse",
+  "imdb_id": "tt0273329",
+  "type": "TV",
+  "year": 1999,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "Children's animated fantasy drama about the adventures of a young mouse who just happens to be an angel.",
+  "actors": [
+    "David Jason"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "5 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU2Njk2MTAxN15BMl5BanBnXkFtZTcwMDYwNzEyMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Coach",
+  "original_query": "Coach",
+  "imdb_id": "tt0096560",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 1997,
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "plot": "Hayden Fox is the head coach of a university football team, and eats, sleeps and lives football.",
+  "actors": [
+    "Craig T. Nelson",
+    "Jerry Van Dyke",
+    "Bill Fagerbakke"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmJmZTc4YWItYzhiZS00MTk4LTg4ZGQtZDk0ODU3Mzk4MGY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "3-2-1 Contact",
+  "original_query": "3-2-1 Contact",
+  "imdb_id": "tt0190169",
+  "type": "TV",
+  "year": 1980,
+  "year_end": 1992,
+  "genres": [
+    "Family"
+  ],
+  "plot": "A children's show explaining various principles of science and their applications.",
+  "actors": [
+    "David Quinn",
+    "Liz Moses",
+    "Leon W. Grant"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjUzNDE2MjItNGI4Yi00NGVkLWFmMTEtYjA5ODA2ZTA4M2Y4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "source": "omdb"
+}

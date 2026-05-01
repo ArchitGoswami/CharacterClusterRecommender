@@ -1,0 +1,23 @@
+{
+  "title": "Archie Bunker's Place",
+  "original_query": "Archie Bunker's Place",
+  "imdb_id": "tt0078562",
+  "type": "TV",
+  "year": 1979,
+  "year_end": 1983,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "The further misadventures of Archie Bunker, now the owner of a local pub, and his regulars.",
+  "actors": [
+    "Carroll O'Connor",
+    "Danielle Brisebois",
+    "Allan Melvin"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjgxOTc0MDA2Nl5BMl5BanBnXkFtZTcwNjg5NTEzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

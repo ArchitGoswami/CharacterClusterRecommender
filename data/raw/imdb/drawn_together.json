@@ -1,0 +1,24 @@
+{
+  "title": "Drawn Together",
+  "original_query": "Drawn Together",
+  "imdb_id": "tt0386180",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "A parody of reality shows cast with spoofs of several famous types of animated characters.",
+  "actors": [
+    "Adam Carolla",
+    "Jess Harnell",
+    "Abbey McBride"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "2 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWZiYzc0YTEtNjQxYy00Y2M2LTg4ZjUtNDhjYWM2MzFjZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

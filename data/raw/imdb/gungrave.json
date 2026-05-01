@@ -1,0 +1,25 @@
+{
+  "title": "Gungrave",
+  "original_query": "Gungrave",
+  "imdb_id": "tt0435961",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2004,
+  "genres": [
+    "Animation",
+    "Action",
+    "Crime"
+  ],
+  "plot": "Brandon, a passive man, lives a laid-back life until his friends are murdered. He joins the mafia to be near Maria, the woman he loves, enduring hardships but willing to risk everything to be with her.",
+  "actors": [
+    "Kirk Thornton",
+    "Lex Lang",
+    "Steve Blum"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "25 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjAzMTQxYmUtN2Q4Yy00NTJkLWFiZGItYmNhZjUzOGUxOTk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

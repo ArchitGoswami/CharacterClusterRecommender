@@ -1,0 +1,23 @@
+{
+  "title": "Everwood",
+  "original_query": "Everwood",
+  "imdb_id": "tt0318883",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2006,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A widowed brain surgeon from Manhattan moves his two children to the small mountain town of Everwood, Colorado.",
+  "actors": [
+    "Treat Williams",
+    "Gregory Smith",
+    "Emily VanCamp"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGZhNmUxNGUtNDhlYi00MDQyLWI2ZDktNTc5MDRmZjMxZDE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

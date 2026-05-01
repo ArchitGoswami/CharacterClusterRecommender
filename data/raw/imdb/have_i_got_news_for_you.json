@@ -1,0 +1,25 @@
+{
+  "title": "Have I Got News for You",
+  "original_query": "Have I Got News For You",
+  "imdb_id": "tt0098820",
+  "type": "TV",
+  "year": 1990,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Game-Show",
+    "News"
+  ],
+  "plot": "A news quiz show offering satirical and surreal comic observations on current events.",
+  "actors": [
+    "Ian Hislop",
+    "Paul Merton",
+    "Angus Deayton"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "29 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjU1YTg5ZWMtMzY2My00ODljLWFmYmEtMTFlOGUyMWU4YjBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

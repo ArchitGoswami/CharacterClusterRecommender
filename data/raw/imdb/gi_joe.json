@@ -1,0 +1,25 @@
+{
+  "title": "G.I. Joe",
+  "original_query": "G.I. Joe",
+  "imdb_id": "tt0086719",
+  "type": "TV",
+  "year": 1985,
+  "year_end": 1986,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "An elite special missions force fights against the terrorist forces of Cobra.",
+  "actors": [
+    "Jackson Beck",
+    "Christopher Collins",
+    "Michael Bell"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "1 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA1ZWRjOGUtOGY5NC00ZjVmLWFiMzEtODFiNjM0ZDcxZTc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

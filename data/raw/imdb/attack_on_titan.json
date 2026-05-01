@@ -1,0 +1,25 @@
+{
+  "title": "Attack on Titan",
+  "original_query": "Attack on Titan",
+  "imdb_id": "tt2560140",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2023,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In a world where humanity shelters behind towering walls from man-eating Titans, a determined teen joins the elite Survey Corps to fight the giants and uncover the secrets of their origin.",
+  "actors": [
+    "Jessie James Grelle",
+    "Bryce Papenbrook",
+    "Trina Nishimura"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "24 min",
+  "imdb_rating": "9.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+  "source": "omdb"
+}

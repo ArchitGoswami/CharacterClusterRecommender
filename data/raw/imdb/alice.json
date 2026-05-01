@@ -1,0 +1,25 @@
+{
+  "title": "Alice",
+  "original_query": "Alice",
+  "imdb_id": "tt1461312",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "Everything you know about Alice's Adventures in Wonderland is about to be turned upside down in this modern-day mini-series. The cast includes Kathy Bates, Caterina Scorsone, Matt Frewer, Harry Dean Stanton, and Tim Curry.",
+  "actors": [
+    "Caterina Scorsone",
+    "Andrew Lee Potts",
+    "Matt Frewer"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "17S min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDY5OGNjMjAtOWFiMi00Y2ViLTg4ZTItYWI0N2U5MzU1YzA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

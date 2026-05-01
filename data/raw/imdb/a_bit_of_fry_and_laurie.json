@@ -1,0 +1,23 @@
+{
+  "title": "A Bit of Fry and Laurie",
+  "original_query": "A Bit of Fry and Laurie",
+  "imdb_id": "tt0101049",
+  "type": "TV",
+  "year": 1987,
+  "year_end": 1995,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Comedians Stephen Fry and Hugh Laurie perform a variety of comedy skits and the occasional musical number.",
+  "actors": [
+    "Stephen Fry",
+    "Hugh Laurie",
+    "Deborah Norton"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQzOTY1ZTMtODY2MC00ZGViLWFjNTMtMDUxNzExZTg4MzM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

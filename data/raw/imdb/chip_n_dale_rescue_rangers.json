@@ -1,0 +1,25 @@
+{
+  "title": "Chip 'n' Dale Rescue Rangers",
+  "original_query": "Chip 'n Dale Rescue Rangers",
+  "imdb_id": "tt0096557",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 1990,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Chip and Dale are chipmunks that start a detective agency, Rescue Rangers, with their friends. The gang deals with crimes that are 'too small' for the police to manage.",
+  "actors": [
+    "Tress MacNeille",
+    "Corey Burton",
+    "Jim Cummings"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "22 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDcwZWZkNTYtMjY2Yy00MWRmLTg3MmQtNGQxYjIzMzU0ZTI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

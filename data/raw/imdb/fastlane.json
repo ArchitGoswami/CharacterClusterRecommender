@@ -1,0 +1,25 @@
+{
+  "title": "Fastlane",
+  "original_query": "Fastlane",
+  "imdb_id": "tt0320000",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2003,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "plot": "Two hotshot undercover cops and their equally tough female handler take down the highest and lowest criminals in L.A. in this pop-culture-heavy, dark, flashy, over-the-top action crime dramedy inspired by Bad Boys and Miami Vice.",
+  "actors": [
+    "Peter Facinelli",
+    "Bill Bellamy",
+    "Tiffani Thiessen"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRjMzdmZTYtZDQ5My00NDU3LWFjZGItNGQ1MTNhN2FlYjc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

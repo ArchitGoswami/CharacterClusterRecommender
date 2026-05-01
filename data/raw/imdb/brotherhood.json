@@ -1,0 +1,24 @@
+{
+  "title": "Brotherhood",
+  "original_query": "Brotherhood",
+  "imdb_id": "tt0457229",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2008,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Set in an Irish neighborhood in Providence, Rhode Island, the series revolves around two brothers on opposite sides of the law: one a gangster (Jason Isaacs) and the other a state politician (Jason Clarke).",
+  "actors": [
+    "Jason Isaacs",
+    "Jason Clarke",
+    "Annabeth Gish"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmExZTViMjktZjBmZi00NjgzLTk3MTYtZjM1YTMyMGIzMTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Diagnosis Murder",
+  "original_query": "Diagnosis Murder",
+  "imdb_id": "tt0105986",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 2001,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Dr. Mark Sloan has a knack for getting into trouble, negotiating the twists and turns of mysteries and solving crimes with the help of his son, Steve, a homicide detective.",
+  "actors": [
+    "Dick Van Dyke",
+    "Barry Van Dyke",
+    "Victoria Rowell"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGI0MGFkYTktYzFkOS00OWQzLWI1MmMtMWU0MWFlMDFmMDlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

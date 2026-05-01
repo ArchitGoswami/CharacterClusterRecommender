@@ -1,0 +1,25 @@
+{
+  "title": "Chuck",
+  "original_query": "Chuck",
+  "imdb_id": "tt0934814",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2012,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "When a computer geek inadvertently downloads critical government secrets into his brain, both the CIA and the NSA assign an agent to protect him and exploit his newfound skills.",
+  "actors": [
+    "Zachary Levi",
+    "Yvonne Strahovski",
+    "Joshua Gomez"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

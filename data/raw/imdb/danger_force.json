@@ -1,0 +1,25 @@
+{
+  "title": "Danger Force",
+  "original_query": "Danger Force",
+  "imdb_id": "tt11833388",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2024,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Captain Man has a new crew of superhero sidekicks - Danger Force. Captain Man and Schwoz create a fake school to train the kids to harness their uncontrollable superpowers to fight crime.",
+  "actors": [
+    "Cooper Barnes",
+    "Michael D. Cohen",
+    "Havan Flores"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "4.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWUxMGI1YzEtZTE4My00YTY1LWIzZTMtZTI1YTIzOTU5Y2E3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

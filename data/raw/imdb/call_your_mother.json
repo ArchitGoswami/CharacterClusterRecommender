@@ -1,0 +1,23 @@
+{
+  "title": "Call Your Mother",
+  "original_query": "Call Your Mother",
+  "imdb_id": "tt11058114",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "An empty-nester mom who wonders how she ended up alone while her children live their best lives thousands of miles away.",
+  "actors": [
+    "Kyra Sedgwick",
+    "Joey Bragg",
+    "Rachel Sennott"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "22 min",
+  "imdb_rating": "5.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQ0YzNlNWItMTk3ZC00YzM2LTg5NzEtMjA3N2JiMGExNGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Elite",
+  "original_query": "Elite",
+  "imdb_id": "tt7134908",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2024,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "plot": "When three low-income students are offered scholarships to attend an exclusive school, their affluent classmates react with distrust and hostility. The friction that ensues results in a murder, which irrevocably alters all of thei...",
+  "actors": [
+    "Omar Ayuso",
+    "Itzan Escamilla",
+    "Miguel Bernardeau"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTViZmMyNGUtZDhiMy00NGIxLTgzNzEtZmRhYjA4Y2E3NjIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

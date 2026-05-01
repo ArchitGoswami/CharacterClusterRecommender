@@ -1,0 +1,25 @@
+{
+  "title": "Hey Dude",
+  "original_query": "Hey Dude!",
+  "imdb_id": "tt0096610",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 1991,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "A group of friends work together with their boss at a dude ranch and go through many fun moments and mishaps along the way.",
+  "actors": [
+    "David Brisbin",
+    "Kelly Brown",
+    "Debi Kalman"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTA0ODlkMWEtZmVmZC00ZmIzLWFiMGYtOWZmZDIyMTE4MDRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Alice's Wonderland Bakery",
+  "original_query": "Alice's Wonderland Bakery",
+  "imdb_id": "tt14786700",
+  "type": "TV",
+  "year": 2022,
+  "year_end": 2024,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Alice, the great-granddaughter of the original Alice and a budding young baker at the enchanted Wonderland Bakery, where treats bring a new generation of characters together. Alice obtains her great grandmother's cookbook.",
+  "actors": [
+    "Jack Stanton",
+    "Cj Uy",
+    "Libby Rue"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "6.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjE1YmQ4NDctNGNiYS00ZjI0LWE5OGYtMTk4YmVhNjM1ZjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

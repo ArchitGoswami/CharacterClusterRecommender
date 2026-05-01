@@ -1,0 +1,24 @@
+{
+  "title": "Even Stevens",
+  "original_query": "Even Stevens",
+  "imdb_id": "tt0206511",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2003,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The Stevens family live in Sacramento, California, where the two younger children in the family, Ren and Louis, who have opposing personalities, often clash.",
+  "actors": [
+    "Shia LaBeouf",
+    "Christy Carlson Romano",
+    "A.J. Trauth"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "31S min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjIwYzJkZWYtMGQ4Ny00ODlkLTk4NTUtMGUzYzZjYzlhYzEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

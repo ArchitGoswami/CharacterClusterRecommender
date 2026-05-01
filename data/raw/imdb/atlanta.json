@@ -1,0 +1,25 @@
+{
+  "title": "Atlanta",
+  "original_query": "Atlanta",
+  "imdb_id": "tt4288182",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2022,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "plot": "Earn and his cousin Alfred try to make their way in the world through Atlanta's rap scene. Along the way they come face-to-face with social and economic issues touching on race, relationships, poverty, status, and parenthood.",
+  "actors": [
+    "Donald Glover",
+    "Brian Tyree Henry",
+    "LaKeith Stanfield"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAzMDdkZmEtN2QxMi00NGQ2LTg3MTEtYTBlMmNmYmJjOTc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

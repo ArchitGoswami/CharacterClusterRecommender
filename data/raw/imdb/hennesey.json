@@ -1,0 +1,23 @@
+{
+  "title": "Hennesey",
+  "original_query": "Hennesey",
+  "imdb_id": "tt0052473",
+  "type": "TV",
+  "year": 1959,
+  "year_end": 1962,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "United States Navy physician, Lt. Charles W. \"Chick\" Hennesey and Navy nurse Lt. Martha Hale are assigned to the hospital at the U.S. Naval Station in San Diego, California.",
+  "actors": [
+    "Jackie Cooper",
+    "Abby Dalton",
+    "Roscoe Karns"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg4Y2Q5MGItODQxOS00YjBkLThjODAtZTJkNzVjYjhkY2E5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

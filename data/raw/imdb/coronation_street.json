@@ -1,0 +1,25 @@
+{
+  "title": "Coronation Street",
+  "original_query": "Coronation Street",
+  "imdb_id": "tt0053494",
+  "type": "TV",
+  "year": 1960,
+  "year_end": null,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "British television soap opera which follows the everyday lives of working-class people in the fictional Weatherfield area of Manchester in England.",
+  "actors": [
+    "William Roache",
+    "Helen Worth",
+    "Barbara Knox"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "54S min",
+  "imdb_rating": "5.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTc3MjI4MzYtNmI2Ni00NmNmLWIyYTMtZGYwOGIzZDY3NDIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Hercules",
+  "original_query": "Hercules",
+  "imdb_id": "tt0138967",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "This spin-off of Disney's Hercules (1997) follows Hercules' many labors during the years he spent training how to be a hero under the tutelage of satyr Philoctetes. Olympian Gods and Goddesses, as well as Hades and Pegasus, often ...",
+  "actors": [
+    "Tate Donovan",
+    "French Stewart",
+    "Sandra Bernhard"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIyMDQwNDctNjJjZS00YjdiLTkyYTUtZDBjZGFmMjRhZjcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

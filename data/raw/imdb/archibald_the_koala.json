@@ -1,0 +1,25 @@
+{
+  "title": "Archibald the Koala",
+  "original_query": "Archibald the Koala",
+  "imdb_id": "tt2435022",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2000,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "On the secluded island of Rastepappe, a koala detective solves many problems involving his friends.",
+  "actors": [
+    "Richard Griffiths",
+    "Kate Robbins",
+    "Adrienne Posta"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQzN2ZjYzgtOWFkYi00NWZhLWI5MDQtYTE2M2ZhNzJlNjc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

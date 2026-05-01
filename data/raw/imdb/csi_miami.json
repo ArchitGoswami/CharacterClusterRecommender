@@ -1,0 +1,25 @@
+{
+  "title": "CSI: Miami",
+  "original_query": "CSI: Miami",
+  "imdb_id": "tt0313043",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2012,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "CSI spin-off, following an elite group of Crime Scene Investigators (CSIs) from the Miami-Dade Police Department (MDPD), who use advanced forensic science and methods to solve complex crimes in cross-cultural Miami, Florida.",
+  "actors": [
+    "David Caruso",
+    "Emily Procter",
+    "Adam Rodriguez"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "11S min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ1NDZjMzQtMmE3OC00NWQ1LWJiOTItZWNkNmZlNWRmMTc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

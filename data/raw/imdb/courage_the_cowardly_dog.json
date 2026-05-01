@@ -1,0 +1,25 @@
+{
+  "title": "Courage the Cowardly Dog",
+  "original_query": "Courage the Cowardly Dog",
+  "imdb_id": "tt0220880",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2002,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
+  "actors": [
+    "Marty Grabstein",
+    "Thea White",
+    "Peter Fernandez"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "33S min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzdiMWI4OGMtZDc2MC00NDllLTgyMWUtN2ZmZjVlYWFkYjQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

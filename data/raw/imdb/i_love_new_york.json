@@ -1,0 +1,23 @@
+{
+  "title": "I Love New York",
+  "original_query": "I Love New York",
+  "imdb_id": "tt0885435",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2020,
+  "genres": [
+    "Reality-TV"
+  ],
+  "plot": "The show is a contest between twenty men to compete for New York's heart. In the end she will find her true love.",
+  "actors": [
+    "Tiffany Pollard",
+    "Kamal Givens",
+    "Ahmad Givens"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "4.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU2MDAyMjcwMV5BMl5BanBnXkFtZTgwOTU3NzkwMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

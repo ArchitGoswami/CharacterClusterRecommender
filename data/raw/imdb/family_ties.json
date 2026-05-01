@@ -1,0 +1,25 @@
+{
+  "title": "Family Ties",
+  "original_query": "Family Ties",
+  "imdb_id": "tt0083413",
+  "type": "TV",
+  "year": 1982,
+  "year_end": 1989,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "Chronicles liberal ex-hippies Steven and Elyse Keaton, their conservative son Alex, daughters Mallory and Jennifer, and later, youngest child Andrew.",
+  "actors": [
+    "Michael J. Fox",
+    "Michael Gross",
+    "Meredith Baxter"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "2 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWZjZGJkZjMtNjg2Zi00ODRjLTliYzYtMWQzNTVkOWE0MDRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

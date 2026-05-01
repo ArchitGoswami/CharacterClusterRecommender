@@ -1,0 +1,25 @@
+{
+  "title": "Bear in the Big Blue House",
+  "original_query": "Bear in the Big Blue House",
+  "imdb_id": "tt0173664",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "A seven-foot-tall bear named Bear lives in The Big Blue House, with his friends as they teach a variety of subjects and lessons.",
+  "actors": [
+    "Noel MacNeal",
+    "Vicki Eibner",
+    "Peter Linz"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjdlMTRiM2UtMDFkOS00OTkxLTgxODAtNTk3MmUzM2U4ODRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

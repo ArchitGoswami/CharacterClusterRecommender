@@ -1,0 +1,25 @@
+{
+  "title": "Hey Arnold!",
+  "original_query": "Hey Arnold!",
+  "imdb_id": "tt0115200",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2004,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The everyday life of Arnold, a fourth-grader in the city of Hillwood, Washington, who lives in a multi-racial boarding house with his grandparents and a motley assortment of friends and neighbors.",
+  "actors": [
+    "Francesca Marie Smith",
+    "Jamil Walker Smith",
+    "Dan Castellaneta"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "15 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzhiYTYwM2QtNTlmNy00MGM1LTllM2UtOGJmZTUxMmJmZjdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

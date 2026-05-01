@@ -1,0 +1,25 @@
+{
+  "title": "Ghostbusters",
+  "original_query": "Ghostbusters",
+  "imdb_id": "tt0127569",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1987,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A squad of supernatural investigators are Earth's only defense against an evil ghost wizard and his minions.",
+  "actors": [
+    "Pat Fraley",
+    "Peter Cullen",
+    "Alan Oppenheimer"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "25 min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjg5ZmIwMjktMDFjYy00NDZhLWIxZTAtY2Q3MDhkMGQyYzRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

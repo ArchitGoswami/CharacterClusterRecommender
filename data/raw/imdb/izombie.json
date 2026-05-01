@@ -1,0 +1,25 @@
+{
+  "title": "iZombie",
+  "original_query": "iZombie",
+  "imdb_id": "tt3501584",
+  "type": "TV",
+  "year": 2015,
+  "year_end": 2019,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "A medical resident finds that being a zombie has its perks, which she uses to assist the police.",
+  "actors": [
+    "Rose McIver",
+    "Malcolm Goodwin",
+    "Rahul Kohli"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA0M2NiNTItZTY5OS00Yjk0LTk4MTktNDhhNTdhMDJjMjAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

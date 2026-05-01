@@ -1,0 +1,25 @@
+{
+  "title": "CoComelon Lane",
+  "original_query": "Cocomelon Lane",
+  "imdb_id": "tt15040002",
+  "type": "TV",
+  "year": 2023,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The adventures of JJ and his friends as they experience life as little kids.",
+  "actors": [
+    "Diana Tsoy",
+    "Cruze McKinnon",
+    "Sebastian Billingsley-Rodriguez"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "3.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGM5Yjc4ZjgtYmY3OS00ZWZhLWFkOTUtNzQ0MGE2MTYwN2JmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

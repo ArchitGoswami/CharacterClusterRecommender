@@ -1,0 +1,25 @@
+{
+  "title": "Baby Daddy",
+  "original_query": "Baby Daddy",
+  "imdb_id": "tt2177489",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2017,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "A 20-something bachelor bartender becomes an unlikely parent when an ex-girlfriend leaves a baby girl on his doorstep.",
+  "actors": [
+    "Jean-Luc Bilodeau",
+    "Derek Theler",
+    "Melissa Peterman"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "23S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdkYmM4N2MtZmNhMC00NTAyLWI0ZTAtMWQ3NjJkMzhlNzE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Jake 2.0",
+  "original_query": "Jake 2.0",
+  "imdb_id": "tt0367344",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2004,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "NSA computer technician Jake Foley is transformed into a secret agent after he is accidentally infected with nanobots, based on nanotechnology that reduce the size of a computer to the molecular level, which give him superhuman po...",
+  "actors": [
+    "Christopher Gorham",
+    "Philip Anthony-Rodriguez",
+    "Judith Scott"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjU0ZGU1OGQtYzU2OS00NzQ3LWFjM2QtOTBhY2FlZGZhNWI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

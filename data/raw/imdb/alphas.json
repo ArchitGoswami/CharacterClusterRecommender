@@ -1,0 +1,25 @@
+{
+  "title": "Alphas",
+  "original_query": "Alphas",
+  "imdb_id": "tt1183865",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2012,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "Follows a team of super-powered individuals, known as \"Alphas\", led by noted neurologist and psychiatrist Lee Rosen, as they investigate criminal cases involving other suspected Alpha for the U.S. Department of Defense.",
+  "actors": [
+    "David Strathairn",
+    "Ryan Cartwright",
+    "Warren Christie"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWU2YjFhN2EtMWEyYS00ZDQzLThjOTctODQ4Y2QxNzYwNzE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

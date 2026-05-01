@@ -1,0 +1,25 @@
+{
+  "title": "CatDog",
+  "original_query": "CatDog",
+  "imdb_id": "tt0154061",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The life and times of a cat and a dog with a unique twist: they're connected, literally. Adding to their dilemma is Cat's annoyance with Dog, mainly caused by Dog's stupidity and Cat's up-tight personality.",
+  "actors": [
+    "Jim Cummings",
+    "Tom Kenny",
+    "Carlos Alazraqui"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDIzNWIyZjItMzFkNS00M2NhLWFkMzAtNmYxYjZjMjAxYTY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

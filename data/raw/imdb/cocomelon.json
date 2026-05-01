@@ -1,0 +1,25 @@
+{
+  "title": "Cocomelon",
+  "original_query": "Cocomelon",
+  "imdb_id": "tt12427840",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2024,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "In the town of Cocomelon, baby JJ and his siblings go on fun every-day adventures with nursery, play, exploration, and learning - situations that any preschooler could relate to. Fun, relatable stories set to toe-tapping songs.",
+  "actors": [
+    "Ava Madison Gray",
+    "Kristen Princiotta",
+    "Jake Turner"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "3.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmM5OGI0YjAtZGFlMC00MThmLTgwM2MtZTdhYmQ3YzJlNmYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

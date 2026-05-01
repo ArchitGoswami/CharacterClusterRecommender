@@ -1,0 +1,25 @@
+{
+  "title": "Ben 10: Ultimate Alien",
+  "original_query": "Ben 10: Ultimate Alien",
+  "imdb_id": "tt1622696",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2012,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "With his secret identity now revealed to the world, Ben Tennyson continues to fight evil as a superhero with the help of the newly acquired Ultimatrix.",
+  "actors": [
+    "Yuri Lowenthal",
+    "Ashley Johnson",
+    "Dee Bradley Baker"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "31S min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIxMjZmNTQtNzkxZi00NTU5LThhOGYtODEyZGYyNDdkNTQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Boston Legal",
+  "original_query": "Boston Legal",
+  "imdb_id": "tt0402711",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2008,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Boston Legal is a spin-off of the long-running David E. Kelley series The Practice (1997), following the exploits of former Practice character Alan Shore (James Spader) at the legal firm of Crane, Poole, and Schmidt.",
+  "actors": [
+    "James Spader",
+    "William Shatner",
+    "Candice Bergen"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTNmMWI2ODYtNDNhYS00YWNlLWJhZGQtMzZlMmMyMzYxNTcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

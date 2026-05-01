@@ -1,0 +1,25 @@
+{
+  "title": "Hex",
+  "original_query": "Hex",
+  "imdb_id": "tt0423668",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2005,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "Cassie is a shy and lonely student who is only really loved by her best friend Thelma.",
+  "actors": [
+    "Jemima Rooper",
+    "Jamie Davis",
+    "Amber Sainsbury"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "105 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjg2YmY0NmUtYTZiNy00OTFmLThkZDktMjU4M2EyNjU4N2E5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

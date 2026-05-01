@@ -1,0 +1,24 @@
+{
+  "title": "Gossip Girl",
+  "original_query": "Gossip Girl",
+  "imdb_id": "tt0397442",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2012,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "Narrated by a mysterious vicious blogger, this show follows a set of wealthy teenagers through their day-to-day scandalous lives as Manhattans Elite, and how they betray each other for each other's gain.",
+  "actors": [
+    "Blake Lively",
+    "Leighton Meester",
+    "Penn Badgley"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDljNzZmMGMtM2FmNC00ZTkzLTg2OTctNDAxZGViYjVlYjAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

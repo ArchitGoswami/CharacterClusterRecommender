@@ -1,0 +1,25 @@
+{
+  "title": "Fringe",
+  "original_query": "Fringe",
+  "imdb_id": "tt1119644",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2013,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "plot": "An F.B.I. agent is forced to work with an institutionalized scientist and his son in order to rationalize a brewing storm of unexplained phenomena.",
+  "actors": [
+    "Anna Torv",
+    "Joshua Jackson",
+    "John Noble"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "2 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWVlMmE1MmEtNjhjMC00MDdmLWIzZGMtNjc1YTZmNDc2MWExXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Dog City",
+  "original_query": "Dog City",
+  "imdb_id": "tt0120949",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 1994,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The adventures of a canine private eye while he confers with his animator who has his own problems to deal with.",
+  "actors": [
+    "Ron White",
+    "Elizabeth Hanna",
+    "Kevin Clash"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "23 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM5OTkxOTI2MF5BMl5BanBnXkFtZTcwNjI1NDQzMw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

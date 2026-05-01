@@ -1,0 +1,23 @@
+{
+  "title": "It's Always Sunny in Philadelphia",
+  "original_query": "It's Always Sunny in Philadelphia",
+  "imdb_id": "tt0472954",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia.",
+  "actors": [
+    "Charlie Day",
+    "Glenn Howerton",
+    "Rob Mac"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "22 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTFiMDg5ZTItNWU2Ni00YzJlLWE4NTQtZjUwNWFhOTViYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

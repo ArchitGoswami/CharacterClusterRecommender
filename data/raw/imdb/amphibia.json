@@ -1,0 +1,25 @@
+{
+  "title": "Amphibia",
+  "original_query": "Amphibia",
+  "imdb_id": "tt8050740",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2022,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Ordinary Anne Boonchuy, 13, finds a music box that sends her to Amphibia, a world full of frogs, toads, and giant insects. With help from Sprig, she must adjust to life in Amphibia and discover the first true friendship in her life.",
+  "actors": [
+    "Brenda Song",
+    "Justin Felbinger",
+    "Bill Farmer"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2Q2ZDgzNTEtZTM4Ni00YmNjLWJiNzItMGQxMTgzMTM4MzI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

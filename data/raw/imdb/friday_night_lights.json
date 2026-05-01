@@ -1,0 +1,24 @@
+{
+  "title": "Friday Night Lights",
+  "original_query": "Friday Night Lights",
+  "imdb_id": "tt0758745",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2011,
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "plot": "A drama that follows the lives of the Dillon Panthers, one of the nation's best high school football teams, and their head coach Eric Taylor.",
+  "actors": [
+    "Kyle Chandler",
+    "Connie Britton",
+    "Zach Gilford"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzMxNzQwODItNDFiYy00YjFhLWJjMzUtYjc0Nzk5ZTI4ODA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

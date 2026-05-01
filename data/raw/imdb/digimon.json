@@ -1,0 +1,25 @@
+{
+  "title": "Digimon Adventure",
+  "original_query": "Digimon",
+  "imdb_id": "tt0210418",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2000,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A group of young teens is unexpectedly sent to the mysterious Digital World and paired up with their own powerful, morphing monster called the Digimon. Together the entire group set out on an adventure to fight evil and save the w...",
+  "actors": [
+    "Hiroaki Hirata",
+    "Joshua Seth",
+    "Toshiko Fujita"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "24 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmZjN2I2OGEtMzJkMS00Y2I2LWI0ZGQtMjExNzY0Mzk1YjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

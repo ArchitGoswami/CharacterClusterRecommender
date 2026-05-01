@@ -1,0 +1,23 @@
+{
+  "title": "Chelmsford 123",
+  "original_query": "Chelmsford 123",
+  "imdb_id": "tt0094432",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 1990,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Sitcom set in the town of Chelmsford, but in the year AD 123. The show mainly revolves around the power struggle between the newly appointed Roman Governor of Britain, Aulus Paulinus, and the scheming local British chieftain Badvoc.",
+  "actors": [
+    "Jimmy Mulville",
+    "Rory McGrath",
+    "Philip Pope"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM3MjMxNjE5Nl5BMl5BanBnXkFtZTgwNDg4OTc1NDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

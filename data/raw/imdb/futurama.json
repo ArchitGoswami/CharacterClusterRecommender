@@ -1,0 +1,25 @@
+{
+  "title": "Futurama",
+  "original_query": "Futurama",
+  "imdb_id": "tt0149460",
+  "type": "TV",
+  "year": 1999,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.",
+  "actors": [
+    "Billy West",
+    "John DiMaggio",
+    "Katey Sagal"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

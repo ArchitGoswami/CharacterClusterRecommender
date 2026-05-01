@@ -1,0 +1,24 @@
+{
+  "title": "House of Lies",
+  "original_query": "House of Lies",
+  "imdb_id": "tt1797404",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2016,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A charming management consultant and his crack team use every dirty trick in the book to woo powerful CEOs and close huge deals.",
+  "actors": [
+    "Don Cheadle",
+    "Kristen Bell",
+    "Ben Schwartz"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "28 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTIzZmFlZjQtMDQ5My00MmVjLTlkYWMtZTE2OTBjOTIwM2Q1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

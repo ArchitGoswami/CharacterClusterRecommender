@@ -1,0 +1,25 @@
+{
+  "title": "I Am Weasel",
+  "original_query": "I Am Weasel",
+  "imdb_id": "tt0218769",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 1999,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The adventures of a highly intelligent, talented and rather generous weasel and a stupid baboon who has no talent at most things.",
+  "actors": [
+    "Charlie Adler",
+    "Michael Dorn",
+    "Tom Kenny"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdkOTBlZGQtYTk1Mi00OWNlLWIxNmItZjlkOWMwMzgyYTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

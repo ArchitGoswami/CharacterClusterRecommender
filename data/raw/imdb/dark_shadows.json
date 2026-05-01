@@ -1,0 +1,25 @@
+{
+  "title": "Dark Shadows",
+  "original_query": "Dark Shadows",
+  "imdb_id": "tt0059978",
+  "type": "TV",
+  "year": 1966,
+  "year_end": 1971,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "plot": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
+  "actors": [
+    "Jonathan Frid",
+    "Grayson Hall",
+    "Alexandra Isles"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "36S min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmVjMDBjMzUtOWEzNy00NTAxLWJhNjgtNzA2MWMzMDI2ODVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Jericho",
+  "original_query": "Jericho",
+  "imdb_id": "tt0805663",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2008,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A small town in Kansas is literally left in the dark after seeing a mushroom cloud over nearby Denver, Colorado. The townspeople struggle to find answers about the blast and solutions on how to survive.",
+  "actors": [
+    "Skeet Ulrich",
+    "Lennie James",
+    "Ashley Scott"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "45 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU3ZTg3OWQtZWIwNi00ZGI3LWFmYzQtYWFmOTY1NWNhOWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

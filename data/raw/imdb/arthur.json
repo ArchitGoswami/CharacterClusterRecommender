@@ -1,0 +1,25 @@
+{
+  "title": "Arthur",
+  "original_query": "Arthur",
+  "imdb_id": "tt0169414",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2022,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Based on the books by Marc Brown, these are the adventures of Arthur, an 8-year-old aardvark, and his family and friends as they grow up and learn how to be good neighbors to one another.",
+  "actors": [
+    "Daniel Brochu",
+    "J.T. Turner",
+    "Jodie Resther"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjcyZWUyODUtM2YxMi00NmMwLTliMTctZjg1NjBhZTVkYTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

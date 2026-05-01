@@ -1,0 +1,24 @@
+{
+  "title": "60 Minutes",
+  "original_query": "60 Minutes",
+  "imdb_id": "tt0123338",
+  "type": "TV",
+  "year": 1968,
+  "year_end": null,
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "plot": "The classic long-running prime time TV investigative news magazine.",
+  "actors": [
+    "Andrew Rooney",
+    "Lesley Stahl",
+    "Steve Kroft"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwMmI5M2ItMDc4Zi00OGU4LTgyMzYtNDdiOWQ2YmM1MTIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

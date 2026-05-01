@@ -1,0 +1,24 @@
+{
+  "title": "Comedy Central Presents",
+  "original_query": "Comedy Central Presents",
+  "imdb_id": "tt0497480",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2011,
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "plot": "A television series featuring various stand-up comics.",
+  "actors": [
+    "Mike Birbiglia",
+    "Todd Barry",
+    "Lewis Black"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjE4ODY0MDc0OF5BMl5BanBnXkFtZTcwODA0OTE5MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

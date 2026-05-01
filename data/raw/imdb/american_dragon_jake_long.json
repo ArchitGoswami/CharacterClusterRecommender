@@ -1,0 +1,25 @@
+{
+  "title": "American Dragon: Jake Long",
+  "original_query": "American Dragon: Jake Long",
+  "imdb_id": "tt0429305",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A teenage slacker is given the ability to turn into the American Dragon and defend all mythical creatures that secretly reside in the human world.",
+  "actors": [
+    "Dante Basco",
+    "Charlie Finn",
+    "kittie KaBoom"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "46S min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI1NDE3MDItODU4ZC00Yjc2LWE4NzctMDI0MTE3Y2JiOGYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

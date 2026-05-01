@@ -1,0 +1,25 @@
+{
+  "title": "Camp Lakebottom",
+  "original_query": "Camp Lakebottom",
+  "imdb_id": "tt2492366",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2017,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "McGee sets out for summer camp but ends up on the wrong bus, where he meets Squirt and Gretchen. The bus ends up at Camp Lakebottom, a forgotten, weird place with adventures in store for the three friends and their enemy, Buttsquat.",
+  "actors": [
+    "Scott McCord",
+    "Darren Frost",
+    "Melissa Altro"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "22 min",
+  "imdb_rating": "5.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODExODA4N2ItODVhYi00NzVjLWE4MzUtNDljYzgxMzA1NWJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

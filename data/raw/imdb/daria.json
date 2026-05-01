@@ -1,0 +1,25 @@
+{
+  "title": "Daria",
+  "original_query": "Daria",
+  "imdb_id": "tt0118298",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2002,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A smart and cynical girl goes through teenage life as a proud outsider in a world of mainly idiotic adolescents and condescending adults.",
+  "actors": [
+    "Tracy Grandstaff",
+    "Wendy Hoopes",
+    "Julian Rebolledo"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI5OGJjMjMtOTE4OS00OTlmLTljODQtM2RiMDBjZTQ5ZWZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

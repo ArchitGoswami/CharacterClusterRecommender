@@ -1,0 +1,25 @@
+{
+  "title": "Aggretsuko",
+  "original_query": "Aggretsuko",
+  "imdb_id": "tt8019444",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2023,
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy"
+  ],
+  "plot": "Frustrated with her thankless office job, the 25-year-old red panda copes with her daily struggles by belting out heavy metal karaoke after work.",
+  "actors": [
+    "Kaolip",
+    "Shingo Kato",
+    "Rareko"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "15 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmJiMWI4YmMtMDg4Ny00YTNmLWFlZWMtYTMyMzE3ZDg1NWJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

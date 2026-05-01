@@ -1,0 +1,23 @@
+{
+  "title": "A Black Lady Sketch Show",
+  "original_query": "A Black Lady Sketch Show",
+  "imdb_id": "tt9698520",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2023,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A half-hour sketch comedy written by and starring Robin Thede.",
+  "actors": [
+    "Robin Thede",
+    "Gabrielle Dennis",
+    "Ashley Nicole Black"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjIwNWIyYjItYmQ5Mi00YTk2LThjMWItNDdlNzg3ZjgzZjUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

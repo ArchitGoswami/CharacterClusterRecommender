@@ -1,0 +1,25 @@
+{
+  "title": "Black Clover",
+  "original_query": "Black Clover",
+  "imdb_id": "tt7441658",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2021,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.",
+  "actors": [
+    "Dallas Reid",
+    "Gakuto Kajiwara",
+    "Jill Harris"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "24 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmZkZjNhMWMtM2U0Mi00MjdlLTk3NmMtMTMwZjgwOTJmODMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

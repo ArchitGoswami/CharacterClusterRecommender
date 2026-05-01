@@ -1,0 +1,25 @@
+{
+  "title": "Homeland",
+  "original_query": "Homeland",
+  "imdb_id": "tt1796960",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2020,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
+  "actors": [
+    "Claire Danes",
+    "Mandy Patinkin",
+    "Damian Lewis"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "55 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAwNTRmODktZDk5Ny00ZjMwLWFhMDUtOTdlOWNhNDMyZmNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

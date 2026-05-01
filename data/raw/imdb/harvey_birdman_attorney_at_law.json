@@ -1,0 +1,25 @@
+{
+  "title": "Harvey Birdman, Attorney at Law",
+  "original_query": "Harvey Birdman, Attorney at Law",
+  "imdb_id": "tt0294097",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy"
+  ],
+  "plot": "Third-rate superhero Harvey Birdman gets a new lease on life when he becomes a lawyer.",
+  "actors": [
+    "Gary Cole",
+    "Stephen Colbert",
+    "Thomas Michael Allen"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "15 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWI5OTA0OTEtYzZkNS00ZjE3LTgwYmItZmNhNGUzZGZlZDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

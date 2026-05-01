@@ -1,0 +1,25 @@
+{
+  "title": "Almost Human",
+  "original_query": "Almost Human",
+  "imdb_id": "tt2654580",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2014,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "In a not-so-distant future, a human cop and an android partner team up to serve and protect.",
+  "actors": [
+    "Karl Urban",
+    "Michael Ealy",
+    "Minka Kelly"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQ1NDQ3MjUxOF5BMl5BanBnXkFtZTgwMTY2MDczMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Hey Duggee",
+  "original_query": "Hey Duggee",
+  "imdb_id": "tt4291050",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Duggee looks after the Squirrels, who earn different badges on their adventures.",
+  "actors": [
+    "Alexander Armstrong",
+    "Sander Jones",
+    "Jasmine Bartholomew"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "7 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NjYxNjYxNV5BMl5BanBnXkFtZTgwMzc1Mzg1NDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Fantasy Island",
+  "original_query": "Fantasy Island",
+  "imdb_id": "tt0077008",
+  "type": "TV",
+  "year": 1977,
+  "year_end": 1984,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "The mysterious Mr. Roarke runs a unique resort island in the Pacific Ocean that can fulfill any fantasy, but they rarely turn out as expected.",
+  "actors": [
+    "Ricardo Montalban",
+    "Hervé Villechaize",
+    "Wendy Schaal"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjExMDcxMzkxNl5BMl5BanBnXkFtZTcwMDYwNDEzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

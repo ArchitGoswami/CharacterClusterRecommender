@@ -1,0 +1,25 @@
+{
+  "title": "FBI",
+  "original_query": "FBI",
+  "imdb_id": "tt7491982",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Follows the inner workings of the New York Field Office of the FBI, as they fight to keep New York City and the country safe.",
+  "actors": [
+    "Missy Peregrym",
+    "Zeeko Zaki",
+    "Jeremy Sisto"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjgyODBlZTctNmQ3MC00NTg1LTg4NDItY2YyNmVjODFmMmM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

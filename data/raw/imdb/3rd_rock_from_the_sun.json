@@ -1,0 +1,25 @@
+{
+  "title": "3rd Rock from the Sun",
+  "original_query": "3rd Rock from the Sun",
+  "imdb_id": "tt0115082",
+  "type": "TV",
+  "year": 1996,
+  "year_end": 2001,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Sci-Fi"
+  ],
+  "plot": "A group of aliens is sent to Earth, disguised as a human family, to experience and report life on the third planet from the sun.",
+  "actors": [
+    "John Lithgow",
+    "Jane Curtin",
+    "Kristen Johnston"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UxMzUzNzUtMzA0Ny00MWI1LWEwZjEtMjZhOWYzZGNiMDI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

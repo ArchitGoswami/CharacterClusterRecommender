@@ -1,0 +1,25 @@
+{
+  "title": "Graceland",
+  "original_query": "Graceland",
+  "imdb_id": "tt2393813",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2015,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "A rookie FBI agent is sent to a house for undercover agents in Southern California, where he is trained by a former legend FBI agent.",
+  "actors": [
+    "Daniel Sunjata",
+    "Aaron Tveit",
+    "Vanessa Ferlito"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzNjM5OTc5NV5BMl5BanBnXkFtZTgwMjExMTg5MTE@._V1_SX300.jpg",
+  "source": "omdb"
+}

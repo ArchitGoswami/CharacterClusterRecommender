@@ -1,0 +1,23 @@
+{
+  "title": "Fraidy Cat",
+  "original_query": "Fraidy Cat",
+  "imdb_id": "tt1470835",
+  "type": "TV",
+  "year": 1975,
+  "year_end": null,
+  "genres": [
+    "Animation"
+  ],
+  "plot": "Fraidy is a cat on his 9th and last life. When he says the numbers 1 through 8, the ghost from that past life shows up and tries to help him. All his ghost lives always goof up, getting him into more trouble. When he says 9, that ...",
+  "actors": [
+    "Alan Oppenheimer",
+    "Lennie Weinrib",
+    "Lou Scheimer"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "6 min",
+  "imdb_rating": "5.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTQ1YWQxODgtNDhjYy00NmVkLTg4ZDctNGU3OTdiN2I2ZjA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

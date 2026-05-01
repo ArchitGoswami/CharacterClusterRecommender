@@ -1,0 +1,25 @@
+{
+  "title": "Fruits Basket",
+  "original_query": "Fruits Basket",
+  "imdb_id": "tt9304350",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2021,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "After Tohru is taken in by the Soma family, she learns that twelve family members transform involuntarily into animals of the Chinese zodiac and helps them deal with the emotional pain caused by the transformations.",
+  "actors": [
+    "Manaka Iwami",
+    "Laura Bailey",
+    "Nobunaga Shimazaki"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "23 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmNjg3ZjMtZjQ0MS00NDE0LWE0MDctZTBjMDZiMWZhZTk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

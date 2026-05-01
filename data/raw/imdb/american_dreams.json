@@ -1,0 +1,25 @@
+{
+  "title": "American Dreams",
+  "original_query": "American Dreams",
+  "imdb_id": "tt0319930",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2005,
+  "genres": [
+    "Drama",
+    "Family",
+    "History"
+  ],
+  "plot": "In the 1960s, a family experiences life and the struggles of the era, accompanied by the well-known pop songs of the period.",
+  "actors": [
+    "Gail O'Grady",
+    "Tom Verica",
+    "Brittany Snow"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2VhZTY1M2UtYjg0Yi00ODY2LWIzOTAtMDU5NDAyZjRlNDVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

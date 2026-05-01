@@ -1,0 +1,25 @@
+{
+  "title": "Bobby's World",
+  "original_query": "Bobby's World",
+  "imdb_id": "tt0103373",
+  "type": "TV",
+  "year": 1990,
+  "year_end": 1998,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A boy named Bobby Generic creates adventures using his overactive imagination.",
+  "actors": [
+    "Howie Mandel",
+    "Gail Matthius",
+    "Tino Insana"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTUyYjlhNzItOTM2Yy00YzAxLWFhZTctYjJhOTM1N2NmNjM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

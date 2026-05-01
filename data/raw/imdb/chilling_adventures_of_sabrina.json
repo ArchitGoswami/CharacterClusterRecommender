@@ -1,0 +1,25 @@
+{
+  "title": "Chilling Adventures of Sabrina",
+  "original_query": "Chilling Adventures of Sabrina",
+  "imdb_id": "tt7569592",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2020,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "plot": "As her 16th birthday nears, Sabrina Spellman must reconcile her dual nature as a half-witch, half-mortal while fighting the evil forces that threaten her, her family, and the daylight world humans inhabit.",
+  "actors": [
+    "Kiernan Shipka",
+    "Ross Lynch",
+    "Lucy Davis"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTQyMDYwNDMyOV5BMl5BanBnXkFtZTgwMjM4NTIzNjM@._V1_SX300.jpg",
+  "source": "omdb"
+}

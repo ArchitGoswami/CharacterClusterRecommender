@@ -1,0 +1,25 @@
+{
+  "title": "Buffy the Vampire Slayer",
+  "original_query": "Buffy the Vampire Slayer",
+  "imdb_id": "tt0118276",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2003,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "A young woman, destined to slay vampires, demons and other infernal creatures, deals with her life fighting evil, with the help of her friends.",
+  "actors": [
+    "Sarah Michelle Gellar",
+    "Nicholas Brendon",
+    "Alyson Hannigan"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDk4MGVkNDAtZjQwZi00MDc3LWE4MmEtY2YyODQ2NDQyMjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

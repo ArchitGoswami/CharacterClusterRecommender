@@ -1,0 +1,25 @@
+{
+  "title": "Batman: The Brave and the Bold",
+  "original_query": "Batman: The Brave and the Bold",
+  "imdb_id": "tt1213218",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2011,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "An updated animated series centering on the Caped Crusader himself as he partners and deals with his fellow superheroes in the DC Comics universe.",
+  "actors": [
+    "Diedrich Bader",
+    "John DiMaggio",
+    "James Arnold Taylor"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "33S min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2FkYTQ2MzUtNWI1NC00MTM0LTgyNzYtMDM3NmE1OWYyNjRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Death Note",
+  "original_query": "Death Note",
+  "imdb_id": "tt0877057",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+  "actors": [
+    "Mamoru Miyano",
+    "Brad Swaile",
+    "Vincent Tong"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "24 min",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

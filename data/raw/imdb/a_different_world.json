@@ -1,0 +1,23 @@
+{
+  "title": "A Different World",
+  "original_query": "A Different World",
+  "imdb_id": "tt0092339",
+  "type": "TV",
+  "year": 1987,
+  "year_end": 1993,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A group of students at a historically Black university struggle to make it through college.",
+  "actors": [
+    "Lisa Bonet",
+    "Kadeem Hardison",
+    "Jasmine Guy"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTMwMzRlNzctMTVkNy00MzdhLWEzYzktNmViYjJlZDViMTBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

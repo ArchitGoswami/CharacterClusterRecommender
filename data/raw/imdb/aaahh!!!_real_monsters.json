@@ -1,0 +1,25 @@
+{
+  "title": "Aaahh!!! Real Monsters",
+  "original_query": "Aaahh!!! Real Monsters",
+  "imdb_id": "tt0108684",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1997,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The show takes us through the struggles of life as a child monster. Three monster friends are studying how to scare humans in school. Often, their attempts don't work out as planned.",
+  "actors": [
+    "Charlie Adler",
+    "Christine Cavanaugh",
+    "David Eccles"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGYwZWY4NjUtMWZiZS00ZjExLTgzYTEtNTc5ZjY5NzQ3YjhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

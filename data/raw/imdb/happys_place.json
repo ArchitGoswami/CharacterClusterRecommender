@@ -1,0 +1,24 @@
+{
+  "title": "Happy's Place",
+  "original_query": "Happy's Place",
+  "imdb_id": "tt31106862",
+  "type": "TV",
+  "year": 2024,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Bobbie (Reba) inherits a restaurant from her late father, then learns she must share ownership with a newly discovered half-sister, creating awkward tension between the two.",
+  "actors": [
+    "Reba McEntire",
+    "Belissa Escobedo",
+    "Melissa Peterman"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "5.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDYxOWJkNjYtYWZkOS00YTdhLWFmNTMtODc1OTg0MmVlMzYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Hardcastle and McCormick",
+  "original_query": "Hardcastle and McCormick",
+  "imdb_id": "tt0085029",
+  "type": "TV",
+  "year": 1983,
+  "year_end": 1986,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "A retired judge and his last defendant follow up on cases that were dismissed due to technicalities.",
+  "actors": [
+    "Brian Keith",
+    "Daniel Hugh Kelly",
+    "Joe Santos"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "32S min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MTczNDczM15BMl5BanBnXkFtZTcwMjgxMTMzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

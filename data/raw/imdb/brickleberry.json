@@ -1,0 +1,24 @@
+{
+  "title": "Brickleberry",
+  "original_query": "Brickleberry",
+  "imdb_id": "tt2022713",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "A group of never-do-well forest rangers are facing the shutdown of their National Park when a new ranger arrives to help transform them and save the park.",
+  "actors": [
+    "Daniel Tosh",
+    "Roger Black",
+    "David Herman"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "21S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTczNDI4NTc0OF5BMl5BanBnXkFtZTgwMjY5NjQxMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

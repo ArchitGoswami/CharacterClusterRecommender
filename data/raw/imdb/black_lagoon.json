@@ -1,0 +1,25 @@
+{
+  "title": "Black Lagoon",
+  "original_query": "Black Lagoon",
+  "imdb_id": "tt0962826",
+  "type": "TV",
+  "year": 2006,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A Japanese businessman, captured by modern-day pirates, is written off and left for dead by his company. Tired of the corporate life, he opts to stick with the mercenaries that kidnapped him, becoming part of their gang.",
+  "actors": [
+    "Megumi Toyoguchi",
+    "Daisuke Namikawa",
+    "Brad Swaile"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "54S min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzIxYzU5YWYtZjQ5OS00MGExLWIxMWEtZjEzMDM0M2YwM2FjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

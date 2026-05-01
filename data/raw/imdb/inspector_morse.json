@@ -1,0 +1,25 @@
+{
+  "title": "Inspector Morse",
+  "original_query": "Inspector Morse",
+  "imdb_id": "tt0092379",
+  "type": "TV",
+  "year": 1987,
+  "year_end": 2000,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Chief Inspector Morse has an ear for Western classical music, a taste for beer, and a nose for crime. He and Detective Sergeant Robert Lewis solve intriguing cases in and around the Oxford area.",
+  "actors": [
+    "John Thaw",
+    "Kevin Whately",
+    "James Grout"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "100 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ5OTMzNDQtMGNlMy00OWI3LTkwNjQtNjM3ZTA0NmZkZGUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

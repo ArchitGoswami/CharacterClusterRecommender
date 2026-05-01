@@ -1,0 +1,24 @@
+{
+  "title": "Family Guy",
+  "original_query": "Family Guy",
+  "imdb_id": "tt0182576",
+  "type": "TV",
+  "year": 1999,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+  "actors": [
+    "Seth MacFarlane",
+    "Alex Borstein",
+    "Seth Green"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "22 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

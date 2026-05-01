@@ -1,0 +1,23 @@
+{
+  "title": "Good Times",
+  "original_query": "Good Times",
+  "imdb_id": "tt0070991",
+  "type": "TV",
+  "year": 1974,
+  "year_end": 1979,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A poor African-American family make the best of things in the Chicago housing projects.",
+  "actors": [
+    "Ja'net DuBois",
+    "Ralph Carter",
+    "BernNadette Stanis"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzUwODYzOTQtZjlhZC00NzU3LWFkY2YtM2E4Yjc5OGU0YzU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

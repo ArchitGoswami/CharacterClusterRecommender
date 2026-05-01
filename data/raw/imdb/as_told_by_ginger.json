@@ -1,0 +1,25 @@
+{
+  "title": "As Told by Ginger",
+  "original_query": "As Told by Ginger",
+  "imdb_id": "tt0235911",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2016,
+  "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+  ],
+  "plot": "The TV cartoon follows a preteen girl named Ginger Foutley, along with two friends, as they try to fit in social life as well in school and try to avoid any embarrassments.",
+  "actors": [
+    "Melissa Disney",
+    "Jeannie Elias",
+    "Tress MacNeille"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFhNGNkNmYtYzE5MS00NjYxLWEwNTktNGYyMzc3NjE5NGYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

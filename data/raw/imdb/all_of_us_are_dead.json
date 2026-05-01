@@ -1,0 +1,25 @@
+{
+  "title": "All of Us Are Dead",
+  "original_query": "All Of Us Are Dead",
+  "imdb_id": "tt14169960",
+  "type": "TV",
+  "year": 2022,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out or turn into one of the rabid infected.",
+  "actors": [
+    "Park Ji-hu",
+    "Yoon Chan-young",
+    "Cho Yi-hyun"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDY4ZmZhNzMtNjdkMC00NTE3LWFjYzQtOGE4OTllOGY1NTk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "A Christmas Carol",
+  "original_query": "A Christmas Carol",
+  "imdb_id": "tt7686464",
+  "type": "TV",
+  "year": 2019,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "In Steven Knight's gothic adaptation of Charles Dickens' iconic ghost story, Ebenezer Scrooge experiences a dark night of the soul - past, present and future.",
+  "actors": [
+    "Guy Pearce",
+    "Andy Serkis",
+    "Stephen Graham"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDk4YTJiM2QtZTFhYS00ZjQ0LTg3YmUtZDY4MWQ1N2E2ODU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Frontline",
+  "original_query": "Frontline",
+  "imdb_id": "tt0133302",
+  "type": "TV",
+  "year": 1983,
+  "year_end": null,
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "plot": "FRONTLINE is investigative journalism that questions, explains and changes our world and American television's top long-form news and current affairs series since 1983.",
+  "actors": [
+    "Will Lyman",
+    "Sarah Childress",
+    "Priyanka Boghani"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmNhNTI1YjQtMWIzYS00YWNmLWIzYjUtOTU0NGFhZDdhMTdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

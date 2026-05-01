@@ -1,0 +1,23 @@
+{
+  "title": "Friday Night Dinner",
+  "original_query": "Friday Night Dinner",
+  "imdb_id": "tt1844923",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2020,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Two siblings share their Friday-night dinners at their parents' home and, somehow, something always goes wrong.",
+  "actors": [
+    "Tamsin Greig",
+    "Simon Bird",
+    "Paul Ritter"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "41S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE5NDRmODctYTAwYi00Zjg5LWFmMGItYWI3ZTAwNjI5Y2I4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

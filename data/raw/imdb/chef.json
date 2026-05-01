@@ -1,0 +1,23 @@
+{
+  "title": "Chef!",
+  "original_query": "Chef!",
+  "imdb_id": "tt0108723",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1996,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Famous chef Gareth Blackstock struggles with dividing time between wife Janice and the restaurant. It's a good thing he can let off steam with his remarks.",
+  "actors": [
+    "Lenny Henry",
+    "Roger Griffiths",
+    "Caroline Lee-Johnson"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFkOGRkMzgtYTFiZi00M2ZhLWJmMzktODU2ZTMwNTRhNmIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

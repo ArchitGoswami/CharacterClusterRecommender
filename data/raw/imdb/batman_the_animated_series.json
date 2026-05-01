@@ -1,0 +1,25 @@
+{
+  "title": "Batman: The Animated Series",
+  "original_query": "Batman: The Animated Series",
+  "imdb_id": "tt0103359",
+  "type": "TV",
+  "year": 1992,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Billionaire Bruce Wayne secretly operates as Batman, a vigilante who battles a rouges' gallery of criminals and supervillains in Gotham City with the aid of various sidekicks and allies.",
+  "actors": [
+    "Kevin Conroy",
+    "Loren Lester",
+    "Efrem Zimbalist Jr."
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "23 min",
+  "imdb_rating": "9.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

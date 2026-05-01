@@ -1,0 +1,24 @@
+{
+  "title": "Home Improvement",
+  "original_query": "Home Improvement",
+  "imdb_id": "tt0101120",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1999,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The daily trials and tribulations of Tim \"The Tool Man\" Taylor, a television show host raising three mischievous boys with help from his loyal co-host, loving wife, and eccentric neighbor.",
+  "actors": [
+    "Tim Allen",
+    "Patricia Richardson",
+    "Earl Hindman"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "22 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTc2ODgwNmEtMTk1Ni00ZDZiLWJkZDktMDA3MTE1MDcwODhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

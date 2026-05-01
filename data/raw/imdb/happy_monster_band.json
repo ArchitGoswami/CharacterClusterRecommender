@@ -1,0 +1,25 @@
+{
+  "title": "Happy Monster Band",
+  "original_query": "Happy Monster Band",
+  "imdb_id": "tt1073606",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "Playhouse Disney's fan-favorite group of monsters who perform songs about friendship, love, exercise, chores, and other preschool themes.",
+  "actors": [
+    "Rob Cantor",
+    "Joe Hawley",
+    "Zubin Sedghi"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "4 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGNjYWZhOGEtYjFjOC00ZjdkLTk3ODAtNzdiZTg5NWEzOTBhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "source": "omdb"
+}

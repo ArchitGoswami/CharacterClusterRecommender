@@ -1,0 +1,25 @@
+{
+  "title": "GoodFellas",
+  "original_query": "Goodfellas",
+  "imdb_id": "tt0099685",
+  "type": "Movie",
+  "year": 1990,
+  "year_end": null,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+  "actors": [
+    "Robert De Niro",
+    "Ray Liotta",
+    "Joe Pesci"
+  ],
+  "director": "Martin Scorsese",
+  "rated": "R",
+  "runtime": "145 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+  "source": "omdb"
+}

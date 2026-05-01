@@ -1,0 +1,25 @@
+{
+  "title": "Franklin & Bash",
+  "original_query": "Franklin & Bash",
+  "imdb_id": "tt1600199",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2014,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Lawyers and lifelong friends Jared Franklin and Peter Bash are recruited by a large firm's major partner after winning a high-profile case.",
+  "actors": [
+    "Mark-Paul Gosselaar",
+    "Breckin Meyer",
+    "Reed Diamond"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDNkMmM0ZTYtMDg3Yy00MjIxLWFhYWQtZmVmMDY0NTg3YmJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

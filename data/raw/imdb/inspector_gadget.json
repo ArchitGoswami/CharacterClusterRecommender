@@ -1,0 +1,25 @@
+{
+  "title": "Inspector Gadget",
+  "original_query": "Inspector Gadget",
+  "imdb_id": "tt0085033",
+  "type": "TV",
+  "year": 1983,
+  "year_end": 1985,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A bumbling cyborg inspector outfitted with an array of bizarre gadgets pursues the criminal organization M.A.D., all while his precocious niece and dog do the real investigative work.",
+  "actors": [
+    "Don Adams",
+    "Holly Berger",
+    "Frank Welker"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "44S min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjA4ZmI0MWEtMmFjNi00NDExLTk3ZDMtMTllMTRlYTk0OGRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

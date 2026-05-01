@@ -1,0 +1,24 @@
+{
+  "title": "Boardwalk Empire",
+  "original_query": "Boardwalk Empire",
+  "imdb_id": "tt0979432",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2014,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "plot": "An Atlantic City politician plays both sides of the law by conspiring with gangsters during the Prohibition era.",
+  "actors": [
+    "Steve Buscemi",
+    "Kelly Macdonald",
+    "Michael Shannon"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "55 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2MzODhjYTEtZTA2ZS00ZTRjLTlkZDYtNTBkNTdhNWJlMTYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

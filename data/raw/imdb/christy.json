@@ -1,0 +1,25 @@
+{
+  "title": "Christy",
+  "original_query": "Christy",
+  "imdb_id": "tt0108725",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1995,
+  "genres": [
+    "Drama",
+    "Family",
+    "History"
+  ],
+  "plot": "Christy tells the story of an idealistic nineteen year old who leaves the comforts of her city home to teach school in the impoverished Appalachian community of Cutter Gap, Tennessee in 1912.",
+  "actors": [
+    "Kellie Martin",
+    "Stewart Finlay-McLennan",
+    "Tyne Daly"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYyYWQxYzQtYzQzMy00MjMxLWE2YTQtNThlNThhNDU3MGFlXkEyXkFqcGdeQXVyMTE5Nzk5MzI@._V1_SX300.jpg",
+  "source": "omdb"
+}

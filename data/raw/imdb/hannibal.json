@@ -1,0 +1,25 @@
+{
+  "title": "Hannibal",
+  "original_query": "Hannibal",
+  "imdb_id": "tt2243973",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2015,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "plot": "Explores the early relationship between renowned psychiatrist Hannibal Lecter and a young FBI criminal profiler who is haunted by his ability to empathize with serial killers.",
+  "actors": [
+    "Hugh Dancy",
+    "Mads Mikkelsen",
+    "Caroline Dhavernas"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "44 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjBmYjdiMzItNTEwNi00YTI2LTg4YjctOTRjNDYxNTUxNGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

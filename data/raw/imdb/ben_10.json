@@ -1,0 +1,25 @@
+{
+  "title": "Ben 10",
+  "original_query": "Ben 10",
+  "imdb_id": "tt0760437",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The story of Ben Tennyson, a typical kid who becomes very atypical after he discovers the Omnitrix, a mysterious alien device with the power to transform the wearer into ten different alien species.",
+  "actors": [
+    "Tara Strong",
+    "Paul Eiding",
+    "Meagan Moore"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVjODZjNDgtYjk4ZS00OTg5LTg5NDQtZDMxZDQ4ZmM5MGJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

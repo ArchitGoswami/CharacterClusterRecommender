@@ -1,0 +1,24 @@
+{
+  "title": "Hey, Vern, It's Ernest!",
+  "original_query": "Hey Vern, It's Ernest!",
+  "imdb_id": "tt0193221",
+  "type": "TV",
+  "year": 1988,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Hey, Vern. Ernest is on Saturday morning. The series follows Ernest, and several other colorful characters having all sorts of wacky fun.",
+  "actors": [
+    "Jim Varney",
+    "Gailard Sartain",
+    "Mac Bennett"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI2MDM0MDY0MV5BMl5BanBnXkFtZTgwOTA5NTIxMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

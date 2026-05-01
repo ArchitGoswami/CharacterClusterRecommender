@@ -1,0 +1,25 @@
+{
+  "title": "Bordertown",
+  "original_query": "Bordertown",
+  "imdb_id": "tt4937942",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2020,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Quirky police detective, in Finland, delves into his memory palace to solve despicable crimes all the while trying to keep his family together. If Sherlock was based in Finland this would be it.",
+  "actors": [
+    "Ville Virtanen",
+    "Matleena Kuusniemi",
+    "Anu Sinisalo"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "2 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjU2NzM3YjEtYTg2MC00NDMzLWFiODItNWEwNDZjNTRlMzMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Brooklyn Nine-Nine",
+  "original_query": "Brooklyn Nine-Nine",
+  "imdb_id": "tt2467372",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2021,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "plot": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+  "actors": [
+    "Andy Samberg",
+    "Stephanie Beatriz",
+    "Terry Crews"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

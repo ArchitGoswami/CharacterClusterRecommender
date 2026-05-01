@@ -1,0 +1,24 @@
+{
+  "title": "After Life",
+  "original_query": "After Life",
+  "imdb_id": "tt8398600",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2022,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "After Tony's wife dies, his nice-guy persona is altered into an impulsive, devil-may-care attitude that takes his old world by storm.",
+  "actors": [
+    "Ricky Gervais",
+    "Tom Basden",
+    "Tony Way"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDVkNzU5ZjAtNjE5MC00YjBmLTk0NjAtYmFiOTk3MGIwZDlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

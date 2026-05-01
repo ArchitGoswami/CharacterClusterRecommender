@@ -1,0 +1,24 @@
+{
+  "title": "Corduroy",
+  "original_query": "Corduroy",
+  "imdb_id": "tt0373507",
+  "type": "TV",
+  "year": 2000,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "plot": "Corduroy and Lisa experience a world where diverse people and cultures live together.",
+  "actors": [
+    "Alisha Morrison",
+    "Asa Perlman",
+    "Camille James"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUyNjc5N2QtMmYyYi00MTA4LTkwODctMmZhZjRhMWMyZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

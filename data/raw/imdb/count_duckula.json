@@ -1,0 +1,25 @@
+{
+  "title": "Count Duckula",
+  "original_query": "Count Duckula",
+  "imdb_id": "tt0088500",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 1993,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The misadventures of a vegetarian vampire duck and his servants.",
+  "actors": [
+    "Barry Clayton",
+    "Jack May",
+    "Brian Trueman"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "22 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjIyZTdiM2EtNDhlYy00ZjBkLWE3MjAtMTYwZWVkNzgzNGIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

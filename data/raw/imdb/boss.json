@@ -1,0 +1,24 @@
+{
+  "title": "Boss",
+  "original_query": "Boss",
+  "imdb_id": "tt1833285",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2012,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "plot": "The Mayor of Chicago guides his city with a Machiavellian style.",
+  "actors": [
+    "Kelsey Grammer",
+    "Connie Nielsen",
+    "Hannah Ware"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjFmNDNjZTYtYTkzYS00MDMxLTljNWItOTdlMDNlNDcwNzM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

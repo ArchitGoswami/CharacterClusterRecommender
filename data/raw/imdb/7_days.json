@@ -1,0 +1,24 @@
+{
+  "title": "7 Days",
+  "original_query": "7 Days",
+  "imdb_id": "tt1773120",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "plot": "Two teams of three stand-up comedians take the news from the last 7 days and do what they do best - take the piss out of everything and everyone.",
+  "actors": [
+    "Jeremy Corbett",
+    "Paul Ego",
+    "Dai Henwood"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjM2YjEwNWQtZmQ4Mi00ZTc1LWFkMTctNjVhZDc5MmY1YmI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

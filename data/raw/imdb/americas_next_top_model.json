@@ -1,0 +1,24 @@
+{
+  "title": "America's Next Top Model",
+  "original_query": "America's Next Top Model",
+  "imdb_id": "tt0363307",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2018,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "plot": "A cyclical competition in which women from all over the U.S. compete for the honor of being America's next \"it girl\" in the modeling world.",
+  "actors": [
+    "Adrianne Curry",
+    "Yoanna House",
+    "Tyra Banks"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "42 min",
+  "imdb_rating": "5.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWE4NGFhZTItMGIwMy00MGNjLWE5MmQtYWZjM2JkMWRiZjk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

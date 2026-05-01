@@ -1,0 +1,25 @@
+{
+  "title": "Final Space",
+  "original_query": "Final Space",
+  "imdb_id": "tt6317068",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2021,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.",
+  "actors": [
+    "Fred Armisen",
+    "Tom Kenny",
+    "Olan Rogers"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTJiYjhlNTctZGY1OC00ZWI2LTlkYjgtODM2YjQ0ZDE0NDE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

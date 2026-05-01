@@ -1,0 +1,25 @@
+{
+  "title": "Grojband",
+  "original_query": "Grojband",
+  "imdb_id": "tt2406986",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.",
+  "actors": [
+    "Bryn McAuley",
+    "Sergio Di Zio",
+    "Lyon Smith"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "22 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZThiMDE0NjctNjlmOC00MjY3LThjYTktNWViZmNlODgyNDJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

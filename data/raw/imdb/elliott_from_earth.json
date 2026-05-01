@@ -1,0 +1,25 @@
+{
+  "title": "Elliott from Earth",
+  "original_query": "Elliott from Earth",
+  "imdb_id": "tt13914146",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Elliott, a human boy from Earth, is transported to the Centrium, where he meets all kinds of aliens.",
+  "actors": [
+    "Samuel Faraci",
+    "Noah Kaye Bentley",
+    "Naomi McDonald"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2JkMzRhYTQtYjZkOS00YzZiLTljOWEtNWY3Y2RiZWUzZjlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

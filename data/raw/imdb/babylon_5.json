@@ -1,0 +1,25 @@
+{
+  "title": "Babylon 5",
+  "original_query": "Babylon 5",
+  "imdb_id": "tt0105946",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1998,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "In the mid 23rd century, the Earth Alliance space station Babylon 5, located in neutral territory, is a major focal point for political intrigue, racial tensions and various wars over the course of five years.",
+  "actors": [
+    "Jerry Doyle",
+    "Mira Furlan",
+    "Andreas Katsulas"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTRmOWJjMWMtNDljOC00NzNlLWJhODItNjBjOGVkMDYxMzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

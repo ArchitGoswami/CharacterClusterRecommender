@@ -1,0 +1,25 @@
+{
+  "title": "Bravest Warriors",
+  "original_query": "Bravest Warriors",
+  "imdb_id": "tt2474952",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2018,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Four teenage heroes-for-hire warp through the universe to save adorable aliens and their worlds using the power of their emotions.",
+  "actors": [
+    "Liliana Mumy",
+    "John Omohundro",
+    "Ian Jones-Quartey"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "5 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQyZTZjMmEtNzAxYi00MDY2LWI5NTgtY2QxY2UzZDlkMTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

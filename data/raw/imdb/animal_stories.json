@@ -1,0 +1,24 @@
+{
+  "title": "Animal Stories",
+  "original_query": "Animal Stories",
+  "imdb_id": "tt1449882",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2002,
+  "genres": [
+    "Animation",
+    "Short",
+    "Biography"
+  ],
+  "plot": "Animal Stories takes a humorous look at the lives, loves and concerns of the animal kingdom, viewed from a child's perspective.",
+  "actors": [
+    "Nigel Hawthorne",
+    "Alan Marriott"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGM4Yzc5NDgtNGVkZi00M2MxLWI5MTEtNGZiM2Y4MWM0NjdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

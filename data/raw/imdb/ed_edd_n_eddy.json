@@ -1,0 +1,25 @@
+{
+  "title": "Ed, Edd n Eddy",
+  "original_query": "Ed, Edd n Eddy",
+  "imdb_id": "tt0184111",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The off-the-wall, day-to-day life of three friends who have exactly the same name.",
+  "actors": [
+    "Matt Hill",
+    "Sam Vincent",
+    "Tony Sampson"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWNmY2Y0MDUtMmM4Zi00NGEzLWI1MjEtMDUzYmM2MzFjNTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

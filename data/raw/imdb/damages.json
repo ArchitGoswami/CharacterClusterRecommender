@@ -1,0 +1,25 @@
+{
+  "title": "Damages",
+  "original_query": "Damages",
+  "imdb_id": "tt0914387",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2012,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A law school graduate becomes the protégée of a successful high-stakes litigator.",
+  "actors": [
+    "Glenn Close",
+    "Rose Byrne",
+    "Tate Donovan"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjJiZTAzYzgtMjFkYS00MzYwLTk3OTAtNmFkODFkOTUzZTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

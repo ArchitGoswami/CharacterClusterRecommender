@@ -1,0 +1,25 @@
+{
+  "title": "Codename: Kids Next Door",
+  "original_query": "Codename: Kids Next Door",
+  "imdb_id": "tt0312109",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The adventures of a group of ten-year-old friends who fight for the right to do everything that adults restrict from them.",
+  "actors": [
+    "Ben Diskin",
+    "Dee Bradley Baker",
+    "Lauren Tom"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTdkNmY4ZGMtZTk3YS00OWUxLTlmNTktZTAxNTg1MWM2YmM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

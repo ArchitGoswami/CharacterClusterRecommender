@@ -1,0 +1,8 @@
+{
+  "title": "John Doe",
+  "type": "TV",
+  "year": null,
+  "genres": [],
+  "source": "omdb_failed",
+  "omdb_lookup_failed": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Eureka",
+  "original_query": "Eureka",
+  "imdb_id": "tt0796264",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2012,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A U.S. Marshal becomes the sheriff of Eureka, a remote, cozy little Northwestern town where the best minds in the US have secretly been tucked away to build futuristic inventions for the government which often go disastrously wrong.",
+  "actors": [
+    "Colin Ferguson",
+    "Salli Richardson-Whitfield",
+    "Erica Cerra"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDNlZjFhYWUtYTM0My00ZjQ1LWJhYzktYzM4ZWQ5Yzk3NjEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

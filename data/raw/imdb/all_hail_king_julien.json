@@ -1,0 +1,25 @@
+{
+  "title": "All Hail King Julien",
+  "original_query": "All Hail King Julien",
+  "imdb_id": "tt3807022",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2017,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Animated misadventures of a hard-partying lemur and his wild friends in Madagascar.",
+  "actors": [
+    "Danny Jacobs",
+    "Andy Richter",
+    "Kevin Michael Richardson"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcwNDM2Nzc5NV5BMl5BanBnXkFtZTgwNDA3NjY4MzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

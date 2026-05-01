@@ -1,0 +1,25 @@
+{
+  "title": "All That",
+  "original_query": "All That",
+  "imdb_id": "tt0111875",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 2020,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "plot": "A zany sketch comedy featuring many wacky characters hosted for kids and by kids.",
+  "actors": [
+    "Amanda Bynes",
+    "Nick Cannon",
+    "Kenan Thompson"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjU4Yjc4YmItNGM1MC00NjEzLTk5MTItMjc3NjljNWZmMjViXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

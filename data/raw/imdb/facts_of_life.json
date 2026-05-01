@@ -1,0 +1,24 @@
+{
+  "title": "Facts of Life",
+  "original_query": "Facts of Life",
+  "imdb_id": "tt8032308",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A modern-day series centered around Mr. Parker and four boys, whose lives change and the series of events unfold the true meaning of love, caring, learning lessons, family and brotherhood.",
+  "actors": [
+    "Jac Carrera",
+    "Gabriel S. Gonzalez Jr.",
+    "Joshua Packard",
+    "Taj"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "N/A",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGI2OTBmOGYtOTFmMS00OGUzLTlhNzUtNDI3YWQ4NzE2N2I2XkEyXkFqcGdeQXVyNjM0MjcyMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Danny Phantom",
+  "original_query": "Danny Phantom",
+  "imdb_id": "tt0366005",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A 14-year-old receives ghost powers and uses them to save the world.",
+  "actors": [
+    "David Kaufman",
+    "Grey DeLisle",
+    "Rickey D'Shon Collins"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjJlNzc4ODktOGVjYS00MTJkLTgzZTYtZGViMDNlNmM2MGE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

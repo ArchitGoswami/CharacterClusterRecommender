@@ -1,0 +1,24 @@
+{
+  "title": "It's a Miracle",
+  "original_query": "It's a Miracle",
+  "imdb_id": "tt0197161",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2004,
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "plot": "True stories about miracles still exist.",
+  "actors": [
+    "Richard Thomas",
+    "Nia Peeples",
+    "Ally Downs"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M4ODhmNzAtZjdjZi00OGJiLWIzYTctNTZlZmE3OWQyMjUyXkEyXkFqcGdeQXVyMjAxNTI3OTQ@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Aquarion",
+  "original_query": "Aquarion",
+  "imdb_id": "tt35602116",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Romance"
+  ],
+  "plot": "",
+  "actors": [
+    "Takuma Terashima",
+    "Yumi Kakazu",
+    "Toshiyuki Morikawa"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "N/A",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTQ1YWJiMWQtZmU1Yi00ZjIyLThjYjItODg1YTIxNTFiMmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

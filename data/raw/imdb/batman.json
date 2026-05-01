@@ -1,0 +1,25 @@
+{
+  "title": "Batman",
+  "original_query": "Batman",
+  "imdb_id": "tt0059968",
+  "type": "TV",
+  "year": 1966,
+  "year_end": 1968,
+  "genres": [
+    "Action",
+    "Crime",
+    "Fantasy"
+  ],
+  "plot": "Follows the adventures of wealthy entrepreneur Bruce Wayne, also known as the Caped Crusade Batman and his young ward Dick Grayson also known as Batman's sidekick Robin the boy wonder as they battle evildoers in Gotham City.",
+  "actors": [
+    "Adam West",
+    "Burt Ward",
+    "Alan Napier"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "25 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFjNTdlZjctZTRkNC00OTQ1LWI3NDktOWY0ZWZmNzFiOTNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Highway to Heaven",
+  "original_query": "Highway to Heaven",
+  "imdb_id": "tt0086730",
+  "type": "TV",
+  "year": 1984,
+  "year_end": 1989,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "A probationary angel, sent back to Earth, teams with an ex-cop to help people.",
+  "actors": [
+    "Michael Landon",
+    "Victor French",
+    "James Troesh"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM4ODM5NTMzOF5BMl5BanBnXkFtZTcwMTU1NDAzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

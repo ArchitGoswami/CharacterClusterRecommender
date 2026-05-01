@@ -1,0 +1,25 @@
+{
+  "title": "Guinevere Jones",
+  "original_query": "Guinevere Jones",
+  "imdb_id": "tt0316985",
+  "type": "TV",
+  "year": 2002,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "A teenage girl learns that she is the reincarnation of Queen Guinevere of Camelot to be trained by Merlin to be a mystic defender of the innocent.",
+  "actors": [
+    "Tamara Hope",
+    "Greta Larkins",
+    "Damien Bodie"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTY4YjE2YzUtZDAxNy00MjFiLTljOTUtMTU5ZGZiMjkwMDc5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "source": "omdb"
+}

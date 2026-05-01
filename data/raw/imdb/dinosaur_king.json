@@ -1,0 +1,25 @@
+{
+  "title": "Dinosaur King",
+  "original_query": "Dinosaur King",
+  "imdb_id": "tt1524993",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2009,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Max Taylor is the son of paleontologist Dr Spike Taylor and is a fan of dinosaurs.",
+  "actors": [
+    "Rebecca Soler",
+    "Matt Hoverman",
+    "David Zen Mansley"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "49S min",
+  "imdb_rating": "6.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzk3ZmY1YjYtMjEyZi00NDM4LTk2MWQtYTEwNmI1NGU4NDE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

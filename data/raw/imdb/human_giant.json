@@ -1,0 +1,23 @@
+{
+  "title": "Human Giant",
+  "original_query": "Human Giant",
+  "imdb_id": "tt0876298",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2008,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A half-hour show of edgy short films.",
+  "actors": [
+    "Aziz Ansari",
+    "Rob Huebel",
+    "Paul Scheer"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2QxMjAwOGEtMjlhNy00ZTQ3LWI0MGUtN2Y1MTIxNGZmNzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

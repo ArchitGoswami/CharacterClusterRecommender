@@ -1,0 +1,25 @@
+{
+  "title": "Cannon",
+  "original_query": "Cannon",
+  "imdb_id": "tt0066636",
+  "type": "TV",
+  "year": 1971,
+  "year_end": 1976,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Frank Cannon, a husky ex-cop and culinary enthusiast, solves tough cases as a private investigator.",
+  "actors": [
+    "William Conrad",
+    "Patrick Culliton",
+    "Tom Pittman"
+  ],
+  "director": "",
+  "rated": "PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzE0OTc5NWUtNzFlZS00MjhmLTlmZDEtMGZhYjBkMjkzOGFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

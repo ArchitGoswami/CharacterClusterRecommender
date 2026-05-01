@@ -1,0 +1,25 @@
+{
+  "title": "BoJack Horseman",
+  "original_query": "BoJack Horseman",
+  "imdb_id": "tt3398228",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2020,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "BoJack Horseman was the star of the hit television show \"Horsin' Around\" in the '80s and '90s, but now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+  "actors": [
+    "Will Arnett",
+    "Amy Sedaris",
+    "Alison Brie"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "25 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmMwMDlkNTEtMmQzZS00ODQ0LWJlZmItOTgwYWMwZGM4MzFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Durarara!!",
+  "original_query": "Durarara!!",
+  "imdb_id": "tt1584000",
+  "type": "TV",
+  "year": 2010,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Crime"
+  ],
+  "plot": "Tired of his mundane life, Mikado Ryugamine decides to move to Ikebukuro, a district in Tokyo, when a friend invites him. Ikebukuro is full of connected mysteries where people's pasts intertwine with the present.",
+  "actors": [
+    "Bryce Papenbrook",
+    "Johnny Yong Bosch",
+    "Kari Wahlgren"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "24 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODExOGNjNWEtZWU4Mi00MTVjLWE1ZTEtNTQ2Yjk1YjUxZTViXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

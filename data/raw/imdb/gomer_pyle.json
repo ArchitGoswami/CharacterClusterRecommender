@@ -1,0 +1,24 @@
+{
+  "title": "Gomer Pyle: USMC",
+  "original_query": "Gomer Pyle",
+  "imdb_id": "tt0057752",
+  "type": "TV",
+  "year": 1964,
+  "year_end": 1969,
+  "genres": [
+    "Comedy",
+    "War"
+  ],
+  "plot": "The misadventures of a bumbling U.S. Marine named Gomer Pyle.",
+  "actors": [
+    "Jim Nabors",
+    "Frank Sutton",
+    "Ronnie Schell"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEyNjEyNDczN15BMl5BanBnXkFtZTcwMzQ2MzE3MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

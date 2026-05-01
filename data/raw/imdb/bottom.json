@@ -1,0 +1,23 @@
+{
+  "title": "Bottom",
+  "original_query": "Bottom",
+  "imdb_id": "tt0103376",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1995,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Two perpetually bored and broke flatmates waste their days in a futile struggle to get laid, earn cash, and not kill one another.",
+  "actors": [
+    "Adrian Edmondson",
+    "Rik Mayall",
+    "Steven O'Donnell"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTZjNGIwNWMtYjEyNi00ODAwLWFjYTktNmE5NjFmYTMyM2Y1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

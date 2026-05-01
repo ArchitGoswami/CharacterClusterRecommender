@@ -1,0 +1,25 @@
+{
+  "title": "Hawaii Five-0",
+  "original_query": "Hawaii Five-0",
+  "imdb_id": "tt1600194",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2020,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "When former United States Navy officer, Steve McGarrett, returns home to Oahu to find his father's killer, the Governor offers him the chance to run his own special task force: Five-0.",
+  "actors": [
+    "Alex O'Loughlin",
+    "Scott Caan",
+    "Taylor Wily"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmU1Y2Y4ZmMtYjJhYy00M2FiLWJiYWQtNmU2NGUwYjM1NGRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

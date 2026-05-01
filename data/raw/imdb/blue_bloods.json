@@ -1,0 +1,25 @@
+{
+  "title": "Blue Bloods",
+  "original_query": "Blue Bloods",
+  "imdb_id": "tt1595859",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2024,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Follows the professional and personal lives of the Reagans, a family of New York Cops, who all work in different positions of law enforcement and work together to solve crimes and protect the city from danger.",
+  "actors": [
+    "Donnie Wahlberg",
+    "Bridget Moynahan",
+    "Will Estes"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjY0NTE1ODU3OV5BMl5BanBnXkFtZTgwOTI4NDQwMDI@._V1_SX300.jpg",
+  "source": "omdb"
+}

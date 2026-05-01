@@ -1,0 +1,25 @@
+{
+  "title": "CSI: NY",
+  "original_query": "CSI: NY",
+  "imdb_id": "tt0395843",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2013,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Second CSI spin off which follows the Crime Scene Investigator's (CSI's) of the New York Police Department (NYPD) as they use advanced forensic science to reveal the circumstances behind mysterious and unusual deaths in New York C...",
+  "actors": [
+    "Gary Sinise",
+    "Carmine Giovinazzo",
+    "Hill Harper"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGExMjFmMzktYzkyOS00YjFhLThiNmItNTA4NGRhMTE3OWJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

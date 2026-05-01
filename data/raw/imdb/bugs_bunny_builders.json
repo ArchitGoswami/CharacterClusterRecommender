@@ -1,0 +1,25 @@
+{
+  "title": "Bugs Bunny Builders",
+  "original_query": "Bugs Bunny Builders",
+  "imdb_id": "tt21050232",
+  "type": "TV",
+  "year": 2022,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "Join Bugs, Lola, Daffy, Porky and Tweety as they use their wacky vehicles to take on the looniest builds ever. Along the way, they'll learn valuable lessons and never give up because The Looney Builders always get the job done.",
+  "actors": [
+    "Chandni Parekh",
+    "Eric Bauza",
+    "Bob Bergen"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "31S min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmEyZTMyNmMtNjk5Mi00MGVjLWE2ZjUtYzM1MzVlMzAzOTRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

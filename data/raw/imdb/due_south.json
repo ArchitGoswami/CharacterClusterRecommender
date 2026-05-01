@@ -1,0 +1,25 @@
+{
+  "title": "Due South",
+  "original_query": "Due South",
+  "imdb_id": "tt0108756",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1999,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "plot": "The adventures of an impossibly upright Royal Canadian Mounted Police constable and his American colleagues in the city of Chicago.",
+  "actors": [
+    "Paul Gross",
+    "Beau Starr",
+    "Tony Craig"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "2 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2EwYjc5ODUtYWJmMS00YTcxLTk2NGItYjFkODljNTNjM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

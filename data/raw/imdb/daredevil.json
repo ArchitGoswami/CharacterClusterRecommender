@@ -1,0 +1,25 @@
+{
+  "title": "Daredevil",
+  "original_query": "Daredevil",
+  "imdb_id": "tt3322312",
+  "type": "TV",
+  "year": 2015,
+  "year_end": 2018,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+  "actors": [
+    "Charlie Cox",
+    "Vincent D'Onofrio",
+    "Deborah Ann Woll"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "54 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Da Vinci's Demons",
+  "original_query": "Da Vinci's Demons",
+  "imdb_id": "tt2094262",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2015,
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "plot": "Follows Leonardo Da Vinci during his early days in Florence, as a young artist, inventor and dreamer, trying to change the future.",
+  "actors": [
+    "Tom Riley",
+    "Gregg Chilingirian",
+    "Eros V"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "59 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzc5ODJmOTItYzgwOC00YTM4LTk5YmQtYjhkMWU3ZDdlMzg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

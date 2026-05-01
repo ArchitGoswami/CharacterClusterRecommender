@@ -1,0 +1,25 @@
+{
+  "title": "Charlie's Angels",
+  "original_query": "Charlie's Angels",
+  "imdb_id": "tt0073972",
+  "type": "TV",
+  "year": 1976,
+  "year_end": 1981,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "A wealthy mystery man named Charlie runs a detective agency via a speakerphone and his personal assistant, John Bosley. His detectives are three beautiful women, who end up in a variety of difficult situations.",
+  "actors": [
+    "Kate Jackson",
+    "Farrah Fawcett",
+    "Jaclyn Smith"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjIxMjJjNDItYTZlZi00ZTRkLWI5NmYtNTFhYWFhZDcyYmYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

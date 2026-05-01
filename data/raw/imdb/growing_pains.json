@@ -1,0 +1,24 @@
+{
+  "title": "Growing Pains",
+  "original_query": "Growing Pains",
+  "imdb_id": "tt0088527",
+  "type": "TV",
+  "year": 1985,
+  "year_end": 1992,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "The misadventures of a family with a home-business father and a journalist mother.",
+  "actors": [
+    "Alan Thicke",
+    "Joanna Kerns",
+    "Kirk Cameron"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTdjYWExMzEtNmY5Ni00MzdhLWI0Y2UtM2YyNmFlODllZmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CSI: Crime Scene Investigation",
+  "original_query": "CSI: Crime Scene Investigation",
+  "imdb_id": "tt0247082",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2015,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A team of Crime Scene Investigators (CSI's) work with the Las Vegas Police Department (LVPD) to solve crimes by using advanced scientific methods and technology in Las Vegas, Nevada.",
+  "actors": [
+    "William Petersen",
+    "Laurence Fishburne",
+    "Ted Danson"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRjMjU2NmUtMmQ0MS00NDMyLTg4NGItNjg1OWY2OGI4ZDM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

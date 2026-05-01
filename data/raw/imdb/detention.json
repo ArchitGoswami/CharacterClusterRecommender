@@ -1,0 +1,25 @@
+{
+  "title": "Detention",
+  "original_query": "Detention",
+  "imdb_id": "tt13175760",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "plot": "A tormented student uncovers unsettling secrets at her remote high school as betrayal and a paranormal encounter upend her life.",
+  "actors": [
+    "Ling-Wei Lee",
+    "Ning Han",
+    "Guan-Zhi Huang"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "50 min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTljZDkzZGYtYzg3ZS00ZThlLWI0NjUtYjMzZDgyOGFmNTA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

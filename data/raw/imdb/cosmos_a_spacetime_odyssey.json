@@ -1,0 +1,23 @@
+{
+  "title": "Cosmos: A Spacetime Odyssey",
+  "original_query": "Cosmos: A Spacetime Odyssey",
+  "imdb_id": "tt2395695",
+  "type": "TV",
+  "year": 2014,
+  "year_end": null,
+  "genres": [
+    "Documentary"
+  ],
+  "plot": "An exploration of our discovery of the laws of nature and coordinates in space and time.",
+  "actors": [
+    "Neil deGrasse Tyson",
+    "Carl Sagan",
+    "André Sogliuzzo"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "557 min",
+  "imdb_rating": "9.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRlMzk0NzctNTI3Ni00N2E2LWJiNGMtMDdlNjk1YWNmMzkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

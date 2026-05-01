@@ -1,0 +1,24 @@
+{
+  "title": "Big Shots",
+  "original_query": "Big Shots",
+  "imdb_id": "tt0848539",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2008,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "An inside look into the life of a CEO.",
+  "actors": [
+    "Michael Vartan",
+    "Christopher Titus",
+    "Joshua Malina"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTIyNTlhNjUtMWI4MC00MzY0LWIxYWEtZGExNGY3MGVhNTc4XkEyXkFqcGdeQXVyNDU2Mzg5MTM@._V1_SX300.jpg",
+  "source": "omdb"
+}

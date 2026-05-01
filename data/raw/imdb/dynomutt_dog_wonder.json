@@ -1,0 +1,25 @@
+{
+  "title": "Dynomutt Dog Wonder",
+  "original_query": "Dynomutt, Dog Wonder",
+  "imdb_id": "tt0177438",
+  "type": "TV",
+  "year": 1976,
+  "year_end": 1977,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The adventures of a robotic dog superhero who proves as much a hindrance as to his master, the Blue Falcon.",
+  "actors": [
+    "Gary Owens",
+    "Frank Welker",
+    "Ron Feinberg"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODBmYTc1YjAtZGVjYS00NjgyLWI3NTQtMTdjZjk1M2EzOWY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

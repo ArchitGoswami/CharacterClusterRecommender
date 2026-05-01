@@ -1,0 +1,25 @@
+{
+  "title": "Gordan's Goons",
+  "original_query": "Goons",
+  "imdb_id": "tt27573476",
+  "type": "TV",
+  "year": 2023,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Gordan's Goons is about three goons-Jaiden, Eldon, and later Max-who struggle their way throughout the Black Mesa facility and all around it.",
+  "actors": [
+    "Max Mandlestein",
+    "Jaiden Marchetti",
+    "Eldon Webster"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "N/A",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTRkNTc0ZDEtMWU5Yy00YWJlLWFlZjAtOWU0ZGExZGMwOWIxXkEyXkFqcGdeQXVyMTQ4MTk1MjY2._V1_SX300.jpg",
+  "source": "omdb"
+}

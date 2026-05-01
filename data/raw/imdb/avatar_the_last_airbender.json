@@ -1,0 +1,25 @@
+{
+  "title": "Avatar: The Last Airbender",
+  "original_query": "Avatar: The Last Airbender",
+  "imdb_id": "tt0417299",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+  "actors": [
+    "Dee Bradley Baker",
+    "Zach Tyler Eisen",
+    "Mae Whitman"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "23 min",
+  "imdb_rating": "9.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

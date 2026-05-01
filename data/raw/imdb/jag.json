@@ -1,0 +1,25 @@
+{
+  "title": "JAG",
+  "original_query": "JAG",
+  "imdb_id": "tt0112022",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 2005,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "The cases of Harmon Rabb, former Navy fighter pilot, and his fellow lawyers of the U.S. Navy's Judge Advocate General's office.",
+  "actors": [
+    "David James Elliott",
+    "Patrick Labyorteaux",
+    "Catherine Bell"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmRlM2ExMGEtMGZkNy00Y2IzLWI4OWMtMjkwZmIyZjIxMWUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

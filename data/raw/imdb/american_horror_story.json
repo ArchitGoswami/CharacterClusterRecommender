@@ -1,0 +1,25 @@
+{
+  "title": "American Horror Story",
+  "original_query": "American Horror Story",
+  "imdb_id": "tt1844624",
+  "type": "TV",
+  "year": 2011,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "plot": "An anthology horror drama series centering on different characters and locations, showcasing different aspects of horror. Created and produced by Ryan Murphy and Brad Falchuk.",
+  "actors": [
+    "Lady Gaga",
+    "Kathy Bates",
+    "Angela Bassett"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

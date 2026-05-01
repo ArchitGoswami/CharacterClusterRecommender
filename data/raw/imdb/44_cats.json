@@ -1,0 +1,25 @@
+{
+  "title": "44 Cats",
+  "original_query": "44 Cats",
+  "imdb_id": "tt9699148",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "44 Cats is a preschool comedy series that follows the daily adventures of four cats named Lampo, Milady, Pilou, and Meatball. All of them are part of a music band called 'The Buffycats'.",
+  "actors": [
+    "Judith Cabral",
+    "Sarah Natochenny",
+    "Erica Schroeder"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "13 min",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTM0ODFhNjktMzZkYS00ZmNiLTlmYzYtM2UxMzQwOGU2YWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

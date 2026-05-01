@@ -1,0 +1,23 @@
+{
+  "title": "Fishtronaut",
+  "original_query": "Fishtronaut",
+  "imdb_id": "tt1432142",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "plot": "Fishtronaut, a water-suit-wearing fish, travels on land to solve mysteries, and helps viewers learn how to protect the environment.",
+  "actors": [
+    "Dawn Ford",
+    "Holly Gauthier-Frankel"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "12 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM0NjIzYTQtNzgyZi00ODBiLTk5NzUtMjI2MjE5MmZiMGEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

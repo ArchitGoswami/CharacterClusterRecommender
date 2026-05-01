@@ -1,0 +1,25 @@
+{
+  "title": "Austin & Ally",
+  "original_query": "Austin & Ally",
+  "imdb_id": "tt1830491",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2016,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "Following the lives of confident aspiring musician Austin, quiet talented songwriter Ally, and their two friends.",
+  "actors": [
+    "Ross Lynch",
+    "Laura Marano",
+    "Raini Rodriguez"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FjYTY1ODItN2VkNy00YjAwLWFlZjUtMjU5MGM5YmZhZjJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

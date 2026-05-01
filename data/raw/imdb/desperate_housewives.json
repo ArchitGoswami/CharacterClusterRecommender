@@ -1,0 +1,25 @@
+{
+  "title": "Desperate Housewives",
+  "original_query": "Desperate Housewives",
+  "imdb_id": "tt0410975",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2012,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A close-knit group of housewives reside in Wisteria Lane. It may appear to be a seemingly perfect neighborhood but it hides many secrets, crimes, forbidden romances and domestic struggles.",
+  "actors": [
+    "Teri Hatcher",
+    "Felicity Huffman",
+    "Marcia Cross"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "45 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDljYmI5OTktNDFmNC00NmIxLWFhODktM2YyM2JlODVmMWUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

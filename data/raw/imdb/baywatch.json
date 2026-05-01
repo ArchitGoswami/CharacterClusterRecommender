@@ -1,0 +1,25 @@
+{
+  "title": "Baywatch",
+  "original_query": "Baywatch",
+  "imdb_id": "tt0096542",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 2001,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "Follows a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis on a beach in Los Angeles, California (S1-9) and Hawii (...",
+  "actors": [
+    "David Hasselhoff",
+    "Pamela Anderson",
+    "Yasmine Bleeth"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "5.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFjNzlhOTUtZDAxZS00M2ZmLWEyNzYtNTJiZDMzZjQ2MTg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

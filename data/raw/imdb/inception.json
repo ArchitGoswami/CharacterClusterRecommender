@@ -1,0 +1,25 @@
+{
+  "title": "Inception",
+  "original_query": "Inception",
+  "imdb_id": "tt1375666",
+  "type": "Movie",
+  "year": 2010,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "director": "Christopher Nolan",
+  "rated": "PG-13",
+  "runtime": "148 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

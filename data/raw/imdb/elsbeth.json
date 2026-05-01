@@ -1,0 +1,25 @@
+{
+  "title": "Elsbeth",
+  "original_query": "Elsbeth",
+  "imdb_id": "tt26591110",
+  "type": "TV",
+  "year": 2024,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Astute but unconventional attorney Elsbeth Tascioni utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+  "actors": [
+    "Carrie Preston",
+    "Carra Patterson",
+    "Wendell Pierce"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTcwYzc0M2QtM2NiYy00MWU1LWEwYmYtZGYzYWM4MTZjZmU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

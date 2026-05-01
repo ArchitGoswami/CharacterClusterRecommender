@@ -1,0 +1,23 @@
+{
+  "title": "Connecting...",
+  "original_query": "Connecting",
+  "imdb_id": "tt12810046",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Ensemble comedy series about a group of friends trying to stay connected during a global pandemic.",
+  "actors": [
+    "Parvesh Cheena",
+    "Ely Henry",
+    "Jill Knox"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "21 min",
+  "imdb_rating": "5.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVjOTA3NWQtY2JkNS00Njc2LWI1ZjAtNjM5ZGVkMzI0NzUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

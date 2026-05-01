@@ -1,0 +1,24 @@
+{
+  "title": "Bob's Burgers",
+  "original_query": "Bob's Burgers",
+  "imdb_id": "tt1561755",
+  "type": "TV",
+  "year": 2011,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "Bob Belcher runs a struggling burger shop with his wife and three children.",
+  "actors": [
+    "H. Jon Benjamin",
+    "Dan Mintz",
+    "Eugene Mirman"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWQ1NGE4YjgtOGJjZS00OTZjLWI0MGUtMDUxYjY2M2E4MjNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

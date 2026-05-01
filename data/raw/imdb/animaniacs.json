@@ -1,0 +1,25 @@
+{
+  "title": "Animaniacs",
+  "original_query": "Animaniacs",
+  "imdb_id": "tt0105941",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1998,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "The zany adventures of a trio of 1930s animated characters in the modern world.",
+  "actors": [
+    "Rob Paulsen",
+    "Jess Harnell",
+    "Tress MacNeille"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjY4NGE3YTItZTA2Yy00OWQwLWI5ZTgtNzQzOTQ5NTE4ZDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "In Living Color",
+  "original_query": "In Living Color",
+  "imdb_id": "tt0098830",
+  "type": "TV",
+  "year": 1990,
+  "year_end": 1994,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "plot": "The Wayans siblings present an African-American focused sketch comedy show.",
+  "actors": [
+    "Keenen Ivory Wayans",
+    "Jim Carrey",
+    "Kelly Coffield Park"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "16S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2U2MDk1NDAtZDIwMC00OTRjLWFmZjktYzE1MzJhNWIzYWJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Downton Abbey",
+  "original_query": "Downton Abbey",
+  "imdb_id": "tt1606375",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2015,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "A chronicle of the lives of the British aristocratic Crawley family and their servants in the early twentieth century.",
+  "actors": [
+    "Hugh Bonneville",
+    "Phyllis Logan",
+    "Elizabeth McGovern"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "58 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzgzNDVjNjgtNzQxZS00N2E2LTkxNjgtNjIzMGZiM2UwYWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

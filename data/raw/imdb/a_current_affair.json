@@ -1,0 +1,23 @@
+{
+  "title": "A Current Affair",
+  "original_query": "A Current Affair",
+  "imdb_id": "tt0190177",
+  "type": "TV",
+  "year": 1971,
+  "year_end": null,
+  "genres": [
+    "News"
+  ],
+  "plot": "An Australian current affairs program that broadcasts stories on community issues such as diet fads, welfare cheats, negligent doctors and dodgy builders.",
+  "actors": [
+    "Tracy Grimshaw",
+    "Leila McKinnon",
+    "Leisa Goddard"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "2.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ2MDY5NmEtOGI2MC00M2EzLWJjYzQtYjk5ZWM4NjY0MzM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Jane and the Dragon",
+  "original_query": "Jane and the Dragon",
+  "imdb_id": "tt0486069",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "The daughter of King Caradoc's chamberlain dreams of being a knight. When Prince Cuthbert is kidnapped by the local Dragon, Jane may have her chance.",
+  "actors": [
+    "Tajja Isen",
+    "Adrian Truss",
+    "Mark Rendall"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "46S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2ZmNjI1MzItZDZjYy00ZDY2LTg0OGItZDZjZjg0YmY3MzgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

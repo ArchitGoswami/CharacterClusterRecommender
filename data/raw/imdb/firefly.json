@@ -1,0 +1,25 @@
+{
+  "title": "Firefly",
+  "original_query": "Firefly",
+  "imdb_id": "tt0303461",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2003,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "A renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+  "actors": [
+    "Nathan Fillion",
+    "Gina Torres",
+    "Alan Tudyk"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzYyZWYzNzUtOWQ4Yi00Y2Q4LWJjZjgtZTllNjg2ZGM0MTcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

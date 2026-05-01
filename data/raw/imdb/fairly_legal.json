@@ -1,0 +1,24 @@
+{
+  "title": "Fairly Legal",
+  "original_query": "Fairly Legal",
+  "imdb_id": "tt1586676",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2012,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "A woman, who quit being an attorney at her father's law firm to become a mediator, copes after her father's death.",
+  "actors": [
+    "Sarah Shahi",
+    "Michael Trucco",
+    "Virginia Williams"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "41 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc1MDY3MzA0Nl5BMl5BanBnXkFtZTcwNzg4MTA3Nw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

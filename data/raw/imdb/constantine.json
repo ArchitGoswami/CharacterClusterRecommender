@@ -1,0 +1,25 @@
+{
+  "title": "Constantine",
+  "original_query": "Constantine",
+  "imdb_id": "tt3489184",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2015,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "A man struggling with his faith who is haunted by the sins of his past is suddenly thrust into the role of defending humanity from the gathering forces of darkness.",
+  "actors": [
+    "Matt Ryan",
+    "Harold Perrineau",
+    "Charles Halford"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "43 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTUwNTYzOWEtNWE1OS00OWRlLTk1MjYtNjI5ZDc2OGVlMzIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

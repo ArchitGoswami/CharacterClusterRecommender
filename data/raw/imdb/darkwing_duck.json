@@ -1,0 +1,25 @@
+{
+  "title": "Darkwing Duck",
+  "original_query": "Darkwing Duck",
+  "imdb_id": "tt0101076",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1992,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A bumbling superhero battles crime with the help of his daughter and pilot sidekick.",
+  "actors": [
+    "Jim Cummings",
+    "Terence McGovern",
+    "Christine Cavanaugh"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M3MTA1NzUtODQzYy00MmUwLWFjMzYtZmI1ZjFjZTVhM2IwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

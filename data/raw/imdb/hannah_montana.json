@@ -1,0 +1,25 @@
+{
+  "title": "Hannah Montana",
+  "original_query": "Hannah Montana",
+  "imdb_id": "tt0493093",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2011,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "plot": "Adventures of a teenage pop star who keeps her identity secret from even her closest friends by using a disguise on-stage.",
+  "actors": [
+    "Miley Cyrus",
+    "Emily Osment",
+    "Jason Earles"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "32S min",
+  "imdb_rating": "5.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTkzMDY2MzEtZmViZC00ZDY0LWFmYjgtNTVmN2JmMmVkNzRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Get Smart",
+  "original_query": "Get Smart",
+  "imdb_id": "tt0058805",
+  "type": "TV",
+  "year": 1965,
+  "year_end": 1970,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, battles the evil forces of rival spy agency KAOS with the help of his competent partner Agent 99.",
+  "actors": [
+    "Don Adams",
+    "Barbara Feldon",
+    "Edward Platt"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "31S min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzEyYmEwNjgtZWE0Ny00OTc2LWE2YjAtZjUyODFlMGRiNTY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

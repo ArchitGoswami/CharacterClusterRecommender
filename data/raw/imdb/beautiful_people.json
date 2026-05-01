@@ -1,0 +1,23 @@
+{
+  "title": "Beautiful People",
+  "original_query": "Beautiful People",
+  "imdb_id": "tt1246607",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2009,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "The story of the flamboyant and ambitious 14-year-old Simon Doonan, who has dreams that stretch beyond his hometown of Reading.",
+  "actors": [
+    "Luke Ward-Wilkinson",
+    "Layton Williams",
+    "Olivia Colman"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGJmZDBkNjYtMjRhNC00MTFiLTg4NTMtYmIzMmM5MzdkZmQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

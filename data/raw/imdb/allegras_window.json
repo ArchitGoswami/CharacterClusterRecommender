@@ -1,0 +1,24 @@
+{
+  "title": "Allegra's Window",
+  "original_query": "Allegra's Window",
+  "imdb_id": "tt0177428",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1998,
+  "genres": [
+    "Family",
+    "Musical"
+  ],
+  "plot": "The day-to-day life of an imaginative little girl and her friends as they learn lessons about life.",
+  "actors": [
+    "Tessa Ludwick",
+    "Pam Arciero",
+    "Kathryn Mullen"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzc1ZmUyNTItMmViMy00ZDQ4LThmNWYtMTkxMmM3ZmQxNTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

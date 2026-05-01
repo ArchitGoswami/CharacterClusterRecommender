@@ -1,0 +1,25 @@
+{
+  "title": "Dark",
+  "original_query": "Dark",
+  "imdb_id": "tt5753856",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2020,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+  "actors": [
+    "Louis Hofmann",
+    "Karoline Eichhorn",
+    "Lisa Vicari"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,57,380,562_.jpg",
+  "source": "omdb"
+}

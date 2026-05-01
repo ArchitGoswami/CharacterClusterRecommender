@@ -1,0 +1,25 @@
+{
+  "title": "Dancing with the Stars",
+  "original_query": "Dancing with the Stars",
+  "imdb_id": "tt0463398",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Family",
+    "Music",
+    "Reality-TV"
+  ],
+  "plot": "U.S. reality show based on the British series \"Strictly Come Dancing,\" where celebrities partner up with professional dancers and compete against each other in weekly elimination rounds to determine a winner.",
+  "actors": [
+    "Carrie Ann Inaba",
+    "Bruno Tonioli",
+    "Tom Bergeron"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "4.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E1ZmQ4N2MtNmUzNy00ZWNkLThhMjAtMzc4MGVjMmM0MjRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

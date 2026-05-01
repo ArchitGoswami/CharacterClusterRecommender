@@ -1,0 +1,25 @@
+{
+  "title": "Full House",
+  "original_query": "Full House",
+  "imdb_id": "tt0092359",
+  "type": "TV",
+  "year": 1987,
+  "year_end": 1995,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "A widowed sportscaster raises his three daughters with assistance from his rock and roll brother-in-law and madcap best friend.",
+  "actors": [
+    "Bob Saget",
+    "John Stamos",
+    "Dave Coulier"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "22 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGQ3OTY3OGQtYzZlZS00YWZjLTgwYzMtZjg4YmY0Y2U1ZDg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

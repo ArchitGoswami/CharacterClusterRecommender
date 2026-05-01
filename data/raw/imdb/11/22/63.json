@@ -1,0 +1,25 @@
+{
+  "title": "11.22.63",
+  "original_query": "11/22/63",
+  "imdb_id": "tt2879552",
+  "type": "TV",
+  "year": 2016,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "plot": "A teacher gets a chance to travel back in time to stop the murder of John F. Kennedy. However, history's aversion to alteration, and his love for the era and a woman, endanger him.",
+  "actors": [
+    "James Franco",
+    "Sarah Gadon",
+    "George MacKay"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk1NjE5MjUwM15BMl5BanBnXkFtZTgwODk3NTk2OTE@._V1_SX300.jpg",
+  "source": "omdb"
+}

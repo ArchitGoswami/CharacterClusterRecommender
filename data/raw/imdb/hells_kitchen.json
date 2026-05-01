@@ -1,0 +1,24 @@
+{
+  "title": "Hell's Kitchen",
+  "original_query": "Hell's Kitchen",
+  "imdb_id": "tt0437005",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "plot": "World renowned chef Gordon Ramsay puts aspiring young chefs through rigorous cooking challenges and dinner services at his restaurant, \"Hell's Kitchen\".",
+  "actors": [
+    "Gordon Ramsay",
+    "Jean Philippe Susilovic",
+    "Scott Leibfried"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "42 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGM0ODQwM2QtZmFjNS00NjUxLWFiMGUtMTEyZjFlMTBlYmM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

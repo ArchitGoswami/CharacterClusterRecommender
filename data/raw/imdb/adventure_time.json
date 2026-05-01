@@ -1,0 +1,25 @@
+{
+  "title": "Adventure Time",
+  "original_query": "Adventure Time",
+  "imdb_id": "tt1305826",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2018,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A 12-year-old boy and his best friend, a wise 28-year-old dog with magical powers, go on a series of surreal adventures in a remote future.",
+  "actors": [
+    "John DiMaggio",
+    "Jeremy Shada",
+    "Tom Kenny"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "11 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjkxMzIwNmQtMzM5Ni00YWJiLTg4YjQtNjBiN2IxMjZhMGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

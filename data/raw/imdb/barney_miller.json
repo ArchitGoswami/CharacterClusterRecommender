@@ -1,0 +1,24 @@
+{
+  "title": "Barney Miller",
+  "original_query": "Barney Miller",
+  "imdb_id": "tt0072472",
+  "type": "TV",
+  "year": 1975,
+  "year_end": 1982,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "The Captain of the NYPD 12th Precinct and his staff handle the various local troubles and characters that come into the squad room.",
+  "actors": [
+    "Hal Linden",
+    "Abe Vigoda",
+    "Max Gail"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzk1MzNmNzUtNzk0ZS00ZTY2LWI2YTgtZmE3NzI4YmRkOWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

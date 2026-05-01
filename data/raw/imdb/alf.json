@@ -1,0 +1,25 @@
+{
+  "title": "ALF",
+  "original_query": "ALF",
+  "imdb_id": "tt0090390",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1990,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Sci-Fi"
+  ],
+  "plot": "When an adorable, fuzzy creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
+  "actors": [
+    "Mihaly 'Michu' Meszaros",
+    "Paul Fusco",
+    "Max Wright"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

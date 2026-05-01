@@ -1,0 +1,23 @@
+{
+  "title": "Four Weddings",
+  "original_query": "Four Weddings",
+  "imdb_id": "tt1559672",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Reality-TV"
+  ],
+  "plot": "Four brides-to-be attend and judge one another's weddings, rating various aspects. The highest-rated nuptials win the couple an exotic honeymoon trip.",
+  "actors": [
+    "Nicola McLean",
+    "Emma Swanson",
+    "Sharon Farley"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "5.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI3NDE3Mjk3MF5BMl5BanBnXkFtZTgwNzEyMjgwMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

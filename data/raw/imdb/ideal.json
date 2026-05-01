@@ -1,0 +1,23 @@
+{
+  "title": "Ideal",
+  "original_query": "Ideal",
+  "imdb_id": "tt0417332",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2011,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Moz is a drug dealer and has very strange clientele who come and go from his flat.",
+  "actors": [
+    "Johnny Vegas",
+    "Graham Duff",
+    "Nicola Reynolds"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "30 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxNzdhMGUtODI3Zi00ZWM0LTkyZDgtMzZiOWM4MmUzY2MxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

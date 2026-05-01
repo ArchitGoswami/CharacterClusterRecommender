@@ -1,0 +1,25 @@
+{
+  "title": "Big City Greens",
+  "original_query": "Big City Greens",
+  "imdb_id": "tt7165904",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The adventurous life of Cricket Green, a country boy who moves with his family from their rural farm to a modern metropolis.",
+  "actors": [
+    "Chris Houghton",
+    "Marieve Herington",
+    "Bob Joles"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "17S min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmFiZTU2MTMtM2Y0MS00Y2ZiLWE0ZjItZGNkNTNjOTU0NWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

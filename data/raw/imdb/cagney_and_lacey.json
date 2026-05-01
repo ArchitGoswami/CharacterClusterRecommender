@@ -1,0 +1,25 @@
+{
+  "title": "Cagney & Lacey",
+  "original_query": "Cagney & Lacey",
+  "imdb_id": "tt0083395",
+  "type": "TV",
+  "year": 1981,
+  "year_end": 1988,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Two female police detectives cooperate with each other both in their professions and in their personal lives.",
+  "actors": [
+    "Tyne Daly",
+    "Sharon Gless",
+    "Al Waxman"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWRhZjBhZDAtNjYxOC00MzgwLWJmNzYtYTcxMDJlYjg3YTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

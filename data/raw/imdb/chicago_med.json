@@ -1,0 +1,23 @@
+{
+  "title": "Chicago Med",
+  "original_query": "Chicago Med",
+  "imdb_id": "tt4655480",
+  "type": "TV",
+  "year": 2015,
+  "year_end": null,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "The city's most highly skilled medical team saves lives, while navigating their unique interpersonal relationships.",
+  "actors": [
+    "S. Epatha Merkerson",
+    "Oliver Platt",
+    "Marlyne Barrett"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "32S min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjVkOTIzYjYtZWM5ZC00Mzc2LWE0YTctYjIxMGZiOTQyY2QyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

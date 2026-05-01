@@ -1,0 +1,24 @@
+{
+  "title": "Drake & Josh",
+  "original_query": "Drake & Josh",
+  "imdb_id": "tt0363328",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2007,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Two teenage boys with clashing personalities - one is a slick musician, the other a clumsy nerd - must navigate high school and family life together after becoming step-brothers.",
+  "actors": [
+    "Drake Bell",
+    "Josh Peck",
+    "Miranda Cosgrove"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "23 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmM3MWFkZjctYzBhNC00YWU1LWIzYTktZjUxMzYyNGE5MjhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

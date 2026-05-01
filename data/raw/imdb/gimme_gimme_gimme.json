@@ -1,0 +1,23 @@
+{
+  "title": "Gimme Gimme Gimme",
+  "original_query": "Gimme Gimme Gimme",
+  "imdb_id": "tt0167599",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2001,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Raucous 90s sitcom starring Kathy Burke and James Dreyfus as awful flatmates. Tom is an out-of-work actor with a sharp tongue, and Linda La Hughes is his dysfunctional friend.",
+  "actors": [
+    "Kathy Burke",
+    "James Dreyfus",
+    "Beth Goddard"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "34 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4MTA2MzI5OF5BMl5BanBnXkFtZTYwMjk3Mjk4._V1_SX300.jpg",
+  "source": "omdb"
+}

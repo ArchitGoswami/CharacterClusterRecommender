@@ -1,0 +1,25 @@
+{
+  "title": "Between the Lions",
+  "original_query": "Between the Lions",
+  "imdb_id": "tt0242192",
+  "type": "TV",
+  "year": 1999,
+  "year_end": 2011,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "Live-action and animation blend together in this educational fantasy about a family of lions running a library filled with adventurous and musical books.",
+  "actors": [
+    "Anthony Asbury",
+    "Jennifer Barnhart",
+    "Peter Linz"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "1 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWYxZjQ3N2UtZDM5MS00YmYwLTg1MTctM2NiOTU0YWVjYTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Flight of the Conchords",
+  "original_query": "Flight of the Conchords",
+  "imdb_id": "tt0863046",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2009,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Musical"
+  ],
+  "plot": "Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom.",
+  "actors": [
+    "Jemaine Clement",
+    "Bret McKenzie",
+    "Rhys Darby"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "33S min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQzYTdhNjYtN2IzOC00YzBiLTg5NDQtYzU4OTdmYzUxMjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

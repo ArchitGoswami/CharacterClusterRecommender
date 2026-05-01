@@ -1,0 +1,25 @@
+{
+  "title": "Arrow",
+  "original_query": "Arrow",
+  "imdb_id": "tt2193021",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2020,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "Presumed-dead billionaire playboy Oliver Queen returns to Starling City and rights societal wrongs as Arrow.",
+  "actors": [
+    "Stephen Amell",
+    "Katie Cassidy",
+    "David Ramsey"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjRlNjNlY2YtYzQxNS00ZTUzLTkwMTQtMjM0YjZlOWQwZmFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

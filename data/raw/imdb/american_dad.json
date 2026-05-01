@@ -1,0 +1,24 @@
+{
+  "title": "American Dad!",
+  "original_query": "American Dad",
+  "imdb_id": "tt0397306",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "The escapades of Stan Smith, a conservative C.I.A. Agent dealing with family life, while keeping America safe.",
+  "actors": [
+    "Seth MacFarlane",
+    "Wendy Schaal",
+    "Scott Grimes"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "22 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDI4ZWYwMGUtZGE1Yi00OTc5LWI3NDctMGY4ZWE4NzI4NWUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

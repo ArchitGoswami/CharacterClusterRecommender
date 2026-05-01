@@ -1,0 +1,25 @@
+{
+  "title": "Big Sky",
+  "original_query": "Big Sky",
+  "imdb_id": "tt11794642",
+  "type": "TV",
+  "year": 2020,
+  "year_end": 2023,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "A private detective and ex-cop solve crimes in Montana.",
+  "actors": [
+    "Katheryn Winnick",
+    "Kylie Bunbury",
+    "Dedee Pfeiffer"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTI2YmI0ZDAtNTU0MS00YjkxLWJkMzAtZTU0MWQyMTZhNjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Dr. Phil",
+  "original_query": "Dr. Phil",
+  "imdb_id": "tt0329824",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2023,
+  "genres": [
+    "Drama",
+    "Talk-Show"
+  ],
+  "plot": "Talk show in which Dr. Phil McGraw invites guests to confront their problems.",
+  "actors": [
+    "Phil McGraw",
+    "Madison Graber",
+    "Robin McGraw"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "3.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWJmMzdiYmQtYWZmMC00ZDY0LThjNDAtNTgwYzJlYWQ4NDc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

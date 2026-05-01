@@ -1,0 +1,25 @@
+{
+  "title": "Ash vs Evil Dead",
+  "original_query": "Ash vs. Evil Dead",
+  "imdb_id": "tt4189022",
+  "type": "TV",
+  "year": 2015,
+  "year_end": 2018,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+  ],
+  "plot": "Ash has spent the last thirty years avoiding responsibility, maturity, and the terrors of the Evil Dead until a Deadite plague threatens to destroy all of mankind and Ash becomes mankind's only hope.",
+  "actors": [
+    "Bruce Campbell",
+    "Ray Santiago",
+    "Dana DeLorenzo"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYyMjQyNTE5MF5BMl5BanBnXkFtZTgwMjEyMjE2NDM@._V1_SX300.jpg",
+  "source": "omdb"
+}

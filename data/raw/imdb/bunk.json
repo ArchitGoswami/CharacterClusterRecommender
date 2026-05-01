@@ -1,0 +1,23 @@
+{
+  "title": "Bunk",
+  "original_query": "Bunk",
+  "imdb_id": "tt2176257",
+  "type": "TV",
+  "year": 2012,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A game show spoof featuring a rotation of comedian contestants performing comedy challenges.",
+  "actors": [
+    "Kurt Braunohler",
+    "Gabe Gronli",
+    "Patrick Grant"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "7.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4NDY4MzIyMV5BMl5BanBnXkFtZTgwNzEyNzAxMzE@._V1_SX300.jpg",
+  "source": "omdb"
+}

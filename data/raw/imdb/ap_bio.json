@@ -1,0 +1,23 @@
+{
+  "title": "A.P. Bio",
+  "original_query": "AP Bio",
+  "imdb_id": "tt6461726",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2021,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A former philosophy professor who takes a job teaching advanced placement biology uses his students to get back at the people in his life who have wronged him.",
+  "actors": [
+    "Glenn Howerton",
+    "Lyric Lewis",
+    "Mary Sohn"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "21 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDAxOTQ3NWUtNWE2MC00ODlkLTk1ZTktZThmZmRmMDQzMTE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

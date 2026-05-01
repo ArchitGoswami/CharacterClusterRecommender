@@ -1,0 +1,23 @@
+{
+  "title": "Abby's",
+  "original_query": "Abby's",
+  "imdb_id": "tt7768346",
+  "type": "TV",
+  "year": 2019,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "As the oddball cast of characters at Abby's will tell you, everyone needs a bar to call home.",
+  "actors": [
+    "Natalie Morales",
+    "Nelson Franklin",
+    "Jessica Chaffin"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "5.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjk5ZTk2NDMtNGFmMi00ODQ4LThhNzUtMTlkNjgzZGVlYzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

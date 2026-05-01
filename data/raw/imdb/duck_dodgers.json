@@ -1,0 +1,25 @@
+{
+  "title": "Duck Dodgers",
+  "original_query": "Duck Dodgers",
+  "imdb_id": "tt0376390",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2005,
+  "genres": [
+    "Animation",
+    "Short",
+    "Action"
+  ],
+  "plot": "Animated science fiction series based on the alter ego of Looney Tunes star Daffy Duck, the semi-heroic, yet incompetent, space captain Duck Dodgers.",
+  "actors": [
+    "Joe Alaskey",
+    "Bob Bergen",
+    "Richard McGonagle"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGRkZmNiZDgtM2VjNC00NmYwLWJlM2MtNzg3NzAzZjk2MWU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Dirt",
+  "original_query": "Dirt",
+  "imdb_id": "tt0496275",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2008,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A tabloid editor and her photographer try to make their way in the world of celebrity journalism.",
+  "actors": [
+    "Courteney Cox",
+    "Ian Hart",
+    "Josh Stewart"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQwNjIxMDk5NV5BMl5BanBnXkFtZTcwMTcwNjE2MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

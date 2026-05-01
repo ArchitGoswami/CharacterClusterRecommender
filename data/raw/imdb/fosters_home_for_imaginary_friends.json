@@ -1,0 +1,25 @@
+{
+  "title": "Foster's Home for Imaginary Friends",
+  "original_query": "Foster's Home for Imaginary Friends",
+  "imdb_id": "tt0419326",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2009,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A boy and his beloved imaginary friend are able to stay together at an orphanage of sorts for imaginary friends that children have outgrown to be adopted by new children.",
+  "actors": [
+    "Keith Ferguson",
+    "Grey DeLisle",
+    "Tom Kenny"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNzAwYzRkN2UtNDcxYS00MmFlLTlkMzItZWU2ZjI2NzJhZGMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Ben 10: Omniverse",
+  "original_query": "Ben 10: Omniverse",
+  "imdb_id": "tt2293002",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2014,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "The continuing adventures of Ben Tennyson (Yuri Lowenthal) and his new partner, Rook Blonko (Bumper Robinson).",
+  "actors": [
+    "Yuri Lowenthal",
+    "Bumper Robinson",
+    "Eric Bauza"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "40S min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjU0Yzg0NDctZDI1My00OWNiLThkOTItMDM3MjA3ZjdhNDVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

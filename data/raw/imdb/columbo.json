@@ -1,0 +1,25 @@
+{
+  "title": "Columbo",
+  "original_query": "Columbo",
+  "imdb_id": "tt1466074",
+  "type": "TV",
+  "year": 1971,
+  "year_end": 1998,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Los Angeles homicide detective, Lieutenant Columbo, uses his humble ways and ingenuous demeanor to root out even the most well-concealed crimes.",
+  "actors": [
+    "Peter Falk",
+    "Mike Lally",
+    "Dianne Travis"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "50S min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDIxMmRhZDQtZjBlNC00OWJkLWI3YmEtZDcyZWRkY2IzNWYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

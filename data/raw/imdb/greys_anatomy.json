@@ -1,0 +1,24 @@
+{
+  "title": "Grey's Anatomy",
+  "original_query": "Grey's Anatomy",
+  "imdb_id": "tt0413573",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+  "actors": [
+    "Ellen Pompeo",
+    "Chandra Wilson",
+    "James Pickens Jr."
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "41 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

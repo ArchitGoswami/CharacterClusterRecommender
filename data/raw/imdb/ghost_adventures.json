@@ -1,0 +1,25 @@
+{
+  "title": "Ghost Adventures",
+  "original_query": "Ghost Adventures",
+  "imdb_id": "tt1319900",
+  "type": "TV",
+  "year": 2008,
+  "year_end": null,
+  "genres": [
+    "Documentary",
+    "History",
+    "Reality-TV"
+  ],
+  "plot": "Zak Bagans, Aaron Goodwin, Billy Tolley and Jay Wasley investigate the scariest, most notorious, haunted places in the world.",
+  "actors": [
+    "Zak Bagans",
+    "Aaron Goodwin",
+    "Billy Tolley"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "45 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGNjMDk4MmItM2IwOS00ZTUyLTk4MjAtYmU0OGEzMTIyYjg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

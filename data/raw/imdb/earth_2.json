@@ -1,0 +1,24 @@
+{
+  "title": "Earth 2",
+  "original_query": "Earth 2",
+  "imdb_id": "tt0108758",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1995,
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "plot": "Colonists, crash-landed on an alien planet, begin the long trek to their originally designated landing place, facing alien and human threats.",
+  "actors": [
+    "Debrah Farentino",
+    "Clancy Brown",
+    "Sullivan Walker"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "59S min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzZkMDM3MWYtY2VlYS00MGUxLWI2MGEtODE2MTZhZGVhMmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

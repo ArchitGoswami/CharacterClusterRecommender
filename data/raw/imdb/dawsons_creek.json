@@ -1,0 +1,24 @@
+{
+  "title": "Dawson's Creek",
+  "original_query": "Dawson's Creek",
+  "imdb_id": "tt0118300",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2003,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "In a rapidly changing world, four teenagers come of age in a small Massachusetts coastal town.",
+  "actors": [
+    "James Van Der Beek",
+    "Katie Holmes",
+    "Michelle Williams"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA3YjAyNTEtOTIwZi00MjQ0LThhMzgtNDdmNmIwNTUyNmNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Burn Notice",
+  "original_query": "Burn Notice",
+  "imdb_id": "tt0810788",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2013,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "US spy Michael Weston suddenly finds himself 'burned'-discredited without any form of procedure. Since no one will really help him, he survives by doing impossible jobs for desperate people in Miami.",
+  "actors": [
+    "Jeffrey Donovan",
+    "Gabrielle Anwar",
+    "Bruce Campbell"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "44 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTczMzg4NjU1Ml5BMl5BanBnXkFtZTcwODc4NzY5Nw@@._V1_SX300.jpg",
+  "source": "omdb"
+}

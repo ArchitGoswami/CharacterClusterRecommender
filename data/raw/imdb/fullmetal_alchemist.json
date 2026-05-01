@@ -1,0 +1,25 @@
+{
+  "title": "Fullmetal Alchemist",
+  "original_query": "Fullmetal Alchemist",
+  "imdb_id": "tt0421357",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2004,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "When a failed alchemical ritual leaves brothers Edward and Alphonse Elric with severely damaged bodies, they begin searching for the one thing that can save them: the fabled philosopher's stone.",
+  "actors": [
+    "Vic Mignogna",
+    "Aaron Dismuke",
+    "Romi Park"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDczZWMyMjEtZDI0ZS00YThjLWE2MjEtNTIxNmVmZDhkNDg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

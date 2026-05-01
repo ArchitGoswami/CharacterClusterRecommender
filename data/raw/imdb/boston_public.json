@@ -1,0 +1,24 @@
+{
+  "title": "Boston Public",
+  "original_query": "Boston Public",
+  "imdb_id": "tt0247081",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2006,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "The lives of 10 faculty members at a high school in Boston weave in and out of dealing with trouble-makers, having a personal life, and keeping sanity.",
+  "actors": [
+    "Loretta Devine",
+    "Anthony Heald",
+    "Fyvush Finkel"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmZkOWU1ZDItMjk4Mi00YTdlLWI5M2EtZmVlMzg4ODVlMGNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

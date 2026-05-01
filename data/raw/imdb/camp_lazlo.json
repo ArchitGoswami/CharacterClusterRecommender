@@ -1,0 +1,25 @@
+{
+  "title": "Camp Lazlo!",
+  "original_query": "Camp Lazlo",
+  "imdb_id": "tt0419315",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "Bean Scout Lazlo, a fun-loving, free-spirited monkey, and his two bunkmates Raj and Clam, wreak havoc on a very structured summer camp.",
+  "actors": [
+    "Carlos Alazraqui",
+    "Tom Kenny",
+    "Jeff Bennett"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDNlZDA3MGItNTBhZC00ODZmLThmMDAtNjMzZmExZTI3NDYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

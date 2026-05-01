@@ -1,0 +1,25 @@
+{
+  "title": "James the Cat",
+  "original_query": "James the Cat",
+  "imdb_id": "tt0813723",
+  "type": "TV",
+  "year": 1984,
+  "year_end": 1998,
+  "genres": [
+    "Animation",
+    "Short",
+    "Action"
+  ],
+  "plot": "An over-privileged fat feline is forced to live in the wild, where he befriends the forest animals.",
+  "actors": [
+    "Sean Arnold",
+    "Alistair McGowan",
+    "Roberto Zenca"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "5 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODg3Y2JmNzItNDlmNC00MDhjLWIwNTYtOGE5MjY3MmMxMGJkXkEyXkFqcGdeQXVyODk1MzE0Mzk@._V1_SX300.jpg",
+  "source": "omdb"
+}

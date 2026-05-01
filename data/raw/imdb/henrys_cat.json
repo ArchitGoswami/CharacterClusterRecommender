@@ -1,0 +1,22 @@
+{
+  "title": "Henry's Cat",
+  "original_query": "Henry's Cat",
+  "imdb_id": "tt0084064",
+  "type": "TV",
+  "year": 1983,
+  "year_end": null,
+  "genres": [
+    "Family",
+    "Animation"
+  ],
+  "plot": "Henry's Cat is a whimsical cartoon series that follows the adventures of a small yellow feline and his friends. Henry's Cat is the typical cat, loving nothing better than to eat and to sleep. He has recently developed a cult follo...",
+  "actors": [
+    "Bob Godfrey"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "5 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkwMzYwMTkyMF5BMl5BanBnXkFtZTcwNDAxMjkxMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

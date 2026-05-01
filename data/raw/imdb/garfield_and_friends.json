@@ -1,0 +1,25 @@
+{
+  "title": "Garfield and Friends",
+  "original_query": "Garfield and Friends",
+  "imdb_id": "tt0094469",
+  "type": "TV",
+  "year": 1988,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Stories about Garfield the cat, Odie the dog, their owner Jon and the trouble they get into, and Orson the Pig and his adventures on a farm with fellow farm animals.",
+  "actors": [
+    "Lorenzo Music",
+    "Thom Huge",
+    "Gregg Berger"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZWJhMzIyYTQtZDQ0OC00NmE4LTg5YjctYTYwYzJiMjM5NzIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

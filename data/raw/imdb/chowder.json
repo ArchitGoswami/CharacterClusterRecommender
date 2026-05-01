@@ -1,0 +1,25 @@
+{
+  "title": "Chowder",
+  "original_query": "Chowder",
+  "imdb_id": "tt1140100",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "In Marzipan City, excitable young food-loving Chowder is the apprentice of Mung Daal, a very old chef who runs a catering company with his wife Truffles and assistant Shnitzel.",
+  "actors": [
+    "Nicky Jones",
+    "Dwight Schultz",
+    "John DiMaggio"
+  ],
+  "director": "",
+  "rated": "TV-Y7-FV",
+  "runtime": "11 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTkxM2YzYTYtODY1OS00NjFjLWFiNTgtNDI0MjY4N2FkNjY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

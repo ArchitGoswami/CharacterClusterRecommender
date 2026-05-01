@@ -1,0 +1,24 @@
+{
+  "title": "Face Off",
+  "original_query": "Face Off",
+  "imdb_id": "tt1663641",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2018,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "plot": "Special effects make up artists compete in challenges.",
+  "actors": [
+    "McKenzie Westmore",
+    "Glenn Hetrick",
+    "Ve Neill"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "44 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTUzMTk4NDU2MV5BMl5BanBnXkFtZTcwMjk4ODgzNA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

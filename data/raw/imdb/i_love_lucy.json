@@ -1,0 +1,23 @@
+{
+  "title": "I Love Lucy",
+  "original_query": "I Love Lucy",
+  "imdb_id": "tt0043208",
+  "type": "TV",
+  "year": 1951,
+  "year_end": 1957,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "The wife of a band leader constantly tries to become a star - in spite of her having no talent, and gets herself (along with her best friend) into the funniest predicaments.",
+  "actors": [
+    "Lucille Ball",
+    "Desi Arnaz",
+    "Vivian Vance"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "8.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGRmMjkwNTItMjQyZi00ZWU4LTgzNzItZTMwYWMwNzE4ZDI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

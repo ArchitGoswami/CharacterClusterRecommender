@@ -1,0 +1,25 @@
+{
+  "title": "Dr. Quinn, Medicine Woman",
+  "original_query": "Dr. Quinn, Medicine Woman",
+  "imdb_id": "tt0103405",
+  "type": "TV",
+  "year": 1993,
+  "year_end": 1998,
+  "genres": [
+    "Drama",
+    "Family",
+    "Western"
+  ],
+  "plot": "The trials and adventures of a female doctor in a small Wild West town.",
+  "actors": [
+    "Jane Seymour",
+    "Joe Lando",
+    "Shawn Toovey"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "1 min",
+  "imdb_rating": "6.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDFhNWI4ZmYtY2E4Mi00ZTM5LWI2MmQtNjYzNzYzYWFkNDQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

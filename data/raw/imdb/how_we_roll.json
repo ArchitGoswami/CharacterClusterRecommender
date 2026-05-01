@@ -1,0 +1,23 @@
+{
+  "title": "How We Roll",
+  "original_query": "How We Roll",
+  "imdb_id": "tt14465950",
+  "type": "TV",
+  "year": 2022,
+  "year_end": null,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Follows professional bowler Tom Smallwood's life.",
+  "actors": [
+    "Pete Holmes",
+    "Katie Lowes",
+    "Mason Wells"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "31S min",
+  "imdb_rating": "5.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTY0MjY0OTMtNzY3ZC00NDRkLWI0ZWEtN2E3NzU1ODA0MWNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

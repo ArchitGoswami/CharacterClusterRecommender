@@ -1,0 +1,25 @@
+{
+  "title": "Ally McBeal",
+  "original_query": "Ally McBeal",
+  "imdb_id": "tt0118254",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2002,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "plot": "Follows the personal and professional life of lawyer Ally.",
+  "actors": [
+    "Calista Flockhart",
+    "Greg Germann",
+    "Jane Krakowski"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "45 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg1NTI0MTUxMl5BMl5BanBnXkFtZTcwODE1MzgyMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

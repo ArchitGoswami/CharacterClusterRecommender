@@ -1,0 +1,24 @@
+{
+  "title": "Friends",
+  "original_query": "Friends",
+  "imdb_id": "tt0108778",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 2004,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "plot": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+  "actors": [
+    "Jennifer Aniston",
+    "Courteney Cox",
+    "Lisa Kudrow"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+  "source": "omdb"
+}

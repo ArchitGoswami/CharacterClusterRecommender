@@ -1,0 +1,25 @@
+{
+  "title": "Iron Man: Armored Adventures",
+  "original_query": "Iron Man: Armored Adventures",
+  "imdb_id": "tt0837143",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2012,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A teenage Tony Stark battles evil with his revolutionary power armor technology.",
+  "actors": [
+    "Adrian Petriw",
+    "Daniel Bacon",
+    "Anna Cummer"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "22 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGQxMDI4YWQtNzI0Ny00ODBkLWJjMDUtOTRmN2Q0MDU2NjYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

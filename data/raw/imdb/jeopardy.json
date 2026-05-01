@@ -1,0 +1,24 @@
+{
+  "title": "Jeopardy!",
+  "original_query": "Jeopardy!",
+  "imdb_id": "tt0159881",
+  "type": "TV",
+  "year": 1984,
+  "year_end": null,
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "plot": "A returning champion and two challengers test their buzzer skills and their knowledge in a wide range of academic and popular categories.",
+  "actors": [
+    "Alex Trebek",
+    "Johnny Gilbert",
+    "Jimmy McGuire"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM1NjQ1YzUtZDFhMS00MDRkLWIwODMtOWIxOGUwZTA1MTgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

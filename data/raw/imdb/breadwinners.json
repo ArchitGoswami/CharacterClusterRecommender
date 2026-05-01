@@ -1,0 +1,25 @@
+{
+  "title": "Breadwinners",
+  "original_query": "Breadwinners",
+  "imdb_id": "tt3481544",
+  "type": "TV",
+  "year": 2014,
+  "year_end": 2016,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Two ducks fly around in a rocket-powered van, delivering bread to other ducks in Pondgea.",
+  "actors": [
+    "Robbie Daymond",
+    "Eric Bauza",
+    "Alexander Polinsky"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "N/A",
+  "imdb_rating": "2.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYjEwYWI5OTctZDA4NC00ZjQzLWJjMGYtMDZjZDVkNWY0ZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

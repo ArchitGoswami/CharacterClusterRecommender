@@ -1,0 +1,24 @@
+{
+  "title": "Hogan's Heroes",
+  "original_query": "Hogan's Heroes",
+  "imdb_id": "tt0058812",
+  "type": "TV",
+  "year": 1965,
+  "year_end": 1971,
+  "genres": [
+    "Comedy",
+    "War"
+  ],
+  "plot": "The inmates of a German World War II prisoner of war camp conduct an espionage and sabotage campaign right under the noses of their warders.",
+  "actors": [
+    "Bob Crane",
+    "Werner Klemperer",
+    "John Banner"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "33S min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTA4ZDgyMjMtOGIyNy00ZWFhLTg1MDctNjQ1ZDM1MDNmOTljXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

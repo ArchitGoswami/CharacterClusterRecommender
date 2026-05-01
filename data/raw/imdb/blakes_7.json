@@ -1,0 +1,25 @@
+{
+  "title": "Blake's 7",
+  "original_query": "Blake's 7",
+  "imdb_id": "tt0076987",
+  "type": "TV",
+  "year": 1978,
+  "year_end": 1981,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "plot": "A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.",
+  "actors": [
+    "Michael Keating",
+    "Paul Darrow",
+    "Peter Tuddenham"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "50 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWQ2YjdkYTktMDQzMy00YjQ4LWFlMzItMjU2NjI4MmE1Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

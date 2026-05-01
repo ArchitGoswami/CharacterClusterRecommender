@@ -1,0 +1,25 @@
+{
+  "title": "Higglytown Heroes",
+  "original_query": "Higglytown Heroes",
+  "imdb_id": "tt0406419",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "Higglytown is full of everyday heroes like Mail Carrier Hero (Kathie Lee Gifford), Fireman Hero (Donald Faison), and Bus Driver Hero (Stuart Pankin). This inventive series taught children about their ever-growing environment in an...",
+  "actors": [
+    "Robert Grovich",
+    "Dee Bradley Baker",
+    "Frankie Ryan Manriquez"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "30 min",
+  "imdb_rating": "4.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE3NmQ4ZjUtYTlkYi00OWE5LWI0YWEtMDBmODY3ZDU1YmEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

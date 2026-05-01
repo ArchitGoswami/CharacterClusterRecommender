@@ -1,0 +1,23 @@
+{
+  "title": "Here Comes Honey Boo Boo",
+  "original_query": "Here Comes Honey Boo Boo",
+  "imdb_id": "tt2288050",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2017,
+  "genres": [
+    "Reality-TV"
+  ],
+  "plot": "A reality-TV show featuring the life of \"Toddlers and Tiaras\" competitor Alana 'Honey Boo Boo' Thompson and her overweight family through their day-to-day lives.",
+  "actors": [
+    "Jo Shannon",
+    "Alana Thompson",
+    "June Shannon"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "2.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE4YzcxNmItYWI1MC00YTdmLWJkY2UtMWJlNjk4YTE1MjlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

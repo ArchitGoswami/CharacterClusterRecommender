@@ -1,0 +1,25 @@
+{
+  "title": "American Gods",
+  "original_query": "American Gods",
+  "imdb_id": "tt1898069",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2021,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "plot": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.",
+  "actors": [
+    "Ricky Whittle",
+    "Emily Browning",
+    "Yetide Badaki"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmJkNzhhNjEtNWY0Zi00ZmU4LThkZTQtMDU1YWY3MWRjZDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

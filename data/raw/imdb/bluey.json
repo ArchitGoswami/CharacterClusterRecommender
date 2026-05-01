@@ -1,0 +1,24 @@
+{
+  "title": "Bluey",
+  "original_query": "Bluey",
+  "imdb_id": "tt7678620",
+  "type": "TV",
+  "year": 2018,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "plot": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
+  "actors": [
+    "David McCormack",
+    "Melanie Zanetti",
+    "Brad Elliott"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "7 min",
+  "imdb_rating": "9.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

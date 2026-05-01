@@ -1,0 +1,25 @@
+{
+  "title": "Fillmore!",
+  "original_query": "Fillmore!",
+  "imdb_id": "tt0337761",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2004,
+  "genres": [
+    "Action",
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "Former delinquent now fights for the good guys at X Middle School.",
+  "actors": [
+    "Orlando Brown",
+    "Tara Strong",
+    "Don LaFontaine"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E5ZGU4MTYtYjE2ZS00NzM4LWI1YmMtZWQ5Yzk5ZTExZDY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

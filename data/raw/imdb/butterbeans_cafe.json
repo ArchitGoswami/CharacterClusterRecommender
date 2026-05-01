@@ -1,0 +1,25 @@
+{
+  "title": "Butterbean's Café",
+  "original_query": "Butterbean's Cafe",
+  "imdb_id": "tt7833624",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2020,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "plot": "Animated series about a fairy and her adventures running a neighborhood café with her friends.",
+  "actors": [
+    "Margaret Ying Drake",
+    "Koda Gursoy",
+    "Gabriella Pizzolo"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "N/A",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA4MmY0NmEtMmZlZS00MTBiLWIxNDEtODNlNzhiOTQzNmY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

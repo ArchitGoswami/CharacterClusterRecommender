@@ -1,0 +1,25 @@
+{
+  "title": "I'm a Celebrity, Get Me Out of Here!",
+  "original_query": "I'm a Celebrity... Get Me Out of Here!",
+  "imdb_id": "tt0338616",
+  "type": "TV",
+  "year": 2002,
+  "year_end": null,
+  "genres": [
+    "Documentary",
+    "Adventure",
+    "Biography"
+  ],
+  "plot": "Twelve celebrities are abandoned in the Australian jungle. In order to earn food, they must perform Bushtucker Trials which challenge them physically and mentally.",
+  "actors": [
+    "Declan Donnelly",
+    "Anthony McPartlin",
+    "Mimi Webb"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "N/A",
+  "imdb_rating": "5.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMwMzcxMzktNWNmNC00YTgyLWIxYmQtYWU0YzkyMjg3ZDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

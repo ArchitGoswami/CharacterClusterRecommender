@@ -1,0 +1,25 @@
+{
+  "title": "Agents of S.H.I.E.L.D.",
+  "original_query": "Agents of S.H.I.E.L.D.",
+  "imdb_id": "tt2364582",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2020,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "plot": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+  "actors": [
+    "Clark Gregg",
+    "Ming-Na Wen",
+    "Brett Dalton"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "45 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_SX300.jpg",
+  "source": "omdb"
+}

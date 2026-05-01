@@ -1,0 +1,25 @@
+{
+  "title": "Gargoyles",
+  "original_query": "Gargoyles",
+  "imdb_id": "tt0108783",
+  "type": "TV",
+  "year": 1994,
+  "year_end": 1997,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A clan of heroic night creatures pledge to protect modern New York City as they did in Scotland one thousand years earlier.",
+  "actors": [
+    "Keith David",
+    "Salli Richardson-Whitfield",
+    "Jeff Bennett"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGU0ZjcxZjMtODU0NC00MWIyLTk5NWMtZDhhODlmMjI4M2Y1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

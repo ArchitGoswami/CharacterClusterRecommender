@@ -1,0 +1,23 @@
+{
+  "title": "Call Me Kat",
+  "original_query": "Call Me Kat",
+  "imdb_id": "tt10985096",
+  "type": "TV",
+  "year": 2021,
+  "year_end": 2023,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A 39-year-old woman decides to use the money her parents had been saving for her wedding to open a cat-themed cafe.",
+  "actors": [
+    "Mayim Bialik",
+    "Swoosie Kurtz",
+    "Kyla Pratt"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "21 min",
+  "imdb_rating": "5.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTUzNTUyM2QtNjc0Mi00YzJmLThhODAtN2U0YThiNzZlODI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

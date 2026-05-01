@@ -1,0 +1,25 @@
+{
+  "title": "Atomic Betty",
+  "original_query": "Atomic Betty",
+  "imdb_id": "tt0424603",
+  "type": "TV",
+  "year": 2004,
+  "year_end": 2010,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A smart, and sugary-sweet Canadian girl leads a double life as a defender of the galaxy.",
+  "actors": [
+    "Tony Daniels",
+    "Tony Rosato",
+    "Bruce Hunter"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "5.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmNmYjJjYWMtOTZkZS00ODI0LWEwOWQtYzQyYjg5MDljYzUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

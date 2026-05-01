@@ -1,0 +1,23 @@
+{
+  "title": "Go On",
+  "original_query": "Go On",
+  "imdb_id": "tt2300923",
+  "type": "TV",
+  "year": 2012,
+  "year_end": 2013,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Pressured by his boss to join a support group because he can't move forward after his wife's death, an irreverent sportscaster finds connection with the extremely varied members.",
+  "actors": [
+    "Matthew Perry",
+    "Laura Benanti",
+    "Julie White"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYwOTgwOTU2OF5BMl5BanBnXkFtZTcwNDQ5NTU0OA@@._V1_SX300.jpg",
+  "source": "omdb"
+}

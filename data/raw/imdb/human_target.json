@@ -1,0 +1,25 @@
+{
+  "title": "Human Target",
+  "original_query": "Human Target",
+  "imdb_id": "tt1439741",
+  "type": "TV",
+  "year": 2010,
+  "year_end": 2011,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "plot": "A unique bodyguard protects his clients by secretly infiltrating their lives in order to draw out and eliminate threats.",
+  "actors": [
+    "Mark Valley",
+    "Chi McBride",
+    "Jackie Earle Haley"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWRjODBjNTEtYzJlOC00ZWNjLTgyNGQtNzlkYmUxNDU5MWUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

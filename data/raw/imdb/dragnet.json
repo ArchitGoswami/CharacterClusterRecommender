@@ -1,0 +1,25 @@
+{
+  "title": "Dragnet",
+  "original_query": "Dragnet",
+  "imdb_id": "tt0043194",
+  "type": "TV",
+  "year": 1951,
+  "year_end": 1959,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "Follows Sergeant Joe Friday of the Los Angels Police Department (LAPD) and his various partners as they methodically investigate a different verity of crimes in Los Angeles, California.",
+  "actors": [
+    "Jack Webb",
+    "Hal Gibney",
+    "Ben Alexander"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGRhMTlkZDMtMzc4My00ZGIyLThmNGUtMTM5MTMzNGQ5OWIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

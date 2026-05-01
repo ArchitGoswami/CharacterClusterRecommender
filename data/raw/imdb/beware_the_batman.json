@@ -1,0 +1,25 @@
+{
+  "title": "Beware the Batman",
+  "original_query": "Beware the Batman",
+  "imdb_id": "tt2329077",
+  "type": "TV",
+  "year": 2013,
+  "year_end": 2014,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Batman, a crime-fighting vigilante of Gotham City, goes up against the underworld.",
+  "actors": [
+    "Anthony Ruivivar",
+    "Sumalee Montano",
+    "JB Blanc"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "23S min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUyOWZiZGItZmYxNC00YWM2LThkNWUtZjBiMDM3MDg3NTg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

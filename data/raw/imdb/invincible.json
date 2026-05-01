@@ -1,0 +1,25 @@
+{
+  "title": "Invincible",
+  "original_query": "Invincible",
+  "imdb_id": "tt6741278",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "When 17-year-old Mark Grayson inherits superpowers, he becomes the superhero Invincible.",
+  "actors": [
+    "Steven Yeun",
+    "J.K. Simmons",
+    "Sandra Oh"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "8.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZGM5MmM2ZDAtMzBjNS00NjMxLWE4ZTMtNzFjMWMxYzU2ZThjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "source": "omdb"
+}

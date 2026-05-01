@@ -1,0 +1,23 @@
+{
+  "title": "Head of the Class",
+  "original_query": "Head of the Class",
+  "imdb_id": "tt0090444",
+  "type": "TV",
+  "year": 1986,
+  "year_end": 1991,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "A laidback teacher provides needed guidance about life for a special class of exceptional students.",
+  "actors": [
+    "William G. Schilling",
+    "Jeannetta Arnette",
+    "Dan Frischman"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODc2MDBhYWEtYzQ0MC00OWFlLWIwM2YtZTMwNmIwY2MwZDk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

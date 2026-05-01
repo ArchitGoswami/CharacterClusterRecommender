@@ -1,0 +1,25 @@
+{
+  "title": "Insatiable",
+  "original_query": "Insatiable",
+  "imdb_id": "tt6487482",
+  "type": "TV",
+  "year": 2018,
+  "year_end": 2019,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "plot": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+  "actors": [
+    "Dallas Roberts",
+    "Debby Ryan",
+    "Christopher Gorham"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "45 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTAyZGMyMDYtYTIzYi00ZDViLWFmNzAtMDk5N2Y0YzU4YzMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

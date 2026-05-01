@@ -1,0 +1,25 @@
+{
+  "title": "Blood+",
+  "original_query": "Blood+",
+  "imdb_id": "tt0482855",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "In present day Okinawa, a young amnesiac girl named Saya combats vicious, shape-shifting vampires. Her adoptive family and friends help her track down their source and uncover her past.",
+  "actors": [
+    "Crispin Freeman",
+    "Eri Kitamura",
+    "Kari Wahlgren"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "1 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTFlZjQ5N2MtNzgxYi00N2Q0LTlkNTAtNGI2ZTc1MDQ1NWRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

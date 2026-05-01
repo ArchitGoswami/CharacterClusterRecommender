@@ -1,0 +1,25 @@
+{
+  "title": "Cops",
+  "original_query": "Cops",
+  "imdb_id": "tt0096563",
+  "type": "TV",
+  "year": 1989,
+  "year_end": 2025,
+  "genres": [
+    "Action",
+    "Crime",
+    "Reality-TV"
+  ],
+  "plot": "Camera crews follow police officers while they work.",
+  "actors": [
+    "Ruben Barela",
+    "Andrew Fincher",
+    "Alex Cox"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "1 min",
+  "imdb_rating": "6.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzg5NWQ4ODUtZTNiNS00YjAxLWIxYmYtZmI1MzAwNWI5YWYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

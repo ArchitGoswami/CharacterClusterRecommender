@@ -1,0 +1,24 @@
+{
+  "title": "Better Call Saul",
+  "original_query": "Better Call Saul",
+  "imdb_id": "tt3032476",
+  "type": "TV",
+  "year": 2015,
+  "year_end": 2022,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
+  "actors": [
+    "Bob Odenkirk",
+    "Rhea Seehorn",
+    "Jonathan Banks"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "46 min",
+  "imdb_rating": "9.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

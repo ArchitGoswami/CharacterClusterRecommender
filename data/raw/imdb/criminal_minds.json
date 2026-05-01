@@ -1,0 +1,25 @@
+{
+  "title": "Criminal Minds",
+  "original_query": "Criminal Minds",
+  "imdb_id": "tt0452046",
+  "type": "TV",
+  "year": 2005,
+  "year_end": null,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "plot": "The FBI's Behavioral Analysis Unit in Quantico helps police solve violent serial crimes using profiling. Team members analyze evidence and psychology to catch unknown subjects, but their demanding work affects personal lives.",
+  "actors": [
+    "Kirsten Vangsness",
+    "A.J. Cook",
+    "Matthew Gray Gubler"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

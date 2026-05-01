@@ -1,0 +1,25 @@
+{
+  "title": "Agatha All Along",
+  "original_query": "Agatha All Along",
+  "imdb_id": "tt15571732",
+  "type": "TV",
+  "year": 2024,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "A spell-bound Agatha Harkness regains freedom thanks to a teen's help. Intrigued by his plea, she embarks on the Witches' Road trials to reclaim her powers and discover the teen's motivations.",
+  "actors": [
+    "Kathryn Hahn",
+    "Joe Locke",
+    "Sasheer Zamata"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "N/A",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Elinor Wonders Why",
+  "original_query": "Elinor Wonders Why",
+  "imdb_id": "tt11992456",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "In a non-human area called Animal Town lives a 5-year-old bunny named Elinor who teaches preschoolers ages 1 to 4 the basics of helping the community and discovering how plants, bugs, and animals do the same.",
+  "actors": [
+    "Markeda McKay",
+    "Wyatt White",
+    "Maria Nash"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "1 min",
+  "imdb_rating": "8.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMmFmYWRlN2UtYTljMy00ZjRmLTliMjItMTIwOTBjOTcwYWUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

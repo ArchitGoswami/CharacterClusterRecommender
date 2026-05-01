@@ -1,0 +1,23 @@
+{
+  "title": "In Treatment",
+  "original_query": "In Treatment",
+  "imdb_id": "tt0835434",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2021,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A psychotherapist questions his abilities and gets help by reuniting with his old therapist, whom he has not seen for ten years.",
+  "actors": [
+    "Gabriel Byrne",
+    "Uzo Aduba",
+    "Dianne Wiest"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "25 min",
+  "imdb_rating": "8.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzVmYjkzZGQtZjg0NC00YWVjLWI1MzEtZGNhNGJkYzhhZTJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Dreamstone",
+  "original_query": "Dreamstone",
+  "imdb_id": "tt0299286",
+  "type": "TV",
+  "year": 1990,
+  "year_end": 1995,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "Somewhere in the universe is a planet only visible to those who believe in it. On the sunny side lives the Old Dreammaker, guardian of the most precious and powerful thing in the world - the Dreamstone. Every night he uses it to s...",
+  "actors": [
+    "Melvyn Hayes",
+    "Gary Martin",
+    "Jacqueline Clarke"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "25 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYWI4NTA5N2QtM2IzYS00NTU0LWIxY2QtYjQ5ODEwZjI0NjkyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "source": "omdb"
+}

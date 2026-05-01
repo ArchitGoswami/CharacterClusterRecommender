@@ -1,0 +1,24 @@
+{
+  "title": "Forrest Gump",
+  "original_query": "Forrest Gump",
+  "imdb_id": "tt0109830",
+  "type": "Movie",
+  "year": 1994,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "director": "Robert Zemeckis",
+  "rated": "PG-13",
+  "runtime": "142 min",
+  "imdb_rating": "8.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+  "source": "omdb"
+}

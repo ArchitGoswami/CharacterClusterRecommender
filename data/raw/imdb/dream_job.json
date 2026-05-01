@@ -1,0 +1,25 @@
+{
+  "title": "Dream Job",
+  "original_query": "Dream Job",
+  "imdb_id": "tt0401926",
+  "type": "TV",
+  "year": 2004,
+  "year_end": null,
+  "genres": [
+    "Game-Show",
+    "Reality-TV",
+    "Sport"
+  ],
+  "plot": "12 finalists compete for the ultimate sports job... a sportscaster for ESPN's Sportscenter.",
+  "actors": [
+    "Michael Magid",
+    "Stephen A. Smith",
+    "Kit Hoover"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWNkNjhhYzMtOGY0Yy00MzRhLTlmMjgtMDY0MTk0MTg1YjA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

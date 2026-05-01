@@ -1,0 +1,25 @@
+{
+  "title": "Bunnicula",
+  "original_query": "Bunnicula",
+  "imdb_id": "tt5444412",
+  "type": "TV",
+  "year": 2016,
+  "year_end": 2019,
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure"
+  ],
+  "plot": "A vampire rabbit likes to drink carrot juice instead of blood to strengthen up his super abilities in new paranormal adventures.",
+  "actors": [
+    "Chris Kattan",
+    "Sean Astin",
+    "Brian Kimmet"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "1 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BN2Y4ODhhZjktZTIwZi00NjEwLWE0MTItNWJlYjNhZTRlMWY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

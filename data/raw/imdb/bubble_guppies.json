@@ -1,0 +1,25 @@
+{
+  "title": "Bubble Guppies",
+  "original_query": "Bubble Guppies",
+  "imdb_id": "tt0965404",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2023,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "plot": "The adventures of six fish-tailed kids- Molly, Gil, Deema, Oona, Goby, and Nonny.",
+  "actors": [
+    "Brianna Gentilella",
+    "Chris Phillips",
+    "Tino Insana"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "24 min",
+  "imdb_rating": "6.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNWVkM2EwNGMtOWRmNi00Y2IxLThlNDMtZWE4N2YyYmFiMDkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

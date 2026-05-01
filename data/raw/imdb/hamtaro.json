@@ -1,0 +1,25 @@
+{
+  "title": "Hamtaro",
+  "original_query": "Hamtaro",
+  "imdb_id": "tt0318895",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "plot": "The story of hamsters who get together at meetings to talk about their adventures.",
+  "actors": [
+    "Kurumi Mamiya",
+    "Ellen Kennedy",
+    "Chris Kalhoon"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "31S min",
+  "imdb_rating": "6.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNjI1MGNjZTUtMzVjMi00OTk0LTk0MGItNDUyZjZlYmQ4MzFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

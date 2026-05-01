@@ -1,0 +1,25 @@
+{
+  "title": "Duel Masters",
+  "original_query": "Duel Masters",
+  "imdb_id": "tt0404597",
+  "type": "TV",
+  "year": 2002,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Family"
+  ],
+  "plot": "A ten year old boy wants to become the best duelist, like his father in the duel masters world.",
+  "actors": [
+    "Doug Erholtz",
+    "Lisa Enochs",
+    "Milton Lawrence"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "N/A",
+  "imdb_rating": "5.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMzczMDQyMjc5NV5BMl5BanBnXkFtZTcwMzcwMTEzMQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bratz",
+  "original_query": "Bratz",
+  "imdb_id": "tt0471990",
+  "type": "TV",
+  "year": 2005,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "Four fashionable teenage girls scoop stories for their popular magazine.",
+  "actors": [
+    "Olivia Hack",
+    "Soleil Moon Frye",
+    "Tia Mowry"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "21 min",
+  "imdb_rating": "3.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI2NTU0NjgtMGNjZi00Yjg3LTgxNmItOGY0MmNmZmIyZTEyXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SX300.jpg",
+  "source": "omdb"
+}

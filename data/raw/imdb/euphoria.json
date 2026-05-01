@@ -1,0 +1,23 @@
+{
+  "title": "Euphoria",
+  "original_query": "Euphoria",
+  "imdb_id": "tt8772296",
+  "type": "TV",
+  "year": 2019,
+  "year_end": 2026,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence.",
+  "actors": [
+    "Zendaya",
+    "Hunter Schafer",
+    "Maude Apatow"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "55 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzg5MTVmNjgtMGQ3Zi00YThlLWFjMzgtYzc2NGUyMzE2MWQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "source": "omdb"
+}

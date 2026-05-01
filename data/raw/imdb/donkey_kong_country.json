@@ -1,0 +1,25 @@
+{
+  "title": "Donkey Kong Country",
+  "original_query": "Donkey Kong Country",
+  "imdb_id": "tt0149447",
+  "type": "TV",
+  "year": 1997,
+  "year_end": 2000,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Donkey Kong and his sidekick, Diddy Kong, star in a computer-generated rendition of the classic video game.",
+  "actors": [
+    "Richard Yearwood",
+    "Andrew Sabiston",
+    "Donald Burda"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "30 min",
+  "imdb_rating": "5.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOWY2MGQ5MjQtMmFmYy00ZDNjLTg0NzktYzgxNWM0NTZmNTIxXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_SX300.jpg",
+  "source": "omdb"
+}

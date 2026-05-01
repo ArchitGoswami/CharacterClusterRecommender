@@ -1,0 +1,25 @@
+{
+  "title": "Afro Samurai",
+  "original_query": "Afro Samurai",
+  "imdb_id": "tt0465316",
+  "type": "TV",
+  "year": 2007,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A Black samurai goes on a mission to avenge the wrongful death of his father in a futuristic feudal Japan.",
+  "actors": [
+    "Samuel L. Jackson",
+    "Phil LaMarr",
+    "Yuri Lowenthal"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "26 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMjRlZGMwZmMtZjA0YS00NjUzLTk1OGYtNDhjZjM3ZmJkNGRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

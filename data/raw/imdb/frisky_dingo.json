@@ -1,0 +1,25 @@
+{
+  "title": "Frisky Dingo",
+  "original_query": "Frisky Dingo",
+  "imdb_id": "tt0865409",
+  "type": "TV",
+  "year": 2006,
+  "year_end": 2008,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "plot": "A philandering billionaire playboy who moonlights as the superhero, Awesome X, faces against his greatest adversary, Killface, but finds balancing his business and superhero lives difficult.",
+  "actors": [
+    "Adam Reed",
+    "Eric Sims",
+    "Neal Holman"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "11 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFkZGU5YmItNDcwZC00ZGE5LTg2ZDAtN2FjNTY1MDgyODAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

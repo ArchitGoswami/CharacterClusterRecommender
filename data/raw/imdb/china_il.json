@@ -1,0 +1,24 @@
+{
+  "title": "China, IL",
+  "original_query": "China, IL",
+  "imdb_id": "tt2058221",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2015,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "plot": "Steve and Frank Smith are brothers who teach the history department in the worst university in America.",
+  "actors": [
+    "Brad Neely",
+    "Greta Gerwig",
+    "Hulk Hogan"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "22 min",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQ3Y2U4ZDEtMTU0ZS00MTQyLThjY2ItNjBiYzRhOWYxZTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

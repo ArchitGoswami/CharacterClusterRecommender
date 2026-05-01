@@ -1,0 +1,25 @@
+{
+  "title": "Eli Stone",
+  "original_query": "Eli Stone",
+  "imdb_id": "tt0892535",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2009,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "plot": "San Francisco lawyer Eli Stone begins to see things, which leads him to discover a brain aneurysm. But his visions lead him to accept cases with little monetary gain but a lot of moral goodness.",
+  "actors": [
+    "Jonny Lee Miller",
+    "Natasha Henstridge",
+    "Loretta Devine"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "60 min",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BZjc3MDBmNTQtY2I1ZC00YTI2LWE3MGItODM3ODE3NTIyOTIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Hack",
+  "original_query": "Hack",
+  "imdb_id": "tt0320022",
+  "type": "TV",
+  "year": 2002,
+  "year_end": 2004,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "plot": "When corruption charges strip him of his job, his family and his pride, former cop Mike Olshansky forges a new identity as a Philadelphia cab driver, patrolling the city as a roving vigilante who works with local police.",
+  "actors": [
+    "David Morse",
+    "Andre Braugher",
+    "Matthew Borish"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY0MTM3NzUyOV5BMl5BanBnXkFtZTcwMjk3Mzk1MQ@@._V1_SX300.jpg",
+  "source": "omdb"
+}

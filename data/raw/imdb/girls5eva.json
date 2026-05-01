@@ -1,0 +1,24 @@
+{
+  "title": "Girls5eva",
+  "original_query": "Girls5eva",
+  "imdb_id": "tt11650492",
+  "type": "TV",
+  "year": 2021,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "plot": "A one-hit-wonder band from the '90s gets a second shot at fame when a young rapper samples their song.",
+  "actors": [
+    "Sara Bareilles",
+    "Busy Philipps",
+    "Paula Pell"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGViMjI5ZDAtY2RkNi00ZTMyLWE5YzMtOWFjYTJmNTY2NGU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

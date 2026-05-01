@@ -1,0 +1,23 @@
+{
+  "title": "I'll Fly Away",
+  "original_query": "I'll Fly Away",
+  "imdb_id": "tt0101124",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1993,
+  "genres": [
+    "Drama"
+  ],
+  "plot": "Forrest Bedford is a Southern lawyer in the late 1950s, generally content with his privileged life.",
+  "actors": [
+    "Sam Waterston",
+    "Regina Taylor",
+    "Jeremy London"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "8.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTZlNTdmYTEtNzdlMy00Nzc4LWE3ZTEtZTZlMGQ2ZGI1NmNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

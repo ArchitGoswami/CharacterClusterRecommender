@@ -1,0 +1,25 @@
+{
+  "title": "Homefront",
+  "original_query": "Homefront",
+  "imdb_id": "tt0101121",
+  "type": "TV",
+  "year": 1991,
+  "year_end": 1993,
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "plot": "World War II is over and the boys from the town of River Run, Ohio, are coming home. It seems that life is slowly going back to normal, but war has changed everything and they will never be the same again.",
+  "actors": [
+    "Kyle Chandler",
+    "Sammi Davis",
+    "Ken Jenkins"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "60 min",
+  "imdb_rating": "8.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGYwMjUzOTktNTY2My00ZjA1LThhN2YtNmVmNDYxN2QwMDA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

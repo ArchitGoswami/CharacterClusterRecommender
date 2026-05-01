@@ -1,0 +1,25 @@
+{
+  "title": "24",
+  "original_query": "24",
+  "imdb_id": "tt0285331",
+  "type": "TV",
+  "year": 2001,
+  "year_end": 2010,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.",
+  "actors": [
+    "Kiefer Sutherland",
+    "Mary Lynn Rajskub",
+    "Carlos Bernard"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "44 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg",
+  "source": "omdb"
+}

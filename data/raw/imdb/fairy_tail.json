@@ -1,0 +1,25 @@
+{
+  "title": "Fairy Tail",
+  "original_query": "Fairy Tail",
+  "imdb_id": "tt1528406",
+  "type": "TV",
+  "year": 2009,
+  "year_end": 2019,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "Lucy, an aspiring Celestial Wizard, becomes a friend and ally to powerful wizards Natsu, Gray, and Erza, who are part of the (in)famous wizard guild, Fairy Tail.",
+  "actors": [
+    "Cherami Leigh",
+    "Tetsuya Kakihara",
+    "Rie Kugimiya"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "24 min",
+  "imdb_rating": "7.9",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODlhNTQ3ZDgtMDJlMC00YzdmLWE3ZTMtOWNmMTZkN2I2MzI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

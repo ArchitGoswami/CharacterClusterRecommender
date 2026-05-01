@@ -1,0 +1,25 @@
+{
+  "title": "American Crime Story",
+  "original_query": "American Crime Story",
+  "imdb_id": "tt2788432",
+  "type": "TV",
+  "year": 2016,
+  "year_end": null,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "An anthology series centered around America's most notorious crimes and criminals. American Crime Story focuses on epic events in America's history.",
+  "actors": [
+    "Sarah Paulson",
+    "Annaleigh Ashford",
+    "Sterling K. Brown"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "42 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYTU3YjBlNmMtMmY3NS00NGJlLTg3MWYtNGFkMDIwYmRiOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

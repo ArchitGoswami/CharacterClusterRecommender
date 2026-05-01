@@ -1,0 +1,25 @@
+{
+  "title": "Greek",
+  "original_query": "Greek",
+  "imdb_id": "tt0976014",
+  "type": "TV",
+  "year": 2007,
+  "year_end": 2011,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "plot": "Freshman Rusty Cartwright arrives at college and decides he no longer wants to be the boring geek from high school. He decides to pledge a fraternity. He is offered 2 bids; one from his sister's boyfriend Evan's fraternity and one...",
+  "actors": [
+    "Clark Duke",
+    "Scott Michael Foster",
+    "Spencer Grammer"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "60 min",
+  "imdb_rating": "7.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJjZjY1NWMtOWYxMi00OTA3LTk0ODAtMTBhMDk0YTA3MDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

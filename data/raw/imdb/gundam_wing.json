@@ -1,0 +1,25 @@
+{
+  "title": "Mobile Suit Gundam Wing",
+  "original_query": "Gundam Wing",
+  "imdb_id": "tt0159193",
+  "type": "TV",
+  "year": 1995,
+  "year_end": 1996,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "A squadron of giant robot pilots of a beleaguered Earth colony bring the war to their oppressive home planet.",
+  "actors": [
+    "Hikaru Midorikawa",
+    "Toshihiko Seki",
+    "Scott McNeil"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "30 min",
+  "imdb_rating": "8.0",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMDk4N2UzZDMtNGEwZC00MTgzLTg5NTQtODU4Yzg0ZjYzNzk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

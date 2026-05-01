@@ -1,0 +1,23 @@
+{
+  "title": "Black Books",
+  "original_query": "Black Books",
+  "imdb_id": "tt0262150",
+  "type": "TV",
+  "year": 2000,
+  "year_end": 2004,
+  "genres": [
+    "Comedy"
+  ],
+  "plot": "Bernard Black runs a book shop, though his customer service skills leave something to be desired. He hires Manny as an employee. Fran runs the shop next door. Between the three of them many adventures ensue.",
+  "actors": [
+    "Dylan Moran",
+    "Bill Bailey",
+    "Tamsin Greig"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "1 min",
+  "imdb_rating": "8.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTIwNjJhYmMtMGNmNS00YTJkLTgwY2ItNDdkN2Y2MDg4YWRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

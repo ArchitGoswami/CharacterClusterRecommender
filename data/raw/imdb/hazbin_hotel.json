@@ -1,0 +1,25 @@
+{
+  "title": "Hazbin Hotel",
+  "original_query": "Hazbin Hotel",
+  "imdb_id": "tt7216636",
+  "type": "TV",
+  "year": 2019,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "In an attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+  "actors": [
+    "Erika Henningsen",
+    "Stephanie Beatriz",
+    "Blake Roman"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGMxYWIwMWYtZjY4OC00MzMwLWIyNDEtYWNiZTJlMzg3ODdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

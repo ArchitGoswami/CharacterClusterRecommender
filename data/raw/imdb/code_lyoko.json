@@ -1,0 +1,25 @@
+{
+  "title": "Code Lyoko",
+  "original_query": "Code Lyoko",
+  "imdb_id": "tt0417311",
+  "type": "TV",
+  "year": 2003,
+  "year_end": 2007,
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "plot": "When a group of four boarding school students discover a supercomputer housed inside an abandoned factory, they find a virtual world called Lyoko and awaken a sentient multi-agent system virus that tries to take over the real world.",
+  "actors": [
+    "Sharon Mann",
+    "Mirabelle Kirkland",
+    "Matthew Géczy"
+  ],
+  "director": "",
+  "rated": "TV-Y7",
+  "runtime": "26 min",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTYyZjFhNmYtMDcwMS00MjcwLTk5MGUtZGYzNTY3ZTAyZDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

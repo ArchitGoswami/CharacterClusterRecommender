@@ -1,0 +1,25 @@
+{
+  "title": "Braceface",
+  "original_query": "Braceface",
+  "imdb_id": "tt0286347",
+  "type": "TV",
+  "year": 2001,
+  "year_end": 2006,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "plot": "An 8th grader with preteenage problems on her mind and magical braces in her mouth tries to survive 8th grade and later, high school.",
+  "actors": [
+    "Marnie McPhail",
+    "Alicia Silverstone",
+    "Vince Corazza"
+  ],
+  "director": "",
+  "rated": "TV-Y",
+  "runtime": "1 min",
+  "imdb_rating": "6.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzE4YWUxYjItMTQ3OC00OWRhLWI2YjctMmYwZjkxODRhNTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "The Adventures of Black Beauty",
+  "original_query": "Adventures of Black Beauty",
+  "imdb_id": "tt0068030",
+  "type": "TV",
+  "year": 1972,
+  "year_end": 1974,
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "plot": "A thoroughbred horse in 19th century England is adopted by a widowed doctor and befriended by his children. The horse helps the children as they have weekly adventures and encounters with various characters.",
+  "actors": [
+    "William Lucas",
+    "Charlotte Mitchell",
+    "Roderick Shaw"
+  ],
+  "director": "",
+  "rated": "Not Rated",
+  "runtime": "55 min",
+  "imdb_rating": "6.6",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYzU0MzE4OWQtM2NkZS00ZGQ2LWJiYzEtNWQ0NDQ1OTk2Yjg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

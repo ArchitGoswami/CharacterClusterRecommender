@@ -1,0 +1,25 @@
+{
+  "title": "Gary the Rat",
+  "original_query": "Gary the Rat",
+  "imdb_id": "tt0372062",
+  "type": "TV",
+  "year": 2003,
+  "year_end": null,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "plot": "A big-city lawyer awakens one morning to discover that he has been transformed into a rat.",
+  "actors": [
+    "Kelsey Grammer",
+    "Robb Cullen",
+    "Spencer Garrett"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "30 min",
+  "imdb_rating": "6.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOTJjM2ZlYjktMWVlMC00MTQxLWI1MGEtMzkxYjFjMDA1MzNjXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg",
+  "source": "omdb"
+}

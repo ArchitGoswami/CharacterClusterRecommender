@@ -1,0 +1,24 @@
+{
+  "title": "Childrens Hospital",
+  "original_query": "Childrens' Hospital",
+  "imdb_id": "tt1325113",
+  "type": "TV",
+  "year": 2008,
+  "year_end": 2016,
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "plot": "Explores the emotional struggles and sexual politics of a group of doctors charged with healthy libidos. Their dedication to their personal lives is relentless, interrupted only by the occasional need to treat sick children.",
+  "actors": [
+    "Rob Huebel",
+    "Rob Corddry",
+    "Ken Marino"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "11 min",
+  "imdb_rating": "7.8",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY2MTc2NzMwNl5BMl5BanBnXkFtZTgwNjY4ODAxMDE@._V1_SX300.jpg",
+  "source": "omdb"
+}

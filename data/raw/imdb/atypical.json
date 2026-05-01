@@ -1,0 +1,24 @@
+{
+  "title": "Atypical",
+  "original_query": "Atypical",
+  "imdb_id": "tt6315640",
+  "type": "TV",
+  "year": 2017,
+  "year_end": 2021,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "plot": "Sam, an 18-year-old on the autism spectrum, decides it's time to find a girlfriend, which sets Sam's mom on her own life-changing path as her son seeks more independence.",
+  "actors": [
+    "Jennifer Jason Leigh",
+    "Keir Gilchrist",
+    "Jack Haven"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "30 min",
+  "imdb_rating": "8.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTJiY2ZiNjEtMjk1MS00Yzk0LThiNGMtMGUzZjRlNjc1OTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

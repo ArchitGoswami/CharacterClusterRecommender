@@ -1,0 +1,25 @@
+{
+  "title": "Crusade",
+  "original_query": "Crusade",
+  "imdb_id": "tt0149437",
+  "type": "TV",
+  "year": 1999,
+  "year_end": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "Set right after the events of Babylon 5: A Call to Arms (1999), a team of soldiers and scientists led by Capt. Matthew Gideon have five years to find a cure for an alien plague decimating Earth.",
+  "actors": [
+    "Gary Cole",
+    "Tracy Scoggins",
+    "Daniel Dae Kim"
+  ],
+  "director": "",
+  "rated": "TV-PG",
+  "runtime": "44 min",
+  "imdb_rating": "6.7",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMWRiMjA1MGYtMzAzZi00MThiLWJhMTgtYmE0MmVhNjQwMGY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

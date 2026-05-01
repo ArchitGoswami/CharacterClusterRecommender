@@ -1,0 +1,24 @@
+{
+  "title": "Bridgerton",
+  "original_query": "Bridgerton",
+  "imdb_id": "tt8740790",
+  "type": "TV",
+  "year": 2020,
+  "year_end": null,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "plot": "The eight close-knit siblings of the Bridgerton family look for love and happiness in London high society.",
+  "actors": [
+    "Nicola Coughlan",
+    "Luke Thompson",
+    "Florence Hunt"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "60 min",
+  "imdb_rating": "7.5",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BNmY4MDAyNjgtZTBkYi00MTY5LWIwOTctZjY1MGQ0MDM5NTU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

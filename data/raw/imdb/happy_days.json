@@ -1,0 +1,25 @@
+{
+  "title": "Happy Days",
+  "original_query": "Happy Days",
+  "imdb_id": "tt0070992",
+  "type": "TV",
+  "year": 1974,
+  "year_end": 1984,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "plot": "In Milwaukee Wisconsin, hardware store owner Howard Cunningham, his wife Marion, and their children Richard and Joanie live through the 1950s with help and guidance from lovable and almost superhuman greaser Fonzie.",
+  "actors": [
+    "Ron Howard",
+    "Henry Winkler",
+    "Marion Ross"
+  ],
+  "director": "",
+  "rated": "TV-G",
+  "runtime": "30 min",
+  "imdb_rating": "7.4",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkyODgxNzQtZjNhNi00ZGI3LWFkZDktMjNjMWM0NGU4NzI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

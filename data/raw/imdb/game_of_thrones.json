@@ -1,0 +1,25 @@
+{
+  "title": "Game of Thrones",
+  "original_query": "Game of Thrones",
+  "imdb_id": "tt0944947",
+  "type": "TV",
+  "year": 2011,
+  "year_end": 2019,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+  "actors": [
+    "Emilia Clarke",
+    "Peter Dinklage",
+    "Kit Harington"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "57 min",
+  "imdb_rating": "9.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+  "source": "omdb"
+}

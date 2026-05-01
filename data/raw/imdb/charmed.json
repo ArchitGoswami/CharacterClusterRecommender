@@ -1,0 +1,25 @@
+{
+  "title": "Charmed",
+  "original_query": "Charmed",
+  "imdb_id": "tt0158552",
+  "type": "TV",
+  "year": 1998,
+  "year_end": 2006,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "plot": "Three sisters discover that they are descendants of a line of good female witches and are destined to fight against the forces of evil.",
+  "actors": [
+    "Holly Marie Combs",
+    "Alyssa Milano",
+    "Brian Krause"
+  ],
+  "director": "",
+  "rated": "TV-14",
+  "runtime": "42 min",
+  "imdb_rating": "7.2",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BOGU5MGU3NmYtOTIzNi00NTg2LTkxMWUtNjQwMzhiNWQ5NzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}

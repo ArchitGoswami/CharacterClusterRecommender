@@ -1,0 +1,24 @@
+{
+  "title": "Animal Armageddon",
+  "original_query": "Animal Armageddon",
+  "imdb_id": "tt1327845",
+  "type": "TV",
+  "year": 2009,
+  "year_end": null,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "plot": "This documentary series explores the causes behind six major extinction events in Earth's history. It also speculates on the next such event.",
+  "actors": [
+    "Peter Ward",
+    "Michael Carroll",
+    "Craig Chesner"
+  ],
+  "director": "",
+  "rated": "N/A",
+  "runtime": "N/A",
+  "imdb_rating": "7.3",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODkxMDkwOTE0N15BMl5BanBnXkFtZTcwMDE5NTA4Mg@@._V1_SX300.jpg",
+  "source": "omdb"
+}

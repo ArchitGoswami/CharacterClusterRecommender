@@ -1,0 +1,25 @@
+{
+  "title": "A Killer Paradox",
+  "original_query": "A Killer Paradox",
+  "imdb_id": "tt28642796",
+  "type": "TV",
+  "year": 2024,
+  "year_end": null,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "plot": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
+  "actors": [
+    "Choi Woo-sik",
+    "Son Suk-ku",
+    "Lee Hee-joon"
+  ],
+  "director": "",
+  "rated": "TV-MA",
+  "runtime": "N/A",
+  "imdb_rating": "7.1",
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BYmU3MjZhNjYtODI2Yi00Nzg4LTg0NTctNWNmZDhhNmNiNWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "source": "omdb"
+}
