@@ -1,0 +1,88 @@
+{
+  "media_title": "Great Expectations",
+  "wiki_base": "https://greatexpectations.fandom.com",
+  "characters": [
+    {
+      "name": "Biddy",
+      "actor_name": null,
+      "description": "BiddyFull nameBiddyStatusAliveGenderFemaleFamilyUnnamed parents†Unnamed grandmother (foster mother)Mr. Wopsle(second cousin, foster first cousin once removed) Unnamed grandmother (foster mother)Mr. Wopsle(second cousin, foster first cousin once removed) Joseph (Joe) Gargery (husband)\nPip Gargery (son)\nunnamed son",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Biddy",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Georgiana",
+      "actor_name": null,
+      "description": "Georgiana is Pip's deceased mother.",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Georgiana",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Mr. Hubble",
+      "actor_name": null,
+      "description": "Mr. HubbleFull nameMr. HubbleStatusAliveGenderMaleOccupationWheelwrightFamilyMrs. Hubble(wife)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Mr._Hubble",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Mrs. Hubble",
+      "actor_name": null,
+      "description": "Mrs. HubbleFull nameMrs. HubbleStatusAliveGenderFemaleFamilyMr. Hubble(husband)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Mrs._Hubble",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Joe Gargery",
+      "actor_name": null,
+      "description": "JoeFull nameJoe GargeryStatusAliveGenderMaleOccupationBlacksmithFamilyUnnamedGargery(father)†UnnamedPumblechook(mother)†Mr. Pumblechook(maternal uncle)Mrs. Joe Gargery(wife)Philip Pirrip Jr.(brother-in-law, foster step-son) UnnamedPumblechook(mother)†Mr. Pumblechook(maternal uncle)Mrs. Joe Gargery(wife)Philip Pirrip Jr.(brother-in-law, foster step-son)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Joe_Gargery",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Mrs. Joe Gargery",
+      "actor_name": null,
+      "description": "Mrs. JoeFull nameMrs. Joe GargeryStatusAliveGenderFemaleOccupationHomemakerFamilyPhilip Pirrip Sr.†(father)Georgiana Pirrip†(mother)Joe Gargery(husband)Philip Pirrip Jr.(brother, foster son)Alexander Pirrip†(brother)Bartholomew Pirrip†(brother)Abraham Pirrip†(brother)Tobias Pirrip†(brother)Roger Pirrip†(brother) Georgiana Pirrip†(mother)Joe Gargery(husband)Philip Pirrip Jr.(brother, foster son)Alexander Pirrip†(brother)Bartholomew Pirrip†(brother)Abraham Pirrip†(brother)Tobias Pirrip†(brother)Roger Pirrip†(brother)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Mrs._Joe_Gargery",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Pip",
+      "actor_name": null,
+      "description": "PipFull namePhilip PirripStatusAliveGenderMaleFamilyPhilip Pirrip Sr.†(father)Georgiana Pirrip†(mother)Mrs. Joe Gargery(sister, foster mother)Joe Gargery(brother-in-law, foster step-father)Alexander Pirrip†(brother)Bartholomew Pirrip†(brother)Abraham Pirrip†(brother)Tobias Pirrip†(brother)Roger Pirrip†(brother) Georgiana Pirrip†(mother)Mrs. Joe Gargery(sister, foster mother)Joe Gargery(brother-in-law, foster step-father)Alexander Pirrip†(brother)Bartholomew Pirrip†(brother)Abraham Pirrip†(brother)Tobias Pirrip†(brother)Roger Pirrip†(brother)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Pip",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Mr. Pumblechook",
+      "actor_name": null,
+      "description": "Uncle PumblechookFull nameMr. PumblechookStatusAliveGenderMaleOccupationCorn-chandlerFamilyUnnamedPumblechook(sister)UnnamedGargery(brother-in-law)Joe Gargery(nephew) UnnamedGargery(brother-in-law)Joe Gargery(nephew)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Mr._Pumblechook",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    },
+    {
+      "name": "Mr. Wopsle",
+      "actor_name": null,
+      "description": "Mr. WopsleFull nameMr. WopsleStatusAliveGenderMaleOccupationChurch clerkFamilyUnnamed great auntBiddy(second cousin, foster first cousin once removed) Biddy(second cousin, foster first cousin once removed)",
+      "personality_section": "",
+      "url": "https://greatexpectations.fandom.com/wiki/Mr._Wopsle",
+      "source": "fandom",
+      "media_title": "Great Expectations"
+    }
+  ],
+  "character_count": 9
+}

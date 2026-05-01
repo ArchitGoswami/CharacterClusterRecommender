@@ -1,0 +1,43 @@
+{
+  "media_title": "Dinosaurs",
+  "wiki_base": "https://dinosaurs.fandom.com",
+  "characters": [
+    {
+      "name": "Alan Grant",
+      "actor_name": null,
+      "description": "Dr.Alan Grantis one of the main characters in the Jurassic Park franchise and the main protagonist in the first Jurassic Park and Jurassic Park III. He is a paleontologist who was invited by John Hammond to his dinosaur park, Jurassic Park. Alan is portrayed very differently over the various canons. InJurassic Park, Alan Grant is a world-renowned paleontologist working at a dig site just outside Snakewater, Montana. He is described in the script as: In an attempt to cheer Timmy up, he asked if his dad ever built him a treehouse, to which he replies \"no\", Grant's response and tone very slightly implies that he didn't have a good relationship with his father.",
+      "personality_section": "",
+      "url": "https://dinosaurs.fandom.com/wiki/Alan_Grant",
+      "source": "fandom",
+      "media_title": "Dinosaurs"
+    },
+    {
+      "name": "Dennis Nedry",
+      "actor_name": null,
+      "description": "Dennis Nedrywas a computer programmer at Jurassic Park and one of the two main antagonists of the originalJurassic Parkfilm. Due to his financial problems and low salary, he accepted a bribe from Biosyn to smuggle dinosaur embryos off the island. His last name is an anagram ofnerdy. In both the film and the novel, he is devoured by aDilophosaurus. He was directly responsible for the events that happened in both the novel and film. A combination of factors led to his demise: despite working in a career around dinosaurs, he lacked knowledge of them, and greed, which was intertwined by desperation to pay off his debt collectors and make himself rich after that.",
+      "personality_section": "",
+      "url": "https://dinosaurs.fandom.com/wiki/Dennis_Nedry",
+      "source": "fandom",
+      "media_title": "Dinosaurs"
+    },
+    {
+      "name": "Ellie Sattler",
+      "actor_name": null,
+      "description": "Dr.Ellen \"Ellie\" Degler(néeSattler), is a paleobotanist. She has blonde hair and is very energetic. During the events of the first book and first film she was invited by John Hammond to Jurassic Park. She also appeared inJurassic Park III, where she's married to Mark Degler and has two children from him, Charlie Degler and another unnamed baby sibling. Dr. Ellie Sattlerwas Alan Grant's partner and girlfriend and worked with him at the dig site in Montana. She had a Ph.D in Paleobotany. She was described in the script as: Ellie in her late twenties, athletic-looking. There's an impatience about Ellie, as if nothing in life happens quite fast enough for her.",
+      "personality_section": "",
+      "url": "https://dinosaurs.fandom.com/wiki/Ellie_Sattler",
+      "source": "fandom",
+      "media_title": "Dinosaurs"
+    },
+    {
+      "name": "John Hammond",
+      "actor_name": null,
+      "description": "Dr. John Alfred Hammond, orJohn Parker Hammond(Trespassercanon), was the CEO and creator of Jurassic Park. He founded the company InGen and the Hammond Foundation. He had at least one daughter, two grandchildren (Tim and Lex Murphy), a sister (as Hammond's nephew has the surname of Ludlow, not Hammond) and a nephew, Peter Ludlow. Hammond has one sister and at least one daughter. His daughter had two kids, Lex and Tim, making him a grandfather. He also had a nephew named Peter Ludlow who is likely the son of his sister. At some point, Hammond became business partners with Benjamin Lockwood. The two were good friends and they shared a dream of bringing back dinosaurs from extinction. In order to pursue this dream, Hammond and Lockwood used their respective fortunes and built a laboratory in the subbasement of Lockwood's home. They hired geneticist Dr. Henry Wu to aid them in the genetics work. They succeeded by the mid 1980s and together afterward created InGen, a genetics company whose goal was to continue development of cloning dinosaurs. Operations were then moved to Site B on Isla Sorna where the dinosaurs were bred and released into the wild for study.",
+      "personality_section": "",
+      "url": "https://dinosaurs.fandom.com/wiki/John_Hammond",
+      "source": "fandom",
+      "media_title": "Dinosaurs"
+    }
+  ],
+  "character_count": 4
+}
