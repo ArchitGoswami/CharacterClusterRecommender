@@ -15,7 +15,6 @@ sys.path.append(str(Path(__file__).parent.parent))
 from shared.utils import fetch_page, parse_html, save_json, load_json, slugify, logger
 from shared.config import RAW_DIR, TITLES_MASTER_FILE
 
-
 TVTROPES_BASE = "https://tvtropes.org"
 TVTROPES_TROPES= f"{TVTROPES_BASE}/pmwiki/pmwiki.php/Main"
 
@@ -24,34 +23,7 @@ def get_character_page_url(media_title: str) -> str:
     print(media_title)
     return f"{TVTROPES_TROPES}/{media_title}"
 
-
-# def parse_character_page(html: str, media_title: str) -> List[Dict]:
-#     """
-#     Parse a TVTropes character page to extract characters and tropes.
-    
-#     Args:
-#         html: Raw HTML of character page
-#         media_title: Name of the show/movie
-    
-#     Returns:
-#         List of character dictionaries with tropes
-#     """
-#     soup = parse_html(html)
-    
-#     main_div = soup.find("div", {"id": "wikitext"})
-
-#     if main_div:
-#         paragraphs = main_div.find_all("p")
-#         main_text = " ".join([p.get_text() for p in paragraphs])
-#         print(main_text[:1000])  # print first 1000 characters
-#     else:
-#         main_text = ""
-#         print("Main content not found")
-    
-#     return characters
-
-
-def crawl_tvtropes_for_title(media_title: str) -> Optional[Dict]:
+def crawl_tvtropes_for_trope(media_title: str) -> Optional[Dict]:
     """
     Crawl TVTropes for a single media title.
     
@@ -113,7 +85,7 @@ def crawl_all_titles(titles: List[str], output_dir: Path = RAW_DIR / "tvtropes_t
             # stats["characters"] += data.get("character_count", 0)
             continue
         
-        result = crawl_tvtropes_for_title(title)
+        result = crawl_tvtropes_for_trope(title)
         
         if result:
             save_json(result, output_file)
