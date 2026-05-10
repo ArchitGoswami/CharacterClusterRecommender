@@ -20,8 +20,8 @@ def get_tropes_from_json():
             with open(os.path.join(tvtropes, filename), "r") as f:
                 df = pd.read_json(f)
                 chars = df["characters"]
-                chars_list.append(chars)
-                tropes_list.extend(chars_list[0][0]["tropes"])
+                for char in chars:
+                    tropes_list.extend(char["tropes"])
                 
     # print(tropes_list)
     tropes_list = set(tropes_list)
@@ -46,14 +46,14 @@ def get_docs_from_tropes(tropes_list):
             
     return docs
 
-def cluster_docs(docs):
+def cluster_docs(docs, output_dir="created_clusters"):
     titles = list(docs.keys())
     bodies = list(docs.values())
-    print(bodies)
+    # print(bodies)
     
     model = SentenceTransformer('all-MiniLM-L6-v2')
     embeddings = model.encode(bodies)
-    dbscan = DBSCAN(metric='cosine', eps=0.35, min_samples=2)
+    dbscan = DBSCAN(metric='cosine', eps=0.35, min_samples=10)
     
     labels = dbscan.fit_predict(embeddings)
     
@@ -61,12 +61,21 @@ def cluster_docs(docs):
     for title, label in zip(titles, labels):
         clusters.setdefault(label, []).append(title)
 
+    os.makedirs(output_dir, exist_ok=True)
     for cluster_id, cluster_titles in clusters.items():
-        print(f"Cluster {cluster_id}: {cluster_titles}")
+        filepath = os.path.join(output_dir, f"cluster_{cluster_id}.txt")
+        with open(filepath, "w", encoding="utf-8") as f:
+            for title in cluster_titles:
+                f.write(f"{title}\n")
+        print(f"Cluster {cluster_id}: {len(cluster_titles)}")
     
-
-docs = get_docs_from_tropes(get_tropes_from_json())
+print(f"Getting tropes list...")
+tropes = get_tropes_from_json()
+print(f"Getting docs list...")
+docs = get_docs_from_tropes(tropes)
+print(f"Clustering...")
 cluster_docs(docs)
+print(f"Done!")
 
 
 

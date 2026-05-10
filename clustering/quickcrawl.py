@@ -108,10 +108,10 @@ def main():
             with open(os.path.join(tvtropes, filename), "r") as f:
                 df = pd.read_json(f)
                 chars = df["characters"]
-                chars_list.append(chars)
-                tropes_list.extend(chars_list[0][0]["tropes"])
+                for char in chars:
+                    tropes_list.extend(char["tropes"])
                 
-    print(chars_list[0])
+    # print(chars_list[0])
     print(tropes_list)
     tropes_list = set(tropes_list)
     tropes_list = list(tropes_list)
