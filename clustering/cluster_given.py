@@ -111,23 +111,35 @@ def cluster_docs(docs, vocab, output_dir="created_clusters_given_v2"):
 
     # append each trope to its label file
     for item in classified:
-
-        filepath = os.path.join(
-            output_dir,
-            f"cluster_{item['label']}.txt"
-        )
-
-        with open(filepath, "a", encoding="utf-8") as f:
-            f.write(
-                f"{item['title']} "
-                f"({item['score']:.3f})\n"
+        if(item["score"] > 0.3):  # threshold for "unclassified"
+            filepath = os.path.join(
+                output_dir,
+                f"cluster_{item['label']}.txt"
             )
 
-        print(
-            f"{item['title']} => "
-            f"{item['label']} "
-            f"({item['score']:.3f})"
-        )
+            with open(filepath, "a", encoding="utf-8") as f:
+                f.write(
+                    f"{item['title']} "
+                    f"({item['score']:.3f})\n"
+                )
+
+            print(
+                f"{item['title']} => "
+                f"{item['label']} "
+                f"({item['score']:.3f})"
+            )
+        else:
+            filepath = os.path.join(
+                output_dir,
+                f"unclassed.txt"
+            )
+
+            with open(filepath, "a", encoding="utf-8") as f:
+                f.write(
+                    f"{item['title']} "
+                    f"{item['label']} "
+                    f"({item['score']:.3f})\n"
+                )
 
     return classified
     

@@ -58,7 +58,7 @@ def crawl_tvtropes_for_trope(media_title: str) -> Optional[Dict]:
     }
 
 
-def crawl_all_titles(titles: List[str], output_dir: Path = RAW_DIR / "tvtropes_tropes") -> Dict:
+def crawl_all_titles(titles: List[str], output_dir: Path = RAW_DIR / "tvtropes_tropes_redo") -> Dict:
     """
     Crawl TVTropes for all titles in the list.
     
@@ -109,7 +109,8 @@ def main():
                 df = pd.read_json(f)
                 chars = df["characters"]
                 for char in chars:
-                    tropes_list.extend(char["tropes"])
+                    if char.get("name") !=  "open/close all folders":
+                        tropes_list.extend(char["tropes"])
                 
     # print(chars_list[0])
     print(tropes_list)

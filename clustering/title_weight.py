@@ -27,6 +27,7 @@ def get_tropes_from_json():
                         tropes_list.extend(char["tropes"])
                 
     # print(tropes_list)
+    # TODO better remove dups
     tropes_list = set(tropes_list)
     tropes_list = list(tropes_list)
     return tropes_list
@@ -56,10 +57,15 @@ def cluster_docs(docs, output_dir="created_clusters_retry_weight"):
     bodies = list(docs.values())
     
     # weight title 2x more than body text
-    texts = [ 
+    texts = [ # TODO seperate title camelcase
         f"{title}. {title}. {body}"
         for title, body in zip(titles, bodies)
     ]
+    
+    # TODO compare with/without title
+    
+    # TODO list of antiwords: not, without, lacks, etc. If these are in the body text, maybe weight the title more? Or remove the trope from consideration?
+    antiwords = ["not", "without", "lacks", "no", "never", "none", "nothing", "nobody", "nowhere", "neither", "nor"]
     
     # embed as vector
     model = SentenceTransformer('all-MiniLM-L6-v2')
