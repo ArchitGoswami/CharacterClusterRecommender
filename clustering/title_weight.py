@@ -51,25 +51,22 @@ def get_docs_from_tropes(tropes_list):
 
 def cluster_docs(docs, output_dir="created_clusters_retry_weight"):
     
+    # get trope + document
     titles = list(docs.keys())
     bodies = list(docs.values())
     
-    texts = [ # title = 2x more important
+    # weight title 2x more than body text
+    texts = [ 
         f"{title}. {title}. {body}"
         for title, body in zip(titles, bodies)
     ]
-    # print(bodies)
     
-    # model = SentenceTransformer('all-MiniLM-L6-v2')
-    # embeddings = model.encode(bodies)
-    # dbscan = DBSCAN(metric='cosine', eps=0.35, min_samples=5)
-    
-    # labels = dbscan.fit_predict(embeddings)
-    
+    # embed as vector
     model = SentenceTransformer('all-MiniLM-L6-v2')
     embeddings = model.encode(texts)
-    # embeddings = normalize(embeddings)
     
+    # reduce dimensionality so more things are clustered
+    # https://umap-learn.readthedocs.io/en/latest/clustering.html
     reducer = umap.UMAP(
         n_neighbors=15,
         n_components=10,
@@ -79,6 +76,7 @@ def cluster_docs(docs, output_dir="created_clusters_retry_weight"):
 
     reduced = reducer.fit_transform(embeddings)
 
+    # actual clustering (hierarchical density-based clustering)
     clusterer = HDBSCAN(
         min_cluster_size=5,
         metric='euclidean'
@@ -88,10 +86,13 @@ def cluster_docs(docs, output_dir="created_clusters_retry_weight"):
     
     clusters = {}
     
-    ## w/in each cluster, check pos/neg sentiment 
+    ## TODO w/in each cluster, check pos/neg sentiment 
+    ## TODO name clusters based on most common words in the cluster (after removing stop words)
+    
     for title, label in zip(titles, labels):
         clusters.setdefault(label, []).append(title)
 
+    # put clusters in txt files
     os.makedirs(output_dir, exist_ok=True)
     for cluster_id, cluster_titles in clusters.items():
         filepath = os.path.join(output_dir, f"cluster_{cluster_id}.txt")
