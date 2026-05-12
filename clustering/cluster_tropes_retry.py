@@ -10,6 +10,7 @@ import nltk
 nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 from sklearn.preprocessing import normalize
+import umap 
 
 def get_tropes_from_json():
     tropes_list = []
@@ -62,16 +63,23 @@ def cluster_docs(docs, output_dir="created_clusters_retry_v2"):
     
     model = SentenceTransformer('all-MiniLM-L6-v2')
     embeddings = model.encode(bodies)
-    embeddings = normalize(embeddings)
+    # embeddings = normalize(embeddings)
     
-    clusterer = HDBSCAN(
-        min_cluster_size=2,
-        min_samples=1,
-        metric='euclidean',
-        cluster_selection_method='leaf'
+    reducer = umap.UMAP(
+        n_neighbors=15,
+        n_components=10,
+        metric='cosine',
+        n_jobs=1
     )
 
-    labels = clusterer.fit_predict(embeddings)
+    reduced = reducer.fit_transform(embeddings)
+
+    clusterer = HDBSCAN(
+        min_cluster_size=5,
+        metric='euclidean'
+    )
+
+    labels = clusterer.fit_predict(reduced)
     
     clusters = {}
     
