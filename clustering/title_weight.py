@@ -36,7 +36,7 @@ def get_docs_from_tropes(tropes_list):
     docs = {}  # store all JSON contents
 
     for trope in tropes_list:
-        file_path = f"data/raw/tvtropes_tropes/{trope}.json"  # build file name
+        file_path = f"../data/raw/tvtropes_tropes/{trope}.json"  # build file name
         if os.path.exists(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)  # parse JSON
