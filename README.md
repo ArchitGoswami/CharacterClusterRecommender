@@ -16,4 +16,4 @@ writeup
 try to fix the tvtropes crawler, try to get more characters
 work on frontend, maybe 
 
-ALISON tips:
+ALISON writeup:
