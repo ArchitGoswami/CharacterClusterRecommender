@@ -34,7 +34,7 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
     json_files = [f for f in os.listdir(data_dir) if f.endswith(".json")]
     total_files = len(json_files)
     
-    print(f"📁 Found {total_files} JSON files to process\n")
+    print(f"Found {total_files} JSON files to process\n")
     
     for i, filename in enumerate(json_files, 1):
         filepath = os.path.join(data_dir, filename)
@@ -91,7 +91,7 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
                 print(f"  Progress: {i}/{total_files} files ({characters_found:,} characters found)")
                 
         except Exception as e:
-            print(f"  ⚠️  Error processing {filename}: {e}")
+            print(f"Error processing {filename}: {e}")
     
     # Convert sets to lists for JSON serialization
     name_lookup_serializable = {k: list(v) for k, v in name_lookup.items()}
@@ -115,12 +115,12 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Index built successfully!")
-    print(f"   📊 Files processed: {files_processed}")
-    print(f"   👤 Total character entries: {characters_found:,}")
-    print(f"   🏷️  Unique character names: {len(character_index):,}")
-    print(f"   🎬 Unique media titles: {len(media_index):,}")
-    print(f"   💾 Saved to: {output_file}")
+    print(f"\nIndex built successfully!")
+    print(f"   Files processed: {files_processed}")
+    print(f"   Total character entries: {characters_found:,}")
+    print(f"    Unique character names: {len(character_index):,}")
+    print(f"   Unique media titles: {len(media_index):,}")
+    print(f"   Saved to: {output_file}")
     
     return output
 

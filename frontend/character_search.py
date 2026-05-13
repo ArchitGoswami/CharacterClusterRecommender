@@ -1,12 +1,32 @@
 # character_search.py
 """
 Interactive CLI for finding similar characters based on TV Tropes data.
+Uses questionary for arrow-key navigation.
 """
 
 import os
 import json
 import pandas as pd
 from collections import defaultdict
+
+try:
+    import questionary
+    from questionary import Style
+except ImportError:
+    print("Please install questionary: pip install questionary")
+    exit(1)
+
+# === Custom Style ===
+custom_style = Style([
+    ('qmark', 'fg:cyan bold'),
+    ('question', 'fg:white bold'),
+    ('answer', 'fg:green bold'),
+    ('pointer', 'fg:cyan bold'),
+    ('highlighted', 'fg:cyan bold'),
+    ('selected', 'fg:green'),
+    ('separator', 'fg:gray'),
+    ('instruction', 'fg:gray'),
+])
 
 # === ANSI Color Codes ===
 class Colors:
@@ -21,15 +41,10 @@ class Colors:
     DIM = '\033[2m'
     RESET = '\033[0m'
 
+
 def colored(text, color):
     """Wrap text in color codes."""
     return f"{color}{text}{Colors.RESET}"
-
-def bold(text):
-    return colored(text, Colors.BOLD)
-
-def dim(text):
-    return colored(text, Colors.DIM)
 
 
 # === Cluster Name Cleaning ===
@@ -41,24 +56,21 @@ def clean_cluster_name(raw_name):
     if raw_name == "No Cluster":
         return "Uncategorized"
     
-    # Remove 'cluster_' prefix and number
     parts = raw_name.split('_')
     if len(parts) > 2 and parts[0] == 'cluster':
-        # Skip 'cluster' and the number
         words = parts[2:]
     else:
         words = parts
     
-    # Capitalize and join
     cleaned = ' / '.join(word.capitalize() for word in words if word)
     return cleaned if cleaned else "Uncategorized"
 
 
-# === Character Index Loading ===
+# === Data Loading ===
 def load_character_index(index_file="character_index.json"):
     """Load the pre-built character index."""
     if not os.path.exists(index_file):
-        print(colored(f"\n❌ Character index not found: {index_file}", Colors.RED))
+        print(colored(f"\n Character index not found: {index_file}", Colors.RED))
         print(colored("   Run 'python build_character_index.py' first to build the index.\n", Colors.YELLOW))
         return None
     
@@ -66,13 +78,12 @@ def load_character_index(index_file="character_index.json"):
         return json.load(f)
 
 
-# === Cluster Loading ===
 def load_clusters(cluster_dir="../FINAL_CLUSTERS/clustering_with_sep_title"):
     """Load all cluster data."""
     clusters = {}
     
     if not os.path.exists(cluster_dir):
-        print(colored(f"\n⚠️  Cluster directory not found: {cluster_dir}", Colors.YELLOW))
+        print(colored(f"\n  Cluster directory not found: {cluster_dir}", Colors.YELLOW))
         return clusters
     
     for filename in os.listdir(cluster_dir):
@@ -98,183 +109,8 @@ def load_clusters(cluster_dir="../FINAL_CLUSTERS/clustering_with_sep_title"):
     return clusters
 
 
-# === Search Functions ===
-def search_characters(query, character_index):
-    """
-    Search for characters matching the query.
-    Returns list of (name, appearances) tuples.
-    """
-    query_lower = query.lower().strip()
-    results = []
-    
-    if not query_lower:
-        return results
-    
-    characters = character_index.get("characters", {})
-    name_lookup = character_index.get("name_lookup", {})
-    
-    # Exact match in lookup
-    if query_lower in name_lookup:
-        for name in name_lookup[query_lower]:
-            results.append((name, characters[name]))
-    
-    # Partial match - name contains query
-    for name, appearances in characters.items():
-        if query_lower in name.lower() and (name, appearances) not in results:
-            results.append((name, appearances))
-    
-    # Sort by number of appearances (more appearances = more notable character)
-    results.sort(key=lambda x: (-len(x[1]), x[0]))
-    
-    return results
-
-
-def search_media(query, character_index):
-    """
-    Search for media/shows matching the query.
-    Returns list of (media_title, characters) tuples.
-    """
-    query_lower = query.lower().strip()
-    results = []
-    
-    if not query_lower:
-        return results
-    
-    media = character_index.get("media", {})
-    media_lookup = character_index.get("media_lookup", {})
-    
-    # Exact match in lookup
-    if query_lower in media_lookup:
-        for title in media_lookup[query_lower]:
-            results.append((title, media[title]))
-    
-    # Partial match - title contains query
-    for title, characters in media.items():
-        if query_lower in title.lower() and (title, characters) not in results:
-            results.append((title, characters))
-    
-    # Sort by number of characters (more characters = more notable show)
-    results.sort(key=lambda x: (-len(x[1]), x[0]))
-    
-    return results
-
-
-def display_search_results(results, query, max_display=20, search_type="character"):
-    """Display search results and let user select."""
-    
-    if not results:
-        print(colored(f"\n❌ No {search_type}s found matching '{query}'", Colors.RED))
-        print(colored("   Try a different spelling or a partial name.\n", Colors.DIM))
-        return None, None
-    
-    print(colored(f"\n📋 Found {len(results)} {search_type}(s) matching '{query}':\n", Colors.GREEN))
-    
-    # Flatten results for selection
-    selection_list = []
-    display_count = 0
-    
-    for item, details in results:
-        if display_count >= max_display:
-            remaining = len(results) - display_count
-            print(colored(f"\n   ... and {remaining} more. Refine your search for better results.", Colors.DIM))
-            break
-        
-        if search_type == "character":
-            for appearance in details:
-                display_count += 1
-                selection_list.append({
-                    "name": item,
-                    "media_title": appearance["media_title"],
-                    "source_file": appearance["source_file"],
-                    "trope_count": appearance["trope_count"]
-                })
-                
-                # Format the display
-                idx = colored(f"[{display_count}]", Colors.CYAN)
-                char_name = colored(item, Colors.BOLD)
-                media = colored(f"from {appearance['media_title']}", Colors.DIM)
-                tropes = colored(f"({appearance['trope_count']} tropes)", Colors.DIM)
-                
-                print(f"  {idx} {char_name} {media} {tropes}")
-                
-                if display_count >= max_display:
-                    break
-        else:  # search_type == "media"
-            display_count += 1
-            selection_list.append({
-                "media_title": item,
-                "characters": details,
-                "character_count": len(details)
-            })
-            
-            # Format the display
-            idx = colored(f"[{display_count}]", Colors.CYAN)
-            media_name = colored(item, Colors.BOLD)
-            char_count = colored(f"({len(details)} characters)", Colors.DIM)
-            
-            print(f"  {idx} {media_name} {char_count}")
-    
-    return selection_list, len(results)
-
-
-def display_media_characters(media_title, characters, max_display=30):
-    """Display characters from a selected media/show."""
-    
-    print(colored(f"\n🎬 Characters in '{media_title}':\n", Colors.MAGENTA))
-    
-    # Sort by trope count (most developed characters first)
-    sorted_chars = sorted(characters, key=lambda x: -x.get("trope_count", 0))
-    
-    selection_list = []
-    
-    for i, char in enumerate(sorted_chars[:max_display], 1):
-        selection_list.append({
-            "name": char["name"],
-            "media_title": media_title,
-            "source_file": char["source_file"],
-            "trope_count": char["trope_count"]
-        })
-        
-        idx = colored(f"[{i}]", Colors.CYAN)
-        char_name = colored(char["name"], Colors.BOLD)
-        tropes = colored(f"({char['trope_count']} tropes)", Colors.DIM)
-        
-        print(f"  {idx} {char_name} {tropes}")
-    
-    if len(sorted_chars) > max_display:
-        print(colored(f"\n   ... and {len(sorted_chars) - max_display} more characters.", Colors.DIM))
-    
-    return selection_list
-
-
-def get_selection(selection_list, prompt="Enter number to select (or 'b' to go back): "):
-    """Prompt user to select from the list."""
-    
-    if not selection_list:
-        return None
-    
-    print()
-    while True:
-        try:
-            choice = input(colored(prompt, Colors.YELLOW)).strip()
-            
-            if choice.lower() == 'b':
-                return None
-            
-            idx = int(choice) - 1
-            if 0 <= idx < len(selection_list):
-                return selection_list[idx]
-            else:
-                print(colored(f"  Please enter a number between 1 and {len(selection_list)}", Colors.RED))
-        
-        except ValueError:
-            print(colored("  Please enter a valid number or 'b' to go back", Colors.RED))
-
-
-# === Character Data Loading ===
 def load_character_data(char_name, media_title, source_file, data_dir="../data/raw/tvtropes"):
     """Load full character data from the source JSON file."""
-    
     filepath = os.path.join(data_dir, source_file)
     
     with open(filepath, "r", encoding="utf-8") as f:
@@ -290,7 +126,6 @@ def load_character_data(char_name, media_title, source_file, data_dir="../data/r
 
 def load_all_characters(data_dir="../data/raw/tvtropes", exclude_char=None, exclude_media=None):
     """Load all characters for comparison."""
-    
     chars_list = []
     
     for filename in os.listdir(data_dir):
@@ -310,11 +145,9 @@ def load_all_characters(data_dir="../data/raw/tvtropes", exclude_char=None, excl
             name = char.get("name", "")
             media = char.get("media_title", "")
             
-            # Skip folder markers
             if name == "open/close all folders":
                 continue
             
-            # Skip the target character
             if exclude_char and exclude_media:
                 if name == exclude_char and media == exclude_media:
                     continue
@@ -324,10 +157,174 @@ def load_all_characters(data_dir="../data/raw/tvtropes", exclude_char=None, excl
     return chars_list
 
 
+# === Search Functions ===
+def search_characters(query, character_index):
+    """Search for characters matching the query."""
+    query_lower = query.lower().strip()
+    results = []
+    
+    if not query_lower:
+        return results
+    
+    characters = character_index.get("characters", {})
+    name_lookup = character_index.get("name_lookup", {})
+    
+    # Exact match
+    if query_lower in name_lookup:
+        for name in name_lookup[query_lower]:
+            results.append((name, characters[name]))
+    
+    # Partial match
+    for name, appearances in characters.items():
+        if query_lower in name.lower() and (name, appearances) not in results:
+            results.append((name, appearances))
+    
+    results.sort(key=lambda x: (-len(x[1]), x[0]))
+    return results
+
+
+def search_media(query, character_index):
+    """Search for media/shows matching the query."""
+    query_lower = query.lower().strip()
+    results = []
+    
+    if not query_lower:
+        return results
+    
+    media = character_index.get("media", {})
+    media_lookup = character_index.get("media_lookup", {})
+    
+    # Exact match
+    if query_lower in media_lookup:
+        for title in media_lookup[query_lower]:
+            results.append((title, media[title]))
+    
+    # Partial match
+    for title, characters in media.items():
+        if query_lower in title.lower() and (title, characters) not in results:
+            results.append((title, characters))
+    
+    results.sort(key=lambda x: (-len(x[1]), x[0]))
+    return results
+
+
+# === Selection Functions using Questionary ===
+def select_character_from_results(results):
+    """
+    Display character search results and let user select with arrow keys.
+    Returns selected character dict or None.
+    """
+    if not results:
+        return None
+    
+    # Build choices list
+    choices = []
+    selection_map = {}
+    
+    for name, appearances in results:
+        for appearance in appearances:
+            # Create display string
+            display = f"{name} — {appearance['media_title']} ({appearance['trope_count']} tropes)"
+            choices.append(display)
+            selection_map[display] = {
+                "name": name,
+                "media_title": appearance["media_title"],
+                "source_file": appearance["source_file"],
+                "trope_count": appearance["trope_count"]
+            }
+    
+    # Add back option
+    choices.append("← Back to search")
+    
+    # Show selection prompt
+    selected = questionary.select(
+        "Select a character:",
+        choices=choices,
+        style=custom_style,
+        instruction="(Use arrow keys to navigate, Enter to select)"
+    ).ask()
+    
+    if selected is None or selected == "← Back to search":
+        return None
+    
+    return selection_map[selected]
+
+
+def select_media_from_results(results):
+    """
+    Display media search results and let user select with arrow keys.
+    Returns selected media dict or None.
+    """
+    if not results:
+        return None
+    
+    # Build choices list
+    choices = []
+    selection_map = {}
+    
+    for title, characters in results:
+        display = f"{title} ({len(characters)} characters)"
+        choices.append(display)
+        selection_map[display] = {
+            "media_title": title,
+            "characters": characters
+        }
+    
+    choices.append("← Back to search")
+    
+    selected = questionary.select(
+        "Select a show/media:",
+        choices=choices,
+        style=custom_style,
+        instruction="(Use arrow keys to navigate, Enter to select)"
+    ).ask()
+    
+    if selected is None or selected == "← Back to search":
+        return None
+    
+    return selection_map[selected]
+
+
+def select_character_from_media(media_title, characters):
+    """
+    Display characters from a show and let user select with arrow keys.
+    Returns selected character dict or None.
+    """
+    # Sort by trope count
+    sorted_chars = sorted(characters, key=lambda x: -x.get("trope_count", 0))
+    
+    # Build choices
+    choices = []
+    selection_map = {}
+    
+    for char in sorted_chars:
+        display = f"{char['name']} ({char['trope_count']} tropes)"
+        choices.append(display)
+        selection_map[display] = {
+            "name": char["name"],
+            "media_title": media_title,
+            "source_file": char["source_file"],
+            "trope_count": char["trope_count"]
+        }
+    
+    choices.append("← Back to show selection")
+    
+    selected = questionary.select(
+        f"Select a character from '{media_title}':",
+        choices=choices,
+        style=custom_style,
+        instruction="(Use arrow keys to navigate, Enter to select)"
+    ).ask()
+    
+    if selected is None or selected == "← Back to show selection":
+        return None
+    
+    return selection_map[selected]
+
+
 # === Similarity Calculation ===
 def calculate_similarity(target_char, all_chars, clusters, weight_tropes=3, weight_clusters=1):
     """Calculate similarity scores for all characters."""
-    
     target_tropes = set(target_char.get("tropes", []))
     target_clusters = set()
     
@@ -347,7 +344,6 @@ def calculate_similarity(target_char, all_chars, clusters, weight_tropes=3, weig
             if cluster != "No Cluster":
                 char_clusters.add(cluster)
         
-        # Calculate overlaps (using sets to avoid duplicates)
         common_tropes = target_tropes & char_tropes
         common_clusters = target_clusters & char_clusters
         
@@ -363,87 +359,109 @@ def calculate_similarity(target_char, all_chars, clusters, weight_tropes=3, weig
                 "trope_count": len(char_tropes)
             })
     
-    # Sort by score descending
     results.sort(key=lambda x: (-x["score"], x["name"]))
-    
     return results
 
 
 # === Display Functions ===
 def display_character_info(char_data, clusters):
     """Display information about the selected character."""
-    
     name = char_data.get("name", "Unknown")
     media = char_data.get("media_title", "Unknown")
     tropes = char_data.get("tropes", [])
     
-    print(colored("\n" + "="*60, Colors.BLUE))
-    print(colored(f"  Selected Character: {name}", Colors.BOLD))
-    print(colored(f"  From: {media}", Colors.DIM))
-    print(colored(f"  Tropes: {len(tropes)}", Colors.DIM))
-    print(colored("="*60 + "\n", Colors.BLUE))
+    print(colored("\n" + "═"*60, Colors.BLUE))
+    print(colored(f"  {name}", Colors.BOLD))
+    print(colored(f"  {media}", Colors.CYAN))
+    print(colored(f"   {len(tropes)} tropes", Colors.DIM))
+    print(colored("═"*60, Colors.BLUE))
     
-    # Show tropes grouped by cluster
+    # Group tropes by cluster
     cluster_groups = defaultdict(list)
     for trope in tropes:
         cluster = clusters.get(trope, "No Cluster")
         cluster_groups[cluster].append(trope)
     
-    print(colored("📚 Tropes by Category:", Colors.CYAN))
-    for cluster, cluster_tropes in sorted(cluster_groups.items()):
+    print(colored("\n📚 Tropes by Category:\n", Colors.CYAN))
+    
+    for cluster, cluster_tropes in sorted(cluster_groups.items(), key=lambda x: -len(x[1])):
         clean_name = clean_cluster_name(cluster)
-        print(f"\n  {colored(clean_name, Colors.YELLOW)} ({len(cluster_tropes)})")
-        for trope in sorted(cluster_tropes)[:5]:  # Show max 5 per cluster
+        print(colored(f"  {clean_name}", Colors.YELLOW) + colored(f" ({len(cluster_tropes)})", Colors.DIM))
+        for trope in sorted(cluster_tropes)[:5]:
             print(f"    • {trope}")
         if len(cluster_tropes) > 5:
             print(colored(f"    ... and {len(cluster_tropes) - 5} more", Colors.DIM))
+        print()
 
 
 def display_similar_characters(similar_chars, top_n=5):
     """Display the most similar characters."""
-    
     if not similar_chars:
-        print(colored("\n❌ No similar characters found.", Colors.RED))
+        print(colored("\n No similar characters found.", Colors.RED))
         return
     
-    print(colored(f"\n🎭 Top {top_n} Similar Characters:\n", Colors.GREEN))
+    print(colored(f"\n Top {top_n} Similar Characters:\n", Colors.GREEN))
     
     for i, char in enumerate(similar_chars[:top_n], 1):
-        # Header
-        print(colored(f"{'─'*50}", Colors.DIM))
-        rank = colored(f"#{i}", Colors.CYAN + Colors.BOLD)
-        name = colored(char['name'], Colors.BOLD)
-        media = colored(f"from {char['media_title']}", Colors.DIM)
-        score = colored(f"Score: {char['score']}", Colors.GREEN)
+        print(colored(f"{'─'*55}", Colors.DIM))
         
-        print(f"{rank} {name} {media}")
-        print(f"   {score}")
+        # Rank and name
+        rank_color = Colors.CYAN if i == 1 else Colors.DIM
+        print(colored(f"  #{i}", rank_color) + colored(f"  {char['name']}", Colors.BOLD))
+        print(colored(f"      from {char['media_title']}", Colors.DIM))
+        print(colored(f"      Score: {char['score']}", Colors.GREEN))
         
         # Common tropes
         if char['common_tropes']:
-            print(colored(f"\n   Common Tropes ({len(char['common_tropes'])}):", Colors.YELLOW))
-            for trope in char['common_tropes'][:8]:
-                print(f"     • {trope}")
-            if len(char['common_tropes']) > 8:
-                print(colored(f"     ... and {len(char['common_tropes']) - 8} more", Colors.DIM))
+            print(colored(f"\n      Common Tropes ({len(char['common_tropes'])}):", Colors.YELLOW))
+            for trope in char['common_tropes'][:6]:
+                print(f"        • {trope}")
+            if len(char['common_tropes']) > 6:
+                print(colored(f"        ... and {len(char['common_tropes']) - 6} more", Colors.DIM))
         
         # Common clusters
         if char['common_clusters']:
-            print(colored(f"\n   Common Categories ({len(char['common_clusters'])}):", Colors.CYAN))
-            for cluster in char['common_clusters'][:5]:
-                print(f"     • {clean_cluster_name(cluster)}")
-            if len(char['common_clusters']) > 5:
-                print(colored(f"     ... and {len(char['common_clusters']) - 5} more", Colors.DIM))
+            print(colored(f"\n      Common Categories ({len(char['common_clusters'])}):", Colors.CYAN))
+            for cluster in char['common_clusters'][:4]:
+                print(f"        • {clean_cluster_name(cluster)}")
+            if len(char['common_clusters']) > 4:
+                print(colored(f"        ... and {len(char['common_clusters']) - 4} more", Colors.DIM))
         
         print()
     
-    print(colored(f"{'─'*50}\n", Colors.DIM))
+    print(colored(f"{'─'*55}\n", Colors.DIM))
 
 
-# === Help Display ===
+# === Main Menu ===
+def get_search_mode():
+    """Ask user what they want to search for."""
+    choices = [
+        "Search by character name",
+        "Search by show/media title",
+        "Help",
+        "Exit"
+    ]
+    
+    selected = questionary.select(
+        "What would you like to do?",
+        choices=choices,
+        style=custom_style
+    ).ask()
+    
+    if selected is None or "Exit" in selected:
+        return "exit"
+    elif "character" in selected:
+        return "character"
+    elif "show" in selected:
+        return "media"
+    elif "Help" in selected:
+        return "help"
+    
+    return None
+
+
 def display_help():
     """Display help information."""
-    
     print(colored("""
 ╔══════════════════════════════════════════════════════════════╗
 ║                   CHARACTER SIMILARITY SEARCH                 ║
@@ -451,52 +469,71 @@ def display_help():
 ╚══════════════════════════════════════════════════════════════╝
 """, Colors.BLUE))
     
-    print(colored("SEARCH MODES:", Colors.BOLD))
-    print("  • " + colored("char <name>", Colors.CYAN) + "  - Search by character name (default)")
-    print("  • " + colored("show <name>", Colors.CYAN) + "  - Search by show/media title")
-    print()
-    
-    print(colored("EXAMPLES:", Colors.BOLD))
-    print("  • " + colored("Jake", Colors.GREEN) + "           - Find all characters named Jake")
-    print("  • " + colored("char Jake", Colors.GREEN) + "      - Same as above (explicit)")
-    print("  • " + colored("show Breaking", Colors.GREEN) + "  - Find shows with 'Breaking' in title")
-    print("  • " + colored("show Avatar", Colors.GREEN) + "    - Find Avatar and related shows")
-    print()
-    
-    print(colored("COMMANDS:", Colors.BOLD))
-    print("  • 'help' or '?' - Show this help message")
-    print("  • 'quit' or 'exit' - Exit the program")
-    print()
+    print(colored("HOW TO USE:", Colors.BOLD))
+    print("""
+  1. Choose a search mode from the menu:
+     • Search by character name - Find characters by name
+     • Search by show/media - Browse characters in a show
+
+  2. Enter your search term (partial matches work!)
+     • "Jake" finds all Jakes
+     • "Breaking" finds Breaking Bad, Breaking In, etc.
+
+  3. Use arrow keys (↑↓) to navigate the results
+
+  4. Press Enter to select
+
+  5. View the character's tropes and similar characters
+""")
     
     print(colored("NAVIGATION:", Colors.BOLD))
-    print("  • Enter a number to select from a list")
-    print("  • Enter 'b' to go back to search")
-    print()
-    
-    print(colored("SEARCH TIPS:", Colors.BOLD))
-    print("  • Partial names work: 'Jake' finds all Jakes")
-    print("  • Case-insensitive: 'JAKE' = 'jake' = 'Jake'")
-    print("  • For shows, try partial titles: 'Breaking' for Breaking Bad")
-    print()
+    print("""
+  ↑ / ↓     Navigate through options
+  Enter     Select current option
+  Ctrl+C    Cancel / Go back
+""")
     
     print(colored("SCORING:", Colors.BOLD))
-    print("  • Characters are ranked by shared tropes and categories")
-    print("  • Higher score = more similar character")
-    print()
+    print("""
+  Characters are ranked by:
+  • Shared tropes (weighted 3x)
+  • Shared trope categories (weighted 1x)
+  
+  Higher score = more similar character
+""")
+    
+    input(colored("\nPress Enter to continue...", Colors.DIM))
 
 
-# === Main Search Mode Handler ===
-def handle_character_search(query, character_index, clusters):
+# === Flow Handlers ===
+def handle_character_search(character_index, clusters):
     """Handle character search flow."""
     
-    results = search_characters(query, character_index)
-    selection_list, total_count = display_search_results(results, query, search_type="character")
+    # Get search query
+    query = questionary.text(
+        "Enter character name to search:",
+        style=custom_style
+    ).ask()
     
-    if not selection_list:
+    if not query:
         return
     
-    # Let user select a character
-    selected = get_selection(selection_list)
+    print(colored(f"\n Searching for '{query}'...\n", Colors.DIM))
+    
+    # Search
+    results = search_characters(query, character_index)
+    
+    if not results:
+        print(colored(f"No characters found matching '{query}'", Colors.RED))
+        print(colored("   Try a different spelling or partial name.\n", Colors.YELLOW))
+        return
+    
+    # Count total matches
+    total_matches = sum(len(appearances) for _, appearances in results)
+    print(colored(f"✓ Found {total_matches} character(s) matching '{query}'\n", Colors.GREEN))
+    
+    # Let user select
+    selected = select_character_from_results(results)
     
     if selected is None:
         return
@@ -504,29 +541,41 @@ def handle_character_search(query, character_index, clusters):
     process_selected_character(selected, clusters)
 
 
-def handle_show_search(query, character_index, clusters):
-    """Handle show/media search flow."""
+def handle_media_search(character_index, clusters):
+    """Handle media/show search flow."""
     
-    results = search_media(query, character_index)
-    selection_list, total_count = display_search_results(results, query, search_type="media")
+    # Get search query
+    query = questionary.text(
+        "Enter show/media name to search:",
+        style=custom_style
+    ).ask()
     
-    if not selection_list:
+    if not query:
         return
+    
+    print(colored(f"\n Searching for '{query}'...\n", Colors.DIM))
+    
+    # Search
+    results = search_media(query, character_index)
+    
+    if not results:
+        print(colored(f" No shows found matching '{query}'", Colors.RED))
+        print(colored("   Try a different spelling or partial name.\n", Colors.YELLOW))
+        return
+    
+    print(colored(f"✓ Found {len(results)} show(s) matching '{query}'\n", Colors.GREEN))
     
     # Let user select a show
-    selected_show = get_selection(selection_list, "Enter number to select show (or 'b' to go back): ")
+    selected_media = select_media_from_results(results)
     
-    if selected_show is None:
+    if selected_media is None:
         return
     
-    # Display characters in the show
-    char_list = display_media_characters(
-        selected_show["media_title"],
-        selected_show["characters"]
+    # Let user select a character from that show
+    selected_char = select_character_from_media(
+        selected_media["media_title"],
+        selected_media["characters"]
     )
-    
-    # Let user select a character from the show
-    selected_char = get_selection(char_list, "Enter number to select character (or 'b' to go back): ")
     
     if selected_char is None:
         return
@@ -535,10 +584,10 @@ def handle_show_search(query, character_index, clusters):
 
 
 def process_selected_character(selected, clusters):
-    """Process a selected character - load data, display info, find similar."""
+    """Process a selected character."""
     
-    # Load full character data
-    print(colored("\n⏳ Loading character data...", Colors.DIM))
+    print(colored("\nLoading character data...", Colors.DIM))
+    
     char_data = load_character_data(
         selected["name"],
         selected["media_title"],
@@ -546,7 +595,7 @@ def process_selected_character(selected, clusters):
     )
     
     if char_data is None:
-        print(colored("❌ Could not load character data.", Colors.RED))
+        print(colored("Could not load character data.", Colors.RED))
         return
     
     # Display character info
@@ -554,6 +603,7 @@ def process_selected_character(selected, clusters):
     
     # Find similar characters
     print(colored("⏳ Finding similar characters...", Colors.DIM))
+    
     all_chars = load_all_characters(
         exclude_char=selected["name"],
         exclude_media=selected["media_title"]
@@ -561,17 +611,20 @@ def process_selected_character(selected, clusters):
     
     similar = calculate_similarity(char_data, all_chars, clusters)
     display_similar_characters(similar)
+    
+    # Pause before returning to menu
+    input(colored("Press Enter to continue...", Colors.DIM))
 
 
 # === Main Loop ===
 def main():
     """Main interactive loop."""
     
-    # Print welcome banner
+    # Welcome banner
     print(colored("""
 ╔══════════════════════════════════════════════════════════════╗
-║               🎭 CHARACTER SIMILARITY SEARCH 🎭               ║
-║                    TV Tropes Analysis Tool                    ║
+║                  CHARACTER SIMILARITY SEARCH                 ║
+║                    TV Tropes Analysis Tool                   ║
 ╚══════════════════════════════════════════════════════════════╝
 """, Colors.BLUE))
     
@@ -585,54 +638,34 @@ def main():
     clusters = load_clusters()
     
     metadata = character_index.get("metadata", {})
-    print(colored(f"✓ Loaded {metadata.get('unique_names', 0):,} unique characters", Colors.GREEN))
-    print(colored(f"✓ Loaded {metadata.get('unique_media', 0):,} unique shows/media", Colors.GREEN))
-    print(colored(f"✓ Loaded {len(clusters):,} trope-to-cluster mappings\n", Colors.GREEN))
-    
-    print(colored("Type 'help' for usage information.", Colors.DIM))
-    print(colored("Search by character name, or use 'show <name>' to search by show.\n", Colors.DIM))
+    print(colored(f" Loaded {metadata.get('unique_names', 0):,} unique characters", Colors.GREEN))
+    print(colored(f" Loaded {metadata.get('unique_media', 0):,} unique shows/media", Colors.GREEN))
+    print(colored(f" Loaded {len(clusters):,} trope-to-cluster mappings\n", Colors.GREEN))
     
     # Main loop
     while True:
         try:
-            user_input = input(colored("🔍 Search: ", Colors.CYAN)).strip()
+            mode = get_search_mode()
             
-            # Handle empty input
-            if not user_input:
-                continue
-            
-            # Handle commands
-            if user_input.lower() in ('quit', 'exit', 'q'):
-                print(colored("\n👋 Goodbye!\n", Colors.GREEN))
+            if mode == "exit":
+                print(colored("\n Goodbye!\n", Colors.GREEN))
                 break
             
-            if user_input.lower() in ('help', '?'):
+            elif mode == "character":
+                handle_character_search(character_index, clusters)
+            
+            elif mode == "media":
+                handle_media_search(character_index, clusters)
+            
+            elif mode == "help":
                 display_help()
-                continue
-            
-            # Parse search mode
-            parts = user_input.split(maxsplit=1)
-            
-            if len(parts) >= 2 and parts[0].lower() in ('show', 'media', 's'):
-                # Show search mode
-                query = parts[1]
-                handle_show_search(query, character_index, clusters)
-            
-            elif len(parts) >= 2 and parts[0].lower() in ('char', 'character', 'c'):
-                # Explicit character search mode
-                query = parts[1]
-                handle_character_search(query, character_index, clusters)
-            
-            else:
-                # Default: character search
-                query = user_input
-                handle_character_search(query, character_index, clusters)
-            
+        
         except KeyboardInterrupt:
-            print(colored("\n\n👋 Goodbye!\n", Colors.GREEN))
-            break
+            print(colored("\n", Colors.RESET))
+            continue
+        
         except Exception as e:
-            print(colored(f"\n❌ Error: {e}\n", Colors.RED))
+            print(colored(f"\nError: {e}\n", Colors.RED))
 
 
 if __name__ == "__main__":
