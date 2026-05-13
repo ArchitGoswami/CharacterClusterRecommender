@@ -101,7 +101,7 @@ def crawl_all_titles(titles: List[str], output_dir: Path = RAW_DIR / "tvtropes_t
 def main():
     chars_list = []
     tropes_list = []
-    tvtropes = "/Users/alisongunzler/Desktop/FP_IWRA/WAandIRFinalProject/data/raw/tvtropes"
+    tvtropes = "../data/raw/tvtropes"
     for filename in os.listdir(tvtropes):
         # print(filename)
         if filename.endswith(".json"):

@@ -13,7 +13,7 @@ from nltk.tokenize import word_tokenize
 def get_tropes_from_json():
     tropes_list = []
     chars_list = []
-    tvtropes = "/Users/alisongunzler/Desktop/FP_IWRA/WAandIRFinalProject/data/raw/tvtropes"
+    tvtropes = "../data/raw/tvtropes"
     for filename in os.listdir(tvtropes):
         # print(filename)
         if filename.endswith(".json"):
