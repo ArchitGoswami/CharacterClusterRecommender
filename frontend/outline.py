@@ -30,7 +30,7 @@ char_media = ""
 
 for file in os.listdir("../data/raw/tvtropes"):
     if file.endswith(".json"):
-        with open(os.path.join("../data/raw/tvtropes", file), "r") as f:
+        with open(os.path.join("../data/raw/tvtropes", file), "r", encoding="utf-8") as f:
             df = pd.read_json(f)
             chars = df["characters"]
             for char in chars:
