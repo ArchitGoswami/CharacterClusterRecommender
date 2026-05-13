@@ -1,0 +1,5 @@
+Average Score: 0.06454194337129593
+MissingWhiteWomanSyndrome
+WrittenInAbsence
+SequelNonEntity
+MissingEpisode

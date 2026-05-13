@@ -1,0 +1,25 @@
+Average Score: 0.3137758672237396
+LethalDiagnosis
+OpenHeartDentistry
+QuackDoctor
+EternalEmployee
+PlayingSick
+MadDoctor
+LittlestCancerPatient
+MDEnvy
+ClosestThingWeGOt
+WorkingThroughTheCold
+CreepyPhysical
+ComicallyIneptHealing
+AnnoyingPatient
+ClosestThingWeGot
+TheMedic
+PatientOfTheWeek
+BackAlleyDoctor
+FlorenceNightingaleEffect
+ThePatientHasLeftTheBuilding
+ImNotADoctorButIPlayOneOnTV
+PatientZero
+SuperDoc
+SoapOperaDisease
+DoctorWhomage

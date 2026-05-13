@@ -1,0 +1,4 @@
+Average Score: -0.09347021579742432
+Average Score: -0.09347022324800491
+StatusEffects
+InstantSedation

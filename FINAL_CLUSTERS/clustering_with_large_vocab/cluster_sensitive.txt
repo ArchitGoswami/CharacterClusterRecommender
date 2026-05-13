@@ -1,0 +1,4 @@
+Average Score: 0.12904059886932373
+PrecisionFStrike
+SensitiveArtist
+RealMenHateAffection

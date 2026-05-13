@@ -1,0 +1,5 @@
+Average Score: 0.1409754902124405
+OffModel
+HandRubbing
+GloveSlap
+HighClassGloves

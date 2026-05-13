@@ -1,0 +1,5 @@
+Average Score: 0.1982804238796234
+MortalityGreyArea
+SpeaksInBinary
+NonHumanNonBinary
+AlternativeNumberSystem

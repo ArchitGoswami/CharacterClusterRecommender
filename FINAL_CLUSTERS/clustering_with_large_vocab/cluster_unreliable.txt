@@ -1,0 +1,4 @@
+Average Score: -0.09508766233921051
+ConvenientMisfire
+StockFootageFailure
+GoodBadBugs

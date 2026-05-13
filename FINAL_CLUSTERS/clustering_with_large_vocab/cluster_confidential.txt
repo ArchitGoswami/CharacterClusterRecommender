@@ -1,0 +1,4 @@
+Average Score: 0.048196613788604736
+ConfessInConfidence
+FriendInThePress
+OffTheRecord

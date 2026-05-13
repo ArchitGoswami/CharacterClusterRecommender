@@ -1,0 +1,4 @@
+Average Score: 0.05462151765823364
+RoundhouseKick
+BizarreAndImprobableBallistics
+RoundedCharacter

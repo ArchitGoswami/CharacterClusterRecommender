@@ -1,0 +1,5 @@
+Average Score: 0.0913253054022789
+NameMcAdjective
+Mook
+Mooks
+SIPrefixName
