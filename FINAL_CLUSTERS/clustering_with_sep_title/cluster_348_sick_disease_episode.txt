@@ -1,0 +1,14 @@
+348: sick_disease_episode
+score: 0.9143725963554736
+Hypochondria
+IdiotsCannotCatchColds
+MunchausenSyndrome
+DefinitelyJustACold
+TheTonsillitisEpisode
+FakingAnotherPersonsIllness
+OutSick
+SickEpisode
+ShareTheSickness
+InducedHypochondria
+PlayingSick
+SoapOperaDisease

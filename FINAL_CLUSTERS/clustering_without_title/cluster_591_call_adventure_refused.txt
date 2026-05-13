@@ -1,0 +1,12 @@
+591: call_adventure_refused
+score: 0.7731567655366524
+RefusaloftheCall
+ResignedToTheCall
+RefusalOfTheCall
+JumpedAtTheCall
+WeAreNotGoingThroughThatAgain
+DidntWantAnAdventure
+RefusedByTheCall
+KidnappedByTheCall
+AdventureRebuff
+RefusedTheCall

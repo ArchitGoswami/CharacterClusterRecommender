@@ -1,0 +1,12 @@
+287: ham_large_announcer
+score: 0.924873821247337
+IncomingHam
+HammyHerald
+GASP
+LargeHamRadio
+LargeHam
+LargeHamAnnouncer
+Gasp
+CombatCommentator
+DangerDeadpan
+ColdHam

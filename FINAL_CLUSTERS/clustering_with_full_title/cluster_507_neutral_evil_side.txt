@@ -1,0 +1,25 @@
+507: neutral_evil_side
+score: 0.9398470846841044
+ChaoticGood
+GreyAndGrayMorality
+ChaoticEvil
+CharacterAlignment
+TheDarkSideWillMakeYouForget
+GreyAndGreyMorality
+ALighterShadeOfGray
+LawfulEvil
+EthicalHedonist
+HarmonyVersusDiscipline
+ChaoticNeutral
+NeutralInNameOnly
+OrderVsChaos
+NeutralityBacklash
+BothSidesHaveAPointRemark
+HazyFeelTurn
+TrueNeutral
+ForHappiness
+OrderVersusChaos
+LawfulNeutral
+GrayAndGreyMorality
+GrayAndGrayMorality
+NeutralNoLonger

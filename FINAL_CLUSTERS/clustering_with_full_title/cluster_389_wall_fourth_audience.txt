@@ -1,0 +1,22 @@
+389: wall_fourth_audience
+score: 0.6065963136203139
+MediumAwareness
+InternalMonologue
+FourthWallObserver
+ContemplateOurNavels
+WhoWouldWantToWatchUs
+LeaningOnTheFourthWall
+InnerMonologue
+NoFourthWall
+MediumAware
+ThinkingOutLoud
+SurrogateSoliloquy
+AudienceWhatAudience
+PrivateEyeMonologue
+TelevisionPortal
+AsideComment
+BreakTheFourthWall
+InCharacterCommentary
+ExploitingTheFourthWall
+BreakingTheFourthWall
+IntrepidFictioneer

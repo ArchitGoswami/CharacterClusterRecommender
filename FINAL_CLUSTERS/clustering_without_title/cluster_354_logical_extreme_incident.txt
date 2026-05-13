@@ -1,0 +1,7 @@
+354: logical_extreme_incident
+score: 1.0
+BadOmenAnecdote
+ShaggyFrogStory
+IncitingIncident
+CrazyMemory
+LogicalExtreme

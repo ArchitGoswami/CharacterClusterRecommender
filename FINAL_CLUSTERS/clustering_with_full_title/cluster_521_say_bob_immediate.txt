@@ -1,0 +1,15 @@
+521: say_bob_immediate
+score: 0.8770063327354674
+CouldSayItBut
+DiggingYourselfDeeper
+YouAnsweredYourOwnQuestion
+ICantBelieveImSayingThis
+ARareSentence
+BaitAndSwitchComment
+ImmediateSelfContradiction
+InstantlyProvenWrong
+CantBelieveISaidThat
+WorseWithContext
+PreemptiveShutUp
+ImmediateSelfcontradiction
+DiggingHimselfDeeper

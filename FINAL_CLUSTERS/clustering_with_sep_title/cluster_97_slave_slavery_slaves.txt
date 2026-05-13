@@ -1,0 +1,11 @@
+97: slave_slavery_slaves
+score: 0.7503046245533831
+SexSlave
+SlaveLiberation
+SlaveryIsASpecialKindOfEvil
+SlaveMook
+HappinessInSlavery
+MadeASlave
+SlaveMooks
+SympatheticSlaveOwner
+SlaveRace

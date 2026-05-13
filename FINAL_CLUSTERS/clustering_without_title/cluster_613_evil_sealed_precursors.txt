@@ -1,0 +1,12 @@
+613: evil_sealed_precursors
+score: 0.852053987863459
+SealedEvilInASixPack
+SealedEvilInACan
+EvilIsNotAToy
+AncientEvil
+BenevolentPrecursors
+AbusivePrecursors
+SealedGoodInACan
+SealedEvilInADuel
+SealedBadassInACan
+LeakingCanOfEvil

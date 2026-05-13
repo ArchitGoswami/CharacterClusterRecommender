@@ -1,0 +1,9 @@
+357: animal_dressed_cartoon
+score: 0.9742497385204347
+HalfDressedCartoonAnimal
+FullyDressedcartoonAnimal
+AccessoryWearingCartoonAnimal
+ClothingAppendage
+MonsterModesty
+FullyDressedCartoonAnimal
+FurIsClothing

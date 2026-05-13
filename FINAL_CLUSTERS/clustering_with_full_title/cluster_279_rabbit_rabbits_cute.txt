@@ -1,0 +1,7 @@
+279: rabbit_rabbits_cute
+score: 1.0
+HairRaisingHare
+LuckyRabbitsFoot
+BewareTheCuteOnes
+RascallyRabbit
+RighteousRabbit

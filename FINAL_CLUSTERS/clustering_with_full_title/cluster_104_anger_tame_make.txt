@@ -1,0 +1,7 @@
+104: anger_tame_make
+score: 1.0
+TeachHimAnger
+DontMakeMeDestroyYou
+TameHerAnger
+TameHisAnger
+IntimidationFailure

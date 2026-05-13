@@ -1,0 +1,9 @@
+423: product_placement_real
+score: 0.961938025759636
+Defictionalization
+ParodyProductPlacement
+TheRedStapler
+AdvertOverloadedFuture
+DestroyTheProductPlacement
+ProductPlacement
+CompetingProductPotshot

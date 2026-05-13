@@ -1,0 +1,9 @@
+260: size_change_whatever
+score: 0.8075075073619499
+AttackOfThe50FootWhatever
+Sizeshifter
+AttackOfTheFiftyFootWhatever
+ShrinkRay
+SizeShifter
+IncredibleShrinkingMan
+TemporaryBulkChange

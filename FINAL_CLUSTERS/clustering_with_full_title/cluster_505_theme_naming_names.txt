@@ -1,0 +1,12 @@
+505: theme_naming_names
+score: 0.9297642845201327
+ThemeInitials
+RockThemeNaming
+RhymeThemeNaming
+AlphabeticalThemeNaming
+FantasticNamingConvention
+FamilyThemeNaming
+ThemeTwinNaming
+VehicularThemeNaming
+NumericalThemeNaming
+ThemeNaming

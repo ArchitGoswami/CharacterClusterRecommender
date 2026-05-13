@@ -1,0 +1,7 @@
+266: door_window_entrance
+score: 1.0
+EnterStageWindow
+WindowLove
+DoorJudo
+ThereWasADoor
+BigEntrance

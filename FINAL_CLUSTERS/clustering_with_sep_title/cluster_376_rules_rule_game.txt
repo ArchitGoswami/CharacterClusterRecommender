@@ -1,0 +1,8 @@
+376: rules_rule_game
+score: 0.9845065186526405
+MyRuleFuIsStrongerThanYours
+LoopholeAbuse
+NewRulesAsThePlotDemands
+AintNoRule
+RulesLawyer
+ObviousRulePatch

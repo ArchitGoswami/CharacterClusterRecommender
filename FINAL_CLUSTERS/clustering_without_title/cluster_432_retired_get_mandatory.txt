@@ -1,0 +1,7 @@
+432: retired_get_mandatory
+score: 1.0
+MandatoryUnretirement
+ReluctantRetiree
+RetiredBadass
+RetiredBadAss
+ElderEmployee

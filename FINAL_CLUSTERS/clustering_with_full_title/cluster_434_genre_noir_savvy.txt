@@ -1,0 +1,14 @@
+434: genre_noir_savvy
+score: 0.6964721208243771
+OutOfGenreExperience
+NoirEpisode
+YouWatchTooMuchX
+GenreBlind
+HowUnscientific
+MultipleDemographicAppeal
+GenreShift
+GenreRefugee
+WrongGenreSavvy
+FilmNoir
+GenreSavvy
+GenreBlindness

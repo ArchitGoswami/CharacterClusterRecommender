@@ -1,0 +1,12 @@
+95: husband_career_housewife
+score: 0.8756205651383823
+Househusband
+FamilyVersusCareer
+LazyHusband
+CareerVersusFamily
+HouseWife
+HomeMaker
+Housewife
+HouseHusband
+DoNothingHousewife
+FoolishHusbandResponsibleWife

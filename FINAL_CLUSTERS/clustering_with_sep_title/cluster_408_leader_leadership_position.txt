@@ -1,0 +1,13 @@
+408: leader_leadership_position
+score: 0.9069534183543095
+TheLeader
+TheChainsOfCommanding
+ThePeterPrinciple
+ShortLivedLeadership
+ToughLeaderFacade
+StillTheLeader
+GracefullyDemoted
+DelayedLeadershipAscendance
+QuicklyDemotedLeader
+LazyBoss
+SelfAppointedLeader

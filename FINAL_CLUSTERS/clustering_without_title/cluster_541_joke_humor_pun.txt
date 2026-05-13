@@ -1,0 +1,33 @@
+541: joke_humor_pun
+score: 0.7017747815109745
+NoPunIntended
+ComebackTomorrow
+DontExplainTheJoke
+RimShot
+HumourDissonance
+AccidentalPun
+OverlyPreparedGag
+DudeNotFunny
+WordSaladHumour
+DoNotExplainTheJoke
+RussianReversal
+StealthPun
+OrphanedPunchline
+AntiHumor
+WordSaladHumor
+LamePunReaction
+GeniusBonus
+BreathlessNonSequitur
+ShaggyDogStory
+ActuallyPrettyFunny
+OrphanedSetup
+SoUnfunnyItsFunny
+InsideJoke
+CannotTellAJoke
+KnockKnockJoke
+HumorlessAliens
+LateToThePunchline
+BrickJoke
+LateToThePunchLine
+SurrealHumor
+VulgarHumor

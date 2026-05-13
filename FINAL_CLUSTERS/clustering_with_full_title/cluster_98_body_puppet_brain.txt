@@ -1,0 +1,28 @@
+98: body_puppet_brain
+score: 0.9265130305276519
+DemonicDummy
+CranialProcessingUnit
+MarionetteMotion
+BrainInAJar
+MarionetteMaster
+MeatPuppet
+HandPuppet
+BrainUpload
+BrainWithAManualControl
+BrainUploading
+PuppeteerParasite
+HeartDrive
+AnimateBodyParts
+BrainTheft
+Muppet
+ConsultingMisterPuppet
+PeoplePuppets
+DeadGuyPuppet
+SpareBodyParts
+GhostInTheMachine
+AnimateInanimateObject
+LEGOBodyParts
+BrainBleach
+WhoEvenNeedsABrain
+BodySnatcher
+BodyBackupDrive

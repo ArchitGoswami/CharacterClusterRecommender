@@ -1,0 +1,7 @@
+57: degree_elite_course
+score: 1.0
+TheBGrade
+PhonyDegree
+CorrespondenceCourse
+ADegreeInUseless
+EliteSchoolMeansEliteBrain

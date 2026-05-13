@@ -1,0 +1,9 @@
+379: rookie_team_new
+score: 0.9566151007358477
+LogicalLatecomer
+ExperiencedProtagonist
+WelcomeEpisode
+TeamPrimaDonna
+NewMeat
+EagerRookie
+RookieRedRanger

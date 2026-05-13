@@ -1,0 +1,9 @@
+435: damsel_distress_distressed
+score: 0.9391594318336836
+DamselOutOfDistress
+DeliberatelyDistressedDamsel
+DecoyDamsel
+DistressedDude
+DamselInDistress
+DamselErrant
+DamselInDIstress

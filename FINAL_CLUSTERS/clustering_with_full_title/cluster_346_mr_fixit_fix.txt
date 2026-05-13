@@ -1,0 +1,7 @@
+346: mr_fixit_fix
+score: 1.0
+MsFixit
+MrFixit
+MrFixIt
+MacGyvering
+WrenchWench

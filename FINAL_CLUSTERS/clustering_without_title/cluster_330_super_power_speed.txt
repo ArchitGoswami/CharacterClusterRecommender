@@ -1,0 +1,26 @@
+330: super_power_speed
+score: 0.7729296848304358
+ClothesMakeTheSuperman
+CharlesAtlasSuperpower
+PowerLimiter
+SleepModeSize
+HeroicBuild
+NitroBoost
+FastestThingAlive
+SuperSpeed
+RubberWoman
+DoesNotKnowHisOwnStrength
+MagnetismManipulation
+TheSpeedster
+MasterOfThreads
+RubberMan
+DoesNotKnowHerOwnStrength
+NotQuiteFlight
+FlyingBrick
+FlyingFirepower
+SuperBreath
+SpeedDemon
+CombatPrecognition
+SuperStrength
+SuperToughness
+CombatClairvoyance

@@ -1,0 +1,12 @@
+214: reptiles_lizard_amphibian
+score: 0.9120846757722433
+FrogMen
+AmphibianAssault
+LizardFolk
+SewerGator
+ReptilesAreAbhorrent
+ColossalCroc
+SouthernGator
+LovableLizard
+AmphibianAtLarge
+NeverSmileAtACrocodile

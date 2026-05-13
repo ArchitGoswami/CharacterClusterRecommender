@@ -1,0 +1,28 @@
+549: evil_good_neutral
+score: 0.924844708588711
+TheDarkSideWillMakeYouForget
+LawfulEvil
+WhiteAndGreyMorality
+ForHappiness
+EthicalHedonist
+OrderVersusChaos
+GreyAndGreyMorality
+EvilIsOneBigHappyFamily
+ToBeLawfulOrGood
+HarmonyVersusDiscipline
+LesserOfTwoEvils
+ChaoticNeutral
+ChaoticGood
+BlueAndOrangeMorality
+CharacterAlignment
+ChaoticEvil
+GrayAndGreyMorality
+AlwaysChaoticEvil
+GrayAndGrayMorality
+LawfulNeutral
+TrueNeutral
+OrderVsChaos
+ALighterShadeOfGray
+BothSidesHaveAPointRemark
+AlwaysLawfulGood
+GreyAndGrayMorality

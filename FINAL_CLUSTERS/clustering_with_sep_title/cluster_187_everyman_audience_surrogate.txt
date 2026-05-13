@@ -1,0 +1,9 @@
+187: everyman_audience_surrogate
+score: 0.9093270515318658
+SummonEverymanHero
+AudienceSurrogate
+UnfazedEveryman
+TheEveryman
+HiddenDepths
+UnluckyEverydude
+TheEveryMan

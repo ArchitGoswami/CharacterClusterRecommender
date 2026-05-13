@@ -1,0 +1,18 @@
+55: game_games_level
+score: 0.8037915214123235
+OneHundredPercentCompletion
+PostEndGameContent
+ChallengeGamer
+Metroidvania
+PressStartToGameOver
+MercyMode
+EasyLevelTrick
+SelfImposedChallenge
+PeninsulaOfPowerLeveling
+RPG
+DungeonMaster
+ExperiencePoints
+NintendoHard
+RPGElements
+VideoGameLives
+BrutalBonusLevel

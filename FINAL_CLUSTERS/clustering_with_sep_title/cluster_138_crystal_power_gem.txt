@@ -1,0 +1,10 @@
+138: crystal_power_gem
+score: 0.9130835280373447
+GemEncrusted
+AmplifierArtifact
+PowerCrystal
+CrystalPrison
+MineralMacGuffin
+BodyToJewel
+RingOfPower
+CrystalWeapon

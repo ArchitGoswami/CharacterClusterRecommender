@@ -1,0 +1,10 @@
+390: unreliable_narrator_based
+score: 0.9444434342492573
+VeryLooselyBasedOnATrueStory
+ShroudedInMyth
+UnreliableExpositor
+LittleKnownFacts
+UnreliableNarrator
+ArtisticLicense
+UrbanLegend
+ConsummateStoryteller

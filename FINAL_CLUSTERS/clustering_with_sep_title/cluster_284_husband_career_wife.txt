@@ -1,0 +1,19 @@
+284: husband_career_wife
+score: 0.5975655466353295
+HouseHusband
+HenpeckedHusband
+HandyMan
+DoNothingHousewife
+DissatisfiedFamilyMan
+HomeMaker
+ObnoxiousInLaws
+CareerVersusFamily
+CareerVersusMan
+Househusband
+ParentingTheHusband
+FamilyVersusCareer
+LazyHusband
+Housewife
+HouseWife
+FoolishHusbandResponsibleWife
+AnticsEnablingWife

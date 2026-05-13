@@ -1,0 +1,8 @@
+152: medic_healing_combat
+score: 1.0
+HealerSignsOnEarly
+MagicalDefibrillator
+ShootTheMedicFirst
+TheMedic
+HealingHands
+CombatMedic

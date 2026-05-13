@@ -1,0 +1,22 @@
+181: chair_pose_badass
+score: 0.7354022964340088
+FlexingThoseNonBiceps
+SlouchOfVillainy
+RebelRelaxation
+EdgyBackwardsChairSitting
+ChairReveal
+SwivelChairAntics
+DominanceThroughFurniture
+DynamicAkimbo
+LeaningOnTheFurniture
+SillyWalk
+LotusPosition
+CaptainMorganPose
+TrampledUnderfoot
+SpringHeeledJack
+TheLightfooted
+BadassArmFold
+ReverseArmFold
+MenacingStroll
+CoolChair
+BadassArmfold

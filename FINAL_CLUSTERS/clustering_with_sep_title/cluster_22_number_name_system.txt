@@ -1,0 +1,15 @@
+22: number_name_system
+score: 0.743223645768387
+RuleOfSeven
+ExtraDigits
+SIPrefixName
+TopTenList
+NumberOfTheBeast
+FiveFiveFive
+Lol69
+FourIsDeath
+YouAreNumber6
+YouAreNumberSix
+AlternativeNumberSystem
+ThirteenIsUnlucky
+ArcNumber

@@ -1,0 +1,8 @@
+332: magic_mage_fighter
+score: 0.9738634239858178
+MagicallyIneptFighter
+SwordAndSorcerer
+ShootTheMageFirst
+FullContactMagic
+MagicKnight
+WorldsBestWarrior

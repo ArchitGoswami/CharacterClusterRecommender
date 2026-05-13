@@ -1,0 +1,25 @@
+181: mecha_robot_super
+score: 0.5257588805613725
+GiantScrapRobot
+Mecha
+SuperRobot
+SuperRobotGenre
+GiantMecha
+ImpossiblyCompactFolding
+HumongousMecha
+MiniMecha
+LeaderFormsTheHead
+UnusualUserInterface
+VerticalMechaFins
+TransformingMecha
+MechaExpansionPack
+TransformingVehicle
+TelescopingRobot
+HoverBot
+MotionCaptureMecha
+AnimalMecha
+MidSeasonUpgrade
+MobileSuitHuman
+MilitaryMashupMachine
+CombiningMecha
+SpectralBodyConstruct

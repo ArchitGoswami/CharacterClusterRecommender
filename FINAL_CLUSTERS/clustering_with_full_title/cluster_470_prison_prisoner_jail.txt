@@ -1,0 +1,35 @@
+470: prison_prisoner_jail
+score: 0.5582243813868843
+MightAsWellNotBeInPrisonAtAll
+PrisonerSwitcheroo
+FakeDefector
+NoPrisonSegregation
+GreatEscape
+TradingBarsForStripes
+HadToComeToPrisonToBeACrook
+CryoPrison
+HellholePrison
+PrisonRape
+GetIntoJailFree
+DesiresPrisonLife
+BoxedCrook
+DisguisedHostageGambit
+UnwillingSuspension
+WardensAreEvil
+Prison
+PrisonsAreSchools
+PrisonChangesPeople
+TheOldConvict
+PrisonEscapeArtist
+TheAlcatraz
+LuxuryPrisonSuite
+PlayAlongPrisoner
+PhantomZonePicture
+SinisterShiv
+PutOnAPrisonBus
+JustGotOutOfJail
+PrisonEpisode
+NeverGoingBackToPrison
+TrojanPrisoner
+PrisonsAreGymnasiums
+BoundToAnArea

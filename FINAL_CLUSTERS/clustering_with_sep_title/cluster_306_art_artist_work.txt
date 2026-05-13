@@ -1,0 +1,26 @@
+306: art_artist_work
+score: 0.8505205660880479
+ArtReflectsPersonality
+DoingItForTheArt
+ArtAttacker
+Sculptors
+TrueArtIsIncomprehensible
+SavingTheWorldWithArt
+MagnumOpusDissonance
+TheMuse
+ArtEvolution
+TerribleArtist
+ArtInitiatesLife
+Painters
+StarvingArtist
+ArtDeco
+DependingOnTheArtist
+LazyArtist
+OneTrackMindedArtist
+ReclusiveArtist
+SequentialArtist
+LifeImitatesArt
+PietaPlagiarism
+LeFilmArtistique
+TheBurlesqueOfVenus
+PygmalionPlot

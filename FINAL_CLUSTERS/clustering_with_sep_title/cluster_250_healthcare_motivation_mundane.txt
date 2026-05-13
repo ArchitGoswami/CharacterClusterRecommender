@@ -1,0 +1,9 @@
+250: healthcare_motivation_mundane
+score: 0.9227484571533441
+SignedUpForTheDental
+HealthcareMotivation
+SkewedPriorities
+HealthCareMotivation
+FirstWorldProblems
+TooDesperateToBePicky
+ComicallySmallDemand

@@ -1,0 +1,13 @@
+301: magic_stage_real
+score: 1.0
+FakeWizardry
+ImpossiblyAwesomeMagicTrick
+ClarkesThirdLaw
+DoingInTheWizard
+MagiciansAreWizards
+MagicFromTechnology
+FunctionalMagic
+WrongContextMagic
+StageMagic
+InherentGift
+StageMagician

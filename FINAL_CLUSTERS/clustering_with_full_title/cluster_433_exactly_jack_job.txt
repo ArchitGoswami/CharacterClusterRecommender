@@ -1,0 +1,7 @@
+433: exactly_jack_job
+score: 1.0
+GotVolunteered
+JackofAllTrades
+WhatExactlyIsHisJob
+WhatExactlyIsHerJob
+JackOfAllTrades

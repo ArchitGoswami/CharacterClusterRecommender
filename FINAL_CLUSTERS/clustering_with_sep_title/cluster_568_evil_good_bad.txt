@@ -1,0 +1,17 @@
+568: evil_good_bad
+score: 0.9343301895293666
+NotEvilJustMisunderstood
+EvilTastesGood
+DetectEvil
+BigBadSlippage
+ButNotTooEvil
+AmbiguouslyEvil
+EvilEvolves
+EvilIsHammy
+EvilIsAngular
+ObviouslyEvil
+GoodIsBadAndBadIsGood
+EvilAllAlong
+BadIsGoodAndGoodIsBad
+GoodHurtsEvil
+EvilFeelsGood

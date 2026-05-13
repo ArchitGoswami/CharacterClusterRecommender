@@ -1,0 +1,10 @@
+49: crystal_power_gem
+score: 0.8575140305220605
+MineralMacGuffin
+AmplifierArtifact
+CrystalPrison
+BodyToJewel
+PowerCrystal
+CrystalWeapon
+MagicalAccessory
+GemEncrusted

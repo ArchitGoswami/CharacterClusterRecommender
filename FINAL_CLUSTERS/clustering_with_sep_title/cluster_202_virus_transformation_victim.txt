@@ -1,0 +1,7 @@
+202: virus_transformation_victim
+score: 1.0
+ViralTransformation
+VirusVictimSymptoms
+ProHumanTranshuman
+TheVirus
+TranshumanTreachery

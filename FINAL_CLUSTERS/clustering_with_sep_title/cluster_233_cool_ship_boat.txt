@@ -1,0 +1,17 @@
+233: cool_ship_boat
+score: 0.8522932840997658
+CoolTrain
+DreadZeppelin
+CoolHouse
+WealthyYachtOwner
+AirborneAircraftCarrier
+CoolStarship
+HouseboatHero
+CoolShip
+FlyingCar
+AmphibiousAutomobile
+CoolAirship
+StarshipLuxurious
+CoolGarage
+CoolPlane
+CoolBoat

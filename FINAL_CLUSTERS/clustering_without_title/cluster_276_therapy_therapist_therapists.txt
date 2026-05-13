@@ -1,0 +1,12 @@
+276: therapy_therapist_therapists
+score: 0.8174386036427037
+PsychoPsychologist
+AmateurTherapist
+TheCobblersChildrenHaveNoShoes
+TheShrink
+ThereAreNoTherapists
+EpiphanyTherapy
+WarriorTherapist
+TherapyIsForTheWeak
+AllTherapistsAreMuggles
+TherapyIsFortheWeak

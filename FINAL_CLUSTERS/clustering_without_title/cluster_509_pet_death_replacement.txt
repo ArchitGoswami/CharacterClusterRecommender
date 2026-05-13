@@ -1,0 +1,11 @@
+509: pet_death_replacement
+score: 0.8590936657594249
+StayWithMeUntilIDie
+ReplacementGoldFish
+LostPetGrievance
+DogGotSentToAFarm
+BlackComedyPetDeath
+MySiblingWillLiveThroughMe
+ReplacementGoldfish
+Necromantic
+PleaseWakeUp

@@ -1,0 +1,11 @@
+536: action_girl_emotionless
+score: 0.975545518676607
+NonActionSnarker
+NonActionGuy
+Chickification
+EmotionlessBoy
+FauxActionGirl
+EmotionlessGirl
+WaifFu
+ActionGirl
+PantyFighter

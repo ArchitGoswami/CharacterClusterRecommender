@@ -1,0 +1,35 @@
+548: word_words_speak
+score: 0.771103632866069
+StrangeSyntaxSpeaker
+GibberingGenius
+Bowdlerise
+BuffySpeak
+TongueTwister
+TwoWordsICantCount
+SpeakingLikeTotallyTeen
+MondegreenGag
+DidNotDoTheBloodyResearch
+LaymansTerms
+ArcWords
+EvenTheSubtitlerIsStumped
+Bowdlerize
+LikeIsLikeAComma
+TWordEuphemism
+Neologizer
+PerfectlyCromulentWord
+OneWordVocabulary
+FunWithHomophones
+Portmanteau
+HurricaneOfEuphemisms
+Smurfing
+TalksLikeASimile
+VerbalTic
+TheUnintelligible
+MeaninglessMeaningfulWords
+LeetSpeak
+SesquipedalianLoquaciousness
+BeigeProse
+ParrotExposition
+GrammarNazi
+UnusualEuphemism
+TerseTalker

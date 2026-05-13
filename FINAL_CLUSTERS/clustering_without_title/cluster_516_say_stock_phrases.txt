@@ -1,0 +1,7 @@
+516: say_stock_phrases
+score: 1.0
+YouJustHadToSayIt
+IAlwaysWantedToSayThat
+IHeardThat
+ARareSentence
+StockPhrases

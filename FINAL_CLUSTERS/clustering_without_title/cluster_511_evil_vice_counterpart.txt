@@ -1,0 +1,12 @@
+511: evil_vice_counterpart
+score: 0.7240375914147906
+EvilCounterPart
+DesignPreservationVillain
+MrViceGuy
+ViceCity
+EvilKnockoff
+GoodCounterpart
+MsViceGirl
+EvilCounterpart
+TheImp
+StraightEdgeEvil

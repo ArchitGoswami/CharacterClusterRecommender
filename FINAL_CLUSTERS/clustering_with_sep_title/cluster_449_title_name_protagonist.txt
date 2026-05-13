@@ -1,0 +1,17 @@
+449: title_name_protagonist
+score: 0.8094352988267093
+Codename
+CodenameTitle
+PunBasedTitle
+CodeName
+SuperheroSobriquets
+ExactlyWhatItSaysOnTheTin
+OperationBlank
+BroughtToYouByTheLetterS
+AntagonistTitle
+IAmNotShazam
+CharacterTitle
+TheNamesake
+VerbalBusinessCard
+SecondaryCharacterTitle
+ProtagonistTitle

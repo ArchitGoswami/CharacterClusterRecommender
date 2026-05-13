@@ -1,0 +1,27 @@
+561: protagonist_anti_heroes
+score: 0.9116846151028943
+BlueCollarHero
+ClassicalAntiHero
+TheHeroine
+TheHero
+PinballProtagonist
+DesignatedHero
+UselessProtagonist
+NinetiesAntiHero
+HeroProtagonist
+ImNotAHeroIm
+MagneticHero
+TheBard
+MagnificentBastard
+GuileHero
+ClassicalAntihero
+GuileHeroine
+TheHerosIdol
+ByronicHero
+UnscrupulousHero
+AntiHero
+PragmaticHero
+UnlikelyHero
+Antihero
+IdealHero
+NominalHero

@@ -1,0 +1,8 @@
+128: skill_technician_chekhov
+score: 0.9939871431933823
+ChekhovsSkill
+ChekhovsHobby
+SuddenlyAlwaysKnewThat
+WorkplaceAcquiredAbilities
+TechnicianPerformerTeamUp
+InformedAbility

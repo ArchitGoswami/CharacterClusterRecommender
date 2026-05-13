@@ -1,0 +1,9 @@
+102: token_teammate_good
+score: 0.8171362155758691
+TokenReligiousTeammate
+FlawlessToken
+TokenGoodTeammate
+TokenEvilTeamMate
+TokenEvilTeammate
+TokenGoodTeamMate
+TheTeamWannabe

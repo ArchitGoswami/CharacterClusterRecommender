@@ -1,0 +1,17 @@
+550: word_words_speak
+score: 0.8218250967314026
+BuffySpeak
+SpeakingLikeTotallyTeen
+MondegreenGag
+GrammarCorrectionGag
+VerbalTic
+PerfectlyCromulentWord
+SesquipedalianLoquaciousness
+YouKeepUsingThatWord
+StrangeSyntaxSpeaker
+LeetSpeak
+TerseTalker
+SpockSpeak
+GibberingGenius
+FutureSlang
+BeigeProse

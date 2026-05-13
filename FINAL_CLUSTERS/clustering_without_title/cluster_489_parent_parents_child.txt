@@ -1,0 +1,7 @@
+489: parent_parents_child
+score: 1.0
+TeasingParent
+SafetyWorst
+PermissiveParents
+ParentalHypocrisy
+TurningIntoYourParent

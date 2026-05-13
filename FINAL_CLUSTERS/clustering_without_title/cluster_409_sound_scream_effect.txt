@@ -1,0 +1,27 @@
+409: sound_scream_effect
+score: 0.6996197992747295
+NailsOnABlackboard
+UnsoundEffect
+SignatureSoundEffect
+StockSoundEffects
+GlassShatteringSound
+MakeSomeNoise
+NoisyRobots
+SuperScream
+TorturedMonster
+StockSoundEffect
+EnergyRingAttack
+WilhelmScream
+TheScream
+HairtriggerSoundEffect
+CarefulWithThatAxe
+GaleForceSound
+OverlyLongScream
+ChirpingCrickets
+TheMisophonic
+HellIsThatNoise
+EarWorm
+WackySoundEffect
+SonicScream
+StockScream
+LoudOfWar

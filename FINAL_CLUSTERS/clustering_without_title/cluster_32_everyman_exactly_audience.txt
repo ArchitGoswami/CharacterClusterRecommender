@@ -1,0 +1,11 @@
+32: everyman_exactly_audience
+score: 0.8111158530391992
+TheEveryMan
+WhatExactlyIsHisJob
+WhatExactlyIsHerJob
+JackofAllTrades
+UnfazedEveryman
+JackOfAllTrades
+TheEveryman
+AudienceSurrogate
+UnluckyEverydude

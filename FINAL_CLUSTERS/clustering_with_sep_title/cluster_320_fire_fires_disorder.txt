@@ -1,0 +1,10 @@
+320: fire_fires_disorder
+score: 0.9890172328808122
+PyroManiac
+FrictionBurn
+Pyromaniac
+ConvectionSchmonvection
+SpontaneousHumanCombustion
+FlamingMeteor
+OutOfTheInferno
+ManOnFire

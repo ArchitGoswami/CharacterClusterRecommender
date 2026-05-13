@@ -1,0 +1,12 @@
+411: scene_shower_bathtub
+score: 0.9140762718587949
+NonNudeBathing
+CantBatheWithoutAWeapon
+BathsAreFun
+BathtubScene
+ShowerShy
+CensorSuds
+PublicBathhouseScene
+SlipperySoap
+ModestyTowel
+LandingInSomeonesBathtub

@@ -1,0 +1,15 @@
+480: episode_opening_cold
+score: 0.8877598566366398
+EveryEpisodeEnding
+ColdOpen
+OnceAnEpisode
+TheTag
+TheTeaser
+OpeningNarration
+SoOnceAgainTheDayIsSaved
+OnTheNext
+SigningOffCatchPhrase
+ColdOpening
+OncePerEpisode
+SpoilerOpening
+SigningOffCatchphrase

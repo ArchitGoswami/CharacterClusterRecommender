@@ -1,0 +1,28 @@
+384: mind_psychic_control
+score: 0.9542960539514111
+PolicePsychic
+PsychicAssistedSuicide
+PsychicBlockDefense
+TelepathicSpacemen
+PsychicRadar
+PsychicOperative
+NotSoPhonyPsychic
+MindProbe
+MindControl
+ThinkingTic
+Telepathy
+TheseAreThingsManWasNotMeantToKnow
+MindManipulation
+MindHug
+PsychicStatic
+ThingsManWasNotMeantToKnow
+PsychicLink
+MindControlDevice
+MindRape
+UnhappyMedium
+TheEmpath
+ColdReading
+PhonyPsychic
+MindRaped
+MindScrew
+MindVirus

@@ -1,0 +1,9 @@
+18: zig_zagging_sometimes
+score: 0.8227648533533544
+ZigZagged
+ZigzaggedTrope
+ZigZaggingTrope
+ZigzaggingTrope
+ZigZaggedTrope
+ZanyScheme
+Zigzagged

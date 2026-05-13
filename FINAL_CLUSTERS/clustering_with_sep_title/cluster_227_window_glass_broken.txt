@@ -1,0 +1,10 @@
+227: window_glass_broken
+score: 0.9301306070612212
+InCaseOfXBreakGlass
+BrakeAngrily
+BrokenWindowWarning
+DestinationDefenestration
+WindowLove
+EnterStageWindow
+SuperWindowJump
+BrokenGlassPenalty

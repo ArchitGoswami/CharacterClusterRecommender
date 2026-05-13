@@ -1,0 +1,15 @@
+307: live_action_animation
+score: 0.9193704228279616
+LiveActionAdaptation
+RogerRabbitEffect
+ZanyCartoon
+AnimatedShockComedy
+Disneyfication
+AnimatedAdaptation
+WebAnimation
+CartoonPhysics
+ToonPhysics
+WesternAnimation
+TwoDVisualsThreeDEffects
+MediumBlending
+LiveActionCartoon

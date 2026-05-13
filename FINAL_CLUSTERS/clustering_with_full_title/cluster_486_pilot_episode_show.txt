@@ -1,0 +1,12 @@
+486: pilot_episode_show
+score: 0.8470757997828606
+Pilot
+PilotEpisode
+SecondEpisodeIntroduction
+ThePilot
+SpinOff
+DroppedAfterThePilot
+Spinoff
+PilotMovie
+PoorlyDisguisedPilot
+BackdoorPilot

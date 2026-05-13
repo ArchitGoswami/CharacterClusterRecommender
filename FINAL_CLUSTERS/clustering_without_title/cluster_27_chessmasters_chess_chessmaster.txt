@@ -1,0 +1,11 @@
+27: chessmasters_chess_chessmaster
+score: 0.826129709451359
+ChessMaster
+OffscreenVillainy
+TheChessMaster
+ChessmasterSidekick
+OffstageVillainy
+TheChessmaster
+TheStrategist
+Chessmaster
+ChessMotifs

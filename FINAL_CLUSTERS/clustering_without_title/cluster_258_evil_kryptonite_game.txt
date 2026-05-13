@@ -1,0 +1,7 @@
+258: evil_kryptonite_game
+score: 1.0
+SuperpoweredEvilSide
+AdaptiveAbility
+YouCanBarelyStand
+GameBreakingInjury
+KryptoniteProofSuit

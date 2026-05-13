@@ -1,0 +1,26 @@
+353: attack_punch_ground
+score: 0.7826788079843346
+InvulnerableKnuckles
+SpinAttack
+ShockwaveStomp
+CallingYourAttacks
+GroundPound
+FastballSpecial
+RapidFireFisticuffs
+MegatonPunch
+ChairmanOfTheBrawl
+MetronomicManMashing
+TheSpiny
+HumanHammerThrow
+PunchedAcrossTheRoom
+AttackReflector
+CrossAttack
+GroundPunch
+CherryTapping
+HeyYouHaymaker
+BizarreAndImprobableGolfGame
+BigBallOfViolence
+PunchPunchPunchUhOh
+RollingAttack
+CallingYourAttack
+BouncingBattler

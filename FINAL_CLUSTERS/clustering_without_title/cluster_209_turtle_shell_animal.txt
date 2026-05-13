@@ -1,0 +1,8 @@
+209: turtle_shell_animal
+score: 0.9758260437186288
+SpeedySnail
+ShyShelledAnimal
+SturdyAndSteadyTurtles
+TurtleShield
+RemovableShell
+StuddedShell

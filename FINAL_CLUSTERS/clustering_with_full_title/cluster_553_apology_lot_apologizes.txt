@@ -1,0 +1,9 @@
+553: apology_lot_apologizes
+score: 0.944700419474362
+OrderedApology
+TheUnapologetic
+ApologizesALot
+ApologisesALot
+ApologyGift
+RejectedApology
+ReformedBully

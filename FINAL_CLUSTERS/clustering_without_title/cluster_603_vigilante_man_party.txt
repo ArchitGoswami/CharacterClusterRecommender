@@ -1,0 +1,7 @@
+603: vigilante_man_party
+score: 1.0
+VigilanteJustice
+VigilanteExecution
+VigilanteWoman
+TheJailer
+VigilanteMan

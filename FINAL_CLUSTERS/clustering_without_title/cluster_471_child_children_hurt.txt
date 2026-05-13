@@ -1,0 +1,21 @@
+471: child_children_hurt
+score: 0.5113015605112813
+ChildrenForcedToKill
+WouldHarmAChild
+WouldntHurtAChild
+KidAmidTheChaos
+AmbiguousInnocence
+HarmfulToMinors
+WouldHurtaChild
+ChildSoldier
+ChildrenAreTenderHearted
+DeathOfAChild
+FinalSolution
+CensoredChildDeath
+FatherIDontWantToFight
+FearlessInfant
+ChildSoldiers
+ThinkOfTheChildren
+WouldHurtAChild
+TooGoodForThisSinfulEarth
+WouldNotHurtAChild

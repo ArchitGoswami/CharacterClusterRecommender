@@ -1,0 +1,8 @@
+27: guy_generic_action
+score: 0.9776689456224995
+TheGenericGirl
+GenericGuy
+RidiculouslyAverageGuy
+ActionGenreHeroGuy
+TheGenericGuy
+NonActionGuy

@@ -1,0 +1,11 @@
+291: knowledge_know_everything
+score: 0.933875073409101
+TheOmniscient
+EncyclopedicKnowledge
+KnowNothingKnowItAll
+EncyclopaedicKnowledge
+TaughtByTelevision
+CorrespondenceCourse
+TheBlindLeadingTheBlind
+IgnorantOfTheirOwnIgnorance
+ButIReadABookAboutIt

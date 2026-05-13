@@ -1,0 +1,24 @@
+241: fish_monster_sea
+score: 0.7868525398777136
+KrakenAndLeviathan
+ShamuFu
+ShyShelledAnimal
+SharkMan
+PiranhaProblem
+SeaMonster
+StockNessMonster
+MonsterWhale
+SturdyAndSteadyTurtles
+TurtleIsland
+FishPeople
+ThreateningShark
+FishPerson
+SlipperyAsAnEel
+TentacledTerror
+SwampMonster
+RemovableShell
+TerrestrialSeaLife
+FlyingSeafoodSpecial
+StuddedShell
+FiendishFish
+NotTheNessie

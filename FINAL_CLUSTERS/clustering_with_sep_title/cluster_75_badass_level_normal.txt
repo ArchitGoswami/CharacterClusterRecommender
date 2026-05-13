@@ -1,0 +1,11 @@
+75: badass_level_normal
+score: 0.7066982237605172
+BadassNormal
+TakeALevelInBadass
+TakesALevelInBadass
+TookaLevelInBadass
+BadassAbnormal
+TookALevelInBadAss
+TookALevelInBadass
+BadassTransplant
+EmpoweredBadassNormal

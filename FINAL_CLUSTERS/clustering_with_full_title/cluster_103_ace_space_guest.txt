@@ -1,0 +1,10 @@
+103: ace_space_guest
+score: 0.9524006895017403
+TokenFlyer
+SpaceFighter
+TheAce
+GuestFighter
+AcePilot
+GuyInBack
+AceCustom
+ImprobablePilotingSkills

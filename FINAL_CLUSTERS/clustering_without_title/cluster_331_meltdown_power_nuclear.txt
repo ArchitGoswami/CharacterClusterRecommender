@@ -1,0 +1,7 @@
+331: meltdown_power_nuclear
+score: 1.0
+SuperpowerMeltdown
+NuclearMutant
+SuperPowerMeltdown
+AtomicSuperpower
+SuperMode

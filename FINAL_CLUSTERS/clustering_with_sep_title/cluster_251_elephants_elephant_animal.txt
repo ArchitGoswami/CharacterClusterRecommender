@@ -1,0 +1,9 @@
+251: elephants_elephant_animal
+score: 0.9933752204910797
+AttackAnimal
+TheBeastmaster
+CruelElephant
+AnimalBattleAura
+WarElephants
+HonorableElephant
+BeastOfBattle

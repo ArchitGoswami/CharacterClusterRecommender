@@ -1,0 +1,7 @@
+304: weapons_energy_plasma
+score: 1.0
+EnergyWeapons
+RayGun
+EnergyWeapon
+WeaponsThatSuck
+PlasmaCannon

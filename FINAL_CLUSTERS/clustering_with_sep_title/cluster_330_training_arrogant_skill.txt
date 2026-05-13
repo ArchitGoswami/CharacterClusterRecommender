@@ -1,0 +1,8 @@
+330: training_arrogant_skill
+score: 0.9854828444982185
+StockShonenHero
+ArrogantKungFuGuy
+HardWorkHardlyWorks
+ArrogantKungFuGirl
+TrainingFromHell
+HatesTheirAwesomeSkill

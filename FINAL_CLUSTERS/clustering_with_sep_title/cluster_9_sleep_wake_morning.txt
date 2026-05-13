@@ -1,0 +1,24 @@
+9: sleep_wake_morning
+score: 0.5432282535495253
+SlapYourselfAwake
+SleepyEnemy
+SleepDeprivationPunishment
+SeniorSleepCycle
+SleepyDepressive
+TheSleepless
+InstantWakingSkills
+Sleepyhead
+HeavySleeper
+RipVanTinkle
+NotAMorningPerson
+ForcedSleep
+AnOddPlaceToSleep
+SleepDeprivation
+WakeUpFighting
+TheNightOwl
+DontWakeTheSleeper
+TheInsomniac
+TripleShifter
+SleepyHead
+ReallyFondOfSleeping
+MorningRoutine

@@ -1,0 +1,8 @@
+547: petard_death_evil
+score: 0.9991139013671576
+AccidentalSuicide
+MurderByInaction
+HoistByHerOwnPetard
+MercyKill
+HoistByTheirOwnPetard
+HoistByHisOwnPetard

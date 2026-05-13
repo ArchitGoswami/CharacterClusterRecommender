@@ -1,0 +1,9 @@
+124: planet_city_earth
+score: 0.9726901884087686
+PlanetOfHats
+OneProductPlanet
+AgriWorld
+GalacticSuperpower
+CityPlanet
+InsignificantLittleBluePlanet
+PlutoIsExpendable

@@ -1,0 +1,10 @@
+103: rookie_team_newcomer
+score: 0.8960289645456467
+RookieRedRanger
+EagerRookie
+NaiveNewcomer
+ExperiencedProtagonist
+LogicalLatecomer
+TheIntern
+WelcomeEpisode
+TeamPrimaDonna

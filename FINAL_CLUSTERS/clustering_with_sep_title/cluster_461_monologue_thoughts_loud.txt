@@ -1,0 +1,12 @@
+461: monologue_thoughts_loud
+score: 0.8780176334805019
+InnerMonologue
+SurrogateSoliloquy
+ThinkingOutLoud
+ParrotExposition
+MirrorMonologue
+RepeatingSoTheAudienceCanHear
+DidIJustSayThatOutLoud
+PrivateEyeMonologue
+InternalMonologue
+NarrationEcho

@@ -1,0 +1,12 @@
+119: parent_reason_parents
+score: 0.9221116114139875
+AmbiguouslyOrphaned
+DisappearedDad
+MissingWhiteWomanSyndrome
+AmbiguouslyAbsentParent
+MissingMom
+MommyHadAGoodReasonForAbandoningYou
+DaddyDidntShow
+EmptyNest
+DaddyHadAGoodReasonForAbandoningYou
+ParentNeverCameBackFromTheStore

@@ -1,0 +1,8 @@
+473: opening_breakout_titles
+score: 0.987947874774629
+IconicSequelCharacter
+PromotionToOpeningTitles
+BreakOutCharacter
+PromotedToOpeningTitles
+BreakoutCharacter
+PromotedToOpeningCredits

@@ -1,0 +1,26 @@
+278: catchphrase_phrase_catch
+score: 0.5550708754669871
+SubvertedCatchphrase
+MadLibsCatchPhrase
+MangledCatchPhrase
+ItsLikeIAlwaysSay
+PhraseCatcher
+CatchphraseInterruptus
+BorrowedCatchPhrase
+AbandonedCatchphrase
+OneLiner
+MangledCatchphrase
+TheMalaproper
+HeyThatsMyLine
+StopSayingThat
+Borrowedcatchphrase
+CatchPhrase
+Malaproper
+BorrowedCatchphrase
+CatchphraseInsult
+PreMortemCatchphrase
+SubvertedCatchPhrase
+Catchphrase
+MadLibsCatchphrase
+StockPhrases
+SharePhrase

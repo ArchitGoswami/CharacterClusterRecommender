@@ -1,0 +1,8 @@
+87: lightning_electric_electricity
+score: 0.9549200799199085
+StaticStunGun
+ElectricSlide
+HarmlessElectrocution
+RideTheLightning
+ElectrifiedBathtub
+HighVoltageDeath

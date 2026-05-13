@@ -1,0 +1,13 @@
+223: patient_insurance_healthcare
+score: 0.8136351042144373
+SignedUpForTheDental
+PatientOfTheWeek
+FlorenceNightingaleEffect
+CreepyPhysical
+OrderliesAreCreeps
+ThePatientHasLeftTheBuilding
+AnnoyingPatient
+HealthCareMotivation
+HealthcareMotivation
+InsuranceFraud
+ComicallyIneptHealing

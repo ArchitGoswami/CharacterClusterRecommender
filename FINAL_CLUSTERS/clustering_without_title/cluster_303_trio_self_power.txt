@@ -1,0 +1,9 @@
+303: trio_self_power
+score: 0.9763802866870189
+TemporalTrio
+PowerTrio
+FreudianTrio
+TheThreeFacesOfAdam
+HigherSelf
+TerribleTrio
+RuleOfThree

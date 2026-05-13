@@ -1,0 +1,12 @@
+392: cameo_work_creator
+score: 0.8986338808401083
+ProductionForeshadowing
+TheCameo
+CrossoverCameo
+UncreditedRole
+CompanyCrossReferences
+TheOtherMarty
+ContinuityCameo
+EarlyBirdCameo
+CreatorCameo
+RemakeCameo

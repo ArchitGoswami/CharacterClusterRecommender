@@ -1,0 +1,10 @@
+346: tic_animation_eyebrow
+score: 0.9122581669815103
+DisapprovingLook
+FascinatingEyebrow
+AnimationBump
+QuizzicalTilt
+DreamworksFace
+SqueakyEyes
+CharacterTic
+CharacterTics

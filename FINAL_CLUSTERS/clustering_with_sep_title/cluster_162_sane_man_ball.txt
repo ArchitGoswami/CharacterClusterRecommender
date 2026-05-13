@@ -1,0 +1,7 @@
+162: sane_man_ball
+score: 1.0
+OnlySaneWoman
+OnlySaneMan
+SanityBall
+OnlySaneByComparison
+LoonWithAHeartOfGold

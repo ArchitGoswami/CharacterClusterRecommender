@@ -1,0 +1,8 @@
+275: anthropomorphic_animal_shift
+score: 0.9624501582796813
+AdultsAreMoreAnthropomorphic
+AnthropomorphicZigZag
+AnthropomorphicTypography
+SlidingScaleOfAnthropomorphism
+HumanlikeAnimalAging
+AnthropomorphicShift

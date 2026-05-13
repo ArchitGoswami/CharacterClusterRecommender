@@ -1,0 +1,10 @@
+293: betrayal_traitor_evil
+score: 0.9800550240933735
+PostBetrayalJustification
+TreacheryIsASpecialKindOfEvil
+BetrayalInsurance
+BetrayalByInaction
+WhoNeedsEnemies
+RegretfulTraitor
+Turncoat
+WelcomeBackTraitor

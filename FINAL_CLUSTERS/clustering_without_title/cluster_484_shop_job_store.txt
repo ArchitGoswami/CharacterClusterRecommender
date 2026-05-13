@@ -1,0 +1,20 @@
+484: shop_job_store
+score: 0.7117604757352259
+OnlyShopInTown
+FriendlyShopkeeper
+TheMall
+ApatheticClerk
+TheLittleShopThatWasntThereYesterday
+WeSellEverything
+BazaarOfTheBizarre
+WorkOffTheDebt
+SoulSuckingRetailJob
+UnsatisfiableCustomer
+WaitingForABreak
+MobileKiosk
+BurgerFool
+RestaurantOwningEpisode
+ServiceSectorStereotypes
+SeverelySpecializedStore
+SuperStoicShopkeeper
+ShopClass

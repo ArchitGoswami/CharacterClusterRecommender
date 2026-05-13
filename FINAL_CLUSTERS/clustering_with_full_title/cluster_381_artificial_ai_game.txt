@@ -1,0 +1,7 @@
+381: artificial_ai_game
+score: 1.0
+AIIsACrapshoot
+LogicBomb
+ArtificialBrilliance
+ArtificialStupidity
+MyRulesAreNotYourRules

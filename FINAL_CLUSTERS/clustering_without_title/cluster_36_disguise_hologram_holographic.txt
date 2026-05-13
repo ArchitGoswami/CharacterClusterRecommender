@@ -1,0 +1,11 @@
+36: disguise_hologram_holographic
+score: 0.8803185275769368
+HardLight
+TheShadowKnows
+LieToTheBeholder
+ModelPlanning
+HugeHolographicHead
+ProjectedMan
+Hologram
+MasterOfIllusion
+HolographicDisguise

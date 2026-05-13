@@ -1,0 +1,9 @@
+142: window_broken_door
+score: 1.0
+EnterStageWindow
+WindowLove
+ThereWasADoor
+DestinationDefenestration
+DynamicEntry
+BrokenGlassPenalty
+BrokenWindowWarning

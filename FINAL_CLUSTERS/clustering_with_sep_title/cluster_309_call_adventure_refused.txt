@@ -1,0 +1,14 @@
+309: call_adventure_refused
+score: 0.6234788530625254
+WeAreNotGoingThroughThatAgain
+AdventureRebuff
+RefusingParadise
+ResignedToTheCall
+MissedTheCall
+RefusaloftheCall
+RefusedTheCall
+RefusedByTheCall
+JumpedAtTheCall
+KidnappedByTheCall
+RefusalOfTheCall
+DidntWantAnAdventure

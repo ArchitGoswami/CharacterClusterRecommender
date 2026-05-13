@@ -1,0 +1,13 @@
+380: rules_rule_game
+score: 0.8828563767008025
+RuleOfThree
+NewRulesAsThePlotDemands
+AintNoRule
+ObviousRulePatch
+ScrewTheRulesTheyBrokeThemFirst
+MyRuleFuIsStrongerThanYours
+RuleOfCool
+LoopholeAbuse
+ReadTheFinePrint
+RuleNumberOne
+RulesLawyer

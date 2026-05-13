@@ -1,0 +1,11 @@
+469: adaptational_relationship_angst
+score: 0.9108851302077002
+AdaptationalRelationshipOverhaul
+AdaptationalHeroism
+AdaptationRelationshipOverhaul
+AdaptationalNiceGirl
+AdaptationalComicRelief
+AdaptationalAngstDowngrade
+AdaptationalSympathy
+AdaptationalNiceGuy
+AdaptationalAngstUpgrade

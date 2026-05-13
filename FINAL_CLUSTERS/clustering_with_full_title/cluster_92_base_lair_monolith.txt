@@ -1,0 +1,14 @@
+92: base_lair_monolith
+score: 0.6573130972067415
+SupervillainLair
+MonumentalDamage
+EvilLair
+LandmarkingTheHiddenBase
+HomeBase
+OminousFloatingCastle
+IslandBase
+DomedHometown
+TheMonolith
+BigApplesauce
+ElaborateUndergroundBase
+ConvenientWeaknessPlacement

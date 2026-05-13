@@ -1,0 +1,19 @@
+369: hug_handshake_hugging
+score: 0.7493089443635571
+TheUnHug
+CooldownHug
+SecretHandshake
+InterruptedCooldownHug
+EveryProperLadyShouldCurtsey
+PlayfulRumpBump
+DeadlyHug
+AirHugging
+TheGlomp
+ManHug
+CrushingHandshake
+Glomp
+GroupHug
+HandshakeSubstitute
+TheUnhug
+CoolDownHug
+EveryProperLadyShouldCurtsy

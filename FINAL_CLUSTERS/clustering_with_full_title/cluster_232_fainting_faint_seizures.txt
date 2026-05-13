@@ -1,0 +1,7 @@
+232: fainting_faint_seizures
+score: 1.0
+ConvulsiveSeizures
+LiterallyApoplectic
+AngstComa
+FaintInShock
+Fainting

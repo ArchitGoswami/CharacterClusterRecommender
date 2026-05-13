@@ -1,0 +1,9 @@
+77: clown_circus_clowns
+score: 0.9866830185355806
+MonsterClown
+RepulsiveRingmaster
+CircusOfFear
+ClassClown
+NonIronicClown
+DreadedKidsPartyEntertainerJob
+FauxHorrific

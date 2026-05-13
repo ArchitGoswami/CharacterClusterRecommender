@@ -1,0 +1,8 @@
+554: suit_villain_evil
+score: 0.9628874179686252
+VillainInAWhiteSuit
+FashionableEvil
+ManOfWealthAndTaste
+TheLateMiddleAges
+WomanOfWealthAndTaste
+AManOfWealthAndTaste

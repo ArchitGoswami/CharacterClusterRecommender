@@ -1,0 +1,7 @@
+612: failure_invincible_victory
+score: 1.0
+ShowyInvincibleHero
+InvincibleHero
+FailureHero
+FailureHeroine
+PyrrhicVictory

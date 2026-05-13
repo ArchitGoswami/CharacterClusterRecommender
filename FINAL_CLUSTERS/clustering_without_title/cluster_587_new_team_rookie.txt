@@ -1,0 +1,9 @@
+587: new_team_rookie
+score: 0.9646321308692686
+EagerRookie
+RookieRedRanger
+ExperiencedProtagonist
+LogicalLatecomer
+TeamPrimaDonna
+OldHeroNewPals
+WelcomeEpisode

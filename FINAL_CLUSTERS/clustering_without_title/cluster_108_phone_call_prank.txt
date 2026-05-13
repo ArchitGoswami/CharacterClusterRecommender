@@ -1,0 +1,15 @@
+108: phone_call_prank
+score: 0.778165225192068
+CallingCard
+HiddenWire
+TheOperatorsMustBeCrazy
+StatusCellPhone
+HarassingPhoneCall
+PrankCall
+InconvenientSummons
+CutPhoneLines
+BluffTheEavesdropper
+RingRingCrunch
+FakeStatic
+EvilPhone
+CommLinks

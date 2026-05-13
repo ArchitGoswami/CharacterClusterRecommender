@@ -1,0 +1,9 @@
+442: paper_bit_stock
+score: 0.9871857267180453
+PaperPeople
+AllegoricalCharacter
+MinorMajorCharacter
+BitCharacter
+SitcomCharacterArchetypes
+FlatCharacter
+StockCharacters

@@ -1,0 +1,17 @@
+526: sound_scream_stock
+score: 0.7591934103586566
+WilhelmScream
+SonicScream
+CarefulWithThatAxe
+SuperScream
+TheMisophonic
+HairtriggerSoundEffect
+GlassShatteringSound
+WackySoundEffect
+NailsOnABlackboard
+MakeSomeNoise
+StockScream
+TerribleTicking
+HellIsThatNoise
+GaleForceSound
+LoudOfWar

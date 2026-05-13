@@ -1,0 +1,9 @@
+269: game_points_games
+score: 0.946984532625675
+SelfImposedChallenge
+ThePointsMeanNothing
+NintendoHard
+ChallengeGamer
+ExperiencePoints
+RPGElements
+EasyLevelTrick

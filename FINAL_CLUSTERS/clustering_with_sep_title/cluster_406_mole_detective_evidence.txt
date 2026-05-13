@@ -1,0 +1,9 @@
+406: mole_detective_evidence
+score: 0.9628132506193
+DetectiveMole
+WhackAMole
+ReverseMole
+RedHerringMole
+EatTheEvidence
+TheMole
+BaitTheMole

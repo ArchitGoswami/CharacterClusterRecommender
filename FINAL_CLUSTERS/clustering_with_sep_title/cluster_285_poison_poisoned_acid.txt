@@ -1,0 +1,8 @@
+285: poison_poisoned_acid
+score: 0.9596602957871306
+PoisonIsEvil
+AcidAttack
+AcquiredPoisonImmunity
+MasterPoisoner
+PoisonedWeapon
+PoisonedWeapons

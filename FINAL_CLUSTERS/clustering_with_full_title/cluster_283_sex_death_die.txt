@@ -1,0 +1,7 @@
+283: sex_death_die
+score: 1.0
+DeusSexMachina
+SexSignalsDeath
+SexEqualsDeath
+MateOrDie
+GRatedSex

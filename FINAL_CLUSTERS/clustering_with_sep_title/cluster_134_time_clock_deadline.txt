@@ -1,0 +1,12 @@
+134: time_clock_deadline
+score: 0.9028227412023977
+CelestialDeadline
+FatherTime
+TimeBomb
+TheWatchmaker
+RaceAgainstTheClock
+WhenTheClockStrikesTwelve
+ClockKing
+ExactTimeToFailure
+DangerWithADeadline
+ClocksOfControl

@@ -1,0 +1,9 @@
+169: homeless_tramp_people
+score: 0.9012590626750799
+HomelessHero
+CrazyHomelessPeople
+DisposableVagrant
+MagicalHomelessPerson
+TheTramp
+WisdomFromTheGutter
+CrazyHomelessPerson

@@ -1,0 +1,17 @@
+9: drugs_drug_bad
+score: 0.7038030770896825
+PlaceboEffect
+PredatoryBigPharma
+DrugBasedCharacterization
+ImmuneToDrugs
+JunkieProphet
+TheAggressiveDrugDealer
+GRatedDrug
+SmugStraightEdge
+HigherUnderstandingThroughDrugs
+MothersLittleHelpers
+ICantBelieveItsNotHeroin
+GettingHighOnTheirOwnSupply
+DrugsAreGood
+FantasticDrug
+DrugsAreBad

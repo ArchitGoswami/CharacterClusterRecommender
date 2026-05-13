@@ -1,0 +1,29 @@
+507: voice_silent_mute
+score: 0.6124960838209338
+SilentSnarker
+BadBadActing
+VoiceGrunting
+EmotionallyTongueTied
+SuddenlySpeaking
+NoInsideVoice
+TheSingingMute
+SilentBob
+TheSilentBob
+MotorMouth
+SilentAntagonist
+NoIndoorVoice
+TheVoiceless
+StockAudioClip
+ElectiveMute
+TalkingWithSigns
+ReadingLips
+TheSpeechless
+VoiceWithAnInternetConnection
+SuddenlyVoiced
+NoDialogueEpisode
+Motormouth
+Dandere
+SpeechImpededLoveInterest
+CuteMute
+HeroicMime
+TheQuietOne

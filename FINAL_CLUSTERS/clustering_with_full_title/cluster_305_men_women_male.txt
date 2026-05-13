@@ -1,0 +1,10 @@
+305: men_women_male
+score: 0.9915205928421124
+MenAreUncultured
+IHaveBrothers
+WomenAreWiser
+SexistUsedCarSalesman
+TestosteronePoisoning
+MenAreTough
+GuysAreSlobs
+MenActWomenAre

@@ -1,0 +1,18 @@
+515: race_ethnicity_people
+score: 0.9472063945525913
+PrettyFlyForAWhiteGuy
+EthnicMenialLabor
+UglyAmericanStereotype
+MixedAncestryIsAttractive
+Yellowface
+AsianDrivers
+Mukokuseki
+LeastCommonSkinTone
+SuddenlyEthnicity
+InscrutableOriental
+PhenotypeStereotype
+AmbiguouslyBrown
+Brownface
+RaceLift
+MistakenEthnicity
+RacialFaceBlindness

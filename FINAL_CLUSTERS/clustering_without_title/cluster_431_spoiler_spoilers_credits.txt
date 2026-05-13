@@ -1,0 +1,8 @@
+431: spoiler_spoilers_credits
+score: 0.9971838696489982
+NeverTrustATrailer
+BaitAndSwitchCredits
+TrailersAlwaysSpoil
+WalkingSpoiler
+Spoiler
+LateArrivalSpoiler

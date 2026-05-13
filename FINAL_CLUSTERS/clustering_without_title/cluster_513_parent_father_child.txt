@@ -1,0 +1,18 @@
+513: parent_father_child
+score: 0.8785249126530592
+ParentNeverCameBackFromTheStore
+DisappearedDad
+ReplacementSibling
+VisitByDivorcedDad
+AnticlimacticParent
+AmbiguouslyOrphaned
+IHaveNoDaughter
+SearchingForTheLostRelative
+ParentalSubstitute
+MissingMom
+TellMeAboutMyFather
+MommyHadAGoodReasonForAbandoningYou
+DaddyDidntShow
+IAmYourFather
+AmbiguouslyAbsentParent
+LukeIAmYourFather

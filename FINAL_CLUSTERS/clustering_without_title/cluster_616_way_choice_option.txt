@@ -1,0 +1,13 @@
+616: way_choice_option
+score: 0.8953050774435916
+MyWayOrTheHighway
+TakeAThirdOption
+TheNeedsOfTheMany
+TheDitherer
+UnwantedRescue
+TheEasyWayOrTheHardWay
+TakeTheThirdOption
+AnOfferYouCantRefuse
+MoralDilemma
+SadisticChoice
+FriendOrIdolDecision

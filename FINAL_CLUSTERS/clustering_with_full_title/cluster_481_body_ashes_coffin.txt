@@ -1,0 +1,9 @@
+481: body_ashes_coffin
+score: 0.9454931407407715
+FurnaceBodyDisposal
+DisposingOfABody
+BodyInABreadbox
+CoffinContraband
+GasolineDousing
+AshesToCrashes
+BurialAtSea

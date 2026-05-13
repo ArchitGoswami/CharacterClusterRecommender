@@ -1,0 +1,10 @@
+50: religion_church_villain
+score: 0.9947896055841767
+ChurchGoingVillain
+ChurchgoingVillain
+UnwantedFalseFaith
+ScamReligion
+TheHeretic
+CorruptChurch
+HidingBehindReligion
+ChurchOfHappyology

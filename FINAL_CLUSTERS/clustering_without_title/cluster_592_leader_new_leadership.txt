@@ -1,0 +1,15 @@
+592: leader_new_leadership
+score: 0.7480335778255662
+TyrantTakesTheHelm
+DelayedLeadershipAscendance
+ToughLeaderFacade
+SelfAppointedLeader
+UnderNewManagement
+LazyBoss
+QuicklyDemotedLeader
+ShortLivedLeadership
+SketchySuccessor
+GracefullyDemoted
+KlingonPromotion
+TheChainsOfCommanding
+StillTheLeader

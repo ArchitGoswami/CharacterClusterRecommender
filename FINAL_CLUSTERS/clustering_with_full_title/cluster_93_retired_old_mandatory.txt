@@ -1,0 +1,10 @@
+93: retired_old_mandatory
+score: 0.8422810829437499
+ElderEmployee
+RetiredBadass
+MandatoryUnretirement
+ReluctantRetiree
+RetiredOutlaw
+ObsoleteMentor
+RetiredBadAss
+SuperiorSuccessor

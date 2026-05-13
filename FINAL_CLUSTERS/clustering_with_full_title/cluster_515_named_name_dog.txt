@@ -1,0 +1,17 @@
+515: named_name_dog
+score: 0.7718495804525971
+ADogNamedWoof
+StockAnimalName
+AMouseNamedMozzarella
+FormallyNamedPet
+PetsHomageName
+CallARabbitASmeerp
+SpeciesSurname
+WeNamedTheMonkeyJack
+ALizardNamedLiz
+APigNamedPorkchop
+IronicName
+ADogNamedPerro
+ADogNamedCat
+ADogNamedDog
+BinomiumRidiculus

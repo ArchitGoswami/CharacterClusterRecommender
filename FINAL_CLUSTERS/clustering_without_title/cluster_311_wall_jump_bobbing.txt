@@ -1,0 +1,15 @@
+311: wall_jump_bobbing
+score: 0.8500395708672225
+SpringCoil
+MidAirBobbing
+GrindBoots
+WallCrawl
+JumpPhysics
+WallRun
+MidairBobbing
+OverTheTopRollerCoaster
+InASingleBound
+WallJump
+DramaticHighPerching
+DrivingUpAWall
+VideoGameFlight

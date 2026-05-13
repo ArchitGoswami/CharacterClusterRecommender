@@ -1,0 +1,7 @@
+17: symbolism_shapes_magic
+score: 1.0
+ShapesAndSymbolsTropes
+RuleOfSymbolism
+GeometricMagic
+Symbolism
+ArcSymbol

@@ -1,0 +1,10 @@
+566: evil_counterpart_vice
+score: 0.9632171970663297
+GoodCounterpart
+EvilCounterpart
+DesignPreservationVillain
+MsViceGirl
+EvilCounterPart
+Foil
+MrViceGuy
+AntiVillain

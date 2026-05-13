@@ -1,0 +1,9 @@
+58: teacher_student_age
+score: 0.9467590284073614
+HotForTeacher
+TeacherStudentRomance
+HotForStudent
+StudentTeacherRomance
+OffToBoardingSchool
+SexyMentor
+TeacherParentRomance

@@ -1,0 +1,14 @@
+402: normal_powers_fighting
+score: 0.9355115818743318
+FightLikeANormal
+PaperTiger
+BruceLeeClone
+BareFistedMonk
+ArrogantKungFuGuy
+CombatAestheticist
+ArrogantKungFuGirl
+TheFightingNarcissist
+HeirToTheDojo
+GoodOldFisticuffs
+FightsLikeANormal
+StockShonenHero

@@ -1,0 +1,8 @@
+43: book_information_everything
+score: 0.9374175438759443
+TomeOfEldritchLore
+MonsterCompendium
+MagicalDatabase
+BigBookOfEverything
+GreatBigBookOfEverything
+AncientKeeper

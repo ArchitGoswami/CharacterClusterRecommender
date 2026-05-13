@@ -1,0 +1,8 @@
+356: ball_wave_shoryuken
+score: 1.0
+Shoryuken
+WeaponizedBall
+BatterUp
+AirJousting
+Kamehamehadoken
+KamehameHadoken

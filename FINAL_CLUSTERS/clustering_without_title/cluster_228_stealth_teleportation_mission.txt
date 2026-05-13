@@ -1,0 +1,9 @@
+228: stealth_teleportation_mission
+score: 0.8907611952949465
+WithCatLikeTread
+FlashyTeleportation
+StealthHiBye
+ThrowingTheDistraction
+StealthyColossus
+SoMuchForStealth
+StealthBasedMission

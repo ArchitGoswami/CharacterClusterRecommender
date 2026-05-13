@@ -1,0 +1,34 @@
+502: name_embarrassing_nickname
+score: 0.8785218852299359
+RealJokeName
+FriendlyAddressPrivileges
+UnfortunateNames
+DoNotCallMePaul
+MaliciousMisnaming
+EmbarrassingMiddleName
+AffectionateNickName
+ICallHimMrHappy
+EmbarrassingNickname
+WrongNameOutburst
+TheyCallMeMisterTibbs
+ICallHimMisterHappy
+FullNameUltimatum
+IronicNickname
+FirstNameUltimatum
+FirstNameBasis
+InsistentAppellation
+EmbarrassingNickName
+MetaphorIsMyMiddleName
+AffectionateNickname
+AppropriatedAppelation
+WhosOnFirst
+MyNameIsInigoMontoya
+EmbarrassingFirstName
+SelfAppliedNickname
+HatesBeingNicknamed
+EmbarrassingInitials
+EmbarrassingLastName
+TheyCallMeMrTibbs
+TheNicknamer
+HeyYou
+ADickInName

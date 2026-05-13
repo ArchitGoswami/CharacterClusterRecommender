@@ -1,0 +1,15 @@
+88: item_items_memento
+score: 0.8713247008030396
+UniqueItems
+ItMayHelpYouOnYourQuest
+CollectorOfTheStrange
+ArtifactCollectionAgency
+CreepySouvenir
+TheCollector
+MementoMacguffin
+MementoMacGuffin
+UnfortunateItemSwap
+TrophyRoom
+HairMemento
+NumberOneDime
+ItsAllJunk

@@ -1,0 +1,10 @@
+110: kid_age_child
+score: 0.9856384233934095
+NotAllowedtoGrowUp
+WiseBeyondHisYears
+NostalgiaFilter
+ActingYourIntellectualAge
+KidHasAPoint
+WiseBeyondTheirYears
+WiseBeyondHerYears
+SoapOperaRapidAgingSyndrome

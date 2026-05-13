@@ -1,0 +1,26 @@
+463: development_characterization_moment
+score: 0.629097119768321
+AllegoricalCharacter
+CharacterizingSittingPose
+RoundedCharacter
+CircularCharacterArc
+CharacterExaggeration
+CharacterDevelopment
+DependingOnTheWriter
+DevelopingDoomedCharacters
+EraSpecificPersonality
+CListFodder
+CharacterClass
+CharacterArc
+CharacterisationMarchesOn
+CharacterDerailment
+CharacterisationClickMoment
+CharacterCheck
+StockCharacters
+CharacterizationMarchesOn
+CharacterRerailment
+CharacterizationClickMoment
+CompositeCharacter
+FlatCharacter
+InterpretativeCharacter
+StaticCharacter

@@ -1,0 +1,22 @@
+544: joke_punchline_funny
+score: 0.6366233672706667
+DoNotExplainTheJoke
+OrphanedSetup
+CutawayGag
+ShaggyDogStory
+SoUnfunnyItsFunny
+OrphanedPunchline
+RimShot
+LateToThePunchline
+DontExplainTheJoke
+NoPunIntended
+ComebackTomorrow
+CannotTellAJoke
+ActuallyPrettyFunny
+OverlyPreparedGag
+AccidentalPun
+LateToThePunchLine
+BrickJoke
+KnockKnockJoke
+QuipToBlack
+AntiHumor

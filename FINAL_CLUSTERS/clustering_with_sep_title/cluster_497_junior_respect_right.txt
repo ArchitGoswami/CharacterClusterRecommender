@@ -1,0 +1,7 @@
+497: junior_respect_right
+score: 1.0
+WithAllDueRespect
+WithDueRespect
+PermissionToSpeakFreely
+MyCountryRightOrWrong
+BlindObedience

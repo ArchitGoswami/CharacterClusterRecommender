@@ -1,0 +1,25 @@
+462: boss_job_competent
+score: 0.8186935784699424
+PointyHairedBoss
+YesMan
+HyperCompetentSideKick
+BosssUnfavoriteEmployee
+GeorgeJetsonJobSecurity
+DesperatelyNeedsOrders
+HyperCompetentSidekick
+ProfessionalButtKisser
+ControlFreak
+TheLastDJ
+BeleagueredBoss
+HypercompetentSidekick
+TakeThisJobAndShoveIt
+BeleagueredBureaucrat
+ProfessionalButtkisser
+Beleagueredassistant
+BeleagueredAssistant
+TheAllegedBoss
+CluelessBoss
+UltimateJobSecurity
+StupidBoss
+OnlySaneEmployee
+HighTurnoverRate

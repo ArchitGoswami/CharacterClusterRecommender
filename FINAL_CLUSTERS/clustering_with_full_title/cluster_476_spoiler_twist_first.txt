@@ -1,0 +1,10 @@
+476: spoiler_twist_first
+score: 0.9623352779814854
+TrailersAlwaysSpoil
+LateArrivalSpoiler
+FirstEpisodeTwist
+NotHisSled
+WalkingSpoiler
+TheEndingChangesEverything
+Spoiler
+ItWasHisSled

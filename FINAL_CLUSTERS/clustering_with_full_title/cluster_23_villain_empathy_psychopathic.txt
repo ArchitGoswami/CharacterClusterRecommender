@@ -1,0 +1,14 @@
+23: villain_empathy_psychopathic
+score: 0.7973279857265826
+PsychoticManChild
+Sociopath
+LackOfEmpathy
+MoralSociopathy
+TheSociopath
+LackofEmpathy
+PsychopathicManChild
+PsychopathicWomanchild
+PsychopathicManchild
+PsychoSupporter
+NoSympathy
+Sadist

@@ -1,0 +1,7 @@
+512: name_codename_title
+score: 1.0
+SuperheroSobriquets
+Codename
+SomethingPerson
+CodeName
+CodenameTitle

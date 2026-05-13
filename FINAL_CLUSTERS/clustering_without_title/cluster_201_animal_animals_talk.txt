@@ -1,0 +1,21 @@
+201: animal_animals_talk
+score: 0.6820797650184774
+Sssssnaketalk
+SpeechImpairedAnimal
+MakeTheDogTestify
+NoisyNature
+SssnakeTalk
+TalkingAnimal
+PollyWantsAMicrophone
+SssssnakeTalk
+AnimalTalk
+IncorrectAnimalNoise
+SpeaksFluentAnimal
+BilingualAnimal
+SillyAnimalSound
+AdaptationalNonsapience
+NearlyNormalAnimal
+AnimalSpeciesAccent
+AnimalEyeSpy
+MightyRoar
+UpliftedAnimal

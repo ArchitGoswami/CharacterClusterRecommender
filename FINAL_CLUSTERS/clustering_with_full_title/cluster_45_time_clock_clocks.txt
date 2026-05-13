@@ -1,0 +1,10 @@
+45: time_clock_clocks
+score: 0.9255455388897167
+TheWatchmaker
+TimeBomb
+ClocksOfControl
+WhenTheClockStrikesTwelve
+ClockKing
+CelestialDeadline
+RaceAgainstTheClock
+ExactTimeToFailure

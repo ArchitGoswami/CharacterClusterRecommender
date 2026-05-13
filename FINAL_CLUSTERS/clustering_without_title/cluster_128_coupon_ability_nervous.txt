@@ -1,0 +1,8 @@
+128: coupon_ability_nervous
+score: 0.9663525090325057
+StageFright
+WeirdnessCoupon
+ShyBladder
+PerformanceAnxiety
+TroubledFetalPosition
+NervousTics

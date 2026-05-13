@@ -1,0 +1,14 @@
+140: wall_jump_tower
+score: 0.9159145875016635
+WallRun
+OverTheTopRollerCoaster
+RooftopConfrontation
+InASingleBound
+VideoGameFlight
+BuildingSwing
+RampJump
+DrivingUpAWall
+TiltingTowerOfPisa
+WallCrawl
+WallJump
+WallBangHer

@@ -1,0 +1,7 @@
+324: spin_heroes_precursor
+score: 1.0
+PrecursorHeroes
+SpinOffspring
+GenerationalSaga
+PrecursorHero
+SpinOffSpring

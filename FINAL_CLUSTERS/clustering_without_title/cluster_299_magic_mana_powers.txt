@@ -1,0 +1,18 @@
+299: magic_mana_powers
+score: 0.8876448264875807
+MagicEater
+DoesNotLikeMagic
+SummonMagic
+BanOnMagic
+CastFromStamina
+ManaDrain
+ReligionIsMagic
+SquishyWizard
+MagicAndPowers
+ManaBurn
+DispelMagic
+MadeOfMagic
+FunctionalMagic
+AntiMagic
+BlackMagic
+InherentGift

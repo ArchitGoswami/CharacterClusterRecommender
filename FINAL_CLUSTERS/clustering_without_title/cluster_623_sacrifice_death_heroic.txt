@@ -1,0 +1,13 @@
+623: sacrifice_death_heroic
+score: 0.9093313561498039
+SelfSacrificeScheme
+StupidSacrifice
+SenselessSacrifice
+IDontWantToDie
+SurvivorsGuilt
+SacrificialLion
+HeroicSacrifice
+SorryThatImDying
+ThouShallNotKill
+BigGuyFatalitySyndrome
+SuicideForOthersHappiness

@@ -1,0 +1,29 @@
+495: detective_crime_evidence
+score: 0.7934358906549249
+BeAsUnhelpfulAsPossible
+FramingTheGuiltyParty
+ClearTheirName
+FrameUp
+SherlockScan
+CluelessDetective
+AloneWithThePsycho
+ItsProbablyNothing
+ClearMyName
+JustOneLittleMistake
+ChronicEvidenceRetentionSyndrome
+ThatOneCase
+CriminalMindGames
+MotiveRant
+MinorCrimeRevealsMajorPlot
+LetOffByTheDetective
+JuryAndWitnessTampering
+DeceasedFallGuyGambit
+AdvanceNoticeCrime
+BluffingTheMurderer
+WronglyAccused
+INeverSaidItWasPoison
+ItWasHereISwear
+TheCorpseStopsHere
+TakingTheHeat
+RightForTheWrongReasons
+Frameup

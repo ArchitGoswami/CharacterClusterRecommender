@@ -1,0 +1,8 @@
+466: spiritual_work_successor
+score: 0.9960381158797394
+SpiritualAdaptation
+SpiritualAntithesis
+RecurringElement
+SpiritualPredecessor
+SpiritualSuccessor
+CreatorDrivenSuccessor

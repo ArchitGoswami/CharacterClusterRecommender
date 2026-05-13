@@ -1,0 +1,10 @@
+614: white_black_evil
+score: 0.9380307168223606
+BlackandWhiteMorality
+AlwaysLawfulGood
+BlackAndWhiteInsanity
+EvilCounterpartRace
+BlackandWhiteInsanity
+LesserOfTwoEvils
+AlwaysChaoticEvil
+BlackAndWhiteMorality

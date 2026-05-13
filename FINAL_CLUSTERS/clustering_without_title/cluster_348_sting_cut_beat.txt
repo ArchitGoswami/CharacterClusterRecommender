@@ -1,0 +1,7 @@
+348: sting_cut_beat
+score: 1.0
+SmashCut
+Beat
+Sting
+DramaticPause
+MusicalSting

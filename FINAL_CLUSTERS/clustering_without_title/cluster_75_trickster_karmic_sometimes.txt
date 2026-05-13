@@ -1,0 +1,7 @@
+75: trickster_karmic_sometimes
+score: 1.0
+TricksterArchetype
+LovableTraitor
+GreatGazoo
+KarmicTrickster
+TheTrickster

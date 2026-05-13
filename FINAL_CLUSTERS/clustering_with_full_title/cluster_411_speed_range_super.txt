@@ -1,0 +1,12 @@
+411: speed_range_super
+score: 0.8563275457258772
+CloseRangeCombatant
+SpeedDemon
+FasterThanTheyLook
+BalanceSpeedStrengthTrio
+FragileSpeedster
+LongRangeFighter
+FastestThingAlive
+MightyGlacier
+SuperSpeed
+TheSpeedster

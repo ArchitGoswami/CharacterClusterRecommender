@@ -1,0 +1,7 @@
+45: guardian_threshold_entity
+score: 1.0
+GuardianEntity
+MacguffinGuardian
+ThresholdGuardian
+MacGuffinGuardian
+ThresholdGuardians

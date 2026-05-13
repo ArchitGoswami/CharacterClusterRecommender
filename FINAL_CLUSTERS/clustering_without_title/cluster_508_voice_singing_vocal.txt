@@ -1,0 +1,16 @@
+508: voice_singing_vocal
+score: 0.897620252292118
+SimpletonVoice
+DoIReallySoundLikeThat
+SingingInTheShower
+VocalEvolution
+ElectronicSpeechImpediment
+LostVoicePlot
+SingingVoiceDissonance
+MachineMonotone
+NonSingingVoice
+ProfessionalVoiceDissonance
+HollywoodToneDeaf
+BeautifulSingingVoice
+VocalRangeExceeded
+InopportuneVoiceCracking

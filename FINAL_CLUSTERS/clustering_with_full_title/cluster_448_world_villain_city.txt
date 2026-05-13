@@ -1,0 +1,7 @@
+448: world_villain_city
+score: 1.0
+TakeOverTheWorld
+SuperVillain
+TakeOverTheCity
+TakingOverTheWorld
+Supervillain

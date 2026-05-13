@@ -1,0 +1,8 @@
+19: senses_sense_super
+score: 0.9773846101979915
+SuperSenses
+SenseLossSadness
+FirstTimeFeeling
+SensoryOverload
+ImCryingButIDontKnowWhy
+SenseImpairedMonster

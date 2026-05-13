@@ -1,0 +1,9 @@
+134: iconic_motif_symbol
+score: 0.954238025830877
+StarSpangledSpandex
+IconicItem
+TribalFacePaint
+SigilSpam
+BraidsBeadsAndBuckskins
+WearingAFlagOnYourHead
+SymbolMotifClothing

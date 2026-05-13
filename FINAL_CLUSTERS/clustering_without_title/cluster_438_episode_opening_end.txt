@@ -1,0 +1,24 @@
+438: episode_opening_end
+score: 0.7820771632553636
+OpeningNarration
+OnTheNext
+PreviouslyOn
+SigningOffCatchphrase
+SoOnceAgainTheDayIsSaved
+TitleCard
+TheTeaser
+OnceAnEpisode
+TheTag
+ClipShow
+OpeningMonologue
+EpisodeDiscussionScene
+ColdOpening
+EndOfEpisodeSilliness
+TheEnd
+SilentCredits
+SigningOffCatchPhrase
+EyeCatch
+EveryEpisodeEnding
+PhotoMontage
+OncePerEpisode
+ColdOpen

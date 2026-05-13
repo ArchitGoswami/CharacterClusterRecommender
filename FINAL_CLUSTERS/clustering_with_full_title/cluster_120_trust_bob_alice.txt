@@ -1,0 +1,8 @@
+120: trust_bob_alice
+score: 0.9916129212833816
+ProperlyParanoid
+LeonineContract
+NoMatterHowMuchIBeg
+DoYouTrustMe
+TheOnlyOneITrust
+KeepingTheEnemyClose

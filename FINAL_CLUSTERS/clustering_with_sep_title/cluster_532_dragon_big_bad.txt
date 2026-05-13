@@ -1,0 +1,31 @@
+532: dragon_big_bad
+score: 0.8196642780344175
+RuleOfTwo
+VillainousFriendship
+MinionManipulatedIntoVillainy
+TheDragon
+HamToHamCombat
+DecoyAntagonist
+ShootTheDangerousMinion
+IControlMyMinionsThrough
+TheManInFrontOfTheMan
+ItsPersonalWithTheDragon
+MoreDespicableMinion
+DragonTheirFeet
+RightHandHottie
+TheUnfought
+DragonAscendant
+AlwaysABiggerFish
+TokenCompetentMinion
+ReforgedIntoAMinion
+DevourTheDragon
+NobleTopEnforcer
+DragonInChief
+TheManBehindTheCurtain
+DragonWithAnAgenda
+MistreatmentInducedBetrayal
+QuirkyMiniBossSquad
+ILetYouWin
+DemotedToDragon
+VillainousDemotivator
+QuirkyMinibossSquad

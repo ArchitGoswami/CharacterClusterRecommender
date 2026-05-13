@@ -1,0 +1,7 @@
+570: antagonist_villain_protagonist
+score: 1.0
+HeroAntagonist
+DesignatedVillain
+VillainyFreeVillain
+SlidingScaleOfAntiVillains
+TheAntagonist

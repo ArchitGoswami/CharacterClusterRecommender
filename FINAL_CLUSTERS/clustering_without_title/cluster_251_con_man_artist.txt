@@ -1,0 +1,11 @@
+251: con_man_artist
+score: 0.8063949922452
+SnakeOilSalesman
+KansasCityShuffle
+TheFixer
+TheBarnum
+ConMan
+ConWoman
+ConArtist
+TheCon
+Hustler

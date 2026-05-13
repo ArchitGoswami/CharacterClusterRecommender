@@ -1,0 +1,16 @@
+449: kid_age_kids
+score: 0.8920938864452916
+NostalgiaFilter
+KidHero
+WiseBeyondHerYears
+TokenAdult
+KidHasAPoint
+WiseBeyondTheirYears
+MustHaveLotsOfFreeTime
+KiddieKid
+NotGrowingUpSucks
+OneOfTheKids
+CompetenceZone
+WiseBeyondHisYears
+ImprobableAge
+WantsToBeGrownUp

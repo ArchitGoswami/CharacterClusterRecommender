@@ -1,0 +1,21 @@
+288: chair_pose_sitting
+score: 0.6551166451119089
+RebelRelaxation
+NoKnees
+LotusPosition
+TrampledUnderfoot
+ReverseArmFold
+DynamicAkimbo
+PrimalStance
+LeaningOnTheFurniture
+SwivelChairAntics
+MenacingStroll
+LevitatingLotusPosition
+SpringHeeledJack
+DominanceThroughFurniture
+CharacterizingSittingPose
+SlouchOfVillainy
+CoolChair
+CaptainMorganPose
+EdgyBackwardsChairSitting
+ConvenientlySeated

@@ -1,0 +1,8 @@
+90: abandoned_mine_ghost
+score: 0.880057923097019
+AbandonedMine
+NotSoAbandonedBuilding
+NoOSHACompliance
+GhostTown
+NoOshaCompliance
+AbandonedArea

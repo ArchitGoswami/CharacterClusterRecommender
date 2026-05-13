@@ -1,0 +1,8 @@
+566: villain_death_know
+score: 0.9967007153473828
+KnowWhenToFoldThem
+TheDeterminator
+EnemiesWithDeath
+JokerImmunity
+NotWorthKilling
+KnowWhenToFoldEm

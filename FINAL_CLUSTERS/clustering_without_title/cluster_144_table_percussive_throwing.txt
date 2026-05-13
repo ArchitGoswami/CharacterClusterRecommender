@@ -1,0 +1,9 @@
+144: table_percussive_throwing
+score: 0.8846656552831356
+PercussiveTherapy
+AngryFistShake
+TantrumThrowing
+AgitatedItemStomping
+DeskSweepOfRage
+FlippingTheTable
+TormentByAnnoyance

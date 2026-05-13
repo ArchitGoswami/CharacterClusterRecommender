@@ -1,0 +1,15 @@
+203: token_white_minority
+score: 0.777190853452333
+TokenMinority
+FiveTokenBand
+TokenBlack
+TwoferTokenMinority
+WhereTheWhiteWomenAt
+MultinationalTeam
+WhiteMaleLead
+TokenEnemyMinority
+TokenWhite
+WhereDaWhiteWomenAt
+BlackGalOnWhiteGuyDrama
+AffirmativeActionLegacy
+TokenMinorityCouple

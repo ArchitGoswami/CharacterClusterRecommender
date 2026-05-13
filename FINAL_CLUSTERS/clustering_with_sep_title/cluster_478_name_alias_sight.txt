@@ -1,0 +1,7 @@
+478: name_alias_sight
+score: 1.0
+SueDonym
+LazyAlias
+LineOfSightAlias
+ArtifactAlias
+TwoAliasesOneCharacter

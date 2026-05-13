@@ -1,0 +1,7 @@
+165: abandoned_mine_compliance
+score: 1.0
+NoOshaCompliance
+AbandonedArea
+NoOSHACompliance
+NotSoAbandonedBuilding
+AbandonedMine

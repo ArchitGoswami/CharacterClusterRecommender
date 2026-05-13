@@ -1,0 +1,21 @@
+540: race_ethnicity_asian
+score: 0.813202575106907
+NationalStereotypes
+MistakenEthnicity
+Yellowface
+RacialFaceBlindness
+AsianRudeness
+SuddenlyEthnicity
+MixedAncestryIsAttractive
+LeastCommonSkinTone
+RaceLift
+Brownface
+UglyAmericanStereotype
+PhenotypeStereotype
+WesternTerrorists
+HidingYourHeritage
+AmbiguouslyBrown
+PersonalityBloodTypes
+InscrutableOriental
+AsianDrivers
+FacialProfiling

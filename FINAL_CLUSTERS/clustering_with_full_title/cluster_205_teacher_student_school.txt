@@ -1,0 +1,7 @@
+205: teacher_student_school
+score: 1.0
+Schoolmarm
+OffToBoardingSchool
+StudentTeacherRomance
+TeacherStudentRomance
+TeacherParentRomance

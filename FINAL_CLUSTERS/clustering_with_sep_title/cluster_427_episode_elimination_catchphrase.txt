@@ -1,0 +1,10 @@
+427: episode_elimination_catchphrase
+score: 0.9751182218009731
+EliminationCatchphrase
+SigningOffCatchphrase
+EveryEpisodeEnding
+EliminationStatement
+OnceAnEpisode
+TheEnd
+SigningOffCatchPhrase
+SoOnceAgainTheDayIsSaved

@@ -1,0 +1,18 @@
+132: sick_disease_people
+score: 0.7664652887470921
+InducedHypochondria
+AnnoyingPatient
+PolkaDotDisease
+IdiotsCannotCatchColds
+MunchausenSyndrome
+LethalDiagnosis
+EternalEmployee
+FakingAnotherPersonsIllness
+PlayingSick
+DefinitelyJustACold
+BrainFever
+ShareTheSickness
+IncurableCoughOfDeath
+SickEpisode
+OutSick
+Hypochondria

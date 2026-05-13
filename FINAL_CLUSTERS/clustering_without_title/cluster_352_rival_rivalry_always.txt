@@ -1,0 +1,12 @@
+352: rival_rivalry_always
+score: 0.8502117486094101
+FriendlyRival
+XMustNotWin
+AlwaysSecondBest
+ComicallyLopSidedRivalry
+FriendlyRivalry
+ComicallyLopsidedRivalry
+RemovingTheRival
+IWasJustPassingThrough
+PrivilegedRival
+UnknownRival

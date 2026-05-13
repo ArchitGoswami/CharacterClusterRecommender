@@ -1,0 +1,10 @@
+496: sarcasm_mode_understand
+score: 0.8963690620328353
+AndImTheQueenOfSheba
+CannotConveySarcasm
+IWasJustJoking
+AskAStupidQuestion
+SarcasmMode
+SincerityMode
+SarcasmBlind
+DoesNotUnderstandSarcasm

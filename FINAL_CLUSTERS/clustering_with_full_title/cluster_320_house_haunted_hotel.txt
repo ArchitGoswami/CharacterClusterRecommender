@@ -1,0 +1,8 @@
+320: house_haunted_hotel
+score: 0.9841298452160158
+AbandonedHospital
+HauntedHouse
+GhostCity
+HauntedHouseHistorian
+TheAllegedHouse
+HellHotel

@@ -1,0 +1,11 @@
+600: lawyer_law_attorney
+score: 0.8737500538154447
+AmbulanceChaser
+ImpersonatingALawyer
+CrusadingLawyer
+GoodLawyersGoodClients
+OmnidisciplinaryLawyer
+UnconventionalCourtroomTactics
+EvilLawyerJoke
+AmoralAttorney
+PersecutingProsecutor

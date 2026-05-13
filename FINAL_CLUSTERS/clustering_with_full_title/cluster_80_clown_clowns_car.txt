@@ -1,0 +1,7 @@
+80: clown_clowns_car
+score: 1.0
+DreadedKidsPartyEntertainerJob
+NonIronicClown
+ClownCar
+RepulsiveRingmaster
+MonsterClown

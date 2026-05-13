@@ -1,0 +1,22 @@
+466: episode_regular_limelight
+score: 0.9056133056474243
+ADayInTheLimeLight
+PromotionToOpeningTitles
+RecurringCharacter
+DayInTheLimelight
+ADayInTheSpotlight
+RegularCaller
+RecurringExtra
+ADayInTheLimelight
+CommutingOnABus
+ADayinTheLimeLight
+Recurrer
+ADayintheLimelight
+MandatoryLine
+PromotedToOpeningTitles
+RotatingProtagonist
+EconomyCast
+LivingProp
+YuppieCouple
+RegularCharacter
+LowerDeckEpisode

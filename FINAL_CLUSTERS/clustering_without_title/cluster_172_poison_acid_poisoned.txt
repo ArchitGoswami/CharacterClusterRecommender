@@ -1,0 +1,11 @@
+172: poison_acid_poisoned
+score: 0.8707503014008205
+MasterPoisoner
+PoisonIsEvil
+BlazingInfernoHellfireSauce
+PoisonedWeapons
+HollywoodAcid
+PoisonousPerson
+PoisonedWeapon
+AcquiredPoisonImmunity
+AcidAttack

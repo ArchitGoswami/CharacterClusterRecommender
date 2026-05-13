@@ -1,0 +1,11 @@
+118: father_child_parent
+score: 0.9481036706713064
+TellMeAboutMyFather
+YourSonAllAlong
+MysteriousParent
+IAmYourFather
+SupernaturalProofFather
+LukeIAmYourFather
+IAmNotYourFather
+NotActuallyHisChild
+LukeYouAreMyFather

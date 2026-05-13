@@ -1,0 +1,10 @@
+11: hippie_granola_new
+score: 0.8843935618188019
+HippieParents
+NewAgeRetroHippie
+BourgeoisBohemian
+GranolaGirl
+GreaserDelinquents
+Beatnik
+GranolaGuy
+Hipster

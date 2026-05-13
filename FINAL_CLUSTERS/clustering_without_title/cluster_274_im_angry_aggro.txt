@@ -1,0 +1,9 @@
+274: im_angry_aggro
+score: 0.986797068964482
+TalkToTheFist
+DrawAggro
+YouGotGuts
+YouWouldntLikeMeWhenImAngry
+YouWontLikeMeWhenImAngry
+StopHittingYourself
+NonchalantDodge

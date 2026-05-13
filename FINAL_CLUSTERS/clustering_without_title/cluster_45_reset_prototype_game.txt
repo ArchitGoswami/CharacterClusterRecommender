@@ -1,0 +1,8 @@
+45: reset_prototype_game
+score: 0.9161025177572483
+NoPlansNoPrototypeNoBackUp
+BlackBox
+NoPlansNoPrototypeNoBackup
+SoftReset
+ResetButton
+HaveYouTriedRebooting

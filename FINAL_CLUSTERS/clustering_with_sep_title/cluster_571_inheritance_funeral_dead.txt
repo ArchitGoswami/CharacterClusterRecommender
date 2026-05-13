@@ -1,0 +1,10 @@
+571: inheritance_funeral_dead
+score: 0.973433463652933
+SpeakIllOfTheDead
+MeaningfulFuneral
+InMemoriam
+MemorialStatue
+SpitefulWill
+OnlyCaresAboutInheritance
+LonelyFuneral
+ExcessiveMourning

@@ -1,0 +1,14 @@
+229: speed_super_power
+score: 0.9522396255212002
+TokenFlyer
+MightyGlacier
+SuperSpeed
+NotQuiteFlight
+FastestThingAlive
+ImprobablePilotingSkills
+TheSpeedster
+AcePilot
+SpaceFighter
+SuperBreath
+FlyingBrick
+SpeedDemon

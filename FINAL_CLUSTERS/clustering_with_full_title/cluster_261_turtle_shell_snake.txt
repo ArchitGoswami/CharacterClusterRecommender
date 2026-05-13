@@ -1,0 +1,18 @@
+261: turtle_shell_snake
+score: 0.9943270895518442
+SnakeCharmer
+StuddedShell
+TurtleIsland
+LizardFolk
+ShyShelledAnimal
+SturdyAndSteadyTurtles
+TurtleShield
+NeverSmileAtACrocodile
+WiseOldTurtle
+OurHydrasAreDifferent
+RemovableShell
+ReptilesAreAbhorrent
+WiseSerpent
+ColossalCroc
+SnakesAreSinister
+SnakePeople

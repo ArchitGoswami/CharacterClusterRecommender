@@ -1,0 +1,7 @@
+513: name_weapon_call
+score: 1.0
+ICallHerVera
+MeetMyGoodFriendsLeftyAndRighty
+RedBaron
+TheyCallHimSword
+ICallItVera

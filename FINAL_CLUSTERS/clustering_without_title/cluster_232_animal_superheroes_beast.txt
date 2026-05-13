@@ -1,0 +1,8 @@
+232: animal_superheroes_beast
+score: 0.9913171628807635
+MooseAreIdiots
+AnimalThemedSuperbeing
+BeastMan
+BeastWoman
+AnimalSuperheroes
+AnimalThemedSuperBeing

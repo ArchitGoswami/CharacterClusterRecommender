@@ -1,0 +1,10 @@
+57: home_lost_world
+score: 0.9199872377510292
+DepartureMeansDeath
+TrappedInAnotherWorld
+LostAtSea
+JourneyToFindOneself
+FishOutOfWater
+LostWorld
+YouCantGoHomeAgain
+TheresNoPlaceLikeHome

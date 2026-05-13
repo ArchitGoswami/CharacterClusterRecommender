@@ -1,0 +1,12 @@
+357: kick_ass_pose
+score: 0.9638560912983966
+HurricaneKick
+AssKickingPose
+AssKicksYou
+ExtremityExtremist
+CombatParkour
+DivingKick
+KickChick
+VictoryPose
+ThreePointLanding
+RoundhouseKick

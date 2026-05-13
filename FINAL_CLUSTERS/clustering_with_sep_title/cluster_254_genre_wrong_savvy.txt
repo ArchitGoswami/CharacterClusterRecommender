@@ -1,0 +1,14 @@
+254: genre_wrong_savvy
+score: 0.928667965775944
+GenreBlind
+RefugeeFromTVLand
+GenreBlindness
+WrongAssumption
+GenreRefugee
+WrongGenreSavvy
+ContractualGenreBlindness
+TrappedInTVLand
+YouWatchTooMuchX
+HowUnscientific
+FilmNoir
+GenreSavvy

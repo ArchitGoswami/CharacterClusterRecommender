@@ -1,0 +1,9 @@
+235: therapy_therapist_weak
+score: 0.9591977017179169
+AmateurTherapist
+ThereAreNoTherapists
+TheCobblersChildrenHaveNoShoes
+TherapyIsFortheWeak
+EpiphanyTherapy
+AllTherapistsAreMuggles
+TherapyIsForTheWeak

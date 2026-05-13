@@ -1,0 +1,27 @@
+428: ending_series_finale
+score: 0.6926751859759956
+CutShort
+Bookends
+DistantFinale
+ForegoneConclusion
+Cliffhanger
+AndTheAdventureContinues
+SeasonFinale
+BizarroEpisode
+SpoiledByTheFormat
+WhatNowEnding
+GeckoEnding
+SeriesFauxnale
+GainaxEnding
+BookEnds
+WhereAreTheyNow
+NoEnding
+WhereAreTheyNowEpilogue
+CliffHanger
+LeftHanging
+SeriesFinale
+GrandFinale
+ToBeContinued
+ResetButtonEnding
+EndOfSeriesAwareness
+BookEnd

@@ -1,0 +1,9 @@
+533: gag_running_joke
+score: 0.9136294825017058
+RunningGags
+RunningJoke
+ChekhovsGag
+OverusedRunningGag
+OverlyLongGag
+RunningGag
+RunningGagged

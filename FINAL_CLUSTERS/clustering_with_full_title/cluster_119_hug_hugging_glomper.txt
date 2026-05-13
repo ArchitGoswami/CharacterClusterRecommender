@@ -1,0 +1,12 @@
+119: hug_hugging_glomper
+score: 0.7358788708297898
+TheUnhug
+NowAllowedToHug
+Glomp
+ManHug
+TheGlomp
+CoolDownHug
+TheUnHug
+CooldownHug
+AirHugging
+GroupHug

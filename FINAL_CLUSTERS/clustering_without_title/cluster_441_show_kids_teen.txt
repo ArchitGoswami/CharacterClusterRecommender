@@ -1,0 +1,11 @@
+441: show_kids_teen
+score: 0.9838191292232542
+EntertainmentBelowTheirAge
+TeenDrama
+KidCom
+KidsShowMascotParody
+WhatDoYouMeanItsForKids
+ParentalBonus
+ExcitedKidsShowHost
+TheNewRockAndRoll
+TVTeen

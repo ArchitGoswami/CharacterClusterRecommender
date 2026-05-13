@@ -1,0 +1,7 @@
+46: historical_downgrade_villain
+score: 1.0
+HistoricalDowngrade
+HistoricalVillainDowngrade
+HistoricalBadassUpgrade
+BeenThereShapedHistory
+FameThroughInfamy

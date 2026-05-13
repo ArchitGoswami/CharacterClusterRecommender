@@ -1,0 +1,22 @@
+321: father_child_parents
+score: 0.9593684867689876
+RaisedByGrandparents
+LukeIAmYourFather
+AdoptAServant
+AdoptedToTheHouse
+LukeIMightBeYourFather
+YourSonAllAlong
+ParentsKnowTheirChildren
+MuggleFosterParents
+IAmNotYourFather
+AdultAdoptee
+AdoptionAngst
+HappilyAdopted
+DaddyDNATest
+NotActuallyHisChild
+GeneHunting
+IAmYourFather
+FamilyOfChoice
+LukeYouAreMyFather
+MysteriousParent
+AmbiguouslyOrphaned

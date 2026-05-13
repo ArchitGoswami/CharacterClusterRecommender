@@ -1,0 +1,7 @@
+43: future_past_people
+score: 1.0
+FanOfThePast
+ItWillNeverCatchOn
+TheFuture
+InUniverseFactoidFailure
+FishOutOfTemporalWater

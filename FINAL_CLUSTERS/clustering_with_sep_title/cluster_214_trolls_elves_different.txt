@@ -1,0 +1,10 @@
+214: trolls_elves_different
+score: 0.928174869016973
+AllTrollsAreDifferent
+OurTrollsAreDifferent
+OurGnomesAreWeirder
+ScrewYouElves
+OurElvesAreDifferent
+OurKoboldsAreDifferent
+OurGoblinsAreDifferent
+OurDwarvesAreAllTheSame

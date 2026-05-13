@@ -1,0 +1,11 @@
+398: hair_beard_animal
+score: 0.8670762889644736
+FurryFemaleMane
+WeirdBeard
+PlantHair
+HairSubstituteFeature
+AlienHair
+NonMammalianHair
+RobotHair
+AnimalFacialHair
+TuftOfHeadFur

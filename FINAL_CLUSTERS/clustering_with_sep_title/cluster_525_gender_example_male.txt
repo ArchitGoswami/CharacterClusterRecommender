@@ -1,0 +1,17 @@
+525: gender_example_male
+score: 0.8409783773713033
+GenderInverted
+HistoricalGenderFlip
+GenderFlipped
+GenderInvertedTrope
+ShesAManInJapan
+AmbiguousGenderIdentity
+RareFemaleExample
+FirstLawOfGenderBending
+RareMaleExample
+GenderReveal
+AdaptationalGenderIdentity
+GenderBender
+ChromosomeCasting
+Rule63
+GenderFlip

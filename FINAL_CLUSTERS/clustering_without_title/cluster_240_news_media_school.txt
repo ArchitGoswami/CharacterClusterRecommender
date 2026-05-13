@@ -1,0 +1,18 @@
+240: news_media_school
+score: 0.7218767677941714
+StrawmanNewsMedia
+IntrepidReporter
+WorstNewsJudgementEver
+SchoolNewspaperNewshound
+DaEditor
+ExtraExtraReadAllAboutIt
+DeadlineNews
+NewMediaAreEvil
+OldMediaAreEvil
+IfItBleedsitLeads
+Paparazzi
+IfItBleedsItLeads
+TabloidMelodrama
+SchoolNewspaperNewsHound
+ImmoralJournalist
+GoingForTheBigScoop

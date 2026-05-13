@@ -1,0 +1,8 @@
+15: spin_heroes_precursor
+score: 0.8933505622345929
+GenerationalSaga
+TemporalTrio
+PrecursorHeroes
+PrecursorHero
+SpinOffSpring
+SpinOffspring

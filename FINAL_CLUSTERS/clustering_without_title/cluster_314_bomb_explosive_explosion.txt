@@ -1,0 +1,29 @@
+314: bomb_explosive_explosion
+score: 0.8752042088565838
+ActionBomb
+MadeofExplodium
+SphereOfDestruction
+AngstNuke
+DemolitionsExpert
+AndSomeOtherStuff
+EveryCarIsAPinto
+WhyAmITicking
+DramaBomb
+OutrunTheFireball
+AtomicFBomb
+BaaBomb
+IncrediblyObviousBomb
+HavingABlast
+ReducedToDust
+SomebodySetUpUsTheBomb
+StrappedToABomb
+ScreenNuke
+WireDilemma
+StuffBlowingUp
+ExplosiveLeash
+NonFatalExplosions
+EMP
+ExplosiveStupidity
+MadeOfExplodium
+UnflinchingWalk
+CartoonBomb

@@ -1,0 +1,13 @@
+347: terrorists_cause_military
+score: 0.6653810714416976
+PrivateMilitaryContractor
+RogueAgent
+IJustWantToBeFree
+YourTerroristsAreOurFreedomFighters
+MiddleEasternTerrorists
+FarEastAsianTerrorists
+PrivateMilitaryContractors
+AfricanTerrorists
+AmoralAfrikaner
+TerroristsWithoutACause
+TerroristWithoutACause

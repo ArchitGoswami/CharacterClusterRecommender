@@ -1,0 +1,12 @@
+312: cliff_tower_vehicle
+score: 0.853111096865435
+RampJump
+BuzzingTheDeck
+WatchOutForThatTree
+TiltingTowerOfPisa
+WackyRacing
+LiteralCliffHanger
+UndersideRide
+BrakeAngrily
+LiteralCliffhanger
+BellyScrapingFlight

@@ -1,0 +1,18 @@
+308: named_dog_animal
+score: 0.6796394356150791
+ADogNamedCat
+ADogNamedPerro
+ALizardNamedLiz
+SpeciesSurname
+WeNamedTheMonkeyJack
+AnimalThemeNaming
+StockAnimalName
+WerewolfThemeNaming
+ADogNamedDog
+APigNamedPorkchop
+AMouseNamedMozzarella
+ADogNamedWoof
+PetsHomageName
+FormallyNamedPet
+PorkyPigPronunciation
+CallARabbitASmeerp

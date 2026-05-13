@@ -1,0 +1,10 @@
+113: mass_power_meltdown
+score: 0.8924036430053903
+LethalHarmlessPowers
+SuperPowerMeltdown
+SuperpowerMeltdown
+PersonOfMassDestruction
+PersonsOfMassDestruction
+NuclearMutant
+LethalJokeItem
+AtomicSuperpower

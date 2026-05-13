@@ -1,0 +1,13 @@
+34: locked_door_room
+score: 0.7674252491142867
+YourDoorWasOpen
+MasterOfUnlocking
+TheShutIn
+LockedRoomMystery
+WeHaveTheKeys
+TrespassingToTalk
+ImprovisedLockpick
+LockedInARoom
+LockedInAFreezer
+Safecracking
+SwissCheeseSecurity

@@ -1,0 +1,7 @@
+384: light_eyes_source
+score: 1.0
+ThroatLight
+FantasticLightSource
+BlindedByTheLight
+DayHurtsDarkAdjustedEyes
+MatchlightDangerRevelation

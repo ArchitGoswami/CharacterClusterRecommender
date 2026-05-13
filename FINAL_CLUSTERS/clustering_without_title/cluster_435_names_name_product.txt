@@ -1,0 +1,8 @@
+435: names_name_product
+score: 0.9778439552581896
+TradeSnark
+BlandNameProduct
+DisneyOwnsThisTrope
+FictionalCounterpart
+ParodyNames
+WritingAroundTrademarks

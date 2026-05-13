@@ -1,0 +1,8 @@
+557: protagonist_main_action
+score: 0.9784000975521678
+SupportingProtagonist
+Tritagonist
+TheProtagonist
+MainCharacters
+ActionGenreHeroGuy
+Protagonist

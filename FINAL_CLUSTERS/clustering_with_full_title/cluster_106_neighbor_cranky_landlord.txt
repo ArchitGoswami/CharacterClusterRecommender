@@ -1,0 +1,14 @@
+106: neighbor_cranky_landlord
+score: 0.8707542437625163
+DropInLandlord
+NosyNeighbor
+DropInCharacter
+CrankyLandlord
+CrankyNeighbor
+FriendsRentControl
+CreepyHousekeeper
+NerdNanny
+NosyNeighbour
+CrankyNeighbour
+PrettyFreeloader
+PrettyFreeloaders

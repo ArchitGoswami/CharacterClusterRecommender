@@ -1,0 +1,7 @@
+472: mole_bait_bob
+score: 1.0
+WhackAMole
+RedHerringMole
+TheMole
+BaitTheMole
+ReverseMole

@@ -1,0 +1,15 @@
+260: spider_spiders_scorpions
+score: 0.8930155697139569
+GiantSpiders
+ScaryScorpion
+ScaryScorpions
+ArachnidAppearanceAndAttire
+ProjectileWebbing
+GiantSpider
+AllWebbedUp
+SpidersAreScary
+CreepyCentipedes
+SpiderLimbs
+SpiderTank
+SpiderPeople
+SneakySpider

@@ -1,0 +1,19 @@
+23: toys_toy_doll
+score: 0.69607873758163
+LivingDollCollector
+AdultSleepsWithStuffedToy
+GirlsLoveStuffedAnimals
+CompanionCube
+MyLittlePanzer
+LostToyGrievance
+SecurityBlanket
+WickedToymaker
+ToyDisguise
+EmpathyDollShot
+SentimentalHomemadeToy
+NeverHadToys
+ToyBasedCharacterization
+CreepyDoll
+LonelyDollGirl
+LivingToys
+MatryoshkaObject

@@ -1,0 +1,9 @@
+499: son_dad_father
+score: 0.9827158310312953
+Standard50sFather
+FamilyMan
+JockDadNerdSon
+BumblingDad
+DadTheVeteran
+AwkwardFatherSonBondingActivity
+StandardFiftiesFather

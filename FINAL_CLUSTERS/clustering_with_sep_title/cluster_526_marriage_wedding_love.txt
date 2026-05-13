@@ -1,0 +1,31 @@
+526: marriage_wedding_love
+score: 0.7129969412671593
+WeddingEpisode
+FourthDateMarriage
+Elopement
+BrideAndSwitch
+ArrangedMarriage
+PerfectlyArrangedMarriage
+SexEqualsLove
+MyOwnPrivateIDo
+MarriageBeforeRomance
+WeddingSmashers
+RunawayGroom
+NotReallyMarriedPlot
+ShamMarriage
+HappilyArrangedMarriage
+RejectedMarriageProposal
+WeddingRingDefense
+YouHaveWaitedLongEnough
+RunawayFiance
+AccidentalProposal
+SpeakNowOrForeverHoldYourPeace
+ReturningTheWeddingRing
+CitizenshipMarriage
+BreachOfPromiseOfMarriage
+ParentalMarriageVeto
+AwfulWeddedLife
+RunawayBride
+Bridezilla
+MarriageOfConvenience
+AltarTheSpeed

@@ -1,0 +1,10 @@
+619: episode_mystery_murder
+score: 0.9930545638614318
+EveryoneIsASuspect
+MysteryEpisode
+CriminalMindGames
+JustOneLittleMistake
+MysteryOfTheWeek
+NeverOneMurder
+BeneathSuspicion
+MotiveRant

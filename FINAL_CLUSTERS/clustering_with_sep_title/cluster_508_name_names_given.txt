@@ -1,0 +1,15 @@
+508: name_names_given
+score: 0.9404831401339285
+FullNameBasis
+PreppyName
+GunmanWithThreeNames
+NoFullNameGiven
+StageNames
+MrSmith
+NoNameGiven
+OnlyKnownByInitials
+NoLastNameGiven
+ConstantlyChangingName
+TwoFirstNames
+MeaningfulRename
+StageName

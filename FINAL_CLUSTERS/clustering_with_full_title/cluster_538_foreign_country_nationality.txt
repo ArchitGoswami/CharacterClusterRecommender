@@ -1,0 +1,19 @@
+538: foreign_country_nationality
+score: 0.8726038371232043
+FakeRussian
+HeritageDisconnect
+ForeignExchangeStudent
+RegionalSpeciality
+Bulungi
+NonSpecificallyForeign
+AdaptationalNationality
+YodelLand
+ButNotTooForeign
+CanadaDoesNotExist
+LocalReference
+FakeNationality
+TheOldCountry
+Fauxreigner
+KeepItForeign
+GermansLoveDavidHasselhoff
+NoExportForYou

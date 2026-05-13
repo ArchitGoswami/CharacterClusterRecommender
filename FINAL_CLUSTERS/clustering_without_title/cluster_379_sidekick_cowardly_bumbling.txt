@@ -1,0 +1,8 @@
+379: sidekick_cowardly_bumbling
+score: 0.9935845559212777
+RecklessSidekick
+Sidekick
+NumberTwoForBrains
+RudeHeroNiceSidekick
+BumblingSidekick
+CowardlySidekick

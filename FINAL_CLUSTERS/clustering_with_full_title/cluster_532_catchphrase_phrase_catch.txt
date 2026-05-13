@@ -1,0 +1,23 @@
+532: catchphrase_phrase_catch
+score: 0.7894847714075055
+StopSayingThat
+HeyThatsMyLine
+CatchPhrase
+SharePhrase
+AbandonedCatchphrase
+PhraseCatcher
+MadLibsCatchPhrase
+BorrowedCatchPhrase
+MangledCatchPhrase
+StockPhrases
+SubvertedCatchphrase
+Catchphrase
+MangledCatchphrase
+BorrowedCatchphrase
+CatchphraseInsult
+SubvertedCatchPhrase
+CatchphraseInterruptus
+OneLiner
+Borrowedcatchphrase
+MadLibsCatchphrase
+PreMortemCatchphrase

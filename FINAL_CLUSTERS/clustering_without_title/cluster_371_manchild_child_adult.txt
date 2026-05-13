@@ -1,0 +1,8 @@
+371: manchild_child_adult
+score: 0.8833366645035453
+AdultChild
+WomanChild
+AlwaysAChildToParent
+Womanchild
+Manchild
+ManChild

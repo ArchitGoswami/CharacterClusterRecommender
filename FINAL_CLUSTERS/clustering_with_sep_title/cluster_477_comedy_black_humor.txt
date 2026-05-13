@@ -1,0 +1,9 @@
+477: comedy_black_humor
+score: 0.9407072717858674
+BlackComedy
+DeadBabyComedy
+DarkHumor
+BlackComedyCannibalism
+BloodyHilarious
+BlackComedyPetDeath
+BlackComedyAnimalCruelty

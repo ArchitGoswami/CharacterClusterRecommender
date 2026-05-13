@@ -1,0 +1,11 @@
+378: villain_suit_fashion
+score: 0.9025638919843657
+DressedToOppress
+LeanAndMean
+WomanOfWealthAndTaste
+FashionVictimVillain
+VillainInAWhiteSuit
+VillainousFashionSense
+DastardlyWhiplash
+ManOfWealthAndTaste
+AManOfWealthAndTaste

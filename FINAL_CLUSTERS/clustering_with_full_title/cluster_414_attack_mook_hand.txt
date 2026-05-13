@@ -1,0 +1,16 @@
+414: attack_mook_hand
+score: 0.7254070264657614
+OffhandBackhand
+DangerousForbiddenTechnique
+UnderequippedCharge
+BarrierWarrior
+OffHandBackHand
+AggressivePlayIncentive
+ConvenientlyTimedAttackFromBehind
+HeadsIWinTailsYouLose
+PutTheirHeadsTogether
+WithMyHandsTied
+OutsideTheBoxTactic
+AttackAttackAttack
+FoeTossingCharge
+SparingTheFinalMook

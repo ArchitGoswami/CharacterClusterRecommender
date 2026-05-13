@@ -1,0 +1,10 @@
+586: war_civil_rivalry
+score: 0.9740599706700892
+PlayingBothSides
+ExcuseForWar
+InterserviceRivalry
+PreventTheWar
+ForeverWar
+CivilWar
+WarHawk
+Warhawk

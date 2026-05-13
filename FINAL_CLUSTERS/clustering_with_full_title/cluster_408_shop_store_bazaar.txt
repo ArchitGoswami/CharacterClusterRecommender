@@ -1,0 +1,7 @@
+408: shop_store_bazaar
+score: 1.0
+TheLittleShopThatWasntThereYesterday
+SeverelySpecializedStore
+MobileKiosk
+WeSellEverything
+BazaarOfTheBizarre

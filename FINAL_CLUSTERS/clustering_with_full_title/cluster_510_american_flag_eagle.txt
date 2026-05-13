@@ -1,0 +1,7 @@
+510: american_flag_eagle
+score: 1.0
+Eagleland
+FlagDrop
+EagleLand
+AmericanEagle
+FarEast

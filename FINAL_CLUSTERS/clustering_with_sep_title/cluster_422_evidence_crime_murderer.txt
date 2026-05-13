@@ -1,0 +1,31 @@
+422: evidence_crime_murderer
+score: 0.8922822089186566
+ItsProbablyNothing
+MistakenForOwnMurderer
+VaryingCompetencyAlibi
+ClearMyName
+JustOneLittleMistake
+RevealingCoverUp
+FramingTheGuiltyParty
+FrameUp
+INeverSaidItWasPoison
+EveryoneIsASuspect
+LetOffByTheDetective
+BeAsUnhelpfulAsPossible
+MotiveRant
+RightForTheWrongReasons
+WronglyAccused
+DestroyTheEvidence
+RedHerring
+HeKnowsTooMuch
+MistakenForMurderer
+DeceasedFallGuyGambit
+CriminalMindGames
+BluffingTheMurderer
+MiscarriageOfJustice
+JuryAndWitnessTampering
+ItWasHereISwear
+AdvanceNoticeCrime
+AccompliceByInaction
+Frameup
+ChronicEvidenceRetentionSyndrome

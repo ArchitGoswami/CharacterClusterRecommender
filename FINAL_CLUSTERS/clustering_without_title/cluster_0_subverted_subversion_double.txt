@@ -1,0 +1,11 @@
+0: subverted_subversion_double
+score: 0.8009293070950486
+ImpliedTrope
+DoubleSubvertedTrope
+Subverted
+SubvertedTrope
+Implied
+Subversion
+Subvertedtrope
+DoubleSubverted
+DoubleSubversion

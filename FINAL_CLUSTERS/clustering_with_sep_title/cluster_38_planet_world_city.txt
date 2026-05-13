@@ -1,0 +1,11 @@
+38: planet_world_city
+score: 0.9758502984766919
+OneProductPlanet
+InsignificantLittleBluePlanet
+CityPlanet
+FasterThanLightTravel
+AlienGeometries
+EldritchLocation
+AgriWorld
+PlutoIsExpendable
+PlanetOfHats

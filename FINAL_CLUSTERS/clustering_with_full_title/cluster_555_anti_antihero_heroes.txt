@@ -1,0 +1,12 @@
+555: anti_antihero_heroes
+score: 0.9124279483202875
+ClassicalAntiHero
+AntiHeroSubstitute
+Antihero
+DesignatedHero
+ByronicHero
+ClassicalAntihero
+AntiHero
+NinetiesAntiHero
+UnscrupulousHero
+RedeemingReplacement

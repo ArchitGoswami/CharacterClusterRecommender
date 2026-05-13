@@ -1,0 +1,7 @@
+302: childhood_friend_romance
+score: 1.0
+ChildhoodSweetheart
+ChildhoodMarriagePromise
+UnluckyChildhoodFriend
+ChildhoodFriendRomance
+VictoriousChildhoodFriend

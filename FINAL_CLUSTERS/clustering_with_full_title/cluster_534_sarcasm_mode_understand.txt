@@ -1,0 +1,10 @@
+534: sarcasm_mode_understand
+score: 0.917041702440316
+CannotConveySarcasm
+Not
+SincerityMode
+NeverHeardThatOneBefore
+SarcasmBlind
+AndImTheQueenOfSheba
+DoesNotUnderstandSarcasm
+SarcasmMode

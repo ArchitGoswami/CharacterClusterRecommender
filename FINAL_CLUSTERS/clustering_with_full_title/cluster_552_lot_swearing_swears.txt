@@ -1,0 +1,10 @@
+552: lot_swearing_swears
+score: 0.8293753094609249
+SirSwearsAlot
+SwearJar
+SirSwearsalot
+LadySwearsALot
+LadySwearsalot
+PrecisionFStrike
+SirSwearsALot
+SirSwearsaLot

@@ -1,0 +1,9 @@
+487: vigilante_fall_party
+score: 0.9918298195607212
+VigilanteMan
+VigilanteJustice
+FallGuy
+InspectorOblivious
+VigilanteExecution
+FalseInnocenceTrick
+IfYoureSoEvilEatThisKitten

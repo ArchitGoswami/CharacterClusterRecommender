@@ -1,0 +1,17 @@
+427: celebrity_fictional_actor
+score: 0.9240886485743983
+CelebrityParadox
+CelebrityResemblance
+FictionalFanRealCelebrity
+YourCostumeNeedsWork
+CharacterAsHimself
+CelebrityLie
+CelebritySurvivor
+RealRoleFictionalActor
+AsHerself
+GroupieBrigade
+MumblingBrando
+CelebCrush
+AsHimself
+RecognitionFailure
+CelebritySuperhero

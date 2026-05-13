@@ -1,0 +1,9 @@
+459: namer_example_codifier
+score: 0.9642209249027391
+TropeMaker
+UrExample
+TropeMakers
+TropeCodifier
+TropeNamer
+TropeNamers
+TropeNamerS

@@ -1,0 +1,10 @@
+440: defeat_fight_enemy
+score: 0.9811971588543922
+DefeatEqualsFriendship
+IFightForTheStrongestSide
+AggressiveNegotiations
+DefeatAsBackstory
+DefeatMeansRespect
+EnemyWithout
+DefeatMeansFriendship
+LightheartedRematch

@@ -1,0 +1,18 @@
+564: heroic_bsod_vow
+score: 0.5799453178965818
+HeroicBSoD
+HeroicSpirit
+HeroicSacrifice
+HeroicResolve
+HeroicWannabe
+HeroicBSOD
+HeroicRROD
+HeroicSafeMode
+BSoD
+HeroicBystander
+HeroicSecondWind
+WoundedHeroWeakerHelper
+HeroicBsod
+HeroicFatigue
+HeroicSuicide
+HeroicVow

@@ -1,0 +1,24 @@
+229: species_animal_anthropomorphic
+score: 0.8325165099435344
+FantasticFaunaCounterpart
+HumanlikeAnimalAging
+FunnyAnimalAnatomy
+AnthropomorphicShift
+UnanthropomorphicTransformation
+PunBasedCreature
+AdaptationSpeciesChange
+AdultsAreMoreAnthropomorphic
+MixAndMatchCritter
+AdaptationalSpeciesChange
+CartoonCreature
+HorseOfADifferentColor
+AmbiguousSpecies
+LionsAndTigersAndHumansOhMy
+FunnyAnimal
+InformedSpecies
+MixAndMatchCritters
+FurryConfusion
+FunnyAnimals
+AKindOfOne
+AnthropomorphicZigZag
+SlidingScaleOfAnthropomorphism

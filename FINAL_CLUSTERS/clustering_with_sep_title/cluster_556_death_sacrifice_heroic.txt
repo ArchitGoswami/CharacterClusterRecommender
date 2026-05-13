@@ -1,0 +1,31 @@
+556: death_sacrifice_heroic
+score: 0.9565764375792343
+SoleSurvivor
+YouShouldHaveDiedInstead
+SuicideForOthersHappiness
+SurvivorGuilt
+HeroicSacrifice
+SacrificialLion
+ILetGwenStacyDie
+SurvivorsGuilt
+PrepareToDie
+MyDeathIsJustTheBeginning
+TheDeterminator
+SacrificialLamb
+AllAreEqualInDeath
+MyDeathIsOnlyTheBeginning
+WhyWontYouDie
+SorryThatImDying
+IDontWantToDie
+SelfSacrificeScheme
+StupidSacrifice
+AFateWorseThanDeath
+SomeoneHasToDie
+YouAreNotReady
+Determinator
+HeroicSuicide
+SenselessSacrifice
+GenocideSurvivor
+FacingTheBulletsOneLiner
+EveryoneDiesEnding
+HeroicVow

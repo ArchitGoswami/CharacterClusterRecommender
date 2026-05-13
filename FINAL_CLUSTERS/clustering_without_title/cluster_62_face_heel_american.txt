@@ -1,0 +1,8 @@
+62: face_heel_american
+score: 0.9635242282126363
+WildSamoan
+MaskedLuchador
+Face
+AllAmericanFace
+UncleSamWantsYou
+Heel

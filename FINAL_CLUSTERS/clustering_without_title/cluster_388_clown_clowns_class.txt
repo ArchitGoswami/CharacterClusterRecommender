@@ -1,0 +1,8 @@
+388: clown_clowns_class
+score: 0.9464687566327292
+DreadedKidsPartyEntertainerJob
+NonIronicClown
+ClownCar
+RepulsiveRingmaster
+ClassClown
+MonsterClown

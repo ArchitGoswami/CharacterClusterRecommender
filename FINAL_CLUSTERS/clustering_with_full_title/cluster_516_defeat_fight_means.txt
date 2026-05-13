@@ -1,0 +1,8 @@
+516: defeat_fight_means
+score: 0.9960821612995879
+DefeatMeansFriendship
+AggressiveNegotiations
+CommendedForPushback
+DefeatEqualsFriendship
+DefeatMeansRespect
+IFightForTheStrongestSide

@@ -1,0 +1,8 @@
+209: sidekick_cowardly_bumbling
+score: 0.9463176327167879
+Sidekick
+RudeHeroNiceSidekick
+CowardlySidekick
+AdventureDuo
+RecklessSidekick
+BumblingSidekick

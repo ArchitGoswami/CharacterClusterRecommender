@@ -1,0 +1,30 @@
+444: know_something_oblivious
+score: 0.8240397473337213
+ObliviousToTheirOwnDescription
+IsThisThingStillOn
+NoTimeToExplain
+ExplainExplainOhCrap
+EasilyOverheardConversation
+LetUsNeverSpeakOfThisAgain
+CantSpitItOut
+IfOnlyYouKnew
+YouJustToldMe
+ObliviousToHisOwnDescription
+IKnewThereWasSomethingAboutYou
+FiveSecondForeshadowing
+OneDialogueTwoConversations
+YouDoNotWantToKnow
+UnConfession
+InnocentInnuendo
+INeverToldYouMyName
+ExactEavesdropping
+AsYouKnow
+UnnecessaryTimePrecision
+CaptainObvious
+OrSoIHeard
+MistakenIdentity
+NarratingTheObvious
+AreYouPonderingWhatImPondering
+CanNotSpitItOut
+SayingTooMuch
+YouKnowTheOne

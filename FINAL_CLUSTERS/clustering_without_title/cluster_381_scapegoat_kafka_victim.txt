@@ -1,0 +1,8 @@
+381: scapegoat_kafka_victim
+score: 0.982819389710223
+KafkaKomedy
+TheScapegoat
+Scapegoat
+PlayingTheVictimCard
+SilentScapegoat
+KafkaComedy
