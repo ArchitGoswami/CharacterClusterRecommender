@@ -6,14 +6,14 @@ char_name = input("Enter a character: ")
 
 clusters = {}
 
-for filename in os.listdir("created_clusters_retry_weight"):
+for filename in os.listdir("../FINAL_CLUSTERS/clustering_with_sep_title"):
         if not filename.endswith(".txt"):
             continue
 
         cluster_name = filename.replace(".txt", "")
         if cluster_name == "cluster_-1":
             cluster_name = "No Cluster"
-        path = os.path.join("created_clusters_retry_weight", filename)
+        path = os.path.join("../FINAL_CLUSTERS/clustering_with_sep_title", filename)
 
         with open(path, "r", encoding="utf-8") as f:
             words = [line.strip() for line in f if line.strip()]
@@ -25,9 +25,9 @@ chars_list = []
 target_tropes = []
 char_media = ""
 
-for file in os.listdir("data/raw/tvtropes"):
+for file in os.listdir("../data/raw/tvtropes"):
     if file.endswith(".json"):
-        with open(os.path.join("data/raw/tvtropes", file), "r") as f:
+        with open(os.path.join("../data/raw/tvtropes", file), "r") as f:
             df = pd.read_json(f)
             chars = df["characters"]
             for char in chars:
