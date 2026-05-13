@@ -464,8 +464,8 @@ def display_help():
     """Display help information."""
     print(colored("""
 ╔══════════════════════════════════════════════════════════════╗
-║                   CHARACTER SIMILARITY SEARCH                 ║
-║                         Help & Usage                          ║
+║                   CHARACTER SIMILARITY SEARCH                ║
+║                         Help & Usage                         ║
 ╚══════════════════════════════════════════════════════════════╝
 """, Colors.BLUE))
     

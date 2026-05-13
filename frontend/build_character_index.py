@@ -9,14 +9,17 @@ import json
 import pandas as pd
 from collections import defaultdict
 
+
 def build_character_index(data_dir="../data/raw/tvtropes", output_file="character_index.json"):
     """
     Scans all JSON files in the TV Tropes data directory and builds
     a master index of character names -> list of (media_title, file) locations.
     Also builds a media index for searching by show.
+    
+    Note: Duplicate characters (same name, same media) are preserved.
     """
     
-    print(f"🔍 Scanning for character data in: {data_dir}")
+    print(f"Scanning for character data in: {data_dir}")
     
     # Structure: { "character_name": [ {"media_title": ..., "source_file": ...}, ... ] }
     character_index = defaultdict(list)
@@ -24,9 +27,9 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
     # Structure: { "media_title": [ {"name": ..., "source_file": ..., "trope_count": ...}, ... ] }
     media_index = defaultdict(list)
     
-    # Also build a searchable lowercase -> original name mapping
-    name_lookup = {}  # lowercase_name -> set of original names
-    media_lookup = {}  # lowercase_media -> set of original media titles
+    # Searchable lowercase -> original name mapping
+    name_lookup = defaultdict(set)
+    media_lookup = defaultdict(set)
     
     files_processed = 0
     characters_found = 0
@@ -56,31 +59,23 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
                 if not name or name == "open/close all folders":
                     continue
                 
-                # Add to character index
+                # Add to character index (duplicates allowed)
                 character_index[name].append({
                     "media_title": media_title,
                     "source_file": filename,
                     "trope_count": trope_count
                 })
                 
-                # Add to media index
+                # Add to media index (duplicates allowed)
                 media_index[media_title].append({
                     "name": name,
                     "source_file": filename,
                     "trope_count": trope_count
                 })
                 
-                # Add to character name lookup (for fuzzy/partial matching)
-                name_lower = name.lower()
-                if name_lower not in name_lookup:
-                    name_lookup[name_lower] = set()
-                name_lookup[name_lower].add(name)
-                
-                # Add to media lookup (for fuzzy/partial matching)
-                media_lower = media_title.lower()
-                if media_lower not in media_lookup:
-                    media_lookup[media_lower] = set()
-                media_lookup[media_lower].add(media_title)
+                # Add to lookups
+                name_lookup[name.lower()].add(name)
+                media_lookup[media_title.lower()].add(media_title)
                 
                 characters_found += 1
                 
@@ -91,7 +86,7 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
                 print(f"  Progress: {i}/{total_files} files ({characters_found:,} characters found)")
                 
         except Exception as e:
-            print(f"Error processing {filename}: {e}")
+            print(f"  Warning: Error processing {filename}: {e}")
     
     # Convert sets to lists for JSON serialization
     name_lookup_serializable = {k: list(v) for k, v in name_lookup.items()}
@@ -118,7 +113,7 @@ def build_character_index(data_dir="../data/raw/tvtropes", output_file="characte
     print(f"\nIndex built successfully!")
     print(f"   Files processed: {files_processed}")
     print(f"   Total character entries: {characters_found:,}")
-    print(f"    Unique character names: {len(character_index):,}")
+    print(f"   Unique character names: {len(character_index):,}")
     print(f"   Unique media titles: {len(media_index):,}")
     print(f"   Saved to: {output_file}")
     
