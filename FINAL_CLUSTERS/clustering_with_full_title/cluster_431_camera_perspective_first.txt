@@ -1,0 +1,15 @@
+431: camera_perspective_first
+score: 0.873534106755195
+ImpairmentShot
+ForcedPerspective
+SpikingTheCamera
+FirstPersonPerspective
+PovCam
+DepthDeception
+CameraAbuse
+POVCam
+OffscreenRealityWarp
+PerspectiveMagic
+ImpendingDoomPOV
+AsideGlance
+VertigoEffect

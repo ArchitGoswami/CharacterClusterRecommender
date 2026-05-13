@@ -1,0 +1,11 @@
+236: wall_jump_flight
+score: 0.9442995124132436
+WallCrawl
+DrivingUpAWall
+InASingleBound
+VideoGameFlight
+UndersideRide
+WallRun
+JumpingTheShark
+OverTheTopRollerCoaster
+WallJump

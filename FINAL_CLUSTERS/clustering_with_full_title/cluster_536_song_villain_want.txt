@@ -1,0 +1,9 @@
+536: song_villain_want
+score: 0.9764136130725711
+VillainRecruitmentSong
+IAmGreatSong
+TheVillainSucksSong
+IWantSong
+TheHeroSucksSong
+VillainSong
+IAmSong

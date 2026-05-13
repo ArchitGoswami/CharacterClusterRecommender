@@ -1,0 +1,10 @@
+362: healing_water_heal
+score: 0.9938150880068546
+HealingMagicIsTheHardest
+MagicalDefibrillator
+Panacea
+HealThyself
+HealingHands
+HealerSignsOnEarly
+HealingVat
+HealItWithWater

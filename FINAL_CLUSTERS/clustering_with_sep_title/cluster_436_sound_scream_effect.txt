@@ -1,0 +1,33 @@
+436: sound_scream_effect
+score: 0.9066343067447042
+StockSoundEffect
+PsychoStrings
+WackySoundEffect
+StockSoundEffects
+UnsoundEffect
+TheScream
+OverlyLongScream
+CarefulWithThatAxe
+BrownNote
+ScreamingWoman
+GaleForceSound
+WilhelmScream
+TheMisophonic
+KazoosMeanSilliness
+LoudOfWar
+MassOhCrap
+StockScream
+SignatureSoundEffect
+HellIsThatNoise
+NailsOnABlackboard
+EnergyRingAttack
+GhostlyWail
+MakeSomeNoise
+SuperScream
+TerribleTicking
+HeliumSpeech
+HairtriggerSoundEffect
+OneWomanWail
+GlassShatteringSound
+SonicScream
+OurBansheesAreLouder

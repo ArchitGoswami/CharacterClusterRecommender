@@ -1,0 +1,18 @@
+391: mook_mooks_elite
+score: 0.7135853565557069
+MascotMook
+MiniMook
+FakeUltimateMook
+GiantMook
+KingMook
+EnemySummoner
+StealthyMook
+HelpfulMook
+SetAMookToKillAMook
+Mooks
+TheGoomba
+Mook
+EliteMooks
+EliteMook
+MookMaker
+PlantMooks

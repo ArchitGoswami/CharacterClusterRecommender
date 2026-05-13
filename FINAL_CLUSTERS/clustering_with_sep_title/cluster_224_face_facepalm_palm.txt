@@ -1,0 +1,7 @@
+224: face_facepalm_palm
+score: 1.0
+NotInTheFace
+FacePalm
+NoPokerFace
+Facepalm
+FacePalmOfDoom

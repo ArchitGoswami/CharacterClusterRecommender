@@ -1,0 +1,10 @@
+172: golem_abomination_rock
+score: 0.9663988305266515
+Golem
+AdorableAbomination
+MistakenForGranite
+RockMonster
+EldritchAbomination
+FleshGolem
+OurGargoylesRock
+TakenForGranite

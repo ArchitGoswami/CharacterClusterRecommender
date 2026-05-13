@@ -1,0 +1,11 @@
+474: corporate_executive_conspiracy
+score: 0.9199782003241624
+MegaCorp
+NGOSuperpower
+OrganizationWithUnlimitedFunding
+TheSyndicate
+CorporateWarfare
+CorruptCorporateExecutive
+HonestCorporateExecutive
+CorporateConspiracy
+ThereAreNoGoodExecutives

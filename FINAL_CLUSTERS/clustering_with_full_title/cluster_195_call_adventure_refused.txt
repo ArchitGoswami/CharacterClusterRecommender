@@ -1,0 +1,11 @@
+195: call_adventure_refused
+score: 0.8773873488493416
+RefusedByTheCall
+RefusalOfTheCall
+MissedTheCall
+ResignedToTheCall
+JumpedAtTheCall
+RefusaloftheCall
+RefusingParadise
+RefusedTheCall
+WeAreNotGoingThroughThatAgain

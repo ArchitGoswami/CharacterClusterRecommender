@@ -1,0 +1,11 @@
+540: partner_adultery_cheating
+score: 0.8932580907865175
+GoodAdulteryBadAdultery
+PlotIncitingInfidelity
+SerialAdulterer
+AffairBlameTheBastard
+CallouslyCasualCheating
+AccidentalAdultery
+AFamilyAffair
+SympatheticAdulterer
+BlamingTheCuckold

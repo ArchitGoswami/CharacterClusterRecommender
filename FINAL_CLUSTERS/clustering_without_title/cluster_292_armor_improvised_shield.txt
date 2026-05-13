@@ -1,0 +1,15 @@
+292: armor_improvised_shield
+score: 0.8823643803700955
+ImprovisedArmour
+LuckilyMyShieldWillProtectMe
+SpecialAbilityShield
+ThrowingYourShieldAlwaysWorks
+ImprovisedArmor
+DuctTapeForEverything
+PowerArmor
+ArmorPiercingAttack
+AdaptiveArmor
+PoweredArmor
+ArmourIsUseless
+ArmorIsUseless
+BulletProofVest

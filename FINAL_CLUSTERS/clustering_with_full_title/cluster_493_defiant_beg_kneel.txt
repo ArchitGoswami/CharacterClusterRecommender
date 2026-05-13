@@ -1,0 +1,7 @@
+493: defiant_beg_kneel
+score: 1.0
+DefiantStoneThrow
+KneelBeforeZod
+DefiantCaptive
+AintTooProudToBeg
+DefiantToTheEnd

@@ -1,0 +1,7 @@
+141: speed_travel_sun
+score: 1.0
+PowerFloats
+HyperspaceIsAScaryPlace
+CasualInterstellarTravel
+HurlItIntoTheSun
+LudicrousSpeed

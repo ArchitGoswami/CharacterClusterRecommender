@@ -1,0 +1,15 @@
+564: protagonist_guardian_main
+score: 0.8510464767841767
+ThresholdGuardians
+TheHero
+Protagonist
+Deuteragonist
+MainCharacters
+Tritagonist
+TheHeroine
+SupportingProtagonist
+TheProtagonist
+ActionGenreHeroGuy
+ThresholdGuardian
+PinballProtagonist
+HeroProtagonist

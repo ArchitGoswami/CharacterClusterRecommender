@@ -1,0 +1,13 @@
+180: psychic_phony_mind
+score: 0.9388172459364423
+PsychicOperative
+TheEmpath
+Telepathy
+PsychicStatic
+TelepathicSpacemen
+PsychicRadar
+PolicePsychic
+PhonyPsychic
+NotSoPhonyPsychic
+PsychicLink
+ColdReading

@@ -1,0 +1,15 @@
+499: name_nickname_barkeep
+score: 0.836320473582172
+HisNameReallyIsBarkeep
+EverybodyCallsHimBarkeep
+NoNeedForNames
+InSeriesNickname
+OnlyKnownByHerNickname
+OnlyKnownByTheirNickname
+InSeriesNickName
+InUniverseNickname
+EveryoneCallsHimBarkeep
+KnownOnlyByTheirNickname
+NamedByDemocracy
+EveryoneCallsHerBarkeep
+EveryOneCallsHimBarkeep

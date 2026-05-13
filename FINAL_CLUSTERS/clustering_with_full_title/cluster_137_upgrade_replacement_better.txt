@@ -1,0 +1,9 @@
+137: upgrade_replacement_better
+score: 0.8856979859259762
+SoLastSeason
+Sucksessor
+UpgradeVsPrototypeFight
+SuckSessor
+GameChanger
+DoomedUpgrade
+BetterThanNew

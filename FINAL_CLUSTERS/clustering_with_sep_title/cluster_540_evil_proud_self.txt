@@ -1,0 +1,10 @@
+540: evil_proud_self
+score: 0.988268036052324
+HeroismEqualsJobQualification
+HeroicSelfDeprecation
+SociopathicHero
+EvilHero
+WartsAndAll
+ThinkNothingOfIt
+HumbleHero
+SoProudOfYou

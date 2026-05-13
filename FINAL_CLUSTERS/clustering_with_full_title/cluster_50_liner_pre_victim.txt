@@ -1,0 +1,7 @@
+50: liner_pre_victim
+score: 1.0
+PreAsskickingOneLiner
+PreAssKickingOneLiner
+PreMortemOneLiner
+PremortemOneLiner
+BondOneLiner

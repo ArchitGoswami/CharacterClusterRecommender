@@ -1,0 +1,8 @@
+13: teacher_student_female
+score: 0.9921033595661148
+StudentTeacherRomance
+HotForStudent
+HotForTeacher
+TeacherStudentRomance
+OffToBoardingSchool
+TeacherParentRomance

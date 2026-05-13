@@ -1,0 +1,8 @@
+489: name_change_adaptation
+score: 0.9863732469304356
+NamedByTheAdaptation
+AdaptationNameChange
+AdoptiveNameChange
+NamedInTheAdaptation
+AlternativeSelfNameChange
+AdaptationalNameChange

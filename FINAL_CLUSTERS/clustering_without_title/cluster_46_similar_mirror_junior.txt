@@ -1,0 +1,7 @@
+46: similar_mirror_junior
+score: 1.0
+NotSoSimilar
+SimilarSquad
+MirrorCharacter
+IAmNotHim
+JuniorCounterpart

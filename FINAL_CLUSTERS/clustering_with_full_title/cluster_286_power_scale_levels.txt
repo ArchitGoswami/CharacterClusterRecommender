@@ -1,0 +1,9 @@
+286: power_scale_levels
+score: 0.9648136375018534
+OverNineThousand
+PowerLevels
+ReadingsAreOffTheScale
+RankInflation
+PowerLevel
+UnitConfusion
+FlawedPrototype

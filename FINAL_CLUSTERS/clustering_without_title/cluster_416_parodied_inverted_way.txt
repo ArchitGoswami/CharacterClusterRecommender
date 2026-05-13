@@ -1,0 +1,8 @@
+416: parodied_inverted_way
+score: 0.993958068750481
+Parodied
+ParodiedTrope
+SelfDemonstratingArticle
+Inverted
+InvertedTrope
+Invertedtrope

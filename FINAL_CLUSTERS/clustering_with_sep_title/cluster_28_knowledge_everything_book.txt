@@ -1,0 +1,26 @@
+28: knowledge_everything_book
+score: 0.9102004171554935
+MonsterCompendium
+InformedAbility
+WorkplaceAcquiredAbilities
+ScrewLearningIHavePhlebotinum
+ChekhovsSkill
+TaughtByExperience
+GreatBigBookOfEverything
+IngestingKnowledge
+KnowNothingKnowItAll
+BigBookOfEverything
+ChekhovsHobby
+SuddenlyAlwaysKnewThat
+TheOmniscient
+AwesomenessByAnalysis
+EncyclopedicKnowledge
+MagicalDatabase
+IThoughtEveryOneCouldDoThat
+DoingResearch
+ShownTheirWork
+AwesomeByAnalysis
+AncientKeeper
+ButIReadABookAboutIt
+EncyclopaedicKnowledge
+TaughtByTelevision

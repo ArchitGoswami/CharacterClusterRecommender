@@ -1,0 +1,17 @@
+241: trap_death_maze
+score: 0.7612657025725464
+DeathCourse
+EscapeArtist
+TheMaze
+SchmuckBait
+LuckBasedSearchTechnique
+TrapMaster
+TheWallsAreClosingIn
+DungeonBypass
+DeathTrap
+FastTunneling
+FastTunnelling
+KaizoTrap
+IndyEscape
+BoobyTrap
+TrappedTheWrongTarget

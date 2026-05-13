@@ -1,0 +1,8 @@
+388: brainwashing_brainwashed_victim
+score: 0.941903935950099
+BrainWashing
+Brainwashing
+BrainwashResidue
+Brainwash
+NotBrainwashed
+Brainwashed

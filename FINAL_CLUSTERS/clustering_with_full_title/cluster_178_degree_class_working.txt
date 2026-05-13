@@ -1,0 +1,8 @@
+178: degree_class_working
+score: 0.9923659397941651
+AcademiaElitism
+PhonyDegree
+BlueCollarHero
+WorkingClassHero
+ADegreeInUseless
+WorthlessForeignDegree

@@ -1,0 +1,14 @@
+617: morality_side_grey
+score: 0.7030956628947603
+NeutralNoLonger
+BothSidesHaveAPointRemark
+KnightinSourArmor
+GrayAndGrayMorality
+NeutralInNameOnly
+ALighterShadeOfGray
+GreyAndGrayMorality
+KnightInSourArmor
+HarmonyVersusDiscipline
+WhiteAndGreyMorality
+GrayAndGreyMorality
+GreyAndGreyMorality

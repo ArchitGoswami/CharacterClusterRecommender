@@ -1,0 +1,22 @@
+523: monologue_blah_words
+score: 0.9794865362770544
+WeirdAside
+RepeatingSoTheAudienceCanHear
+NarrationEcho
+IsItSomethingYouEat
+ParrotExposition
+TwoWordsAddedEmphasis
+TooMuchInformation
+OnceForYesTwiceForNo
+ThatCameOutWrong
+ThinkingOutLoud
+InternalMonologue
+PrivateEyeMonologue
+MadLibsCatchphrase
+BlahBlahBlah
+StopSayingThat
+Malaproper
+InflationaryDialogue
+SoundingItOut
+DoubleMeaning
+InnerMonologue

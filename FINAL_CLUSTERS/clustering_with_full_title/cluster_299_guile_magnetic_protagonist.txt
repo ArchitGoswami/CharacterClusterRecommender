@@ -1,0 +1,7 @@
+299: guile_magnetic_protagonist
+score: 1.0
+MuggleBestFriend
+OddOneOutProtagonist
+MagneticHero
+GuileHero
+GuileHeroine

@@ -1,0 +1,10 @@
+46: faith_turn_heel
+score: 0.9650838866549458
+EasyEvangelism
+BreakTheBeliever
+TurnToReligion
+TheOnlyBeliever
+GreedyTelevangelist
+AgainstMyReligion
+FaithHeelTurn
+HeelFaithTurn

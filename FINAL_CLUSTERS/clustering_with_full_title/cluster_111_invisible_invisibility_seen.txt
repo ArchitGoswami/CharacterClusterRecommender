@@ -1,0 +1,20 @@
+111: invisible_invisibility_seen
+score: 0.6768724569396023
+InvisibleStreaker
+VisibleInvisibility
+InvisibleMainCharacter
+SeeTheInvisible
+SheWhoMustNotBeSeen
+HeWhoMustNotBeSeen
+ChameleonCamouflage
+PerceptionFilter
+NoPeripheralVision
+Intangibility
+InvisibleIntrovert
+Invisibility
+TrueSight
+YouCanSeeMe
+InvisibleJerkass
+ByTheEyesOfTheBlind
+InvisibilityWithDrawbacks
+InvisibilityCloak

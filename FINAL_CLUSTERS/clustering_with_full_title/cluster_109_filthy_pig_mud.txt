@@ -1,0 +1,8 @@
+109: filthy_pig_mud
+score: 0.9687856378082333
+FilthyFun
+NeatFreak
+ThePigpen
+CoveredInMud
+LudicrouslyUnwashedObject
+ThePigPen

@@ -1,0 +1,7 @@
+455: stealing_focus_spotlight
+score: 1.0
+CharacterFocus
+CompositeCharacter
+EnsembleCast
+SpotLightStealingSquad
+SpotlightStealingSquad

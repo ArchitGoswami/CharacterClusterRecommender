@@ -1,0 +1,8 @@
+139: town_townsman_meek
+score: 0.9568318230248781
+FeudalOverlord
+TheDrifter
+MeekTownsman
+SmallTownTyrant
+IOwnThisTown
+RapePillageAndBurn

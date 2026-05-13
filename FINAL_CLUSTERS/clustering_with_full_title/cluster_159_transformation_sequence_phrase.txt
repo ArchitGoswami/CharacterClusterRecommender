@@ -1,0 +1,7 @@
+159: transformation_sequence_phrase
+score: 1.0
+ByThePowerOfGrayskull
+TransformationIsAFreeAction
+TransformationSequence
+ByThePowerOfGreyskull
+TransformationNameAnnouncement

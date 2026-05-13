@@ -1,0 +1,12 @@
+25: mail_letters_armor
+score: 0.7933586204325069
+ChainLetter
+INeverGotAnyLetters
+AnimatedArmor
+InstantHomeDelivery
+HumanMail
+Courier
+SnailMail
+InstantMessengerPigeon
+GoingPostal
+UnstoppableMailman

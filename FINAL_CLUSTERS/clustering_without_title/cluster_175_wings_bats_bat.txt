@@ -1,0 +1,17 @@
+175: wings_bats_bat
+score: 0.628808814006277
+BlindBats
+StationaryWings
+RazorWings
+MercurysWings
+ThePhoenix
+GoodWingsEvilWings
+WingsDoNothing
+BatPeople
+BatOutOfHell
+RidiculouslySmallWings
+PowerGivesYouWings
+FeatherFlechettes
+HotWings
+WingedHumanoid
+CapeWings

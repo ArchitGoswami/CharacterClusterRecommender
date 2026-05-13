@@ -1,0 +1,14 @@
+399: ham_large_deadpan
+score: 0.8235828356768762
+ColdHam
+IncomingHam
+HammyHerald
+LargeHamRadio
+DramaticDeadpan
+LargeHam
+StunnedSilence
+HamAndDeadpanDuo
+DangerDeadpan
+LargeHamAnnouncer
+Gasp
+GASP

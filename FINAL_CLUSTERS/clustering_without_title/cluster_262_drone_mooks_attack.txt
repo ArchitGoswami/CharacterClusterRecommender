@@ -1,0 +1,8 @@
+262: drone_mooks_attack
+score: 0.9667702719711752
+MechaMook
+MechaMooks
+MechanicalMonster
+AttackDrones
+AttackDrone
+RobotSoldier

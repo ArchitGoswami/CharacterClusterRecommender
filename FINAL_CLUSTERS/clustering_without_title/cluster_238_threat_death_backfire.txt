@@ -1,0 +1,9 @@
+238: threat_death_backfire
+score: 0.9613504420208597
+IsThatAThreat
+DistinctionWithoutADifference
+ThreatBackfire
+ImpliedDeathThreat
+IllKillYou
+WeHaveWaysOfMakingYouTalk
+IneffectualDeathThreat

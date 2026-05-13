@@ -1,0 +1,7 @@
+178: heart_symbol_love
+score: 1.0
+ShapesAndSymbolsTropes
+HeartBeatDown
+WickedHeartSymbol
+CardiovascularLove
+HeartSymbol

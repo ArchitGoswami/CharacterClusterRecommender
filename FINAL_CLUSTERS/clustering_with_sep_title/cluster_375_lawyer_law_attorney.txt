@@ -1,0 +1,10 @@
+375: lawyer_law_attorney
+score: 0.9243709929952126
+ImpersonatingALawyer
+OmnidisciplinaryLawyer
+GoodLawyersGoodClients
+UnconventionalCourtroomTactics
+EvilLawyerJoke
+CrusadingLawyer
+AmoralAttorney
+PersecutingProsecutor

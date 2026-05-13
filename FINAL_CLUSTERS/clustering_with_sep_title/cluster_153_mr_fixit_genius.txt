@@ -1,0 +1,11 @@
+153: mr_fixit_genius
+score: 0.8190108889066386
+ScienceWizard
+PsychoPrototype
+WrenchWench
+MsFixit
+GadgeteerGenius
+MacGyvering
+MrFixit
+PsychoProtoType
+MrFixIt

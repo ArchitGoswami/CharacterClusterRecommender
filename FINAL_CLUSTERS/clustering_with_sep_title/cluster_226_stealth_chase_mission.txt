@@ -1,0 +1,11 @@
+226: stealth_chase_mission
+score: 0.9048241484820014
+WithCatLikeTread
+WatchWhereYoureGoing
+StealthyColossus
+WildGooseChase
+SternChase
+StealthBasedMission
+DynamicEntry
+ThrowingTheDistraction
+SoMuchForStealth

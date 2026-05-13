@@ -1,0 +1,7 @@
+525: singing_scatting_la
+score: 1.0
+CallAndResponseSong
+Scatting
+HollywoodToneDeaf
+SingingSimlish
+ThatSyncingFeeling

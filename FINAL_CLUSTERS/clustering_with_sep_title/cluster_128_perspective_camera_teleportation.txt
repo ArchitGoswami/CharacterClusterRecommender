@@ -1,0 +1,19 @@
+128: perspective_camera_teleportation
+score: 0.6775145214166377
+DepthDeception
+ImpendingDoomPOV
+ImpairmentShot
+DrivingADesk
+POVCam
+MirrorScare
+OffscreenTeleportation
+PovCam
+PerspectiveMagic
+OffScreenTeleportation
+OffscreenRealityWarp
+MagicalSecurityCam
+FirstPersonPerspective
+VertigoEffect
+CameraAbuse
+FlashyTeleportation
+ForcedPerspective

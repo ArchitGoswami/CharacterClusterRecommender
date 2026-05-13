@@ -1,0 +1,10 @@
+211: monster_giant_zilla
+score: 0.950173257185007
+SummonBiggerFish
+BehemothBattle
+NotZilla
+Kaiju
+GiantEqualsInvincible
+Notzilla
+RentAZilla
+MakeMyMonsterGrow

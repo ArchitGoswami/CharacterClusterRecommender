@@ -1,0 +1,7 @@
+24: behind_stowaway_last
+score: 1.0
+LittleStowaway
+LastPlaceYouLook
+NobodyHereButUsStatues
+MobileShrubbery
+BehindAStick

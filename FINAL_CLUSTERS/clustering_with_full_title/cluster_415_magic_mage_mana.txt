@@ -1,0 +1,25 @@
+415: magic_mage_mana
+score: 0.9901212873844569
+Muggles
+Muggle
+TheMagocracy
+BanOnMagic
+CastFromStamina
+SummonMagic
+EyeOfNewt
+AntiMagic
+ManaDrain
+RandomlyGifted
+MageBornOfMuggles
+DispelMagic
+BlackMagic
+BlackMage
+ManaBurn
+UnequalRites
+TheRedMage
+MageSpecies
+MagicEater
+DoesNotLikeMagic
+MuggleBornOfMages
+WhiteMage
+MadeOfMagic

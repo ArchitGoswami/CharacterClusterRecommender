@@ -1,0 +1,9 @@
+556: protagonist_idol_leader
+score: 0.9635165254291683
+UselessProtagonist
+PinballProtagonist
+TheHerosIdol
+ByronicHeroine
+TheHero
+TheHeroine
+HeroProtagonist

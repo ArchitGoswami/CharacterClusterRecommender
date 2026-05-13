@@ -1,0 +1,10 @@
+149: injury_pain_damage
+score: 0.9698226192504409
+CollisionDamage
+MajorInjuryUnderreaction
+DentedIron
+FirstInjuryReaction
+FeelNoPain
+RealMenGetShot
+BrokeYourArmPunchingOutCthulhu
+MinorInjuryOverreaction

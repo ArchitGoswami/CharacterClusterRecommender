@@ -1,0 +1,11 @@
+382: human_man_machine
+score: 0.9487587526744363
+ICannotSelfTerminate
+MindReformatDeath
+UnwillingRoboticization
+UnwillingRoboticisation
+RoboticReveal
+ManVersusMachine
+WeCanRebuildHim
+CyberneticsEatYourSoul
+ManInTheMachine

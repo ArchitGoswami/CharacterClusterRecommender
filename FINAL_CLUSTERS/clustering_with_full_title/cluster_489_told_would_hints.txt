@@ -1,0 +1,7 @@
+489: told_would_hints
+score: 1.0
+IfOnlyYouKnew
+HintDropping
+ExactEavesdropping
+YouDidntAsk
+WeWouldHaveToldYouBut

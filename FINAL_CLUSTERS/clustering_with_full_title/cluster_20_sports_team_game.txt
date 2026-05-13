@@ -1,0 +1,16 @@
+20: sports_team_game
+score: 0.6981291606830878
+SoccerHatingAmericans
+RugbyIsSlaughter
+PopularityPower
+SportsHeroBackstory
+OneSeasonAthlete
+Calvinball
+GameOfNerds
+PlayedBallInCollege
+FootballHooligans
+GretzkyHasTheBall
+ObsessiveSportsFan
+BaseballEpisode
+HomeFieldAdvantage
+AthleticallyChallenged

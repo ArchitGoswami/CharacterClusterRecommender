@@ -1,0 +1,20 @@
+437: bob_alice_say
+score: 0.9126827865140967
+VerbalBackspace
+ICantBelieveImSayingThis
+CantBelieveISaidThat
+InstantlyProvenWrong
+OpinionFlipFlop
+BaitAndSwitchSentiment
+ARareSentence
+OpinionFlipflop
+BaitAndSwitchComment
+ImmediateSelfContradiction
+CouldSayItBut
+GladIThoughtOfIt
+YouJustHadToSayIt
+IHeardThat
+ImmediateSelfcontradiction
+RepeatWhatYouJustSaid
+ThrowingOutTheScript
+YouAnsweredYourOwnQuestion

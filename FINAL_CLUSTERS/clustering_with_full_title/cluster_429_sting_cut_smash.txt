@@ -1,0 +1,8 @@
+429: sting_cut_smash
+score: 0.978706001524134
+JumpCut
+MusicalSting
+Sting
+SmashCut
+SmashToBlack
+DramaticPause

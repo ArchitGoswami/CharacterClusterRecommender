@@ -1,0 +1,15 @@
+37: base_lair_monolith
+score: 0.769067072243768
+EvilLair
+BigApplesauce
+NothingExcitingEverHappensHere
+GirlInTheTower
+TheMonolith
+IslandBase
+ElaborateUndergroundBase
+LandmarkingTheHiddenBase
+ConvenientWeaknessPlacement
+SupervillainLair
+AllYourBaseAreBelongToUs
+HomeBase
+OminousFloatingCastle

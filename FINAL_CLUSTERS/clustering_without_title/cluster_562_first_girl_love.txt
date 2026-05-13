@@ -1,0 +1,14 @@
+562: first_girl_love
+score: 0.8874135639499272
+RescueIntroduction
+LastGuyWins
+LoveBeforeFirstSight
+LoveAtFirstSight
+LoveAtFirstNote
+LastGirlWins
+HateAtFirstSight
+LoveatFirstSight
+PreMeeting
+FirstGuyWins
+FirstGirlAfterAll
+FirstGirlWins

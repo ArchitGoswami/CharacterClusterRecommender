@@ -1,0 +1,9 @@
+608: much_bad_knowledge
+score: 0.9774017041119277
+KnowledgeBroker
+HeKnowsTooMuch
+YouKnowTooMuch
+WronglyAccused
+SheKnowsTooMuch
+BluffingTheMurderer
+ClearMyName

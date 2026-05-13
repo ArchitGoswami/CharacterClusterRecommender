@@ -1,0 +1,8 @@
+417: powers_forgot_could
+score: 0.980281638965144
+ForgotAboutHisPowers
+RememberedICouldFly
+ForgotAboutHerPowers
+ForgotToPayTheBill
+ForgotICouldFly
+ForgotTheirIntangibility

@@ -1,0 +1,7 @@
+198: try_home_attempt
+score: 1.0
+DontTryThisAtHome
+DoNotAttempt
+DidntWantAnAdventure
+ButThouMust
+DoNotTryThisAtHome

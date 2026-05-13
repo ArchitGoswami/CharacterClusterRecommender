@@ -1,0 +1,10 @@
+196: rules_rule_game
+score: 0.8339142166911326
+ReadTheFinePrint
+RulesLawyer
+AintNoRule
+ObviousRulePatch
+AppealToForce
+LoopholeAbuse
+MyRuleFuIsStrongerThanYours
+ScrewTheRulesIMakeThem

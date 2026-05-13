@@ -1,0 +1,13 @@
+21: scars_scar_covered
+score: 0.7792402383350647
+FrozenFace
+GoodScarsEvilScars
+BurnScarsBurningPowers
+PhysicalScarsPsychologicalScars
+ScarsAreUgly
+RuggedScar
+WoundThatWillNotHeal
+CoveredInScars
+EveryScarHasAStory
+ScaryStitches
+CoveredWithScars

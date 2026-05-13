@@ -1,0 +1,23 @@
+139: armor_shield_shields
+score: 0.5904137115206255
+FragileSpeedster
+ClothingCombat
+PoweredArmor
+SpecialAbilityShield
+ArmorPiercingAttack
+ElementalBarrier
+InstantArmor
+ImprovisedArmour
+DuctTapeForEverything
+ShedArmorGainSpeed
+ArmorOfInvincibility
+BulletProofVest
+ImprovisedArmor
+ArmourIsUseless
+LuckilyMyShieldWillProtectMe
+PowerArmor
+ArmorIsUseless
+KnightlySwordAndShield
+AdaptiveArmor
+ShieldBash
+PocketProtector

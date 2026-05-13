@@ -1,0 +1,11 @@
+52: bait_switch_ensemble
+score: 0.8532575387476358
+WorldOfJerkass
+FourTemperamentEnsemble
+BaitTheDog
+UnsympatheticComedyProtagonist
+BaitAndSwitchCompassion
+BaitAndSwitchSentiment
+BaitAndSwitch
+FiveTemperamentEnsemble
+BaitAndSwitchCharacterIntro

@@ -1,0 +1,15 @@
+310: arrows_arrow_bow
+score: 0.8639549354799134
+AloofArcher
+TheStraightAndArrowPath
+AnnoyingArrows
+AntiAir
+MultiShot
+WilliamTelling
+SacredBowAndArrows
+RainOfArrows
+AutomaticCrossbow
+FlechetteStorm
+ArrowsOnFire
+EnergyBow
+ArrowCatch

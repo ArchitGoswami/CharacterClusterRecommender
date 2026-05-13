@@ -1,0 +1,29 @@
+602: conspiracy_government_evil
+score: 0.7259094783498308
+DeepCoverAgent
+TheConspiracy
+SecretPolice
+TheGovernment
+TheHandler
+GovernmentAgencyOfFiction
+MurderInc
+HauledBeforeASenateSubcommittee
+WhoShotJFK
+PinkertonDetective
+DoubleReverseQuadrupleAgent
+AgentProvocateur
+CloakAndDagger
+GovernmentConspiracy
+MysteriousInformant
+GoodRunningEvil
+ConspiracyTheorist
+NebulousEvilOrganization
+DoNotAdjustYourSet
+TheOnlyOne
+Scandalgate
+TheIlluminati
+StateSec
+ShadowGovernment
+AncientConspiracy
+NebulousEvilOrganisation
+FBIAgent

@@ -1,0 +1,7 @@
+503: syllable_wrong_stress
+score: 1.0
+AccentUponTheWrongSyllable
+Pluralses
+JapaneseRanguage
+AcCENTUponTheWrongSylLABle
+AccentOnTheWrongSyllable

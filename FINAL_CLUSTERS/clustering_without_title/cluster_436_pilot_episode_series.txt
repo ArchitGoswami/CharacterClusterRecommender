@@ -1,0 +1,17 @@
+436: pilot_episode_series
+score: 0.7444151841201326
+DroppedAfterThePilot
+ExtraLongEpisode
+Pilot
+SecondEpisodeIntroduction
+BackdoorPilot
+MilestoneCelebration
+Spinoff
+SpinOff
+Crossover
+ThePilot
+CrossOver
+PoorlyDisguisedPilot
+RequiredSpinoffCrossover
+PilotMovie
+PilotEpisode

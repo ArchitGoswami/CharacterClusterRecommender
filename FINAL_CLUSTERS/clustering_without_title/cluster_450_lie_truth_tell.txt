@@ -1,0 +1,34 @@
+450: lie_truth_tell
+score: 0.5755002854500041
+FawltyTowersPlot
+CryingWolf
+AccidentalTruth
+MaintainTheLie
+TruthSerum
+LyingToProtectYourFeelings
+ConsummateLiar
+PullTheThread
+LiarRevealed
+CanNotTellALie
+HonestyIsTheBestPolicy
+WillNotTellALie
+PinocchioNose
+ObviouslyNotFine
+EmbarrassingCoverup
+BlatantLies
+TruthSerums
+SnowballLie
+LivingLieDetector
+FalseReassurance
+VillainsNeverLie
+SeamlessSpontaneousLie
+BreakThemWithLies
+SelfProclaimedLiar
+CompulsiveLiar
+ImplausibleDeniability
+BadLiar
+LieDetector
+AwfulTruth
+LyingFingerCross
+SureLetsGoWithThat
+CannotTellALie

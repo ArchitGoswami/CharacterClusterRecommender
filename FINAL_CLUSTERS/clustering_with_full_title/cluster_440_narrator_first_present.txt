@@ -1,0 +1,13 @@
+440: narrator_first_present
+score: 0.848310327500633
+NarratorAllAlong
+Narrator
+FirstPersonPeripheralNarrator
+LemonyNarrator
+InteractiveNarrator
+FirstPersonSmartass
+InfallibleNarrator
+CharacterNarrator
+NarratingThePresent
+GreekChorus
+TheNarrator

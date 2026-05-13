@@ -1,0 +1,7 @@
+369: ball_wave_motion
+score: 1.0
+KamehameHadoken
+Kamehamehadoken
+WeaponizedBall
+PaperFanOfDoom
+AirJousting

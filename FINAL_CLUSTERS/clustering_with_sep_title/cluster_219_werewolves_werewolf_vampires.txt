@@ -1,0 +1,7 @@
+219: werewolves_werewolf_vampires
+score: 1.0
+WorkingClassWerewolves
+TotallyNotAWerewolf
+ReverseSupernaturalCreature
+OurWerewolvesAreDifferent
+FurAgainstFang

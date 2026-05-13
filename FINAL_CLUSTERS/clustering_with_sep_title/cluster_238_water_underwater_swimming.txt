@@ -1,0 +1,10 @@
+238: water_underwater_swimming
+score: 0.8290435307312267
+SuperDrowningSkills
+SuperSwimmingSkills
+WalkDontSwim
+DontEatAndSwim
+WalkOnWater
+SuperNotDrowningSkills
+Flight
+OxygenatedUnderwaterBubbles

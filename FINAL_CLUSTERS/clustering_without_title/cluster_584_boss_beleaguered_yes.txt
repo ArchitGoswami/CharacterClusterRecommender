@@ -1,0 +1,8 @@
+584: boss_beleaguered_yes
+score: 0.996102346740256
+Beleagueredassistant
+BeleagueredBoss
+CluelessBoss
+TheAllegedBoss
+YesMan
+BeleagueredAssistant

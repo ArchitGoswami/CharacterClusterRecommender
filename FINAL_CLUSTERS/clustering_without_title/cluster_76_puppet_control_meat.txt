@@ -1,0 +1,10 @@
+76: puppet_control_meat
+score: 0.8220121811493417
+MeatPuppet
+PeoplePuppets
+DeadGuyPuppet
+BrainWithAManualControl
+MarionetteMaster
+Muppet
+ConsultingMisterPuppet
+HandPuppet

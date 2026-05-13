@@ -1,0 +1,7 @@
+239: cool_board_surfing
+score: 1.0
+HoverBoard
+CoolBoard
+SkySurfing
+ImplausibleBoardingSkills
+KiteRiding

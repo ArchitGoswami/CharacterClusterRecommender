@@ -1,0 +1,16 @@
+220: wings_fly_bat
+score: 0.7150295165297782
+HotWings
+PowerGivesYouWings
+WingedHumanoid
+BatPeople
+BatOutOfHell
+IcarusAllusion
+RidiculouslySmallWings
+CapeWings
+MercurysWings
+AcrophobicBird
+HeliCritter
+StationaryWings
+WingsDoNothing
+GoodWingsEvilWings

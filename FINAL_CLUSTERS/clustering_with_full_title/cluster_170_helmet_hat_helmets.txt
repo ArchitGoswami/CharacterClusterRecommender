@@ -1,0 +1,10 @@
+170: helmet_hat_helmets
+score: 0.9708944462334553
+CoolHelmet
+HelmetsAreHardlyHeroic
+FantasyHelmetEnforcement
+BucketHelmet
+HeadHat
+DeadHatShot
+WeaponizedHeadgear
+CollapsibleHelmet

@@ -1,0 +1,8 @@
+272: sex_non_gender
+score: 0.9385375738910157
+NoBiologicalSex
+NoGender
+NonHumanNonBinary
+OtherworldlyAndSexuallyAmbiguous
+SexShifter
+OppositeSexClone

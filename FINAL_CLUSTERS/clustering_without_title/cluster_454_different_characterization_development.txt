@@ -1,0 +1,21 @@
+454: different_characterization_development
+score: 0.7314475806145049
+OutOfCharacter
+InterpretativeCharacter
+DependingOnTheWriter
+CharacterisationClickMoment
+CharacterDerailment
+CharacterisationMarchesOn
+CharacterizationMarchesOn
+SameCharacterButDifferent
+CharacterArc
+CharacterRerailment
+ForgotFlandersCouldDoThat
+EraSpecificPersonality
+CharacterCheck
+CharacterExaggeration
+CharacterDevelopment
+CharacterizationClickMoment
+StaticCharacter
+FormerSaneMan
+ReplacementFlatCharacter

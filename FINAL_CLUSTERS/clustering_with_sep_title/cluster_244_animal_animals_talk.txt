@@ -1,0 +1,21 @@
+244: animal_animals_talk
+score: 0.6954994718058848
+BilingualAnimal
+NearlyNormalAnimal
+TalkingAnimal
+SssssnakeTalk
+AnimalSpeciesAccent
+SpeechImpairedAnimal
+RoarBeforeBeating
+SpeaksFluentAnimal
+AngryAnimalisticGrowl
+SillyAnimalSound
+AnimalTalk
+PollyWantsAMicrophone
+SssnakeTalk
+IncorrectAnimalNoise
+ThatPoorCat
+Sssssnaketalk
+MightyRoar
+NoisyNature
+CuteButCacophonic

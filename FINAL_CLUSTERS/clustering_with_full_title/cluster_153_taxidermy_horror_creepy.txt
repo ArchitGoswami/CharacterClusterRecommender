@@ -1,0 +1,13 @@
+153: taxidermy_horror_creepy
+score: 0.9103212549442741
+HorrorHost
+CreepyBasement
+PeekABogeyman
+NightmareFuelStationAttendant
+TaxidermyTerror
+TaxidermyIsCreepy
+GothicHorror
+WhoYouGonnaCall
+SillySpook
+ThingsThatGoBumpInTheNight
+CreepyGasStationAttendant

@@ -1,0 +1,16 @@
+119: vomit_vomiting_shot
+score: 0.5744939911029078
+NauseaDissonance
+ProneToVomiting
+NauseaFuel
+MorningSickness
+LoudGulp
+GreenAroundTheGills
+SpittySpeaker
+ZombiePukeAttack
+SuperSpit
+StressVomit
+VomitChainReaction
+VomitDiscretionShot
+VomitingCop
+VomitIndiscretionShot

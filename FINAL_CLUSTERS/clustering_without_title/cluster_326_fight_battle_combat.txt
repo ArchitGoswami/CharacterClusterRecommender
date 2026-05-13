@@ -1,0 +1,31 @@
+326: fight_battle_combat
+score: 0.625068715005828
+SniperDuel
+GangInitiationFight
+AirJousting
+ChildishPillowFight
+InvoluntaryBattleToTheDeath
+CurbStomp
+CurbStompBattle
+BrokeYourArmPunchingOutCthulhu
+CombatPragmatism
+BattleOfWits
+HowMuchMoreCanHeTake
+ActionHero
+RingOut
+LetsYouAndHimFight
+VictoryByEndurance
+RiggedSpectacleFight
+DoubleKnockout
+CombatReferee
+JustToyingWithThem
+WizardDuel
+FightingYourFriend
+InterestingSituationDuel
+BeamOWar
+NotBigEnoughForTheTwoOfUs
+UltimateShowdownOfUltimateDestiny
+CurbstompBattle
+CombatPragmatist
+ThrowingDownTheGauntlet
+BackToBackBadasses

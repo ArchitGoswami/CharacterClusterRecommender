@@ -1,0 +1,18 @@
+412: question_answer_yes
+score: 0.7506264691250691
+ArmourPiercingQuestion
+ArmorPiercingQuestion
+ConstantlyCurious
+MathematiciansAnswer
+ArmorPiercingResponse
+NoMeansYes
+FlatYes
+IsTheAnswerToThisQuestionYes
+BaitAndSwitchSentiment
+SuspiciouslySpecificDenial
+MortonsFork
+NonAnswer
+BluntYes
+ImpliedAnswer
+RhetoricalQuestionBlunder
+YouAnsweredYourOwnQuestion

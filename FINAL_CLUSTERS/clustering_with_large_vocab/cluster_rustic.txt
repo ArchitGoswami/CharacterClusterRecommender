@@ -1,0 +1,21 @@
+Average Score: 0.25712257623672485
+HorribleHousing
+NonSpecificallyForeign
+HauntedHouse
+TheLittleShopThatWasntThereYesterday
+RuralGangsters
+HillbillyHorrors
+TheMafia
+MightyLumberjack
+CardboardBoxHome
+StonePunk
+OlderThanPrint
+TontoTalk
+BourgeoisBohemian
+TreetopTown
+GingerbreadHouse
+GhostTown
+DublinSkanger
+DeterminedHomesteader
+Casanova
+CreepyHousekeeper

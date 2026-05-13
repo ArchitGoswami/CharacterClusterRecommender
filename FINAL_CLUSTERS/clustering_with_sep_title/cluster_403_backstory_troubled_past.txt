@@ -1,0 +1,15 @@
+403: backstory_troubled_past
+score: 0.8013753073719634
+Backstory
+DarkandTroubledPast
+TroubledBackstoryFlashback
+DecoyBackstory
+HappyFlashback
+TragicBackstory
+HisStoryRepeatsItself
+ExpansionPackPast
+DarkAndTroubledPast
+BackStory
+StandardCopBackStory
+StandardCopBackstory
+BackstoryInvader

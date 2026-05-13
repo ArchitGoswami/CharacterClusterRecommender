@@ -1,0 +1,7 @@
+535: zero_legacy_legend
+score: 1.0
+LegacySeeker
+FromZeroToHero
+LivingLegend
+IconicAttributeAdoptionMoment
+FamedInStory

@@ -1,0 +1,19 @@
+358: narrator_unreliable_first
+score: 0.6734044835625557
+FirstPersonSmartass
+AndThatLittleGirlWasMe
+TheNarrator
+UnreliableExpositor
+ThisIsMyStory
+NarratingThePresent
+LemonyNarrator
+NarratorAllAlong
+CharacterNarrator
+KentBrockmanNews
+InteractiveNarrator
+UnreliableNarrator
+ConsummateStoryteller
+FirstPersonPeripheralNarrator
+InfallibleNarrator
+Narrator
+LiesToChildren

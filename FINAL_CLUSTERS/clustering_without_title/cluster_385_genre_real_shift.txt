@@ -1,0 +1,26 @@
+385: genre_real_shift
+score: 0.9990629028137622
+TheThemeParkVersion
+Plothole
+DarkerAndEdgier
+ManipulativeEditing
+OutOfGenreExperience
+TruthinTelevision
+CerebusSyndrome
+PlotDevice
+BasedOnAGreatBigLie
+PlotHole
+ContinuityDrift
+IfYouCanReadThis
+RealitySubtext
+DenserAndWackier
+RealityWritingBook
+RealLifeWritesThePlot
+LighterAndSofter
+ToneShift
+FramingDevice
+GenreShift
+FictionalDocument
+BooksVsScreens
+BasedOnATrueStory
+TruthInTelevision

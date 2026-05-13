@@ -1,0 +1,13 @@
+198: different_unicorn_centaurs
+score: 0.9540907309811459
+CarbuncleCreature
+OurMinotaursAreDifferent
+OurGriffonsAreDifferent
+OurGryphonsAreDifferent
+OurCentaursAreDifferent
+GripingAboutGremlins
+FaunsAndSatyrs
+HornedHumanoid
+HarpingOnAboutHarpies
+OurManticoresAreSpinier
+Unicorn

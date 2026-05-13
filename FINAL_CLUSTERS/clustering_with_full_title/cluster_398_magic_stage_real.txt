@@ -1,0 +1,12 @@
+398: magic_stage_real
+score: 0.9112795419419715
+WrongContextMagic
+MagiciansAreWizards
+MagicalFlutist
+StageMagic
+ImpossiblyAwesomeMagicTrick
+IneptMage
+MagicPlasticSurgery
+InherentGift
+FakeWizardry
+StageMagician

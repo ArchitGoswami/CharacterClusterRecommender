@@ -1,0 +1,8 @@
+117: plant_garden_gardener
+score: 0.9984026351862333
+GardenOfEvil
+GreenAesop
+CaringGardener
+PlantPerson
+PollutedWasteland
+EcocidalAntagonist

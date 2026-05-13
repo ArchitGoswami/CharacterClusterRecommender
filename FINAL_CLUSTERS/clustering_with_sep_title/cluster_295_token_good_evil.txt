@@ -1,0 +1,10 @@
+295: token_good_evil
+score: 0.841883242011126
+TokenEvilTeammate
+TokenGoodTeammate
+BlackShirt
+FlawlessToken
+HeroWithAnFInGood
+AntiHeroTeam
+TokenEvilTeamMate
+TokenGoodTeamMate

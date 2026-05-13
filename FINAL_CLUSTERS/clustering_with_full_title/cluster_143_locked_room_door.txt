@@ -1,0 +1,10 @@
+143: locked_room_door
+score: 0.8001408192325794
+WeHaveTheKeys
+Safecracking
+YourDoorWasOpen
+LockedInAFreezer
+LockedInARoom
+MasterOfUnlocking
+ImprovisedLockpick
+LockedRoomMystery

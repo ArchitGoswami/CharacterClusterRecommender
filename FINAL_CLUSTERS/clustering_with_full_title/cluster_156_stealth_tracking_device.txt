@@ -1,0 +1,23 @@
+156: stealth_tracking_device
+score: 0.8907290762926594
+EnemyDetectingRadar
+ScarilyCompetentTracker
+SinisterSurveillance
+StealthHiBye
+SpyCam
+EverythingSensor
+FluorescentFootprints
+StealthBasedMission
+WithCatLikeTread
+ThrowingTheDistraction
+StealthExpert
+SternChase
+WatchWhereYoureGoing
+HuntingTheMostDangerousGame
+StealthyColossus
+WildGooseChase
+SoMuchForStealth
+WindowWatcher
+TrackingDevice
+CaughtOnTape
+IncrediblyObviousTail

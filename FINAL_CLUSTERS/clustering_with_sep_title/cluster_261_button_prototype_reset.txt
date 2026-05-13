@@ -1,0 +1,19 @@
+261: button_prototype_reset
+score: 0.7787730627837097
+PlotSensitiveButton
+DoomItYourself
+SelfDestructMechanism
+RubeGoldbergDevice
+ResetButton
+NoPlansNoPrototypeNoBackUp
+HaveYouTriedRebooting
+BigRedButton
+BlackBox
+WhatDoesThisButtonDo
+SoftReset
+DIYDisaster
+NoPlansNoPrototypeNoBackup
+GrandTheftPrototype
+FlawedPrototype
+PercussiveMaintenance
+HandyRemoteControl

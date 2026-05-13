@@ -1,0 +1,15 @@
+227: teleportation_portal_teleporter
+score: 0.6844877254953606
+VillainTeleportation
+PortalSlam
+Telefrag
+Teleportation
+WeaponizedTeleportation
+TeleportSpam
+TeleportationWithDrawbacks
+PortalCut
+InertiaIsACruelMistress
+InterdimensionalTravelDevice
+TeleportersAndTransporters
+ThinkingUpPortals
+TeleporterAccident

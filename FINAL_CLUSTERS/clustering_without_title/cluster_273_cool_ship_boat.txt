@@ -1,0 +1,12 @@
+273: cool_ship_boat
+score: 0.8648424670092307
+CoolTrain
+WealthyYachtOwner
+CoolGarage
+StarshipLuxurious
+CoolHouse
+HouseboatHero
+BaseOnWheels
+CoolBoat
+CoolShip
+CoolStarship

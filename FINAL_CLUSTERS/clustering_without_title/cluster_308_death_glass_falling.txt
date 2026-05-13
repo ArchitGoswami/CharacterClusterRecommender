@@ -1,0 +1,11 @@
+308: death_glass_falling
+score: 0.9623550953219977
+DestinationDefenestration
+DeathByFallingOver
+BrokenGlassPenalty
+ShadowOfImpendingDoom
+EverythingTryingToKillYou
+DeathByLookingUp
+InCaseOfXBreakGlass
+DeathThrows
+FallingChandelierOfDoom

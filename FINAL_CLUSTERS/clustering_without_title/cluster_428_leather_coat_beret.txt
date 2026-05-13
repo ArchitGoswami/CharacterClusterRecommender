@@ -1,0 +1,12 @@
+428: leather_coat_beret
+score: 0.899857363313
+ArtsyBeret
+HellBentforLeather
+BadassInANiceSuit
+LabCoatOfScienceAndMedicine
+AdventurerOutfit
+HellBentForLeather
+LabcoatOfScienceAndMedicine
+HellbentForLeather
+MartialBeret
+LabcoatofScienceandMedicine

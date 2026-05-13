@@ -1,0 +1,12 @@
+255: team_attack_hand
+score: 0.8651346397068277
+ConservationOfNinjitsu
+MookChivalry
+RuleOfEmpathy
+OffhandBackhand
+DeadlyDodging
+OffHandBackHand
+PutTheirHeadsTogether
+HerdHittingAttack
+ConservationOfNinjutsu
+DangerousForbiddenTechnique

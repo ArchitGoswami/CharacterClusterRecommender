@@ -1,0 +1,8 @@
+277: tone_shift_genre
+score: 0.9666652680402507
+LighterAndSofter
+GenreShift
+DenserAndWackier
+CerebusSyndrome
+ToneShift
+DarkerAndEdgier

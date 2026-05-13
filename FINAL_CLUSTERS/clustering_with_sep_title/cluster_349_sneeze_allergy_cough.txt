@@ -1,0 +1,10 @@
+349: sneeze_allergy_cough
+score: 0.9634048226273958
+IronicAllergy
+SelfInducedAllergicReaction
+PepperSneeze
+PlotAllergy
+AbnormalAllergy
+CoughSnarkCough
+IllTimedSneeze
+SneezeOfDoom

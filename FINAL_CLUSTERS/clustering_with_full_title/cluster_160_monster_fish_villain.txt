@@ -1,0 +1,11 @@
+160: monster_fish_villain
+score: 0.9705254142319374
+ColonyDrop
+MakeMyMonsterGrow
+RemovedAchillesHeel
+GodzillaThreshold
+NonMaliciousMonster
+SummonBiggerFish
+NukeEm
+MonsterThreatExpiration
+FiveRoundsRapid

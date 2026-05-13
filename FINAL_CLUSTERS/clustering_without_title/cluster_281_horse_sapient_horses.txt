@@ -1,0 +1,7 @@
+281: horse_sapient_horses
+score: 1.0
+BornInTheSaddle
+HellishHorse
+SapientSteed
+UpperClassEquestrian
+StubbornMule

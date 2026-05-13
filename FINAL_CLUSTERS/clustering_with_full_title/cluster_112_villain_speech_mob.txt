@@ -1,0 +1,8 @@
+112: villain_speech_mob
+score: 0.9891352034171267
+SwiperNoSwiping
+ShamingTheMob
+EscalatingWar
+WellSeeAboutThat
+RousingSpeech
+KirkSummation

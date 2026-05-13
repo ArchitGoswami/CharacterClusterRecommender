@@ -1,0 +1,10 @@
+41: abandoned_ghost_town
+score: 0.9146194178649202
+GhostTown
+NotSoAbandonedBuilding
+AbandonedArea
+DyingTown
+NoOSHACompliance
+GhostCity
+NoOshaCompliance
+AbandonedMine

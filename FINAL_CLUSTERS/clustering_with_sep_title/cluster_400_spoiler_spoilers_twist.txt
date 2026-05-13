@@ -1,0 +1,8 @@
+400: spoiler_spoilers_twist
+score: 0.9886350647197495
+TrailersAlwaysSpoil
+WalkingSpoiler
+ItWasHisSled
+LateArrivalSpoiler
+Spoiler
+SpoilerOpening

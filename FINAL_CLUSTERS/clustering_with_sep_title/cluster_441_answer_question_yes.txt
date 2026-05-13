@@ -1,0 +1,10 @@
+441: answer_question_yes
+score: 0.8585302978123608
+NonAnswer
+RhetoricalQuestionBlunder
+ArmorPiercingResponse
+FlatYes
+MathematiciansAnswer
+ImpliedAnswer
+BluntYes
+IsTheAnswerToThisQuestionYes

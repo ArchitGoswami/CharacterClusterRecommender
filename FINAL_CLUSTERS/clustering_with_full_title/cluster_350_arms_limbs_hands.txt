@@ -1,0 +1,35 @@
+350: arms_limbs_hands
+score: 0.6832851373764468
+VertebrateWithExtraLimbs
+AmbidextrousSprite
+FourFingeredHands
+AbnormalLimbRotationRange
+ASinisterClue
+RubberHoseLimbs
+MultiarmedMultitasking
+MultiArmedAndDangerous
+CreepilyLongArms
+ArmlessBiped
+OneSidedArmWrestling
+HandyFeet
+SituationalHandSwitch
+ImpactSilhouette
+WhiteGloves
+FingerlessHands
+MultiArmedMultitasking
+PrehensileTail
+SouthpawAdvantage
+NowThatsUsingYourTeeth
+ElongatingArmGag
+FourLeggedInsect
+ExtendableArms
+RoboticPincerHands
+MultiarmedAndDangerous
+TheRightHandOfDoom
+NightmareHands
+FlexingThoseNonBiceps
+FourLegsGoodTwoLegsBetter
+EvilHand
+HeroicAmbidexterity
+ComicallyTinyArms
+CreepyLongFingers

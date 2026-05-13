@@ -1,0 +1,26 @@
+495: joke_funny_humor
+score: 0.7394125483051246
+RimShot
+KnockKnockJoke
+InsideJoke
+NoSenseOfHumor
+HumorlessAliens
+OrphanedSetup
+VulgarHumor
+ActuallyPrettyFunny
+TerriblePickUpLines
+RuleOfFunny
+HilariousInHindsight
+LateToThePunchLine
+BrickJoke
+DoNotExplainTheJoke
+CannotTellAJoke
+LateToThePunchline
+AntiHumor
+HumourDissonance
+OverlyNarrowSuperlative
+RantComedy
+OverlyPreparedGag
+OrphanedPunchline
+DontExplainTheJoke
+SoUnfunnyItsFunny

@@ -1,0 +1,7 @@
+282: symbol_insignia_motif
+score: 1.0
+SavagePiercings
+WearingAFlagOnYourHead
+TribalFacePaint
+ChestInsignia
+SymbolMotifClothing

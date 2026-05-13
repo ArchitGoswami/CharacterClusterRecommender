@@ -1,0 +1,9 @@
+377: armor_powered_wearer
+score: 0.9302860790484553
+PowerArmor
+ArmourIsUseless
+ArmorIsUseless
+ArmorPiercingAttack
+BulletProofVest
+PoweredArmor
+AdaptiveArmor

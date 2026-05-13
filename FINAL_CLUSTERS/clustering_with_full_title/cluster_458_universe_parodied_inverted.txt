@@ -1,0 +1,18 @@
+458: universe_parodied_inverted
+score: 0.6937387455765169
+ImpliedTrope
+DefiedTrope
+InUniverse
+Trope
+Invoked
+Implied
+Invertedtrope
+Inverted
+ParodiedTrope
+TropesAreTools
+SelfDemonstratingArticle
+Exaggerated
+Parodied
+Averted
+InvertedTrope
+Inuniverse

@@ -1,0 +1,9 @@
+401: artist_work_starving
+score: 0.9207347971795438
+MagnumOpusDissonance
+OldShame
+BitingTheHandHumor
+DoingItForTheArt
+ReusedCharacterDesign
+StarvingArtist
+ReclusiveArtist

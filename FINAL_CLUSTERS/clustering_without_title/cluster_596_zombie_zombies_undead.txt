@@ -1,0 +1,17 @@
+596: zombie_zombies_undead
+score: 0.7503875951540532
+RemovingTheHeadOrDestroyingTheBrain
+OurZombiesAreDifferent
+FriendlyZombie
+DeadWeight
+ZombieAdvocate
+RaisingTheSteaks
+ZombieInfectee
+RoboticUndead
+UndeadServant
+NonHumanUndead
+EliteZombie
+EverythingsDeaderWithZombies
+ArtificialZombie
+AttractiveZombie
+DeadlyLunge

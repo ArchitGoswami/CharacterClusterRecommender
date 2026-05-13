@@ -1,0 +1,7 @@
+78: time_travel_speed
+score: 1.0
+XDaysSince
+ReallyMovesAround
+TravelingAtTheSpeedOfPlot
+TimeTravel
+RealityBreakingParadox

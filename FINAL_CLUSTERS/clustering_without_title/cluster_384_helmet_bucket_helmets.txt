@@ -1,0 +1,7 @@
+384: helmet_bucket_helmets
+score: 1.0
+BucketHelmet
+FantasyHelmetEnforcement
+CoolHelmet
+CollapsibleHelmet
+HelmetsAreHardlyHeroic

@@ -1,0 +1,8 @@
+397: genre_savvy_wrong
+score: 0.9992033364056062
+GenreBlindness
+GenreSavvy
+YouWatchTooMuchX
+GenreRefugee
+GenreBlind
+WrongGenreSavvy

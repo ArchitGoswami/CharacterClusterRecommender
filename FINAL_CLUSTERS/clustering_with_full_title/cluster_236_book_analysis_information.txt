@@ -1,0 +1,9 @@
+236: book_analysis_information
+score: 0.9869226382974207
+ReadingTheEnemysMail
+AncientKeeper
+GreatBigBookOfEverything
+BigBookOfEverything
+MonsterCompendium
+AwesomenessByAnalysis
+AwesomeByAnalysis

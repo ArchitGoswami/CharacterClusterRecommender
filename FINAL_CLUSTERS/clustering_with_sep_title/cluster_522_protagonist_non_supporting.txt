@@ -1,0 +1,8 @@
+522: protagonist_non_supporting
+score: 0.9887819978255906
+SupportingProtagonist
+NonPOVProtagonist
+NonProtagonistResolver
+TheProtagonist
+StumbledIntothePlot
+Protagonist

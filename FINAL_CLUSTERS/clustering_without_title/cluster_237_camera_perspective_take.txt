@@ -1,0 +1,21 @@
+237: camera_perspective_take
+score: 0.8140500137750972
+CameraFiend
+VertigoEffect
+StockFootageFailure
+PovCam
+DepthDeception
+DrivingADesk
+HiMom
+AsideGlance
+MagicalSecurityCam
+ForcedPerspective
+UnrevealAngle
+ReactionShot
+OffscreenRealityWarp
+BulletTime
+FirstPersonPerspective
+POVCam
+DoubleTake
+CameraAbuse
+PerspectiveMagic

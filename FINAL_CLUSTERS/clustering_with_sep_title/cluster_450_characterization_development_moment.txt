@@ -1,0 +1,17 @@
+450: characterization_development_moment
+score: 0.7643375166626443
+CharacterExaggeration
+CharacterDerailment
+CharacterisationMarchesOn
+CharacterisationClickMoment
+CharacterizationMarchesOn
+CharacterCheck
+CharacterizationClickMoment
+RoundedCharacter
+CircularCharacterArc
+CharacterDevelopment
+CharacterArc
+DependingOnTheWriter
+ReplacementFlatCharacter
+CharacterRerailment
+StaticCharacter

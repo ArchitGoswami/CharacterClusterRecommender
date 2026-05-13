@@ -1,0 +1,9 @@
+Average Score: 0.2529999911785126
+CombatReferee
+ObviousRulePatch
+EveryoneHasStandards
+VowOfCelibacy
+FlawlessToken
+RuleNumberOne
+SwearJar
+EverybodyHasStandards

@@ -1,0 +1,16 @@
+74: token_minority_generic
+score: 0.7377787626258073
+TheGenericGuy
+FiveTokenBand
+MultinationalTeam
+TwoferTokenMinority
+TokenMinorityCouple
+TokenWhite
+TheGenericGirl
+GenericGuy
+TokenNonHuman
+TokenBlack
+TokenEnemyMinority
+TokenMinority
+TokenHeroicOrc
+BlackGirlDiesFirst

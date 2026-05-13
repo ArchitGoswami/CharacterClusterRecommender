@@ -1,0 +1,9 @@
+328: related_adaptation_relative
+score: 0.9736288154553167
+PhonyRelative
+RelativelyFlimsyExcuse
+MistakenForRelated
+RealLifeRelative
+UnrelatedInTheAdaptation
+AmbiguouslyRelated
+RelatedInTheAdaptation

@@ -1,0 +1,7 @@
+491: redemption_life_villain
+score: 1.0
+DeathEqualsRedemption
+RedemptionRejection
+RedemptionEarnsLife
+RedemptionEqualsLife
+HeelFaceDoorSlam

@@ -1,0 +1,20 @@
+284: tattoo_mark_tattoos
+score: 0.5924000018732882
+PowerTattoo
+KnuckleTattoos
+IntimateMarks
+HumanNotepad
+StoryboardBody
+ClaimedByTheSupernatural
+FacialMarkings
+TattooAsCharacterType
+TattooedCrook
+MarkOfTheBeast
+TheWorseningCurseMark
+AnimatedTattoo
+DistinguishingMark
+MarkedChange
+ScannableMan
+EmbarrassingTattoo
+BodyMotifs
+MarkOfShame

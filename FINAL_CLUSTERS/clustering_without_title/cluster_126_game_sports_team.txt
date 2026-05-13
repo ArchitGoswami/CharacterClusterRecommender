@@ -1,0 +1,29 @@
+126: game_sports_team
+score: 0.48155088773973526
+ChallengeSeeker
+GameOfChicken
+UnsportsmanlikeGloating
+ATasteOfDefeat
+OneSeasonAthlete
+AudacityEarnsApproval
+RugbyIsSlaughter
+HomeFieldAdvantage
+EliteAthletesAgingAngst
+PopularityPower
+FootballHooligans
+BestOutOfInfinity
+PlayedBallInCollege
+BaseballEpisode
+CheatersNeverProsper
+SoccerHatingAmericans
+ThrowingTheFight
+CavalierCompetitor
+CompetitionFreak
+BrokenWinLossStreak
+GoingHomeAgain
+PomPomGirl
+GameOfNerds
+GretzkyHasTheBall
+AthleticallyChallenged
+ExtracurricularEnthusiast
+ObsessiveSportsFan

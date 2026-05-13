@@ -1,0 +1,7 @@
+448: explain_time_oh
+score: 1.0
+ExplainExplainOhCrap
+EurekaMoment
+UnnecessaryTimePrecision
+NoTimeToExplain
+CantSpitItOut

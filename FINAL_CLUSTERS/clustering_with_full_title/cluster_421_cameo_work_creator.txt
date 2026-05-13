@@ -1,0 +1,9 @@
+421: cameo_work_creator
+score: 0.9596735581999448
+CreatorCameo
+CrossoverCameo
+TheCameo
+EarlyBirdCameo
+RemakeCameo
+ProductionForeshadowing
+CompanyCrossReferences

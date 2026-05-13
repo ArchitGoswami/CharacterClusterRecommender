@@ -1,0 +1,10 @@
+111: base_lair_supervillain
+score: 0.9469334288515527
+ElaborateUndergroundBase
+IslandBase
+HomeBase
+WhereDoesHeGetAllThoseWonderfulToys
+SupervillainLair
+LandmarkingTheHiddenBase
+EvilLair
+ConvenientWeaknessPlacement

@@ -1,0 +1,7 @@
+326: party_crutch_player
+score: 1.0
+TheOneWithAPersonalLife
+AssistCharacter
+CrutchCharacter
+GuestStarPartyMember
+NonPlayerCompanion

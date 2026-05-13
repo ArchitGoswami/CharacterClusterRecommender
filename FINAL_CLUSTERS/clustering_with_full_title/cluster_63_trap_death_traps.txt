@@ -1,0 +1,8 @@
+63: trap_death_traps
+score: 0.9166327232165926
+TrappedTheWrongTarget
+SchmuckBait
+DeathCourse
+KaizoTrap
+TrapMaster
+BoobyTrap

@@ -1,0 +1,7 @@
+492: pun_intended_speaker
+score: 1.0
+NoPunIntended
+LamePunReaction
+AccidentalPun
+WordSaladHumour
+PungeonMaster

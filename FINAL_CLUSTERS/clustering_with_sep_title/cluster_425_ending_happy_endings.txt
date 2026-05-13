@@ -1,0 +1,22 @@
+425: ending_happy_endings
+score: 0.8051713218310586
+BadEnding
+AmbiguousEnding
+DownerEnding
+EarnYourBadEnding
+TheBadGuyWins
+MultipleEndings
+BelatedHappyEnding
+BitterSweetEnding
+TheLastOfTheseIsNotLikeTheOthers
+GoldenEnding
+BittersweetEnding
+BolivianArmyEnding
+SurprisinglyHappyEnding
+EarnYourHappyEnding
+HappyEndingOverride
+CruelTwistEnding
+TheBadGuyWIns
+OnlyTheLeadsGetADownerEnding
+HappyEnding
+RayOfHopeEnding

@@ -1,0 +1,9 @@
+70: game_challenge_games
+score: 0.9894056357585842
+PeninsulaOfPowerLeveling
+NintendoHard
+OneHundredPercentCompletion
+ChallengeGamer
+EasyLevelTrick
+RPGElements
+SelfImposedChallenge

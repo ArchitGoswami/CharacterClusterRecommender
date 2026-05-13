@@ -1,0 +1,23 @@
+184: personality_mirror_split
+score: 0.9166891087767193
+SplitPersonality
+LiteralSplitPersonality
+SplitPersonalitySwitchTrigger
+MindHive
+FlipPersonality
+MirrorCharacter
+DittoFighter
+MirrorUniverse
+FusionDance
+PsychologicalCombat
+NotHimself
+NotHerself
+MirroringFactions
+MirrorSelf
+SplitPersonalityTakeover
+DoppelgangerGetsSameSentiment
+SplitPersonalityMerge
+MirrorMatch
+MultipleHeadCase
+LiteralsplitPersonality
+PsychologicalProjection

@@ -1,0 +1,7 @@
+520: bleep_tongue_sound
+score: 1.0
+TongueTied
+BleepDammit
+CensoredForComedy
+SoundEffectBleep
+ClusterBleepBomb

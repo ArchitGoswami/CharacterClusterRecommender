@@ -1,0 +1,8 @@
+358: popular_school_unpopular
+score: 0.9999544080395483
+UnconvincinglyUnpopularCharacter
+GenkiBoy
+SchoolIdol
+PopularIsEvil
+CoolLoser
+ClassReunion

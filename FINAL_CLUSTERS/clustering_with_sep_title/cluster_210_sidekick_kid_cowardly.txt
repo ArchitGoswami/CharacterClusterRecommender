@@ -1,0 +1,13 @@
+210: sidekick_kid_cowardly
+score: 0.8464922230649649
+PsychoSidekick
+OlderSidekick
+KidSidekick
+CowardlySidekick
+Sidekick
+BumblingSidekick
+RecklessSidekick
+TalkingApplianceSidekick
+AllUpToYou
+DeadSidekick
+RudeHeroNiceSidekick

@@ -1,0 +1,16 @@
+90: personality_mirror_split
+score: 0.7883551014363438
+SplitPersonalityTakeover
+SplitPersonalitySwitchTrigger
+LiteralSplitPersonality
+SplitPersonalityMerge
+PsychologicalProjection
+LiteralsplitPersonality
+MirrorCharacter
+MirrorMatch
+MirrorSelf
+GollumMadeMeDoIt
+MultipleHeadCase
+DoppelgangerGetsSameSentiment
+FusionDance
+SplitPersonality

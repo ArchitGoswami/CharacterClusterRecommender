@@ -1,0 +1,8 @@
+212: plant_mushroom_aliens
+score: 0.9988530984478814
+BotanicalAbomination
+FungusHumongous
+ManEatingPlant
+PlantAliens
+MuckMonster
+MushroomMan

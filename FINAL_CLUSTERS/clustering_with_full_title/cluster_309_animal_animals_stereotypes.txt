@@ -1,0 +1,12 @@
+309: animal_animals_stereotypes
+score: 0.9088927270633101
+AnimalWrongsGroup
+SpeciesSubversives
+FurryReminder
+AnimalThemedSuperBeing
+AnimalMotifs
+AnimalMotif
+AnimalMetaphor
+AnimalStereotypes
+AnimalSweetOnObject
+AnimalThemedSuperbeing

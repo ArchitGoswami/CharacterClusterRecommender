@@ -1,0 +1,10 @@
+300: magic_stage_magician
+score: 0.8854963318159406
+ImpossiblyAwesomeMagicTrick
+MagiciansAreWizards
+ClarkesThirdLaw
+FakeWizardry
+WrongContextMagic
+StageMagician
+StageMagic
+IneptMage

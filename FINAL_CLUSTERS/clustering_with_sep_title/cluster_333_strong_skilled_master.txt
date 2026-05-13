@@ -1,0 +1,12 @@
+333: strong_skilled_master
+score: 0.9523566184489971
+JackOfAllStats
+StrongButUnskilled
+MasterOfNone
+WorldsBestCharacter
+ToBeAMaster
+MasterOfAll
+StrongAndSkilled
+SkilledAndStrong
+UnskilledButStrong
+WorldsStrongestWoman

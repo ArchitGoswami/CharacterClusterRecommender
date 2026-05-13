@@ -1,0 +1,7 @@
+84: imaginary_imagination_friend
+score: 1.0
+MsImagination
+NotSoImaginaryFriend
+MrImagination
+ImaginaryEnemy
+ImaginaryFriend

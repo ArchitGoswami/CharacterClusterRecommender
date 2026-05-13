@@ -1,0 +1,10 @@
+604: crime_case_evidence
+score: 0.9826709839097889
+JuryAndWitnessTampering
+AccompliceByInaction
+OpenAndShutCase
+MiscarriageOfJustice
+ClearTheirName
+AdvanceNoticeCrime
+ChronicEvidenceRetentionSyndrome
+FallGuy

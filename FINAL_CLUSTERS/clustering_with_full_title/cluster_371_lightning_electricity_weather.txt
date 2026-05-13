@@ -1,0 +1,20 @@
+371: lightning_electricity_weather
+score: 0.7955447494364439
+StaticElectricity
+MeteorSummoningAttack
+PsychoElectro
+StaticStunGun
+WeatherControlMachine
+ElectricJoybuzzer
+FastAsLightning
+WeatherManipulation
+BlowYouAway
+ElectricSlide
+ElectrifiedBathtub
+LightningCanDoAnything
+ShockandAwe
+HarmlessElectrocution
+HighVoltageDeath
+RideTheLightning
+ShockAndAwe
+LightningGun

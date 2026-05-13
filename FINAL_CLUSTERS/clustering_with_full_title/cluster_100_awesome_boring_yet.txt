@@ -1,0 +1,10 @@
+100: awesome_boring_yet
+score: 0.9585316367745109
+BoringYetPractical
+QuirkyWork
+SeriousBusiness
+SimpleYetAwesome
+BoringButPractical
+IncrediblyLameFun
+MundaneMadeAwesome
+TheWorldIsJustAwesome

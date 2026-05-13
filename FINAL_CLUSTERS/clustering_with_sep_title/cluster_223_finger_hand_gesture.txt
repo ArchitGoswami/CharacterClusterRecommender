@@ -1,0 +1,18 @@
+223: finger_hand_gesture
+score: 0.6105357513469857
+DustingOffYourHands
+FlippingTheBird
+GivingSomeoneThePointerFinger
+DeclarativeFinger
+HandSignals
+GoodLuckGesture
+BicepPolishingGesture
+HandRubbing
+ShyFingerTwiddling
+PstandardPsychicPstance
+AffectionateGestureToTheHead
+HandSeals
+SillyMeGesture
+LyingFingerCross
+FingerTenting
+HandBehindHead

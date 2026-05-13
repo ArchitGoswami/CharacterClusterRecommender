@@ -1,0 +1,9 @@
+257: elephants_hippos_elephant
+score: 0.978618790420165
+HonorableElephant
+CruelElephant
+AngryAngryHippos
+HuggyHuggyHippos
+VolatileTasmanianDevil
+WarElephants
+LandDownUnder

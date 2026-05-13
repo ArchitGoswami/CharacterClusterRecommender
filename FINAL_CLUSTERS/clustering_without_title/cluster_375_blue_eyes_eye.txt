@@ -1,0 +1,9 @@
+375: blue_eyes_eye
+score: 0.9796884873885355
+EyeColourChange
+BlueWithShock
+CreepyBlueEyes
+IcyBlueEyes
+OccultBlueEyes
+ElementalEyeColors
+InnocentBlueEyes

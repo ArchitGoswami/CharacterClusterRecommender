@@ -1,0 +1,8 @@
+302: single_mother_parents
+score: 0.9978990861719135
+FirstFatherWins
+SingleParentsAreUndesirable
+StrugglingSingleMother
+StrugglingSingleFather
+GlamorousSingleMother
+SingleMomStripper

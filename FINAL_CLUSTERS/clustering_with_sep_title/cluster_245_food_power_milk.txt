@@ -1,0 +1,7 @@
+245: food_power_milk
+score: 1.0
+PowerupFood
+MarvelousMilk
+BananaPeel
+PowerUpFood
+FantasticFruitsAndVegetables

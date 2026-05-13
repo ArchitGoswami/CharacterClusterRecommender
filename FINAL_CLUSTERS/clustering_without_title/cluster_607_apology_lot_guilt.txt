@@ -1,0 +1,10 @@
+607: apology_lot_guilt
+score: 0.8144124611834969
+ApologyGift
+ApologisesALot
+RejectedApology
+GuiltComplex
+GuiltByAssociationGag
+ApologizesALot
+OrderedApology
+TheUnapologetic

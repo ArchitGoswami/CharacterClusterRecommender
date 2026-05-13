@@ -1,0 +1,11 @@
+120: native_africa_natives
+score: 0.9257280334745892
+TheSavageIndian
+MightyWhitey
+TheChiefsDaughter
+DarkestAfrica
+MagicalNativeAmerican
+HollywoodNatives
+EvilColonialist
+BadassNative
+TarzanBoy

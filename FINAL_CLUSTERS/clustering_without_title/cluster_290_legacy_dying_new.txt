@@ -1,0 +1,8 @@
+290: legacy_dying_new
+score: 0.9806151618401738
+SecondComing
+DyingToBeReplaced
+LegacyCharacter
+StartingANewLife
+ImDyingPleaseTakeMyMacGuffin
+TheAloner

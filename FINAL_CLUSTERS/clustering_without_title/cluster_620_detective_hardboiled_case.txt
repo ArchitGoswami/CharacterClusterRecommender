@@ -1,0 +1,10 @@
+620: detective_hardboiled_case
+score: 0.9960464247309951
+DefectiveDetective
+HardboiledDetective
+ThatOneCase
+MagicianDetective
+CluelessDetective
+BornDetective
+HardBoiledDetective
+AmateurSleuth

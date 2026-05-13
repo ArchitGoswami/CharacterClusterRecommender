@@ -1,0 +1,13 @@
+414: job_security_firing
+score: 0.9510943162671318
+KickedUpstairs
+FiringDay
+ResignedInDisgrace
+ResignationsNotAccepted
+UltimateJobSecurity
+VetinariJobSecurity
+HighTurnoverRate
+InhumanResources
+TakeThisJobAndShoveIt
+GeorgeJetsonJobSecurity
+InsigniaRipOffRitual

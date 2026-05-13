@@ -1,0 +1,13 @@
+42: slave_race_slavery
+score: 0.7487090497778763
+IDieFree
+SlaveryIsASpecialKindOfEvil
+SlaveMook
+HappinessInSlavery
+MadeASlave
+SympatheticSlaveOwner
+ServantRace
+SlaveRace
+SlaveLiberation
+SlaveMooks
+NotUsedToFreedom

@@ -1,0 +1,8 @@
+367: council_villain_hidden
+score: 0.9967999463270593
+KnightsAndKnaves
+OmniscientCouncilOfVagueness
+TheOmniscientCouncilOfVagueness
+HiddenAgendaVillain
+HiddenVillain
+TheDogWasTheMastermind

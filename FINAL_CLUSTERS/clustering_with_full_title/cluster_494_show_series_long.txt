@@ -1,0 +1,11 @@
+494: show_series_long
+score: 0.9592750939896493
+MilestoneCelebration
+UnCancelled
+LongRunnerCastTurnover
+SequelSeries
+UnCanceled
+FinalSeasonCasting
+LongRunner
+MarathonRunning
+NothingIsTheSameAnymore

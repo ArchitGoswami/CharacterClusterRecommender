@@ -1,0 +1,12 @@
+117: parent_son_child
+score: 0.8100016528918836
+LikeASonToMe
+LikeADaughterToMe
+LikeParentLikeChild
+LikeFatherLikeSon
+LikeParentLikeSpouse
+LikeMotherUnlikeDaughter
+LikeParentUnlikeChild
+LikeMotherLikeDaughter
+LikeFatherUnlikeSon
+WhyAreYouNotMySon

@@ -1,0 +1,11 @@
+457: ending_endings_happy
+score: 0.9173780480723281
+HappyEnding
+MultipleEndings
+AndTheAdventureContinues
+EarnYourBadEnding
+RayOfHopeEnding
+BadEnding
+BolivianArmyEnding
+SurprisinglyHappyEnding
+GoldenEnding

@@ -1,0 +1,8 @@
+235: straw_strawman_author
+score: 0.9541981702442756
+StrawmanPolitical
+StrawCharacter
+StrawVulcan
+TheDissenterIsAlwaysRight
+StrawLoser
+StrawmanHasAPoint

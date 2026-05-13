@@ -1,0 +1,9 @@
+296: rat_mice_rodents
+score: 0.9699722426342857
+RodentsOfUnusualSize
+NiceMice
+AdoringThePests
+ResourcefulRodent
+RatMen
+UnpleasantAnimalCounterpart
+YouDirtyRat

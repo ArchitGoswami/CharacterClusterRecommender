@@ -1,0 +1,8 @@
+262: artificial_ai_game
+score: 0.9843480889167378
+ArtificialBrilliance
+LogicBomb
+ArtificialStupidity
+MyRulesAreNotYourRules
+MachineEmpathy
+AIIsACrapshoot

@@ -1,0 +1,8 @@
+29: quest_coupon_fetch
+score: 0.9805688951311157
+TheQuest
+FetchQuest
+GottaCatchEmAll
+PlotCoupon
+KleptomaniacHero
+GottaCatchThemAll

@@ -1,0 +1,16 @@
+141: mecha_robot_super
+score: 0.7301428433885556
+GiantMecha
+MechaExpansionPack
+TransformingVehicle
+MidSeasonUpgrade
+HumongousMecha
+Mecha
+SuperRobotGenre
+MiniMecha
+SuperRobot
+SpectralBodyConstruct
+CombiningMecha
+VerticalMechaFins
+AnimalMecha
+MotionCaptureMecha

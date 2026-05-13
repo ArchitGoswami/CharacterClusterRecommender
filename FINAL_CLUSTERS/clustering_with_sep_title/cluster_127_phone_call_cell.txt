@@ -1,0 +1,17 @@
+127: phone_call_cell
+score: 0.8355020553707262
+HarassingPhoneCall
+PrankCall
+FakeStatic
+PhoneaholicTeenager
+CallingCard
+StatusCellPhone
+CutPhoneLines
+RingRingCrunch
+PhoneAholicTeenager
+NewhartPhonecall
+CommLinks
+PhoneBoothChangingRoom
+TheOperatorsMustBeCrazy
+SelfieFiend
+EvilPhone

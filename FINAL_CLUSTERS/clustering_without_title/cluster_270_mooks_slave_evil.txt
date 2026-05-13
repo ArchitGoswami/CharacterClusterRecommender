@@ -1,0 +1,8 @@
+270: mooks_slave_evil
+score: 0.9895503856551716
+TheMobBossIsScarier
+SlaveMooks
+GoonsJustWantToHaveFun
+SlaveMook
+NotAlwaysEvil
+NoSympathyBetweenMooks

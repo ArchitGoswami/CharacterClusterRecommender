@@ -1,0 +1,28 @@
+161: mentor_student_mentors
+score: 0.6170445443322181
+MentorArchetype
+BigSisterMentor
+RageAgainstTheMentor
+Mentors
+SurpassedTheTeacher
+MentorInSourArmor
+MentorsNewHope
+TheObiWannabe
+CynicalMentor
+MentorOccupationalHazard
+VillainTakesAnInterest
+AntiMentor
+EvilMentor
+BigBrotherMentor
+DeceptiveDisciple
+FairWeatherMentor
+TheMentor
+APupilOfMineUntilHeTurnedToEvil
+HonestAdvisor
+SinkOrSwimMentor
+TheApprentice
+MasterApprenticeChain
+OpposedMentors
+Mentor
+TheOnlyWayTheyWillLearn
+EccentricMentor

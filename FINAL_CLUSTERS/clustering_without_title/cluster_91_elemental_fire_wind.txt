@@ -1,0 +1,19 @@
+91: elemental_fire_wind
+score: 0.9143850380794378
+NonElemental
+FireIceDuo
+DishingOutDirt
+ElementalRivalry
+WeatherManipulation
+FireWaterWind
+ElementalPowers
+ElementNumberFive
+PacifistWind
+HealingWinds
+PowerStereotypeFlip
+ElementalPersonalities
+LightningFireJuxtaposition
+ElementalRockPaperScissors
+ClassicalElementsEnsemble
+BlowYouAway
+MagmaMan

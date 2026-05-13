@@ -1,0 +1,23 @@
+92: fire_flames_elemental
+score: 0.5989329752020719
+SpontaneousHumanCombustion
+HealItWithFire
+WreathedInFlames
+EvilIsBurningHot
+EarlyFireballSpell
+EyebrowsBurnedOff
+FireBreathingWeapon
+Fireballs
+KillItWithFire
+ManOnFire
+ColdFlames
+Hellfire
+IncendiaryExponent
+FlamingMeteor
+HeroismBurnsBright
+OutOfTheInferno
+MadeOfIncendium
+Pyromaniac
+ElementalPunch
+PlayingWithFire
+PyroManiac

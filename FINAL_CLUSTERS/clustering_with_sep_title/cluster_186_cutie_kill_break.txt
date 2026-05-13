@@ -1,0 +1,7 @@
+186: cutie_kill_break
+score: 1.0
+TheCutie
+HealTheCutie
+CorruptTheCutie
+KillTheCutie
+BreakTheCutie

@@ -1,0 +1,13 @@
+67: knight_armor_sir
+score: 0.6795016661868603
+KnightInShiningArmour
+LadyAndKnight
+DarkAgeEurope
+SirVerbALot
+WanderingMinstrel
+SirVerbaLot
+KnightErrant
+TheSquire
+TheDulcineaEffect
+KnightInShiningArmor
+Knighting

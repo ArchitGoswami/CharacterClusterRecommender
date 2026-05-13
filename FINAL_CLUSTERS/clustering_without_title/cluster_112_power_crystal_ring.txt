@@ -1,0 +1,12 @@
+112: power_crystal_ring
+score: 0.8248972559074806
+AmplifierArtifact
+BodyToJewel
+GemEncrusted
+PowerCrystal
+MineralMacGuffin
+MagicalAccessory
+CrystalWeapon
+RingOfPower
+EverythingsBetterWithSparkles
+RingOnANecklace

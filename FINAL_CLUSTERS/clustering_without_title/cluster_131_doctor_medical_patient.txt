@@ -1,0 +1,33 @@
+131: doctor_medical_patient
+score: 0.52680666887127
+SignedUpForTheDental
+FlorenceNightingaleEffect
+DoctorWhomage
+QuackDoctor
+BattleaxeNurse
+MadDoctor
+ShootTheMedicFirst
+ImNotADoctorButIPlayOneOnTV
+DrFeelGood
+HealthcareMotivation
+PatientOfTheWeek
+HealthCareMotivation
+DrFeelgood
+ArtisticLicenseMedicine
+InsuranceFraud
+OpenHeartDentistry
+CreepyPhysical
+BackAlleyDoctor
+NotThatKindOfDoctor
+ComicallyIneptHealing
+MeatgrinderSurgery
+MorallyAmbiguousDoctorate
+SuperDoc
+CombatMedic
+OrderliesAreCreeps
+WorstAid
+MDEnvy
+BandageMummy
+ThePatientHasLeftTheBuilding
+ArtisticLicenceMedicine
+DeadlyDoctor

@@ -1,0 +1,7 @@
+479: personality_adaptational_change
+score: 1.0
+AdaptationalPersonalityChange
+AdaptationalMundanity
+AdaptationalBackstoryChange
+AdaptationPersonalityChange
+AdaptationalAbomination

@@ -1,0 +1,9 @@
+426: rescue_help_unwanted
+score: 0.9782845113341138
+HelpMistakenForAttack
+ThisIsSomethingHesGotToDoHimself
+EmbarrassingRescue
+ShutUpAndSaveMe
+UnwantedRescue
+ComplainingAboutRescuesTheyDontLike
+ConscienceMakesYouGoBack

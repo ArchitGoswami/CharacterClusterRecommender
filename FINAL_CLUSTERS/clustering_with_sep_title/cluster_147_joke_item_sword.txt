@@ -1,0 +1,7 @@
+147: joke_item_sword
+score: 1.0
+PoisonMushroom
+NegativeAbility
+LethalJokeItem
+InfinityPlusOneSword
+JokeWeapon

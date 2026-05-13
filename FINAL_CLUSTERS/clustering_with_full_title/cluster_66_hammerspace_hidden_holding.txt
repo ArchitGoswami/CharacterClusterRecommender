@@ -1,0 +1,13 @@
+66: hammerspace_hidden_holding
+score: 0.8594409658821782
+TrickedOutShoes
+Hammerspace
+TrouserSpace
+TreasureChestCavity
+VictoriasSecretCompartment
+HammerSpace
+HiddenWeapons
+HyperspaceArsenal
+BagOfHolding
+PocketDimension
+UtilityBelt

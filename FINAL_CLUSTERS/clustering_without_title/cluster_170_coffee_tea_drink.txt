@@ -1,0 +1,8 @@
+170: coffee_tea_drink
+score: 0.9634368947923483
+RealMenTakeItBlack
+YouGetMeCoffee
+DrinkBasedCharacterization
+MustHaveCaffeine
+BritsLoveTea
+BadToTheLastDrop

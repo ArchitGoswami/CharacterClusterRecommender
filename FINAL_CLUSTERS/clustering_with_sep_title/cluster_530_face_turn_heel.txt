@@ -1,0 +1,7 @@
+530: face_turn_heel
+score: 1.0
+HeelFaceTurn
+FaceHeelTurn
+HeelFaceBrainwashing
+FaceMonsterTurn
+TemporarilyAVillain

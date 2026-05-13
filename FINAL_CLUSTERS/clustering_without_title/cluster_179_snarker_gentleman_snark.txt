@@ -1,0 +1,8 @@
+179: snarker_gentleman_snark
+score: 0.9820480212583967
+GentlewomanSnarker
+DeadpanSnarker
+WorldOfSnark
+UpperClassWit
+GentlemanSnarker
+DeadPanSnarker

@@ -1,0 +1,37 @@
+316: fight_action_duel
+score: 0.7909305738997668
+VictoryByEndurance
+TeachMeHowToFight
+FightDracula
+BattleOfWits
+DuelBoss
+TheSlowWalk
+HowMuchMoreCanHeTake
+DuelsDecideEverything
+GangInitiationFight
+FightMagnet
+UnderequippedCharge
+ActionHero
+ShootEverythingThatMoves
+OutsideGenreFoe
+WizardDuel
+MutualKill
+CouldHaveBeenMessy
+InterestingSituationDuel
+UltimateShowdownOfUltimateDestiny
+CoolVersusAwesome
+RiggedSpectacleFight
+SniperDuel
+CombatPragmatist
+CombatReferee
+InvoluntaryBattleToTheDeath
+TacticalWithdrawal
+ConservationOfNinjutsu
+ConservationOfNinjitsu
+DoubleKnockout
+CombatPragmatism
+BeatThemAtTheirOwnGame
+WreckedWeapon
+BodyCountCompetition
+ActionHeroine
+LetsYouAndHimFight

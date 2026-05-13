@@ -1,0 +1,6 @@
+Average Score: 0.2714453637599945
+HeroicNeutral
+ChaoticNeutral
+TrueNeutral
+LawfulNeutral
+NeutralInNameOnly

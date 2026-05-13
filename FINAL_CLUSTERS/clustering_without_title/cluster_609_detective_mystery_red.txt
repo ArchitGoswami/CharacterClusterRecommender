@@ -1,0 +1,10 @@
+609: detective_mystery_red
+score: 0.9949301788957303
+RiddleForTheAges
+BatDeduction
+EagleEyeDetection
+DrivingQuestion
+BeAsUnhelpfulAsPossible
+SherlockScan
+RightForTheWrongReasons
+RedHerring

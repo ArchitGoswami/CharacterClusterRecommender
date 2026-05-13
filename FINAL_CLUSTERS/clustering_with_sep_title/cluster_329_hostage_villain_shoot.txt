@@ -1,0 +1,10 @@
+329: hostage_villain_shoot
+score: 0.9678181375112388
+RescueReversal
+ShootTheHostage
+LimaSyndrome
+UnhandThemVillain
+HostageSituation
+PutDownYourGunAndStepAway
+PityTheKidnapper
+ShootTheHostageTaker

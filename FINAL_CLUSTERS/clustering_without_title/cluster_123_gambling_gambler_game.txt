@@ -1,0 +1,17 @@
+123: gambling_gambler_game
+score: 0.6522575243922072
+GoodGuyBar
+BadGuyBar
+CardSharp
+TheGamblingAddict
+TheGambler
+NativeAmericanCasino
+LostHimInACardGame
+VivaLasVegas
+ProfessionalGambler
+IllegalGamblingDen
+GamblingRuinsLives
+FixingTheGame
+CunningPeoplePlayPoker
+NoPokerFace
+GamblersFallacy

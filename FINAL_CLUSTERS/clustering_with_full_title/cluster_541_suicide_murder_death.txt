@@ -1,0 +1,23 @@
+541: suicide_murder_death
+score: 0.6623973367874813
+DrivenToSuicide
+SuicideByCop
+MurderSuicide
+SuicideMission
+BungledSuicide
+NeverSuicide
+GoodbyeCruelWorld
+InterruptedSuicide
+SuicideIsPainless
+SuicideNotMurder
+SpurnedIntoSuicide
+SuicideIsShameful
+SuicideAsComedy
+SuicidePact
+AttemptedSuicide
+TheCoronerDothProtestTooMuch
+HappilyFailedSuicide
+SuicideBySea
+SuicideAttack
+SuicideDare
+SuicideNotAccident

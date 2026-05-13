@@ -1,0 +1,7 @@
+385: robot_super_meter
+score: 1.0
+DoAnythingRobot
+RobotMaster
+SuperPoweredRobotMeterMaids
+EasilyDetachableRobotParts
+SuperPoweredRobotMeterMaid

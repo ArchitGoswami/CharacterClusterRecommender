@@ -1,0 +1,12 @@
+446: discussed_situation_ambiguous
+score: 0.8470844043699189
+ItMakesSenseInContext
+AmbiguousCriminalHistory
+Discussed
+TellMeAgain
+SeinfeldianConversation
+ConversationalTroping
+DiscussedTrope
+AmbiguousSituation
+Discussedtrope
+AmbiguousSyntax

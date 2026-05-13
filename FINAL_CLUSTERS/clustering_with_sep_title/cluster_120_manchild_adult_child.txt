@@ -1,0 +1,7 @@
+120: manchild_adult_child
+score: 1.0
+AdultChild
+Manchild
+WomanChild
+ManChild
+Womanchild

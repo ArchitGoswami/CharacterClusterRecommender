@@ -1,0 +1,12 @@
+263: show_game_reality
+score: 0.8003229347171461
+HomeParticipationSweepstakes
+StatusQuoGameShow
+GameShowHost
+HarshTalentShowJudge
+RealityShow
+ImmoralRealityShow
+NonGameplayElimination
+ThePointsMeanNothing
+GameShowAppearance
+SadisticGameShow

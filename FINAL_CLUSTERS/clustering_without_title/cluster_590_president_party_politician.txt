@@ -1,0 +1,11 @@
+590: president_party_politician
+score: 0.9690407338487742
+EasilyElected
+PenPushingPresident
+AssassinationAttempt
+VicePresidentWho
+BananaRepublic
+OurPresidentsAreDifferent
+NoPartyGiven
+PermanentElectedOfficial
+SleazyPolitician

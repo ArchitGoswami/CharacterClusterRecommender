@@ -1,0 +1,7 @@
+312: eyebrows_evil_disembodied
+score: 1.0
+NoBrows
+UnusualEyebrows
+BigOlEyebrows
+EvilEyebrows
+DisembodiedEyebrows

@@ -1,0 +1,7 @@
+345: evil_rangers_psycho
+score: 1.0
+PsychoRangers
+OpponentSwitch
+LegionOfDoom
+EvilerThanThou
+ThePsychoRangers

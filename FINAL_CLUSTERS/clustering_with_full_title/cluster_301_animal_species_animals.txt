@@ -1,0 +1,23 @@
+301: animal_species_animals
+score: 0.8200026655896095
+CivilizedAnimal
+InformedSpecies
+FunnyAnimal
+FunnyAnimals
+EruditeOrangutan
+IntellectualAnimal
+LionsAndTigersAndHumansOhMy
+IntelligentPrimate
+PartiallyCivilizedAnimal
+PrimalChestPound
+SillySimian
+AmbiguousSpecies
+CivilisedAnimal
+ViewerSpeciesConfusion
+CartoonCreature
+BareBottomedMonkey
+PlayfulOtter
+FurryConfusion
+MischiefMakingMonkey
+FunnyAnimalAnatomy
+ApesInSpace

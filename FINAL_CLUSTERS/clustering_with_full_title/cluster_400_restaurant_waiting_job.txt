@@ -1,0 +1,8 @@
+400: restaurant_waiting_job
+score: 0.9855374877622051
+RestaurantOwningEpisode
+BurgerFool
+WaitingForABreak
+ServiceSectorStereotypes
+WorkOffTheDebt
+UnsatisfiableCustomer

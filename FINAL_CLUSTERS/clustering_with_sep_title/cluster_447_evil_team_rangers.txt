@@ -1,0 +1,7 @@
+447: evil_team_rangers
+score: 1.0
+PsychoRangers
+CounterpartCombatCoordination
+MirroringFactions
+OpponentSwitch
+ThePsychoRangers

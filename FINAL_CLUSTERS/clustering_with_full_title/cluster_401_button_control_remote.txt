@@ -1,0 +1,13 @@
+401: button_control_remote
+score: 0.936141677771738
+DIYDisaster
+DoomItYourself
+OverclockingAttack
+SelfDestructMechanism
+PlotSensitiveButton
+HandyRemoteControl
+TheAllSolvingHammer
+WhatDoesThisButtonDo
+RubeGoldbergDevice
+PercussiveMaintenance
+BigRedButton

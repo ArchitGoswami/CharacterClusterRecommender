@@ -1,0 +1,10 @@
+194: eyes_glowing_eye
+score: 0.9401258704322835
+GlowingEyesOfDoom
+EyeBeams
+GlowingEyelightsOfUndeath
+GlowingEyes
+EyeLaser
+DeadlyGaze
+FireballEyeballs
+EyeLightsOut

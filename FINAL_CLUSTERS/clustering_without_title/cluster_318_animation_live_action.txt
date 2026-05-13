@@ -1,0 +1,22 @@
+318: animation_live_action
+score: 0.7027304881112472
+LiveActionAdaptation
+LiveActionCartoon
+ZanyCartoon
+TwoDVisualsThreeDEffects
+GrossupCloseup
+ThickLineAnimation
+GrossoutShow
+CartoonPhysics
+GrossOutShow
+RogerRabbitEffect
+MediumBlending
+Animesque
+DeliberateVHSQuality
+AnimatedShockComedy
+ToonPhysics
+AnimatedAdaptation
+SpecialEffectsFailure
+StandardSnippet
+WebAnimation
+SpecialEffectFailure

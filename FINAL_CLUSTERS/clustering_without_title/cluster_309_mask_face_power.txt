@@ -1,0 +1,30 @@
+309: mask_face_power
+score: 0.5288711018937429
+MalevolentMaskedMen
+RageHelm
+NixonMask
+InTheHood
+SleepMask
+CoolMask
+NoFaceUnderTheMask
+ExpressiveMask
+FacelessMooks
+MysteriousVeil
+EvilMask
+FacelessGoons
+HockeyMaskAndChainsaw
+DeathlyUnmasking
+WhiteMaskOfDoom
+MaskPower
+PlagueDoctor
+DominoMask
+GasMaskMooks
+BrokenFaceplate
+HiddenEyes
+LatexPerfection
+MaskOfPower
+FullBodyDisguise
+MalevolentMaskedMan
+MaskOfConfidence
+UniformityException
+MaskingTheDeformity

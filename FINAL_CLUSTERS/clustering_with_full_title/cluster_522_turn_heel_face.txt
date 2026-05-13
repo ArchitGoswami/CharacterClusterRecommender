@@ -1,0 +1,11 @@
+522: turn_heel_face
+score: 0.8418292462688013
+HeelFaithTurn
+FaceMonsterTurn
+HeelFaceBrainwashing
+FaceHeelTurn
+TemporarilyAVillain
+HeelFaceReincarnation
+HeelFaceRevolvingDoor
+AmbiguousStartofDarkness
+HeelFaceTurn

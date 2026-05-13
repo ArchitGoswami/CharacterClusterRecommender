@@ -1,0 +1,17 @@
+399: episode_opening_montage
+score: 0.8484794894715281
+StockFootage
+Montage
+ColdOpen
+BaitAndSwitchCredits
+EstablishingShot
+ColdOpening
+LiveEpisode
+DocumentaryEpisode
+PhotoMontage
+OpeningNarration
+FightScene
+ClipShow
+EpisodeDiscussionScene
+TheTeaser
+TravelMontage

@@ -1,0 +1,10 @@
+282: heroic_bsod_fatigue
+score: 0.8047306667056262
+HeroicSafeMode
+RoboticReveal
+HeroicBsod
+HeroicBSoD
+HeroicRROD
+TenMinuteRetirement
+HeroicBSOD
+HeroicFatigue

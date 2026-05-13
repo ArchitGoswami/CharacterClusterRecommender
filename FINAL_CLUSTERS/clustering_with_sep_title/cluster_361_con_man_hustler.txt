@@ -1,0 +1,9 @@
+361: con_man_hustler
+score: 0.920602954731482
+KansasCityShuffle
+TheCon
+Hustler
+ConArtist
+ConsummateProfessional
+ConWoman
+ConMan

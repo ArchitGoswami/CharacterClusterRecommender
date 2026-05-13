@@ -1,0 +1,14 @@
+397: con_man_artist
+score: 0.6201367100643566
+TheCon
+ExpertConsultant
+ConArtist
+ConsummateProfessional
+TheBarnum
+ShadyRealEstateAgent
+TheFixer
+ConWoman
+KansasCityShuffle
+CrookedContractor
+Hustler
+ConMan

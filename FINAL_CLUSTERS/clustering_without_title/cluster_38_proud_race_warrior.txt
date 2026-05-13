@@ -1,0 +1,7 @@
+38: proud_race_warrior
+score: 1.0
+ProudWarriorRaceGuy
+ProudWarriorRaceGirl
+HaveIMentionedIAmADwarfToday
+BloodKnight
+ProudWarriorRace

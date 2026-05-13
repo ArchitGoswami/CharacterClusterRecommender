@@ -1,0 +1,14 @@
+168: earth_house_people
+score: 0.9130260502817245
+WanderingTheEarth
+BigFancyHouse
+WalkingTheEarth
+WrongSideOfTheTracks
+TrashyTrailerHome
+HorribleHousing
+WalkTheEarth
+DyingTown
+FriendsRentControl
+Hobos
+LivesInAVan
+NotInMyBackyard

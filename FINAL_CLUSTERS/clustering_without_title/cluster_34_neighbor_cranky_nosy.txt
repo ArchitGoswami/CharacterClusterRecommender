@@ -1,0 +1,10 @@
+34: neighbor_cranky_nosy
+score: 0.9496989695003777
+CrankyNeighbour
+TrespassingToTalk
+CrankyNeighbor
+NosyNeighbour
+DropInCharacter
+TheThingThatWouldNotLeave
+NosyNeighbor
+GildedCage

@@ -1,0 +1,7 @@
+244: time_travel_loop
+score: 1.0
+ExplodingCalendar
+GroundhogDayLoop
+GroundhogPeggySue
+TimeTravelEpisode
+SetRightWhatOnceWentWrong

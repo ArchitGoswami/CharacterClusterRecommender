@@ -1,0 +1,10 @@
+Average Score: 0.25654885172843933
+DungeonCrawling
+CoolBike
+Flight
+JumpPhysics
+SuperpersistentPredator
+CuriosityIsACrapshoot
+SuperPersistentPredator
+RunningOnAllFours
+BoldExplorer

@@ -1,0 +1,9 @@
+210: knight_sour_good
+score: 0.9454030402531942
+KnightInSourArmour
+GoodIsOldFashioned
+BloodKnight
+KnightInSourArmor
+BewareTheHonestOnes
+KnightinSourArmor
+TheChampion

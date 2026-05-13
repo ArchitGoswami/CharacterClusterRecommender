@@ -1,0 +1,7 @@
+429: twitch_eye_tic
+score: 1.0
+CharacterTic
+TwitchyEye
+EyeTwitch
+QuiveringEyes
+CharacterTics

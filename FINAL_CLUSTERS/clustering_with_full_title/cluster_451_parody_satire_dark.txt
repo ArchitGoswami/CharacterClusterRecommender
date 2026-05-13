@@ -1,0 +1,12 @@
+451: parody_satire_dark
+score: 0.8419261292672628
+StealthParody
+ParodySue
+DeconstructiveParody
+SatireParodyPastiche
+DarkParody
+Satire
+ParodyDisplacement
+Parody
+SelfParody
+AffectionateParody

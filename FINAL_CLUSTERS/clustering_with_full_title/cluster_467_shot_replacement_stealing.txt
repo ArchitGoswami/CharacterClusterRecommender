@@ -1,0 +1,15 @@
+467: shot_replacement_stealing
+score: 0.8797580907748318
+DemotedToExtra
+DemotedToComicRelief
+ReplacementScrappy
+EnsembleCast
+CharacterFocus
+MorePopularReplacement
+IconicSequelCharacter
+OneShotCharacter
+SpotLightStealingSquad
+CharacterOfTheDay
+SpotlightStealingSquad
+SuspiciouslySimilarSubstitute
+DemotedtoExtra

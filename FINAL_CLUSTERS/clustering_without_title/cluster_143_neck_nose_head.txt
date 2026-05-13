@@ -1,0 +1,15 @@
+143: neck_nose_head
+score: 0.9289379568118546
+SinisterSchnoz
+GagNose
+LanternJawOfJustice
+SkullForAHead
+SuddenAnatomy
+ThinChinOfSin
+NoNeckChump
+CheatedAngle
+ShrunkenHead
+VillainousCheekbones
+LongNeck
+ExpressiveSkull
+ForeheadOfDoom

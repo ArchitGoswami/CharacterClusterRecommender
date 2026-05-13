@@ -1,0 +1,9 @@
+569: death_sentence_die
+score: 0.9899515683407589
+DeathByOriginStory
+CheatedDeathDiedAnyway
+DyingSpeech
+CharacterDeath
+UndignifiedDeath
+PlotTriggeringDeath
+KilledMidSentence

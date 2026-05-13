@@ -1,0 +1,15 @@
+269: mook_mooks_elite
+score: 0.7895568211723965
+EliteMooks
+MascotMook
+Mook
+GiantMook
+Mooks
+HelpfulMook
+EliteMook
+MiniMook
+EnemySummoner
+PlantMooks
+StealthyMook
+NightOfTheLivingMooks
+KingMook

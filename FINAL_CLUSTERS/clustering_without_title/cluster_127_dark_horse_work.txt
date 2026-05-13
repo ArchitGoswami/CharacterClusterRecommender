@@ -1,0 +1,7 @@
+127: dark_horse_work
+score: 1.0
+EnsembleDarkhorse
+DarkhorseVictory
+EnsembleDarkHorse
+PutMeInCoach
+DarkHorseVictory

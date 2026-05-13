@@ -1,0 +1,7 @@
+407: job_new_demands
+score: 1.0
+NewJobEpisode
+NewJobsAsThePlotDemands
+WhyDoYouKeepChangingJobs
+NewJobasthePlotDemands
+NewJobAsThePlotDemands

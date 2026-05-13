@@ -1,0 +1,9 @@
+329: strongest_world_man
+score: 0.9767843042964782
+TheBrute
+StockShonenHero
+ThugDojo
+WorldsBestWarrior
+WorldsStrongestMan
+PaperTiger
+WorldsStrongestWoman

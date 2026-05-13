@@ -1,0 +1,10 @@
+179: hologram_disguise_light
+score: 0.941995849407304
+MasterOfIllusion
+HardLight
+ModelPlanning
+HolographicDisguise
+ElectromagneticGhosts
+Hologram
+ProjectedMan
+CrystalBall

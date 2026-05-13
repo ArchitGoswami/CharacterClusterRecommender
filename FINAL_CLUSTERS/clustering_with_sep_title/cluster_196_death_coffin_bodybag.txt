@@ -1,0 +1,13 @@
+196: death_coffin_bodybag
+score: 0.9559435326494218
+ThrownOutTheAirlock
+CoffinContraband
+DeathThrows
+WhatADrag
+BodybagTrick
+DeathByFallingOver
+LookBothWays
+CarpetRolledCorpse
+PunkInTheTrunk
+BagofKidnapping
+TarAndFeathers

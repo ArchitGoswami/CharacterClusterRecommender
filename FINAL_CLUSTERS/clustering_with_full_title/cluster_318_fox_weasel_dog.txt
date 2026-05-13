@@ -1,0 +1,8 @@
+318: fox_weasel_dog
+score: 0.9930632610320305
+FriskyFerret
+BigFriendlyDog
+WeaselMascot
+BullyBulldog
+CunningLikeAFox
+FoulFox

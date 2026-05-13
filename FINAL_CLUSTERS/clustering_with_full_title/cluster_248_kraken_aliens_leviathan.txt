@@ -1,0 +1,7 @@
+248: kraken_aliens_leviathan
+score: 1.0
+TentacledTerror
+StockNessMonster
+KrakenAndLeviathan
+OctopoidAliens
+Cthulhumanoid

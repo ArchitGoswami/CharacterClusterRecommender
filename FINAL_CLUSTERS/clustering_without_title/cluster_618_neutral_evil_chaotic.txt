@@ -1,0 +1,10 @@
+618: neutral_evil_chaotic
+score: 0.9376482735252551
+LawfulNeutral
+TrueNeutral
+LawfulEvil
+ChaoticNeutral
+ChaoticGood
+CharacterAlignment
+HazyFeelTurn
+ChaoticEvil

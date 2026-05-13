@@ -1,0 +1,8 @@
+632: token_good_evil
+score: 0.9961620381698265
+TokenEvilTeammate
+TokenGoodTeammate
+TokenEvilTeamMate
+WildCard
+TokenGoodTeamMate
+AntiHeroTeam

@@ -1,0 +1,11 @@
+483: gag_running_list
+score: 0.7875466003690881
+RunningGags
+TheLongList
+RunningJoke
+OverusedRunningGag
+LongList
+OverlyLongGag
+RunningGag
+ChekhovsGag
+RunningGagged

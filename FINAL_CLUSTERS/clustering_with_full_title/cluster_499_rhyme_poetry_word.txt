@@ -1,0 +1,12 @@
+499: rhyme_poetry_word
+score: 0.8665976729883365
+LeastRhymableWord
+SubvertedRhymeEveryOccasion
+BawdySong
+Poetry
+PainfulRhyme
+Limerick
+RhymesOnADime
+RhymingWizardry
+MagicalIncantation
+LameRhymeDodge

@@ -1,0 +1,7 @@
+533: gag_running_joke
+score: 1.0
+RunningGags
+OverusedRunningGag
+RunningGag
+RunningJoke
+RunningGagged

@@ -1,0 +1,18 @@
+316: staff_weapon_magic
+score: 0.7428355543553529
+Boomstick
+ClassyCane
+BoomStick
+BattleBaton
+BroomstickQuarterstaff
+CaneFu
+MartialArtsStaff
+TelescopingStaff
+LawmanBaton
+ShockStick
+SwordCane
+MagicStaff
+XOnAStick
+StaffOfAuthority
+MagicWand
+RetractableWeapon

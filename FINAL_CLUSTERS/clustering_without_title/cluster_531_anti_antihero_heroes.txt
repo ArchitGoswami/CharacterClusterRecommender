@@ -1,0 +1,8 @@
+531: anti_antihero_heroes
+score: 0.97336389913283
+ClassicalAntihero
+AntiVillain
+ClassicalAntiHero
+AntiHero
+NominalHero
+Antihero

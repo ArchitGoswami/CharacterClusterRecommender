@@ -1,0 +1,7 @@
+334: fire_hellfire_flames
+score: 1.0
+HeroismBurnsBright
+Hellfire
+PlayingWithFire
+IncendiaryExponent
+WreathedInFlames

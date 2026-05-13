@@ -1,0 +1,7 @@
+345: hit_attack_kill
+score: 1.0
+OneHitKill
+DeathOrGloryAttack
+OneHitPointWonder
+OneHitKO
+HPToOne

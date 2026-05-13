@@ -1,0 +1,13 @@
+182: mind_control_world
+score: 0.9313138966131603
+MindControl
+MindManipulation
+JourneyToTheCentreOfTheMind
+MentalWorld
+MindProbe
+JourneyToTheCenterOfTheMind
+MindScrew
+LotusEaterMachine
+PsychicBlockDefense
+ThinkingTic
+BattleInTheCenterOfTheMind

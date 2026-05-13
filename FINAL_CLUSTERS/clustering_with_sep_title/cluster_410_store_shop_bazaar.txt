@@ -1,0 +1,7 @@
+410: store_shop_bazaar
+score: 1.0
+SeverelySpecializedStore
+OnlyShopInTown
+BazaarOfTheBizarre
+WeSellEverything
+MobileKiosk

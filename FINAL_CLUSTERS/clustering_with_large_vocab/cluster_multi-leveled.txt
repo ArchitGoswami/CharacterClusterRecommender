@@ -1,0 +1,8 @@
+Average Score: 0.231475830078125
+PowerLevels
+ThisIsWrongOnSoManyLevels
+CharacterClassSystem
+EasyLevelTrick
+PowerLevel
+CharacterClass
+BrutalBonusLevel

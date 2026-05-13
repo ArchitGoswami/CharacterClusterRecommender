@@ -1,0 +1,26 @@
+346: attack_hit_curb
+score: 0.6801129053550455
+CurbStompBattle
+PsychologicalCombat
+FinishingMove
+DrawAggro
+DeadlyDodging
+YouWillNotEvadeMe
+YouShallNotEvadeMe
+ChargedAttack
+ThrowingDownTheGauntlet
+GoThroughMe
+CurbstompBattle
+OneHitKO
+UnnecessaryCombatRoll
+PersonalSpaceInvader
+AttackAttackRetreatRetreat
+CounterAttack
+InTheBack
+RingOut
+HerdHittingAttack
+IAmYourOpponent
+DeathOrGloryAttack
+CurbStomp
+BackStab
+OneHitKill

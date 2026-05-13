@@ -1,0 +1,22 @@
+485: finale_cliffhanger_series
+score: 0.804989202380453
+DistantFinale
+Bookends
+WhereAreTheyNowEpilogue
+WhereAreTheyNow
+GrandFinale
+BookEnds
+CutShort
+LeftHanging
+CliffHanger
+EndOfSeriesAwareness
+LiteralCliffHanger
+GeckoEnding
+SeriesFinale
+SeasonFinale
+BookEnd
+WhatNowEnding
+LiteralCliffhanger
+ToBeContinued
+Cliffhanger
+TrashTheSet

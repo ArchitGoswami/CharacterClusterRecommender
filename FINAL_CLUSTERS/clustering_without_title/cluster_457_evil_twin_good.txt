@@ -1,0 +1,9 @@
+457: evil_twin_good
+score: 0.887036439071985
+EvilTwin
+KillAndReplace
+ImpersonatingTheEvilTwin
+OddballDoppelganger
+SendInTheClones
+Doppelganger
+GoodTwin

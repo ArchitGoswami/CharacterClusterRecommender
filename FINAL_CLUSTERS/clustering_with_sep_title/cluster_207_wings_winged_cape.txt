@@ -1,0 +1,13 @@
+207: wings_winged_cape
+score: 0.79706213031716
+WingedHumanoid
+GoodWingsEvilWings
+WingsDoNothing
+RidiculouslySmallWings
+HeliCritter
+MercurysWings
+IcarusAllusion
+StationaryWings
+CapeWings
+HotWings
+PowerGivesYouWings

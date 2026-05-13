@@ -1,0 +1,10 @@
+250: skilled_strong_unskilled
+score: 0.9453238803926043
+JackOfAllStats
+UnskilledButStrong
+StrongAndSkilled
+VictorGainsLosersPowers
+MasterOfAll
+WeakButSkilled
+StrongButUnskilled
+SkilledAndStrong

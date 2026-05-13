@@ -1,0 +1,20 @@
+465: know_told_oblivious
+score: 0.8335643516703062
+ObliviousToHints
+INeverToldYouMyName
+OrSoIHeard
+IllPretendIDidntHearThat
+HaveYouToldAnyoneElse
+ObliviousToTheirOwnDescription
+HaveYouToldAnyOneElse
+LittleDidIKnow
+ObliviousToHisOwnDescription
+WeWouldHaveToldYouBut
+AsYouKnow
+IfOnlyYouKnew
+YouKnowTheOne
+IKnewThereWasSomethingAboutYou
+YouDidntAsk
+YouDoNotWantToKnow
+EasilyOverheardConversation
+YouJustToldMe

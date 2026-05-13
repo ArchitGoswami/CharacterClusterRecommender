@@ -1,0 +1,17 @@
+336: news_media_school
+score: 0.8285708375577282
+OffTheRecord
+SchoolNewspaperNewsHound
+GoingForTheBigScoop
+ImmoralJournalist
+EndangeringNewsBroadcast
+SocialMediaBeforeReason
+DeadlineNews
+OnlyInFlorida
+IfItBleedsitLeads
+DaEditor
+ExtraExtraReadAllAboutIt
+WorstNewsJudgementEver
+IntrepidReporter
+SchoolNewspaperNewshound
+IfItBleedsItLeads

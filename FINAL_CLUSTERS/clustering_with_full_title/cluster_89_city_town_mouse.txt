@@ -1,0 +1,15 @@
+89: city_town_mouse
+score: 0.8688248950142035
+FromNewYorkToNowhere
+CityMouse
+ManOfTheCity
+OnlyShopInTown
+LocalHangOut
+LandOfOneCity
+SmallTownRivalry
+StepfordSuburbia
+EccentricTownsfolk
+SmallTownBoredom
+MayorOfAGhostTown
+CountryMouse
+LocalHangout

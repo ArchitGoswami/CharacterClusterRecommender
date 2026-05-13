@@ -1,0 +1,9 @@
+454: leader_demoted_leadership
+score: 0.975344852966117
+SelfAppointedLeader
+DelayedLeadershipAscendance
+TheLeader
+GracefullyDemoted
+StillTheLeader
+ShortLivedLeadership
+QuicklyDemotedLeader

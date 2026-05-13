@@ -1,0 +1,7 @@
+430: take_reaction_frame
+score: 1.0
+ReactionShot
+BlinkAndYouMissIt
+RapidFireTyping
+FreezeFrameBonus
+DoubleTake

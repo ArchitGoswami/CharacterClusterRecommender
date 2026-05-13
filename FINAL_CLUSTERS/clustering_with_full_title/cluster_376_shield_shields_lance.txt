@@ -1,0 +1,7 @@
+376: shield_shields_lance
+score: 1.0
+ShieldBash
+JoustingLance
+KnightlySwordAndShield
+SpecialAbilityShield
+LuckilyMyShieldWillProtectMe

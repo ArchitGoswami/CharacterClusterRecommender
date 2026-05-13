@@ -1,0 +1,10 @@
+256: monkey_monkeys_intelligent
+score: 0.9694990637318361
+ApesInSpace
+MonkeyMoralityPose
+KillerGorilla
+EruditeOrangutan
+ManiacMonkeys
+IntelligentPrimate
+MischiefMakingMonkey
+SonOfAnApe

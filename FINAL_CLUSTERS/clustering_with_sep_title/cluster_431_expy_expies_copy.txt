@@ -1,0 +1,8 @@
+431: expy_expies_copy
+score: 0.9527730603695365
+VirtuousCharacterCopy
+CorruptedCharacterCopy
+Expies
+Expy
+ExpyCoexistence
+FountainOfExpies

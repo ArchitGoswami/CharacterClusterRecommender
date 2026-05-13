@@ -1,0 +1,12 @@
+114: trash_dumpster_closet
+score: 0.886324942499041
+GarbageHideout
+DumpsterDive
+TrashOfTheTitans
+TrashLanding
+DownInTheDumps
+LudicrouslyUnwashedObject
+MenCantKeepHouse
+LivingInAFurnitureStore
+ExplodingCloset
+LitteringIsNoBigDeal

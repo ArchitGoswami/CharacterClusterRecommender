@@ -1,0 +1,20 @@
+271: hug_hugging_affection
+score: 0.6716254781539053
+NowAllowedToHug
+CooldownHug
+TheUnhug
+DeadlyHug
+TheUnHug
+BearHug
+Cuddlebug
+AirHugging
+GroupHug
+HoldingHands
+AffectionHatingKid
+CoolDownHug
+ManHug
+CrushingHandshake
+RealMenHateAffection
+Glomp
+InterruptedCooldownHug
+TheGlomp

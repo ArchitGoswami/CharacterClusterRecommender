@@ -1,0 +1,10 @@
+246: life_goal_purpose
+score: 0.8587464632143297
+CreatureOfHabit
+MissedTheCall
+DesperatelySeekingAPurposeInLife
+DesperatelyLookingForAPurposeInLife
+GaveUpTooSoon
+GoalInLife
+AimlesslySeekingHappiness
+HumbleGoal

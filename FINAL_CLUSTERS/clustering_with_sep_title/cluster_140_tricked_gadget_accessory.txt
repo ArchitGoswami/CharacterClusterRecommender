@@ -1,0 +1,15 @@
+140: tricked_gadget_accessory
+score: 0.8603357069900905
+TrickedOutShoes
+TreasureChestCavity
+MagicalAccessory
+HiddenWeapons
+TrickedOutGloves
+HyperspaceArsenal
+UtilityBelt
+UselessAccessory
+GadgetWatch
+VictoriasSecretCompartment
+BagOfHolding
+TrouserSpace
+SuperWristGadget

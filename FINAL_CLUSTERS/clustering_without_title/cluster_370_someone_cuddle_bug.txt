@@ -1,0 +1,8 @@
+370: someone_cuddle_bug
+score: 0.9906973358796086
+DoesntLikeBeingTouched
+Cuddlebug
+NowAllowedToHug
+LapPillow
+HatesBeingTouched
+CuddleBug

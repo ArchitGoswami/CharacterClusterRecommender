@@ -1,0 +1,10 @@
+231: trap_booby_death
+score: 0.9079820566673287
+DeathCourse
+KaizoTrap
+BucketBoobyTrap
+BoobyTrap
+TrapMaster
+TrappedTheWrongTarget
+TheWallsAreClosingIn
+IndyEscape

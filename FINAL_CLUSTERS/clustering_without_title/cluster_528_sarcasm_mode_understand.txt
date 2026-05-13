@@ -1,0 +1,13 @@
+528: sarcasm_mode_understand
+score: 0.9238791942782716
+SincerityMode
+CannotConveySarcasm
+SarcasmMode
+IWasJustJoking
+Not
+DoesNotUnderstandSarcasm
+AskAStupidQuestion
+LiteralistSnarking
+SarcasmBlind
+YourMother
+AndImTheQueenOfSheba

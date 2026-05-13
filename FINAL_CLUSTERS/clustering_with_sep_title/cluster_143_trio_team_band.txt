@@ -1,0 +1,9 @@
+143: trio_team_band
+score: 0.8795427310482591
+FreudianTrio
+PowerTrio
+EliteFour
+TheTeam
+ThreePlusTwo
+TheThreeFacesOfAdam
+FiveManBand

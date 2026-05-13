@@ -1,0 +1,16 @@
+308: chef_food_cook
+score: 0.7423516613819372
+TheFoodie
+EvilChef
+AngryChef
+CookingDuel
+OrgasmicallyDelicious
+SupremeChef
+OvercomplicatedMenuOrder
+OneNoteCook
+DeepFriedWhatever
+LostFoodGrievance
+CampCook
+ChefOfIron
+TeamChef
+ChubbyChef

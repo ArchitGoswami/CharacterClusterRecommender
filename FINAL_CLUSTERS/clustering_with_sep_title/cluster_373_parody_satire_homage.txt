@@ -1,0 +1,14 @@
+373: parody_satire_homage
+score: 0.7651857119688672
+ParodyDisplacement
+SatireParodyPastiche
+Parody
+SelfParody
+StealthParody
+DarkParody
+Homage
+WholePlotReference
+DeconstructiveParody
+OffToSeeTheWizard
+ParodySue
+Satire

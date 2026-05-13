@@ -1,0 +1,8 @@
+445: question_piercing_armor
+score: 0.990441612945942
+RhetoricalRequestBlunder
+ArmourPiercingQuestion
+MortonsFork
+WhatWereYouThinking
+TrialBalloonQuestion
+ArmorPiercingQuestion

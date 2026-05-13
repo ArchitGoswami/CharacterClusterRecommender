@@ -1,0 +1,7 @@
+273: kryptonite_evil_ability
+score: 1.0
+AdaptiveAbility
+KryptoniteFactor
+KryptoniteProofSuit
+AggressivePlayIncentive
+SuperpoweredEvilSide

@@ -1,0 +1,8 @@
+496: team_son_father
+score: 0.9856850181978306
+TeamMom
+LikeParentLikeChild
+TeamDad
+LikeMotherLikeDaughter
+DesignatedParents
+LikeFatherLikeSon

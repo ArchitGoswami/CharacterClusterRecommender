@@ -1,0 +1,20 @@
+230: chef_food_cook
+score: 0.8914589895503511
+TheFoodie
+AngryChef
+ChubbyChef
+CampCook
+EvilChef
+SupremeChef
+RealMenCook
+LostFoodGrievance
+ThroughHisStomach
+LethalChef
+SweetBaker
+TeamChef
+RealMenCanCook
+ChefOfIron
+DeepFriedWhatever
+OneNoteCook
+MicrowaveMisuse
+ImprobableFoodBudget

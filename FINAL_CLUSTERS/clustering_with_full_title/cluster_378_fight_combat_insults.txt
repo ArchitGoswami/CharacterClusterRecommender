@@ -1,0 +1,18 @@
+378: fight_combat_insults
+score: 0.69155300633009
+Touche
+VolleyingInsults
+IShallTauntYou
+IAmYourOpponent
+AddingInsulttoInjury
+BossBanter
+YouFightLikeACow
+CombatCommentator
+PassiveAggressiveKombat
+TrashTalk
+VerbThis
+BringIt
+VerbalJudo
+PassiveAggressiveCombat
+DrawAggro
+AddingInsultToInjury

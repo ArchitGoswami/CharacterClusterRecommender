@@ -1,0 +1,10 @@
+583: princess_prince_evil
+score: 0.9246858755792307
+PrincessesRule
+WarriorPrincess
+LegendFadesToMyth
+PraetorianGuard
+VillainousPrincess
+TheEvilPrincess
+LoveRuinsTheRealm
+WarriorPrince

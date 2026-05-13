@@ -1,0 +1,7 @@
+293: scars_disfigurement_defibrillator
+score: 1.0
+HealThyself
+DeathByDisfigurement
+HealingMagicIsTheHardest
+MagicalDefibrillator
+ScarsAreForever

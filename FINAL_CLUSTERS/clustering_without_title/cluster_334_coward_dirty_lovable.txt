@@ -1,0 +1,7 @@
+334: coward_dirty_lovable
+score: 1.0
+LovableCoward
+DirtyCoward
+TameHerAnger
+CowardlyLion
+CowardiceCallout

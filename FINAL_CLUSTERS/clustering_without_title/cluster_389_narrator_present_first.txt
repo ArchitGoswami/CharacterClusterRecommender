@@ -1,0 +1,11 @@
+389: narrator_present_first
+score: 0.8015240345575373
+LemonyNarrator
+TheNarrator
+NarratorAllAlong
+NarratingThePresent
+InteractiveNarrator
+AndThatLittleGirlWasMe
+Narrator
+FirstPersonPeripheralNarrator
+CharacterNarrator

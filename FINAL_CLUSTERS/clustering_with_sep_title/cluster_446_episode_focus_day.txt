@@ -1,0 +1,36 @@
+446: episode_focus_day
+score: 0.9520394072392607
+DemotedtoExtra
+CompositeCharacter
+RotatingProtagonist
+Recurrer
+EconomyCast
+SuspiciouslySimilarSubstitute
+BreakoutCharacter
+CListFodder
+CharacterOfTheDay
+PromotionToOpeningTitles
+OneShotCharacter
+IconicSequelCharacter
+LivingProp
+DayInTheLimelight
+RecurringCharacter
+PromotedToOpeningCredits
+RecurringExtra
+PromotedToOpeningTitles
+DemotedToExtra
+ADayInTheLimelight
+ADayInTheSpotlight
+BreakOutCharacter
+OneSceneWonder
+DayInTheLife
+ADayInTheLimeLight
+SpotlightStealingSquad
+MorePopularReplacement
+CharacterFocus
+AscendedExtra
+SpotLightStealingSquad
+EnsembleCast
+AdvertisedExtra
+ADayintheLimelight
+ADayinTheLimeLight

@@ -1,0 +1,7 @@
+81: house_haunted_hotel
+score: 1.0
+TheAllegedHouse
+HauntedCastle
+HellHotel
+HauntedHouseHistorian
+HauntedHouse

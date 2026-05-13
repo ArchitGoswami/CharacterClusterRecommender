@@ -1,0 +1,8 @@
+351: treacherous_mentor_evil
+score: 0.9936145565246393
+ReasonableAuthorityFigure
+TreacherousAdviser
+StealthMentor
+GoodRunningEvil
+AncientOrderOfProtectors
+TreacherousAdvisor

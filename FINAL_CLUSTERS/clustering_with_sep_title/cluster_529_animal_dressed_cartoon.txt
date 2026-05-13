@@ -1,0 +1,7 @@
+529: animal_dressed_cartoon
+score: 1.0
+HalfDressedCartoonAnimal
+FullyDressedcartoonAnimal
+AccessoryWearingCartoonAnimal
+EmbarrassingAnimalSuit
+ClothingAppendage

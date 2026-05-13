@@ -1,0 +1,20 @@
+252: hunter_predator_prey
+score: 0.9321783272279731
+PredatorPreyFriendship
+AndroclesLion
+PredatorsAreMean
+RampageFromANail
+AnimalNemesis
+FriendtoAllLivingThings
+NaiveAnimalLover
+FriendToAllLivingThings
+EvilPoacher
+EnemyToAllLivingThings
+TheMarvelousDeer
+TheHunterBecomesTheHunted
+TheWildHunt
+DeerInTheHeadlights
+GreatWhiteHunter
+PredatorTurnedProtector
+EgomaniacHunter
+SuperpersistentPredator

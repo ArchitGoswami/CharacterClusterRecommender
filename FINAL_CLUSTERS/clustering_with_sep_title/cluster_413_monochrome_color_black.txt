@@ -1,0 +1,7 @@
+413: monochrome_color_black
+score: 1.0
+FadeToBlack
+DeliberatelyMonochrome
+MonochromePast
+MonochromeApparition
+SplashOfColor

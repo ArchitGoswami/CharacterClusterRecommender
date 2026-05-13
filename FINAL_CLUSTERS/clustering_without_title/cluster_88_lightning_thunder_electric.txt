@@ -1,0 +1,7 @@
+88: lightning_thunder_electric
+score: 1.0
+ShockAndAwe
+LightningCanDoAnything
+ThunderBeetle
+ShockandAwe
+LightningGun
