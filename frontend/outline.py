@@ -11,13 +11,16 @@ for filename in os.listdir("../FINAL_CLUSTERS/clustering_with_sep_title"):
             continue
 
         cluster_name = filename.replace(".txt", "")
-        if cluster_name == "cluster_-1":
+        if cluster_name == "cluster_-1_unclustered":
             cluster_name = "No Cluster"
         path = os.path.join("../FINAL_CLUSTERS/clustering_with_sep_title", filename)
 
         with open(path, "r", encoding="utf-8") as f:
-            words = [line.strip() for line in f if line.strip()]
-
+            words = [
+                line.strip()
+                for i, line in enumerate(f)
+                if i >= 2 and line.strip()
+            ]
         for word in words:
             clusters[word] = cluster_name
             
@@ -47,9 +50,9 @@ for trope in target_tropes:
     target_clusters.append(clusters.get(trope, "No Cluster"))
 
 print(char_media)
-print(target_tropes)
-print(target_clusters)
-print(chars_list[0])
+# print(target_tropes)
+# print(target_clusters)
+# print(chars_list[0])
 
 # TODO 
 weight_tropes = 3
@@ -69,10 +72,18 @@ for char in chars_list:
             count_clusters += 1
             common_clusters.append(cluster)
     char["score"] = count_tropes * weight_tropes + count_clusters * weight_clusters
+    # count_tropes * weight_tropes + count_clusters * weight_clusters + count personality vec * w + 
+    # person -> <1, 0, >
+    # scale happy-sad
+    
+    # tropes, personality clusters
+    # <1, 1, 1, 1, 0, 1> * w1, <0,1,1, 0, 0, 1> * w2 f(v1, v2) = v3 sim(q3, v3)
+    # tropes -> traits
+    # LLM?
     char["common_tropes"] = common_tropes
     char["common_clusters"] = common_clusters
     
-print(chars_list[0])
+# print(chars_list[0])
 
 top_5 = sorted(chars_list, key=lambda d: d["score"], reverse=True)[:5]
 for best in top_5:
