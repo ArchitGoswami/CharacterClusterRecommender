@@ -19,7 +19,7 @@ def get_tropes_from_json():
     for filename in os.listdir(tvtropes):
         # print(filename)
         if filename.endswith(".json"):
-            with open(os.path.join(tvtropes, filename), "r") as f:
+            with open(os.path.join(tvtropes, filename), "r", encoding="utf-8") as f:
                 df = pd.read_json(f)
                 chars = df["characters"]
                 for char in chars:
