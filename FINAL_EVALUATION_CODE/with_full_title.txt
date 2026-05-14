@@ -1,0 +1,169 @@
+447: failure_lose_win
+average score: 0.9936071637732362
+human assigned meaning: tries and fails
+MyGreatestSecondChance  -1
+GoingHomeAgain -1
+FailureHeroine 1
+FailureHero 1
+UnderdogsNeverLose 0 
+FailureIsTheOnlyOption 1
+SpringtimeForHitler -1
+InvincibleHero 0
+
+381: artificial_ai_game
+average score: 1.0
+human assigned meaning: a machine is smart
+AIIsACrapshoot -1
+LogicBomb 1
+ArtificialBrilliance 1
+ArtificialStupidity 0
+MyRulesAreNotYourRules -1
+
+140: wall_jump_tower
+average score: 0.9159145875016635
+human assigned meaning: athleticism feat
+WallRun 1
+OverTheTopRollerCoaster -1
+RooftopConfrontation -1
+InASingleBound 1
+VideoGameFlight 1
+BuildingSwing 1
+RampJump 1
+DrivingUpAWall -1
+TiltingTowerOfPisa -1
+WallCrawl 1
+WallJump 1
+WallBangHer -1
+
+84: imaginary_imagination_friend
+average score: 1.0
+human assigned meaning: has imaginary friend/enemy
+MsImagination -1
+NotSoImaginaryFriend 0
+MrImagination -1
+ImaginaryEnemy 1
+ImaginaryFriend 1
+
+47: historical_history_would
+average score: 0.788971561155542
+human assigned meaning: in historical fiction/alternate history
+NoHistoricalFiguresWereHarmed 1
+WrittenByTheWinners -1
+BeethovenWasAnAlienSpy 1
+HistoricalDomainCharacter 1
+ArtisticLicenceHistory 1
+HistoricalInJoke -1
+ArtisticLicenseHistory 1
+DatedHistory 1
+HistoricalCharacterConfusion 1
+PoliticallyCorrectHistory 1
+
+497: continuity_spiritual_work
+average score: 0.8305935324409913
+human assigned meaning: builds on an original story
+BroadStrokes -1
+SpiritualSuccessor 1
+FranchiseKiller 1
+SeriesBible 0
+Midquel 1
+ReWrite 1
+SpiritualAdaptation 1
+Continuity 1
+NegativeContinuity 0
+RetCon -1
+CreatorDrivenSuccessor 1
+TheNew20s -1
+ExpandedUniverse 1
+SequelGap 1
+CanonWelding 1
+SequelEscalation 1
+VideoGameRemake 1
+ContinuitySnarl 1
+RecurringElement -1
+ContinuityLockout -1
+ContinuityReboot 1
+UniverseBible 0
+SpiritualPredecessor 1
+VersionExclusiveContent -1
+SeriesContinuityError 1
+RetConned -1
+ItsTheSameNowItSucks 0
+SpiritualAntithesis 0
+UpdatedRerelease 0
+
+233: tears_cry_crying
+average score: 0.519056557417443
+human assigned meaning: character cries
+HumanizingTears 1
+TenderTears 1
+CryingAfterSex 1
+InelegantBlubbering 1
+TearJerker -1
+SandInMyEyes 1
+OnionTears 1
+UnableToCry 0
+CryingCritters -1
+TearsOfRemorse 1
+ManlyTears 1
+CryingARiver 1
+TearsFromAStone 1
+TearsOfFear 1
+CrocodileTears 0
+ContinuouslyCryingChild -1
+CryIntoChest 1
+Tearjerker -1
+OcularGushers 1
+SingleTear 1
+RunningAwayToCry 1
+BeautifulTears 1
+AlasPoorYorick -1
+CryingIndian 1
+TryingNotToCry 0
+CryLaughing 1
+EmotionalBruiser -1
+MenDontCry 0
+TearfulSmile -1
+TearsOfJoy 1
+BrokenTears 1
+RealMenDontCry 0
+
+434: genre_noir_savvy
+average score: 0.6964721208243771
+human assigned meaning: genre savvy
+OutOfGenreExperience -1
+NoirEpisode -1
+YouWatchTooMuchX 1
+GenreBlind 0
+HowUnscientific -1
+MultipleDemographicAppeal -1
+GenreShift -1
+GenreRefugee 1
+WrongGenreSavvy 0
+FilmNoir -1
+GenreSavvy 1
+GenreBlindness 0
+
+240: straw_strawman_author
+average score: 0.9246679111198471
+human assigned meaning: character is a strawman
+StrawHypocrite 1
+StrawCharacter 1
+StrawLoser 1
+StrawVulcan 1
+StrawmanHasAPoint 1
+StrawmanPolitical 1
+
+404: played_downplayed_case
+average score: 0.5753837660445702
+human assigned meaning: played for comedic purposes
+PlayedForDrama 0
+PlayedForLaughs 1
+DownPlayedTrope 0
+Downplayed 0
+DownPlayed 0
+DoesThisRemindYouOfAnything 1
+DownplayedTrope 0
+DownplayedExample 0
+HaveAGayOldTime 1
+Downplayedtrope 0
+HilarityEnsues 1

@@ -1,0 +1,154 @@
+340: love_time_lovers
+average score: 1.0
+human assigned meaning: love transcends bounaries
+LoveTranscendsSpaceTime 1
+LoveTranscendsSpacetime 1
+StarCrossedLovers 1
+StarCrossedLover 1
+StarcrossedLovers 1
+ 
+95: daughter_ugly_hot
+average score: 1.0
+human assigned meaning: someone’s daughter is attractive 
+MadScientistsBeautifulDaughter 1
+WhyCouldntYouBeDifferent -1
+TheUglyGuysHotDaughter 1
+WantedASonInstead -1
+UglyGuysHotDaughter 1
+
+216: owl_birds_bird
+average score: 0.7621234551239378
+human assigned meaning: character is a bird, which affects their personality
+TheOwlKnowingOne 1
+CockyRooster 1
+BeakAttack -1
+BrutalBirdOfPrey 1
+Duck -1
+QuackingUp 1
+CuteOwl 1
+AvianFlute -1
+ArtisticLicenseOrnithology 1
+FoulWaterfowl 1
+CleverCrows 1
+PenguinsAreDucks 0
+OminousOwl 1
+NobleBirdOfPrey 1
+PuzzlingPlatypus -1
+CirclingBirdies -1
+CagedBirdMetaphor -1
+FeatheredFiend 1
+CreepyCrows 1
+CirclingVultures -1
+
+452: friends_friend_friendship
+average score: 0.713567534515485
+human assigned meaning: the character has a friend / friendship is important to their character
+FriendshipDenial 0
+JustFriends 1
+IJustWantToHaveFriends 1
+OddFriendship 1
+IjustWantToHaveFriends 1
+LonelyAmongPeople 0
+FriendshipFavoritism 1
+LimitedSocialCircle 1
+FriendVersusLover 1
+PowerOfFriendship 1
+AdaptationalFriendship 1
+MuggleBestFriend 1
+FriendlessBackground 0
+WithFriendsLikeThese 1
+SocialCircleFiller 1
+Frenemy 1
+LonerTurnedFriend 1
+VitriolicBestBuds 1
+IneffectualLoner 0
+BestFriendManual 1
+FairWeatherFriend 1
+JoinsToFitIn 0
+OldFriend 1
+ImNotHereToMakeFriends 0
+OnlyFriend 1
+InWithTheInCrowd 1
+VitriolicBestFriends 1
+LonersAreFreaks 0
+UsedToBeMoreSocial 1
+TwoTimingWithTheBestie 1
+ToxicFriendInfluence 1
+ThePowerOfFriendship 1
+TheFriendsWhoNeverHang 1
+TheHermit 1
+WeUsedToBeFriends 0
+FalseFriend 0
+AFriendInNeed 1
+LoonyFriendsImproveYourPersonality 1
+
+57: degree_elite_course
+average score: 1.0
+human assigned meaning: character has a useless education
+TheBGrade -1
+PhonyDegree 1
+CorrespondenceCourse 1
+ADegreeInUseless 1
+EliteSchoolMeansEliteBrain 0
+
+140: tricked_gadget_accessory
+average score: 0.8603357069900905
+human assigned meaning: character has advanced gadgets
+TrickedOutShoes 1
+TreasureChestCavity -1
+MagicalAccessory 1
+HiddenWeapons -1
+TrickedOutGloves 1
+HyperspaceArsenal 1
+UtilityBelt 1
+UselessAccessory 0
+GadgetWatch 1
+VictoriasSecretCompartment -1
+BagOfHolding 1
+TrouserSpace 1
+SuperWristGadget 1
+
+178: heart_symbol_love
+average score: 1.0
+human assigned meaning: heart symbol means love
+ShapesAndSymbolsTropes -1
+HeartBeatDown 1
+WickedHeartSymbol 0
+CardiovascularLove 1
+HeartSymbol 1
+
+325: overkill_kill_death
+average score: 0.8321832413429551
+human assigned meaning: character is unbothered by killing
+ImplacableWoman 1
+ItGetsEasier 0
+TheresNoKillLikeOverkill 1
+NoKillLikeOverkill 1
+ThereIsNoKillLikeOverkill 1
+BetterToDieThanBeKilled -1
+HoistByHisOwnPetard 1
+NoKillLikeOverKill 1
+HoistByTheirOwnPetard -1
+ImplacableMan 1
+KillSat -1
+HoistByHerOwnPetard -1
+
+113: unfavorite_child_parents
+average score: 0.9964258055788001
+human assigned meaning: not the favorite child
+TheUnfavorite 1
+Spoiledbrat 0
+TheUnFavorite 1
+TheUnfavourite 1
+SpoiledBrat 0
+TheUnFavourite 1
+
+82: taxidermy_creepy_basement
+average score: 0.9859710181107572
+human assigned meaning: scary things
+CreepyBasement 1
+WildMassGuessing -1
+TaxidermyTerror 1
+ThingsThatGoBumpInTheNight 1
+WhoYouGonnaCall -1
+TaxidermyIsCreepy 1
