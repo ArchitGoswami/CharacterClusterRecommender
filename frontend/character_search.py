@@ -382,7 +382,7 @@ def display_character_info(char_data, clusters):
         cluster = clusters.get(trope, "No Cluster")
         cluster_groups[cluster].append(trope)
     
-    print(colored("\n📚 Tropes by Category:\n", Colors.CYAN))
+    print(colored("\nTropes by Category:\n", Colors.CYAN))
     
     for cluster, cluster_tropes in sorted(cluster_groups.items(), key=lambda x: -len(x[1])):
         clean_name = clean_cluster_name(cluster)
@@ -525,12 +525,12 @@ def handle_character_search(character_index, clusters):
     
     if not results:
         print(colored(f"No characters found matching '{query}'", Colors.RED))
-        print(colored("   Try a different spelling or partial name.\n", Colors.YELLOW))
+        print(colored("Try a different spelling or partial name.\n", Colors.YELLOW))
         return
     
     # Count total matches
     total_matches = sum(len(appearances) for _, appearances in results)
-    print(colored(f"✓ Found {total_matches} character(s) matching '{query}'\n", Colors.GREEN))
+    print(colored(f"Found {total_matches} character(s) matching '{query}'\n", Colors.GREEN))
     
     # Let user select
     selected = select_character_from_results(results)
@@ -563,7 +563,7 @@ def handle_media_search(character_index, clusters):
         print(colored("   Try a different spelling or partial name.\n", Colors.YELLOW))
         return
     
-    print(colored(f"✓ Found {len(results)} show(s) matching '{query}'\n", Colors.GREEN))
+    print(colored(f"Found {len(results)} show(s) matching '{query}'\n", Colors.GREEN))
     
     # Let user select a show
     selected_media = select_media_from_results(results)
@@ -602,7 +602,7 @@ def process_selected_character(selected, clusters):
     display_character_info(char_data, clusters)
     
     # Find similar characters
-    print(colored("⏳ Finding similar characters...", Colors.DIM))
+    print(colored("Finding similar characters...", Colors.DIM))
     
     all_chars = load_all_characters(
         exclude_char=selected["name"],
