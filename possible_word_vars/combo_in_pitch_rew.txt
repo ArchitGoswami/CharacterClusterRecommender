@@ -1,0 +1,37 @@
+* added antonyms to combo_in_pitch
+competent
+incompetent
+likable
+unlikable
+moral
+immoral
+conventional
+unconventional
+serious
+goofy
+confident
+unsure
+intelligent
+unintelligent
+warm
+cold
+character growth
+character regress
+character stays the same
+leader
+follower
+tall 
+short
+masculine
+feminine
+handsome
+beautiful
+ugly
+values family
+hates family
+values friends
+hates friends
+straight
+gay
+transgender
+cisgender

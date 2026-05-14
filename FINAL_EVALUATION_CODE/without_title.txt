@@ -1,0 +1,213 @@
+55: game_games_level
+average score: 0.8037915214123235
+human assigned meaning: the character is an experienced gamer or enjoys gaming
+OneHundredPercentCompletion 1
+PostEndGameContent -1
+ChallengeGamer 1
+Metroidvania -1
+PressStartToGameOver 0
+MercyMode 0
+EasyLevelTrick 0
+SelfImposedChallenge 1
+PeninsulaOfPowerLeveling 1
+RPG -1
+DungeonMaster 1
+ExperiencePoints -1
+NintendoHard -1
+RPGElements -1
+VideoGameLives -1
+BrutalBonusLevel 1
+
+176: drugs_drug_addict
+average score: 0.914346144153809
+human assigned meaning: character is a drug addict
+AddictionDisplacement 1
+HigherUnderstandingThroughDrugs 1
+MushroomSamba 1
+FantasticDrug 1
+DrugBasedCharacterization 1
+TropaholicsAnonymous -1
+SmugStraightEdge 0
+FunctionalAddict 1
+OffTheWagon 1
+CompressedVice 1
+RecoveredAddict 0
+DescentIntoAddiction 1
+StonersAreFunny 1
+ForcedAddiction 1
+GettingHighOnTheirOwnSupply 1
+ICantBelieveItsNotHeroin 1
+StimulantSpeedtalk 1
+UndiscriminatingAddict 1
+TheAggressiveDrugDealer 1
+IntoxicationEnsues 1
+DrugsAreGood 1
+PredatoryBigPharma 1
+TheStoner 1
+AddledAddict 1
+ImmuneToDrugs 0
+HookersAndBlow 1
+GRatedStoner 1
+JunkieProphet 1
+ArtisticStimulation 1
+GRatedDrug 1
+FakeHigh 0
+GoingColdTurkey 0
+MothersLittleHelpers 1
+DrugsAreBad 1
+ 
+211: monster_giant_zilla
+average score: 0.950173257185007
+human assigned meaning: there is a giant creature
+SummonBiggerFish 1
+BehemothBattle 1
+NotZilla 0
+Kaiju 1
+GiantEqualsInvincible 1
+Notzilla 0
+RentAZilla 1
+MakeMyMonsterGrow 1
+
+91: elemental_fire_wind
+average score: 0.9143850380794378
+human assigned meaning: character has elemental powers
+NonElemental 0
+FireIceDuo 1
+DishingOutDirt 0
+ElementalRivalry 1
+WeatherManipulation 1
+FireWaterWind 1
+ElementalPowers 1
+ElementNumberFive 0
+PacifistWind 1
+HealingWinds 1
+PowerStereotypeFlip 1
+ElementalPersonalities 1
+LightningFireJuxtaposition 1
+ElementalRockPaperScissors 1
+ClassicalElementsEnsemble 1
+BlowYouAway 1
+MagmaMan 1
+
+25: exposition_hand_mr
+average score: 0.6990448771969924
+human assigned meaning: often exposits
+TheWatson 0
+MrExposition 1
+Exposition 1
+MisterExposition 1
+MsExposition 1
+MissExposition 1
+InfoDump 1
+HandWaved 0
+Handwave 0
+HandWave 0
+Expositron9000 1
+
+347: pink_red_blue
+average score: 0.6733245006769953
+human assigned meaning: character likes pink and is feminine
+PsychoPink 1
+PinkProductPloy 1
+PinkIsFeminine 1
+RedHotMasculinity 0
+BlueBoyPinkGirl 1
+LittleDeadRidingHood -1
+LittleRedFightingHood -1
+LadyInRed 0
+PinkMeansFeminine 1
+PinkGirlBlueBoy 1
+GracefulLadiesLikePurple 0
+PinkIsErotic 1
+CheeryPink 1
+TrueBlueFemininity 0
+PinkIsLove -1
+
+467: actor_actors_role
+average score: 0.6613521996100211
+human assigned meaning: the actor that plays the character matters
+PlayingATree -1
+AndStarring 1
+TypeCasting 1
+SpearCarrier 1
+YouMightRememberMeFrom 1
+BadActorGoodLiar -1
+ActorAllusion 1
+BillingDisplacement 0 
+ActorInspiredElement 1
+CelebrityParadox 1
+TookTheBadFilmSeriously -1
+AdamWesting 1
+MethodActing 1
+AmoralTalentAgent -1
+IAmNotSpock 1
+ActorSwap 1
+WagTheDirector 1
+TheOtherMarty 1
+DeadStarWalking 1
+HostilityOnTheSet 1
+NoStuntDouble 1
+PlayingAgainstType 1
+TheCastShowOff 1
+MetaCasting 1
+LeslieNielsenSyndrome 1
+HorribleHollywood -1
+PoorMansSubstitute 1
+PigeonholedVoiceActor 1
+CastTheExpert 1
+MoneyDearBoy 1
+CareerResurrection 1
+FakeGuestStar 1
+AnimatedActors 1
+TheCastShowoff 1
+LorreLookalike 1
+IAmNotLeonardNimoy 1
+IronyAsSheIsCast 1
+DiagonalBilling 1
+ShakespearianActors -1
+CommediaDellArte -1
+ClassicallyTrainedExtra 1
+ActressAllusion 1
+Luvvies -1
+QuestionableCasting 1
+ 
+0: subverted_subversion_double
+average score: 0.8009293070950486
+human assigned meaning: expectations are subverted
+ImpliedTrope 0
+DoubleSubvertedTrope 1
+Subverted 1
+SubvertedTrope 1
+Implied 0
+Subversion 1
+Subvertedtrope 1
+DoubleSubverted 1
+DoubleSubversion 1
+
+154: virus_transformation_host
+average score: 0.8870127421107086
+human assigned meaning: character is posessed or infected which influences their behavior
+DemonicPossession 1
+TranshumanTreachery 1
+PossessionBurnout 1
+TheVirus 1
+ViralTransformation 1
+TransformationAtTheSpeedOfPlot 1
+PuppeteerParasite 1
+TransformationOfThePossessed 1
+VirusVictimSymptoms 1
+HeroicWillpower 0
+
+351: rival_defeat_enemy
+average score: 0.9983406733613536
+human assigned meaning: has a strong relationship with a rival
+DividedWeFall -1
+TheRival 1
+DefeatMeansRespect 1
+Rival 1
+TheOnlyOneAllowedToDefeatYou 1
+EnemyMine 1
+
+
+
+
