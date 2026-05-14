@@ -346,7 +346,7 @@ Couple of interesting takeaways from this output:
 
     1) I also noticed a trend where similar shows have some what of a mapping of similar characters. I had an idea wrt Parks and Rec's Leslie Knope and Jake Peralta: goofy but lovable, caring, competent etc. This also lead to me thinking about how Mike Schur was involved as a showrunner and creative head for all of these shows.
 
-    While that specific example did not show up due to both shows being absent, I did see the same trend between Niles Crane and Diane Chambers as Frasier (the show where Niles is featured) is a spin off of Cheers and show runners are likely to reuse tropes.
+- While that specific example did not show up due to both shows being absent, I did see the same trend between Niles Crane and Diane Chambers as Frasier (the show where Niles is featured) is a spin off of Cheers and show runners are likely to reuse tropes.
 
 ```
 
@@ -471,9 +471,9 @@ Finding similar characters...
 
 ```
 
-There was a conscious push towards the end of the project to polish the search indexing of characters and adding show-wise searching to make sure that you were actually able to find characters you were looking for and have all the hard work done in scraping and clustering be useful to anyone being introduced to the system.
+- There was a conscious push towards the end of the project to polish the search indexing of characters and adding show-wise searching to make sure that you were actually able to find characters you were looking for and have all the hard work done in scraping and clustering be useful to anyone being introduced to the system.
 
-In the future I would like to expand by being more focused on specific subsection of data and drilling down on it. 
+- In the future I would like to expand by being more focused on specific subsection of data and drilling down on it. 
 
 1) Fixing issues with traversal of TvTropes Parser
 2) Using reddit data to inform clustering (not implemented)
