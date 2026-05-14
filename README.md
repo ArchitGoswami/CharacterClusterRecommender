@@ -4,6 +4,8 @@ Character similarity search and analysis tool using TV Tropes data.
 
 ---
 
+> Note: there is also a video component to the project in the vids.zip folder or the [Google Drive Link here](www.google.com)
+
 ## Running Character Search
 
 The frontend provides an interactive CLI tool (`frontend/character_search.py`) for finding similar characters based on their TV Tropes data. It supports searching by character name or by show/media title, with arrow-key navigation.
@@ -534,12 +536,15 @@ Overall, the non-titled algorithm was the superior algorithm in both metrics.
 
 Average Confidence Across All Clusters:
 
+```
 no title: 0.5115410902192985
 full title: 0.5035185549255429
 seperated title: 0.49306131257678415
+```
 
 Data for 10 Randomly Selected Clusters:
 
+```
 with_full_title:
     Overall:
         71 synonyms, 25 antonyms, 34 unrelated
@@ -710,6 +715,7 @@ without_title:
             5 synonyms, 0 antonyms, 1 unrelated
             average score: 0.9983406733613536
             accuracy: 0.6666666666666666
+```
 
 ### Evaluating Similarity Clusters
 
@@ -721,6 +727,7 @@ The second metric was a human evaluation. I scored each trope in the cluster bas
 
 Overall, the large-vocabulary was the superior algorithm in both metrics, but still performed far worse than its hierarchal counterparts. 
 
+```
 Average Confidence Across All Clusters:
 
 Small vocabulary: 0.25514358282089233
@@ -821,6 +828,7 @@ large_vocab:
             37 synonyms, 15 antonyms, 33 unrelated
             average score: 0.3374398946762085:
             accuracy: 0.047058823529411764:
+```
 
 ### Other Observations
 

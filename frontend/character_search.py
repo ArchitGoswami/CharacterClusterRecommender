@@ -78,7 +78,7 @@ def load_character_index(index_file="character_index.json"):
         return json.load(f)
 
 
-def load_clusters(cluster_dir="../FINAL_CLUSTERS/clustering_with_sep_title"):
+def load_clusters(cluster_dir="../FINAL_CLUSTERS/clustering_without_title"):
     """Load all cluster data."""
     clusters = {}
     
