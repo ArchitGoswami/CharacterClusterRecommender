@@ -4,7 +4,7 @@ Character similarity search and analysis tool using TV Tropes data.
 
 ---
 
-> Note: there is also a video component to the project in the vids.zip folder or the [Google Drive Link here](www.google.com)
+> Note: there is also a video component to the project in the vids.zip folder or the [Google Drive Link here](https://drive.google.com/drive/folders/1ypAF3e10CPT13yTyBJ_FkYmdt1j69bFi?usp=sharing)
 
 ## Running Character Search
 
