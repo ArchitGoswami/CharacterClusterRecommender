@@ -58,6 +58,15 @@ cd frontend
 python character_search.py
 ```
 
+## Clustering Instructions
+
+1. If you already downloaded FINAL_CLUSTERS, these steps are unneccessary
+2. Run FINAL_CLUSTERING_CODE/quickcrawl.py to get the list of tvtropes pages
+3. Run FINAL_CLUSTERING_CODE/final_hier_clustering.py to get hierarchal clustering
+4. Optionally, use FINAL_CLUSTERING_CODE/find_vocab_clustering.py to get the similarity clusters
+5. To obtain evaluation data, use FINAL_EVALUATION_CODE/process.py
+
+
 ### What to Expect
 
 When the tool launches, you'll see a menu with the following options:
@@ -89,7 +98,7 @@ Characters are ranked by:
 
 ---
 
-## ARCHIT Section
+## Archit's Thoughts and Analysis
 
 Crawling was essential to this project because we could only see clustering happen and confirm if it was working correctly only if the characters we looked up resulted in interesting connections that we would have not anticipated.
 
@@ -472,19 +481,7 @@ In the future I would like to expand by being more focused on specific subsectio
 6) Figure out why for shows like M*A*S*H, why is it that we can see all the characters besides the main couple (Alan Alda's character Hawkeye Pierce, for example.). This would entail either a) cross checking our sources for list of characters or b) getting list of several sources of truth (This strategy may lead to a lot of duplication.)
 
 
-
-## ALISON Writeup
-
-(Content to be added)
-# Web Agents and IR final project README.
-
-## Clustering Instructions
-
-1. If you already downloaded FINAL_CLUSTERS, these steps are unneccessary
-2. Run FINAL_CLUSTERING_CODE/quickcrawl.py to get the list of tvtropes pages
-3. Run FINAL_CLUSTERING_CODE/final_hier_clustering.py to get hierarchal clustering
-4. Optionally, use FINAL_CLUSTERING_CODE/find_vocab_clustering.py to get the similarity clusters
-5. To obtain evaluation data, use FINAL_EVALUATION_CODE/process.py
+## Alison's Thoughts and analysis
 
 ## Clustering Description
 
