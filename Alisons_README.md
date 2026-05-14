@@ -366,6 +366,14 @@ large_vocab:
 
 ## Credits
 
+### Vocabulary
+
+Terms were taken from the following sites
+* https://ideonomy.mit.edu/essays/traits.html
+* https://www.gonaturalenglish.com/40-english-words-to-describe-a-persons-appearance/
+* https://www.yourdictionary.com/articles/descriptive-words-appearance 
+
 ### Clustering 
 
-1. 
+* Functions from sklearn and nltk were used for the models
+* A UMAP article was used to implement this feature (https://umap-learn.readthedocs.io/en/latest/clustering.html)
