@@ -413,7 +413,7 @@ Tropes by Category:
 
 ```
 
-    And This is also true for same type of shows as genres can define and dictate the kind of character tropes are needed. Below is an example in Bob the Builder and The Magic School Bus Rides Again where in both are animated kids shows for an elementary school audience:
+- And This is also true for same type of shows as genres can define and dictate the kind of character tropes are needed. Below is an example in Bob the Builder and The Magic School Bus Rides Again where in both are animated kids shows for an elementary school audience:
 
 ```
 ════════════════════════════════════════════════════════════
