@@ -485,13 +485,13 @@ Finding similar characters...
 
 ## Alison's Thoughts and analysis
 
-## Clustering Description
+### Clustering Description
 
 In order to accurately assign tropes to a cluster, more information was needed. We crawled tvtropes again to get the description for each trope. Afterwards, these documents were embedded using SBERT's Sentence Transformer (https://sbert.net/) to get a sense of each words' semantic meaning. 
 
 To cluster the tropes, two approaches were attempted. 
 
-### Similarity Clustering
+#### Similarity Clustering
 
 The first approach was clustering based on a pre-determined list of words. 
 
@@ -507,7 +507,7 @@ Sources for the first list:
     https://www.yourdictionary.com/articles/descriptive-words-appearance 
     *labels for family dynamics and sexuality were determined by us
 
-### Hierarchal Clustering
+#### Hierarchal Clustering
 
 The second approach was an unsupervised hierarchal clustering. 
 
@@ -522,9 +522,9 @@ Three different clustering approaches were attempted:
     2. Full trope name: the camelcase title was appended twice (it will be weighted 2x higher than the body text)
     3. Seperated trope name: the camelcase title was split into seperate words and appended twice (it will be weighted 2x higher than the body text)
 
-## Evaluation of Clustering
+### Evaluation of Clustering
 
-### Evaluating Hierarchal Clusters
+#### Evaluating Hierarchal Clusters
 
 To evaluate these clustering algorithms, I considered two metrics across 10 randomly selected clusters for each variant. 
 
@@ -830,7 +830,7 @@ large_vocab:
             accuracy: 0.047058823529411764:
 ```
 
-### Other Observations
+#### Other Observations
 
 1. As hinted at in the earlier sections, antonyms are remarkably similar to synonyms when considered sematically. Because of this, words like "good" and "evil" were often clustered together. In addition, the documentation for a contradictory trope often contained synonyms. For example, the page and trope name "Not Evil, Just Misunderstood" contains the word "evil" frequently despite meaning the opposite. This caused some error 
 2. In addition, some words contained alternate meanings. When clustering on the word "warm," looking for characters with a warm personality, 0 tropes were accurately classified as tropes like "GettingHotInHere" were classified there instead. Because of this, the vocabulary based clustering performed much worse.
