@@ -1,6 +1,5 @@
 import json
 import os
-from pyexpat import model
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import HDBSCAN
@@ -12,9 +11,7 @@ nltk.download('stopwords')
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import normalize
 import umap 
-
 # stop words for labelling
 stop_words = set(stopwords.words('english'))
 
