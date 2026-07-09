@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Cluster Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎭 Character Cluster Recommender</h1>
+            <p class="subtitle">Discover similar characters across TV shows and media</p>
+        </header>
+
+        <div class="search-section">
+            <div class="search-container">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search by character name..." 
+                    autocomplete="off"
+                >
+                <button id="searchButton">Search</button>
+            </div>
+            <button id="modeToggle" class="mode-toggle">📺 Switch to Show Search</button>
+        </div>
+
+        <div id="results"></div>
+    </div>
+
+    <footer>
+        <p>Data sourced from TV Tropes | Built by Archit Goswami</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
