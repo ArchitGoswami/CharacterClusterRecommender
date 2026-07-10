@@ -872,3 +872,158 @@ Terms were taken from the following sites
 
 * Functions from sklearn and nltk were used for the models
 * A UMAP article was used to implement this feature (https://umap-learn.readthedocs.io/en/latest/clustering.html)
+
+## Update instructions
+
+## Complete Data Pipeline Workflow
+
+Based on my analysis of the repository, here are **all the steps** to run the scripts to improve your data:
+
+---
+
+### **PHASE 1: CRAWLING (Data Collection)**
+
+**Step 1: Build Master Title List**
+```bash
+cd scripts
+python crawler_titles.py
+```
+- **Purpose**: Populates `data/titles_master.json` with ~2000+ TV shows and movies from Wikiquote
+- **Output**: `data/titles_master.json`
+
+**Step 2: Crawl TVTropes for Character Data**
+```bash
+cd scripts
+python crawler_tvtropes.py
+```
+- **Purpose**: Scrapes character tropes from TVTropes for each title
+- **Input**: `data/titles_master.json`
+- **Output**: `data/raw/tvtropes/{show_slug}.json` (651 files already exist)
+
+**Step 3: Crawl TVTropes Trope Descriptions (for Clustering)**
+```bash
+cd FINAL_CLUSTERING_CODE
+python quickcrawl.py
+```
+- **Purpose**: Gets the full text descriptions for each trope (needed for clustering)
+- **Input**: Tropes from `data/raw/tvtropes/`
+- **Output**: `data/raw/tvtropes_tropes/{trope_name}.json` (15,624 files already exist)
+
+**Step 4: Crawl IMDb Metadata (Optional)**
+```bash
+cd scripts
+python crawler_imdb.py
+```
+- **Purpose**: Gets IMDb IDs, actors, genres, ratings via OMDB API
+- **Note**: Requires `OMDB_API_KEY` environment variable (free at omdbapi.com)
+- **Output**: `data/raw/imdb/{title_slug}.json`
+
+**Step 5: Crawl Fandom Wiki (Optional)**
+```bash
+cd scripts
+python crawler_reddit.py
+```
+- **Purpose**: Gets character descriptions and personality info from Fandom wikis
+- **Output**: `data/raw/fandom/{title_slug}.json`
+
+**Step 6: Crawl Reddit (Optional)**
+```bash
+cd scripts
+python crawler_reddit.py
+```
+- **Purpose**: Gets character personality discussions from Reddit
+- **Note**: Rate limited, may take a while
+- **Output**: `data/raw/reddit/{title_slug}.json`
+
+---
+
+### **PHASE 2: CLUSTERING (Data Transformation)**
+
+**Step 7: Run Hierarchical Clustering**
+```bash
+cd FINAL_CLUSTERING_CODE
+python final_hier_clustering.py
+```
+- **Purpose**: Clusters tropes into semantic groups using HDBSCAN
+- **Input**: `data/raw/tvtropes_tropes/`
+- **Output**: `FINAL_CLUSTERS/clustering_without_title/` (cluster text files)
+
+**Step 8: Run Vocabulary-Based Clustering (Alternative)**
+```bash
+cd FINAL_CLUSTERING_CODE
+python final_vocab_clustering.py
+```
+- **Purpose**: Alternative clustering using predefined trait vocabulary
+- **Output**: `FINAL_CLUSTERS/clustering_with_large_vocab/` or `clustering_with_small_vocab/`
+
+---
+
+### **PHASE 3: CLI TOOL SETUP**
+
+**Step 9: Build Character Index**
+```bash
+cd frontend
+python build_character_index.py
+```
+- **Purpose**: Creates searchable index of all characters
+- **Input**: `data/raw/tvtropes/`
+- **Output**: `frontend/character_index.json`
+
+**Step 10: Run Character Search CLI**
+```bash
+cd frontend
+python character_search.py
+```
+- **Purpose**: Interactive CLI to find similar characters
+- **Input**: `frontend/character_index.json` and `data/raw/tvtropes/`
+
+---
+
+### **PHASE 4: WEB APP DATA PREPARATION**
+
+**Step 11: Prepare Web Data**
+```bash
+cd frontend
+python prepare_web_data.py
+```
+- **Purpose**: Transforms character data for web app consumption
+- **Input**: `frontend/character_index.json` and `data/raw/tvtropes/`
+- **Output**: `frontend/web_data/characters/` and `frontend/web_data/index.json`
+
+**Step 12: Copy to Web Directory**
+```bash
+# Windows (from project root)
+xcopy frontend\web_data web\web_data\ /E /I /Y
+```
+- **Purpose**: Makes data available to the web version
+- **Output**: `web/web_data/` (copied from frontend)
+
+---
+
+### **Quick Reference Summary**
+
+| Script | Location | Purpose |
+|--------|----------|---------|
+| `crawler_titles.py` | `scripts/` | Build list of shows/movies |
+| `crawler_tvtropes.py` | `scripts/` | Scrape character tropes |
+| `quickcrawl.py` | `FINAL_CLUSTERING_CODE/` | Scrape trope descriptions |
+| `crawler_imdb.py` | `scripts/` | Get IMDb metadata |
+| `crawler_fandom.py` | `scripts/` | Get Fandom character info |
+| `crawler_reddit.py` | `scripts/` | Get Reddit personality data |
+| `final_hier_clustering.py` | `FINAL_CLUSTERING_CODE/` | Cluster tropes |
+| `final_vocab_clustering.py` | `FINAL_CLUSTERING_CODE/` | Vocabulary-based clustering |
+| `build_character_index.py` | `frontend/` | Build CLI search index |
+| `character_search.py` | `frontend/` | Run CLI tool |
+| `prepare_web_data.py` | `frontend/` | Prepare web app data |
+
+---
+
+### **Current Data Status**
+- ✅ `data/titles_master.json` exists
+- ✅ `data/raw/tvtropes/` has 651 JSON files
+- ✅ `data/raw/tvtropes_tropes/` has 15,624 JSON files
+- ✅ `frontend/character_index.json` exists
+- ✅ `frontend/web_data/` has prepared data
+- ✅ `web/web_data/` has web data
+
+To **improve data**, run Steps 1-3 to add more titles/characters, then Steps 7-12 to update the clustering and web data.
