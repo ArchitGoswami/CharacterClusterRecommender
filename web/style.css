@@ -166,6 +166,35 @@ header h1 {
     transform: translateY(0);
 }
 
+/* Add after .search-input-wrapper styles */
+.lucky-container {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.lucky-btn {
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px var(--shadow-md);
+}
+
+.lucky-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px var(--shadow-md);
+}
+
+.lucky-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px var(--shadow-sm);
+}
+
 .mode-toggle {
     width: 100%;
     padding: 0.75rem;

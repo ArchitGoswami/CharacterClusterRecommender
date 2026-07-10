@@ -76,6 +76,25 @@ function setupEventListeners() {
     searchButton.addEventListener('click', performSearch);
     themeToggle.addEventListener('click', toggleTheme);
 
+    // Lucky button event listener
+    const luckyBtn = document.getElementById('luckyBtn');
+    if (luckyBtn) {
+        luckyBtn.addEventListener('click', async () => {
+            const randomChar = getRandomCharacter();
+            if (!randomChar) {
+                alert('Unable to load character data. Please try again.');
+                return;
+            }
+            
+            // Update search input to show selected character
+            searchInput.value = randomChar.name;
+            hideSuggestions();
+            
+            // Load and display the character
+            await searchCharacter(randomChar.name);
+        });
+    }
+
     // Close dropdown when clicking outside
     document.addEventListener('click', (e) => {
         if (!e.target.closest('.search-container')) {
@@ -222,6 +241,24 @@ function displaySuggestions(suggestions) {
             }
         });
     });
+}
+
+
+function getRandomCharacter() {
+    if (!indexData || !indexData.characters) {
+        return null;
+    }
+    
+    const characterNames = Object.keys(indexData.characters);
+    const randomIndex = Math.floor(Math.random() * characterNames.length);
+    const randomName = characterNames[randomIndex];
+    const characterData = indexData.characters[randomName];
+    
+    return {
+        name: randomName,
+        show: characterData.show,
+        id: characterData.id
+    };
 }
 
 // Hide suggestions
