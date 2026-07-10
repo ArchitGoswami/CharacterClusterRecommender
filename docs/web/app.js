@@ -40,12 +40,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Load the index data
 async function loadIndex() {
     try {
-        const response = await fetch('https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/index.json');
+        const response = await fetch('./web_data/index.json');
         indexData = await response.json();
         console.log('Character data loaded:', indexData);
     } catch (error) {
         console.error('Error loading index:', error);
-        showError('Failed to load character database. Please ensure https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/index.json exists.');
+        showError('Failed to load character database. Please ensure ./web_data/index.json exists.');
     }
 }
 
@@ -352,7 +352,7 @@ async function loadCharacterDetails(characterName, characterId) {
     try {
         const fileName = findCharacterFile(characterName, characterId);
         console.log('Loading character file:', fileName);
-        const response = await fetch(`https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/characters/${fileName}`);
+        const response = await fetch(`./web_data/characters/${fileName}`);
         const characterData = await response.json();
         
         currentCharacter = characterData;
@@ -459,7 +459,7 @@ async function findSimilarCharacters(targetCharacter) {
 
         try {
             const fileName = findCharacterFile(charName, charInfo.id);
-            const response = await fetch(`https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/characters/${fileName}`);
+            const response = await fetch(`./web_data/characters/${fileName}`);
             
             if (!response.ok) {
                 // File not found, skip silently
