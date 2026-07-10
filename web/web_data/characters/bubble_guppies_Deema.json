@@ -1,7 +1,21 @@
 {
   "name": "Deema",
   "show": "Bubble Guppies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "Catchphrase",
+    "RedOniBlueOni",
+    "BirthdayEpisode",
+    "BareMidriffsAreFeminine",
+    "HairOfGoldHeartOfGold",
+    "GenkiGirl",
+    "AmbiguouslyJewish",
+    "LittleMissSnarker",
+    "PolkaDotPositivity",
+    "ImprobableHairstyle",
+    "CloudCuckoolander",
+    "TemporarilyAVillain"
+  ],
   "tropes_by_category": {}
 }

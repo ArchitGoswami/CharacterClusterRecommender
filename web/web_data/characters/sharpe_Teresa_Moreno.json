@@ -1,7 +1,30 @@
 {
   "name": "Teresa Moreno",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "BerserkButton",
+    "RapeAsBackstory",
+    "PlatonicLifePartners",
+    "GunsAkimbo",
+    "ActionGirl",
+    "HeroicSacrifice",
+    "AdaptationalEarlyAppearance",
+    "ForcedToWatch",
+    "DeathSeeker",
+    "AttemptedRape",
+    "RunningGag",
+    "IHaveYourWife",
+    "BayonetYa",
+    "RebelLeader",
+    "TheSixthRanger",
+    "CommandingCoolness",
+    "ActionMom",
+    "CruelAndUnusualDeath",
+    "TomboyAndGirlyGirl",
+    "LaResistance",
+    "YourMom",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

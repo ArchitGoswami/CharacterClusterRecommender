@@ -1,7 +1,21 @@
 {
   "name": "The Animal King",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Leitmotif",
+    "BigFun",
+    "Foil",
+    "GoodAllAlong",
+    "WhatHappenedToTheMouse",
+    "NoNameGiven",
+    "NoSell",
+    "AmbiguousSituation",
+    "AccessoryWearingCartoonAnimal",
+    "VisualPun",
+    "CartoonCreature",
+    "TheBeastmaster",
+    "InvoluntaryShapeshifting"
+  ],
   "tropes_by_category": {}
 }

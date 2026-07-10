@@ -1,7 +1,13 @@
 {
   "name": "Freddi",
   "show": "Time Warp Trio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OnlySaneWoman",
+    "Catchphrase",
+    "LovableCoward",
+    "TownGirls",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

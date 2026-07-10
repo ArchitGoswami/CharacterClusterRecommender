@@ -1,7 +1,17 @@
 {
   "name": "Constable Hu",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ReasonableAuthorityFigure",
+    "InspectorJavert",
+    "StrongButUnskilled",
+    "TookALevelInJerkass",
+    "ObstructiveBureaucrat",
+    "InASingleBound",
+    "CharacterizationMarchesOn",
+    "HonorableElephant",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

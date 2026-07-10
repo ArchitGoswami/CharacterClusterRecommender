@@ -1,7 +1,19 @@
 {
   "name": "Barbara Maitland",
   "show": "Beetlejuice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ActionGirl",
+    "BodyHorror",
+    "HateAtFirstSight",
+    "DidYouJustPunchOutCthulhu",
+    "WightInAWeddingDress",
+    "MamaBear",
+    "OffscreenMomentOfAwesome",
+    "BigDamnHeroes",
+    "LawOfInverseFertility",
+    "EightiesHair",
+    "TearOffYourFace"
+  ],
   "tropes_by_category": {}
 }

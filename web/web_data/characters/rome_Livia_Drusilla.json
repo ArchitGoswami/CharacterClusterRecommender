@@ -1,7 +1,17 @@
 {
   "name": "Livia Drusilla",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BrainyBrunette",
+    "Foil",
+    "PerfectlyArrangedMarriage",
+    "LieBackAndThinkOfEngland",
+    "TheRival",
+    "InterplayOfSexAndViolence",
+    "EvilCounterpart",
+    "BitchInSheepsClothing",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

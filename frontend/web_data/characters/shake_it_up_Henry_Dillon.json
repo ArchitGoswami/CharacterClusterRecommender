@@ -1,7 +1,17 @@
 {
   "name": "Henry Dillon",
   "show": "Shake It Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AdorablyPrecociousChild",
+    "TVGenius",
+    "OddFriendship",
+    "ChuckCunninghamSyndrome",
+    "NerdGlasses",
+    "WithFriendsLikeThese",
+    "SensitiveGuyAndManlyMan",
+    "SesquipedalianLoquaciousness",
+    "ChildProdigy"
+  ],
   "tropes_by_category": {}
 }

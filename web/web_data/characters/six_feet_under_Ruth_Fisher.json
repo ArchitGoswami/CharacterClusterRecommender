@@ -1,7 +1,19 @@
 {
   "name": "Ruth Fisher",
   "show": "Six Feet Under",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "IWantGrandkids",
+    "CloudCuckooLander",
+    "MyBelovedSmother",
+    "HorribleJudgeOfCharacter",
+    "MayDecemberRomance",
+    "ParentalSexualitySquick",
+    "ICouldaBeenAContender",
+    "StayInTheKitchen",
+    "ApronMatron",
+    "ParentsAsPeople",
+    "ComingOfAgeStory"
+  ],
   "tropes_by_category": {}
 }

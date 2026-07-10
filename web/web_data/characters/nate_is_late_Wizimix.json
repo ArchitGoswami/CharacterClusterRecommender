@@ -1,7 +1,13 @@
 {
   "name": "Wizimix",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DarkIsNotEvil",
+    "OneWingedAngel",
+    "PickOnSomeoneYourOwnSize",
+    "BewareTheQuietOnes",
+    "CutenessProximity"
+  ],
   "tropes_by_category": {}
 }

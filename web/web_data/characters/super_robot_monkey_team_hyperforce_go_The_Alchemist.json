@@ -1,7 +1,22 @@
 {
   "name": "The Alchemist",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ProverbialWisdom",
+    "Foreshadowing",
+    "TheReveal",
+    "SignificantDoubleCasting",
+    "BigBad",
+    "EveryoneCallsHimBarkeep",
+    "DualityMotif",
+    "ScienceWizard",
+    "FatherlyScientist",
+    "DaddysGirl",
+    "LaserGuidedAmnesia",
+    "MyGodWhatHaveIDone",
+    "FaceMonsterTurn",
+    "GodOfEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Ciracus",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigAnimeEyes",
+    "GoodAllAlong",
+    "StarfishAliens",
+    "BlackBeadEyes",
+    "VoluntaryShapeshifting",
+    "Cyclops"
+  ],
   "tropes_by_category": {}
 }

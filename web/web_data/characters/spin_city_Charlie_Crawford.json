@@ -1,7 +1,13 @@
 {
   "name": "Charlie Crawford",
   "show": "Spin City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheCasanova",
+    "LovableSexManiac",
+    "SuspiciouslySimilarSubstitute",
+    "ShipTease",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

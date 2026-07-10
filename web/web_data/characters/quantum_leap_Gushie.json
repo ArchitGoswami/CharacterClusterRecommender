@@ -1,7 +1,22 @@
 {
   "name": "Gushie",
   "show": "Quantum Leap",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "MissionControl",
+    "Fanon",
+    "GodGuise",
+    "InconsistentSpelling",
+    "GeniusDitz",
+    "LimitedWardrobe",
+    "PhraseCatcher",
+    "AbsentMindedProfessor",
+    "HiddenDepths",
+    "YouNeedABreathMint",
+    "OnlyKnownByTheirNickname",
+    "ButtMonkey",
+    "KavorkaMan",
+    "ImpossiblyTackyClothes"
+  ],
   "tropes_by_category": {}
 }

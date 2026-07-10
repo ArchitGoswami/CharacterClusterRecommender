@@ -1,7 +1,13 @@
 {
   "name": "Fraker",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PetTheDog",
+    "ArchEnemy",
+    "TheAlcoholic",
+    "ObstructiveBureaucrat",
+    "KarmaHoudiniWarranty"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,29 @@
 {
   "name": "Marc St. James",
   "show": "Ugly Betty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "DefrostingIceQueen",
+    "EvenEvilHasLovedOnes",
+    "PlatonicLifePartners",
+    "CallingTheOldManOut",
+    "TheDragon",
+    "YesMan",
+    "ParentalSubstitute",
+    "DeadpanSnarker",
+    "BigBrotherInstinct",
+    "HiddenDepths",
+    "BattleButler",
+    "MentorInQueerness",
+    "PetTheDog",
+    "GayBestFriend",
+    "EvenEvilHasStandards",
+    "MoralityPet",
+    "TheBeard",
+    "SomeOfMyBestFriendsAreX",
+    "BigBad",
+    "TheRival",
+    "CampGay"
+  ],
   "tropes_by_category": {}
 }

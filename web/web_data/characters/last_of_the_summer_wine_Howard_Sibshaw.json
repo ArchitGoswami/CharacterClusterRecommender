@@ -1,7 +1,16 @@
 {
   "name": "Howard Sibshaw",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DirtyCoward",
+    "BlatantLies",
+    "TheLoad",
+    "BelievingTheirOwnLies",
+    "TheFriendNobodyLikes",
+    "ItsAllAboutMe",
+    "HenpeckedHusband",
+    "BadLiar"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Mickey Pearce",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CasanovaWannabe",
+    "ThoseTwoGuys",
+    "Jerkass",
+    "RunningGag",
+    "TwoTone",
+    "SmallNameBigEgo",
+    "WithFriendsLikeThese",
+    "FalseFriend",
+    "DiscoDan",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

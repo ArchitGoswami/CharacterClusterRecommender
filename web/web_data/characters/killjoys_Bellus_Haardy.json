@@ -1,7 +1,15 @@
 {
   "name": "Bellus Haardy",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "RetiredBadass",
+    "WhatHappenedToTheMouse",
+    "TheHandler",
+    "MamaBear",
+    "GroinAttack",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

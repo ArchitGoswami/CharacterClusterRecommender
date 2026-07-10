@@ -1,7 +1,16 @@
 {
   "name": "Remington Tufflips",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Gasshole",
+    "Expy",
+    "SunglassesAtNight",
+    "CharacterAsHimself",
+    "CoolShades",
+    "LazyBum",
+    "ItsAllAboutMe",
+    "WalkingShirtlessScene"
+  ],
   "tropes_by_category": {}
 }

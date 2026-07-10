@@ -1,7 +1,23 @@
 {
   "name": "Gali",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Blackmail",
+    "EmpoweredBadassNormal",
+    "StrikeMeDownWithAllOfYourHatred",
+    "TragicKeepsake",
+    "LiesToChildren",
+    "DealWithTheDevil",
+    "HonoraryUncle",
+    "MindOverMatter",
+    "IKnowYoureInThereSomewhereFight",
+    "KamehameHadoken",
+    "MyGodWhatHaveIDone",
+    "SoProudOfYou",
+    "SwordBeam",
+    "ProfessionalKiller",
+    "WolverineClaws"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Phil the Prince of Insufficient Light",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Hell",
+    "CoolAndUnusualPunishment",
+    "SadisticChoice",
+    "OddJobGod",
+    "SatanicArchetype",
+    "AdaptedOut",
+    "GoshDangItToHeck",
+    "OddJobGods",
+    "TheArtifact"
+  ],
   "tropes_by_category": {}
 }

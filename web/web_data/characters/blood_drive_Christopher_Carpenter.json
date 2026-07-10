@@ -1,7 +1,20 @@
 {
   "name": "Christopher Carpenter",
   "show": "Blood Drive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BreakTheHaughty",
+    "HandOrObjectUnderwear",
+    "VomitIndiscretionShot",
+    "CensorBox",
+    "ElectronicEyes",
+    "WalkingShirtlessScene",
+    "FanDisservice",
+    "EyeScream",
+    "AssShove",
+    "ElectricTorture",
+    "NeckSnap",
+    "UnstoppableRage"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Clamantha",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "StalkerWithACrush",
+    "AmbiguouslyHuman",
+    "TheSixthRanger",
+    "PunnyName",
+    "ClamshellsAsMouths",
+    "OutOfFocus",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

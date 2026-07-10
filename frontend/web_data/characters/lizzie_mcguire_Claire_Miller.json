@@ -1,7 +1,17 @@
 {
   "name": "Claire Miller",
   "show": "Lizzie McGuire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WeWantOurJerkBack",
+    "GirlPosse",
+    "AlphaBitch",
+    "Jerkass",
+    "DragonInChief",
+    "HiddenDepths",
+    "TokenMinority",
+    "BetaBitch",
+    "BackstabbingTheAlphaBitch"
+  ],
   "tropes_by_category": {}
 }

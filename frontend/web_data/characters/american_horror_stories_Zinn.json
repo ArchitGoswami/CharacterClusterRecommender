@@ -1,7 +1,18 @@
 {
   "name": "Zinn",
   "show": "American Horror Stories",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "AintTooProudToBeg",
+    "BadSanta",
+    "Jerkass",
+    "InstantHumiliationJustAddYouTube",
+    "Manchild",
+    "AssholeVictim",
+    "KickTheDog",
+    "CruelAndUnusualDeath",
+    "FratBro",
+    "HighVoltageDeath"
+  ],
   "tropes_by_category": {}
 }

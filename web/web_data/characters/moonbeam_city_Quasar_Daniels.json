@@ -1,7 +1,11 @@
 {
   "name": "Quasar Daniels",
   "show": "Moonbeam City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "KilledOffForReal",
+    "InherentlyAttractiveProfession",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

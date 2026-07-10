@@ -1,7 +1,14 @@
 {
   "name": "Charlie Rhodes",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Jerkass",
+    "JerkWithAHeartOfJerk",
+    "AssholeVictim",
+    "ChildHater",
+    "KarmicDeath",
+    "DevouredByTheHorde"
+  ],
   "tropes_by_category": {}
 }

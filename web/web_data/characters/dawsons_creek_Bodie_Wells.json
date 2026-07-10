@@ -1,7 +1,12 @@
 {
   "name": "Bodie Wells",
   "show": "Dawson's Creek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AdvertisedExtra",
+    "TheOtherDarrin",
+    "ADayInTheLimelight",
+    "CommutingOnABus"
+  ],
   "tropes_by_category": {}
 }

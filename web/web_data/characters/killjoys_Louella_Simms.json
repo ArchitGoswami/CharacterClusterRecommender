@@ -1,7 +1,15 @@
 {
   "name": "Louella Simms",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "FallenPrincess",
+    "RoaringRampageOfRevenge",
+    "BrokenBird",
+    "ChekhovsSkill",
+    "AnArmAndALeg",
+    "HiddenDepths",
+    "TheGloriousWarOfSisterlyRivalry"
+  ],
   "tropes_by_category": {}
 }

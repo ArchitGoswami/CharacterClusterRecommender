@@ -1,7 +1,23 @@
 {
   "name": "Kameo",
   "show": "Gosei Sentai Dairanger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "OddFriendship",
+    "ReluctantWarrior",
+    "TurtleShield",
+    "HumongousMecha",
+    "CrouchingMoronHiddenBadass",
+    "HumanDisguise",
+    "ForcedTransformation",
+    "TransformingMecha",
+    "EarlyBirdCameo",
+    "MeaningfulName",
+    "TheFogOfAges",
+    "RefusalOfTheCall",
+    "NighInvulnerable",
+    "WalkingSpoiler",
+    "BadassPacifist"
+  ],
   "tropes_by_category": {}
 }

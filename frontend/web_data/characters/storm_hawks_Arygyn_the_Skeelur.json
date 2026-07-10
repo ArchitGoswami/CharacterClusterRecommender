@@ -1,7 +1,21 @@
 {
   "name": "Arygyn the Skeelur",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Animorphism",
+    "AvianFlute",
+    "SuperSpeed",
+    "Leitmotif",
+    "VoluntaryShapeshifting",
+    "WaxOnWaxOff",
+    "BunnyEarsLawyer",
+    "PointyEars",
+    "AgentPeacock",
+    "AmbiguouslyGay",
+    "TheGadfly",
+    "TricksterMentor",
+    "NoSenseOfPersonalSpace"
+  ],
   "tropes_by_category": {}
 }

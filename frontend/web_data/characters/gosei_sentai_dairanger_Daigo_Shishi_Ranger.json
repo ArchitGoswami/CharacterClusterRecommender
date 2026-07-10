@@ -1,7 +1,25 @@
 {
   "name": "Daigo/Shishi Ranger",
   "show": "Gosei Sentai Dairanger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "RealMenWearPink",
+    "MundaneUtility",
+    "TheLancer",
+    "HumongousMecha",
+    "MasterOfIllusion",
+    "WhatTheHellHero",
+    "LargeHam",
+    "PerpetualFrowner",
+    "SensitiveGuyAndManlyMan",
+    "SignatureMove",
+    "GoodThingYouCanHeal",
+    "TheStoic",
+    "AsianLionDogs",
+    "GroinAttack",
+    "HotBlooded",
+    "DidNotGetTheGirl",
+    "UnstoppableRage"
+  ],
   "tropes_by_category": {}
 }

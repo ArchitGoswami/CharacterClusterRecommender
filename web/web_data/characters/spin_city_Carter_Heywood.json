@@ -1,7 +1,13 @@
 {
   "name": "Carter Heywood",
   "show": "Spin City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TwoferTokenMinority",
+    "HaveIMentionedIAmGay",
+    "GayBestFriend",
+    "OnlySaneMan",
+    "OnceAnEpisode"
+  ],
   "tropes_by_category": {}
 }

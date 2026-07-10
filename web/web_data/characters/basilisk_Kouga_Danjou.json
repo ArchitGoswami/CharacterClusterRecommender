@@ -1,7 +1,19 @@
 {
   "name": "Kouga Danjou",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Bishonen",
+    "BigOlEyebrows",
+    "ImprobableWeaponUser",
+    "IWasQuiteALooker",
+    "CombatPragmatist",
+    "StarCrossedLovers",
+    "EvilGloating",
+    "HoistByHisOwnPetard",
+    "OldSoldier",
+    "TogetherInDeath",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

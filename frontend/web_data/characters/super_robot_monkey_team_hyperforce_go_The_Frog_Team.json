@@ -1,7 +1,16 @@
 {
   "name": "The Frog Team",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FrogMen",
+    "NoNameGiven",
+    "BatmanCanBreatheInSpace",
+    "ColorCodedCharacters",
+    "VerbalTic",
+    "SelfParody",
+    "FireForgedFriends",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

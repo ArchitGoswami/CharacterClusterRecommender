@@ -1,7 +1,14 @@
 {
   "name": "Cristina",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ADayInTheLimelight",
+    "Deuteragonist",
+    "BirdsOfAFeather",
+    "CuteGhostGirl",
+    "Troll",
+    "TheTrickster"
+  ],
   "tropes_by_category": {}
 }

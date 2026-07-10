@@ -1,7 +1,14 @@
 {
   "name": "Aliens",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FlyingSaucer",
+    "EmotionEater",
+    "NoBiologicalSex",
+    "Really700YearsOld",
+    "Troll",
+    "ServantRace"
+  ],
   "tropes_by_category": {}
 }

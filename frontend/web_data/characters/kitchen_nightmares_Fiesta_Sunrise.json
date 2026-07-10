@@ -1,7 +1,28 @@
 {
   "name": "Fiesta Sunrise",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "SkewedPriorities",
+    "HypercompetentSidekick",
+    "FromBadToWorse",
+    "EpicFail",
+    "FunnyBackgroundEvent",
+    "TheQuietOne",
+    "WhatWereYouThinking",
+    "PerpetualFrowner",
+    "TheReasonYouSuckSpeech",
+    "SurroundedByIdiots",
+    "IWarnedYou",
+    "AwesomeButImpractical",
+    "DownerEnding",
+    "CaptainOblivious",
+    "DidntThinkThisThrough",
+    "HenpeckedHusband",
+    "HistoryRepeats",
+    "ReasonableAuthorityFigure",
+    "TemptingFate",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

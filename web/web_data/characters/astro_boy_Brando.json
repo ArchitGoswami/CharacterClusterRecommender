@@ -1,7 +1,12 @@
 {
   "name": "Brando",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "RoaringRampageOfRevenge",
+    "DemotedToExtra",
+    "RobotAthlete",
+    "Acrofatic"
+  ],
   "tropes_by_category": {}
 }

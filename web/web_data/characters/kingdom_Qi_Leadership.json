@@ -1,7 +1,14 @@
 {
   "name": "Qi Leadership",
   "show": "Kingdom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SnakesAreSinister",
+    "CreepyGood",
+    "BunnyEarsLawyer",
+    "OldFriend",
+    "BigEater",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

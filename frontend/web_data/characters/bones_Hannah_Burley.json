@@ -1,7 +1,23 @@
 {
   "name": "Hannah Burley",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ParentWithNewParamour",
+    "DifferingPrioritiesBreakup",
+    "CareerVersusMan",
+    "MsFanservice",
+    "LoveInterest",
+    "LoveConfession",
+    "ModestyBedsheet",
+    "IntrepidReporter",
+    "RomanticRunnerUp",
+    "CommonalityConnection",
+    "CommitmentIssues",
+    "RescueRomance",
+    "RomanticFalseLead",
+    "DistractedByTheSexy",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

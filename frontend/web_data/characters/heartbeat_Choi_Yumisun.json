@@ -1,7 +1,12 @@
 {
   "name": "Choi Yumisun",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SpannerInTheWorks",
+    "GuestStarPartyMember",
+    "RetiredBadass",
+    "HeroesPreferSwords"
+  ],
   "tropes_by_category": {}
 }

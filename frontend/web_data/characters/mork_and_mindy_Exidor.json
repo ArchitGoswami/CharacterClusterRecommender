@@ -1,7 +1,11 @@
 {
   "name": "Exidor",
   "show": "Mork and Mindy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "Cloudcuckoolander",
+    "HamToHamCombat",
+    "FunnySchizophrenia"
+  ],
   "tropes_by_category": {}
 }

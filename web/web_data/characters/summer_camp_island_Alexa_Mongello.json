@@ -1,7 +1,13 @@
 {
   "name": "Alexa Mongello",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TomboyAndGirlyGirl",
+    "Tomboy",
+    "TomboyWithAGirlyStreak",
+    "TomboyishBaseballCap",
+    "TomboyishPonytail"
+  ],
   "tropes_by_category": {}
 }

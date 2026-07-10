@@ -1,7 +1,25 @@
 {
   "name": "Heywood",
   "show": "The Shawshank Redemption",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Malaproper",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "CanonForeigner",
+    "PetTheDog",
+    "NiceGuy",
+    "SerialRapist",
+    "KickTheDog",
+    "Fanboy",
+    "InnocentlyInsensitive",
+    "MyGodWhatHaveIDone",
+    "PrisonRape",
+    "BreakThemByTalking",
+    "BookDumb",
+    "CharacterTic",
+    "ButtMonkey",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

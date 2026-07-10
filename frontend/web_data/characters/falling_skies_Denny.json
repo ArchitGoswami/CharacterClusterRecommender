@@ -1,7 +1,13 @@
 {
   "name": "Denny",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBigGirl",
+    "SuperStrength",
+    "HealingFactor",
+    "CruelAndUnusualDeath",
+    "HalfTheManHeUsedToBe"
+  ],
   "tropes_by_category": {}
 }

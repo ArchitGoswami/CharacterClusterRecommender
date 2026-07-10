@@ -1,7 +1,20 @@
 {
   "name": "Matt Burke",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CoolOldGuy",
+    "Expy",
+    "LogicalWeakness",
+    "TheChessmaster",
+    "CoolTeacher",
+    "NiceGuy",
+    "DroppedABridgeOnHim",
+    "GenreSavvy",
+    "RaceLift",
+    "RadioDrama",
+    "BrainwashedAndCrazy",
+    "ArmouredClosetGay"
+  ],
   "tropes_by_category": {}
 }

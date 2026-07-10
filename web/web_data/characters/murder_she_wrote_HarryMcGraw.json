@@ -1,7 +1,20 @@
 {
   "name": "HarryMcGraw",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AmusingInjuries",
+    "JerkWithAHeartOfGold",
+    "Deuteragonist",
+    "FilmNoir",
+    "WorkOffTheDebt",
+    "TheGamblingAddict",
+    "EmbarrassingFirstName",
+    "CozyMystery",
+    "PlayedForLaughs",
+    "PrivateDetective",
+    "WrongGenreSavvy",
+    "HardboiledDetective"
+  ],
   "tropes_by_category": {}
 }

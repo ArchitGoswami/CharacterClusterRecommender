@@ -1,7 +1,23 @@
 {
   "name": "Alex Kirkman",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "MoralityChain",
+    "OnlySaneWoman",
+    "KilledOffForReal",
+    "NotHelpingYourCase",
+    "CharacterDeath",
+    "FrameUp",
+    "WhatTheHellHero",
+    "BatmanGambit",
+    "GoodParents",
+    "HappilyMarried",
+    "MamaBear",
+    "RealLifeWritesThePlot",
+    "HelloAttorney",
+    "FirstNameBasis",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "The Consortium",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WouldHitAGirl",
+    "UtopiaJustifiesTheMeans",
+    "KickTheDog",
+    "ForScience",
+    "NecessarilyEvil",
+    "KnightTemplar"
+  ],
   "tropes_by_category": {}
 }

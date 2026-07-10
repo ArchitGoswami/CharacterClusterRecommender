@@ -1,7 +1,17 @@
 {
   "name": "Artephius",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheReveal",
+    "CastingGag",
+    "RunningGag",
+    "ThePollyanna",
+    "AmbiguousSituation",
+    "ObfuscatingStupidity",
+    "ForgetfulJones",
+    "MeaningfulName",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

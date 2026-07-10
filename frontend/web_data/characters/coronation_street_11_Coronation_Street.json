@@ -1,7 +1,30 @@
 {
   "name": "11 Coronation Street",
   "show": "Coronation Street",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "NiceGuy",
+    "JerkAss",
+    "DisproportionateRetribution",
+    "ButtMonkey",
+    "AbusiveParents",
+    "FreudianExcuse",
+    "DeadpanSnarker",
+    "BigBrotherInstinct",
+    "Jerkass",
+    "Gayngst",
+    "TookALevelInJerkass",
+    "GreenEyedMonster",
+    "DatingWhatDaddyHates",
+    "PetTheDog",
+    "ManipulativeBastard",
+    "MamaBear",
+    "MyGodWhatHaveIDone",
+    "CainAndAbel",
+    "GoodCannotComprehendEvil",
+    "HeelFaceTurn",
+    "OddFriendship",
+    "ScrewThisImOutOfHere"
+  ],
   "tropes_by_category": {}
 }

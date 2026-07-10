@@ -1,7 +1,14 @@
 {
   "name": "The Elvises",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "UnusuallyUninterestingSight",
+    "ElvishPresley",
+    "PutOnABus",
+    "ElvisImpersonator",
+    "ElvisLives",
+    "SpotlightStealingSquad"
+  ],
   "tropes_by_category": {}
 }

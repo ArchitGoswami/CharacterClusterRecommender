@@ -1,7 +1,16 @@
 {
   "name": "Hector Flanagan",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ForcefulKiss",
+    "Expy",
+    "TheBigGuy",
+    "FatBestFriend",
+    "FatIdiot",
+    "HeterosexualLifePartners",
+    "EyepatchOfPower",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Dr. Jacqueline Wade",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DeadpanSnarker",
+    "HugeGuyTinyGirl",
+    "LikeBrotherAndSister",
+    "PetTheDog",
+    "PluckyGirl",
+    "ShorterMeansSmarter",
+    "MarriedToTheJob",
+    "RecurringCharacter",
+    "SanitySlippage",
+    "YouAreBetterThanYouThinkYouAre",
+    "AscendedExtra",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

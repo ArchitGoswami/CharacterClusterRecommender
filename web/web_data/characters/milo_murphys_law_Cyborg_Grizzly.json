@@ -1,7 +1,22 @@
 {
   "name": "Cyborg Grizzly",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "Cyborg",
+    "TragicVillain",
+    "IJustWantToBeNormal",
+    "UnwittingTestSubject",
+    "TurnedAgainstTheirMasters",
+    "Revenge",
+    "HarmlessVillain",
+    "EverythingsWorseWithBears",
+    "EscapedFromTheLab",
+    "UnknownRival",
+    "MoodDissonance",
+    "AttackAnimal",
+    "MisplacedRetribution",
+    "DidntThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Sammie Jo Fuller",
   "show": "Quantum Leap",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "LukeIAmYourFather",
+    "PhotographicMemory",
+    "TheGhost",
+    "KidFromTheFuture",
+    "SpinOff",
+    "IdenticalGrandson",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

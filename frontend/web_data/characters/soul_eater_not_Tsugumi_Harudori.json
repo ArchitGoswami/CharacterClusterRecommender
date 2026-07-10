@@ -1,7 +1,24 @@
 {
   "name": "Tsugumi Harudori",
   "show": "Soul Eater NOT!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "ChickMagnet",
+    "DesperatelyLookingForAPurposeInLife",
+    "Catchphrase",
+    "InLoveWithLove",
+    "CurtainsMatchTheWindow",
+    "ACupAngst",
+    "DudeMagnet",
+    "PowerGivesYouWings",
+    "TakeAThirdOption",
+    "HeroWorshipper",
+    "GirlishPigtails",
+    "LoveTriangle",
+    "MeaningfulName",
+    "RidiculouslyAverageGuy",
+    "OnlySaneMan",
+    "ExpositoryHairstyleChange"
+  ],
   "tropes_by_category": {}
 }

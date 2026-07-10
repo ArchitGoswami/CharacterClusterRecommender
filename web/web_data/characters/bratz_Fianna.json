@@ -1,7 +1,14 @@
 {
   "name": "Fianna",
   "show": "Bratz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ProperLady",
+    "PutOnABus",
+    "PerformanceArtist",
+    "ShipTease",
+    "CharacterSignatureSong",
+    "AllegedLookAlikes"
+  ],
   "tropes_by_category": {}
 }

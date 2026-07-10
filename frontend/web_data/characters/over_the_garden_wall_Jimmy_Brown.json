@@ -1,7 +1,17 @@
 {
   "name": "Jimmy Brown",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DramaticUnmask",
+    "ClingyCostume",
+    "WalkingSpoiler",
+    "ScoobyDooHoax",
+    "ActOfTrueLove",
+    "InsistentTerminology",
+    "ButtMonkey",
+    "PoorCommunicationKills",
+    "KillerGorilla"
+  ],
   "tropes_by_category": {}
 }

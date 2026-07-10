@@ -1,7 +1,23 @@
 {
   "name": "Donald/Donna",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "SplitPersonality",
+    "DirtyCoward",
+    "ToxicFriendInfluence",
+    "HardDrinkingPartyGirl",
+    "SplitPersonalityTakeover",
+    "PutOnABus",
+    "TookALevelInJerkass",
+    "UnwittingInstigatorOfDoom",
+    "CostumePorn",
+    "CoDragons",
+    "StrawFeminist",
+    "MonsterFangirl",
+    "KavorkaMan",
+    "BadassPacifist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Bert Large",
   "show": "Doc Martin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BigFun",
+    "StraightMan",
+    "NeverBareheaded",
+    "Determinator",
+    "FatAndSkinny",
+    "MeaningfulName",
+    "HillbillyMoonshiner",
+    "FatIdiot",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

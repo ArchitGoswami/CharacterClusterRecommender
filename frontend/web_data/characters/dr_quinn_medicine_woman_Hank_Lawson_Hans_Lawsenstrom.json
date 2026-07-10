@@ -1,7 +1,14 @@
 {
   "name": "Hank Lawson/Hans Lawsenstrom",
   "show": "Dr. Quinn, Medicine Woman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "EvenBadMenLoveTheirMamas",
+    "JerkWithAHeartOfGold",
+    "BadPeopleAbuseAnimals",
+    "HiddenDepths",
+    "DisproportionateRetribution",
+    "NaturalizedName"
+  ],
   "tropes_by_category": {}
 }

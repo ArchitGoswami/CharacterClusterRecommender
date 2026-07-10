@@ -1,7 +1,9 @@
 {
   "name": "Rabid Ruth",
   "show": "American Horror Stories",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "CassandraTruth"
+  ],
   "tropes_by_category": {}
 }

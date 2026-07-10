@@ -1,7 +1,20 @@
 {
   "name": "Marisa",
   "show": "K.C. Undercover",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "TheSocialExpert",
+    "Expy",
+    "SpoiledBrat",
+    "DownplayedTrope",
+    "DumbBlonde",
+    "BrainlessBeauty",
+    "GenkiGirl",
+    "TokenWhite",
+    "TomboyAndGirlyGirl",
+    "BookDumb",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

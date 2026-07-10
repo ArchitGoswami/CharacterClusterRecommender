@@ -1,7 +1,14 @@
 {
   "name": "Model Robot",
   "show": "Perfect Hair Forever",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheyKilledKennyAgain",
+    "VocalEvolution",
+    "MiniMecha",
+    "UnexplainedRecovery",
+    "DemotedToExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

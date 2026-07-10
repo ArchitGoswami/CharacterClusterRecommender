@@ -1,7 +1,27 @@
 {
   "name": "Arthur Daley",
   "show": "Minder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "HonestJohnsDealership",
+    "ConMan",
+    "PlayingSick",
+    "TrademarkFavouriteDrink",
+    "GetRichQuickScheme",
+    "JerkWithAHeartOfGold",
+    "HarmlessVillain",
+    "CigarChomper",
+    "DependingOnTheWriter",
+    "Malaproper",
+    "DelusionsOfEloquence",
+    "LovableCoward",
+    "CharacterisationMarchesOn",
+    "NostalgiaFilter",
+    "LoveableRogue",
+    "TookALevelInKindness",
+    "DiscoDan",
+    "ALighterShadeOfBlack",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

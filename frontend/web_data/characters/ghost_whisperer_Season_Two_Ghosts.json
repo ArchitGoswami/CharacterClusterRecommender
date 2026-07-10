@@ -1,7 +1,12 @@
 {
   "name": "Season Two Ghosts",
   "show": "Ghost Whisperer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WickedStepfather",
+    "TurnTheOtherCheek",
+    "McGuffin",
+    "DisappearedDad"
+  ],
   "tropes_by_category": {}
 }

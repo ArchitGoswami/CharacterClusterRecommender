@@ -1,7 +1,10 @@
 {
   "name": "Rick Newhouse",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "WhatHappenedToTheMouse",
+    "GoodParents"
+  ],
   "tropes_by_category": {}
 }

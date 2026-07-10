@@ -1,7 +1,14 @@
 {
   "name": "Bradford Meade",
   "show": "Ugly Betty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "GuessWhoImMarrying",
+    "IKissYourFoot",
+    "CharacterDeath",
+    "FakeAmerican",
+    "Hypocrite",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

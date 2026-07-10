@@ -1,7 +1,18 @@
 {
   "name": "Ed Cash and Carl Pathos",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Blackmail",
+    "CorruptChurch",
+    "NoCelebritiesWereHarmed",
+    "HidingBehindReligion",
+    "GreedyTelevangelist",
+    "BestialityIsDepraved",
+    "RippedFromTheHeadlines",
+    "ScamReligion",
+    "ReallyGetsAround",
+    "ExtremeLibido"
+  ],
   "tropes_by_category": {}
 }

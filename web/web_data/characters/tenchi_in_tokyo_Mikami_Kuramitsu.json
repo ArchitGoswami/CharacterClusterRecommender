@@ -1,7 +1,18 @@
 {
   "name": "Mikami Kuramitsu",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheManBehindTheMan",
+    "Stripperific",
+    "HardDrinkingPartyGirl",
+    "ComedicShotacon",
+    "DualAgeModes",
+    "OlderThanTheyLook",
+    "BunnyEarsLawyer",
+    "ApronMatron",
+    "CleavageWindow",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

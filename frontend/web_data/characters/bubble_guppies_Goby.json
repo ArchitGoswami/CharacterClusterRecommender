@@ -1,7 +1,13 @@
 {
   "name": "Goby",
   "show": "Bubble Guppies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "RedOniBlueOni",
+    "MrImagination",
+    "MeaningfulName",
+    "Keet",
+    "BreakTheCutie"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Young Mr. Grace",
   "show": "Are You Being Served?",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BenevolentBoss",
+    "IronicNickname",
+    "ButNotTooWhite",
+    "KilledOffscreen",
+    "PetTheDog",
+    "HollywoodHeartAttack",
+    "PutOnABus",
+    "ObfuscatingStupidity",
+    "BigDamnHeroes",
+    "RealLifeWritesThePlot",
+    "NoSympathy",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

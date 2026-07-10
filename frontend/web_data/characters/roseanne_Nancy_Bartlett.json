@@ -1,7 +1,18 @@
 {
   "name": "Nancy Bartlett",
   "show": "Roseanne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "GoingCommando",
+    "NoBisexuals",
+    "CloudCuckooLander",
+    "SlapSlapKiss",
+    "LipstickLesbian",
+    "ItsAllAboutMe",
+    "DepravedBisexual",
+    "BuxomBeautyStandard",
+    "AscendedExtra",
+    "KavorkaMan"
+  ],
   "tropes_by_category": {}
 }

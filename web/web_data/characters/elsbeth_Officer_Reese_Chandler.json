@@ -1,7 +1,10 @@
 {
   "name": "Officer Reese Chandler",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheWatson",
+    "MotorMouth"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "LieutenantDiMartini",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HeroWithBadPublicity",
+    "NewJobAsThePlotDemands"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Gabriel/Gabriella",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "GatlingGood",
+    "StatuesqueStunner",
+    "MightyGlacier",
+    "DeathIsNotPermanent",
+    "YouDontLookLikeYou",
+    "GenderFlip",
+    "SobriquetSexSwitch"
+  ],
   "tropes_by_category": {}
 }

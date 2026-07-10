@@ -1,7 +1,24 @@
 {
   "name": "Murky Dismal",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "AdaptationalHairstyleChange",
+    "GadgeteerGenius",
+    "NotSoHarmlessVillain",
+    "BigBad",
+    "SinisterSchnoz",
+    "VillainSong",
+    "MadScientist",
+    "NiceJobFixingItVillain",
+    "GreenAndMean",
+    "AdaptationalSlimness",
+    "VillainTeamUp",
+    "Really700YearsOld",
+    "BaldOfEvil",
+    "DragonAscendant",
+    "TheStarscream",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

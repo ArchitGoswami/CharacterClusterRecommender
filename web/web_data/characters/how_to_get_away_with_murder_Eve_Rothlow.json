@@ -1,7 +1,19 @@
 {
   "name": "Eve Rothlow",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DarkSecret",
+    "SingleTargetSexuality",
+    "OneHeadTaller",
+    "AmoralAttorney",
+    "OnlyFriend",
+    "MarriedToTheJob",
+    "MeaningfulName",
+    "MoralityPet",
+    "ColorMotifs",
+    "EveryoneHasStandards",
+    "FriendsWithBenefits"
+  ],
   "tropes_by_category": {}
 }

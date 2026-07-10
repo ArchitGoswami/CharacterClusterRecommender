@@ -1,7 +1,11 @@
 {
   "name": "Det. Patricia \"Patsy\" Mayo",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "GroinAttack",
+    "AccidentalAimingSkills",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

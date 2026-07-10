@@ -1,7 +1,11 @@
 {
   "name": "Toru Shimaya",
   "show": "Duel Masters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DemotedToExtra",
+    "TheWorfEffect",
+    "GreenThumb"
+  ],
   "tropes_by_category": {}
 }

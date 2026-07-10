@@ -1,7 +1,19 @@
 {
   "name": "Florence Craye",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AdaptationalJerkass",
+    "KickTheDog",
+    "RichBitch",
+    "GirlOfTheWeek",
+    "MinorFlawMajorBreakup",
+    "ThinksLikeARomanceNovel",
+    "InvertedTrope",
+    "NotWhatItLooksLike",
+    "ICanChangeMyBeloved",
+    "AbhorrentAdmirer",
+    "TheCaligula"
+  ],
   "tropes_by_category": {}
 }

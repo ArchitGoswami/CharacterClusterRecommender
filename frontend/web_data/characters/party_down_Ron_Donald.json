@@ -1,7 +1,16 @@
 {
   "name": "Ron Donald",
   "show": "Party Down",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BerserkButton",
+    "SelfServingMemory",
+    "StupidBoss",
+    "TheDeterminator",
+    "TheStoner",
+    "GloryDays",
+    "ImportantHaircut",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

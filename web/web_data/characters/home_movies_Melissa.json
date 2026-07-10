@@ -1,7 +1,22 @@
 {
   "name": "Melissa",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ActionGirl",
+    "ClingyJealousGirl",
+    "UncannyValleyMakeup",
+    "ShipperOnDeck",
+    "WhyDidItHaveToBeSnakes",
+    "TheHeart",
+    "TheNoseless",
+    "DaddysGirl",
+    "GirlyGirl",
+    "AmbiguouslyBrown",
+    "BewareTheNiceOnes",
+    "MissingMom",
+    "BreakTheCutie",
+    "BrattyTeenageDaughter"
+  ],
   "tropes_by_category": {}
 }

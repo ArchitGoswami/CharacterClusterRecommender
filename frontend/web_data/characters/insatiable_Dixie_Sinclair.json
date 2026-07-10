@@ -1,7 +1,12 @@
 {
   "name": "Dixie Sinclair",
   "show": "Insatiable",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BetaBitch",
+    "LaserGuidedKarma",
+    "AsianAirhead",
+    "AsianRudeness"
+  ],
   "tropes_by_category": {}
 }

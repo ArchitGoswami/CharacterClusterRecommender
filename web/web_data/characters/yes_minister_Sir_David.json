@@ -1,7 +1,9 @@
 {
   "name": "Sir David",
   "show": "Yes, Minister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "MeaningfulName"
+  ],
   "tropes_by_category": {}
 }

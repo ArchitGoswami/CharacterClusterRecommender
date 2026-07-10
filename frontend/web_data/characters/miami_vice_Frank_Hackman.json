@@ -1,7 +1,24 @@
 {
   "name": "Frank Hackman",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "EyeForAnEye",
+    "BestServedCold",
+    "WouldHitAGirl",
+    "ChekhovsGunman",
+    "BaldOfEvil",
+    "LaserGuidedKarma",
+    "BigBad",
+    "EvenEvilHasLovedOnes",
+    "AmbiguousSituation",
+    "VillainsOutShopping",
+    "TheSociopath",
+    "IdiotBall",
+    "ReturningBigBad",
+    "FromNobodyToNightmare",
+    "ActuallyPrettyFunny",
+    "LastMinuteReprieve"
+  ],
   "tropes_by_category": {}
 }

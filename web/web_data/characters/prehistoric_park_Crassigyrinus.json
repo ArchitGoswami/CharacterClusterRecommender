@@ -1,7 +1,14 @@
 {
   "name": "Crassigyrinus",
   "show": "Prehistoric Park",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AmphibianAtLarge",
+    "SuspiciouslySimilarSubstitute",
+    "ArtisticLicensePaleontology",
+    "SwampMonster",
+    "RuleOfCool",
+    "AnachronismStew"
+  ],
   "tropes_by_category": {}
 }

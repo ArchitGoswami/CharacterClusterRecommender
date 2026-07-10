@@ -1,7 +1,26 @@
 {
   "name": "Rat Face",
   "show": "Total Drama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "HatedByAll",
+    "TheLeader",
+    "DwindlingParty",
+    "TheBigGuy",
+    "Deuteragonist",
+    "TheLancer",
+    "PickedLast",
+    "TheProtagonist",
+    "Inverted",
+    "TheSmartGirl",
+    "TownGirls",
+    "TheHeart",
+    "TheLoad",
+    "ItsPersonal",
+    "TwoGirlsToATeam",
+    "TheFriendNobodyLikes",
+    "TokenMinority",
+    "HistoryRepeats"
+  ],
   "tropes_by_category": {}
 }

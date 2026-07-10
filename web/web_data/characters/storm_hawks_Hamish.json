@@ -1,7 +1,11 @@
 {
   "name": "Hamish",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "YouthfulFreckles",
+    "IneffectualSympatheticVillain",
+    "TheBeastmaster"
+  ],
   "tropes_by_category": {}
 }

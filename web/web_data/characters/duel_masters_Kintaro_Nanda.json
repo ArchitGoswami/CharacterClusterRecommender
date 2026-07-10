@@ -1,7 +1,16 @@
 {
   "name": "Kintaro Nanda",
   "show": "Duel Masters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OurElvesAreDifferent",
+    "BreakTheHaughty",
+    "YouHaveFailedMe",
+    "BunnyEarsLawyer",
+    "OurDragonsAreDifferent",
+    "VagueAge",
+    "ManaBurn",
+    "BadassInANiceSuit"
+  ],
   "tropes_by_category": {}
 }

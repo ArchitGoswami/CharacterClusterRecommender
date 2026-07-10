@@ -1,7 +1,19 @@
 {
   "name": "Rex Pester",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AccidentalMisnaming",
+    "ImmoralJournalist",
+    "Jerkass",
+    "LaserGuidedKarma",
+    "VillainHasAPoint",
+    "HateSink",
+    "HumiliationConga",
+    "KarmicButtMonkey",
+    "TheAntagonist",
+    "LargeHam",
+    "DodgyToupee"
+  ],
   "tropes_by_category": {}
 }

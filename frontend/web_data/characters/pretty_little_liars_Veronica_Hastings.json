@@ -1,7 +1,23 @@
 {
   "name": "Veronica Hastings",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "TallDarkAndSnarky",
+    "DarkSecret",
+    "DeadpanSnarker",
+    "NonIdleRich",
+    "ShipperOnDeck",
+    "StatuesqueStunner",
+    "AmoralAttorney",
+    "PutOnABus",
+    "MamaBear",
+    "ParentalFavoritism",
+    "TwentiesBobHaircut",
+    "HelloAttorney",
+    "AloofDarkHairedGirl",
+    "OpenMindedParent",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

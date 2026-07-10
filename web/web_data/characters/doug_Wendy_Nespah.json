@@ -1,7 +1,13 @@
 {
   "name": "Wendy Nespah",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "WomenAreWiser",
+    "TheSmurfettePrinciple",
+    "OneHitWonder",
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Nindjas",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "GoodHairEvilHair",
+    "FamedInStory",
+    "CoolMask",
+    "TheLeader",
+    "PhotographicMemory",
+    "KatanasAreJustBetter",
+    "AllAsiansWearConicalStrawHats",
+    "PunnyName",
+    "TechnicolorNinjas",
+    "MartialArtsStaff",
+    "OldMaster",
+    "OurDragonsAreDifferent",
+    "MartialFuManchuMustache",
+    "ColorCodedForYourConvenience",
+    "NestedMouths",
+    "Cyclops",
+    "Ninja"
+  ],
   "tropes_by_category": {}
 }

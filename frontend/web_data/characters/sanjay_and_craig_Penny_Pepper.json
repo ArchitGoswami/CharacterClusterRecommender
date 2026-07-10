@@ -1,7 +1,14 @@
 {
   "name": "Penny Pepper",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CloudCuckooLander",
+    "GenderBlenderName",
+    "NiceGuy",
+    "SensitiveGuyAndManlyMan",
+    "SeriousBusiness",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "VRV Master",
   "show": "Gekisou Sentai Carranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Foreshadowing",
+    "HeroicSacrifice",
+    "LukeIAmYourFather",
+    "TeamDad",
+    "WalkingTheEarth",
+    "HumongousMecha",
+    "ReportsOfMyDeathWereGreatlyExaggerated",
+    "SpottingTheThread",
+    "BatmanGambit",
+    "NonActionGuy",
+    "BadassInDistress",
+    "PapaWolf",
+    "SixthRanger",
+    "LargeHam",
+    "MysteriousProtector"
+  ],
   "tropes_by_category": {}
 }

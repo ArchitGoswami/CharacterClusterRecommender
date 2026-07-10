@@ -1,7 +1,19 @@
 {
   "name": "Jorge Castillo",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MoralMyopia",
+    "ArchnemesisDad",
+    "PetTheDog",
+    "WolfInSheepsClothing",
+    "BigBad",
+    "KnightTemplarParent",
+    "JerkWithAHeartOfJerk",
+    "DomesticAbuse",
+    "ReasonYouSuckSpeech",
+    "Greed",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

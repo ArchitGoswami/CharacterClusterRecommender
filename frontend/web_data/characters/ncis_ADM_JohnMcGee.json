@@ -1,7 +1,14 @@
 {
   "name": "ADM JohnMcGee",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BusCrash",
+    "MilitaryBrat",
+    "JerkAss",
+    "NotSoDifferentRemark",
+    "ParentsAsPeople",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Winslow",
   "show": "CatDog",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SitcomArchNemesis",
+    "DeadpanSnarker",
+    "Catchphrase",
+    "SidekickCreatureNuisance",
+    "PetTheDog",
+    "DropInCharacter",
+    "EvilLaugh",
+    "JerkassToOne",
+    "JerkWithAHeartOfJerk",
+    "IOweYouMyLife",
+    "TheNapoleon",
+    "InformedSpecies",
+    "BlackBeadEyes",
+    "CartoonCreature",
+    "TheGadfly",
+    "EvenEvilHasStandards",
+    "CharacterizationMarchesOn",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

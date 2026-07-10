@@ -1,7 +1,13 @@
 {
   "name": "Wordsworth",
   "show": "Heathcliff and the Catillac Cats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PainfulRhyme",
+    "AmbiguouslyGay",
+    "TheSmartGuy",
+    "RhymesOnADime",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

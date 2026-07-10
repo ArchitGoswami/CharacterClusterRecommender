@@ -1,7 +1,18 @@
 {
   "name": "Mrs. Estelle Dabney",
   "show": "Good Luck Charlie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DeadpanSnarker",
+    "SassyBlackWoman",
+    "WorthyOpponent",
+    "SnarkToSnarkCombat",
+    "ManipulativeBastard",
+    "MistakenForMurderer",
+    "PolarOppositeTwins",
+    "EvilRedhead",
+    "ManipulativeBitch",
+    "UncannyFamilyResemblance"
+  ],
   "tropes_by_category": {}
 }

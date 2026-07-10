@@ -1,7 +1,31 @@
 {
   "name": "Temutai",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "EvilSoundsDeep",
+    "GoKartingWithBowser",
+    "InformedAbility",
+    "SuddenlyShouting",
+    "RedEyesTakeWarning",
+    "UngratefulBastard",
+    "AffablyEvil",
+    "StrangeMindsThinkAlike",
+    "TheDreaded",
+    "WorfHadTheFlu",
+    "TheBrute",
+    "CharacterizationMarchesOn",
+    "NoIndoorVoice",
+    "RunningGag",
+    "PetTheDog",
+    "SayMyName",
+    "LargeAndInCharge",
+    "FridgeBrilliance",
+    "PapaWolf",
+    "BullSeeingRed",
+    "BrutishBulls",
+    "MirrorCharacter",
+    "BadLiar"
+  ],
   "tropes_by_category": {}
 }

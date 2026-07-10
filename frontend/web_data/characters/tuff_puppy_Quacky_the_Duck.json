@@ -1,7 +1,22 @@
 {
   "name": "Quacky the Duck",
   "show": "T.U.F.F. Puppy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "FlawExploitation",
+    "NoCelebritiesWereHarmed",
+    "ShowWithinAShow",
+    "SuspiciouslySpecificDenial",
+    "DepravedKidsShowHost",
+    "PaperThinDisguise",
+    "VillainHasAPoint",
+    "FalselyReformedVillain",
+    "EarlyBirdCameo",
+    "FoulWaterfowl",
+    "FaceHeelTurn",
+    "SeriousBusiness",
+    "ExcitedKidsShowHost",
+    "VillainWithGoodPublicity"
+  ],
   "tropes_by_category": {}
 }

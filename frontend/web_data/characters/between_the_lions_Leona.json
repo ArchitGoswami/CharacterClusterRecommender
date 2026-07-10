@@ -1,7 +1,11 @@
 {
   "name": "Leona",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AnnoyingYoungerSibling",
+    "CheerfulChild",
+    "AccessoryWearingCartoonAnimal"
+  ],
   "tropes_by_category": {}
 }

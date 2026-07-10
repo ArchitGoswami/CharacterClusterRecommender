@@ -1,7 +1,16 @@
 {
   "name": "Frenchie",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "EveryEpisodeEnding",
+    "Leitmotif",
+    "ComicallyMissingThePoint",
+    "TheFriendNobodyLikes",
+    "PerpetualSmiler",
+    "DiscoDan",
+    "TheCharmer"
+  ],
   "tropes_by_category": {}
 }

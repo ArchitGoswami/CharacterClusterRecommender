@@ -1,7 +1,15 @@
 {
   "name": "Jock Goldman",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HeelFaceTurn",
+    "IWantMyBelovedToBeHappy",
+    "GracefulLoser",
+    "AcademicAthlete",
+    "YoungerThanTheyLook",
+    "HiddenDepths",
+    "NakedPeopleAreFunny"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Michael Harris",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AssholeVictim"
+  ],
   "tropes_by_category": {}
 }

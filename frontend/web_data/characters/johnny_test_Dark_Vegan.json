@@ -1,7 +1,19 @@
 {
   "name": "Dark Vegan",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AliensSpeakingEnglish",
+    "VillainDecay",
+    "AliensLoveHumanFood",
+    "EvenEvilHasLovedOnes",
+    "BrainlessBeauty",
+    "HumanAliens",
+    "PlanetLooters",
+    "TrademarkFavoriteFood",
+    "WellIntentionedExtremist",
+    "LaserBlade",
+    "JediMindTrick"
+  ],
   "tropes_by_category": {}
 }

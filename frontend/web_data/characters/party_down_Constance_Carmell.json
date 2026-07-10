@@ -1,7 +1,15 @@
 {
   "name": "Constance Carmell",
   "show": "Party Down",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheBusCameBack",
+    "TheDitz",
+    "SelfServingMemory",
+    "PutOnABus",
+    "NoSenseOfPersonalSpace",
+    "MeaningfulName",
+    "AgeGapRomance"
+  ],
   "tropes_by_category": {}
 }

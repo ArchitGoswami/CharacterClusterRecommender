@@ -1,7 +1,21 @@
 {
   "name": "Octacon",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "WarmUpBoss",
+    "FlunkyBoss",
+    "DeathGlare",
+    "YourHeadAsplode",
+    "FunnelMouthedCephalopod",
+    "ColdOpen",
+    "MindManipulation",
+    "TentacledTerror",
+    "PlayingWithFire",
+    "VillainOpeningScene",
+    "StarterVillain",
+    "CanonImmigrant",
+    "AttackOfTheFiftyFootWhatever"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Lisa Zemo",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "BeautifulAllAlong",
+    "BlindWithoutThem",
+    "SicklyNeuroticGeek",
+    "Gasshole",
+    "LoveMakesYouCrazy",
+    "Yandere",
+    "DudeMagnet",
+    "NerdGlasses",
+    "DemotedToExtra",
+    "ComicallyMissingThePoint",
+    "UnrequitedLoveSwitcheroo",
+    "TheGlassesGottaGo",
+    "WellIntentionedExtremist",
+    "SatelliteLoveInterest",
+    "BespectacledCutie",
+    "CloudCuckoolander",
+    "AbhorrentAdmirer",
+    "SheCleansUpNicely"
+  ],
   "tropes_by_category": {}
 }

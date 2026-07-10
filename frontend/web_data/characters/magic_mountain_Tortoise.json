@@ -1,7 +1,19 @@
 {
   "name": "Tortoise",
   "show": "Magic Mountain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "OnlySaneWoman",
+    "TeamMom",
+    "GadgeteerGenius",
+    "NotSoAboveItAll",
+    "WiseOldTurtle",
+    "AllOfTheOtherReindeer",
+    "DamselInDistress",
+    "BigDamnHeroes",
+    "BroodingBoyGentleGirl",
+    "IJustWantToBeSpecial",
+    "AgentScully"
+  ],
   "tropes_by_category": {}
 }

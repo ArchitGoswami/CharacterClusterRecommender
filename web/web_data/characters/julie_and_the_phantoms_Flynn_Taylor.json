@@ -1,7 +1,16 @@
 {
   "name": "Flynn Taylor",
   "show": "Julie and the Phantoms",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "RedOniBlueOni",
+    "UndyingLoyalty",
+    "SecretKeeper",
+    "EatingTheEyeCandy",
+    "PositiveFriendInfluence",
+    "HonoraryTrueCompanion",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

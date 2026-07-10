@@ -1,7 +1,13 @@
 {
   "name": "Donna Eleese",
   "show": "Quantum Leap",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SadisticChoice",
+    "TimeshiftedActor",
+    "IWillWaitForYou",
+    "RunawayBride",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

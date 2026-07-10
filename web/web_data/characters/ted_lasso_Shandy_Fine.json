@@ -1,7 +1,13 @@
 {
   "name": "Shandy Fine",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Foil",
+    "BunnyEarsLawyer",
+    "NotSoSimilar",
+    "NoSuchThingAsBadPublicity",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

@@ -270,21 +270,6 @@
       "trope_count": 3,
       "id": "abbott_elementary"
     },
-    "Willy R. Abbott V": {
-      "show": "Abbott Elementary",
-      "trope_count": 0,
-      "id": "abbott_elementary"
-    },
-    "Timothy": {
-      "show": "Abbott Elementary",
-      "trope_count": 0,
-      "id": "abbott_elementary"
-    },
-    "Caroline": {
-      "show": "Abbott Elementary",
-      "trope_count": 0,
-      "id": "abbott_elementary"
-    },
     "John Reynolds": {
       "show": "Abbott Elementary",
       "trope_count": 2,
@@ -295,19 +280,9 @@
       "trope_count": 4,
       "id": "abbott_elementary"
     },
-    "Avi": {
-      "show": "Abbott Elementary",
-      "trope_count": 0,
-      "id": "abbott_elementary"
-    },
     "Olivia": {
       "show": "Abbott Elementary",
       "trope_count": 2,
-      "id": "abbott_elementary"
-    },
-    "The Volunteers": {
-      "show": "Abbott Elementary",
-      "trope_count": 0,
       "id": "abbott_elementary"
     },
     "Tammy": {
@@ -534,11 +509,6 @@
       "show": "ALF",
       "trope_count": 4,
       "id": "alf"
-    },
-    "The Organizations": {
-      "show": "Alias",
-      "trope_count": 0,
-      "id": "alias"
     },
     "Sydney Bristow": {
       "show": "Alias",
@@ -1128,11 +1098,6 @@
     "Larry Paul": {
       "show": "Ally McBeal",
       "trope_count": 2,
-      "id": "ally_mcbeal"
-    },
-    "Coretta Lipp": {
-      "show": "Ally McBeal",
-      "trope_count": 0,
       "id": "ally_mcbeal"
     },
     "Jenny Shaw": {
@@ -2025,11 +1990,6 @@
       "trope_count": 4,
       "id": "andromeda"
     },
-    "Constanza Stark": {
-      "show": "Andromeda",
-      "trope_count": 0,
-      "id": "andromeda"
-    },
     "Carrie Bradshaw": {
       "show": "And Just Like That",
       "trope_count": 36,
@@ -2268,11 +2228,6 @@
     "Dunkleosteus": {
       "show": "Animal Armageddon",
       "trope_count": 4,
-      "id": "animal_armageddon"
-    },
-    "Tiktaalik": {
-      "show": "Animal Armageddon",
-      "trope_count": 0,
       "id": "animal_armageddon"
     },
     "Ichthyostega": {
@@ -2860,11 +2815,6 @@
       "trope_count": 16,
       "id": "archive_81"
     },
-    "Mark": {
-      "show": "Archive 81",
-      "trope_count": 0,
-      "id": "archive_81"
-    },
     "Melody": {
       "show": "Archive 81",
       "trope_count": 2,
@@ -2878,11 +2828,6 @@
     "Samuel": {
       "show": "Archive 81",
       "trope_count": 6,
-      "id": "archive_81"
-    },
-    "Ratty": {
-      "show": "Archive 81",
-      "trope_count": 0,
       "id": "archive_81"
     },
     "Jacob": {
@@ -5845,11 +5790,6 @@
       "trope_count": 3,
       "id": "blood_drive"
     },
-    "Karma D'Argento": {
-      "show": "Blood Drive",
-      "trope_count": 0,
-      "id": "blood_drive"
-    },
     "Tom Croydon": {
       "show": "Blue Heelers",
       "trope_count": 9,
@@ -6123,21 +6063,6 @@
     "Christina Wheeler": {
       "show": "Bob Hearts Abishola",
       "trope_count": 3,
-      "id": "bob_hearts_abishola"
-    },
-    "Max Wheeler": {
-      "show": "Bob Hearts Abishola",
-      "trope_count": 0,
-      "id": "bob_hearts_abishola"
-    },
-    "Goodwin": {
-      "show": "Bob Hearts Abishola",
-      "trope_count": 0,
-      "id": "bob_hearts_abishola"
-    },
-    "Kofo": {
-      "show": "Bob Hearts Abishola",
-      "trope_count": 0,
       "id": "bob_hearts_abishola"
     },
     "Gloria": {
@@ -11365,11 +11290,6 @@
       "trope_count": 6,
       "id": "csi_ny"
     },
-    "Louie Messer": {
-      "show": "CSI: NY",
-      "trope_count": 0,
-      "id": "csi_ny"
-    },
     "Reed Garrett": {
       "show": "CSI: NY",
       "trope_count": 5,
@@ -11410,11 +11330,6 @@
       "trope_count": 6,
       "id": "csi_ny"
     },
-    "Sonny Sassone": {
-      "show": "CSI: NY",
-      "trope_count": 0,
-      "id": "csi_ny"
-    },
     "D.J. Pratt": {
       "show": "CSI: NY",
       "trope_count": 2,
@@ -11453,11 +11368,6 @@
     "John Curtis": {
       "show": "CSI: NY",
       "trope_count": 3,
-      "id": "csi_ny"
-    },
-    "Bogdhan Ivanov": {
-      "show": "CSI: NY",
-      "trope_count": 0,
       "id": "csi_ny"
     },
     "Daniel Katums": {
@@ -11728,16 +11638,6 @@
     "Bum": {
       "show": "Dallas",
       "trope_count": 2,
-      "id": "dallas"
-    },
-    "Governor SamMcConaughey": {
-      "show": "Dallas",
-      "trope_count": 0,
-      "id": "dallas"
-    },
-    "Ken Richards": {
-      "show": "Dallas",
-      "trope_count": 0,
       "id": "dallas"
     },
     "Patty Hewes": {
@@ -12758,11 +12658,6 @@
     "Trey Kirkman": {
       "show": "Designated Survivor",
       "trope_count": 6,
-      "id": "designated_survivor"
-    },
-    "Sasha Booker": {
-      "show": "Designated Survivor",
-      "trope_count": 0,
       "id": "designated_survivor"
     },
     "National Security Advisor and Vice President-elect Aaron Shore": {
@@ -14310,11 +14205,6 @@
       "trope_count": 16,
       "id": "ducktales"
     },
-    "Gyro Gearloose": {
-      "show": "DuckTales",
-      "trope_count": 0,
-      "id": "ducktales"
-    },
     "LaunchpadMcQuack": {
       "show": "DuckTales",
       "trope_count": 62,
@@ -14413,11 +14303,6 @@
     "Felina Mitzigrovna": {
       "show": "DuckTales",
       "trope_count": 7,
-      "id": "ducktales"
-    },
-    "Flintheart Glomgold": {
-      "show": "DuckTales",
-      "trope_count": 0,
       "id": "ducktales"
     },
     "MagicaDeSpell": {
@@ -15038,16 +14923,6 @@
     "Fury": {
       "show": "Earth 2",
       "trope_count": 9,
-      "id": "earth_2"
-    },
-    "The Hunger Dogs": {
-      "show": "Earth 2",
-      "trope_count": 0,
-      "id": "earth_2"
-    },
-    "Kanto": {
-      "show": "Earth 2",
-      "trope_count": 0,
       "id": "earth_2"
     },
     "Four Furies of Apokolips": {
@@ -15985,19 +15860,9 @@
       "trope_count": 1,
       "id": "falling_skies"
     },
-    "Mike Thompson": {
-      "show": "Falling Skies",
-      "trope_count": 0,
-      "id": "falling_skies"
-    },
     "Rick Thompson": {
       "show": "Falling Skies",
       "trope_count": 4,
-      "id": "falling_skies"
-    },
-    "Terry Clayton": {
-      "show": "Falling Skies",
-      "trope_count": 0,
       "id": "falling_skies"
     },
     "Jamil Dexter": {
@@ -16918,11 +16783,6 @@
     "Mr. Baldwin": {
       "show": "Fish Hooks",
       "trope_count": 5,
-      "id": "fish_hooks"
-    },
-    "Ms. Lulu Lips": {
-      "show": "Fish Hooks",
-      "trope_count": 0,
       "id": "fish_hooks"
     },
     "Coach Salmons": {
@@ -18540,11 +18400,6 @@
       "trope_count": 1,
       "id": "get_smart"
     },
-    "Dr. Steele": {
-      "show": "Get Smart",
-      "trope_count": 0,
-      "id": "get_smart"
-    },
     "Starker": {
       "show": "Get Smart",
       "trope_count": 5,
@@ -18993,11 +18848,6 @@
     "Dr. Hisashi Imakurusu": {
       "show": "Ghost in the Shell: Stand Alone Complex",
       "trope_count": 1,
-      "id": "ghost_in_the_shell_stand_alone_complex"
-    },
-    "Ernest Serano": {
-      "show": "Ghost in the Shell: Stand Alone Complex",
-      "trope_count": 0,
       "id": "ghost_in_the_shell_stand_alone_complex"
     },
     "Unknown Paratrooper": {
@@ -19995,11 +19845,6 @@
       "trope_count": 1,
       "id": "greys_anatomy"
     },
-    "Little Tuck": {
-      "show": "Grey's Anatomy",
-      "trope_count": 0,
-      "id": "greys_anatomy"
-    },
     "Carlos Torres": {
       "show": "Grey's Anatomy",
       "trope_count": 3,
@@ -20440,16 +20285,6 @@
       "trope_count": 1,
       "id": "gullah_gullah_island"
     },
-    "Corey": {
-      "show": "Gullah Gullah Island",
-      "trope_count": 0,
-      "id": "gullah_gullah_island"
-    },
-    "Miguel": {
-      "show": "Gullah Gullah Island",
-      "trope_count": 0,
-      "id": "gullah_gullah_island"
-    },
     "Chansome the Pelican": {
       "show": "Gullah Gullah Island",
       "trope_count": 1,
@@ -20745,11 +20580,6 @@
       "trope_count": 8,
       "id": "happy_days"
     },
-    "Grandma Nussbaum": {
-      "show": "Happy Days",
-      "trope_count": 0,
-      "id": "happy_days"
-    },
     "Lori Beth Allen": {
       "show": "Happy Days",
       "trope_count": 9,
@@ -20950,16 +20780,6 @@
       "trope_count": 15,
       "id": "hawaii_five_0"
     },
-    "Sergeant Quinn Liu": {
-      "show": "Hawaii Five-0",
-      "trope_count": 0,
-      "id": "hawaii_five_0"
-    },
-    "Noelani Cunha": {
-      "show": "Hawaii Five-0",
-      "trope_count": 0,
-      "id": "hawaii_five_0"
-    },
     "Rachel Edwards": {
       "show": "Hawaii Five-0",
       "trope_count": 4,
@@ -21008,11 +20828,6 @@
     "Kamekona Tupuola": {
       "show": "Hawaii Five-0",
       "trope_count": 17,
-      "id": "hawaii_five_0"
-    },
-    "Lt. Commander Joe White": {
-      "show": "Hawaii Five-0",
-      "trope_count": 0,
       "id": "hawaii_five_0"
     },
     "Sabrina Lane": {
@@ -21083,11 +20898,6 @@
     "Jenna Kaye": {
       "show": "Hawaii Five-0",
       "trope_count": 11,
-      "id": "hawaii_five_0"
-    },
-    "Charlie Fong": {
-      "show": "Hawaii Five-0",
-      "trope_count": 0,
       "id": "hawaii_five_0"
     },
     "Vince Fryer": {
@@ -21595,11 +21405,6 @@
       "trope_count": 16,
       "id": "henry_danger"
     },
-    "Nurse Cohort": {
-      "show": "Henry Danger",
-      "trope_count": 0,
-      "id": "henry_danger"
-    },
     "Drill Finger": {
       "show": "Henry Danger",
       "trope_count": 5,
@@ -21628,11 +21433,6 @@
     "Veronika": {
       "show": "Henry Danger",
       "trope_count": 8,
-      "id": "henry_danger"
-    },
-    "Van Del": {
-      "show": "Henry Danger",
-      "trope_count": 0,
       "id": "henry_danger"
     },
     "Rick Twitler": {
@@ -21770,11 +21570,6 @@
       "trope_count": 36,
       "id": "hercules_the_legendary_journeys"
     },
-    "Ares": {
-      "show": "Hercules: The Legendary Journeys",
-      "trope_count": 0,
-      "id": "hercules_the_legendary_journeys"
-    },
     "Strife": {
       "show": "Hercules: The Legendary Journeys",
       "trope_count": 20,
@@ -21795,24 +21590,9 @@
       "trope_count": 27,
       "id": "hercules_the_legendary_journeys"
     },
-    "Xena": {
-      "show": "Hercules: The Legendary Journeys",
-      "trope_count": 0,
-      "id": "hercules_the_legendary_journeys"
-    },
-    "Gabrielle": {
-      "show": "Hercules: The Legendary Journeys",
-      "trope_count": 0,
-      "id": "hercules_the_legendary_journeys"
-    },
     "Salmoneus": {
       "show": "Hercules: The Legendary Journeys",
       "trope_count": 24,
-      "id": "hercules_the_legendary_journeys"
-    },
-    "Autolycus": {
-      "show": "Hercules: The Legendary Journeys",
-      "trope_count": 0,
       "id": "hercules_the_legendary_journeys"
     },
     "Iolaus  2": {
@@ -22184,11 +21964,6 @@
       "show": "Hogan's Heroes",
       "trope_count": 197,
       "id": "hogans_heroes"
-    },
-    "Present Characters - Regular": {
-      "show": "Holby City",
-      "trope_count": 0,
-      "id": "holby_city"
     },
     "Former Characters - Regular": {
       "show": "Holby City",
@@ -24645,11 +24420,6 @@
       "trope_count": 17,
       "id": "jag"
     },
-    "Alexander Nelson": {
-      "show": "JAG",
-      "trope_count": 0,
-      "id": "jag"
-    },
     "Edward Sheffield": {
       "show": "JAG",
       "trope_count": 2,
@@ -26295,11 +26065,6 @@
       "trope_count": 2,
       "id": "kings"
     },
-    "Helen Pardis": {
-      "show": "Kings",
-      "trope_count": 0,
-      "id": "kings"
-    },
     "Andrew Cross": {
       "show": "Kings",
       "trope_count": 11,
@@ -26330,16 +26095,6 @@
       "trope_count": 15,
       "id": "kings"
     },
-    "Thomasina": {
-      "show": "Kings",
-      "trope_count": 0,
-      "id": "kings"
-    },
-    "Perry Straussler": {
-      "show": "Kings",
-      "trope_count": 0,
-      "id": "kings"
-    },
     "Joseph Lasile": {
       "show": "Kings",
       "trope_count": 4,
@@ -26353,16 +26108,6 @@
     "Boyden and Klotz": {
       "show": "Kings",
       "trope_count": 2,
-      "id": "kings"
-    },
-    "Paul Lash": {
-      "show": "Kings",
-      "trope_count": 0,
-      "id": "kings"
-    },
-    "Lucinda Wolfson": {
-      "show": "Kings",
-      "trope_count": 0,
       "id": "kings"
     },
     "Kipo Oak": {
@@ -27445,11 +27190,6 @@
       "trope_count": 2,
       "id": "last_of_the_summer_wine"
     },
-    "Captain Toby Mulberry Smith": {
-      "show": "Last of the Summer Wine",
-      "trope_count": 0,
-      "id": "last_of_the_summer_wine"
-    },
     "Ed Deline": {
       "show": "Las Vegas",
       "trope_count": 15,
@@ -28048,11 +27788,6 @@
     "Marie-Fred": {
       "show": "Letterkenny",
       "trope_count": 6,
-      "id": "letterkenny"
-    },
-    "Jaker, Shawny and Johnny": {
-      "show": "Letterkenny",
-      "trope_count": 0,
       "id": "letterkenny"
     },
     "Dierks": {
@@ -28759,51 +28494,6 @@
       "show": "Lobo",
       "trope_count": 5,
       "id": "lobo"
-    },
-    "Comic Books": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Anime and Manga": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Film — Animation": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Literature": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Live-Action": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Video Games": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Web Animation": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Webcomics": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
-    },
-    "Western Animation": {
-      "show": "Loki",
-      "trope_count": 0,
-      "id": "loki"
     },
     "The Original Loki": {
       "show": "Loki",
@@ -30725,34 +30415,9 @@
       "trope_count": 11,
       "id": "medium"
     },
-    "Kenneth Push": {
-      "show": "Medium",
-      "trope_count": 0,
-      "id": "medium"
-    },
     "Mr. DuBois": {
       "show": "Medium",
       "trope_count": 1,
-      "id": "medium"
-    },
-    "Lily Devalos": {
-      "show": "Medium",
-      "trope_count": 0,
-      "id": "medium"
-    },
-    "Tom Van Dyke": {
-      "show": "Medium",
-      "trope_count": 0,
-      "id": "medium"
-    },
-    "Cynthia Keener": {
-      "show": "Medium",
-      "trope_count": 0,
-      "id": "medium"
-    },
-    "Ashley Whitaker": {
-      "show": "Medium",
-      "trope_count": 0,
       "id": "medium"
     },
     "Larry Watt": {
@@ -30775,20 +30440,10 @@
       "trope_count": 1,
       "id": "medium"
     },
-    "Lucas Harvey": {
-      "show": "Medium",
-      "trope_count": 0,
-      "id": "medium"
-    },
     "Paul Scanlon": {
       "show": "Medium",
       "trope_count": 2,
       "id": "medium"
-    },
-    "Tory Froid": {
-      "show": "Megaman NT Warrior",
-      "trope_count": 0,
-      "id": "megaman_nt_warrior"
     },
     "TheCutManBrothers": {
       "show": "Megaman NT Warrior",
@@ -31635,11 +31290,6 @@
       "trope_count": 7,
       "id": "mighty_magiswords"
     },
-    "Teri Gargantuan": {
-      "show": "Mighty Magiswords",
-      "trope_count": 0,
-      "id": "mighty_magiswords"
-    },
     "Flonk": {
       "show": "Mighty Magiswords",
       "trope_count": 7,
@@ -31765,24 +31415,9 @@
       "trope_count": 6,
       "id": "mighty_magiswords"
     },
-    "Jason Lee Scott / Red Ranger I": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "Zack Taylor / Black Ranger I": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
-      "id": "mighty_morphin_power_rangers"
-    },
     "Kimberly Ann Hart / Pink Ranger I": {
       "show": "Mighty Morphin Power Rangers",
       "trope_count": 48,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "Billy Cranston / Blue Ranger": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
       "id": "mighty_morphin_power_rangers"
     },
     "Trini Kwan / Yellow Ranger I": {
@@ -31795,19 +31430,9 @@
       "trope_count": 1,
       "id": "mighty_morphin_power_rangers"
     },
-    "Adam Park / Black Ranger II": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
-      "id": "mighty_morphin_power_rangers"
-    },
     "Aisha Campbell / Yellow Ranger II": {
       "show": "Mighty Morphin Power Rangers",
       "trope_count": 23,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "RockyDeSantos/ Red Ranger II": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
       "id": "mighty_morphin_power_rangers"
     },
     "Katherine \"Kat\" Hillard / Pink Ranger II": {
@@ -31913,21 +31538,6 @@
     "Ms. Appleby": {
       "show": "Mighty Morphin Power Rangers",
       "trope_count": 5,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "Lt. Jerome Stone": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "Bulk and Skull": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
-      "id": "mighty_morphin_power_rangers"
-    },
-    "The Evil Space Aliens": {
-      "show": "Mighty Morphin Power Rangers",
-      "trope_count": 0,
       "id": "mighty_morphin_power_rangers"
     },
     "Mike Tyson": {
@@ -34885,11 +34495,6 @@
       "trope_count": 7,
       "id": "ncis"
     },
-    "Tali David": {
-      "show": "NCIS",
-      "trope_count": 0,
-      "id": "ncis"
-    },
     "Luca Sciuto": {
       "show": "NCIS",
       "trope_count": 4,
@@ -36900,16 +36505,6 @@
       "trope_count": 10,
       "id": "oban_star_racers"
     },
-    "Story Arcs": {
-      "show": "One Piece",
-      "trope_count": 0,
-      "id": "one_piece"
-    },
-    "Animated Feature Films": {
-      "show": "One Piece",
-      "trope_count": 0,
-      "id": "one_piece"
-    },
     "Derek Edward \"Del Boy\" Trotter": {
       "show": "Only Fools and Horses",
       "trope_count": 48,
@@ -38045,11 +37640,6 @@
       "trope_count": 4,
       "id": "peep_show"
     },
-    "Megan": {
-      "show": "Peep Show",
-      "trope_count": 0,
-      "id": "peep_show"
-    },
     "Human Characters": {
       "show": "Pee-wee's Playhouse",
       "trope_count": 89,
@@ -38495,11 +38085,6 @@
       "trope_count": 1,
       "id": "pig_goat_banana_cricket"
     },
-    "Burgerstein": {
-      "show": "Pig Goat Banana Cricket",
-      "trope_count": 0,
-      "id": "pig_goat_banana_cricket"
-    },
     "The Brain": {
       "show": "Pinky and the Brain",
       "trope_count": 108,
@@ -38828,11 +38413,6 @@
     "Blooter": {
       "show": "Poppets Town",
       "trope_count": 12,
-      "id": "poppets_town"
-    },
-    "Alli": {
-      "show": "Poppets Town",
-      "trope_count": 0,
       "id": "poppets_town"
     },
     "Cocori": {
@@ -41250,36 +40830,6 @@
       "trope_count": 38,
       "id": "red_dwarf"
     },
-    "The Blood Gulch Chronicles": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
-    "The Recollection": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
-    "The Project Freelancer Saga": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
-    "The Chorus Trilogy": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
-    "Season  14": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
-    "The Shisno Trilogy": {
-      "show": "Red vs Blue",
-      "trope_count": 0,
-      "id": "red_vs_blue"
-    },
     "\" 62 Truck\"/The Crew": {
       "show": "Rescue Me",
       "trope_count": 110,
@@ -41378,16 +40928,6 @@
     "Ismat": {
       "show": "Ridley Jones",
       "trope_count": 10,
-      "id": "ridley_jones"
-    },
-    "Mr. Peabody": {
-      "show": "Ridley Jones",
-      "trope_count": 0,
-      "id": "ridley_jones"
-    },
-    "Lonny": {
-      "show": "Ridley Jones",
-      "trope_count": 0,
       "id": "ridley_jones"
     },
     "Colleen": {
@@ -42825,11 +42365,6 @@
       "trope_count": 4,
       "id": "sagwa_the_chinese_siamese_cat"
     },
-    "See-Yeh the Reader of the Rules": {
-      "show": "Sagwa, the Chinese Siamese Cat",
-      "trope_count": 0,
-      "id": "sagwa_the_chinese_siamese_cat"
-    },
     "Kuh-Keh the Cook": {
       "show": "Sagwa, the Chinese Siamese Cat",
       "trope_count": 1,
@@ -42880,11 +42415,6 @@
       "trope_count": 1,
       "id": "sagwa_the_chinese_siamese_cat"
     },
-    "Siao-Po": {
-      "show": "Sagwa, the Chinese Siamese Cat",
-      "trope_count": 0,
-      "id": "sagwa_the_chinese_siamese_cat"
-    },
     "Ping-Wing": {
       "show": "Sagwa, the Chinese Siamese Cat",
       "trope_count": 3,
@@ -42893,16 +42423,6 @@
     "Mung": {
       "show": "Sagwa, the Chinese Siamese Cat",
       "trope_count": 1,
-      "id": "sagwa_the_chinese_siamese_cat"
-    },
-    "Wong Tom": {
-      "show": "Sagwa, the Chinese Siamese Cat",
-      "trope_count": 0,
-      "id": "sagwa_the_chinese_siamese_cat"
-    },
-    "Angwan": {
-      "show": "Sagwa, the Chinese Siamese Cat",
-      "trope_count": 0,
       "id": "sagwa_the_chinese_siamese_cat"
     },
     "Tai-Tai's Bird": {
@@ -43398,36 +42918,6 @@
     "Noodman's Father": {
       "show": "Sanjay and Craig",
       "trope_count": 8,
-      "id": "sanjay_and_craig"
-    },
-    "Hank Flanagan": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
-      "id": "sanjay_and_craig"
-    },
-    "Mrs. Flanagan": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
-      "id": "sanjay_and_craig"
-    },
-    "Hector's Grandmother": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
-      "id": "sanjay_and_craig"
-    },
-    "Farmer Larry": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
-      "id": "sanjay_and_craig"
-    },
-    "Bertha Van Weld": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
-      "id": "sanjay_and_craig"
-    },
-    "Maximum Dennis": {
-      "show": "Sanjay and Craig",
-      "trope_count": 0,
       "id": "sanjay_and_craig"
     },
     "Seasons  1 –  5": {
@@ -45640,11 +45130,6 @@
       "trope_count": 15,
       "id": "silicon_valley"
     },
-    "Colin": {
-      "show": "Silicon Valley",
-      "trope_count": 0,
-      "id": "silicon_valley"
-    },
     "Gwart": {
       "show": "Silicon Valley",
       "trope_count": 5,
@@ -47620,51 +47105,6 @@
       "trope_count": 7,
       "id": "star_trek"
     },
-    "The Rebel Alliance, the New Republic and the Resistance": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Galactic Empire and the First Order": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Jedi Order": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Sith Order": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Galactic Republic": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Separatist Alliance": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "The Galactic Fringe": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "Planets and Races": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
-    "Other Characters and Creatures": {
-      "show": "Star Wars: The Clone Wars",
-      "trope_count": 0,
-      "id": "star_wars_the_clone_wars"
-    },
     "Static": {
       "show": "Static Shock",
       "trope_count": 58,
@@ -48205,11 +47645,6 @@
       "trope_count": 2,
       "id": "stoked"
     },
-    "Captain Clam": {
-      "show": "Stoked",
-      "trope_count": 0,
-      "id": "stoked"
-    },
     "Amber Green": {
       "show": "Stoked",
       "trope_count": 4,
@@ -48223,11 +47658,6 @@
     "Stanley Stevens": {
       "show": "Stoked",
       "trope_count": 3,
-      "id": "stoked"
-    },
-    "Chrissy": {
-      "show": "Stoked",
-      "trope_count": 0,
       "id": "stoked"
     },
     "Aerrow": {
@@ -48475,19 +47905,9 @@
       "trope_count": 8,
       "id": "strawberry_shortcakes_berry_bitty_adventures"
     },
-    "Jadeybug": {
-      "show": "Strawberry Shortcake's Berry Bitty Adventures",
-      "trope_count": 0,
-      "id": "strawberry_shortcakes_berry_bitty_adventures"
-    },
     "The Ladybug Twins": {
       "show": "Strawberry Shortcake's Berry Bitty Adventures",
       "trope_count": 6,
-      "id": "strawberry_shortcakes_berry_bitty_adventures"
-    },
-    "Postmaster Bumblebee": {
-      "show": "Strawberry Shortcake's Berry Bitty Adventures",
-      "trope_count": 0,
       "id": "strawberry_shortcakes_berry_bitty_adventures"
     },
     "Mavis Maraschino": {
@@ -49215,11 +48635,6 @@
       "trope_count": 3,
       "id": "summer_camp_island"
     },
-    "Ava": {
-      "show": "Summer Camp Island",
-      "trope_count": 0,
-      "id": "summer_camp_island"
-    },
     "Mortimer": {
       "show": "Summer Camp Island",
       "trope_count": 1,
@@ -49753,11 +49168,6 @@
     "Pig's Brothers": {
       "show": "Super Why!",
       "trope_count": 2,
-      "id": "super_why"
-    },
-    "King and Queen Pea": {
-      "show": "Super Why!",
-      "trope_count": 0,
       "id": "super_why"
     },
     "Aiden": {
@@ -50803,21 +50213,6 @@
     "Cromartie": {
       "show": "Terminator: The Sarah Connor Chronicles",
       "trope_count": 26,
-      "id": "terminator_the_sarah_connor_chronicles"
-    },
-    "Sarkissian": {
-      "show": "Terminator: The Sarah Connor Chronicles",
-      "trope_count": 0,
-      "id": "terminator_the_sarah_connor_chronicles"
-    },
-    "Carter": {
-      "show": "Terminator: The Sarah Connor Chronicles",
-      "trope_count": 0,
-      "id": "terminator_the_sarah_connor_chronicles"
-    },
-    "Vick Chamberlain": {
-      "show": "Terminator: The Sarah Connor Chronicles",
-      "trope_count": 0,
       "id": "terminator_the_sarah_connor_chronicles"
     },
     "Kacy": {
@@ -52920,16 +52315,6 @@
       "trope_count": 5,
       "id": "trailer_park_boys"
     },
-    "Optimus Prime": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
-    "Hot Shot": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
     "Red Alert": {
       "show": "Transformers: Armada",
       "trope_count": 2,
@@ -52948,11 +52333,6 @@
     "Blurr": {
       "show": "Transformers: Armada",
       "trope_count": 9,
-      "id": "transformers_armada"
-    },
-    "Jetfire": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
       "id": "transformers_armada"
     },
     "Sideswipe": {
@@ -52975,34 +52355,9 @@
       "trope_count": 10,
       "id": "transformers_armada"
     },
-    "Megatron": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
-    "Starscream": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
-    "Demolishor": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
-    "Cyclonus/Snowcat": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
-      "id": "transformers_armada"
-    },
     "Thrust": {
       "show": "Transformers: Armada",
       "trope_count": 36,
-      "id": "transformers_armada"
-    },
-    "Tidal Wave/Mirage": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
       "id": "transformers_armada"
     },
     "Wheeljack": {
@@ -53023,11 +52378,6 @@
     "Alexis Thi Dang": {
       "show": "Transformers: Armada",
       "trope_count": 12,
-      "id": "transformers_armada"
-    },
-    "Unicron": {
-      "show": "Transformers: Armada",
-      "trope_count": 0,
       "id": "transformers_armada"
     },
     "Optimus Prime (Fire Convoy (ファイヤーコンボイfaiyā konboi))": {
@@ -53620,11 +52970,6 @@
       "trope_count": 3,
       "id": "tru_calling"
     },
-    "Harrison": {
-      "show": "Tru Calling",
-      "trope_count": 0,
-      "id": "tru_calling"
-    },
     "Lindsay": {
       "show": "Tru Calling",
       "trope_count": 2,
@@ -53695,11 +53040,6 @@
       "trope_count": 24,
       "id": "tsubasa_reservoir_chronicle"
     },
-    "Cerberus \"Kero\"": {
-      "show": "Tsubasa RESERVoir CHRoNiCLE",
-      "trope_count": 0,
-      "id": "tsubasa_reservoir_chronicle"
-    },
     "Nadeshiko": {
       "show": "Tsubasa RESERVoir CHRoNiCLE",
       "trope_count": 4,
@@ -53763,16 +53103,6 @@
     "Ashura-ō": {
       "show": "Tsubasa RESERVoir CHRoNiCLE",
       "trope_count": 12,
-      "id": "tsubasa_reservoir_chronicle"
-    },
-    "Kendappa-ō/Amaterasu": {
-      "show": "Tsubasa RESERVoir CHRoNiCLE",
-      "trope_count": 0,
-      "id": "tsubasa_reservoir_chronicle"
-    },
-    "Sōma": {
-      "show": "Tsubasa RESERVoir CHRoNiCLE",
-      "trope_count": 0,
       "id": "tsubasa_reservoir_chronicle"
     },
     "Ryū-ō": {
@@ -54788,11 +54118,6 @@
     "Dayshawn": {
       "show": "Vice Principals",
       "trope_count": 3,
-      "id": "vice_principals"
-    },
-    "Gale": {
-      "show": "Vice Principals",
-      "trope_count": 0,
       "id": "vice_principals"
     },
     "Ms. Abbott": {
@@ -56712,7 +56037,7 @@
     },
     "Auricom Pilots": {
       "show": "Wipeout",
-      "trope_count": 3,
+      "trope_count": 13,
       "id": "wipeout"
     },
     "Tigron Pilots": {
@@ -57530,11 +56855,6 @@
       "trope_count": 1,
       "id": "yes_dear"
     },
-    "Billy Colivita": {
-      "show": "Yes, Dear",
-      "trope_count": 0,
-      "id": "yes_dear"
-    },
     "Roy Barr": {
       "show": "Yes, Dear",
       "trope_count": 1,
@@ -57775,21 +57095,6 @@
       "trope_count": 5,
       "id": "yin_yang_yo"
     },
-    "Robin": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
-    "Superboy": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
-    "Impulse": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
     "Wonder Girl": {
       "show": "Young Justice",
       "trope_count": 1,
@@ -57835,44 +57140,14 @@
       "trope_count": 4,
       "id": "young_justice"
     },
-    "Teen Lantern": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
     "Jinny Hex": {
       "show": "Young Justice",
       "trope_count": 5,
       "id": "young_justice"
     },
-    "Naomi": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
-    "Aqualad": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
-    "Sideways": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
-    "Dial H": {
-      "show": "Young Justice",
-      "trope_count": 0,
-      "id": "young_justice"
-    },
     "\"New Young Justice\"": {
       "show": "Young Justice",
       "trope_count": 14,
-      "id": "young_justice"
-    },
-    "The Weinburgs/Relative Heroes": {
-      "show": "Young Justice",
-      "trope_count": 0,
       "id": "young_justice"
     },
     "Other Allies": {
@@ -57893,11 +57168,6 @@
     "A.P.E.S.": {
       "show": "Young Justice",
       "trope_count": 5,
-      "id": "young_justice"
-    },
-    "The D.E.O.": {
-      "show": "Young Justice",
-      "trope_count": 0,
       "id": "young_justice"
     },
     "Harm": {
@@ -58531,21 +57801,6 @@
         "id": "abbott_elementary"
       },
       {
-        "name": "Willy R. Abbott V",
-        "trope_count": 0,
-        "id": "abbott_elementary"
-      },
-      {
-        "name": "Timothy",
-        "trope_count": 0,
-        "id": "abbott_elementary"
-      },
-      {
-        "name": "Caroline",
-        "trope_count": 0,
-        "id": "abbott_elementary"
-      },
-      {
         "name": "John Reynolds",
         "trope_count": 2,
         "id": "abbott_elementary"
@@ -58556,18 +57811,8 @@
         "id": "abbott_elementary"
       },
       {
-        "name": "Avi",
-        "trope_count": 0,
-        "id": "abbott_elementary"
-      },
-      {
         "name": "Olivia",
         "trope_count": 2,
-        "id": "abbott_elementary"
-      },
-      {
-        "name": "The Volunteers",
-        "trope_count": 0,
         "id": "abbott_elementary"
       },
       {
@@ -58803,11 +58048,6 @@
       }
     ],
     "Alias": [
-      {
-        "name": "The Organizations",
-        "trope_count": 0,
-        "id": "alias"
-      },
       {
         "name": "Sydney Bristow",
         "trope_count": 26,
@@ -59406,11 +58646,6 @@
       {
         "name": "Larry Paul",
         "trope_count": 2,
-        "id": "ally_mcbeal"
-      },
-      {
-        "name": "Coretta Lipp",
-        "trope_count": 0,
         "id": "ally_mcbeal"
       },
       {
@@ -60320,11 +59555,6 @@
         "name": "The Spirit of the Abyss",
         "trope_count": 4,
         "id": "andromeda"
-      },
-      {
-        "name": "Constanza Stark",
-        "trope_count": 0,
-        "id": "andromeda"
       }
     ],
     "And Just Like That": [
@@ -60572,11 +59802,6 @@
       {
         "name": "Dunkleosteus",
         "trope_count": 4,
-        "id": "animal_armageddon"
-      },
-      {
-        "name": "Tiktaalik",
-        "trope_count": 0,
         "id": "animal_armageddon"
       },
       {
@@ -61175,11 +60400,6 @@
         "id": "archive_81"
       },
       {
-        "name": "Mark",
-        "trope_count": 0,
-        "id": "archive_81"
-      },
-      {
         "name": "Melody",
         "trope_count": 2,
         "id": "archive_81"
@@ -61192,11 +60412,6 @@
       {
         "name": "Samuel",
         "trope_count": 6,
-        "id": "archive_81"
-      },
-      {
-        "name": "Ratty",
-        "trope_count": 0,
         "id": "archive_81"
       },
       {
@@ -64230,11 +63445,6 @@
         "name": "Rasher",
         "trope_count": 3,
         "id": "blood_drive"
-      },
-      {
-        "name": "Karma D'Argento",
-        "trope_count": 0,
-        "id": "blood_drive"
       }
     ],
     "Blue Heelers": [
@@ -64517,21 +63727,6 @@
       {
         "name": "Christina Wheeler",
         "trope_count": 3,
-        "id": "bob_hearts_abishola"
-      },
-      {
-        "name": "Max Wheeler",
-        "trope_count": 0,
-        "id": "bob_hearts_abishola"
-      },
-      {
-        "name": "Goodwin",
-        "trope_count": 0,
-        "id": "bob_hearts_abishola"
-      },
-      {
-        "name": "Kofo",
-        "trope_count": 0,
         "id": "bob_hearts_abishola"
       },
       {
@@ -69858,11 +69053,6 @@
         "id": "csi_ny"
       },
       {
-        "name": "Louie Messer",
-        "trope_count": 0,
-        "id": "csi_ny"
-      },
-      {
         "name": "Reed Garrett",
         "trope_count": 5,
         "id": "csi_ny"
@@ -69903,11 +69093,6 @@
         "id": "csi_ny"
       },
       {
-        "name": "Sonny Sassone",
-        "trope_count": 0,
-        "id": "csi_ny"
-      },
-      {
         "name": "D.J. Pratt",
         "trope_count": 2,
         "id": "csi_ny"
@@ -69945,11 +69130,6 @@
       {
         "name": "John Curtis",
         "trope_count": 3,
-        "id": "csi_ny"
-      },
-      {
-        "name": "Bogdhan Ivanov",
-        "trope_count": 0,
         "id": "csi_ny"
       },
       {
@@ -70226,16 +69406,6 @@
       {
         "name": "Bum",
         "trope_count": 2,
-        "id": "dallas"
-      },
-      {
-        "name": "Governor SamMcConaughey",
-        "trope_count": 0,
-        "id": "dallas"
-      },
-      {
-        "name": "Ken Richards",
-        "trope_count": 0,
         "id": "dallas"
       }
     ],
@@ -71284,11 +70454,6 @@
       {
         "name": "Trey Kirkman",
         "trope_count": 6,
-        "id": "designated_survivor"
-      },
-      {
-        "name": "Sasha Booker",
-        "trope_count": 0,
         "id": "designated_survivor"
       },
       {
@@ -72867,11 +72032,6 @@
         "id": "ducktales"
       },
       {
-        "name": "Gyro Gearloose",
-        "trope_count": 0,
-        "id": "ducktales"
-      },
-      {
         "name": "LaunchpadMcQuack",
         "trope_count": 62,
         "id": "ducktales"
@@ -72969,11 +72129,6 @@
       {
         "name": "Felina Mitzigrovna",
         "trope_count": 7,
-        "id": "ducktales"
-      },
-      {
-        "name": "Flintheart Glomgold",
-        "trope_count": 0,
         "id": "ducktales"
       },
       {
@@ -73604,16 +72759,6 @@
       {
         "name": "Fury",
         "trope_count": 9,
-        "id": "earth_2"
-      },
-      {
-        "name": "The Hunger Dogs",
-        "trope_count": 0,
-        "id": "earth_2"
-      },
-      {
-        "name": "Kanto",
-        "trope_count": 0,
         "id": "earth_2"
       },
       {
@@ -74576,18 +73721,8 @@
         "id": "falling_skies"
       },
       {
-        "name": "Mike Thompson",
-        "trope_count": 0,
-        "id": "falling_skies"
-      },
-      {
         "name": "Rick Thompson",
         "trope_count": 4,
-        "id": "falling_skies"
-      },
-      {
-        "name": "Terry Clayton",
-        "trope_count": 0,
         "id": "falling_skies"
       },
       {
@@ -75534,11 +74669,6 @@
       {
         "name": "Mr. Baldwin",
         "trope_count": 5,
-        "id": "fish_hooks"
-      },
-      {
-        "name": "Ms. Lulu Lips",
-        "trope_count": 0,
         "id": "fish_hooks"
       },
       {
@@ -77197,11 +76327,6 @@
         "id": "get_smart"
       },
       {
-        "name": "Dr. Steele",
-        "trope_count": 0,
-        "id": "get_smart"
-      },
-      {
         "name": "Starker",
         "trope_count": 5,
         "id": "get_smart"
@@ -77655,11 +76780,6 @@
       {
         "name": "Dr. Hisashi Imakurusu",
         "trope_count": 1,
-        "id": "ghost_in_the_shell_stand_alone_complex"
-      },
-      {
-        "name": "Ernest Serano",
-        "trope_count": 0,
         "id": "ghost_in_the_shell_stand_alone_complex"
       },
       {
@@ -78692,11 +77812,6 @@
         "id": "greys_anatomy"
       },
       {
-        "name": "Little Tuck",
-        "trope_count": 0,
-        "id": "greys_anatomy"
-      },
-      {
         "name": "Carlos Torres",
         "trope_count": 3,
         "id": "greys_anatomy"
@@ -79145,16 +78260,6 @@
         "id": "gullah_gullah_island"
       },
       {
-        "name": "Corey",
-        "trope_count": 0,
-        "id": "gullah_gullah_island"
-      },
-      {
-        "name": "Miguel",
-        "trope_count": 0,
-        "id": "gullah_gullah_island"
-      },
-      {
         "name": "Chansome the Pelican",
         "trope_count": 1,
         "id": "gullah_gullah_island"
@@ -79458,11 +78563,6 @@
         "id": "happy_days"
       },
       {
-        "name": "Grandma Nussbaum",
-        "trope_count": 0,
-        "id": "happy_days"
-      },
-      {
         "name": "Lori Beth Allen",
         "trope_count": 9,
         "id": "happy_days"
@@ -79669,16 +78769,6 @@
         "id": "hawaii_five_0"
       },
       {
-        "name": "Sergeant Quinn Liu",
-        "trope_count": 0,
-        "id": "hawaii_five_0"
-      },
-      {
-        "name": "Noelani Cunha",
-        "trope_count": 0,
-        "id": "hawaii_five_0"
-      },
-      {
         "name": "Rachel Edwards",
         "trope_count": 4,
         "id": "hawaii_five_0"
@@ -79726,11 +78816,6 @@
       {
         "name": "Kamekona Tupuola",
         "trope_count": 17,
-        "id": "hawaii_five_0"
-      },
-      {
-        "name": "Lt. Commander Joe White",
-        "trope_count": 0,
         "id": "hawaii_five_0"
       },
       {
@@ -79801,11 +78886,6 @@
       {
         "name": "Jenna Kaye",
         "trope_count": 11,
-        "id": "hawaii_five_0"
-      },
-      {
-        "name": "Charlie Fong",
-        "trope_count": 0,
         "id": "hawaii_five_0"
       },
       {
@@ -80328,11 +79408,6 @@
         "id": "henry_danger"
       },
       {
-        "name": "Nurse Cohort",
-        "trope_count": 0,
-        "id": "henry_danger"
-      },
-      {
         "name": "Drill Finger",
         "trope_count": 5,
         "id": "henry_danger"
@@ -80360,11 +79435,6 @@
       {
         "name": "Veronika",
         "trope_count": 8,
-        "id": "henry_danger"
-      },
-      {
-        "name": "Van Del",
-        "trope_count": 0,
         "id": "henry_danger"
       },
       {
@@ -80507,11 +79577,6 @@
         "id": "hercules_the_legendary_journeys"
       },
       {
-        "name": "Ares",
-        "trope_count": 0,
-        "id": "hercules_the_legendary_journeys"
-      },
-      {
         "name": "Strife",
         "trope_count": 20,
         "id": "hercules_the_legendary_journeys"
@@ -80532,23 +79597,8 @@
         "id": "hercules_the_legendary_journeys"
       },
       {
-        "name": "Xena",
-        "trope_count": 0,
-        "id": "hercules_the_legendary_journeys"
-      },
-      {
-        "name": "Gabrielle",
-        "trope_count": 0,
-        "id": "hercules_the_legendary_journeys"
-      },
-      {
         "name": "Salmoneus",
         "trope_count": 24,
-        "id": "hercules_the_legendary_journeys"
-      },
-      {
-        "name": "Autolycus",
-        "trope_count": 0,
         "id": "hercules_the_legendary_journeys"
       },
       {
@@ -80935,11 +79985,6 @@
       }
     ],
     "Holby City": [
-      {
-        "name": "Present Characters - Regular",
-        "trope_count": 0,
-        "id": "holby_city"
-      },
       {
         "name": "Former Characters - Regular",
         "trope_count": 18,
@@ -83448,11 +82493,6 @@
         "id": "jag"
       },
       {
-        "name": "Alexander Nelson",
-        "trope_count": 0,
-        "id": "jag"
-      },
-      {
         "name": "Edward Sheffield",
         "trope_count": 2,
         "id": "jag"
@@ -85148,11 +84188,6 @@
         "id": "kings"
       },
       {
-        "name": "Helen Pardis",
-        "trope_count": 0,
-        "id": "kings"
-      },
-      {
         "name": "Andrew Cross",
         "trope_count": 11,
         "id": "kings"
@@ -85183,16 +84218,6 @@
         "id": "kings"
       },
       {
-        "name": "Thomasina",
-        "trope_count": 0,
-        "id": "kings"
-      },
-      {
-        "name": "Perry Straussler",
-        "trope_count": 0,
-        "id": "kings"
-      },
-      {
         "name": "Joseph Lasile",
         "trope_count": 4,
         "id": "kings"
@@ -85205,16 +84230,6 @@
       {
         "name": "Boyden and Klotz",
         "trope_count": 2,
-        "id": "kings"
-      },
-      {
-        "name": "Paul Lash",
-        "trope_count": 0,
-        "id": "kings"
-      },
-      {
-        "name": "Lucinda Wolfson",
-        "trope_count": 0,
         "id": "kings"
       }
     ],
@@ -86312,11 +85327,6 @@
         "name": "Eli Duckett",
         "trope_count": 2,
         "id": "last_of_the_summer_wine"
-      },
-      {
-        "name": "Captain Toby Mulberry Smith",
-        "trope_count": 0,
-        "id": "last_of_the_summer_wine"
       }
     ],
     "Las Vegas": [
@@ -86932,11 +85942,6 @@
       {
         "name": "Marie-Fred",
         "trope_count": 6,
-        "id": "letterkenny"
-      },
-      {
-        "name": "Jaker, Shawny and Johnny",
-        "trope_count": 0,
         "id": "letterkenny"
       },
       {
@@ -87670,51 +86675,6 @@
       }
     ],
     "Loki": [
-      {
-        "name": "Comic Books",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Anime and Manga",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Film — Animation",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Literature",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Live-Action",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Video Games",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Web Animation",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Webcomics",
-        "trope_count": 0,
-        "id": "loki"
-      },
-      {
-        "name": "Western Animation",
-        "trope_count": 0,
-        "id": "loki"
-      },
       {
         "name": "The Original Loki",
         "trope_count": 102,
@@ -89676,33 +88636,8 @@
         "id": "medium"
       },
       {
-        "name": "Kenneth Push",
-        "trope_count": 0,
-        "id": "medium"
-      },
-      {
         "name": "Mr. DuBois",
         "trope_count": 1,
-        "id": "medium"
-      },
-      {
-        "name": "Lily Devalos",
-        "trope_count": 0,
-        "id": "medium"
-      },
-      {
-        "name": "Tom Van Dyke",
-        "trope_count": 0,
-        "id": "medium"
-      },
-      {
-        "name": "Cynthia Keener",
-        "trope_count": 0,
-        "id": "medium"
-      },
-      {
-        "name": "Ashley Whitaker",
-        "trope_count": 0,
         "id": "medium"
       },
       {
@@ -89726,22 +88661,12 @@
         "id": "medium"
       },
       {
-        "name": "Lucas Harvey",
-        "trope_count": 0,
-        "id": "medium"
-      },
-      {
         "name": "Paul Scanlon",
         "trope_count": 2,
         "id": "medium"
       }
     ],
     "Megaman NT Warrior": [
-      {
-        "name": "Tory Froid",
-        "trope_count": 0,
-        "id": "megaman_nt_warrior"
-      },
       {
         "name": "TheCutManBrothers",
         "trope_count": 11,
@@ -90600,11 +89525,6 @@
         "id": "mighty_magiswords"
       },
       {
-        "name": "Teri Gargantuan",
-        "trope_count": 0,
-        "id": "mighty_magiswords"
-      },
-      {
         "name": "Flonk",
         "trope_count": 7,
         "id": "mighty_magiswords"
@@ -90732,23 +89652,8 @@
     ],
     "Mighty Morphin Power Rangers": [
       {
-        "name": "Jason Lee Scott / Red Ranger I",
-        "trope_count": 0,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "Zack Taylor / Black Ranger I",
-        "trope_count": 0,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
         "name": "Kimberly Ann Hart / Pink Ranger I",
         "trope_count": 48,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "Billy Cranston / Blue Ranger",
-        "trope_count": 0,
         "id": "mighty_morphin_power_rangers"
       },
       {
@@ -90762,18 +89667,8 @@
         "id": "mighty_morphin_power_rangers"
       },
       {
-        "name": "Adam Park / Black Ranger II",
-        "trope_count": 0,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
         "name": "Aisha Campbell / Yellow Ranger II",
         "trope_count": 23,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "RockyDeSantos/ Red Ranger II",
-        "trope_count": 0,
         "id": "mighty_morphin_power_rangers"
       },
       {
@@ -90879,21 +89774,6 @@
       {
         "name": "Ms. Appleby",
         "trope_count": 5,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "Lt. Jerome Stone",
-        "trope_count": 0,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "Bulk and Skull",
-        "trope_count": 0,
-        "id": "mighty_morphin_power_rangers"
-      },
-      {
-        "name": "The Evil Space Aliens",
-        "trope_count": 0,
         "id": "mighty_morphin_power_rangers"
       }
     ],
@@ -93910,11 +92790,6 @@
         "id": "ncis"
       },
       {
-        "name": "Tali David",
-        "trope_count": 0,
-        "id": "ncis"
-      },
-      {
         "name": "Luca Sciuto",
         "trope_count": 4,
         "id": "ncis"
@@ -95957,18 +94832,6 @@
         "id": "oban_star_racers"
       }
     ],
-    "One Piece": [
-      {
-        "name": "Story Arcs",
-        "trope_count": 0,
-        "id": "one_piece"
-      },
-      {
-        "name": "Animated Feature Films",
-        "trope_count": 0,
-        "id": "one_piece"
-      }
-    ],
     "Only Fools and Horses": [
       {
         "name": "Derek Edward \"Del Boy\" Trotter",
@@ -97130,11 +95993,6 @@
         "name": "Zahra",
         "trope_count": 4,
         "id": "peep_show"
-      },
-      {
-        "name": "Megan",
-        "trope_count": 0,
-        "id": "peep_show"
       }
     ],
     "Pee-wee's Playhouse": [
@@ -97594,11 +96452,6 @@
         "name": "Cricket",
         "trope_count": 1,
         "id": "pig_goat_banana_cricket"
-      },
-      {
-        "name": "Burgerstein",
-        "trope_count": 0,
-        "id": "pig_goat_banana_cricket"
       }
     ],
     "Pinky and the Brain": [
@@ -97934,11 +96787,6 @@
       {
         "name": "Blooter",
         "trope_count": 12,
-        "id": "poppets_town"
-      },
-      {
-        "name": "Alli",
-        "trope_count": 0,
         "id": "poppets_town"
       },
       {
@@ -100403,38 +99251,6 @@
         "id": "red_dwarf"
       }
     ],
-    "Red vs Blue": [
-      {
-        "name": "The Blood Gulch Chronicles",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      },
-      {
-        "name": "The Recollection",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      },
-      {
-        "name": "The Project Freelancer Saga",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      },
-      {
-        "name": "The Chorus Trilogy",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      },
-      {
-        "name": "Season  14",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      },
-      {
-        "name": "The Shisno Trilogy",
-        "trope_count": 0,
-        "id": "red_vs_blue"
-      }
-    ],
     "Rescue Me": [
       {
         "name": "\" 62 Truck\"/The Crew",
@@ -100538,16 +99354,6 @@
       {
         "name": "Ismat",
         "trope_count": 10,
-        "id": "ridley_jones"
-      },
-      {
-        "name": "Mr. Peabody",
-        "trope_count": 0,
-        "id": "ridley_jones"
-      },
-      {
-        "name": "Lonny",
-        "trope_count": 0,
         "id": "ridley_jones"
       }
     ],
@@ -102020,11 +100826,6 @@
         "id": "sagwa_the_chinese_siamese_cat"
       },
       {
-        "name": "See-Yeh the Reader of the Rules",
-        "trope_count": 0,
-        "id": "sagwa_the_chinese_siamese_cat"
-      },
-      {
         "name": "Kuh-Keh the Cook",
         "trope_count": 1,
         "id": "sagwa_the_chinese_siamese_cat"
@@ -102075,11 +100876,6 @@
         "id": "sagwa_the_chinese_siamese_cat"
       },
       {
-        "name": "Siao-Po",
-        "trope_count": 0,
-        "id": "sagwa_the_chinese_siamese_cat"
-      },
-      {
         "name": "Ping-Wing",
         "trope_count": 3,
         "id": "sagwa_the_chinese_siamese_cat"
@@ -102087,16 +100883,6 @@
       {
         "name": "Mung",
         "trope_count": 1,
-        "id": "sagwa_the_chinese_siamese_cat"
-      },
-      {
-        "name": "Wong Tom",
-        "trope_count": 0,
-        "id": "sagwa_the_chinese_siamese_cat"
-      },
-      {
-        "name": "Angwan",
-        "trope_count": 0,
         "id": "sagwa_the_chinese_siamese_cat"
       },
       {
@@ -102602,36 +101388,6 @@
       {
         "name": "Noodman's Father",
         "trope_count": 8,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Hank Flanagan",
-        "trope_count": 0,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Mrs. Flanagan",
-        "trope_count": 0,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Hector's Grandmother",
-        "trope_count": 0,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Farmer Larry",
-        "trope_count": 0,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Bertha Van Weld",
-        "trope_count": 0,
-        "id": "sanjay_and_craig"
-      },
-      {
-        "name": "Maximum Dennis",
-        "trope_count": 0,
         "id": "sanjay_and_craig"
       }
     ],
@@ -104881,11 +103637,6 @@
         "id": "silicon_valley"
       },
       {
-        "name": "Colin",
-        "trope_count": 0,
-        "id": "silicon_valley"
-      },
-      {
         "name": "Gwart",
         "trope_count": 5,
         "id": "silicon_valley"
@@ -106911,53 +105662,6 @@
         "id": "star_trek"
       }
     ],
-    "Star Wars: The Clone Wars": [
-      {
-        "name": "The Rebel Alliance, the New Republic and the Resistance",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Galactic Empire and the First Order",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Jedi Order",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Sith Order",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Galactic Republic",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Separatist Alliance",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "The Galactic Fringe",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "Planets and Races",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      },
-      {
-        "name": "Other Characters and Creatures",
-        "trope_count": 0,
-        "id": "star_wars_the_clone_wars"
-      }
-    ],
     "Static Shock": [
       {
         "name": "Static",
@@ -107510,11 +106214,6 @@
         "id": "stoked"
       },
       {
-        "name": "Captain Clam",
-        "trope_count": 0,
-        "id": "stoked"
-      },
-      {
         "name": "Amber Green",
         "trope_count": 4,
         "id": "stoked"
@@ -107527,11 +106226,6 @@
       {
         "name": "Stanley Stevens",
         "trope_count": 3,
-        "id": "stoked"
-      },
-      {
-        "name": "Chrissy",
-        "trope_count": 0,
         "id": "stoked"
       }
     ],
@@ -107786,18 +106480,8 @@
         "id": "strawberry_shortcakes_berry_bitty_adventures"
       },
       {
-        "name": "Jadeybug",
-        "trope_count": 0,
-        "id": "strawberry_shortcakes_berry_bitty_adventures"
-      },
-      {
         "name": "The Ladybug Twins",
         "trope_count": 6,
-        "id": "strawberry_shortcakes_berry_bitty_adventures"
-      },
-      {
-        "name": "Postmaster Bumblebee",
-        "trope_count": 0,
         "id": "strawberry_shortcakes_berry_bitty_adventures"
       },
       {
@@ -108540,11 +107224,6 @@
         "id": "summer_camp_island"
       },
       {
-        "name": "Ava",
-        "trope_count": 0,
-        "id": "summer_camp_island"
-      },
-      {
         "name": "Mortimer",
         "trope_count": 1,
         "id": "summer_camp_island"
@@ -109089,11 +107768,6 @@
       {
         "name": "Pig's Brothers",
         "trope_count": 2,
-        "id": "super_why"
-      },
-      {
-        "name": "King and Queen Pea",
-        "trope_count": 0,
         "id": "super_why"
       },
       {
@@ -110161,21 +108835,6 @@
       {
         "name": "Cromartie",
         "trope_count": 26,
-        "id": "terminator_the_sarah_connor_chronicles"
-      },
-      {
-        "name": "Sarkissian",
-        "trope_count": 0,
-        "id": "terminator_the_sarah_connor_chronicles"
-      },
-      {
-        "name": "Carter",
-        "trope_count": 0,
-        "id": "terminator_the_sarah_connor_chronicles"
-      },
-      {
-        "name": "Vick Chamberlain",
-        "trope_count": 0,
         "id": "terminator_the_sarah_connor_chronicles"
       },
       {
@@ -112337,16 +110996,6 @@
     ],
     "Transformers: Armada": [
       {
-        "name": "Optimus Prime",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Hot Shot",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
         "name": "Red Alert",
         "trope_count": 2,
         "id": "transformers_armada"
@@ -112364,11 +111013,6 @@
       {
         "name": "Blurr",
         "trope_count": 9,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Jetfire",
-        "trope_count": 0,
         "id": "transformers_armada"
       },
       {
@@ -112392,33 +111036,8 @@
         "id": "transformers_armada"
       },
       {
-        "name": "Megatron",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Starscream",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Demolishor",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Cyclonus/Snowcat",
-        "trope_count": 0,
-        "id": "transformers_armada"
-      },
-      {
         "name": "Thrust",
         "trope_count": 36,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Tidal Wave/Mirage",
-        "trope_count": 0,
         "id": "transformers_armada"
       },
       {
@@ -112439,11 +111058,6 @@
       {
         "name": "Alexis Thi Dang",
         "trope_count": 12,
-        "id": "transformers_armada"
-      },
-      {
-        "name": "Unicron",
-        "trope_count": 0,
         "id": "transformers_armada"
       }
     ],
@@ -113049,11 +111663,6 @@
         "id": "tru_calling"
       },
       {
-        "name": "Harrison",
-        "trope_count": 0,
-        "id": "tru_calling"
-      },
-      {
         "name": "Lindsay",
         "trope_count": 2,
         "id": "tru_calling"
@@ -113126,11 +111735,6 @@
         "id": "tsubasa_reservoir_chronicle"
       },
       {
-        "name": "Cerberus \"Kero\"",
-        "trope_count": 0,
-        "id": "tsubasa_reservoir_chronicle"
-      },
-      {
         "name": "Nadeshiko",
         "trope_count": 4,
         "id": "tsubasa_reservoir_chronicle"
@@ -113193,16 +111797,6 @@
       {
         "name": "Ashura-ō",
         "trope_count": 12,
-        "id": "tsubasa_reservoir_chronicle"
-      },
-      {
-        "name": "Kendappa-ō/Amaterasu",
-        "trope_count": 0,
-        "id": "tsubasa_reservoir_chronicle"
-      },
-      {
-        "name": "Sōma",
-        "trope_count": 0,
         "id": "tsubasa_reservoir_chronicle"
       },
       {
@@ -114240,11 +112834,6 @@
       {
         "name": "Dayshawn",
         "trope_count": 3,
-        "id": "vice_principals"
-      },
-      {
-        "name": "Gale",
-        "trope_count": 0,
         "id": "vice_principals"
       },
       {
@@ -116212,7 +114801,7 @@
       },
       {
         "name": "Auricom Pilots",
-        "trope_count": 3,
+        "trope_count": 13,
         "id": "wipeout"
       },
       {
@@ -117053,11 +115642,6 @@
         "id": "yes_dear"
       },
       {
-        "name": "Billy Colivita",
-        "trope_count": 0,
-        "id": "yes_dear"
-      },
-      {
         "name": "Roy Barr",
         "trope_count": 1,
         "id": "yes_dear"
@@ -117304,21 +115888,6 @@
     ],
     "Young Justice": [
       {
-        "name": "Robin",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
-        "name": "Superboy",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
-        "name": "Impulse",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
         "name": "Wonder Girl",
         "trope_count": 1,
         "id": "young_justice"
@@ -117364,43 +115933,13 @@
         "id": "young_justice"
       },
       {
-        "name": "Teen Lantern",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
         "name": "Jinny Hex",
         "trope_count": 5,
         "id": "young_justice"
       },
       {
-        "name": "Naomi",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
-        "name": "Aqualad",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
-        "name": "Sideways",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
-        "name": "Dial H",
-        "trope_count": 0,
-        "id": "young_justice"
-      },
-      {
         "name": "\"New Young Justice\"",
         "trope_count": 14,
-        "id": "young_justice"
-      },
-      {
-        "name": "The Weinburgs/Relative Heroes",
-        "trope_count": 0,
         "id": "young_justice"
       },
       {
@@ -117421,11 +115960,6 @@
       {
         "name": "A.P.E.S.",
         "trope_count": 5,
-        "id": "young_justice"
-      },
-      {
-        "name": "The D.E.O.",
-        "trope_count": 0,
         "id": "young_justice"
       },
       {

@@ -1,7 +1,27 @@
 {
   "name": "Tim Bisley",
   "show": "Spaced",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "InformedAbility",
+    "BerserkButton",
+    "PrayerIsALastResort",
+    "PsychicPowers",
+    "PlatonicLifePartners",
+    "NeatFreak",
+    "KindHeartedCatLover",
+    "Tuckerization",
+    "JerkWithAHeartOfGold",
+    "SubvertedTrope",
+    "ManChild",
+    "BelatedHappyEnding",
+    "CutenessProximity",
+    "WhiteHairBlackHeart",
+    "SeriousBusiness",
+    "CharacterTic",
+    "Geek",
+    "CreatorBreakdown",
+    "TookALevelInKindness"
+  ],
   "tropes_by_category": {}
 }

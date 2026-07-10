@@ -1,7 +1,14 @@
 {
   "name": "Ruthie Cohen",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LivingProp",
+    "ADayInTheLimelight",
+    "EarlyInstallmentWeirdness",
+    "AndZoidberg",
+    "SatelliteCharacter",
+    "CompositeCharacter"
+  ],
   "tropes_by_category": {}
 }

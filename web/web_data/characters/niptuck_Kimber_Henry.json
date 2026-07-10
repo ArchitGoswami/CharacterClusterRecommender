@@ -1,7 +1,14 @@
 {
   "name": "Kimber Henry",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AbortionFalloutDrama",
+    "NeverFoundTheBody",
+    "MadLove",
+    "BeautyIsNeverTarnished",
+    "PromotionToOpeningTitles",
+    "InformedFlaw"
+  ],
   "tropes_by_category": {}
 }

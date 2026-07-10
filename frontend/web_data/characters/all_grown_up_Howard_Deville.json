@@ -1,7 +1,13 @@
 {
   "name": "Howard Deville",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "YoungerThanHeLooks",
+    "ChubbyMamaSkinnyPapa",
+    "VomitDiscretionShot",
+    "DemotedToExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Ollie Creekly",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "BlackAndNerdy"
+  ],
   "tropes_by_category": {}
 }

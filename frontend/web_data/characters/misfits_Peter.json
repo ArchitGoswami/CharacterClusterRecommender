@@ -1,7 +1,28 @@
 {
   "name": "Peter",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "AscendedFanboy",
+    "SuperVillain",
+    "InTheBack",
+    "WellIntentionedExtremist",
+    "MisappliedPhlebotinum",
+    "MindControl",
+    "EvilKnockoff",
+    "StylisticSuck",
+    "CareerAproposEmpowering",
+    "RewritingReality",
+    "ShadowArchetype",
+    "PersonalityPowers",
+    "FieryCoverup",
+    "StalkerWithACrush",
+    "TheSociopath",
+    "PsychoSupporter",
+    "MyDeathIsOnlyTheBeginning",
+    "AlliterativeName",
+    "ChekhovsGun",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Matt Webb",
   "show": "American Horror Stories",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PetTheDog",
+    "LaserGuidedKarma",
+    "AssholeVictim",
+    "GoldDigger",
+    "DoubleSubverted"
+  ],
   "tropes_by_category": {}
 }

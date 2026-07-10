@@ -1,7 +1,15 @@
 {
   "name": "Bloppy Pants",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "LethalChef",
+    "MasculineGirlFeminineBoy",
+    "TheQuietOne",
+    "ShrinkingViolet",
+    "Tomboy",
+    "AscendedExtra",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

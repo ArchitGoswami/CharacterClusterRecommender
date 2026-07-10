@@ -1,7 +1,11 @@
 {
   "name": "Corey Bryant",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PayEvilUntoEvil",
+    "TheDogBitesBack",
+    "DomesticAbuse"
+  ],
   "tropes_by_category": {}
 }

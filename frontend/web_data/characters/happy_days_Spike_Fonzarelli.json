@@ -1,7 +1,16 @@
 {
   "name": "Spike Fonzarelli",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "RealMenWearPink",
+    "ChuckCunninghamSyndrome",
+    "BerserkButton",
+    "MiniMe",
+    "LikesOlderWomen",
+    "EmbarrassingFirstName",
+    "HatesBeingTouched",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

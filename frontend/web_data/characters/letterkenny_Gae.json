@@ -1,7 +1,23 @@
 {
   "name": "Gae",
   "show": "Letterkenny",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AffirmativeActionLegacy",
+    "PetTheDog",
+    "NietzscheWannabe",
+    "SixthRanger",
+    "PsychopathicWomanchild",
+    "WhatHappenedToTheMouse",
+    "ItsNotYouItsMyEnemies",
+    "CommutingOnABus",
+    "OhCrap",
+    "VagueAge",
+    "UnfortunateNames",
+    "TheCobblersChildrenHaveNoShoes",
+    "RapeIsASpecialKindOfEvil",
+    "RelationshipUpgrade",
+    "MonsterClown"
+  ],
   "tropes_by_category": {}
 }

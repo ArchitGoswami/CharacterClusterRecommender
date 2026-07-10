@@ -1,7 +1,10 @@
 {
   "name": "The Game HQ",
   "show": "The Guild",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DoggedNiceGuy",
+    "SixthRangerTraitor"
+  ],
   "tropes_by_category": {}
 }

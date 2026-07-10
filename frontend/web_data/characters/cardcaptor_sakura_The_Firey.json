@@ -1,7 +1,14 @@
 {
   "name": "The Firey",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MyNaymeIs",
+    "WingedHumanoid",
+    "ElementalRivalry",
+    "PlayingWithFire",
+    "FireIsMasculine",
+    "FlamingHair"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Shelby Marx",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ButchLesbian",
+    "ActionGirl",
+    "UnwittingPawn",
+    "WrongGenreSavvy",
+    "JumpingOffTheSlipperySlope",
+    "IdenticalStranger",
+    "TheMillstone",
+    "AmbiguouslyGay",
+    "BewareTheNiceOnes",
+    "NiceGirl",
+    "CassandraTruth",
+    "InformedAttractiveness",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

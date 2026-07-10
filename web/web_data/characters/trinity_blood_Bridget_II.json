@@ -1,7 +1,11 @@
 {
   "name": "Bridget II",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PosthumousCharacter",
+    "IronLady",
+    "StrongFamilyResemblance"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Dr. Benton Quest",
   "show": "Jonny Quest",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SeenItAll",
+    "OmnidisciplinaryScientist",
+    "ActionDad",
+    "RealMenWearPink",
+    "GadgeteerGenius",
+    "RichGenius",
+    "DistressedDude",
+    "BadassBookworm",
+    "BigGood",
+    "ScienceHero",
+    "HeterosexualLifePartners",
+    "ForScience",
+    "Standard50sFather",
+    "PapaWolf",
+    "InsistentTerminology",
+    "GeniusBruiser",
+    "AgentScully",
+    "BrainsAndBrawn"
+  ],
   "tropes_by_category": {}
 }

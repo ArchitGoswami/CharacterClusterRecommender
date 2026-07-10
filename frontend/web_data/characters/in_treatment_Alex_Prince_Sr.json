@@ -1,7 +1,19 @@
 {
   "name": "Alex Prince, Sr.",
   "show": "In Treatment",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheCasanova",
+    "SelfMadeMan",
+    "ManlyTears",
+    "Patricide",
+    "TheDreaded",
+    "TheAce",
+    "MyGodWhatHaveIDone",
+    "BrokenAce",
+    "ParentsAsPeople",
+    "AbusiveParents",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

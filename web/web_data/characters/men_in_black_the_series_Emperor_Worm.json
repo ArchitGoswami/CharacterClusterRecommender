@@ -1,7 +1,18 @@
 {
   "name": "Emperor Worm",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "HawaiianShirtedTourist",
+    "MustHaveCaffeine",
+    "AliensSpeakingEnglish",
+    "FatSlob",
+    "DistressedDude",
+    "BerserkButton",
+    "LargeAndInCharge",
+    "AdiposeRex",
+    "MyHovercraftIsFullOfEels",
+    "TheGoodKing"
+  ],
   "tropes_by_category": {}
 }

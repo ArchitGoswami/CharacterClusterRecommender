@@ -1,7 +1,9 @@
 {
   "name": "Gloria",
   "show": "Bob Hearts Abishola",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "SassyBlackWoman"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Michael Mancini",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "TheCasanova",
+    "OddFriendship",
+    "JerkWithAHeartOfGold",
+    "ReallyGetsAround",
+    "HospitalHottie",
+    "NiceGuy",
+    "BerserkButton",
+    "BunnyEarsLawyer",
+    "DrJerk",
+    "SerialSpouse",
+    "VitriolicBestBuds",
+    "EveryoneHasStandards",
+    "SmugSnake",
+    "CharacterizationMarchesOn",
+    "AwfulWeddedLife",
+    "BittersweetEnding",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

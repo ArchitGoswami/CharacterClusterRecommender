@@ -1,7 +1,11 @@
 {
   "name": "Vijay Patel",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "MasculineGirlFeminineBoy",
+    "BollywoodNerd"
+  ],
   "tropes_by_category": {}
 }

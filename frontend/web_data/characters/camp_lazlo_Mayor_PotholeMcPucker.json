@@ -1,7 +1,18 @@
 {
   "name": "Mayor PotholeMcPucker",
   "show": "Camp Lazlo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Gasshole",
+    "NonstandardCharacterDesign",
+    "ThePigpen",
+    "ReasonableAuthorityFigure",
+    "BunnyEarsLawyer",
+    "InformedSpecies",
+    "FanDisservice",
+    "Gonk",
+    "KavorkaMan",
+    "PigMan"
+  ],
   "tropes_by_category": {}
 }

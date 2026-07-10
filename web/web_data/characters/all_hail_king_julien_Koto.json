@@ -1,7 +1,28 @@
 {
   "name": "Koto",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "ALizardNamedLiz",
+    "KilledOffForReal",
+    "EvilIsBigger",
+    "TheBadGuyWins",
+    "TheEvilPrince",
+    "KickTheDog",
+    "FriendlyEnemy",
+    "HiddenDepths",
+    "TruthInTelevision",
+    "KnightOfCerebus",
+    "CoolSword",
+    "CainAndAbel",
+    "SiblingYinYang",
+    "CoolCrown",
+    "BigBad",
+    "LastOfHisKind",
+    "UsedToBeASweetKid",
+    "BloodKnight",
+    "BitchInSheepsClothing",
+    "GoodScarsEvilScars"
+  ],
   "tropes_by_category": {}
 }

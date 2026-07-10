@@ -1,7 +1,27 @@
 {
   "name": "Straight Cougar",
   "show": "Scryed",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "BigBrotherMentor",
+    "AmbiguousSituation",
+    "EveryoneHasStandards",
+    "AccidentalMisnaming",
+    "TheWorfEffect",
+    "DentedIron",
+    "DrivesLikeCrazy",
+    "BadassDriver",
+    "PowerArmor",
+    "RunningGag",
+    "MotorMouth",
+    "BigDamnHeroes",
+    "CannotSpitItOut",
+    "ArmedLegs",
+    "LockedIntoStrangeness",
+    "CulturedBadass",
+    "DynamicEntry",
+    "SpeedDemon",
+    "OOCIsSeriousBusiness"
+  ],
   "tropes_by_category": {}
 }

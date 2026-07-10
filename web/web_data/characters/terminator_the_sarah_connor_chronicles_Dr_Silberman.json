@@ -1,7 +1,12 @@
 {
   "name": "Dr. Silberman",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "LaserGuidedKarma",
+    "ScrewThisImOuttaHere",
+    "AdaptationalAttractiveness",
+    "SanitySlippage"
+  ],
   "tropes_by_category": {}
 }

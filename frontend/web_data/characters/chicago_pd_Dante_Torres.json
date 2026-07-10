@@ -1,7 +1,16 @@
 {
   "name": "Dante Torres",
   "show": "Chicago PD",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ADayInTheLimelight",
+    "BewareTheQuietOnes",
+    "TheQuietOne",
+    "PutOnABus",
+    "TokenMinority",
+    "TokenReligiousTeammate",
+    "DarkAndTroubledPast",
+    "NoHoldsBarredBeatdown"
+  ],
   "tropes_by_category": {}
 }

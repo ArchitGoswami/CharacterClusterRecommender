@@ -1,7 +1,16 @@
 {
   "name": "Trixie (Michi Shimura)",
   "show": "Speed Racer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "MissionControl",
+    "ClingyJealousGirl",
+    "JerkWithAHeartOfGold",
+    "WrenchWench",
+    "NeverASelfMadeWoman",
+    "OnlyOneName",
+    "PluckyGirl",
+    "ActionGirlfriend"
+  ],
   "tropes_by_category": {}
 }

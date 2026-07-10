@@ -1,7 +1,20 @@
 {
   "name": "Wally Langford",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "DeathGlare",
+    "LoveAtFirstSight",
+    "SoBadItsGood",
+    "OldShame",
+    "BerserkButton",
+    "HappilyMarried",
+    "CampGay",
+    "LoveMakesYouDumb",
+    "PenName",
+    "ManlyGay",
+    "TheMovieBuff"
+  ],
   "tropes_by_category": {}
 }

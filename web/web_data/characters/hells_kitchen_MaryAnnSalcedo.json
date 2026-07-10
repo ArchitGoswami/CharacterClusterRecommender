@@ -1,7 +1,11 @@
 {
   "name": "MaryAnnSalcedo",
   "show": "Hell's Kitchen",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "RedOniBlueOni",
+    "ConsummateProfessional",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

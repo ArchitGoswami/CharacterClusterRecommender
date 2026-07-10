@@ -1,7 +1,29 @@
 {
   "name": "Grudge",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "TheUnintelligible",
+    "NotSoStoic",
+    "Determinator",
+    "PunchClockVillain",
+    "ExtremeOmnivore",
+    "ArsonMurderAndJaywalking",
+    "UngratefulBastard",
+    "ArtEvolution",
+    "NotSoAboveItAll",
+    "MinionWithAnFInEvil",
+    "UndyingLoyalty",
+    "IntelligibleUnintelligible",
+    "BigOlUnibrow",
+    "TheStoic",
+    "AllThereInTheScript",
+    "IAmNotWeasel",
+    "NothingPersonal",
+    "CharacterDevelopment",
+    "NonHumanSidekick",
+    "TrademarkFavoriteFood",
+    "RodentsOfUnusualSize"
+  ],
   "tropes_by_category": {}
 }

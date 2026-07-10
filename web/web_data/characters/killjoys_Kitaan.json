@@ -1,7 +1,18 @@
 {
   "name": "Kitaan",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FakeMemories",
+    "AndIMustScream",
+    "ItMakesSenseInContext",
+    "DarkActionGirl",
+    "AxCrazy",
+    "ThrownOutTheAirlock",
+    "AmbiguouslyGay",
+    "DesignatedGirlFight",
+    "BreakThemByTalking",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

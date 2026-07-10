@@ -1,7 +1,27 @@
 {
   "name": "Victor Verliezer",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "TheReveal",
+    "StealingTheCredit",
+    "HumongousMecha",
+    "NiceGuy",
+    "Foil",
+    "Narcissist",
+    "EvilAllAlong",
+    "JerkAss",
+    "MeaningfulName",
+    "NoSympathy",
+    "FailedAttemptAtDrama",
+    "HatedByAll",
+    "LaserGuidedKarma",
+    "HateSink",
+    "Flanderization",
+    "CorruptCorporateExecutive",
+    "HeelFaceTurn",
+    "SoreLoser",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

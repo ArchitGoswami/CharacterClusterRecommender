@@ -1,7 +1,14 @@
 {
   "name": "Conrad",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LiteralMinded",
+    "BitchInSheepsClothing",
+    "BigBad",
+    "VileVillainSaccharineShow",
+    "FatBastard",
+    "MetaphorIsMyMiddleName"
+  ],
   "tropes_by_category": {}
 }

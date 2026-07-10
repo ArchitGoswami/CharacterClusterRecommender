@@ -1,7 +1,11 @@
 {
   "name": "Inspector RaymondLeBrun",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ByTheBookCop",
+    "ArchEnemy",
+    "HandicappedBadass"
+  ],
   "tropes_by_category": {}
 }

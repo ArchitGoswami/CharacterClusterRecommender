@@ -1,7 +1,26 @@
 {
   "name": "Dylan Hunt",
   "show": "Andromeda",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "ShoutOut",
+    "FounderOfTheKingdom",
+    "TheHero",
+    "ActorAllusion",
+    "AbandonShip",
+    "BenevolentPrecursors",
+    "HalfHumanHybrid",
+    "HumanSubspecies",
+    "LostTechnology",
+    "SuperStrength",
+    "HeavyWorlder",
+    "AfterTheEnd",
+    "TimeDilation",
+    "TheCaptain",
+    "Pilot",
+    "GeniusBruiser",
+    "DistressSignal",
+    "CrazyEnoughToWork"
+  ],
   "tropes_by_category": {}
 }

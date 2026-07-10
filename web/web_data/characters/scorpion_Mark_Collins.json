@@ -1,7 +1,20 @@
 {
   "name": "Mark Collins",
   "show": "Scorpion",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TokenEvilTeammate",
+    "DoesThisRemindYouOfAnything",
+    "SmartPeoplePlayChess",
+    "StalkerWithACrush",
+    "ToxicFriendInfluence",
+    "WoundedGazelleGambit",
+    "ManipulativeBastard",
+    "InsufferableGenius",
+    "TeethClenchedTeamwork",
+    "ArcVillain",
+    "EvilCounterpart",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

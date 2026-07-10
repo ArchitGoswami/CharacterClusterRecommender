@@ -1,7 +1,10 @@
 {
   "name": "The Ancient One",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OmnicidalManiac",
+    "ShapeshifterGuiltTrip"
+  ],
   "tropes_by_category": {}
 }

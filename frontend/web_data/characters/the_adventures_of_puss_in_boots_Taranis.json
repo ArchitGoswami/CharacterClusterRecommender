@@ -1,7 +1,22 @@
 {
   "name": "Taranis",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeelFaceTurn",
+    "DumbMuscle",
+    "BreakTheHaughty",
+    "DepartmentOfRedundancyDepartment",
+    "WeatherManipulation",
+    "TheDitz",
+    "TheDreaded",
+    "MacGuffin",
+    "VillainsOutShopping",
+    "ComicallyMissingThePoint",
+    "BoisterousBruiser",
+    "FriendlyEnemy",
+    "ShockAndAwe",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "Al Lombard",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "EarlyBirdCameo",
+    "IGaveMyWord",
+    "AffablyEvil",
+    "HeroicSacrifice",
+    "ArtisticLicenseLaw",
+    "GracefulLoser",
+    "NotSoHarmless",
+    "TheDon",
+    "TheBusCameBack",
+    "NobleDemon",
+    "ButForMeItWasTuesday",
+    "SurvivalMantra",
+    "KarmaHoudini",
+    "VillainRespect",
+    "AddingInsulttoInjury",
+    "TheGhost",
+    "BolivianArmyEnding",
+    "HeKnowsTooMuch",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

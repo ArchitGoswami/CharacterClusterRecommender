@@ -1,7 +1,15 @@
 {
   "name": "Buddy Blue",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AmusingInjuries",
+    "TheGhost",
+    "LovableJock",
+    "AcademicAthlete",
+    "VerbalTic",
+    "MeaningfulName",
+    "BlueIsHeroic"
+  ],
   "tropes_by_category": {}
 }

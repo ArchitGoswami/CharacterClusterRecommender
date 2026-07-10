@@ -1,7 +1,10 @@
 {
   "name": "The buffalo man",
   "show": "American Gods",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RecurringExtra",
+    "AnthropomorphicPersonification"
+  ],
   "tropes_by_category": {}
 }

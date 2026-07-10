@@ -1,7 +1,17 @@
 {
   "name": "Robert Chestnut",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LivingLegend",
+    "EngineeredHeroics",
+    "StudentCouncilPresident",
+    "FallenHero",
+    "ThePerfectionist",
+    "TheIllegible",
+    "AlasPoorVillain",
+    "HiddenDepths",
+    "HeroicLineage"
+  ],
   "tropes_by_category": {}
 }

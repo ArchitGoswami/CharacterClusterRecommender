@@ -1,7 +1,19 @@
 {
   "name": "Sons of Mithras",
   "show": "Da Vinci's Demons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "DeadpanSnarker",
+    "WeHardlyKnewYe",
+    "MacGuffin",
+    "AncientConspiracy",
+    "BerserkButton",
+    "HistoricalDomainCharacter",
+    "PosthumousCharacter",
+    "EccentricMentor",
+    "HermitGuru",
+    "HumanNotepad"
+  ],
   "tropes_by_category": {}
 }

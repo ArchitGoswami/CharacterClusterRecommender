@@ -1,7 +1,31 @@
 {
   "name": "Abby Maitland",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "BrokenBird",
+    "MsFanservice",
+    "BerserkButton",
+    "GirlyGirl",
+    "SpikyHair",
+    "ActionGirl",
+    "AnimalLover",
+    "ProgressivelyPrettier",
+    "SpottingTheThread",
+    "Tsundere",
+    "UnrequitedLoveSwitcheroo",
+    "ChickFlick",
+    "PintsizedPowerhouse",
+    "TwiceShy",
+    "TheLancer",
+    "MamaBear",
+    "OneOfTheBoys",
+    "TomboyWithAGirlyStreak",
+    "CoolBigSis",
+    "BewareTheNiceOnes",
+    "TomboyAndGirlyGirl",
+    "CatFight",
+    "ExpositoryHairstyleChange"
+  ],
   "tropes_by_category": {}
 }

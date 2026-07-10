@@ -1,7 +1,19 @@
 {
   "name": "Rachel Wood",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DiesWideOpen",
+    "CharacterDeath",
+    "TheVamp",
+    "CatFolk",
+    "CatsAreMean",
+    "CruelAndUnusualDeath",
+    "EvilRedhead",
+    "SmugSnake",
+    "MasterRace",
+    "FantasticRacism",
+    "GirlFriday"
+  ],
   "tropes_by_category": {}
 }

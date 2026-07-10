@@ -1,7 +1,19 @@
 {
   "name": "Ted",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AwLookTheyReallyDoLoveEachOther",
+    "CowardlyLion",
+    "RunningGag",
+    "LovableCoward",
+    "TookALevelInBadass",
+    "CampGay",
+    "CharacterFocus",
+    "PottyFailure",
+    "EarlyInstallmentWeirdness",
+    "AmbiguouslyBi",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,29 @@
 {
   "name": "Soolin",
   "show": "Blake's 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "LiteralistSnarking",
+    "YouKilledMyFather",
+    "BackToBackBadasses",
+    "TheGunslinger",
+    "ActionGirl",
+    "SexSlave",
+    "IceQueen",
+    "HiredGuns",
+    "HiddenDepths",
+    "DarkAndTroubledPast",
+    "HarmfulToMinors",
+    "RoaringRampageOfRevenge",
+    "QuickDraw",
+    "DoomedHometown",
+    "FriendsWithBenefits",
+    "DumbMuscle",
+    "ItMakesSenseInContext",
+    "SuddenNameChange",
+    "VillainOfTheWeek",
+    "FlatCharacter",
+    "SurpassedTheTeacher"
+  ],
   "tropes_by_category": {}
 }

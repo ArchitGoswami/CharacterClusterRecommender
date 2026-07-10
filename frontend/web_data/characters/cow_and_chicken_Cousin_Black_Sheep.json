@@ -1,7 +1,12 @@
 {
   "name": "Cousin Black Sheep",
   "show": "Cow and Chicken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGuy",
+    "CallingMeALogarithm",
+    "MotorMouth",
+    "BlackSheep"
+  ],
   "tropes_by_category": {}
 }

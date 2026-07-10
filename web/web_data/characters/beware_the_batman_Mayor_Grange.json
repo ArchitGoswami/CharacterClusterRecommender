@@ -1,7 +1,15 @@
 {
   "name": "Mayor Grange",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Expy",
+    "HeroicBSOD",
+    "ReasonableAuthorityFigure",
+    "RaceLift",
+    "EarlyBirdCameo",
+    "IronLady",
+    "BlackBossLady"
+  ],
   "tropes_by_category": {}
 }

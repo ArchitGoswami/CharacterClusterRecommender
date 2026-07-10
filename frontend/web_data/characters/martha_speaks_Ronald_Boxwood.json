@@ -1,7 +1,19 @@
 {
   "name": "Ronald Boxwood",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "NerdyBully",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "PetTheDog",
+    "TheBully",
+    "SiblingRivalry",
+    "UnmanlySecret",
+    "BigBrotherBully",
+    "SharedFamilyQuirks",
+    "LeanAndMean",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

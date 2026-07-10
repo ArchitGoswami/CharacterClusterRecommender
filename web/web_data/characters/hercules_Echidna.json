@@ -1,7 +1,22 @@
 {
   "name": "Echidna",
   "show": "Hercules",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "NonMammalMammaries",
+    "StrugglingSingleMother",
+    "VillainSong",
+    "MonsterIsAMommy",
+    "UnholyMatrimony",
+    "BewareMyStingerTail",
+    "SealedEvilInACan",
+    "ToServeMan",
+    "HappilyMarried",
+    "RelatedInTheAdaptation",
+    "TertiarySexualCharacteristics",
+    "CardCarryingVillain",
+    "DraconicAbomination",
+    "AdaptationalUgliness"
+  ],
   "tropes_by_category": {}
 }

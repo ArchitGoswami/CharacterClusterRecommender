@@ -1,7 +1,13 @@
 {
   "name": "Sister Mary",
   "show": "Lucy, the Daughter of the Devil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ADayInTheLimelight",
+    "GoodIsNotNice",
+    "NunTooHoly",
+    "GrumpyOldMan",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

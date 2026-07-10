@@ -1,7 +1,20 @@
 {
   "name": "Calpurnia",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CreepyCrows",
+    "ChuckCunninghamSyndrome",
+    "ArrangedMarriage",
+    "DreamingOfThingsToCome",
+    "HonorBeforeReason",
+    "StayInTheKitchen",
+    "SpitefulSpit",
+    "SilkHidingSteel",
+    "UnwittingInstigatorOfDoom",
+    "MySignificanceSenseIsTingling",
+    "CassandraTruth",
+    "IChooseToStay"
+  ],
   "tropes_by_category": {}
 }

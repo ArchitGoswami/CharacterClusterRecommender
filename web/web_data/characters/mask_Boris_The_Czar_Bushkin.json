@@ -1,7 +1,11 @@
 {
   "name": "Boris \"The Czar\" Bushkin",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheMole",
+    "BaldHeadOfToughness",
+    "HuskyRusskie"
+  ],
   "tropes_by_category": {}
 }

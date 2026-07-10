@@ -1,7 +1,22 @@
 {
   "name": "Killamari",
   "show": "Street Sharks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DeadpanSnarker",
+    "ChuckCunninghamSyndrome",
+    "BecomeARealBoy",
+    "UpliftedAnimal",
+    "MightyRoar",
+    "MultiArmedAndDangerous",
+    "AxCrazy",
+    "NamesToRunAwayFromReallyFast",
+    "TentacledTerror",
+    "TheDragon",
+    "MoreTeethThanTheOsmondFamily",
+    "TheBerserker",
+    "MonsterModesty",
+    "SpikeShooter"
+  ],
   "tropes_by_category": {}
 }

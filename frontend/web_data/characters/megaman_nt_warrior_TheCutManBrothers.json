@@ -1,7 +1,19 @@
 {
   "name": "TheCutManBrothers",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BigOlEyebrows",
+    "Bishounen",
+    "BigThinShortTrio",
+    "RedOniBlueOni",
+    "Revenge",
+    "BlatantLies",
+    "SuperSentaiStance",
+    "ThreePlusTwo",
+    "DyingToBeReplaced",
+    "AlternateSelf",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

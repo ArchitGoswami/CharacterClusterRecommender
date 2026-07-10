@@ -1,7 +1,29 @@
 {
   "name": "Eustreptospondylus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "PaletteSwap",
+    "PragmaticVillainy",
+    "DecoyProtagonist",
+    "MonsterMunch",
+    "AnimalsNotToScale",
+    "BigEater",
+    "ArtEvolution",
+    "TheWorfEffect",
+    "DownplayedTrope",
+    "ArtisticLicensePaleontology",
+    "HiddenDepths",
+    "TheConstant",
+    "CirclingVultures",
+    "WhosLaughingNow",
+    "AlwaysABiggerFish",
+    "ScavengersAreScum",
+    "RuleOfCool",
+    "AnachronismStew",
+    "ActionSurvivor",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "The Presence",
   "show": "Lucifer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TopGod",
+    "BalanceBetweenGoodAndEvil",
+    "ArchangelMichael",
+    "TwoAliasesOneCharacter",
+    "AlternateCompanyEquivalent",
+    "GodInHumanForm",
+    "TheChessmaster",
+    "NotSoAboveItAll",
+    "IHaveManyNames",
+    "TheMultiverse",
+    "GrandpaGod",
+    "DependingOnTheWriter",
+    "CosmicEntity",
+    "God",
+    "TheOmnipotent",
+    "CanonWelding",
+    "PassingTheTorch",
+    "HaveYouSeenMyGod",
+    "TheGhost",
+    "TheMaker",
+    "TrulySingleParent",
+    "OmnicidalManiac",
+    "DivineInfernalFamily"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Chuck and Leon Chameleon",
   "show": "Rocko's Modern Life",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "ThoseTwoGuys",
+    "RealMenWearPink",
+    "Catchphrase",
+    "KnowNothingKnowItAll",
+    "ADayInTheLimelight",
+    "HalfDressedCartoonAnimal",
+    "SpeciesSurname",
+    "DisembodiedEyebrows",
+    "AlwaysCamp",
+    "NewJobAsThePlotDemands",
+    "Hipster",
+    "InformedSpecies",
+    "SingleMindedTwins",
+    "AmbiguouslyGay",
+    "HollywoodChameleons",
+    "UnreliableNarrator",
+    "Cloudcuckoolander",
+    "Fauxreigner"
+  ],
   "tropes_by_category": {}
 }

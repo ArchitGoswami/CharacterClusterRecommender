@@ -1,7 +1,13 @@
 {
   "name": "Jessica Angell",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ActionGirl",
+    "KilledOffForReal",
+    "SuspiciouslySimilarSubstitute",
+    "BornDetective",
+    "IHaveBrothers"
+  ],
   "tropes_by_category": {}
 }

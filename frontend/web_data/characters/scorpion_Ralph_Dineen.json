@@ -1,7 +1,21 @@
 {
   "name": "Ralph Dineen",
   "show": "Scorpion",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BrokenPedestal",
+    "DeadpanSnarker",
+    "SmartPeoplePlayChess",
+    "DisappearedDad",
+    "ShipperOnDeck",
+    "NoSocialSkills",
+    "NoGoodDeedGoesUnpunished",
+    "BatmanGambit",
+    "AllAccordingToPlan",
+    "NomDeMom",
+    "ChildProdigy",
+    "IntergenerationalFriendship",
+    "IntelligenceEqualsIsolation"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Rusephine",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "OneWingedAngel",
+    "NephariousPharaoh",
+    "TimeMaster",
+    "BigBad",
+    "SecondaryColorNemesis",
+    "AllYourPowersCombined",
+    "WingedHumanoid",
+    "MeaningfulName",
+    "EvilIsNotAToy",
+    "SuperMode",
+    "LightIsNotGood",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

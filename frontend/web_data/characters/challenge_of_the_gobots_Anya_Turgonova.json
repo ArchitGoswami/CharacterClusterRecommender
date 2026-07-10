@@ -1,7 +1,11 @@
 {
   "name": "Anya Turgonova",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "The80s",
+    "AmbiguouslyBrown",
+    "DirtyCommies"
+  ],
   "tropes_by_category": {}
 }

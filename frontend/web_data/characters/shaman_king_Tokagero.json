@@ -1,7 +1,29 @@
 {
   "name": "Tokagero",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "LittleBitBeastly",
+    "AnimalMotifs",
+    "MeaningfulName",
+    "ButtMonkey",
+    "EvilCannotComprehendGood",
+    "EvenBadMenLoveTheirMamas",
+    "Jerkass",
+    "IJustWantToHaveFriends",
+    "PaperTiger",
+    "DefeatMeansFriendship",
+    "NoPartyLikeADonnerParty",
+    "AndThenWhat",
+    "ButForMeItWasTuesday",
+    "SenselessSacrifice",
+    "AntiVillain",
+    "HeelFaceTurn",
+    "SignatureLaugh",
+    "DemBones",
+    "BecauseYouWereNiceToMe",
+    "ForgottenFirstMeeting",
+    "TookALevelInKindness"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Christopher Castillo",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DistantFinale",
+    "ChildrenAreInnocent",
+    "ButNotTooForeign",
+    "SomeoneToRememberHimBy",
+    "DeadGuyJunior",
+    "MoralityChain",
+    "MoralityPet",
+    "IdenticalGrandson"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Wade",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "ChuckCunninghamSyndrome",
+    "WhatHappenedToTheMouse",
+    "OnlyOneName",
+    "AdaptedOut"
+  ],
   "tropes_by_category": {}
 }

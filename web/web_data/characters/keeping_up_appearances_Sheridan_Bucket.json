@@ -1,7 +1,14 @@
 {
   "name": "Sheridan Bucket",
   "show": "Keeping Up Appearances",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheGhost",
+    "SpoiledBrat",
+    "GenreSavvy",
+    "AmbiguouslyGay",
+    "TheFaceless",
+    "HeWhoMustNotBeSeen"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Violet",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "MusclesAreMeaningless",
+    "PintSizedPowerhouse",
+    "LampshadedTrope",
+    "PunnyName",
+    "CuteBruiser",
+    "PutOnABus",
+    "HairTriggerTemper",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

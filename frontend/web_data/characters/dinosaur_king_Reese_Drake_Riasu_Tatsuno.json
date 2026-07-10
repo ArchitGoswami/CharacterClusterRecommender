@@ -1,7 +1,20 @@
 {
   "name": "Reese Drake (Riasu Tatsuno)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "WhenSheSmiles",
+    "AscendedExtra",
+    "BespectacledCutie",
+    "SmartPeopleWearGlasses",
+    "BigGood",
+    "NumberTwo",
+    "AdaptationalPersonalityChange",
+    "GreenThumb",
+    "OutOfFocus",
+    "StoicSpectacles",
+    "MoralityPet",
+    "EmotionlessGirl"
+  ],
   "tropes_by_category": {}
 }

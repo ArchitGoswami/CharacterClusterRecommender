@@ -1,7 +1,13 @@
 {
   "name": "Haruhiko Aoyama",
   "show": "Seijuu Sentai Gingaman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MrExposition",
+    "TagalongChronicler",
+    "PictureBooks",
+    "NoRespectGuy",
+    "DopeSlap"
+  ],
   "tropes_by_category": {}
 }

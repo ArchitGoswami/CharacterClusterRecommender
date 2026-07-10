@@ -1,7 +1,15 @@
 {
   "name": "Pajuna",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SuspiciouslySpecificDenial",
+    "FurryReminder",
+    "ConstantlyLactatingCow",
+    "NoodleIncident",
+    "OnlySaneMan",
+    "MysteriousPast",
+    "MrViceGuy"
+  ],
   "tropes_by_category": {}
 }

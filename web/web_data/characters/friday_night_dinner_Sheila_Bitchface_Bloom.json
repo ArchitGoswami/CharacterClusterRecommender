@@ -1,7 +1,10 @@
 {
   "name": "Sheila \"Bitchface\" Bloom",
   "show": "Friday Night Dinner",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OneShotCharacter",
+    "RunningGag"
+  ],
   "tropes_by_category": {}
 }

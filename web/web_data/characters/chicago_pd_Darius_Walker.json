@@ -1,7 +1,10 @@
 {
   "name": "Darius Walker",
   "show": "Chicago PD",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "KarmicDeath",
+    "CopKiller"
+  ],
   "tropes_by_category": {}
 }

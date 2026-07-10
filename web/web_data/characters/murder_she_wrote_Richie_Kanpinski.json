@@ -1,7 +1,9 @@
 {
   "name": "Richie Kanpinski",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "CoolOldGuy"
+  ],
   "tropes_by_category": {}
 }

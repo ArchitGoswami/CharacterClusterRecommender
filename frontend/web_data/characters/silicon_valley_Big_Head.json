@@ -1,7 +1,28 @@
 {
   "name": "Big Head",
   "show": "Silicon Valley",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "NiceGuy",
+    "TokenGoodTeammate",
+    "SpannerInTheWorks",
+    "OnlyKnownByTheirNickname",
+    "KindheartedSimpleton",
+    "MealTicket",
+    "Jerkass",
+    "DistantFinale",
+    "TheDitz",
+    "ReassignmentBackfire",
+    "BornLucky",
+    "DoubleSubverted",
+    "Flanderization",
+    "NiceGuysFinishLast",
+    "FakeUltimateHero",
+    "TheFool",
+    "DumbIsGood",
+    "TrademarkFavoriteFood",
+    "DecoyProtagonist",
+    "RichInDollarsPoorInSense"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Grandpa Lou Pickles",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CoolOldGuy",
+    "DeadpanSnarker",
+    "OpposedMentors",
+    "RetiredBadass",
+    "DemotedToExtra",
+    "OldSoldier"
+  ],
   "tropes_by_category": {}
 }

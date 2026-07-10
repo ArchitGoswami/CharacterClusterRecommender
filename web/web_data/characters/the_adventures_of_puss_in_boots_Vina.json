@@ -1,7 +1,16 @@
 {
   "name": "Vina",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "KickChick",
+    "KnowNothingKnowItAll",
+    "GreenEyedMonster",
+    "VerbalTic",
+    "MyGodWhatHaveIDone",
+    "CoolBigSis",
+    "FantasticRacism",
+    "TriviallyObvious"
+  ],
   "tropes_by_category": {}
 }

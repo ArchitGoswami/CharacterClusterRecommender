@@ -1,7 +1,14 @@
 {
   "name": "Vanetta Teagues",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Womanchild",
+    "AwLookTheyReallyDoLoveEachOther",
+    "ParentalNeglect",
+    "GreenEyedMonster",
+    "MamaBear",
+    "HonorThyAbuser"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Laura Ingalls Wilder",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "ProperLady",
+    "ChekhovsSkill",
+    "RealWomenHaveCurves",
+    "TextileWorkIsFeminine",
+    "BrainyBrunette",
+    "AllGirlsLikePonies",
+    "DaddysGirl",
+    "HeightAngst",
+    "PintsizedPowerhouse",
+    "IAmNotPretty",
+    "OutdoorsyGal",
+    "AdaptationDyeJob",
+    "WhatBeautifulEyes",
+    "SiblingYinYang",
+    "LadyOfAdventure",
+    "BigSisterInstinct",
+    "TomboyWithAGirlyStreak",
+    "AgeGapRomance",
+    "TomboyAndGirlyGirl",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

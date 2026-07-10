@@ -1,7 +1,22 @@
 {
   "name": "Tracy Blair",
   "show": "Six Feet Under",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "StalkerWithACrush",
+    "DropInCharacter",
+    "PluckyComicRelief",
+    "WhiteAngloSaxonProtestant",
+    "ControlFreak",
+    "FriendlessBackground",
+    "PutOnABus",
+    "MotorMouth",
+    "HiddenDepths",
+    "NiceGirl",
+    "HereWeGoAgain",
+    "DarkAndTroubledPast",
+    "AscendedExtra",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

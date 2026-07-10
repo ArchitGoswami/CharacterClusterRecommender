@@ -1,7 +1,14 @@
 {
   "name": "Chika Akatsuki",
   "show": "Zombie Loan",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MistakenForGay",
+    "JerkWithAHeartOfGold",
+    "OddCouple",
+    "MissingMom",
+    "ParentalAbandonment",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

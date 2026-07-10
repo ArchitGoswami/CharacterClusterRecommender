@@ -1,7 +1,14 @@
 {
   "name": "Arakh",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ScaryScorpions",
+    "AnimalMotifs",
+    "EyepatchOfPower",
+    "CainAndAbel",
+    "AlwaysSomeoneBetter",
+    "RedAndBlackAndEvilAllOver"
+  ],
   "tropes_by_category": {}
 }

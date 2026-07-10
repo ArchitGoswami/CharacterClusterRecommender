@@ -1,7 +1,22 @@
 {
   "name": "Bumpy Dog",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ADayInTheLimelight",
+    "TeamPet",
+    "Leitmotif",
+    "PreciousPuppy",
+    "SilentSnarker",
+    "HappilyAdopted",
+    "BlackBeadEyes",
+    "AdaptationalEarlyAppearance",
+    "MeaningfulName",
+    "CryingCritters",
+    "DemotedToExtra",
+    "EvenTheDogIsAshamed",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

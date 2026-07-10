@@ -1,7 +1,14 @@
 {
   "name": "Dove",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LargeHam",
+    "AnimalThemeNaming",
+    "ButtMonkey",
+    "ImprovisedArmour",
+    "DamselOutOfDistress",
+    "FryingPanOfDoom"
+  ],
   "tropes_by_category": {}
 }

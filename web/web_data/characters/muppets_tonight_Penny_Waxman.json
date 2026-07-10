@@ -1,7 +1,18 @@
 {
   "name": "Penny Waxman",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FieryRedhead",
+    "JerkWithAHeartOfGold",
+    "BlazingInfernoHellfireSauce",
+    "BrutalHonesty",
+    "AmbiguouslyJewish",
+    "BigEater",
+    "FanDisservice",
+    "NewOldFlame",
+    "YokoOhNo",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

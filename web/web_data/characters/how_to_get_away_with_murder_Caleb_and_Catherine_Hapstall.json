@@ -1,7 +1,28 @@
 {
   "name": "Caleb and Catherine Hapstall",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "BrotherSisterIncest",
+    "WolfInSheepsClothing",
+    "BerserkButton",
+    "GladToBeAliveSex",
+    "GuileHero",
+    "AlliterativeFamily",
+    "BigBrotherInstinct",
+    "TallDarkAndHandsome",
+    "ClingyJealousGirl",
+    "SiblingsInCrime",
+    "BigBadEnsemble",
+    "ManipulativeBastard",
+    "LoveMakesYouDumb",
+    "HappilyAdopted",
+    "TheSociopath",
+    "DrivenToSuicide",
+    "TroubledButCute",
+    "DamselInDistress",
+    "Greed",
+    "NotBloodSiblings"
+  ],
   "tropes_by_category": {}
 }

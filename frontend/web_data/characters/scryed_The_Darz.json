@@ -1,7 +1,11 @@
 {
   "name": "The Darz",
   "show": "Scryed",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "Mooks",
+    "SpearCarrier",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

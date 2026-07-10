@@ -1,7 +1,12 @@
 {
   "name": "Ashley",
   "show": "Girls5eva",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PosthumousCharacter",
+    "UndignifiedDeath",
+    "VirtualCelebrity",
+    "TheHeart"
+  ],
   "tropes_by_category": {}
 }

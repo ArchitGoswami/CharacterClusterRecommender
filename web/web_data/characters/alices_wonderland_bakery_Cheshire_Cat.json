@@ -1,7 +1,10 @@
 {
   "name": "Cheshire Cat",
   "show": "Alice's Wonderland Bakery",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CheshireCatGrin",
+    "AdaptationalNiceGuy"
+  ],
   "tropes_by_category": {}
 }

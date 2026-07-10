@@ -1,7 +1,13 @@
 {
   "name": "Nairn",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SparedByTheAdaptation",
+    "CompositeCharacter",
+    "MajorInjuryUnderreaction",
+    "OhCrap",
+    "DeathFakedForYou"
+  ],
   "tropes_by_category": {}
 }

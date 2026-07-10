@@ -1,7 +1,19 @@
 {
   "name": "Clio",
   "show": "Rocket Power",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ClashingCousins",
+    "JerkWithAHeartOfGold",
+    "SpicyLatina",
+    "BerserkButton",
+    "TomboyAndGirlyGirl",
+    "TheAce",
+    "ShipTease",
+    "DefeatMeansFriendship",
+    "EmbarrassingFirstName",
+    "InstantExpert",
+    "OpenMouthInsertFoot"
+  ],
   "tropes_by_category": {}
 }

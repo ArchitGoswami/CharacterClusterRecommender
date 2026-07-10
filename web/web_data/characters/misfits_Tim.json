@@ -1,7 +1,17 @@
 {
   "name": "Tim",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheBusCameBack",
+    "ChronicVillainy",
+    "CloudCuckooLander",
+    "RandomEventsPlot",
+    "Leitmotif",
+    "RefugeInAudacity",
+    "BlackComedy",
+    "TalkingTheMonsterToDeath",
+    "BoomHeadshot"
+  ],
   "tropes_by_category": {}
 }

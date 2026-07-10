@@ -1,7 +1,15 @@
 {
   "name": "The Atom (Al Pratt)",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HeroicSacrifice",
+    "SurvivorGuilt",
+    "ShellShockedVeteran",
+    "AFatherToHisMen",
+    "AnArmAndALeg",
+    "InspectorJavert",
+    "CompositeCharacter"
+  ],
   "tropes_by_category": {}
 }

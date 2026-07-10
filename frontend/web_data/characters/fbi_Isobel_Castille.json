@@ -1,7 +1,21 @@
 {
   "name": "Isobel Castille",
   "show": "FBI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "PoorlyDisguisedPilot",
+    "RoaringRampageOfRevenge",
+    "NiceJobBreakingItHero",
+    "YouSaidYouWouldLetThemGo",
+    "ScrewTheRulesIMakeThem",
+    "YouHaveOutlivedYourUsefulness",
+    "HappilyMarried",
+    "DeconstructedTrope",
+    "MamaBear",
+    "EarlyBirdCameo",
+    "WellIntentionedExtremist",
+    "ParentalIssues",
+    "NoSympathy"
+  ],
   "tropes_by_category": {}
 }

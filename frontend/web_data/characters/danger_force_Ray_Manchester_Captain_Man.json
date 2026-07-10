@@ -1,7 +1,26 @@
 {
   "name": "Ray Manchester/Captain Man",
   "show": "Danger Force",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "CasanovaWannabe",
+    "ChickMagnet",
+    "TheCasanova",
+    "ChivalrousPervert",
+    "JerkWithAHeartOfGold",
+    "AcquiredSituationalNarcissism",
+    "DownplayedTrope",
+    "ItsAllAboutMe",
+    "BerserkButton",
+    "CaptainSuperhero",
+    "PrinceCharmingWannabe",
+    "EccentricMentor",
+    "NighInvulnerability",
+    "Flanderization",
+    "BloodKnight",
+    "AllLovingHero",
+    "NominalHero",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

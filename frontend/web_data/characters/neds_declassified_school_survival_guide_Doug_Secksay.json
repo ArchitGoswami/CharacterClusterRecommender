@@ -1,7 +1,17 @@
 {
   "name": "Doug Secksay",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BigManOnCampus",
+    "ChickMagnet",
+    "ChuckCunninghamSyndrome",
+    "CrazyJealousGuy",
+    "TotallyRadical",
+    "HiddenDepths",
+    "TheFaceless",
+    "DashingHispanic",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "King Pistachion",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AffablyEvil",
+    "ADogNamedDog",
+    "RetGone",
+    "BigBad",
+    "EvenEvilHasLovedOnes",
+    "LargeAndInCharge",
+    "RankScalesWithAsskicking",
+    "BadFuture",
+    "PredecessorVillain",
+    "ImplacableMan",
+    "ArsonMurderAndJaywalking",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

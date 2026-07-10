@@ -1,7 +1,19 @@
 {
   "name": "Denzil Tulser",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "JiveTurkey",
+    "TheDriver",
+    "RunningGag",
+    "NiceGuy",
+    "OopNorth",
+    "MassiveNumberedSiblings",
+    "TheEveryman",
+    "OnlySaneMan",
+    "HenpeckedHusband",
+    "CharacterizationMarchesOn",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

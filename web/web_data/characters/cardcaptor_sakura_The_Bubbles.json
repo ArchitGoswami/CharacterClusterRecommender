@@ -1,7 +1,15 @@
 {
   "name": "The Bubbles",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "MundaneUtility",
+    "RememberTheNewGuy",
+    "WaterIsWomanly",
+    "Pun",
+    "OffscreenMomentOfAwesome",
+    "Midquel",
+    "OurMermaidsAreDifferent"
+  ],
   "tropes_by_category": {}
 }

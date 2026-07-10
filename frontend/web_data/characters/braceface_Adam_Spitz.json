@@ -1,7 +1,13 @@
 {
   "name": "Adam Spitz",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OfficialCouple",
+    "BigBrotherInstinct",
+    "AloofBigBrother",
+    "DoesNotKnowHisOwnStrength",
+    "HiddenDepths"
+  ],
   "tropes_by_category": {}
 }

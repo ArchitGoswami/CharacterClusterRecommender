@@ -1,7 +1,18 @@
 {
   "name": "Euparkeria",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FantasticFaunaCounterpart",
+    "RidiculouslyCuteCritter",
+    "ImagineSpot",
+    "BoringButPractical",
+    "ArtisticLicensePaleontology",
+    "FragileSpeedster",
+    "FromNobodyToNightmare",
+    "LovableLizard",
+    "AnachronismStew",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

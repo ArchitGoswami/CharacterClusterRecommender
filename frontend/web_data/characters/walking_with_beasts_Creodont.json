@@ -1,7 +1,18 @@
 {
   "name": "Creodont",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "PaletteSwap",
+    "AllThereInTheManual",
+    "RidiculouslyCuteCritter",
+    "AnachronisticAnimal",
+    "AllAnimalsAreDogs",
+    "RedShirt",
+    "MonsterMunch",
+    "NoNameGiven",
+    "CarnivoreConfusion",
+    "WhatMeasureIsANonCute"
+  ],
   "tropes_by_category": {}
 }

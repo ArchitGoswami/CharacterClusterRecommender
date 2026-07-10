@@ -1,7 +1,16 @@
 {
   "name": "Cassiopeia",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Expy",
+    "PinkMeansFeminine",
+    "TameHisAnger",
+    "EveryoneLovesBlondes",
+    "OnlyOneName",
+    "MagicIdolSinger",
+    "PinkHeroine",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

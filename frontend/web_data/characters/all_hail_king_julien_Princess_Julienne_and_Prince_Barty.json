@@ -1,7 +1,20 @@
 {
   "name": "Princess Julienne and Prince Barty",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ReportsOfMyDeathWereGreatlyExaggerated",
+    "FurryBaldness",
+    "InfiniteSupplies",
+    "ParentalNeglect",
+    "ItRunsInTheFamily",
+    "UpperClassTwit",
+    "MaliciousMisnaming",
+    "CharacterDevelopment",
+    "ParentalAbandonment",
+    "HatesBeingTouched",
+    "ItsAllAboutMe",
+    "FamilyThemeNaming"
+  ],
   "tropes_by_category": {}
 }

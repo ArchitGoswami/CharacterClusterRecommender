@@ -1,7 +1,17 @@
 {
   "name": "Will Pope",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DaChief",
+    "TheGhost",
+    "TheAllegedBoss",
+    "PunnyName",
+    "TookALevelInJerkass",
+    "EarnYourHappyEnding",
+    "HasAType",
+    "ByTheBookCop",
+    "RankUp"
+  ],
   "tropes_by_category": {}
 }

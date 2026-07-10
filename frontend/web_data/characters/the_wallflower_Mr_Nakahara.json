@@ -1,7 +1,21 @@
 {
   "name": "Mr. Nakahara",
   "show": "The Wallflower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Yakuza",
+    "MistakenForGay",
+    "UnnamedParent",
+    "BoyfriendBlockingDad",
+    "FaceOfAThug",
+    "AbsurdPhobia",
+    "DownplayedTrope",
+    "BurningWithAnger",
+    "WhyCouldntYouBeDifferent",
+    "UglyGuyHotWife",
+    "SharedFamilyQuirks",
+    "PapaWolf",
+    "NightmareFetishist"
+  ],
   "tropes_by_category": {}
 }

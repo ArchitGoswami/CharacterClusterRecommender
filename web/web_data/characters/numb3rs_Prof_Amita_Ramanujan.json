@@ -1,7 +1,17 @@
 {
   "name": "Prof. Amita Ramanujan",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DamnYouMuscleMemory",
+    "LadyOfWar",
+    "LeetSpeak",
+    "BrainyBrunette",
+    "ArrangedMarriage",
+    "TheHeart",
+    "BollywoodNerd",
+    "ParentalAbandonment",
+    "GamerChick"
+  ],
   "tropes_by_category": {}
 }

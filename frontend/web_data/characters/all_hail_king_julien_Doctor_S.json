@@ -1,7 +1,16 @@
 {
   "name": "Doctor S",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Catchphrase",
+    "SpeciesSurname",
+    "MadScientist",
+    "BackAlleyDoctor",
+    "DefeatMeansFriendship",
+    "UnwittingInstigatorOfDoom",
+    "LargeHam",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

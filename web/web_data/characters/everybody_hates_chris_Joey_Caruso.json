@@ -1,7 +1,26 @@
 {
   "name": "Joey Caruso",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AffablyEvil",
+    "KarmaHoudiniWarranty",
+    "TheNicknamer",
+    "Jerkass",
+    "PetTheDog",
+    "GrandFinale",
+    "TheBully",
+    "KarmaHoudini",
+    "PoliticallyIncorrectVillain",
+    "HateSink",
+    "CantGetAwayWithNuthin",
+    "HiddenDepths",
+    "EvilRedhead",
+    "FreudianExcuseIsNoExcuse",
+    "CharacterizationMarchesOn",
+    "FatBastard",
+    "LastNameBasis",
+    "EvenBulliesHaveStandards"
+  ],
   "tropes_by_category": {}
 }

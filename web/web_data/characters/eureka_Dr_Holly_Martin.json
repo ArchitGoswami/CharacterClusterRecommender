@@ -1,7 +1,31 @@
 {
   "name": "Dr. Holly Martin",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "InnocentInnuendo",
+    "MetaGirl",
+    "AmnesiacLover",
+    "GrandFinale",
+    "BrainUploading",
+    "DoYouWantToCopulate",
+    "DarkerAndEdgier",
+    "ReallyGetsAround",
+    "LoveInterest",
+    "CharacterDeath",
+    "ArtificialHuman",
+    "VirtualGhost",
+    "BrainUpload",
+    "LaserGuidedAmnesia",
+    "FoeCooties",
+    "MaybeEverAfter",
+    "SexGoddess",
+    "FlexibilityEqualsSexAbility",
+    "SheKnowsTooMuch",
+    "SacrificialLion",
+    "LotusEaterMachine",
+    "UnresolvedSexualTension",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

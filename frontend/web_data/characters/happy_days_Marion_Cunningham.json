@@ -1,7 +1,25 @@
 {
   "name": "Marion Cunningham",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "PrefersProperNames",
+    "Housewife",
+    "LongRunnerCastTurnover",
+    "Tuckerization",
+    "TeamMom",
+    "MistakenForCheating",
+    "BerserkButton",
+    "HappilyMarried",
+    "GoodParents",
+    "NiceGirl",
+    "LikeASonToMe",
+    "BewareTheNiceOnes",
+    "MoralityPet",
+    "OnlySaneMan",
+    "FirstNameBasis",
+    "AllLovingHero",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

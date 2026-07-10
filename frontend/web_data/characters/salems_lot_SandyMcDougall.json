@@ -1,7 +1,13 @@
 {
   "name": "SandyMcDougall",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DespairEventHorizon",
+    "AssholeVictim",
+    "DomesticAbuse",
+    "AbusiveParents",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

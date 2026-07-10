@@ -1,7 +1,17 @@
 {
   "name": "Polacanthus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ThoseTwoGuys",
+    "PaletteSwap",
+    "AdaptationalSpeciesChange",
+    "MightyGlacier",
+    "AdaptedOut",
+    "ToughArmoredDinosaur",
+    "NighInvulnerable",
+    "TheCameo",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

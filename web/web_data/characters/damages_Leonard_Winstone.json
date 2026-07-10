@@ -1,7 +1,17 @@
 {
   "name": "Leonard Winstone",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AffablyEvil",
+    "TheDogBitesBack",
+    "MysteriousPast",
+    "KarmaHoudini",
+    "AmoralAttorney",
+    "PlayingAgainstType",
+    "DeadPersonImpersonation",
+    "MistreatmentInducedBetrayal",
+    "WhyAreYouNotMySon"
+  ],
   "tropes_by_category": {}
 }

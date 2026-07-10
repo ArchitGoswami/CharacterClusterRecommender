@@ -1,7 +1,12 @@
 {
   "name": "Splendid Bird from Paradise (Whistle)",
   "show": "Peep and the Big Wide World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ArtisticLicenseAnimalCare",
+    "GratuitousSpanish",
+    "WhereTheHellIsSpringfield",
+    "OverlyLongName"
+  ],
   "tropes_by_category": {}
 }

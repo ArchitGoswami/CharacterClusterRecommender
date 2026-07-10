@@ -1,7 +1,13 @@
 {
   "name": "Harry Arm",
   "show": "The Magic School Bus Rides Again",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "IronicName",
+    "StealthMentor",
+    "ShutUpHannibal",
+    "PunnyName",
+    "MisunderstoodLonerWithAHeartOfGold"
+  ],
   "tropes_by_category": {}
 }

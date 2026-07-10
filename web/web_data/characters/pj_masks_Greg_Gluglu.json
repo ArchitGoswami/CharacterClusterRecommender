@@ -1,7 +1,13 @@
 {
   "name": "Greg/Gluglu",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OddNameOut",
+    "ChameleonCamouflage",
+    "Invisibility",
+    "EarlyAdaptationWeirdness",
+    "AnimalMotifs"
+  ],
   "tropes_by_category": {}
 }

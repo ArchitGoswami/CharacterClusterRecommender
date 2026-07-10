@@ -1,7 +1,15 @@
 {
   "name": "Auntie Sis",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TeamMom",
+    "TraumaButton",
+    "AmbiguouslyHuman",
+    "ReasonableAuthorityFigure",
+    "PunnyName",
+    "MamaBear",
+    "DidNotThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

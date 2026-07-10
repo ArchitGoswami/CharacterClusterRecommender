@@ -1,7 +1,20 @@
 {
   "name": "Vince",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "Yandere",
+    "MindControlDevice",
+    "StoryboardBody",
+    "ArtAttacker",
+    "CareerAproposEmpowering",
+    "JumpingOffTheSlipperySlope",
+    "WeaksauceWeakness",
+    "HoYay",
+    "BullyingADragon",
+    "AnimatedTattoo",
+    "BaldOfEvil",
+    "BeardOfEvil"
+  ],
   "tropes_by_category": {}
 }

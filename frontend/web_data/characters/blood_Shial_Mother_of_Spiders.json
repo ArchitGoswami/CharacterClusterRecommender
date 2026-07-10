@@ -1,7 +1,12 @@
 {
   "name": "Shial, Mother of Spiders",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HardModeMook",
+    "WeaponizedOffspring",
+    "AchillesHeel",
+    "MookMaker"
+  ],
   "tropes_by_category": {}
 }

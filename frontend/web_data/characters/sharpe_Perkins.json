@@ -1,7 +1,29 @@
 {
   "name": "Perkins",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "LeeroyJenkins",
+    "FakingTheDead",
+    "PlayingSick",
+    "BreadEggsMilkSquick",
+    "ButtMonkey",
+    "TheBabyOfTheBunch",
+    "CartwrightCurse",
+    "DeathByIrony",
+    "DemotedToExtra",
+    "ConvenientlyAnOrphan",
+    "LoveInterest",
+    "ImpaledWithExtremePrejudice",
+    "TrojanPrisoner",
+    "BigDamnHeroes",
+    "DisguisedInDrag",
+    "TapOnTheHead",
+    "TogetherInDeath",
+    "DeathByAdaptation",
+    "StarCrossedLovers",
+    "SoleSurvivor",
+    "SacrificialLion"
+  ],
   "tropes_by_category": {}
 }

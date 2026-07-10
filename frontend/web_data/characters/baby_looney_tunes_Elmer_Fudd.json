@@ -1,7 +1,20 @@
 {
   "name": "Elmer Fudd",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HeelFaceTurn",
+    "AdaptationalDangerDowngrade",
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "ElmuhFuddSyndwome",
+    "TheBully",
+    "BerserkButton",
+    "TropeNamer",
+    "AgeLift",
+    "BrattyHalfPint",
+    "ButtMonkey",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

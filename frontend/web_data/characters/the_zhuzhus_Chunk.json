@@ -1,7 +1,18 @@
 {
   "name": "Chunk",
   "show": "The ZhuZhus",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheBigGuy",
+    "AffectionateNickname",
+    "BigEater",
+    "CrossDresser",
+    "MeaningfulName",
+    "InTouchWithHisFeminineSide",
+    "SpidersAreScary",
+    "DistractedByMyOwnSexy",
+    "InnocentlyInsensitive",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

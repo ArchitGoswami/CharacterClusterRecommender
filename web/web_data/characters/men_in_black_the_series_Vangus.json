@@ -1,7 +1,22 @@
 {
   "name": "Vangus",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TheDogBitesBack",
+    "BigBadDuumvirate",
+    "BatOutOfHell",
+    "DumbMuscle",
+    "KarmaHoudini",
+    "PlanetLooters",
+    "KnightOfCerebus",
+    "WingedHumanoid",
+    "PoliceBrutality",
+    "TheStarscream",
+    "OffOnATechnicality",
+    "KillAllHumans",
+    "AlienInvasion",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Lt. \"Smilin' Jack\" Mitchell",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheScrounger",
+    "ShoutOut",
+    "GracefulLoser",
+    "GloryHound",
+    "AcePilot",
+    "TheRival",
+    "KnifeThrowingAct",
+    "CoolShades",
+    "CameraFiend"
+  ],
   "tropes_by_category": {}
 }

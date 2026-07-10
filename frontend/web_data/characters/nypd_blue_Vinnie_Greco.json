@@ -1,7 +1,9 @@
 {
   "name": "Vinnie Greco",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "DoubleAgent"
+  ],
   "tropes_by_category": {}
 }

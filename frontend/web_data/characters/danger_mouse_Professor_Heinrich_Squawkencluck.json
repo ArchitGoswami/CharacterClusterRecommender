@@ -1,7 +1,14 @@
 {
   "name": "Professor Heinrich Squawkencluck",
   "show": "Danger Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "GratuitousForeignLanguage",
+    "TheProfessor",
+    "NonIndicativeName",
+    "Nephewism",
+    "HerrDoktor",
+    "HurricaneOfPuns"
+  ],
   "tropes_by_category": {}
 }

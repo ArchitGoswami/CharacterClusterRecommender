@@ -1,7 +1,17 @@
 {
   "name": "Haikouichthys",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheSwarm",
+    "PiranhaProblem",
+    "BoringButPractical",
+    "FragileSpeedster",
+    "BlackBeadEyes",
+    "KillerRabbit",
+    "FromNobodyToNightmare",
+    "AttackItsWeakPoint",
+    "ZergRush"
+  ],
   "tropes_by_category": {}
 }

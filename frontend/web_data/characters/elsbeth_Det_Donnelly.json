@@ -1,7 +1,11 @@
 {
   "name": "Det. Donnelly",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PetTheDog",
+    "InspectorLestrade",
+    "NotSoAboveItAll"
+  ],
   "tropes_by_category": {}
 }

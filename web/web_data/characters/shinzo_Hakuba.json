@@ -1,7 +1,13 @@
 {
   "name": "Hakuba",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Homage",
+    "RoboSpeak",
+    "RobotBuddy",
+    "InvoluntaryShapeshifting",
+    "ShesAManInJapan"
+  ],
   "tropes_by_category": {}
 }

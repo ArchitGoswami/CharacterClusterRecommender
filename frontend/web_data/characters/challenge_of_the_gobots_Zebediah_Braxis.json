@@ -1,7 +1,15 @@
 {
   "name": "Zebediah Braxis",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "Expy",
+    "MadScientist",
+    "TheQuisling",
+    "AssholeVictim",
+    "SanitySlippage",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Mark Meglaton",
   "show": "Speed Racer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MalevolentMaskedMan",
+    "VillainousBreakdown",
+    "BurnBabyBurn",
+    "MonsterOfTheWeek"
+  ],
   "tropes_by_category": {}
 }

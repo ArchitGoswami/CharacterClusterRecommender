@@ -1,7 +1,12 @@
 {
   "name": "Queen Goodfey",
   "show": "Mysticons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CoolCrown",
+    "TheHighQueen",
+    "TakenForGranite",
+    "GoodParents"
+  ],
   "tropes_by_category": {}
 }

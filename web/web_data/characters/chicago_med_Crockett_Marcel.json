@@ -1,7 +1,18 @@
 {
   "name": "Crockett Marcel",
   "show": "Chicago Med",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ChickMagnet",
+    "TheCasanova",
+    "EstablishingCharacterMoment",
+    "RememberTheNewGuy",
+    "TheRival",
+    "SouthernFriedGenius",
+    "SuspiciouslySimilarSubstitute",
+    "ShipTease",
+    "OutlivingOnesOffspring",
+    "TherapyIsForTheWeak"
+  ],
   "tropes_by_category": {}
 }

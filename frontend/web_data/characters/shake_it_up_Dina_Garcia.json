@@ -1,7 +1,15 @@
 {
   "name": "Dina Garcia",
   "show": "Shake It Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "OfficialCouple",
+    "BabiesEverAfter",
+    "HollywoodToneDeaf",
+    "SickeningSweethearts",
+    "HappilyMarried",
+    "AmbiguouslyJewish",
+    "JewishMother"
+  ],
   "tropes_by_category": {}
 }

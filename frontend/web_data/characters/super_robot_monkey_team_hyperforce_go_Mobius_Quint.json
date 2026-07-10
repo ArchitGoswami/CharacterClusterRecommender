@@ -1,7 +1,21 @@
 {
   "name": "Mobius Quint",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RoaringRampageOfRevenge",
+    "JerkWithAHeartOfGold",
+    "YouAreWhatYouHate",
+    "AcePilot",
+    "HeWhoFightsMonsters",
+    "RevengeBeforeReason",
+    "BadassNormal",
+    "RebuiltPedestal",
+    "ScaryTeeth",
+    "RoaringRampageofRevenge",
+    "PerpetualFrowner",
+    "BackForTheFinale",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

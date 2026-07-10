@@ -1,7 +1,12 @@
 {
   "name": "Joey \"The Rat\" Epstein",
   "show": "Boy Meets World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheBully",
+    "ChuckCunninghamSyndrome",
+    "HiddenDepths",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

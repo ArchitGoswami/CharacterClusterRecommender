@@ -1,7 +1,25 @@
 {
   "name": "Jim",
   "show": "Friday Night Dinner",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "StalkerWithACrush",
+    "AnimalLover",
+    "Catchphrase",
+    "Expy",
+    "LoveAtFirstSight",
+    "NoSocialSkills",
+    "DropInCharacter",
+    "IdiotHoudini",
+    "KavorkaMan",
+    "HiddenDepths",
+    "AgeGapRomance",
+    "CharacterDevelopment",
+    "OnceAnEpisode",
+    "Cloudcuckoolander",
+    "InnocentlyInsensitive",
+    "EveryoneHasStandards",
+    "SeinfeldianConversation"
+  ],
   "tropes_by_category": {}
 }

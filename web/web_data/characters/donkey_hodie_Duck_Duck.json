@@ -1,7 +1,26 @@
 {
   "name": "Duck Duck",
   "show": "Donkey Hodie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "OddFriendship",
+    "AmazingTechnicolorWildlife",
+    "Catchphrase",
+    "ADogNamedDog",
+    "MinorLivingAlone",
+    "RedOniBlueOni",
+    "CanonForeigner",
+    "ClassicalMusicIsCool",
+    "RepetitiveName",
+    "TheSmartGirl",
+    "Pun",
+    "TheAce",
+    "VerbalTic",
+    "AlliterativeName",
+    "BrokenAce",
+    "WhyDidItHaveToBeSnakes",
+    "Bookworm",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

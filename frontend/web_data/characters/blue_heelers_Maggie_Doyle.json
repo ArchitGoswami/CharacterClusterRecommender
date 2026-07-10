@@ -1,7 +1,15 @@
 {
   "name": "Maggie Doyle",
   "show": "Blue Heelers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheMissusAndTheEx",
+    "CharacterDeath",
+    "LockedInAFreezer",
+    "TheSmurfettePrinciple",
+    "WelcomeEpisode",
+    "StereoFibbing",
+    "UST"
+  ],
   "tropes_by_category": {}
 }

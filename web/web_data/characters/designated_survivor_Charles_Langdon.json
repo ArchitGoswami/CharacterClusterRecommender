@@ -1,7 +1,21 @@
 {
   "name": "Charles Langdon",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MrExposition",
+    "UnwittingPawn",
+    "TheConspiracy",
+    "WeUsedToBeFriends",
+    "ChekhovsGunman",
+    "AteHisGun",
+    "TheAtoner",
+    "FakingTheDead",
+    "SpannerInTheWorks",
+    "TheConsigliere",
+    "MyGodWhatHaveIDone",
+    "DrivenToSuicide",
+    "MustMakeAmends"
+  ],
   "tropes_by_category": {}
 }

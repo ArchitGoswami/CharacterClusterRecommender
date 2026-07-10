@@ -1,7 +1,12 @@
 {
   "name": "Shota",
   "show": "Legend of the Seeker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WellIntentionedExtremist",
+    "WildCard",
+    "BecauseDestinySaysSo",
+    "FountainOfYouth"
+  ],
   "tropes_by_category": {}
 }

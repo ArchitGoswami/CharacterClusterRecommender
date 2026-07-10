@@ -1,7 +1,9 @@
 {
   "name": "Natalie Warner",
   "show": "Yes, Dear",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ObnoxiousInLaws"
+  ],
   "tropes_by_category": {}
 }

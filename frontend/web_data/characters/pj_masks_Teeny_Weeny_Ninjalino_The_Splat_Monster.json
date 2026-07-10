@@ -1,7 +1,21 @@
 {
   "name": "Teeny Weeny Ninjalino/The Splat Monster",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "Lilliputians",
+    "OneWingedAngel",
+    "MiniMook",
+    "TheUnintelligible",
+    "AmbiguouslyHuman",
+    "HulkingOut",
+    "PutOnABus",
+    "TopHeavyGuy",
+    "OutOfFocus",
+    "ShapeshifterWeapon",
+    "HomingProjectile",
+    "StickySituation"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Wendy Capshaw",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CheatersNeverProsper",
+    "TheMole",
+    "HoistByHerOwnPetard",
+    "GenkiGirl",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

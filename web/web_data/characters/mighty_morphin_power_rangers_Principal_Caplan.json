@@ -1,7 +1,16 @@
 {
   "name": "Principal Caplan",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "Catchphrase",
+    "NotSoAboveItAll",
+    "ReasonableAuthorityFigure",
+    "OnlyOneName",
+    "DemotedToExtra",
+    "DeanBitterman",
+    "DodgyToupee"
+  ],
   "tropes_by_category": {}
 }

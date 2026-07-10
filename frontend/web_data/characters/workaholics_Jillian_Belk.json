@@ -1,7 +1,21 @@
 {
   "name": "Jillian Belk",
   "show": "Workaholics",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "WrittenInAbsence",
+    "DeconstructedTrope",
+    "BeleagueredAssistant",
+    "HiddenBadass",
+    "JerkAss",
+    "JustFriends",
+    "CaptainOblivious",
+    "BewareTheNiceOnes",
+    "SuppressedRage",
+    "OutOfFocus",
+    "GirlNextDoor",
+    "BumblingSidekick",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

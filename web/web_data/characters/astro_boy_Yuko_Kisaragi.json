@@ -1,7 +1,9 @@
 {
   "name": "Yuko Kisaragi",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ADayInTheLimelight"
+  ],
   "tropes_by_category": {}
 }

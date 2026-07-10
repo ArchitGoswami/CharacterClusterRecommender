@@ -1,7 +1,13 @@
 {
   "name": "Amelia Duckworth",
   "show": "Bizaardvark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SiblingYinYang",
+    "FriendlessBackground",
+    "CoolBigSis",
+    "OnlySaneMan",
+    "RichInDollarsPoorInSense"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Dunkleosteus",
   "show": "Animal Armageddon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheDreaded",
+    "JustifiedTrope",
+    "MonstrousCannibalism",
+    "EstablishingCharacterMoment"
+  ],
   "tropes_by_category": {}
 }

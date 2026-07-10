@@ -1,7 +1,15 @@
 {
   "name": "Genghis Khan",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DumbMuscle",
+    "StealthPun",
+    "FatIdiot",
+    "HiddenDepths",
+    "PerpetualSmiler",
+    "AsianAirhead",
+    "GagPenis"
+  ],
   "tropes_by_category": {}
 }

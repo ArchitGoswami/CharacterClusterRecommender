@@ -1,7 +1,12 @@
 {
   "name": "Special Agent Brent Langer",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AloneWithThePsycho",
+    "RedHerringMole",
+    "WhackAMole",
+    "ExplainExplainOhCrap"
+  ],
   "tropes_by_category": {}
 }

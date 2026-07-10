@@ -1,7 +1,30 @@
 {
   "name": "Wubbzy",
   "show": "Wow! Wow! Wubbzy!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TheKlutz",
+    "NiceGuy",
+    "ThemeTune",
+    "DoesNotLikeSpam",
+    "VocalEvolution",
+    "FunnyAnimal",
+    "CharacterTitle",
+    "DubNameChange",
+    "BreakingTheFourthWall",
+    "PickyEater",
+    "YellowIsCheerful",
+    "SpringCoil",
+    "TinyGuyHugeGirl",
+    "CartoonyTail",
+    "PartiallyCivilizedAnimal",
+    "PrehensileTail",
+    "BigThinShortTrio",
+    "Catchphrase",
+    "SeriesContinuityError",
+    "AffectionateNickname",
+    "TrademarkFavoriteFood",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

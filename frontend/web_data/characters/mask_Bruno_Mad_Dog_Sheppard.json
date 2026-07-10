@@ -1,7 +1,11 @@
 {
   "name": "Bruno \"Mad Dog\" Sheppard",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MagnetismManipulation",
+    "DumbMuscle",
+    "VoiceChangeling"
+  ],
   "tropes_by_category": {}
 }

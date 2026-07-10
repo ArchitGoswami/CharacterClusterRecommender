@@ -1,7 +1,13 @@
 {
   "name": "Bulldust",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeroicSacrifice",
+    "TheLeader",
+    "LargeAndInCharge",
+    "BigDamnHeroes",
+    "PapaWolf"
+  ],
   "tropes_by_category": {}
 }

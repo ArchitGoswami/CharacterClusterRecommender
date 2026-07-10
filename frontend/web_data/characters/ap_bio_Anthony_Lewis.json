@@ -1,7 +1,12 @@
 {
   "name": "Anthony Lewis",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "GentleGiant",
+    "BookDumb",
+    "DeadpanSnarker",
+    "AmbiguouslyGay"
+  ],
   "tropes_by_category": {}
 }

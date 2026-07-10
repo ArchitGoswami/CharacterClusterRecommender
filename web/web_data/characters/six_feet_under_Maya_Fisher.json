@@ -1,7 +1,9 @@
 {
   "name": "Maya Fisher",
   "show": "Six Feet Under",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "MamasBabyPapasMaybe"
+  ],
   "tropes_by_category": {}
 }

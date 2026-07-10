@@ -1,7 +1,10 @@
 {
   "name": "Etta Mae Barnard",
   "show": "Insatiable",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ParentsAsPeople",
+    "TheAce"
+  ],
   "tropes_by_category": {}
 }

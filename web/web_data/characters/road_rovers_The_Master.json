@@ -1,7 +1,15 @@
 {
   "name": "The Master",
   "show": "Road Rovers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "MrExposition",
+    "BlankWhiteEyes",
+    "SuperEmpowering",
+    "TheUnReveal",
+    "BigGood",
+    "TeamDad",
+    "Handwave"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Kaylie Cruz",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HeIsNotMyBoyfriend",
+    "SecretRelationship",
+    "TeamMom",
+    "NoOneGetsLeftBehind",
+    "NiceGirl",
+    "ChildhoodFriends",
+    "CallingTheOldManOut",
+    "LoveTriangle",
+    "BreakTheCutie",
+    "DarkHorseVictory",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

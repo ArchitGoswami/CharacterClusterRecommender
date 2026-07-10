@@ -1,7 +1,21 @@
 {
   "name": "Nurikabe",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RedRightHand",
+    "SurveillanceAsThePlotDemands",
+    "Teleportation",
+    "DeathTrap",
+    "PoweredByAForsakenChild",
+    "CameBackStrong",
+    "SoreLoser",
+    "BarrierWarrior",
+    "TheGamblingAddict",
+    "WouldHurtAChild",
+    "AdaptationalRelationshipOverhaul",
+    "TheWallsAreClosingIn",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

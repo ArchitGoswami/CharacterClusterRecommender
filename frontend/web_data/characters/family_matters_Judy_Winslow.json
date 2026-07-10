@@ -1,7 +1,21 @@
 {
   "name": "Judy Winslow",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AdvertisedExtra",
+    "ChuckCunninghamSyndrome",
+    "DeadpanSnarker",
+    "ADayInTheLimelight",
+    "SassyBlackGirl",
+    "Retcon",
+    "DownplayedTrope",
+    "LethalChef",
+    "GirlishPigtails",
+    "KidsHateVegetables",
+    "FlatCharacter",
+    "OutOfFocus",
+    "FramingDevice"
+  ],
   "tropes_by_category": {}
 }

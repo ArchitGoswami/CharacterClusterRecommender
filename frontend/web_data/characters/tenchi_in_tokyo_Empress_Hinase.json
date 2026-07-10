@@ -1,7 +1,15 @@
 {
   "name": "Empress Hinase",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ApologeticAttacker",
+    "Expy",
+    "LadyOfWar",
+    "TheHighQueen",
+    "BarrierWarrior",
+    "PosthumousCharacter",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

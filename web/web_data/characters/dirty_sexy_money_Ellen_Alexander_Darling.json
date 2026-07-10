@@ -1,7 +1,17 @@
 {
   "name": "Ellen Alexander Darling",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ClingyJealousGirl",
+    "UnwantedSpouse",
+    "DrowningMySorrows",
+    "LadyDrunk",
+    "DeathByFallingOver",
+    "MarriageOfConvenience",
+    "PoliticallyIncorrectHero",
+    "BitchInSheepsClothing",
+    "WomanScorned"
+  ],
   "tropes_by_category": {}
 }

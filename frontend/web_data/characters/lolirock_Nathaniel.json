@@ -1,7 +1,20 @@
 {
   "name": "Nathaniel",
   "show": "Lolirock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "OfficialCouple",
+    "HumanoidAliens",
+    "FantasticallyIndifferent",
+    "NiceGuy",
+    "CrushBlush",
+    "InterspeciesRomance",
+    "LaserGuidedAmnesia",
+    "MuggleBestFriend",
+    "AnguishedDeclarationOfLove",
+    "EveryoneCanSeeIt",
+    "BettyAndVeronica",
+    "ResetButton"
+  ],
   "tropes_by_category": {}
 }

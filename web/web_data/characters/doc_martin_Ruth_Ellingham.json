@@ -1,7 +1,16 @@
 {
   "name": "Ruth Ellingham",
   "show": "Doc Martin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "MentorArchetype",
+    "AndStarring",
+    "SuspiciouslySimilarSubstitute",
+    "WritersBlock",
+    "LittleOldLadyInvestigates",
+    "AsYouKnow",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

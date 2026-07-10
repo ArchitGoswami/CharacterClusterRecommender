@@ -1,7 +1,22 @@
 {
   "name": "Windham",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "UnwittingPawn",
+    "SparedByTheAdaptation",
+    "DirtyCoward",
+    "HorribleJudgeOfCharacter",
+    "Foil",
+    "BerserkButton",
+    "DecompositeCharacter",
+    "HappilyMarried",
+    "ReasonableAuthorityFigure",
+    "SmarterThanYouLook",
+    "TheNeidermeyer",
+    "DemotedToExtra",
+    "SociopathicSoldier",
+    "ATasteOfTheLash"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Prowse",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OldSoldier",
+    "NoNameGiven",
+    "TheEeyore",
+    "EnsignNewbie"
+  ],
   "tropes_by_category": {}
 }

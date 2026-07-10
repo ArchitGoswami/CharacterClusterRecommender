@@ -1,7 +1,11 @@
 {
   "name": "Sergeant Duke Lukela",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MauveShirt",
+    "FriendOnTheForce",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

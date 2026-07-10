@@ -1,7 +1,18 @@
 {
   "name": "Dina",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "UnwittingPawn",
+    "ThePrimaDonna",
+    "AscendedExtra",
+    "SatelliteCharacter",
+    "WomanScorned",
+    "GenreSavvy",
+    "BetterAsFriends",
+    "CharacterDevelopment",
+    "EvilTwin",
+    "DidntThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

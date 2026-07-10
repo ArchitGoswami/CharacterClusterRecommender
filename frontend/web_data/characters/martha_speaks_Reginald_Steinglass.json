@@ -1,7 +1,15 @@
 {
   "name": "Reginald Steinglass",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "NerdyBully",
+    "JerkWithAHeartOfGold",
+    "DorkInASweater",
+    "JewishAndNerdy",
+    "AmbiguouslyJewish",
+    "SesquipedalianLoquaciousness",
+    "LeanAndMean"
+  ],
   "tropes_by_category": {}
 }

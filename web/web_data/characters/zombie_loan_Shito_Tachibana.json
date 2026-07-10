@@ -1,7 +1,17 @@
 {
   "name": "Shito Tachibana",
   "show": "Zombie Loan",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "RedOniBlueOni",
+    "DefrostingIceKing",
+    "DeadAllAlong",
+    "BerserkButton",
+    "ParentalIncest",
+    "HeterosexualLifePartners",
+    "TeethClenchedTeamwork",
+    "MementoMacguffin",
+    "BornFromADeadWoman"
+  ],
   "tropes_by_category": {}
 }

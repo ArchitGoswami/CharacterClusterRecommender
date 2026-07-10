@@ -1,7 +1,14 @@
 {
   "name": "Alec Bloom",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrokenPedestal",
+    "NoCelebritiesWereHarmed",
+    "PhotoOpWithTheDog",
+    "DoppelgangerReplacementLoveInterest",
+    "FiremenAreHot",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Roger Evans",
   "show": "Sister, Sister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "ChuckCunninghamSyndrome",
+    "Expy",
+    "RunningGag",
+    "DropInCharacter",
+    "PromotedToOpeningTitles",
+    "PhraseCatcher",
+    "TheFriendNobodyLikes",
+    "EveryoneHasStandards",
+    "OutOfFocus",
+    "IntergenerationalFriendship",
+    "ButtMonkey",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

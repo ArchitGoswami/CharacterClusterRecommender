@@ -1,7 +1,21 @@
 {
   "name": "Foghorn Leghorn",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ADayInTheLimelight",
+    "FeatherFingers",
+    "NiceGuy",
+    "TookALevelInBadass",
+    "VerbalTic",
+    "BadassAdorable",
+    "ExpressiveHair",
+    "MotorMouth",
+    "BewareTheNiceOnes",
+    "BeYourself",
+    "PintsizedPowerhouse",
+    "ButtMonkey",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

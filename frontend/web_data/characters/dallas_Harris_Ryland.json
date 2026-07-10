@@ -1,7 +1,11 @@
 {
   "name": "Harris Ryland",
   "show": "Dallas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MyBelovedSmother",
+    "EvenEvilHasLovedOnes",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

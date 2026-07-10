@@ -1,7 +1,18 @@
 {
   "name": "Puppy/Woofster",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ADogNamedDog",
+    "FemaleFelineMaleMutt",
+    "BlondeBrunetteRedhead",
+    "SuddenlySpeaking",
+    "HairOfGoldHeartOfGold",
+    "PutOnABus",
+    "TeamPet",
+    "TheSmartGuy",
+    "TheCameo",
+    "PreciousPuppy"
+  ],
   "tropes_by_category": {}
 }

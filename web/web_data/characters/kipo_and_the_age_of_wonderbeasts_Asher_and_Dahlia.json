@@ -1,7 +1,17 @@
 {
   "name": "Asher and Dahlia",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ExpositoryHairstyleChange",
+    "PercussiveTherapy",
+    "FriendToBugs",
+    "SecurityCling",
+    "HalfIdenticalTwins",
+    "SatelliteCharacter",
+    "AmbiguouslyBrown",
+    "FreakyIsCool",
+    "SocialCircleFiller"
+  ],
   "tropes_by_category": {}
 }

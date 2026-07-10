@@ -1,7 +1,18 @@
 {
   "name": "Mike \"Levi\" Warren",
   "show": "Graceland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheInfiltration",
+    "MrFanservice",
+    "GoodIsNotNice",
+    "BadassBookworm",
+    "QuickDraw",
+    "TookALevelInJerkass",
+    "ImprobableAimingSkills",
+    "InSeriesNickname",
+    "StreetSmart",
+    "NewMeat"
+  ],
   "tropes_by_category": {}
 }

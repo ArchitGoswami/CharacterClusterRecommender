@@ -1,7 +1,19 @@
 {
   "name": "Sid Hammerback",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TooMuchInformation",
+    "NonIdleRich",
+    "AnonymousBenefactor",
+    "RagsToRiches",
+    "CreepyMortician",
+    "SupremeChef",
+    "WordOfGod",
+    "IronButtmonkey",
+    "SecretlyDying",
+    "SecretlyWealthy",
+    "TheCoroner"
+  ],
   "tropes_by_category": {}
 }

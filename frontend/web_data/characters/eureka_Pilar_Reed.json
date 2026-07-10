@@ -1,7 +1,11 @@
 {
   "name": "Pilar Reed",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BrainyBrunette",
+    "SatelliteCharacter",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

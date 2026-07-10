@@ -1,7 +1,21 @@
 {
   "name": "Lisette",
   "show": "Night Court",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CardSharp",
+    "CloudCuckooLander",
+    "TheDogBitesBack",
+    "OddFriendship",
+    "ResortToPouting",
+    "CovertPervert",
+    "TheDitz",
+    "FakeGuestStar",
+    "ComicallyMissingThePoint",
+    "VerbalTic",
+    "EroticDream",
+    "HiddenDepths",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

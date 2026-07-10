@@ -1,7 +1,9 @@
 {
   "name": "Roger Craig Smith",
   "show": "Hell's Kitchen",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheVoice"
+  ],
   "tropes_by_category": {}
 }

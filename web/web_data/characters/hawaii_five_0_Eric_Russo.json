@@ -1,7 +1,16 @@
 {
   "name": "Eric Russo",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "TookALevelInBadass",
+    "ManChild",
+    "HiddenDepths",
+    "LampshadeHanging",
+    "DumbassHasAPoint",
+    "ButtMonkey",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

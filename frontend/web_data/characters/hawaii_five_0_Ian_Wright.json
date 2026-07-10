@@ -1,7 +1,19 @@
 {
   "name": "Ian Wright",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "YouSaidYouWouldLetThemGo",
+    "NotSoHarmlessVillain",
+    "IHaveYourWife",
+    "ManipulativeBastard",
+    "AssholeVictim",
+    "LackOfEmpathy",
+    "TheSociopath",
+    "EvilerThanThou",
+    "TheCracker",
+    "SmugSnake",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Mama Ebun",
   "show": "Bob Hearts Abishola",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheThingThatWouldNotLeave",
+    "TheFriendNobodyLikes",
+    "UnseenNoMore"
+  ],
   "tropes_by_category": {}
 }

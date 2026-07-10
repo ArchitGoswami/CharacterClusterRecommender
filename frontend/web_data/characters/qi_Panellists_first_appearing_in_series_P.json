@@ -1,7 +1,9 @@
 {
   "name": "Panellists first appearing in series P",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheTease"
+  ],
   "tropes_by_category": {}
 }

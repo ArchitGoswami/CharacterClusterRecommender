@@ -1,7 +1,12 @@
 {
   "name": "The Curse",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheFundamentalist",
+    "KnightTemplar",
+    "MadScientist",
+    "InTheHood"
+  ],
   "tropes_by_category": {}
 }

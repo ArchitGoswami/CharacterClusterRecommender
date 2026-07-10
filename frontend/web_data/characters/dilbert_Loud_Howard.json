@@ -1,7 +1,15 @@
 {
   "name": "Loud Howard",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "GaleForceSound",
+    "VolumetricMouth",
+    "CompositeCharacter",
+    "HypocriticalHumor",
+    "MeaningfulName",
+    "AscendedExtra",
+    "NoIndoorVoice"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Joe Magee",
   "show": "TaleSpin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "ButNowIMustGo",
+    "MentorArchetype",
+    "DeadAllAlong",
+    "GuardianAngel",
+    "AcePilot",
+    "HandicappedBadass",
+    "CareerEndingInjury",
+    "RetiredBadass",
+    "MotivationalLie",
+    "NotSoImaginaryFriend"
+  ],
   "tropes_by_category": {}
 }

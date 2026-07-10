@@ -1,7 +1,22 @@
 {
   "name": "Haruna",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "BrokenBird",
+    "ClingyJealousGirl",
+    "Yandere",
+    "TheChessmaster",
+    "DoubleStandardRapeFemaleOnMale",
+    "HannibalLecture",
+    "BigBad",
+    "ThirdOptionLoveInterest",
+    "CompositeCharacter",
+    "DisproportionateRetribution",
+    "AntiVillain",
+    "LotusEaterMachine",
+    "SmugSnake",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

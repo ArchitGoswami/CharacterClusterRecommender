@@ -1,7 +1,23 @@
 {
   "name": "The Lamplighter",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CameBackWrong",
+    "VillainousBreakdown",
+    "TooDumbToLive",
+    "EvilLaugh",
+    "TearsOfFear",
+    "AssholeVictim",
+    "AxCrazy",
+    "BullyingADragon",
+    "TakeThat",
+    "WouldHurtAChild",
+    "CruelAndUnusualDeath",
+    "DeathIsCheap",
+    "BlindedByTheLight",
+    "NoHoldsBarredBeatdown",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

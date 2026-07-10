@@ -1,7 +1,20 @@
 {
   "name": "Beka Valentine",
   "show": "Andromeda",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "AlmightyJanitor",
+    "TheLancer",
+    "SpaceTrucker",
+    "KaleidoscopeHair",
+    "AcePilot",
+    "AMotherToHerMen",
+    "MamaBear",
+    "AntiHero",
+    "IntrepidMerchant",
+    "NumberTwo",
+    "FantasticDrug"
+  ],
   "tropes_by_category": {}
 }

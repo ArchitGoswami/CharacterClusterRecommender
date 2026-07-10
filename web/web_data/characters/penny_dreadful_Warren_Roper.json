@@ -1,7 +1,27 @@
 {
   "name": "Warren Roper",
   "show": "Penny Dreadful",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "SoftSpokenSadist",
+    "WouldHitAGirl",
+    "AssholeVictim",
+    "FacialHorror",
+    "TwoFaced",
+    "RasputinianDeath",
+    "TheDeterminator",
+    "ThereIsNoKillLikeOverkill",
+    "GenreBlind",
+    "GratuitousRape",
+    "ManBitesMan",
+    "DiskOneFinalBoss",
+    "BattleCouple",
+    "Revenge",
+    "PinkertonDetective",
+    "GenreSavvy",
+    "ScarilyCompetentTracker",
+    "EyeScream",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

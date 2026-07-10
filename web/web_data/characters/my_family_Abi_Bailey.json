@@ -1,7 +1,15 @@
 {
   "name": "Abi Bailey",
   "show": "My Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "Expy",
+    "TheKlutz",
+    "TooDumbToLive",
+    "TheDitz",
+    "SuspiciouslySimilarSubstitute",
+    "HappilyMarried"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Rufus Xavier Sarsaparilla",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TrueCompanions",
+    "NonIndicativeName",
+    "AvertedTrope",
+    "ThirdPersonPerson",
+    "NarratorAllAlong",
+    "RhymingNames",
+    "TrickedOutShoes",
+    "CharacterNarrator",
+    "Cloudcuckoolander",
+    "EdibleThemeNaming",
+    "AmazingTechnicolorWildlife",
+    "SpringCoil",
+    "AdventurerOutfit",
+    "AardvarkTrunks",
+    "OddNameOut",
+    "OverlyLongName",
+    "VibrantOrange",
+    "FullNameBasis",
+    "CheeryPink",
+    "AlliterativeName",
+    "AmbiguousGender",
+    "UncattyResemblance",
+    "MistakenForRelated"
+  ],
   "tropes_by_category": {}
 }

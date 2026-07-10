@@ -1,7 +1,13 @@
 {
   "name": "Nimgok",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AllCavemenWereNeanderthals",
+    "DumbMuscle",
+    "HulkSpeak",
+    "DomesticAbuse",
+    "ObliviouslyEvil"
+  ],
   "tropes_by_category": {}
 }

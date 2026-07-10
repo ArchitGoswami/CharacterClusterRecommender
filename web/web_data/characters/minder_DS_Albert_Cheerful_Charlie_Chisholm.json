@@ -1,7 +1,14 @@
 {
   "name": "DS Albert \"Cheerful Charlie\" Chisholm",
   "show": "Minder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ThoseTwoGuys",
+    "RabidCop",
+    "PutOnABus",
+    "AffectionateNickname",
+    "SympatheticInspectorAntagonist",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

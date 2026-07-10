@@ -1,7 +1,21 @@
 {
   "name": "Puppies",
   "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "HeroesLoveDogs",
+    "AdaptationalSpeciesChange",
+    "MythologyGag",
+    "CanonForeigner",
+    "DecompositeCharacter",
+    "HeroicDog",
+    "DemotedToExtra",
+    "GenderEqualEnsemble",
+    "CanineCompanion",
+    "ColorCodedForYourConvenience",
+    "AllDogsArePurebred",
+    "PreciousPuppy"
+  ],
   "tropes_by_category": {}
 }

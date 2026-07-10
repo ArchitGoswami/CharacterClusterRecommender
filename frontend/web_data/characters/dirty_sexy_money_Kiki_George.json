@@ -1,7 +1,10 @@
 {
   "name": "Kiki George",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "MoralityChain",
+    "SatelliteFamilyMember"
+  ],
   "tropes_by_category": {}
 }

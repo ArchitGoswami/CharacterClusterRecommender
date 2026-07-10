@@ -1,7 +1,19 @@
 {
   "name": "Julius Caesar",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AncientGrome",
+    "BigJerkOnCampus",
+    "Gasshole",
+    "TrrrillingRrrs",
+    "Expy",
+    "DownplayedTrope",
+    "TheQueensLatin",
+    "HeterosexualLifePartners",
+    "DemotedToExtra",
+    "AntiquatedLinguistics",
+    "TheArtifact"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Peter Piper",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TokenMinority",
+    "BerserkButton",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

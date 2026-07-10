@@ -1,7 +1,30 @@
 {
   "name": "Dr. Henry Deacon",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "AlmightyJanitor",
+    "OmnidisciplinaryScientist",
+    "ThePiratesWhoDontDoAnything",
+    "Technobabble",
+    "NonActionGuy",
+    "AntiHero",
+    "AlternateTimeline",
+    "FallenHero",
+    "DespairEventHorizon",
+    "MadScientist",
+    "TimeParadox",
+    "AbsentMindedProfessor",
+    "SetRightWhatOnceWentWrong",
+    "TheSmartGuy",
+    "HappilyMarried",
+    "TheConscience",
+    "BunnyEarsLawyer",
+    "ForScience",
+    "MrExposition",
+    "OddFriendship",
+    "HeroicBsod",
+    "ScienceHero"
+  ],
   "tropes_by_category": {}
 }

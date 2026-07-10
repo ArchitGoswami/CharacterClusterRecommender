@@ -1,7 +1,21 @@
 {
   "name": "The Prodigals",
   "show": "Filthy Rich",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BrokenPedestal",
+    "EvenBadMenLoveTheirMamas",
+    "NiceGuy",
+    "ScrewThisImOuttaHere",
+    "BigSisterInstinct",
+    "EthicalSlut",
+    "ClosetKey",
+    "MirrorCharacter",
+    "TheAce",
+    "MercyKill",
+    "CoolBigSis",
+    "TheDanza",
+    "HiddenDepths"
+  ],
   "tropes_by_category": {}
 }

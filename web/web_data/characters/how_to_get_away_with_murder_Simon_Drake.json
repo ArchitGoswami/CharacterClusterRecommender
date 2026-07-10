@@ -1,7 +1,14 @@
 {
   "name": "Simon Drake",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "EatingLunchAlone",
+    "Jerkass",
+    "JustifiedTrope",
+    "JerkassHasAPoint",
+    "AWolfInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "Adonis",
   "show": "Hercules",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "GoKartingWithBowser",
+    "FatalFlaw",
+    "WhatYouAreInTheDark",
+    "RoyalBrat",
+    "KarmaHoudiniWarranty",
+    "UngratefulBastard",
+    "BigJerkOnCampus",
+    "Jerkass",
+    "WhatHappenedToTheMouse",
+    "ItsAllAboutMe",
+    "PetTheDog",
+    "TheBully",
+    "BullyingADragon",
+    "FaceDeathWithDignity",
+    "LargeHam",
+    "AnimalStereotypes",
+    "EvenTheLovingHeroHasHatedOnes",
+    "OOCIsSeriousBusiness",
+    "EnemyMine"
+  ],
   "tropes_by_category": {}
 }

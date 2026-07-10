@@ -1,7 +1,14 @@
 {
   "name": "Rodney Beckett",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ToxicFriendInfluence",
+    "TokenWhite",
+    "OutOfFocus",
+    "ThePrankster",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

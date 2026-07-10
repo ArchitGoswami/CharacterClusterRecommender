@@ -1,7 +1,14 @@
 {
   "name": "The Puppeteeraka: Dr. Mihir Roshan",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheDreaded",
+    "DeadGuyPuppet",
+    "ManipulativeBastard",
+    "ArcVillain",
+    "SeniorCreep",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

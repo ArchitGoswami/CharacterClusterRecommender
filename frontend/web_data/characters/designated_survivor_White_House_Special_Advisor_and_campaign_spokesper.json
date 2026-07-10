@@ -1,7 +1,15 @@
 {
   "name": "White House Special Advisor and campaign spokesperson Emily Rhodes",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "NervesOfSteel",
+    "BrutalHonesty",
+    "UndyingLoyalty",
+    "YesMan",
+    "MoralityChain",
+    "RankUp",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

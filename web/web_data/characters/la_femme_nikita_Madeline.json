@@ -1,7 +1,22 @@
 {
   "name": "Madeline",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "BigBadDuumvirate",
+    "TroublingUnchildLikeBehavior",
+    "MoreDeadlyThanTheMale",
+    "MinoredInAssKicking",
+    "TheBaroness",
+    "OnlyOneName",
+    "TortureTechnician",
+    "TheConsigliere",
+    "CainAndAbel",
+    "AdaptationalBadass",
+    "SiblingMurder",
+    "AscendedExtra",
+    "AdaptationNameChange",
+    "BlackWidow"
+  ],
   "tropes_by_category": {}
 }

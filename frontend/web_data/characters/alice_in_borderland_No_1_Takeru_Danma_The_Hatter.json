@@ -1,7 +1,14 @@
 {
   "name": "No. 1 Takeru Danma \"The Hatter\"",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DespairEventHorizon",
+    "AdaptationalHeroism",
+    "SuicideByCop",
+    "PosthumousCharacter",
+    "TheCaligula",
+    "AliceAllusion"
+  ],
   "tropes_by_category": {}
 }

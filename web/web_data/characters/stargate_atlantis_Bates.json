@@ -1,7 +1,18 @@
 {
   "name": "Bates",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheBusCameBack",
+    "Jerkass",
+    "SeriesContinuityError",
+    "ProperlyParanoid",
+    "PutOnABus",
+    "AntiHero",
+    "TookALevelInKindness",
+    "CharacterDevelopment",
+    "TheStoic",
+    "FantasticRacism"
+  ],
   "tropes_by_category": {}
 }

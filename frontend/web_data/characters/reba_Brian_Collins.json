@@ -1,7 +1,12 @@
 {
   "name": "Brian Collins",
   "show": "Reba",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "IUhYouToo",
+    "FallenOnHardTimesJob",
+    "NiceGuy",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

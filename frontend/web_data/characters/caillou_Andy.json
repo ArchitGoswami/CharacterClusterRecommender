@@ -1,7 +1,14 @@
 {
   "name": "Andy",
   "show": "Caillou",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SugarAndIcePersonality",
+    "TheBusCameBack",
+    "DefrostingIceKing",
+    "NoSocialSkills",
+    "UnexpectedCharacter",
+    "OnlyOneName"
+  ],
   "tropes_by_category": {}
 }

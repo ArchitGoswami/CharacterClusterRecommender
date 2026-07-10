@@ -1,7 +1,11 @@
 {
   "name": "Ivan the Terrible",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "StrawMisogynist",
+    "OddFriendship",
+    "EntitledToHaveYou"
+  ],
   "tropes_by_category": {}
 }

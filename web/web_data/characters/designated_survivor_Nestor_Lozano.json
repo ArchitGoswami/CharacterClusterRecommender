@@ -1,7 +1,18 @@
 {
   "name": "Nestor Lozano",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheConspiracy",
+    "YouHaveOutlivedYourUsefulness",
+    "KilledOffscreen",
+    "IWantThemAlive",
+    "TheDreaded",
+    "ImpaledWithExtremePrejudice",
+    "EarlyBirdCameo",
+    "HeroKiller",
+    "HiddenInPlainSight",
+    "TheBrute"
+  ],
   "tropes_by_category": {}
 }

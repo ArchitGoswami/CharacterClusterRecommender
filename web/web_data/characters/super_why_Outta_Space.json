@@ -1,7 +1,19 @@
 {
   "name": "Outta Space",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HoistByHisOwnPetard",
+    "WeWillMeetAgain",
+    "CreepyHighPitchedVoice",
+    "OrangeBlueContrast",
+    "FlyingSaucer",
+    "DistressedDude",
+    "GigglingVillain",
+    "TheNoseless",
+    "VerbalTic",
+    "ShrinkRay",
+    "ForTheEvulz"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Madeline Bassett",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ProgressivelyPrettier",
+    "HorribleJudgeOfCharacter",
+    "DramaQueen",
+    "CanNotSpitItOut",
+    "DumbBlonde",
+    "ShipSinking",
+    "GirlOfTheWeek",
+    "GlurgeAddict",
+    "LoveFreak",
+    "ThinksLikeARomanceNovel",
+    "Cloudcuckoolander",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

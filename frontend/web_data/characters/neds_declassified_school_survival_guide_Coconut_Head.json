@@ -1,7 +1,17 @@
 {
   "name": "Coconut Head",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmazonChaser",
+    "BullyMagnet",
+    "ShapedLikeItself",
+    "HiddenDepths",
+    "OnlyKnownByTheirNickname",
+    "NoNameGiven",
+    "Cloudcuckoolander",
+    "ButtMonkey",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

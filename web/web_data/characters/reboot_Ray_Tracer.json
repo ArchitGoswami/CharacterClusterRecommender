@@ -1,7 +1,23 @@
 {
   "name": "Ray Tracer",
   "show": "ReBoot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AmazonChaser",
+    "CaptainErsatz",
+    "EmpathicWeapon",
+    "SeriesFauxnale",
+    "NiceGuy",
+    "PairTheSpares",
+    "TheDulcineaEffect",
+    "ProductPlacement",
+    "SkySurfing",
+    "Synchronization",
+    "LoveTriangle",
+    "RescueRomance",
+    "DamselInDistress",
+    "DemotedToExtra",
+    "AwesomeAussie"
+  ],
   "tropes_by_category": {}
 }

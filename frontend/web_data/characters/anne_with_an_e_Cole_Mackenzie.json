@@ -1,7 +1,20 @@
 {
   "name": "Cole Mackenzie",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "GentleGiant",
+    "PlayingWithATrope",
+    "BirdsOfAFeather",
+    "StarvingArtist",
+    "StrugglingSingleMother",
+    "WithAFootOnTheBus",
+    "SensitiveArtist",
+    "CampGay",
+    "HappilyAdopted",
+    "StraightGay",
+    "PlatonicLifePartners",
+    "TraumaCongaLine"
+  ],
   "tropes_by_category": {}
 }

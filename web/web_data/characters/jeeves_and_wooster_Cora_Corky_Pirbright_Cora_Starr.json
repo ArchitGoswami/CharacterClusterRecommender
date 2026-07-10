@@ -1,7 +1,10 @@
 {
   "name": "Cora \"Corky\" Pirbright (Cora Starr)",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CallToAgriculture",
+    "TheVamp"
+  ],
   "tropes_by_category": {}
 }

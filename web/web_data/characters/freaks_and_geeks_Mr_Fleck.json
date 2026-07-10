@@ -1,7 +1,13 @@
 {
   "name": "Mr. Fleck",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BestYearsOfYourLife",
+    "SeenItAll",
+    "MentorArchetype",
+    "CoolTeacher",
+    "NiceGuy"
+  ],
   "tropes_by_category": {}
 }

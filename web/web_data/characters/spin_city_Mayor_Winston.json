@@ -1,7 +1,15 @@
 {
   "name": "Mayor Winston",
   "show": "Spin City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PointyHairedBoss",
+    "HypercompetentSidekick",
+    "AndStarring",
+    "CrouchingMoronHiddenBadass",
+    "BunnyEarsLawyer",
+    "Flanderization",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

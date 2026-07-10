@@ -1,7 +1,13 @@
 {
   "name": "Bathtub Granny",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DeadpanSnarker",
+    "BarbieDollAnatomy",
+    "GrumpyOldMan",
+    "NakedPeopleAreFunny",
+    "ModestyTowel"
+  ],
   "tropes_by_category": {}
 }

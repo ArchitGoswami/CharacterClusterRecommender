@@ -1,7 +1,19 @@
 {
   "name": "Alice Kane",
   "show": "Pepper Ann",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheSocialDarwinist",
+    "TheResenter",
+    "TheRival",
+    "SitcomArchnemesis",
+    "InsufferableGenius",
+    "AcademicAlphaBitch",
+    "FullNameBasis",
+    "MaliciousMisnaming",
+    "OldFriendNewGender",
+    "UnsportsmanlikeGloating",
+    "AlwaysSomeoneBetter"
+  ],
   "tropes_by_category": {}
 }

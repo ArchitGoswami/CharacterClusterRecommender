@@ -1,7 +1,21 @@
 {
   "name": "Ernie Cooper",
   "show": "K.C. Undercover",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MissionControl",
+    "BlackAndNerdy",
+    "Catchphrase",
+    "TheSmartGuy",
+    "LovableNerd",
+    "TeenGenius",
+    "TheUnfavorite",
+    "NonActionGuy",
+    "RealMenCook",
+    "NoRespectGuy",
+    "TheUnfavourite",
+    "PlayfulHacker",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Christopher Sanchez",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BeardOfSorrow",
+    "HeKnowsTooMuch",
+    "TheDanza"
+  ],
   "tropes_by_category": {}
 }

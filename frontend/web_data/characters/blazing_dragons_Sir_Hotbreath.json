@@ -1,7 +1,17 @@
 {
   "name": "Sir Hotbreath",
   "show": "Blazing Dragons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "FitnessNut",
+    "AdvertisedExtra",
+    "Gasshole",
+    "TheBigGuy",
+    "GreasySpoon",
+    "WhatHappenedToTheMouse",
+    "TestosteronePoisoning",
+    "OutOfFocus",
+    "TapOnTheHead"
+  ],
   "tropes_by_category": {}
 }

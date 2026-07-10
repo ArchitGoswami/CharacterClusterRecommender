@@ -1,7 +1,22 @@
 {
   "name": "Kappa and Rokurokubi",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "GratuitousEnglish",
+    "TogetherInDeath",
+    "AdaptationalSpeciesChange",
+    "PoweredByAForsakenChild",
+    "CameBackStrong",
+    "EvenEvilHasLovedOnes",
+    "TheKindnapper",
+    "TrademarkFavoriteFood",
+    "OutlivingOnesOffspring",
+    "HalfTheManHeUsedToBe",
+    "DetachmentCombat",
+    "GogglesDoNothing",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

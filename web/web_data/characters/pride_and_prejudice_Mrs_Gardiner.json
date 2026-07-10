@@ -1,7 +1,14 @@
 {
   "name": "Mrs Gardiner",
   "show": "Pride and Prejudice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AmazinglyEmbarrassingParents",
+    "ShipperOnDeck",
+    "NoNameGiven",
+    "GoodParents",
+    "Lampshaded",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

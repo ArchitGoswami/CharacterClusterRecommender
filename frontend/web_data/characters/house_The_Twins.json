@@ -1,7 +1,10 @@
 {
   "name": "The Twins",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "EveryoneCallsHimBarkeep",
+    "TheGenericGirl"
+  ],
   "tropes_by_category": {}
 }

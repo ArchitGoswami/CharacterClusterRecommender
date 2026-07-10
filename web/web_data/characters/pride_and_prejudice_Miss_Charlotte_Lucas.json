@@ -1,7 +1,23 @@
 {
   "name": "Miss Charlotte Lucas",
   "show": "Pride and Prejudice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "BabiesEverAfter",
+    "TheLancer",
+    "ShipperOnDeck",
+    "LongingLook",
+    "Foil",
+    "RomanticRunnerUp",
+    "HappilyMarried",
+    "OldMaid",
+    "MassiveNumberedSiblings",
+    "MarriageOfConvenience",
+    "HeterosexualLifePartners",
+    "MarryForLove",
+    "OnlySaneMan",
+    "FirstNameBasis",
+    "PlainJane"
+  ],
   "tropes_by_category": {}
 }

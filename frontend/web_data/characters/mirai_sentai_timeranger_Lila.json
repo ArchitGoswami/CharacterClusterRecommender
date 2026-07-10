@@ -1,7 +1,17 @@
 {
   "name": "Lila",
   "show": "Mirai Sentai Timeranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GirlsWithGuns",
+    "AmbiguouslyHuman",
+    "ScrewThisImOuttaHere",
+    "KarmaHoudini",
+    "Stripperiffic",
+    "UglyGuyHotWife",
+    "GoldDigger",
+    "AmbiguouslyBrown",
+    "ImageSong"
+  ],
   "tropes_by_category": {}
 }

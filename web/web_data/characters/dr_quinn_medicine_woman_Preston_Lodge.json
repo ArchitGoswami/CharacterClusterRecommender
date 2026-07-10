@@ -1,7 +1,11 @@
 {
   "name": "Preston Lodge",
   "show": "Dr. Quinn, Medicine Woman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AlasPoorVillain",
+    "OpportunisticBastard",
+    "VillainyFreeVillain"
+  ],
   "tropes_by_category": {}
 }

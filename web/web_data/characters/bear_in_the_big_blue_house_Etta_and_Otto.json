@@ -1,7 +1,21 @@
 {
   "name": "Etta and Otto",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AmazingTechnicolorWildlife",
+    "SpeciesSurname",
+    "SupremeChef",
+    "AmbiguouslyRelated",
+    "FunnyAnimal",
+    "FriendToAllChildren",
+    "AccessoryWearingCartoonAnimal",
+    "ALizardNamedLiz",
+    "AlliterativeName",
+    "SharedFamilyQuirks",
+    "AdultsAreMoreAnthropomorphic",
+    "DotingGrandparent",
+    "LookalikeLovers"
+  ],
   "tropes_by_category": {}
 }

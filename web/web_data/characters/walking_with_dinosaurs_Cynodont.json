@@ -1,7 +1,28 @@
 {
   "name": "Cynodont",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "MeaningfulName",
+    "CuriosityIsACrapshoot",
+    "EatsBabies",
+    "NoNameGiven",
+    "AllThereInTheManual",
+    "ShootTheDog",
+    "AllAnimalsAreDogs",
+    "ArtisticLicensePaleontology",
+    "AlwaysSomeoneBetter",
+    "OffingTheOffspring",
+    "OutlivingOnesOffspring",
+    "PapaWolf",
+    "RuleOfCool",
+    "BattleCouple",
+    "MostWritersAreHuman",
+    "RidiculouslyCuteCritter",
+    "ActionSurvivor",
+    "MixAndMatchCritters",
+    "OvershadowedByAwesome",
+    "ScienceMarchesOn"
+  ],
   "tropes_by_category": {}
 }

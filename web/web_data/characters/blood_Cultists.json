@@ -1,7 +1,22 @@
 {
   "name": "Cultists",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "GoMadFromTheRevelation",
+    "ThrowDownTheBomblet",
+    "EvilMakesYouUgly",
+    "TheFaceless",
+    "PaletteSwap",
+    "ManOnFire",
+    "FacialHorror",
+    "GlassCannon",
+    "CoolShades",
+    "EvilOldFolks",
+    "Gonk",
+    "PsychoElectro",
+    "BadassLongcoat",
+    "CoolMask"
+  ],
   "tropes_by_category": {}
 }

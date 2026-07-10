@@ -1,7 +1,14 @@
 {
   "name": "Elliot Rollins",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "EvilBrit",
+    "BigBadDuumvirate",
+    "RedHerring",
+    "BigBadEnsemble",
+    "HateSink",
+    "TheSociopath"
+  ],
   "tropes_by_category": {}
 }

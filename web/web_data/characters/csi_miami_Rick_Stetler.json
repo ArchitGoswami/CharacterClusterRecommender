@@ -1,7 +1,16 @@
 {
   "name": "Rick Stetler",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DirtyCop",
+    "Jerkass",
+    "PutOnABusToHell",
+    "TheResenter",
+    "InspectorJavert",
+    "ADickInName",
+    "TermsOfEndangerment",
+    "InternalAffairs"
+  ],
   "tropes_by_category": {}
 }

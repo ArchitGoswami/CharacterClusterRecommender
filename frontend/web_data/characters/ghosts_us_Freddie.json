@@ -1,7 +1,13 @@
 {
   "name": "Freddie",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PromotedFanboy",
+    "InUniverse",
+    "ScrewThisImOuttaHere",
+    "ChekhovsGun",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

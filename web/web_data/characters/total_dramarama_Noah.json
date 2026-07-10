@@ -1,7 +1,31 @@
 {
   "name": "Noah",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TrueCompanions",
+    "InformedAbility",
+    "GiftedlyBad",
+    "PottyFailure",
+    "ChildProdigy",
+    "VoiceOfReason",
+    "ButtMonkey",
+    "DeadpanSnarker",
+    "AdaptationRelationshipOverhaul",
+    "JerkassBall",
+    "TimeShiftedActor",
+    "DemotedToExtra",
+    "IGotBigger",
+    "Goth",
+    "BrilliantButLazy",
+    "OnlySaneMan",
+    "InformedFlaw",
+    "OddFriendship",
+    "HollywoodHacking",
+    "AdaptationalIntelligence",
+    "TeenGenius",
+    "AdaptationPersonalityChange",
+    "HeterosexualLifePartners"
+  ],
   "tropes_by_category": {}
 }

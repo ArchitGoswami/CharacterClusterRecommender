@@ -1,7 +1,13 @@
 {
   "name": "Gloop the Third and the Gloopets",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeelFaceTurn",
+    "AliensSpeakingEnglish",
+    "PetTheDog",
+    "OrcusOnHisThrone",
+    "AliensAreBastards"
+  ],
   "tropes_by_category": {}
 }

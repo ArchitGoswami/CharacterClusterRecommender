@@ -1,7 +1,10 @@
 {
   "name": "Jun",
   "show": "Sagwa, the Chinese Siamese Cat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PurpleIsPowerful",
+    "WeHardlyKnewYe"
+  ],
   "tropes_by_category": {}
 }

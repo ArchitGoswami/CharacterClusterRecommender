@@ -1,7 +1,12 @@
 {
   "name": "Lt. \"Cowboy\" Hodges",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EasilyForgiven",
+    "ManlyFacialHair",
+    "CrazyJealousGuy",
+    "MeaningfulAppearance"
+  ],
   "tropes_by_category": {}
 }

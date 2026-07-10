@@ -1,7 +1,18 @@
 {
   "name": "Treasure Squirrels",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheDividual",
+    "TheDitz",
+    "RummageSaleReject",
+    "ScrewballSquirrel",
+    "GoofyBuckteeth",
+    "ForgetfulJones",
+    "TreasureHunter",
+    "FlatCharacter",
+    "OneShotCharacter",
+    "FishEyes"
+  ],
   "tropes_by_category": {}
 }

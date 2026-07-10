@@ -1,7 +1,10 @@
 {
   "name": "Red Alert",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CombatMedic",
+    "NonActionGuy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Luke Harris",
   "show": "Stingers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheCasanova",
+    "DaChief",
+    "BadassInANiceSuit",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

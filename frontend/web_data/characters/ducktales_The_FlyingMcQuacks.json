@@ -1,7 +1,21 @@
 {
   "name": "The FlyingMcQuacks",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "WellDoneSonGuy",
+    "NoCelebritiesWereHarmed",
+    "DotingParent",
+    "HugeGuyTinyGirl",
+    "HappilyMarried",
+    "GeniusDitz",
+    "GoodParents",
+    "ValleyGirl",
+    "SoProudOfYou",
+    "MeaningfulName",
+    "LanternJawOfJustice",
+    "AnticlimacticParent",
+    "FamilyThemeNaming"
+  ],
   "tropes_by_category": {}
 }

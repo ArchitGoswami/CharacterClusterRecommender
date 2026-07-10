@@ -1,7 +1,12 @@
 {
   "name": "Officer Killgallen",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Jerkass",
+    "ParentalNeglect",
+    "DrillSergeantNasty",
+    "PetTheDog"
+  ],
   "tropes_by_category": {}
 }

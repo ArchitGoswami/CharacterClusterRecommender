@@ -1,7 +1,18 @@
 {
   "name": "Zocalo",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "NeverMyFault",
+    "NiceGuy",
+    "ScrewThisImOuttaHere",
+    "ControlFreak",
+    "VerbalTic",
+    "EarnYourHappyEnding",
+    "SecondLove",
+    "JerkAss",
+    "HenpeckedHusband",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

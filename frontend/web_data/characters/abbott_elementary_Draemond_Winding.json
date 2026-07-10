@@ -1,7 +1,15 @@
 {
   "name": "Draemond Winding",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AffablyEvil",
+    "NiceJobFixingItVillain",
+    "ArcVillain",
+    "JerkassHasAPoint",
+    "SmugSnake",
+    "MisplacedRetribution",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

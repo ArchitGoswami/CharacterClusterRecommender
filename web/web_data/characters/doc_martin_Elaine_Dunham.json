@@ -1,7 +1,11 @@
 {
   "name": "Elaine Dunham",
   "show": "Doc Martin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HateSink",
+    "PutOnTheBus",
+    "SassySecretary"
+  ],
   "tropes_by_category": {}
 }

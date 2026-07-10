@@ -1,7 +1,27 @@
 {
   "name": "Stevil",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "EvilSoundsDeep",
+    "JumpScare",
+    "PeoplePuppets",
+    "BigBadDuumvirate",
+    "VocalEvolution",
+    "NewPowersAsThePlotDemands",
+    "TheBadGuyWins",
+    "AntagonistTitle",
+    "PunnyName",
+    "VocalDissonance",
+    "DemonicDummy",
+    "LightningCanDoAnything",
+    "WouldHurtAChild",
+    "AppropriatedAppellation",
+    "EvilIsHammy",
+    "EyeBeams",
+    "YourSoulIsMine",
+    "BigBad",
+    "AllJustADream"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Chisato Jougasaki/Mega Yellow",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MsFanservice",
+    "MythologyGag",
+    "LadyOfWar",
+    "TheHeart",
+    "ShipTease",
+    "BratsWithSlingshots",
+    "EveryoneCanSeeIt",
+    "BuxomBeautyStandard",
+    "ButtMonkey",
+    "SignatureMove"
+  ],
   "tropes_by_category": {}
 }

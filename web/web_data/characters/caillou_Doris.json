@@ -1,7 +1,21 @@
 {
   "name": "Doris",
   "show": "Caillou",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RhymeThemeNaming",
+    "EekAMouse",
+    "CoupleThemeNaming",
+    "HappilyMarried",
+    "GoodParents",
+    "ReasonableAuthorityFigure",
+    "JerkassBall",
+    "NotNowKiddo",
+    "BadassAdorable",
+    "OnlyOneName",
+    "NiceGirl",
+    "WhyDidItHaveToBeSnakes",
+    "RetiredBadass"
+  ],
   "tropes_by_category": {}
 }

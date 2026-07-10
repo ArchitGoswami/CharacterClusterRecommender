@@ -1,7 +1,19 @@
 {
   "name": "Sofia Montoya",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "StarvingArtist",
+    "ArtistsAreAttractive",
+    "UpperClassTwit",
+    "OnTheRebound",
+    "LiarRevealed",
+    "LoveCanNotOvercome",
+    "InterClassRomance",
+    "NiceGirl",
+    "SatelliteLoveInterest",
+    "BuxomBeautyStandard",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

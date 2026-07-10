@@ -1,7 +1,18 @@
 {
   "name": "Jason",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ChildhoodFriendRomance",
+    "RunningGag",
+    "ItMakesSenseInContext",
+    "InconsistentSpelling",
+    "SuddenlyShouting",
+    "NoListeningSkills",
+    "HeterosexualLifePartners",
+    "ThePigPen",
+    "IllTellYouWhenIveHadEnough",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

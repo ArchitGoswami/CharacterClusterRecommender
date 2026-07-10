@@ -1,7 +1,16 @@
 {
   "name": "Matt Anderson",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ActionGirl",
+    "EstablishingCharacterMoment",
+    "DeadpanSnarker",
+    "TheGhost",
+    "TheAce",
+    "FantasticRomance",
+    "BadFuture",
+    "SetRightWhatOnceWentWrong"
+  ],
   "tropes_by_category": {}
 }

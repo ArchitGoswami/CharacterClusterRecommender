@@ -1,7 +1,31 @@
 {
   "name": "Chu Leadership",
   "show": "Kingdom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "EliteMook",
+    "BerserkButton",
+    "BigBrotherInstinct",
+    "Jerkass",
+    "AsskickingLeadsToLeadership",
+    "BrutalHonesty",
+    "TheChessmaster",
+    "StatuesqueStunner",
+    "TheStrategist",
+    "KickTheDog",
+    "OutGambitted",
+    "DarkAndTroubledPast",
+    "KilledOffscreen",
+    "BunnyEarsLawyer",
+    "WeCanRuleTogether",
+    "LargeAndInCharge",
+    "SmugSuper",
+    "OpportunisticBastard",
+    "FourStarBadass",
+    "XanatosGambit",
+    "BadBoss",
+    "ChekhovsGun",
+    "SirSwearsALot"
+  ],
   "tropes_by_category": {}
 }

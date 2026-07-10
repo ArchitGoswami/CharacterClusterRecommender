@@ -1,7 +1,17 @@
 {
   "name": "Russell Taylor",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "GallowsHumor",
+    "AndStarring",
+    "SlaveToPR",
+    "ReasonableAuthorityFigure",
+    "ObstructiveBureaucrat",
+    "RankUp",
+    "HeelFaceRevolvingDoor",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

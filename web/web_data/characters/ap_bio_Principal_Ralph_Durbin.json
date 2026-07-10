@@ -1,7 +1,14 @@
 {
   "name": "Principal Ralph Durbin",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AdultsAreUseless",
+    "LovableCoward",
+    "HenpeckedHusband",
+    "ExtremeDoormat",
+    "FatIdiot",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

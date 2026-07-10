@@ -1,7 +1,20 @@
 {
   "name": "The Creepy Leopards",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SamusIsAGirl",
+    "ThePiratesWhoDontDoAnything",
+    "Expy",
+    "CreepyTwins",
+    "DesignatedGirlFight",
+    "Foil",
+    "TheQuietOne",
+    "AmbiguousGender",
+    "CatsAreMean",
+    "FragileSpeedster",
+    "TheDragon",
+    "InformedAttribute"
+  ],
   "tropes_by_category": {}
 }

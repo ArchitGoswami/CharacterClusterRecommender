@@ -1,7 +1,22 @@
 {
   "name": "Eddie Prince of the Netherworld",
   "show": "Rocket Power",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DarkIsNotEvil",
+    "LikeFatherLikeSon",
+    "FailedAttemptAtDrama",
+    "Goth",
+    "LonersAreFreaks",
+    "SpoiledSweet",
+    "CreepyGood",
+    "LargeHam",
+    "NonActionGuy",
+    "OutOfCharacterMoment",
+    "EarlyInstallmentWeirdness",
+    "PerkyGoth",
+    "MaskOfConfidence",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

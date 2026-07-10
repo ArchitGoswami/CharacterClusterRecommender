@@ -1,7 +1,17 @@
 {
   "name": "Farmer",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "EnragedByIdiocy",
+    "RageAgainstTheHeavens",
+    "DidYouJustPunchOutCthulhu",
+    "BlasphemousBoast",
+    "BadassNormal",
+    "GaiasVengeance",
+    "BrokeYourArmPunchingOutCthulhu",
+    "RainOfBlood",
+    "OneManArmy"
+  ],
   "tropes_by_category": {}
 }

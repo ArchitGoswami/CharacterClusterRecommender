@@ -1,7 +1,11 @@
 {
   "name": "The Stranger",
   "show": "Tenacious D",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HarmlessVillain",
+    "DidntThinkThisThrough",
+    "ToThePain"
+  ],
   "tropes_by_category": {}
 }

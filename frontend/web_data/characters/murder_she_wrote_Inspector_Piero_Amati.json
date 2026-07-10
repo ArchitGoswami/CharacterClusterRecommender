@@ -1,7 +1,11 @@
 {
   "name": "Inspector Piero Amati",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ObfuscatingStupidity",
+    "ItsProbablyNothing",
+    "FairCop"
+  ],
   "tropes_by_category": {}
 }

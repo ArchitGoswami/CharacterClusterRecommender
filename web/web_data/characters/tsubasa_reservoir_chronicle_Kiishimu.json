@@ -1,7 +1,20 @@
 {
   "name": "Kiishimu",
   "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheDogBitesBack",
+    "ThresholdGuardian",
+    "WorthyOpponent",
+    "FateWorseThanDeath",
+    "CanonForeigner",
+    "MindControlDevice",
+    "Revenge",
+    "PoliteVillainsRudeHeroes",
+    "PunyEarthlings",
+    "FemmeFatalons",
+    "SoProudOfYou",
+    "CanonImmigrant"
+  ],
   "tropes_by_category": {}
 }

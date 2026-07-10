@@ -1,7 +1,18 @@
 {
   "name": "DwayneMcCall",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BrokenPedestal",
+    "HeelFaceTurn",
+    "ThePowerOfCreation",
+    "SuperpowerLottery",
+    "TheFettered",
+    "ManOfKryptonite",
+    "NotEvilJustMisunderstood",
+    "ChildrenAreInnocent",
+    "BigBrotherWorship",
+    "ImaginationBasedSuperpower"
+  ],
   "tropes_by_category": {}
 }

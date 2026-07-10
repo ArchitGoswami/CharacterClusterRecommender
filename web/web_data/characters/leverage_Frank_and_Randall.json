@@ -1,7 +1,16 @@
 {
   "name": "Frank and Randall",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AffablyEvil",
+    "ThisIsGonnaSuck",
+    "FriendlyRival",
+    "KnowWhenToFoldEm",
+    "OvershadowedByAwesome",
+    "MercyLead",
+    "NoodleIncident",
+    "CoDragons"
+  ],
   "tropes_by_category": {}
 }

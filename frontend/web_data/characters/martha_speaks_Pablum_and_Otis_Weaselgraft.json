@@ -1,7 +1,21 @@
 {
   "name": "Pablum and Otis Weaselgraft",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "EvilCannotComprehendGood",
+    "NoFullNameGiven",
+    "CorruptedCharacterCopy",
+    "LabcoatOfScienceAndMedicine",
+    "ConMan",
+    "FatAndSkinny",
+    "LeanAndMean",
+    "TheDragon",
+    "BaldOfEvil",
+    "Greed",
+    "FatBastard",
+    "LastNameBasis",
+    "StillBelievesInSanta"
+  ],
   "tropes_by_category": {}
 }

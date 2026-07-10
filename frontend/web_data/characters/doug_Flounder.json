@@ -1,7 +1,13 @@
 {
   "name": "Flounder",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ShoutOut",
+    "HidingTheHandicap",
+    "CoolShades",
+    "OnlyKnownByTheirNickname",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

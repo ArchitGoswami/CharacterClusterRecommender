@@ -1,7 +1,20 @@
 {
   "name": "Petunia Pig",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheReliableOne",
+    "RedOniBlueOni",
+    "PinkMeansFeminine",
+    "CurtainsMatchTheWindow",
+    "RememberTheNewGuy",
+    "TomboyAndGirlyGirl",
+    "VisualPun",
+    "GirlishPigtails",
+    "FlatCharacter",
+    "AlliterativeName",
+    "NiceGirl",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

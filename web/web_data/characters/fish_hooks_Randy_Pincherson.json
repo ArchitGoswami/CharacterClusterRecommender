@@ -1,7 +1,28 @@
 {
   "name": "Randy Pincherson",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "Narcissist",
+    "AuthorAvatar",
+    "AssholeVictim",
+    "TheDragon",
+    "OutOfFocus",
+    "CatchPhrase",
+    "HatedByAll",
+    "Jerkass",
+    "EvilerThanThou",
+    "DemotedToExtra",
+    "PetTheDog",
+    "LaserGuidedKarma",
+    "TheBully",
+    "PennyPinchingCrab",
+    "HateSink",
+    "RichBastard",
+    "AbhorrentAdmirer",
+    "Expy",
+    "ItMakesSenseInContext",
+    "ArchEnemy"
+  ],
   "tropes_by_category": {}
 }

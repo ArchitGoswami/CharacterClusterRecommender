@@ -1,7 +1,13 @@
 {
   "name": "DJ Jesus",
   "show": "Lucy, the Daughter of the Devil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SecondComing",
+    "GoodIsNotNice",
+    "JesusWasWayCool",
+    "PalsWithJesus",
+    "WhyDidItHaveToBeSnakes"
+  ],
   "tropes_by_category": {}
 }

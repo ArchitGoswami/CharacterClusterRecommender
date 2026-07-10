@@ -1,7 +1,25 @@
 {
   "name": "Himcules",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "HoistByHisOwnPetard",
+    "MusclesAreMeaningful",
+    "HotBloodedSideburns",
+    "Jerkass",
+    "CarpetOfVirility",
+    "ThinSkinnedBully",
+    "TheBully",
+    "BerserkButton",
+    "EmotionEater",
+    "HairstyleInertia",
+    "TopHeavyGuy",
+    "VillainOfTheWeek",
+    "TestosteronePoisoning",
+    "SuperStrength",
+    "YeOldeButcheredeEnglishe",
+    "BroughtToYouByTheLetterS",
+    "GeekPhysiques"
+  ],
   "tropes_by_category": {}
 }

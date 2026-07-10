@@ -1,7 +1,18 @@
 {
   "name": "Queen Aleena",
   "show": "Sonic Underground",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheChessmaster",
+    "CoolCrown",
+    "BadassBoast",
+    "ActionMom",
+    "TheHighQueen",
+    "BigGood",
+    "GracefulLadiesLikePurple",
+    "InTheHood",
+    "MamaBear",
+    "LongHairIsFeminine"
+  ],
   "tropes_by_category": {}
 }

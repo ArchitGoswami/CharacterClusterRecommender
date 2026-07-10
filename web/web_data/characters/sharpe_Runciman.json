@@ -1,7 +1,23 @@
 {
   "name": "Runciman",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Gasshole",
+    "DeliberateValuesDissonance",
+    "CowardlyLion",
+    "NiceGuy",
+    "MilesGloriosus",
+    "FrontlineGeneral",
+    "AuthorityInNameOnly",
+    "BigEater",
+    "HiddenDepths",
+    "GloryDays",
+    "PoliticallyIncorrectHero",
+    "RankUp",
+    "InsistentTerminology",
+    "FatBastard",
+    "HeavySleeper"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Eugene Belvin",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ButtMonkey",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

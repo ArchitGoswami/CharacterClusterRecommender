@@ -1,7 +1,10 @@
 {
   "name": "Afton Cooper",
   "show": "Dallas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BookDumb",
+    "DumbBlonde"
+  ],
   "tropes_by_category": {}
 }

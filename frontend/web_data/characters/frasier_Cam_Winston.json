@@ -1,7 +1,20 @@
 {
   "name": "Cam Winston",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ArchNemesis",
+    "ChuckCunninghamSyndrome",
+    "HummerDinger",
+    "TheGhost",
+    "BiggerIsBetter",
+    "ManipulativeBastard",
+    "InsufferableGenius",
+    "MirrorCharacter",
+    "PhraseCatcher",
+    "Angrish",
+    "CompensatingForSomething",
+    "SophisticatedAsHell"
+  ],
   "tropes_by_category": {}
 }

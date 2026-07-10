@@ -1,7 +1,15 @@
 {
   "name": "Doc Hogg",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheMedic",
+    "SpeciesSurname",
+    "NoFullNameGiven",
+    "AccessoryWearingCartoonAnimal",
+    "MotorMouth",
+    "CrazyPrepared",
+    "SweetTooth"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Zoomer",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheBusCameBack",
+    "Catchphrase",
+    "MeaningfulName",
+    "ReusedCharacterDesign"
+  ],
   "tropes_by_category": {}
 }

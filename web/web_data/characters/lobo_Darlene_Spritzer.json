@@ -1,7 +1,16 @@
 {
   "name": "Darlene Spritzer",
   "show": "Lobo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "AllLoveIsUnrequited",
+    "ShoutOut",
+    "MsFanservice",
+    "BerserkButton",
+    "HumanAliens",
+    "JustFriends",
+    "The90s"
+  ],
   "tropes_by_category": {}
 }

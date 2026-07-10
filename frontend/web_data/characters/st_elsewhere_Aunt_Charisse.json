@@ -1,7 +1,10 @@
 {
   "name": "Aunt Charisse",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CloudCuckooLander",
+    "HardDrinkingPartyGirl"
+  ],
   "tropes_by_category": {}
 }

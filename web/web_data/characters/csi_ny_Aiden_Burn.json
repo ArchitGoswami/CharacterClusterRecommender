@@ -1,7 +1,13 @@
 {
   "name": "Aiden Burn",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FairCop",
+    "BrainyBrunette",
+    "BusCrash",
+    "TomboyishName",
+    "ThanatosGambit"
+  ],
   "tropes_by_category": {}
 }

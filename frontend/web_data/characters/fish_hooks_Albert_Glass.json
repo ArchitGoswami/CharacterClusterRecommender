@@ -1,7 +1,14 @@
 {
   "name": "Albert Glass",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "VocalEvolution",
+    "NiceGuy",
+    "GradeSkipper",
+    "VagueAge",
+    "ChildProdigy",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

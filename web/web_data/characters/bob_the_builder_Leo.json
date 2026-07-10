@@ -1,7 +1,11 @@
 {
   "name": "Leo",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TokenMinority",
+    "ObsessiveHobbyEpisode",
+    "MissingMom"
+  ],
   "tropes_by_category": {}
 }

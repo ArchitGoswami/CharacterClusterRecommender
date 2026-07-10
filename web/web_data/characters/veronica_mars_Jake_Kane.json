@@ -1,7 +1,14 @@
 {
   "name": "Jake Kane",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheBusCameBack",
+    "RedHerring",
+    "SameCharacterButDifferent",
+    "GoodParents",
+    "LukeIMightBeYourFather",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

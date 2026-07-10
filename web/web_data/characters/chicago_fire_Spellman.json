@@ -1,7 +1,9 @@
 {
   "name": "Spellman",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheMole"
+  ],
   "tropes_by_category": {}
 }

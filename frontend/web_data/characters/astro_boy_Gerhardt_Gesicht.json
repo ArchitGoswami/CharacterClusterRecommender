@@ -1,7 +1,13 @@
 {
   "name": "Gerhardt/Gesicht",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GoldColoredSuperiority",
+    "OneHitKill",
+    "NoSell",
+    "ChestBlaster",
+    "HalfTheManHeUsedToBe"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "The Ingrid Twins",
   "show": "CatDog",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "SiblingYinYang",
+    "DeadpanSnarker",
+    "OppositesAttract",
+    "SexyScandinavian",
+    "GenkiGirl",
+    "ShipTease",
+    "AlwaysIdenticalTwins",
+    "Keet"
+  ],
   "tropes_by_category": {}
 }

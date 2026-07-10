@@ -1,7 +1,12 @@
 {
   "name": "Princess Penelope Poodle Commercial Girl",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PinkProductPloy",
+    "AnatomyAnomaly",
+    "NoNameGiven",
+    "PinkMeansFeminine"
+  ],
   "tropes_by_category": {}
 }

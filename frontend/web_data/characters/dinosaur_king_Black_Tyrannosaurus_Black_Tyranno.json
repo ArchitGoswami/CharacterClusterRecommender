@@ -1,7 +1,18 @@
 {
   "name": "Black Tyrannosaurus (Black Tyranno)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "KilledOffForReal",
+    "EvilIsBigger",
+    "NoSell",
+    "PrehistoricMonster",
+    "Understatement",
+    "SuperToughness",
+    "DiscOneFinalBoss",
+    "TerrifyingTyrannosaur",
+    "RedAndBlackAndEvilAllOver",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

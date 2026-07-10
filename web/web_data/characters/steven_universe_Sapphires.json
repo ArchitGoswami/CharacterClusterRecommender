@@ -1,7 +1,19 @@
 {
   "name": "Sapphires",
   "show": "Steven Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Seers",
+    "InhumanEyeConcealers",
+    "FireIceDuo",
+    "ProperLady",
+    "BlueMeansCold",
+    "LittlePeople",
+    "FantasticHonorifics",
+    "Flight",
+    "MeaningfulName",
+    "HighClassGloves",
+    "Cyclops"
+  ],
   "tropes_by_category": {}
 }

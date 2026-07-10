@@ -1,7 +1,17 @@
 {
   "name": "Season Three Ghosts",
   "show": "Ghost Whisperer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DarkSecret",
+    "DisappearedDad",
+    "BuriedAlive",
+    "AndIMustScream",
+    "ShrinkingViolet",
+    "GhostAmnesia",
+    "RepressedMemories",
+    "SpookyPhotographs",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

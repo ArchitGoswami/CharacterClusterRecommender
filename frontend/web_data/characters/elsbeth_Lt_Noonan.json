@@ -1,7 +1,23 @@
 {
   "name": "Lt. Noonan",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "BrokenPedestal",
+    "DirtyCop",
+    "HiddenDisdainReveal",
+    "BitchInSheepsClothing",
+    "BigBadFriend",
+    "EverythingIsRacist",
+    "FalseFriend",
+    "GreenEyedMonster",
+    "PoliticalCorrectnessIsEvil",
+    "ArcVillain",
+    "WhiteMansBurden",
+    "MeritNotBigotryExplanation",
+    "AngryWhiteMan",
+    "BigotWithABadge",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

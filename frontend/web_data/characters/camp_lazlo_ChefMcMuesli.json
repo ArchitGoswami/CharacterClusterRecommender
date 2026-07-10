@@ -1,7 +1,25 @@
 {
   "name": "ChefMcMuesli",
   "show": "Camp Lazlo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CampCook",
+    "HatedByAll",
+    "HealthyEatingFanatic",
+    "Jerkass",
+    "PetTheDog",
+    "LethalChef",
+    "BerserkButton",
+    "FunHatingConfiscatingAdult",
+    "NotMeThisTime",
+    "NewAgeRetroHippie",
+    "BelievingTheirOwnLies",
+    "HiddenDepths",
+    "JerkassHasAPoint",
+    "StrawVegetarian",
+    "ObliviousToHatred",
+    "BitchInSheepsClothing",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

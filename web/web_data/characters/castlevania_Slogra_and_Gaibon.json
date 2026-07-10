@@ -1,7 +1,25 @@
 {
   "name": "Slogra and Gaibon",
   "show": "Castlevania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Familiar",
+    "DubNameChange",
+    "ProgressivelyPrettier",
+    "BreathWeapon",
+    "Leitmotif",
+    "TurnsRed",
+    "BeakAttack",
+    "OurGargoylesRock",
+    "BossBonanza",
+    "InASingleBound",
+    "SwordBeam",
+    "CombinationAttack",
+    "DualBoss",
+    "CarryingTheWeakness",
+    "CollapsingCeilingBoss",
+    "DegradedBoss",
+    "PraetorianGuard"
+  ],
   "tropes_by_category": {}
 }

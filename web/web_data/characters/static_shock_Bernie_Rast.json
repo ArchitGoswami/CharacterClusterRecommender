@@ -1,7 +1,12 @@
 {
   "name": "Bernie Rast",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BadBoss",
+    "AccidentalMisnaming",
+    "KarmaHoudiniWarranty",
+    "Jerkass"
+  ],
   "tropes_by_category": {}
 }

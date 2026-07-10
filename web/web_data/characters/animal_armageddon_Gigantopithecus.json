@@ -1,7 +1,14 @@
 {
   "name": "Gigantopithecus",
   "show": "Animal Armageddon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AnachronisticAnimal",
+    "KnowWhenToFoldEm",
+    "AllForNothing",
+    "CurbStompBattle",
+    "DownerEnding",
+    "PapaWolf"
+  ],
   "tropes_by_category": {}
 }

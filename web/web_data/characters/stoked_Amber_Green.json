@@ -1,7 +1,12 @@
 {
   "name": "Amber Green",
   "show": "Stoked",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CuteAndPsycho",
+    "TheRival",
+    "Expy",
+    "Yandere"
+  ],
   "tropes_by_category": {}
 }

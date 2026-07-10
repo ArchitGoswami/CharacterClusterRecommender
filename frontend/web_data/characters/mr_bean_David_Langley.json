@@ -1,7 +1,19 @@
 {
   "name": "David Langley",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ClusterFBomb",
+    "HorribleJudgeOfCharacter",
+    "DespairEventHorizon",
+    "FreakOut",
+    "NiceGuy",
+    "HairOfGoldHeartOfGold",
+    "INeedAFreakingDrink",
+    "NervousWreck",
+    "FatalFlaw",
+    "IdiotBall",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

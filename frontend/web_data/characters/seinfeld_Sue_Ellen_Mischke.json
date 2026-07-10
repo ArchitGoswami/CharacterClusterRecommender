@@ -1,7 +1,17 @@
 {
   "name": "Sue Ellen Mischke",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "StatuesqueStunner",
+    "MsFanservice",
+    "PassiveAggressiveCombat",
+    "SugaryMalice",
+    "HopeSpot",
+    "TheRival",
+    "FanBoy",
+    "IHaveBoobsYouMustObey",
+    "OldMoney"
+  ],
   "tropes_by_category": {}
 }

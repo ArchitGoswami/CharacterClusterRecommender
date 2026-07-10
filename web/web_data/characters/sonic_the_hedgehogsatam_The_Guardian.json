@@ -1,7 +1,12 @@
 {
   "name": "The Guardian",
   "show": "Sonic the Hedgehog(SatAM)",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EvilSorcerer",
+    "AntiVillain",
+    "HeelFaceTurn",
+    "UndyingLoyalty"
+  ],
   "tropes_by_category": {}
 }

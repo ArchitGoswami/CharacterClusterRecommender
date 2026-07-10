@@ -1,7 +1,10 @@
 {
   "name": "Monica Draper",
   "show": "Blue Heelers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "InternalAffairs",
+    "InspectorJavert"
+  ],
   "tropes_by_category": {}
 }

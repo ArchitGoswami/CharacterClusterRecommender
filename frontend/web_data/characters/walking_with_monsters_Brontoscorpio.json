@@ -1,7 +1,26 @@
 {
   "name": "Brontoscorpio",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SuperNotDrowningSkills",
+    "EstablishingCharacterMoment",
+    "BodyHorror",
+    "DumbMuscle",
+    "SummonBiggerFish",
+    "BigBad",
+    "BigCreepyCrawlies",
+    "BewareMyStingerTail",
+    "OhCrap",
+    "AllForNothing",
+    "ScaryScorpions",
+    "CameraAbuse",
+    "DiabolusExMachina",
+    "SequelEscalation",
+    "InvertedTrope",
+    "RuleOfCool",
+    "SeanConneryIsAboutToShootYou",
+    "BizarreAlienBiology"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "The Wottingers",
   "show": "In the Night Garden...",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "GenderEqualEnsemble",
+    "PaletteSwap",
+    "NoNameGiven",
+    "ADayInTheLimelight"
+  ],
   "tropes_by_category": {}
 }

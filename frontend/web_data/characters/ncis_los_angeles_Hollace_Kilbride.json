@@ -1,7 +1,16 @@
 {
   "name": "Hollace Kilbride",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DarkSecret",
+    "RealMenWearPink",
+    "ADayInTheLimelight",
+    "VoiceWithAnInternetConnection",
+    "YouAreInCommandNow",
+    "TheVietnamVet",
+    "ScrewPolitenessImASenior",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

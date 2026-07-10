@@ -1,7 +1,12 @@
 {
   "name": "Rock Soldiers",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CanonForeigner",
+    "Mooks",
+    "ProudWarriorRace",
+    "RockMonster"
+  ],
   "tropes_by_category": {}
 }

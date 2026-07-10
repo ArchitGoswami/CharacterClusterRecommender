@@ -1,7 +1,17 @@
 {
   "name": "Biclops",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GentleGiant",
+    "HeelFaceTurn",
+    "MentorArchetype",
+    "TheBigGuy",
+    "MeaningfulRename",
+    "ManInAKilt",
+    "OnlySaneMan",
+    "Cyclops",
+    "OurGiantsAreBigger"
+  ],
   "tropes_by_category": {}
 }

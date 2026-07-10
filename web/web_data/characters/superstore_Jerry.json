@@ -1,7 +1,13 @@
 {
   "name": "Jerry",
   "show": "Superstore",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OddFriendship",
+    "SuperGullible",
+    "BirdsOfAFeather",
+    "BewareTheNiceOnes",
+    "SatelliteLoveInterest"
+  ],
   "tropes_by_category": {}
 }

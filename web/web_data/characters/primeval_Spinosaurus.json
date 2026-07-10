@@ -1,7 +1,12 @@
 {
   "name": "Spinosaurus",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ScienceMarchesOn",
+    "ZigZagged",
+    "SavageSpinosaurs",
+    "TRexpy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Morty",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Jerkass",
+    "PungeonMaster",
+    "HateSink",
+    "TookALevelInKindness",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

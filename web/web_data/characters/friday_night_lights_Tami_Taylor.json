@@ -1,7 +1,19 @@
 {
   "name": "Tami Taylor",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ScrewTheRulesImDoingWhatsRight",
+    "DeadpanSnarker",
+    "CareerVersusMan",
+    "ReasonableAuthorityFigure",
+    "TheHeart",
+    "SilentSnarker",
+    "MamaBear",
+    "LawOfInverseFertility",
+    "AlliterativeName",
+    "SeriousBusiness",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

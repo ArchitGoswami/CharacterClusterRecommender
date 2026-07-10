@@ -1,7 +1,18 @@
 {
   "name": "Bob",
   "show": "Beetlejuice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "InMemoriam",
+    "PaperThinDisguise",
+    "DeaderThanDead",
+    "TheVoiceless",
+    "PlayedForLaughs",
+    "CharacterCelebrityEndorsement",
+    "EyeScream",
+    "HopeSpot",
+    "ActuallyADoombot",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

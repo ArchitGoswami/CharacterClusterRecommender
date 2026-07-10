@@ -1,7 +1,19 @@
 {
   "name": "Goodness Rhone",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "PrecisionGuidedBoomerang",
+    "BoyishShortHair",
+    "ActionGirl",
+    "SamusIsAGirl",
+    "GenkiGirl",
+    "TookALevelInKindness",
+    "BadassAdorable",
+    "MotorMouth",
+    "VagueAge",
+    "LampshadeHanging",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

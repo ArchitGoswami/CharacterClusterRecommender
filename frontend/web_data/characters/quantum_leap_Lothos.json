@@ -1,7 +1,22 @@
 {
   "name": "Lothos",
   "show": "Quantum Leap",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "MaybeMagicMaybeMundane",
+    "TheGhost",
+    "GreaterScopeVillain",
+    "Technobabble",
+    "EldritchAbomination",
+    "EnemyDetectingRadar",
+    "YouHaveFailedMe",
+    "OmniscientDatabase",
+    "AIIsACrapshoot",
+    "ColdBloodedTorture",
+    "BadBoss",
+    "EvilCounterpart",
+    "MakeWrongWhatOnceWentRight",
+    "VillainousDemotivator"
+  ],
   "tropes_by_category": {}
 }

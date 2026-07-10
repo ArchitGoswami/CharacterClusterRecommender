@@ -1,7 +1,14 @@
 {
   "name": "Michael Parrish",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WouldHitAGirl",
+    "CowboyCop",
+    "DomesticAbuse",
+    "PosthumousCharacter",
+    "DarkAndTroubledPast",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

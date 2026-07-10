@@ -1,7 +1,9 @@
 {
   "name": "Augusta Endicott",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "Expy"
+  ],
   "tropes_by_category": {}
 }

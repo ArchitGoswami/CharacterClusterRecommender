@@ -1,7 +1,22 @@
 {
   "name": "Brontikens (Bronto)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "FluffyTheTerrible",
+    "WaveMotionGun",
+    "EvilIsBigger",
+    "RightHandCat",
+    "MakingASplash",
+    "AmbiguousSituation",
+    "TheAce",
+    "NonIndicativeName",
+    "SignatureMove",
+    "TheBrute",
+    "TheStoic",
+    "ScienceMarchesOn",
+    "InformedAttribute",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

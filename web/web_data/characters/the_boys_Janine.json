@@ -1,7 +1,12 @@
 {
   "name": "Janine",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BrattyTeenageDaughter",
+    "YoungerThanTheyLook",
+    "TroublingUnchildlikeBehavior",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Dieter Lederhosen",
   "show": "Pepper Ann",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ChickMagnet",
+    "Expy",
+    "OpaqueNerdGlasses",
+    "BigFun",
+    "FunnyForeigner",
+    "Keet",
+    "SixthRanger",
+    "KindheartedSimpleton"
+  ],
   "tropes_by_category": {}
 }

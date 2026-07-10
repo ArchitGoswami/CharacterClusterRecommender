@@ -1,7 +1,12 @@
 {
   "name": "Panellists first appearing in series E",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OnceASeason",
+    "TheDitz",
+    "Cloudcuckoolander",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Professor Monkey",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FormallyNamedPet",
+    "SpeciesSurname",
+    "HalfDressedCartoonAnimal",
+    "EinsteinHair",
+    "LabcoatOfScienceAndMedicine"
+  ],
   "tropes_by_category": {}
 }

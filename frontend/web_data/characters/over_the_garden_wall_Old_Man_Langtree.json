@@ -1,7 +1,17 @@
 {
   "name": "Old Man Langtree",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ObnoxiousInLaws",
+    "IncomingHam",
+    "JerkWithAHeartOfGold",
+    "FantasyForbiddingFather",
+    "TookALevelInCheerfulness",
+    "LeanAndMean",
+    "NoNameGiven",
+    "FatBastard",
+    "HiddenHeartOfGold"
+  ],
   "tropes_by_category": {}
 }

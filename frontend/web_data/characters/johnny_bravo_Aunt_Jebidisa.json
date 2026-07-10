@@ -1,7 +1,18 @@
 {
   "name": "Aunt Jebidisa",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DirtyOldWoman",
+    "HypocriteHasAPoint",
+    "JerkassToOne",
+    "KarmaHoudini",
+    "KickTheDog",
+    "MultilayerFacade",
+    "JerkassHasAPoint",
+    "CastAsAMask",
+    "ScoobyDooHoax",
+    "EvilUncle"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Suzuka Mizukane",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SuperPoweredRobotMeterMaid",
+    "MsFanservice",
+    "Leitmotif",
+    "NaughtyNurseOutfit",
+    "ElectiveMute",
+    "FlatCharacter",
+    "TheDragon",
+    "PsychicNosebleed",
+    "OfficeLady"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Tom Quinn",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheBusCameBack",
+    "AllThereInTheManual",
+    "DespairEventHorizon",
+    "RealMenGetShot",
+    "PutOnABus",
+    "TheMasqueradeWillKillYourDatingLife",
+    "BrokenSmile",
+    "BrokenAce"
+  ],
   "tropes_by_category": {}
 }

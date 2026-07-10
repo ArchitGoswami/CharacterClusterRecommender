@@ -1,7 +1,18 @@
 {
   "name": "Krystal",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BigBeautifulWoman",
+    "NiceGuy",
+    "GoodParents",
+    "JerkassBall",
+    "TheStinger",
+    "MoralGuardians",
+    "NumberTwo",
+    "HiddenDepths",
+    "InnocentlyInsensitive",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

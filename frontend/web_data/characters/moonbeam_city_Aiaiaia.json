@@ -1,7 +1,15 @@
 {
   "name": "Aiaiaia",
   "show": "Moonbeam City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "WordSaladLyrics",
+    "DreadfulMusician",
+    "ManOnFire",
+    "NotSoHarmless",
+    "PutOnABus",
+    "TheUnpronouncable",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Stanley",
   "show": "Donkey Hodie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "MySpeciesDothProtestTooMuch",
+    "CanonForeigner",
+    "NightmareRetardant",
+    "ScrewThisImOuttaHere",
+    "AmbiguouslyJewish",
+    "DelightfulDragon",
+    "NonstandardCharacterDesign",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

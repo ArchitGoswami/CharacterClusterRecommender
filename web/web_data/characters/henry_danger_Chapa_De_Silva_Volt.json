@@ -1,7 +1,13 @@
 {
   "name": "Chapa De Silva/Volt",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ShockandAwe",
+    "BoyishShortHair",
+    "RedIsHeroic",
+    "EmbarrassingNickname",
+    "HatesWearingDresses"
+  ],
   "tropes_by_category": {}
 }

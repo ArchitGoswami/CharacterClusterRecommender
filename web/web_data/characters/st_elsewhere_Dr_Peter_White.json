@@ -1,7 +1,25 @@
 {
   "name": "Dr. Peter White",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "ThoseTwoGuys",
+    "JumpScare",
+    "DrugsAreBad",
+    "GoMadFromTheIsolation",
+    "KilledOffForReal",
+    "SanitySlippage",
+    "ArchEnemy",
+    "DeaderThanDead",
+    "DeadPersonConversation",
+    "HellIsLonely",
+    "LaserGuidedKarma",
+    "DrJerk",
+    "AssholeVictim",
+    "FaceHeelTurn",
+    "HeelFaceDoorSlam",
+    "SmugSnake",
+    "MustMakeAmends"
+  ],
   "tropes_by_category": {}
 }

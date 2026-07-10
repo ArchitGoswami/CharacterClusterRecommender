@@ -1,7 +1,14 @@
 {
   "name": "Dorudon",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ApeShallNeverKillApe",
+    "GoryDiscretionShot",
+    "MamaBear",
+    "MonsterMunch",
+    "ForcedToWatch",
+    "DeathOfAChild"
+  ],
   "tropes_by_category": {}
 }

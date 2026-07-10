@@ -1,7 +1,16 @@
 {
   "name": "Renee Raddick",
   "show": "Ally McBeal",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "BeautifulSingingVoice",
+    "BigBreastPride",
+    "TheCastShowoff",
+    "UST",
+    "FriendlyEnemy",
+    "AlliterativeName",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

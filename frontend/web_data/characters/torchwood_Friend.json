@@ -1,7 +1,17 @@
 {
   "name": "Friend",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "IronicName",
+    "FictionalSocialNetwork",
+    "CreepyHighPitchedVoice",
+    "BigBad",
+    "DeadGuyPuppet",
+    "MaddenIntoMisanthropy",
+    "AIIsACrapshoot",
+    "VillainExitStageLeft",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Tabitha Stephens",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ChildOfTwoWorlds",
+    "HalfHumanHybrid",
+    "ChildrenAreInnocent",
+    "WouldHurtAChild",
+    "GooGooGodlike",
+    "MalignedMixedMarriage",
+    "RealityWarper",
+    "TrademarkFavoriteFood",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

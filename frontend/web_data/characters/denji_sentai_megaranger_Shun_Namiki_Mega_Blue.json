@@ -1,7 +1,20 @@
 {
   "name": "Shun Namiki/Mega Blue",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "IdentityAmnesia",
+    "JerkWithAHeartOfGold",
+    "TheLancer",
+    "ObliviousToLove",
+    "BatmanGambit",
+    "MissingMom",
+    "DifficultButAwesome",
+    "TheSmartGuy",
+    "BlueOniRedOni",
+    "RefusaloftheCall",
+    "SignatureMove",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

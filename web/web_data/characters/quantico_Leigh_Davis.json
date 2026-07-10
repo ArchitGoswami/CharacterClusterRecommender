@@ -1,7 +1,12 @@
 {
   "name": "Leigh Davis",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "InsistentTerminology",
+    "KilledOffForReal",
+    "MyGodWhatHaveIDone",
+    "ObsessivelyOrganized"
+  ],
   "tropes_by_category": {}
 }

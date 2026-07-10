@@ -1,7 +1,25 @@
 {
   "name": "Lt. Carlye Breslin",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BrokenBird",
+    "TheCaretaker",
+    "DeadpanSnarker",
+    "EstablishingCharacterMoment",
+    "MythologyGag",
+    "Workaholic",
+    "Foil",
+    "SadClown",
+    "MarriedToTheJob",
+    "StepfordSnarker",
+    "HasAType",
+    "ThinksLikeARomanceNovel",
+    "TheOneThatGotAway",
+    "BeYourself",
+    "WomanChild",
+    "FreudianExcuse",
+    "DesperatelyCravesAffection"
+  ],
   "tropes_by_category": {}
 }

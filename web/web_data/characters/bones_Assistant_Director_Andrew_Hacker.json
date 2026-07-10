@@ -1,7 +1,14 @@
 {
   "name": "Assistant Director Andrew Hacker",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "NiceGuy",
+    "PutOnABus",
+    "RomanticFalseLead",
+    "SoulCrushingDeskJob",
+    "BadassInANiceSuit",
+    "TheCavalryArrivesLate"
+  ],
   "tropes_by_category": {}
 }

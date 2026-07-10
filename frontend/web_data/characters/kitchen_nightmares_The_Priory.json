@@ -1,7 +1,15 @@
 {
   "name": "The Priory",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SunkCostFallacy",
+    "TooIncompetentToOperateABlanket",
+    "ScrewThisImOuttaHere",
+    "LethalChef",
+    "TheLoad",
+    "ItsTheSameNowItSucks",
+    "YouAreInCommandNow"
+  ],
   "tropes_by_category": {}
 }

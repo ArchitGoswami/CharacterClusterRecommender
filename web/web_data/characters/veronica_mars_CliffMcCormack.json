@@ -1,7 +1,17 @@
 {
   "name": "CliffMcCormack",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "JadedWashout",
+    "ChainedToABed",
+    "DeadpanSnarker",
+    "EvilCounterpart",
+    "BrutalHonesty",
+    "AmoralAttorney",
+    "TheAlcoholic",
+    "Dismotivation",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

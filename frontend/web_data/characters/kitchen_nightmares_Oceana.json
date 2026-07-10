@@ -1,7 +1,20 @@
 {
   "name": "Oceana",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "Malaproper",
+    "MedalOfDishonor",
+    "NeverMyFault",
+    "BrutalHonesty",
+    "NiceGuy",
+    "CharacterTics",
+    "LethalChef",
+    "BlatantLies",
+    "OhCrap",
+    "MotivationalLie",
+    "FatBastard",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

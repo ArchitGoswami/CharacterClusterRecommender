@@ -1,7 +1,12 @@
 {
   "name": "Special Agent Veronica Dawson",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FairCop",
+    "DeadpanSnarker",
+    "FunctionalAddict",
+    "BunnyEarsLawyer"
+  ],
   "tropes_by_category": {}
 }

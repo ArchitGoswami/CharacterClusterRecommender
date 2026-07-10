@@ -1,7 +1,12 @@
 {
   "name": "Big Chris",
   "show": "Roary the Racing Car",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FamilyMan",
+    "Catchphrase",
+    "BumblingDad",
+    "DotingParent"
+  ],
   "tropes_by_category": {}
 }

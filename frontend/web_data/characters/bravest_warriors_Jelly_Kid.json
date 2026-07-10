@@ -1,7 +1,20 @@
 {
   "name": "Jelly Kid",
   "show": "Bravest Warriors",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BodyHorror",
+    "FromASingleCell",
+    "OurMonstersAreWeird",
+    "DisneyDeath",
+    "ScrewThisImOuttaHere",
+    "WhatHappenedToTheMouse",
+    "PutOnABus",
+    "TheVoiceless",
+    "PhraseCatcher",
+    "YouAreBetterThanYouThinkYouAre",
+    "WalkingSpoiler",
+    "UngratefulBastard"
+  ],
   "tropes_by_category": {}
 }

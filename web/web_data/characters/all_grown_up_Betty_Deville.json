@@ -1,7 +1,13 @@
 {
   "name": "Betty Deville",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CloudCuckooLander",
+    "ChubbyMamaSkinnyPapa",
+    "ActionMom",
+    "MamaBear",
+    "FormerlyFit"
+  ],
   "tropes_by_category": {}
 }

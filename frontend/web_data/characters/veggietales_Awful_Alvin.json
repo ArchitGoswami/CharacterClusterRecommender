@@ -1,7 +1,15 @@
 {
   "name": "Awful Alvin",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AngryEyebrows",
+    "BigBad",
+    "EvilLaugh",
+    "AlliterativeName",
+    "ForTheEvulz",
+    "WolverinePublicity",
+    "CanonImmigrant"
+  ],
   "tropes_by_category": {}
 }

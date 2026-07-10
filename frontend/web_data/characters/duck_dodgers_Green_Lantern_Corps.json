@@ -1,7 +1,16 @@
 {
   "name": "Green Lantern Corps",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ShowWithinAShow",
+    "SparedByTheAdaptation",
+    "TeamMemberInTheAdaptation",
+    "Crossover",
+    "TheVoiceless",
+    "AdaptedOut",
+    "IntelligibleUnintelligible",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

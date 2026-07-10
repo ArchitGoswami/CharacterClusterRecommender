@@ -1,7 +1,9 @@
 {
   "name": "Liopleurodon",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AnimalsNotToScale"
+  ],
   "tropes_by_category": {}
 }

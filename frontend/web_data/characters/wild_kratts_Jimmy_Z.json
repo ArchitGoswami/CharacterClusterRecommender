@@ -1,7 +1,30 @@
 {
   "name": "Jimmy Z",
   "show": "Wild Kratts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ChristmasEpisode",
+    "CowardlyLion",
+    "NonActionGuy",
+    "OnlyOneName",
+    "BigEater",
+    "HatesBeingTouched",
+    "OnlyKnownByTheirNickname",
+    "HeavySleeper",
+    "ButtMonkey",
+    "DeadpanSnarker",
+    "HeroicBSOD",
+    "BadassNormal",
+    "BadassAdorable",
+    "FreudianTrio",
+    "CompanionCube",
+    "LetsGetDangerous",
+    "TheGoodCaptain",
+    "ADayInTheLimelight",
+    "LovableCoward",
+    "BrilliantButLazy",
+    "YouthfulFreckles",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Tahir Khaled",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ArchEnemy",
+    "BigBad",
+    "ItsPersonal",
+    "HeroKiller",
+    "HoistByHisOwnPetard"
+  ],
   "tropes_by_category": {}
 }

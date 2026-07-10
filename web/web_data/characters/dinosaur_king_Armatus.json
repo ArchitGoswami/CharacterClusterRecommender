@@ -1,7 +1,14 @@
 {
   "name": "Armatus",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DarkIsEvil",
+    "DishingOutDirt",
+    "FlatCharacter",
+    "ToughArmoredDinosaur",
+    "OutOfFocus",
+    "SpikeShooter"
+  ],
   "tropes_by_category": {}
 }

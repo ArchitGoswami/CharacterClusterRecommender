@@ -1,7 +1,10 @@
 {
   "name": "Emma",
   "show": "American Horror Stories",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AssholeVictim",
+    "LaserGuidedKarma"
+  ],
   "tropes_by_category": {}
 }

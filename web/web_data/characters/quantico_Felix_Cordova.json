@@ -1,7 +1,14 @@
 {
   "name": "Felix Cordova",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SellOut",
+    "Jerkass",
+    "ManipulativeBastard",
+    "MyGodWhatHaveIDone",
+    "RegretfulTraitor",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

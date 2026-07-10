@@ -1,7 +1,12 @@
 {
   "name": "Gary Fogel",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PlayingSick",
+    "Catchphrase",
+    "KilledOffScreen",
+    "BaldnessAngst"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Butterfish",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Catchphrase",
+    "AscendedExtra",
+    "NonStandardCharacterDesign",
+    "RunningGag"
+  ],
   "tropes_by_category": {}
 }

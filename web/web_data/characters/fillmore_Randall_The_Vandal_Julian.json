@@ -1,7 +1,16 @@
 {
   "name": "Randall \"The Vandal\" Julian",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HeelFaceTurn",
+    "Expy",
+    "BeatItByCompulsion",
+    "InsufferableGenius",
+    "ConsultingAConvictedKiller",
+    "Determinator",
+    "VillainWithGoodPublicity",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Ophelia Price",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FieryRedhead",
+    "EvilBrit",
+    "OddNameOut",
+    "Invisibility",
+    "CrucifiedHeroShot",
+    "DeathIsNotPermanent",
+    "FragileSpeedster",
+    "NoblewomansLaugh",
+    "FirstNameBasis",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

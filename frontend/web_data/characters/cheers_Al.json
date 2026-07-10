@@ -1,7 +1,23 @@
 {
   "name": "Al",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CoolOldGuy",
+    "WorthIt",
+    "DeadpanSnarker",
+    "ChuckCunninghamSyndrome",
+    "IHaveYouNowMyPretty",
+    "ItMakesSenseInContext",
+    "NiceHat",
+    "TheDanza",
+    "HiddenDepths",
+    "Troll",
+    "LittleKnownFacts",
+    "PlayedForLaughs",
+    "AscendedExtra",
+    "AbhorrentAdmirer",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

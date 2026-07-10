@@ -1,7 +1,11 @@
 {
   "name": "'Electrical' Entwistle",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DeadpanSnarker",
+    "Cloudcuckoolander",
+    "FunnyForeigner"
+  ],
   "tropes_by_category": {}
 }

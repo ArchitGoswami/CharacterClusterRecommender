@@ -1,7 +1,15 @@
 {
   "name": "Majin Avatars",
   "show": "Super Dragon Ball Heroes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CharacterClass",
+    "MightyGlacier",
+    "BerserkButton",
+    "EvilOverlord",
+    "ShoutOutThemeNaming",
+    "RedEyesTakeWarning",
+    "StatusEffects"
+  ],
   "tropes_by_category": {}
 }

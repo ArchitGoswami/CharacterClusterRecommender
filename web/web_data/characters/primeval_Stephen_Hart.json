@@ -1,7 +1,17 @@
 {
   "name": "Stephen Hart",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeroicSacrifice",
+    "BigBrotherInstinct",
+    "TheBigGuy",
+    "ConflictBall",
+    "TheMasquerade",
+    "HorribleJudgeOfCharacter",
+    "SourSupporter",
+    "SenselessSacrifice",
+    "ThePeterPrinciple"
+  ],
   "tropes_by_category": {}
 }

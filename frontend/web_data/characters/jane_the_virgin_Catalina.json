@@ -1,7 +1,16 @@
 {
   "name": "Catalina",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "IAmVeryBritish",
+    "TemporaryLoveInterest",
+    "AmbiguouslyEvil",
+    "Foil",
+    "MayDecemberRomance",
+    "GoldDigger",
+    "TheThingThatWouldNotLeave",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

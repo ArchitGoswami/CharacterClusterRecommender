@@ -1,7 +1,19 @@
 {
   "name": "Damian Rennett",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TakingTheBullet",
+    "DisneyDeath",
+    "DiedInYourArmsTonight",
+    "TheMole",
+    "DoubleAgent",
+    "TheAtoner",
+    "LoveTriangle",
+    "AssassinOutclassin",
+    "InstantDeathBullet",
+    "UnresolvedSexualTension",
+    "JurisdictionFriction"
+  ],
   "tropes_by_category": {}
 }

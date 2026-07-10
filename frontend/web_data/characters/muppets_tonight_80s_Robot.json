@@ -1,7 +1,17 @@
 {
   "name": "'80s Robot",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ComputerVoice",
+    "RoboSpeak",
+    "NonStandardCharacterDesign",
+    "RobotMaid",
+    "TotallyRadical",
+    "ArtificialIntelligence",
+    "DiscoDan",
+    "DemotedToExtra"
+  ],
   "tropes_by_category": {}
 }

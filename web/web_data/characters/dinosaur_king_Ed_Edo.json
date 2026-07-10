@@ -1,7 +1,15 @@
 {
   "name": "Ed (Edo)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AdaptationalIntelligence",
+    "SignatureMon",
+    "PunnyName",
+    "DishingOutDirt",
+    "HiddenDepths",
+    "ElementalHairColors",
+    "FatBastard"
+  ],
   "tropes_by_category": {}
 }

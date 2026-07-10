@@ -1,7 +1,12 @@
 {
   "name": "Seema Patel",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "UptownGirl",
+    "SixthRanger",
+    "RichesToRags",
+    "GranolaGuy"
+  ],
   "tropes_by_category": {}
 }

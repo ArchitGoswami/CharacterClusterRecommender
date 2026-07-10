@@ -1,7 +1,29 @@
 {
   "name": "Tex Richman",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "OrphanedSetup",
+    "MeaningfulName",
+    "FreudianExcuse",
+    "JerkWithAHeartOfGold",
+    "TheBadGuyWins",
+    "BeyondRedemption",
+    "JerkWithAHeartOfJerk",
+    "VillainSong",
+    "PissTakeRap",
+    "UnsoundEffect",
+    "ThrowingYourSwordAlwaysWorks",
+    "LaserGuidedKarma",
+    "LargeAndInCharge",
+    "CorruptCorporateExecutive",
+    "HeelFaceTurn",
+    "SuspiciouslySpecificDenial",
+    "WinThemWithLaughter",
+    "BigBad",
+    "EvilLaugh",
+    "AxCrazy",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

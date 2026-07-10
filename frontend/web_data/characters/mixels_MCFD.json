@@ -1,7 +1,18 @@
 {
   "name": "MCFD",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "EmergencyServices",
+    "TheLeader",
+    "CoolPlane",
+    "MakingASplash",
+    "PunnyName",
+    "TransformingMecha",
+    "LongNeck",
+    "ColorCodedForYourConvenience",
+    "Cyclops",
+    "SpeechImpediment"
+  ],
   "tropes_by_category": {}
 }

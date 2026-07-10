@@ -1,7 +1,20 @@
 {
   "name": "Woody Goodman",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SoftSpokenSadist",
+    "RapeAndRevenge",
+    "NotMeThisTime",
+    "AssholeVictim",
+    "FailedAttemptAtScaring",
+    "BullyingADragon",
+    "WeCanRuleTogether",
+    "CantKillYouStillNeedYou",
+    "EvenEvilHasStandards",
+    "HardboiledDetective",
+    "VillainWithGoodPublicity",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

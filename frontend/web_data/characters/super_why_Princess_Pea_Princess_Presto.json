@@ -1,7 +1,31 @@
 {
   "name": "Princess Pea/Princess Presto",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "GracefulLadiesLikePurple",
+    "GirlyGirl",
+    "AmbiguouslyBrown",
+    "TomboynessUpgrade",
+    "PrincessesPreferPink",
+    "BlondeBrunetteRedhead",
+    "TokenMinority",
+    "HighClassGloves",
+    "InTheNameOfTheMoon",
+    "EdibleThemeNaming",
+    "PinkMeansFeminine",
+    "MagicWand",
+    "GirlyGirlWithATomboyStreak",
+    "TomboyAndGirlyGirl",
+    "PrimAndProperBun",
+    "LastNameBasis",
+    "TransformationNameAnnouncement",
+    "Catchphrase",
+    "NeverBareheaded",
+    "KidHero",
+    "AlliterativeName",
+    "SuperheroesWearCapes",
+    "GrowlingGut"
+  ],
   "tropes_by_category": {}
 }

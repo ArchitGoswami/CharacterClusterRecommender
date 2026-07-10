@@ -1,7 +1,13 @@
 {
   "name": "Sasquatch",
   "show": "Tenacious D",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MushroomSamba",
+    "DreadfulMusician",
+    "BigfootSasquatchAndYeti",
+    "ATasteOfTheirOwnMedicine",
+    "MaybeMagicMaybeMundane"
+  ],
   "tropes_by_category": {}
 }

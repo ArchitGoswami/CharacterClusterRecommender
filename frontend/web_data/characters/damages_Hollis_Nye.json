@@ -1,7 +1,11 @@
 {
   "name": "Hollis Nye",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "NiceGuy",
+    "IgnoredExpert",
+    "TheMentor"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Alberta Meachum",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheRival",
+    "TheKingmaker"
+  ],
   "tropes_by_category": {}
 }

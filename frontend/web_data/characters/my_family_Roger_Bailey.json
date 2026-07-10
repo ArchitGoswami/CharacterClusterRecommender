@@ -1,7 +1,19 @@
 {
   "name": "Roger Bailey",
   "show": "My Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MommasBoy",
+    "MyBelovedSmother",
+    "Manchild",
+    "HappilyMarried",
+    "AxCrazy",
+    "EarlyBirdCameo",
+    "BadFuture",
+    "TheFriendNobodyLikes",
+    "BewareTheNiceOnes",
+    "ButtMonkey",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

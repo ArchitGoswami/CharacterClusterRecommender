@@ -1,7 +1,26 @@
 {
   "name": "Donkey Hodie",
   "show": "Donkey Hodie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "MadLibsCatchphrase",
+    "AmazingTechnicolorWildlife",
+    "Catchphrase",
+    "CoolHouse",
+    "ADogNamedDog",
+    "MinorLivingAlone",
+    "RedOniBlueOni",
+    "PunnyName",
+    "AffectionateNickname",
+    "GenkiGirl",
+    "Tomboy",
+    "Determinator",
+    "LegacyCharacter",
+    "RaisedByGrandparents",
+    "LovedByAll",
+    "WhyDidItHaveToBeSnakes",
+    "PluckyGirl",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

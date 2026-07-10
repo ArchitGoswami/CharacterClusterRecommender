@@ -1,7 +1,16 @@
 {
   "name": "Madame Lennard",
   "show": "'Allo 'Allo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NoFullNameGiven",
+    "SmallRoleBigImpact",
+    "InformedAbility",
+    "EveryoneLooksSexierIfFrench",
+    "SheWhoMustNotBeSeen",
+    "LastNameBasis",
+    "TheGhost",
+    "StoryArc"
+  ],
   "tropes_by_category": {}
 }

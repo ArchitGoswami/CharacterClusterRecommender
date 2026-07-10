@@ -1,7 +1,13 @@
 {
   "name": "Principal Stingwell",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HappilyMarried",
+    "BunnyEarsLawyer",
+    "TheWonka",
+    "ThePrankster",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

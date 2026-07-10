@@ -1,7 +1,21 @@
 {
   "name": "Wolf Jackson",
   "show": "Beetlejuice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "BodyHorror",
+    "Catchphrase",
+    "ClosestThingWeGot",
+    "NoStuntDouble",
+    "PetTheDog",
+    "ActorAllusion",
+    "SuspiciouslySimilarSubstitute",
+    "CowboyCop",
+    "NotSoFakePropWeapon",
+    "SpannerInTheWorks",
+    "InUniverse",
+    "UnnecessaryCombatRoll"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Ka Rum",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FarEastAsianTerrorists",
+    "Expy",
+    "NoodleIncident",
+    "VillainOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

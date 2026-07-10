@@ -1,7 +1,18 @@
 {
   "name": "Ikeno",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DiesWideOpen",
+    "Jerkass",
+    "CanonForeigner",
+    "NotSoStoic",
+    "AssholeVictim",
+    "NotAfraidToDie",
+    "HeroKiller",
+    "KarmicDeath",
+    "YouHaveGotToBeKiddingMe",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

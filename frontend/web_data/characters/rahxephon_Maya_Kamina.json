@@ -1,7 +1,14 @@
 {
   "name": "Maya Kamina",
   "show": "RahXephon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MyBelovedSmother",
+    "GracefulLoser",
+    "PetTheDog",
+    "CreatorCameo",
+    "ParentalNeglect",
+    "WellIntentionedExtremist"
+  ],
   "tropes_by_category": {}
 }

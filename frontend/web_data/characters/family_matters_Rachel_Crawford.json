@@ -1,7 +1,25 @@
 {
   "name": "Rachel Crawford",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CoolAunt",
+    "WrenchWench",
+    "NeverASelfMadeWoman",
+    "AndStarring",
+    "ItMakesSenseInContext",
+    "DudeMagnet",
+    "FoolishSiblingResponsibleSibling",
+    "TookALevelInBadass",
+    "LikesOlderWomen",
+    "CommutingOnABus",
+    "MostWritersAreWriters",
+    "JerkassBall",
+    "PutOnABus",
+    "StacysMom",
+    "AdaptedOut",
+    "OutOfFocus",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

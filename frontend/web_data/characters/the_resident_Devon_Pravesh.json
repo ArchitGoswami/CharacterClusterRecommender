@@ -1,7 +1,11 @@
 {
   "name": "Devon Pravesh",
   "show": "The Resident",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BreakTheCutie",
+    "LawfulStupid",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

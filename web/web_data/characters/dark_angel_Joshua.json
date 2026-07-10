@@ -1,7 +1,30 @@
 {
   "name": "Joshua",
   "show": "Dark Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "HugeGuyTinyGirl",
+    "NiceGuy",
+    "BeastMan",
+    "BeastAndBeauty",
+    "ScannableMan",
+    "YouWouldntLikeMeWhenImAngry",
+    "ThirdPersonPerson",
+    "GentleGiant",
+    "JerkWithAHeartOfGold",
+    "TheHeart",
+    "Invoked",
+    "LampshadeHanging",
+    "SugarAndIcePersonality",
+    "CloudCuckooLander",
+    "ReclusiveArtist",
+    "UnskilledButStrong",
+    "GeniusBruiser",
+    "CuteLittleFangs",
+    "Expy",
+    "HulkSpeak",
+    "GenkiGuy",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

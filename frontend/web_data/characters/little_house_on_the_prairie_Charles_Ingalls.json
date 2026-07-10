@@ -1,7 +1,17 @@
 {
   "name": "Charles Ingalls",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SherlockScan",
+    "AdaptationalAttractiveness",
+    "ShipperOnDeck",
+    "CorporalPunishment",
+    "ThePollyanna",
+    "TheAce",
+    "SternParentDotingParent",
+    "PapaWolf",
+    "TheDeterminator"
+  ],
   "tropes_by_category": {}
 }

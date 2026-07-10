@@ -1,7 +1,11 @@
 {
   "name": "Andrew \"Andy\" Keaton",
   "show": "Family Ties",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "SoapOperaRapidAgingSyndrome",
+    "CousinOliver",
+    "BigBrotherWorship"
+  ],
   "tropes_by_category": {}
 }

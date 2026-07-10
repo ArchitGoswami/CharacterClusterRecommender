@@ -1,7 +1,16 @@
 {
   "name": "Helmedor",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BigBadWannabe",
+    "AssholeVictim",
+    "DesignPreservationVillain",
+    "AllBikersAreHellsAngels",
+    "TheStarscream",
+    "OmnicidalManiac",
+    "MakeMyMonsterGrow",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

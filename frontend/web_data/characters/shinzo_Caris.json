@@ -1,7 +1,20 @@
 {
   "name": "Caris",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "OneWingedAngel",
+    "BodyHorror",
+    "AnArmAndALeg",
+    "LovecraftianSuperPower",
+    "WingedHumanoid",
+    "HeroKiller",
+    "ShapeshifterMashup",
+    "WouldHurtAChild",
+    "SuperMode",
+    "TheDragon",
+    "CombatTentacles",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Steve Richards",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SesquipedalianLoquaciousness",
+    "ChronicBackstabbingDisorder"
+  ],
   "tropes_by_category": {}
 }

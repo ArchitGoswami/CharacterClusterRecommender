@@ -1,7 +1,12 @@
 {
   "name": "Fifi",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "LoveAtFirstSight",
+    "BabiesEverAfter",
+    "BigFriendlyDog",
+    "LoveInterests"
+  ],
   "tropes_by_category": {}
 }

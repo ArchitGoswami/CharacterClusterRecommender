@@ -1,7 +1,18 @@
 {
   "name": "Takiko Okuda",
   "show": "Fushigi Yuugi",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "HiddenEyes",
+    "SailorFuku",
+    "TheRoaring20s",
+    "KimonoIsTraditional",
+    "MurderSuicide",
+    "JustifiedTrope",
+    "PosthumousCharacter",
+    "OffingTheOffspring",
+    "LongHairIsFeminine",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

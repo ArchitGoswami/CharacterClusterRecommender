@@ -1,7 +1,14 @@
 {
   "name": "Tector Murphy",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HeroicSacrifice",
+    "MyGreatestFailure",
+    "NiceGuy",
+    "FakeGuestStar",
+    "TakingYouWithMe",
+    "NumberTwo"
+  ],
   "tropes_by_category": {}
 }

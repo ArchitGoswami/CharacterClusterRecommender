@@ -1,7 +1,10 @@
 {
   "name": "Haunted House",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "GeniusLoci",
+    "HauntedHouse"
+  ],
   "tropes_by_category": {}
 }

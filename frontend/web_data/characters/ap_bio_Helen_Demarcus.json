@@ -1,7 +1,13 @@
 {
   "name": "Helen Demarcus",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ButchLesbian",
+    "JerkWithAHeartOfGold",
+    "ComicallyMissingThePoint",
+    "LargeHam",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

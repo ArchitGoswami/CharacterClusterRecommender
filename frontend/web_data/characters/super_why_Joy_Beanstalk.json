@@ -1,7 +1,15 @@
 {
   "name": "Joy Beanstalk",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "InnocentBlueEyes",
+    "BabyTalk",
+    "StockSoundEffects",
+    "GirlishPigtails",
+    "AffectionateNickname",
+    "TrueBlueFemininity",
+    "GooGooGodlike"
+  ],
   "tropes_by_category": {}
 }

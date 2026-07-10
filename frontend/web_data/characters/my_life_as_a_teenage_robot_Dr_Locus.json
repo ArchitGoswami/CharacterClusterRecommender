@@ -1,7 +1,25 @@
 {
   "name": "Dr. Locus",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EvilIsHammy",
+    "PragmaticVillainy",
+    "EatenAlive",
+    "TheBadGuyWins",
+    "MadScientist",
+    "KnightOfCerebus",
+    "GreenEyedMonster",
+    "NonStandardCharacterDesign",
+    "TopHeavyGuy",
+    "CreepyBlueEyes",
+    "UnknownRival",
+    "EvilOldFolks",
+    "BaldOfEvil",
+    "EvilCounterpart",
+    "BondVillainStupidity",
+    "BitchInSheepsClothing",
+    "BeardOfEvil"
+  ],
   "tropes_by_category": {}
 }

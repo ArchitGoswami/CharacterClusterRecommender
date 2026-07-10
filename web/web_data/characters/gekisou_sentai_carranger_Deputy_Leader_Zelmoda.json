@@ -1,7 +1,18 @@
 {
   "name": "Deputy Leader Zelmoda",
   "show": "Gekisou Sentai Carranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DumbMuscle",
+    "WorthyOpponent",
+    "FearOfThunder",
+    "ImprobableWeaponUser",
+    "UndyingLoyalty",
+    "HeroKiller",
+    "TheBrute",
+    "TheDragon",
+    "KidsAreCruel",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

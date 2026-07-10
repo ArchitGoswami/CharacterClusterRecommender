@@ -1,7 +1,30 @@
 {
   "name": "Principal Kidswatter",
   "show": "Wayside",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "FunnyAfro",
+    "ButtMonkey",
+    "AccidentalMisnaming",
+    "ManChild",
+    "ChildHater",
+    "LivingEmotionalCrutch",
+    "AdaptationalNiceGuy",
+    "Cloudcuckoolander",
+    "AmusingInjuries",
+    "RealMenWearPink",
+    "BeardedBaby",
+    "IsThisThingStillOn",
+    "SensitiveGuyAndManlyMan",
+    "GoofyPrintUnderwear",
+    "AscendedExtra",
+    "ComedicUnderwearExposure",
+    "Catchphrase",
+    "ProneToTears",
+    "SplittingPants",
+    "InSeriesNickname",
+    "InsistentTerminology",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

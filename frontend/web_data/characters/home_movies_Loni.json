@@ -1,7 +1,16 @@
 {
   "name": "Loni",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OfficialCouple",
+    "ProneToTears",
+    "RedheadsAreUncool",
+    "OddCouple",
+    "ShrinkingViolet",
+    "OnlyOneName",
+    "EarlyBirdCameo",
+    "TheCutie"
+  ],
   "tropes_by_category": {}
 }

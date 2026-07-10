@@ -1,7 +1,13 @@
 {
   "name": "Docky Boardman",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Catchphrase",
+    "Expy",
+    "TheNapoleon",
+    "ComplainingAboutRescuesTheyDontLike",
+    "DestructiveSavior"
+  ],
   "tropes_by_category": {}
 }

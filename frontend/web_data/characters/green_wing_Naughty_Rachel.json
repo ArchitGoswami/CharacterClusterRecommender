@@ -1,7 +1,17 @@
 {
   "name": "\"Naughty\" Rachel",
   "show": "Green Wing",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "DistaffCounterpart",
+    "AllThereInTheManual",
+    "DudeMagnet",
+    "TheDitz",
+    "BigBreastPride",
+    "Troll",
+    "BadBoss",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

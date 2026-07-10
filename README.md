@@ -60,6 +60,18 @@ cd frontend
 python character_search.py
 ```
 
+### Step 4: Updating the files for the online version of the app
+
+```bash
+# Complete update workflow
+cd frontend
+python prepare_web_data.py
+cd ..
+xcopy frontend\web_data web\web_data\ /E /I /Y
+```
+
+make sure you commit the changes to repo to ensure changes are reflected on website
+
 ## Clustering Instructions
 
 1. If you already downloaded FINAL_CLUSTERS, these steps are unneccessary

@@ -1,7 +1,16 @@
 {
   "name": "Mrs. Pike",
   "show": "Dad's Army",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "MyBelovedSmother",
+    "MsFanservice",
+    "DotingParent",
+    "AlmightyMom",
+    "MistakenForPregnant",
+    "RomancingTheWidow",
+    "MamaBear",
+    "LysistrataGambit"
+  ],
   "tropes_by_category": {}
 }

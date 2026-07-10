@@ -1,7 +1,14 @@
 {
   "name": "Christine Whitney",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BoundAndGagged",
+    "HeroicBSOD",
+    "SupremeChef",
+    "HairOfGoldHeartOfGold",
+    "CryIntoChest",
+    "SecondLove"
+  ],
   "tropes_by_category": {}
 }

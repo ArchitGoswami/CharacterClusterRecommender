@@ -1,7 +1,18 @@
 {
   "name": "Vlad, the Divine Executioner",
   "show": "Lexx",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Cyborg",
+    "BadassCape",
+    "GenderBlenderName",
+    "DarkActionGirl",
+    "TheDreaded",
+    "OurVampiresAreDifferent",
+    "HeroKiller",
+    "ForTheEvulz",
+    "ImprobableHairstyle",
+    "ImplacableMan"
+  ],
   "tropes_by_category": {}
 }

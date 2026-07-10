@@ -1,7 +1,14 @@
 {
   "name": "Casey Manning",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ShoutOut",
+    "DoggedNiceGuy",
+    "NiceGuy",
+    "DroppedABridgeOnHim",
+    "LoveIsAWeakness",
+    "NewOldFlame"
+  ],
   "tropes_by_category": {}
 }

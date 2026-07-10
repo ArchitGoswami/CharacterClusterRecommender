@@ -1,7 +1,21 @@
 {
   "name": "Perry",
   "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "BlackAndNerdy",
+    "SelfMadeMan",
+    "HardWorkHardlyWorks",
+    "NiceGuy",
+    "SavvyGuyEnergeticGirl",
+    "WhatHappenedToTheMouse",
+    "EndearinglyDorky",
+    "TheCastShowoff",
+    "OnlySaneMan",
+    "DarkAndTroubledPast",
+    "InnocentlyInsensitive",
+    "BaitAndSwitch"
+  ],
   "tropes_by_category": {}
 }

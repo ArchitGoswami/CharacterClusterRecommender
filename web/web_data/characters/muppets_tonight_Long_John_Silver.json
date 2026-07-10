@@ -1,7 +1,27 @@
 {
   "name": "Long John Silver",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "TropeCodifier",
+    "Pirate",
+    "EvenEvilHasLovedOnes",
+    "CommonalityConnection",
+    "AlasPoorVillain",
+    "AffablyEvil",
+    "JerkWithAHeartOfGold",
+    "LovableRogue",
+    "TheDreaded",
+    "VillainSong",
+    "AdaptationalNiceGuy",
+    "KarmaHoudini",
+    "ManipulativeBastard",
+    "BeneathSuspicion",
+    "AntiVillain",
+    "EvenEvilHasStandards",
+    "LargeHam",
+    "BigBad",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

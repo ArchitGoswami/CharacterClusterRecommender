@@ -1,7 +1,18 @@
 {
   "name": "Neddy the Mallet",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "EveryoneWentToSchoolTogether",
+    "Catchphrase",
+    "DumbMuscle",
+    "Jerkass",
+    "WeaksauceWeakness",
+    "ArrogantKungFuGuy",
+    "BigEater",
+    "TheThingThatWouldNotLeave",
+    "BearsAreBadNews",
+    "CompanionCube"
+  ],
   "tropes_by_category": {}
 }

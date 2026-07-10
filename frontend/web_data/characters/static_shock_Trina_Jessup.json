@@ -1,7 +1,13 @@
 {
   "name": "Trina Jessup",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeroAntagonist",
+    "ChuckCunninghamSyndrome",
+    "SecondLove",
+    "AmbiguouslyBrown",
+    "SignificantGreenEyedRedhead"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Marcus Rispoli",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "KilledOffForReal",
+    "YouHaveOutlivedYourUsefulness",
+    "MookLieutenant",
+    "EvenEvilHasStandards",
+    "BaldOfAuthority",
+    "UndyingLoyalty",
+    "TheDragon",
+    "BaldOfEvil",
+    "TheSpymaster"
+  ],
   "tropes_by_category": {}
 }

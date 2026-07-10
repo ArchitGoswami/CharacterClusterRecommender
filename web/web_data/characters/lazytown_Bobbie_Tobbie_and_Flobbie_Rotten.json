@@ -1,7 +1,17 @@
 {
   "name": "Bobbie, Tobbie, and Flobbie Rotten",
   "show": "Lazytown",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "SurroundedByIdiots",
+    "TheLeader",
+    "Expy",
+    "HarmlessVillain",
+    "BeingEvilSucks",
+    "TheQuietOne",
+    "GoonsJustWantToHaveFun",
+    "MinionWithAnFInEvil"
+  ],
   "tropes_by_category": {}
 }

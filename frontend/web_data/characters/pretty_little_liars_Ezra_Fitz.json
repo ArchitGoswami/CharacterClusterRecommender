@@ -1,7 +1,27 @@
 {
   "name": "Ezra Fitz",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "CoolTeacher",
+    "NiceGuy",
+    "LockedOutOfTheLoop",
+    "DeadpanSnarker",
+    "ShoutOut",
+    "LadyMacbeth",
+    "NearDeathExperience",
+    "HiddenDepths",
+    "BreakTheCutie",
+    "TallDarkAndHandsome",
+    "HotTeacher",
+    "LonelyRichKid",
+    "DisappearedDad",
+    "BigBadEnsemble",
+    "AdaptationExpansion",
+    "AntiVillain",
+    "VillainProtagonist",
+    "BookWorm",
+    "ChickMagnet"
+  ],
   "tropes_by_category": {}
 }

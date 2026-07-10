@@ -1,7 +1,17 @@
 {
   "name": "Dibala",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "NoCelebritiesWereHarmed",
+    "NeverMyFault",
+    "AppealToWorseProblems",
+    "EvenEvilHasLovedOnes",
+    "AssholeVictim",
+    "Bulungi",
+    "ChildSoldiers",
+    "NoHistoricalFiguresWereHarmed"
+  ],
   "tropes_by_category": {}
 }

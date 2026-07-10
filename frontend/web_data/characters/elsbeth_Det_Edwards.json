@@ -1,7 +1,12 @@
 {
   "name": "Det. Edwards",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BrokenPedestal",
+    "Polyamory",
+    "HiddenDepths",
+    "LuddWasRight"
+  ],
   "tropes_by_category": {}
 }

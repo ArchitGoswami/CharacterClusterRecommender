@@ -1,7 +1,16 @@
 {
   "name": "Mark Jennings",
   "show": "Dynasty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "KilledOffForReal",
+    "NearRapeExperience",
+    "StarterMarriage",
+    "BettyAndVeronica",
+    "OopsIForgotIWasMarried",
+    "TheCharmer",
+    "MiddleNameBasis",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

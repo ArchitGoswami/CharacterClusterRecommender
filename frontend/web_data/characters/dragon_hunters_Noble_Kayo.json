@@ -1,7 +1,17 @@
 {
   "name": "Noble Kayo",
   "show": "Dragon Hunters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DisabilityImmunity",
+    "LonersAreFreaks",
+    "MadScientist",
+    "SweetTooth",
+    "BunnyEarsLawyer",
+    "HermitGuru",
+    "GlassesOfAging",
+    "IntergenerationalFriendship",
+    "Bookworm"
+  ],
   "tropes_by_category": {}
 }

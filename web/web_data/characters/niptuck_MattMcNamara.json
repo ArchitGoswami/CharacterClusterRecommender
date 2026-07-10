@@ -1,7 +1,18 @@
 {
   "name": "MattMcNamara",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ThreeWaySex",
+    "YoureNotMyFather",
+    "BrotherSisterIncest",
+    "KarmaHoudini",
+    "RealityIsUnrealistic",
+    "AesopAmnesia",
+    "PrisonRape",
+    "WhosYourDaddy",
+    "GirlOnGirlIsHot",
+    "DaddyDNATest"
+  ],
   "tropes_by_category": {}
 }

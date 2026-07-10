@@ -1,7 +1,12 @@
 {
   "name": "Roi Fong",
   "show": "Outlaw Star",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EvenEvilHasStandards",
+    "EvilSorcerer",
+    "EvilOldFolks",
+    "PhysicalGod"
+  ],
   "tropes_by_category": {}
 }

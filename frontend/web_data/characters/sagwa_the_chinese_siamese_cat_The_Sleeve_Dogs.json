@@ -1,7 +1,14 @@
 {
   "name": "The Sleeve Dogs",
   "show": "Sagwa, the Chinese Siamese Cat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ThemeTwinNaming",
+    "JerkassRealization",
+    "LaserGuidedKarma",
+    "HateSink",
+    "VitriolicBestBuds",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

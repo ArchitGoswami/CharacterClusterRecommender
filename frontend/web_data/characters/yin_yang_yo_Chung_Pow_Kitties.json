@@ -1,7 +1,23 @@
 {
   "name": "Chung Pow Kitties",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "EvilDiva",
+    "PintSizedPowerhouse",
+    "RoguesGallery",
+    "Expy",
+    "TheUnintelligible",
+    "VillainDecay",
+    "TookALevelInBadass",
+    "CorruptedCharacterCopy",
+    "TerribleTrio",
+    "CatsAreMean",
+    "BadassAdorable",
+    "Determinator",
+    "BitchInSheepsClothing",
+    "VillainWithGoodPublicity",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Charles \"Chip\" Sterling",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BoundAndGagged",
+    "FourIsDeath",
+    "Revenge",
+    "EmbarrassingNickname",
+    "PornStache",
+    "BitchInSheepsClothing",
+    "RealLifeRelative"
+  ],
   "tropes_by_category": {}
 }

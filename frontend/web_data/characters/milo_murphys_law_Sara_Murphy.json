@@ -1,7 +1,24 @@
 {
   "name": "Sara Murphy",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "ShowWithinAShow",
+    "BigBrotherInstinct",
+    "Fangirl",
+    "ProperlyParanoid",
+    "FourLeafClover",
+    "SignatureHairDecs",
+    "TheUnfavorite",
+    "WriteWhoYouKnow",
+    "VerbalTic",
+    "GoodAngelBadAngel",
+    "CoolBigSis",
+    "SympathyForTheDevil",
+    "CrazyPrepared",
+    "HereditaryCurse",
+    "TwoFirstNames",
+    "TwiceShy"
+  ],
   "tropes_by_category": {}
 }

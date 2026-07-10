@@ -1,7 +1,28 @@
 {
   "name": "Ziggy",
   "show": "Quantum Leap",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "MundaneUtility",
+    "PersonalityChip",
+    "LudicrousPrecision",
+    "NewPowersAsThePlotDemands",
+    "BrutalHonesty",
+    "LiteralMinded",
+    "Expositron9000",
+    "BenevolentAI",
+    "EnemyDetectingRadar",
+    "OrganicTechnology",
+    "EatingTheEyeCandy",
+    "AccidentallyCorrectWriting",
+    "OperationBlank",
+    "RidiculouslyHumanRobots",
+    "TheKnightsWhoSaySquee",
+    "BrainInAJar",
+    "FinishingEachOthersSentences",
+    "OmniscientDatabase",
+    "AmbiguousGender",
+    "AlternateSelf"
+  ],
   "tropes_by_category": {}
 }

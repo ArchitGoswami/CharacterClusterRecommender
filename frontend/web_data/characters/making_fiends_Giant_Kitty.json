@@ -1,7 +1,15 @@
 {
   "name": "Giant Kitty",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ClassPet",
+    "AllThereInTheManual",
+    "SwallowedWhole",
+    "CatsAreMean",
+    "ExtremeOmnivore",
+    "CatsHateWater",
+    "MegaNeko"
+  ],
   "tropes_by_category": {}
 }

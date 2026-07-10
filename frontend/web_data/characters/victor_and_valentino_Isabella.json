@@ -1,7 +1,12 @@
 {
   "name": "Isabella",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Foil",
+    "ShipTease",
+    "AlwaysSomeoneBetter",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

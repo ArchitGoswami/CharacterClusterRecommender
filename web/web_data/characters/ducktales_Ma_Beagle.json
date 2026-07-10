@@ -1,7 +1,18 @@
 {
   "name": "Ma Beagle",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "EvilMatriarch",
+    "DistaffCounterpart",
+    "TheFamilyThatSlaysTogether",
+    "KarmaHoudini",
+    "InformedSpecies",
+    "FanDisservice",
+    "MeaningfulName",
+    "OnlyKnownByTheirNickname",
+    "KarmaHoudiniWarranty",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

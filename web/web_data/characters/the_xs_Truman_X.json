@@ -1,7 +1,25 @@
 {
   "name": "Truman X",
   "show": "The X's",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "FieryRedhead",
+    "HeroesLoveDogs",
+    "Expy",
+    "PintSizedKid",
+    "ShorterMeansSmarter",
+    "LaserGuidedKarma",
+    "AnnoyingYoungerSibling",
+    "EvilLaugh",
+    "GreenEyedRedhead",
+    "YouthfulFreckles",
+    "EvilRedhead",
+    "ChildProdigy",
+    "EvilCostumeSwitch",
+    "BrattyHalfPint",
+    "TemporarilyAVillain",
+    "GadgeteerGenius",
+    "Wedgie"
+  ],
   "tropes_by_category": {}
 }

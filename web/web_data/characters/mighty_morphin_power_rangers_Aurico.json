@@ -1,7 +1,18 @@
 {
   "name": "Aurico",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheBusCameBack",
+    "LawOfChromaticSuperiority",
+    "TheLancer",
+    "NotSoStoic",
+    "PreAsskickingOneLiner",
+    "NumberTwo",
+    "AdaptationPersonalityChange",
+    "BoisterousBruiser",
+    "PowerFist",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Nora Batty",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "TheDreaded",
+    "WhatDoesHeSeeInHer",
+    "ControlFreak",
+    "ApronMatron",
+    "GossipyHens",
+    "NeatFreak",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Lydia Dunfree",
   "show": "Party Down",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheDitz",
+    "SuspiciouslySimilarSubstitute",
+    "StageMom",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

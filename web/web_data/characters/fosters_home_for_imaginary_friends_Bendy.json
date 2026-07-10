@@ -1,7 +1,25 @@
 {
   "name": "Bendy",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "PlayingTheVictimCard",
+    "BaitTheDog",
+    "MonsterOfTheWeek",
+    "SubvertedTrope",
+    "Jerkass",
+    "NiceGuy",
+    "PetTheDog",
+    "KarmaHoudini",
+    "CrocodileTears",
+    "TheScrappy",
+    "HateSink",
+    "KickTheDog",
+    "PutOnABus",
+    "AmbiguousInnocence",
+    "TheSociopath",
+    "KarmaHoudiniWarranty",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

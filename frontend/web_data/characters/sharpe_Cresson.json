@@ -1,7 +1,14 @@
 {
   "name": "Cresson",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheManBehindTheMan",
+    "BigBadDuumvirate",
+    "WeHaveReserves",
+    "TheChessmaster",
+    "CanonForeigner",
+    "UriahGambit"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Zane Donovan",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeelFaceTurn",
+    "HeroicComedicSociopath",
+    "TechnicalPacifist",
+    "Jerkass",
+    "TheAtoner",
+    "BetaCouple",
+    "AnchoredShip",
+    "ManipulativeBastard",
+    "Downplayed",
+    "ReformedCriminal",
+    "HiddenDepths",
+    "RecruitingTheCriminal",
+    "TimeTravel",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

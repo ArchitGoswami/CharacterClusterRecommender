@@ -1,7 +1,14 @@
 {
   "name": "Borma",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheBigGuy",
+    "BadgesAndDogTags",
+    "InconsistentSpelling",
+    "ElectronicEyes",
+    "TheGenericGuy",
+    "JackOfAllTrades"
+  ],
   "tropes_by_category": {}
 }

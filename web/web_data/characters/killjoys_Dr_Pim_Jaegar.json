@@ -1,7 +1,13 @@
 {
   "name": "Dr. Pim Jaegar",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ManchurianAgent",
+    "IncitingIncident",
+    "MadScientist",
+    "HoistByHerOwnPetard",
+    "LaserGuidedAmnesia"
+  ],
   "tropes_by_category": {}
 }

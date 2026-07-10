@@ -1,7 +1,12 @@
 {
   "name": "Little Joe Cartwright",
   "show": "Bonanza",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheCasanova",
+    "PrettyBoy",
+    "HairTriggerTemper",
+    "TheBabyOfTheBunch"
+  ],
   "tropes_by_category": {}
 }

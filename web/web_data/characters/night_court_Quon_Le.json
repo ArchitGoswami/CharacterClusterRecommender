@@ -1,7 +1,17 @@
 {
   "name": "Quon Le",
   "show": "Night Court",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ClingyJealousGirl",
+    "ShoutOut",
+    "SmittenTeenageGirl",
+    "HugeGuyTinyGirl",
+    "CitizenshipMarriage",
+    "WhoNamesTheirKidDude",
+    "MsRedInk",
+    "FunnyForeigner",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

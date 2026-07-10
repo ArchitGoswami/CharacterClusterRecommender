@@ -1,7 +1,27 @@
 {
   "name": "The King",
   "show": "Sonic the Hedgehog(SatAM)",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "NiceGuy",
+    "TakeCareOfTheKids",
+    "RoyalsWhoActuallyDoSomething",
+    "DefiantToTheEnd",
+    "CoolOldGuy",
+    "IncurableCoughOfDeath",
+    "SealedGoodInACan",
+    "ForcedToWatch",
+    "TheGoodKing",
+    "FirstNameBasis",
+    "HorribleJudgeOfCharacter",
+    "AndIMustScream",
+    "DepartureMeansDeath",
+    "LargeHam",
+    "AllThereInTheScript",
+    "ReasonableAuthorityFigure",
+    "KingInTheMountain",
+    "AnotherDimension",
+    "YouCantGoHomeAgain"
+  ],
   "tropes_by_category": {}
 }

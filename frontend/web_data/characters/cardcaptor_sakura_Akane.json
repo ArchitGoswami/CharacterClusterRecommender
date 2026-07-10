@@ -1,7 +1,11 @@
 {
   "name": "Akane",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChildrenAreInnocent",
+    "WiseBeyondTheirYears",
+    "DisappearedDad"
+  ],
   "tropes_by_category": {}
 }

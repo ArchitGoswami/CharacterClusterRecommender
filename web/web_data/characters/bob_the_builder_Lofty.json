@@ -1,7 +1,23 @@
 {
   "name": "Lofty",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "OddReactionOut",
+    "ShesAManInJapan",
+    "Catchphrase",
+    "CowardlySidekick",
+    "EekAMouse",
+    "StumblingInTheNewForm",
+    "LovableCoward",
+    "ShrinkingViolet",
+    "HiddenDepths",
+    "AdaptationalPersonalityChange",
+    "CryingCritters",
+    "ImageSong",
+    "WhyDidItHaveToBeSnakes",
+    "BlueIsHeroic",
+    "MasterOfNone"
+  ],
   "tropes_by_category": {}
 }

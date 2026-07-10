@@ -1,7 +1,18 @@
 {
   "name": "Pineapple",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "SpiritAdvisor",
+    "HeroicBSOD",
+    "RealAfterAll",
+    "MagicFeather",
+    "TheGamblingAddict",
+    "AmbiguousSituation",
+    "TrappedByGamblingDebts",
+    "AFormYouAreComfortableWith",
+    "AscendToAHigherPlaneOfExistence"
+  ],
   "tropes_by_category": {}
 }

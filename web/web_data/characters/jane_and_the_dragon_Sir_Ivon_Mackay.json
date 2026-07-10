@@ -1,7 +1,19 @@
 {
   "name": "Sir Ivon Mackay",
   "show": "Jane and the Dragon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RedOniBlueOni",
+    "TheMentor",
+    "TheMunchausen",
+    "BunglingInventor",
+    "SmallNameBigEgo",
+    "LargeHam",
+    "HonorBeforeReason",
+    "FatAndSkinny",
+    "DemotedToExtra",
+    "HairTriggerTemper",
+    "BrainsAndBrawn"
+  ],
   "tropes_by_category": {}
 }

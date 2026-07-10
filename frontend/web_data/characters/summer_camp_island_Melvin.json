@@ -1,7 +1,9 @@
 {
   "name": "Melvin",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "GagNose"
+  ],
   "tropes_by_category": {}
 }

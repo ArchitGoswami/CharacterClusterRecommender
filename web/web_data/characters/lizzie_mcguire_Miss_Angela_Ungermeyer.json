@@ -1,7 +1,15 @@
 {
   "name": "Miss Angela Ungermeyer",
   "show": "Lizzie McGuire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "PintSizedPowerhouse",
+    "DrillSergeantNasty",
+    "ReasonableAuthorityFigure",
+    "ChewingTheScenery",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

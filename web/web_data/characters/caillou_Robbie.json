@@ -1,7 +1,12 @@
 {
   "name": "Robbie",
   "show": "Caillou",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGuy",
+    "OnlyOneName",
+    "RecurringExtra",
+    "TheSpeechless"
+  ],
   "tropes_by_category": {}
 }

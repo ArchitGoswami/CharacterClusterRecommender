@@ -1,7 +1,12 @@
 {
   "name": "Mica and Shale",
   "show": "Trollz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HeelFaceTurn",
+    "JerkWithAHeartOfGold",
+    "ExoticEyeDesigns",
+    "ArcVillain"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Daffy Duck",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "AttentionWhore",
+    "TokenEvilTeammate",
+    "QuackingUp",
+    "ToothyBird",
+    "ButtMonkey",
+    "EveryoneHasStandards",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "FeatherFingers",
+    "Jerkass",
+    "CurtainsMatchTheWindow",
+    "BlatantLies",
+    "VomitDiscretionShot",
+    "VitriolicBestBuds",
+    "ItsAllAboutMe",
+    "JerkassHasAPoint",
+    "FridgeLogic",
+    "SmallNameBigEgo",
+    "SensitiveGuyAndManlyMan",
+    "InformedAttribute",
+    "MouthyKid",
+    "AlliterativeName",
+    "BrattyHalfPint"
+  ],
   "tropes_by_category": {}
 }

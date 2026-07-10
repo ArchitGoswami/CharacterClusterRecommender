@@ -1,7 +1,27 @@
 {
   "name": "Wanihtam Maskwak (Confused Bears)",
   "show": "Total Drama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "TokenEvilTeammate",
+    "TheSmurfettePrinciple",
+    "NiceMeanAndInbetween",
+    "ActualPacifist",
+    "BlindIdiotTranslation",
+    "TheBigGal",
+    "StoutStrength",
+    "TheLeader",
+    "Jerkass",
+    "BlackHoleBelly",
+    "TheHeart",
+    "CardCarryingVillain",
+    "TheSmartGuy",
+    "TheLancer",
+    "TheFriendNobodyLikes",
+    "FriendToAllLivingThings",
+    "AllLovingHeroine",
+    "GuestStarPartyMember",
+    "TheLoad"
+  ],
   "tropes_by_category": {}
 }

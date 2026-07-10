@@ -1,7 +1,31 @@
 {
   "name": "Tory Belleci",
   "show": "Mythbusters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "ThisIsGonnaSuck",
+    "SarcasmMode",
+    "OlderThanTheyLook",
+    "JumpedAtTheCall",
+    "ButtMonkey",
+    "IronButtMonkey",
+    "GenderBlenderName",
+    "BriefAccentImitation",
+    "CuttingTheKnot",
+    "RainbowPimpGear",
+    "HiddenDepths",
+    "DudeNotFunny",
+    "MadeOfIron",
+    "OnceDoneNeverForgotten",
+    "ImprobableAimingSkills",
+    "MyGodWhatHaveIDone",
+    "GroinAttack",
+    "CloudCuckoolander",
+    "AscendedExtra",
+    "TheBigGuy",
+    "BullSeeingRed",
+    "BeCarefulWhatYouWishFor",
+    "TheTeam"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Sandra Sanchez",
   "show": "Mike Tyson Mysteries",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheGhost",
+    "KilledOffForReal",
+    "ForcedTransformation",
+    "GeniusDitz"
+  ],
   "tropes_by_category": {}
 }

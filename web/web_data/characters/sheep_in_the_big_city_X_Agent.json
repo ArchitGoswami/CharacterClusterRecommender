@@ -1,7 +1,15 @@
 {
   "name": "X Agent",
   "show": "Sheep in the Big City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HeelFaceTurn",
+    "SuspiciouslySpecificDenial",
+    "BecomingTheMask",
+    "XtremelyKoolLetterz",
+    "PutOnABus",
+    "UnwantedAssistance",
+    "FurIsClothing"
+  ],
   "tropes_by_category": {}
 }

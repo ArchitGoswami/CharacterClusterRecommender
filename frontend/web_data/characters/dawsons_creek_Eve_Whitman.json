@@ -1,7 +1,19 @@
 {
   "name": "Eve Whitman",
   "show": "Dawson's Creek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MsFanservice",
+    "Expy",
+    "WhatHappenedToTheMouse",
+    "ReplacementFlatCharacter",
+    "FemmeFatale",
+    "UnknownRelative",
+    "TheFriendNobodyLikes",
+    "HiddenDepths",
+    "MeaningfulName",
+    "LampshadeHanging",
+    "LeaningOnTheFourthWall"
+  ],
   "tropes_by_category": {}
 }

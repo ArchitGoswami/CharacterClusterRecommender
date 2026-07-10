@@ -1,7 +1,21 @@
 {
   "name": "Dr. Donald Westphall",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BenevolentBoss",
+    "Mooning",
+    "AFatherToHisMen",
+    "TheFettered",
+    "Southies",
+    "EmptyNest",
+    "TheChainsOfCommanding",
+    "ReasonableAuthorityFigure",
+    "TranquilFury",
+    "VerbalTic",
+    "Mentor",
+    "TakeThisJobAndShoveIt",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

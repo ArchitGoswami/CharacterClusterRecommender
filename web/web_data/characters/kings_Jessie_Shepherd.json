@@ -1,7 +1,9 @@
 {
   "name": "Jessie Shepherd",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AlmightyMom"
+  ],
   "tropes_by_category": {}
 }

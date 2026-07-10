@@ -1,7 +1,20 @@
 {
   "name": "Auntie Yaga",
   "show": "Mysticons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SemiDivine",
+    "SuperGullible",
+    "AdaptationalHeroism",
+    "LockedOutOfTheLoop",
+    "MajorInjuryUnderreaction",
+    "DimensionalTraveler",
+    "NoodleIncident",
+    "Telepathy",
+    "ReallySevenHundredYearsOld",
+    "SassyBlackWoman",
+    "MakeMyMonsterGrow",
+    "PhysicalGod"
+  ],
   "tropes_by_category": {}
 }

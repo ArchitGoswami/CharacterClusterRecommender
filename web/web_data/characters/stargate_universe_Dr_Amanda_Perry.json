@@ -1,7 +1,17 @@
 {
   "name": "Dr. Amanda Perry",
   "show": "Stargate Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GrandTheftMe",
+    "KilledOffForReal",
+    "LoveInterest",
+    "MindScrew",
+    "GhostInTheMachine",
+    "RomancingTheWidow",
+    "CantHaveSexEver",
+    "GenderFlip",
+    "MomentKiller"
+  ],
   "tropes_by_category": {}
 }

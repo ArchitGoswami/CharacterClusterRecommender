@@ -1,7 +1,14 @@
 {
   "name": "Lala Orange",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ThePerfectionist",
+    "AdaptationalJerkass",
+    "PunnyName",
+    "TheFashionista",
+    "PuppyLove",
+    "OnionJohnny"
+  ],
   "tropes_by_category": {}
 }

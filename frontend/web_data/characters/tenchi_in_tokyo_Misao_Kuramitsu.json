@@ -1,7 +1,16 @@
 {
   "name": "Misao Kuramitsu",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheBusCameBack",
+    "BigBrotherInstinct",
+    "LoveEpiphany",
+    "UnderestimatingBadassery",
+    "DudeLooksLikeALady",
+    "SissyVillain",
+    "AntiVillain",
+    "IneffectualSympatheticVillain"
+  ],
   "tropes_by_category": {}
 }

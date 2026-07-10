@@ -1,7 +1,10 @@
 {
   "name": "Tough Toby",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AdaptedOut",
+    "ManlyMan"
+  ],
   "tropes_by_category": {}
 }

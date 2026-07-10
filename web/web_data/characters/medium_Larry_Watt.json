@@ -1,7 +1,12 @@
 {
   "name": "Larry Watt",
   "show": "Medium",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ALighterShadeOfBlack",
+    "ChuckCunninghamSyndrome",
+    "AntagonisticOffspring",
+    "AmoralAttorney"
+  ],
   "tropes_by_category": {}
 }

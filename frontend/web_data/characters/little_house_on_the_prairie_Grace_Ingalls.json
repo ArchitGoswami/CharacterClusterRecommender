@@ -1,7 +1,11 @@
 {
   "name": "Grace Ingalls",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "SpoiledBrat",
+    "TagalongKid",
+    "GenerationXerox"
+  ],
   "tropes_by_category": {}
 }

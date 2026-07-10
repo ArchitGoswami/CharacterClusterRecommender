@@ -1,7 +1,12 @@
 {
   "name": "Jeremy De Sade",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FaceOfAThug",
+    "NamesToRunAwayFromReallyFast",
+    "DepravedDentist",
+    "GoodAllAlong"
+  ],
   "tropes_by_category": {}
 }

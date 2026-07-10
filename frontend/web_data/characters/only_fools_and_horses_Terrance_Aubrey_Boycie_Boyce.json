@@ -1,7 +1,26 @@
 {
   "name": "Terrance Aubrey \"Boycie\" Boyce",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SelfMadeMan",
+    "ContinuitySnarl",
+    "LovableRogue",
+    "SignatureLaugh",
+    "HonestJohnsDealership",
+    "Jerkass",
+    "SmugSnake",
+    "SitcomArchnemesis",
+    "EmbarrassingMiddleName",
+    "BatmanGambit",
+    "GrumpyBear",
+    "SpinOff",
+    "DickDastardlyStopsToCheat",
+    "FriendlyEnemy",
+    "DelayedReaction",
+    "MoralityPet",
+    "UnsympatheticComedyProtagonist",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Inspector Detector (Detective Rokugo)",
   "show": "Speed Racer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "StevenUlyssesPerhero",
+    "FriendOnTheForce",
+    "ReasonableAuthorityFigure",
+    "InterpolSpecialAgent"
+  ],
   "tropes_by_category": {}
 }

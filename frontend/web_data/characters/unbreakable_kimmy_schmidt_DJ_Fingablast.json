@@ -1,7 +1,23 @@
 {
   "name": "DJ Fingablast",
   "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ADayInTheLimelight",
+    "FauxlosophicNarration",
+    "HorribleJudgeOfCharacter",
+    "SignificantMonogram",
+    "TheDitz",
+    "WhatHappenedToTheMouse",
+    "TheCorruptible",
+    "AmbiguouslyJewish",
+    "RebuiltPedestal",
+    "ConnectedAllAlong",
+    "GoldDigger",
+    "GullibleLemmings",
+    "AttractiveBentGender",
+    "OnlyKnownByTheirNickname",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

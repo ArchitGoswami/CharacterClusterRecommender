@@ -1,7 +1,12 @@
 {
   "name": "Daidarabotchi",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "Sizeshifter",
+    "BigLittleBrother",
+    "TheBrute"
+  ],
   "tropes_by_category": {}
 }

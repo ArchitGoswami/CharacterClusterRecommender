@@ -1,7 +1,16 @@
 {
   "name": "Denna",
   "show": "Legend of the Seeker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HeelFaceTurn",
+    "DiesDifferentlyInAdaptation",
+    "AdaptationalVillainy",
+    "HeelFaceDoorSlam",
+    "LightIsNotGood",
+    "VillainessesWantHeroes",
+    "CharacterExaggeration",
+    "AgonyBeam"
+  ],
   "tropes_by_category": {}
 }

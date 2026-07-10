@@ -1,7 +1,12 @@
 {
   "name": "Lisa Asparagus",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EarlyInstallmentWeirdness",
+    "UnnamedParent",
+    "HappilyMarried",
+    "GoodParents"
+  ],
   "tropes_by_category": {}
 }

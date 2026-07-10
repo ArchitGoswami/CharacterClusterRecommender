@@ -1,7 +1,14 @@
 {
   "name": "Mrs. Miggins",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AllLoveIsUnrequited",
+    "DifferentInEveryEpisode",
+    "LethalChef",
+    "TheDitz",
+    "AscendedExtra",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

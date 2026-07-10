@@ -1,7 +1,15 @@
 {
   "name": "Chinchilli Chinchilla",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AlternateTooniverse",
+    "HalfDressedCartoonAnimal",
+    "TheKlutz",
+    "TooDumbToLive",
+    "FunnyAnimal",
+    "ToonPhysics",
+    "WhiteGloves"
+  ],
   "tropes_by_category": {}
 }

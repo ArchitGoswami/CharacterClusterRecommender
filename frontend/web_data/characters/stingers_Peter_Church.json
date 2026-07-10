@@ -1,7 +1,22 @@
 {
   "name": "Peter Church",
   "show": "Stingers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TakingTheBullet",
+    "DaChief",
+    "DeadpanSnarker",
+    "HellBentForLeather",
+    "TenMinuteRetirement",
+    "BackStory",
+    "ManlyTears",
+    "LukeYouAreMyFather",
+    "CowboyCop",
+    "HairTriggerTemper",
+    "PrecisionFStrike",
+    "GoodScarsEvilScars",
+    "CoolCar",
+    "OfficeRomance"
+  ],
   "tropes_by_category": {}
 }

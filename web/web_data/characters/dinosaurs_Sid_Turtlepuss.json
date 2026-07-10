@@ -1,7 +1,13 @@
 {
   "name": "Sid Turtlepuss",
   "show": "Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OnlySixFaces",
+    "SuddenNameChange",
+    "MeaningfulName",
+    "FlatCharacter",
+    "TheGenericGuy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Cameron Parks",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CasanovaWannabe",
+    "OddFriendship",
+    "FoolishSiblingResponsibleSibling",
+    "TheDitz",
+    "TinyGuyHugeGirl",
+    "PutOnABus",
+    "ShipTease",
+    "ChildishOlderSibling",
+    "DumbassTeenageSon",
+    "DemotedToExtra",
+    "TheUnfavourite",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

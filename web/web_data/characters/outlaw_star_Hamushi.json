@@ -1,7 +1,28 @@
 {
   "name": "Hamushi",
   "show": "Outlaw Star",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "FourIsDeath",
+    "InformedAbility",
+    "NoSell",
+    "Underboobs",
+    "ButtMonkey",
+    "BodyHorror",
+    "TheWorfEffect",
+    "AntiMagic",
+    "StealthPun",
+    "EyeObscuringHat",
+    "FemmeFatale",
+    "ArrogantKungFuGuy",
+    "ImplacableMan",
+    "DangerousForbiddenTechnique",
+    "WeHardlyKnewYe",
+    "CombatHandFan",
+    "LadyInRed",
+    "TemptingFate",
+    "CruelAndUnusualDeath",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

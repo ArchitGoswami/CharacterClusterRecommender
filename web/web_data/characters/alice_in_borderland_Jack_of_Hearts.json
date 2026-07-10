@@ -1,7 +1,15 @@
 {
   "name": "Jack of Hearts",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TokenEvilTeammate",
+    "DespairEventHorizon",
+    "MoreHateableMinorVillain",
+    "AssholeVictim",
+    "LoopholeAbuse",
+    "MyRulesAreNotYourRules",
+    "HidingBehindYourBangs"
+  ],
   "tropes_by_category": {}
 }

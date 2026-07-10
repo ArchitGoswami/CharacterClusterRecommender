@@ -1,7 +1,21 @@
 {
   "name": "Nue",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HumansAreBastards",
+    "DisneyVillainDeath",
+    "Jerkass",
+    "MindOverMatter",
+    "TheDreaded",
+    "ForcedTransformation",
+    "SuperStrength",
+    "ArcVillain",
+    "InASingleBound",
+    "BadBoss",
+    "FeatherFlechettes",
+    "DidntSeeThatComing",
+    "SpontaneousWeaponCreation"
+  ],
   "tropes_by_category": {}
 }

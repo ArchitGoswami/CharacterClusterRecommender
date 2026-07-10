@@ -1,7 +1,13 @@
 {
   "name": "Dobbs",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Fainting",
+    "PostVictoryCollapse",
+    "WhatHappenedToTheMouse",
+    "Mook",
+    "ATasteOfTheLash"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Hideo Kuze",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "WellIntentionedExtremist",
+    "AscendedToAHigherPlaneOfExistence",
+    "Ubermensch",
+    "TheChessmaster",
+    "RogueSoldier",
+    "ElitesAreMoreGlamorous",
+    "ImplacableMan",
+    "EvilPlan",
+    "ShellShockedVeteran",
+    "HeelRealization",
+    "FarEastAsianTerrorists",
+    "BigBadEnsemble",
+    "FrozenFace",
+    "AntiVillain",
+    "UnwittingPawn",
+    "ForgottenChildhoodFriend",
+    "BigBadWannabe",
+    "MirrorCharacter",
+    "LightIsGood",
+    "DarkMessiah"
+  ],
   "tropes_by_category": {}
 }

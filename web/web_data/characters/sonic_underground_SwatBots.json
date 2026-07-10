@@ -1,7 +1,13 @@
 {
   "name": "SwatBots",
   "show": "Sonic Underground",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AdaptationalWimp",
+    "OutOfCharacterMoment",
+    "WhatMeasureIsANonHuman",
+    "MadeOfPlasticine",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

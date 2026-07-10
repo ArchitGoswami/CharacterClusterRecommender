@@ -1,7 +1,12 @@
 {
   "name": "Kyle Reese",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Flashback",
+    "HasAType",
+    "PosthumousCharacter",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

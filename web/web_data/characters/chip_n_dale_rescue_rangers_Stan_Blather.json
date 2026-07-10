@@ -1,7 +1,11 @@
 {
   "name": "Stan Blather",
   "show": "Chip 'n Dale Rescue Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "OhCrap",
+    "KentBrockmanNews",
+    "DubNameChange"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Dr. Jeffrey Cole",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheMole",
+    "LethalKlutz",
+    "SuspiciouslySimilarSubstitute",
+    "SingleParentsAreUndesirable",
+    "MellowFellow",
+    "EtTuBrute",
+    "InSeriesNickname",
+    "BewareTheNiceOnes",
+    "DemotedToExtra",
+    "DarkAndTroubledPast",
+    "RewardedAsATraitorDeserves"
+  ],
   "tropes_by_category": {}
 }

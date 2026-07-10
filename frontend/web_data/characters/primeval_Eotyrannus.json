@@ -1,7 +1,11 @@
 {
   "name": "Eotyrannus",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "UndergroundMonkey",
+    "RaptorAttack",
+    "TheHeavy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Aladdin",
   "show": "Aladdin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "GuileHero",
+    "EvenBadMenLoveTheirMamas",
+    "LoveAtFirstSight",
+    "BuriedAlive",
+    "Delinquents",
+    "OnlyTheChosenMayWield",
+    "RagsToRoyalty",
+    "MakeOver",
+    "IdiotBall",
+    "MeaningfulName",
+    "LongLostRelative",
+    "GenieInABottle"
+  ],
   "tropes_by_category": {}
 }

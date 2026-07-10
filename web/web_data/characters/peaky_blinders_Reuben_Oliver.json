@@ -1,7 +1,16 @@
 {
   "name": "Reuben Oliver",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NouveauRiche",
+    "ReclusiveArtist",
+    "GiveGeeksAChance",
+    "NiceGuy",
+    "RomancingTheWidow",
+    "TranquilFury",
+    "PutOnABus",
+    "InsecureLoveInterest"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Mervis and Dunglap",
   "show": "CatDog",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NiceGuy",
+    "MessyPig",
+    "WimpFight",
+    "WickedWeasel",
+    "InformedSpecies",
+    "VitriolicBestBuds",
+    "OnlySaneMan",
+    "DarkHorseVictory"
+  ],
   "tropes_by_category": {}
 }

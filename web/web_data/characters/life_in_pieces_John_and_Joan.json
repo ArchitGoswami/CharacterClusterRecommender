@@ -1,7 +1,17 @@
 {
   "name": "John and Joan",
   "show": "Life in Pieces",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MisterMuffykins",
+    "MyBelovedSmother",
+    "SeriousBusiness",
+    "NightmareFuelStationAttendant",
+    "BumblingDad",
+    "HiddenDepths",
+    "JockDadNerdSon",
+    "RetiredBadass",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

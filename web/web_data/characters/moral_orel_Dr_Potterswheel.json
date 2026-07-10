@@ -1,7 +1,17 @@
 {
   "name": "Dr. Potterswheel",
   "show": "Moral Orel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "NeverMyFault",
+    "BerserkButton",
+    "TheNoseless",
+    "DrJerk",
+    "LackOfEmpathy",
+    "ComicallyIneptHealing",
+    "HiddenDepths",
+    "DrFeelgood",
+    "NightmareFetishist"
+  ],
   "tropes_by_category": {}
 }

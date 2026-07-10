@@ -1,7 +1,17 @@
 {
   "name": "Mushrambo",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "FusionDance",
+    "EyeBeams",
+    "MidSeasonUpgrade",
+    "SuperpoweredEvilSide",
+    "GoodCounterpart",
+    "EverythingsBetterWithSamurai",
+    "GoldenSuperMode",
+    "BrainwashedAndCrazy",
+    "DubPronunciationChange"
+  ],
   "tropes_by_category": {}
 }

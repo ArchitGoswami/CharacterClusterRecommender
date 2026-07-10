@@ -1,7 +1,15 @@
 {
   "name": "Grandma Flutter",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BarefootCartoonAnimal",
+    "AmazingTechnicolorWildlife",
+    "BirthdayEpisode",
+    "GenkiGirl",
+    "GrandparentalAgeDissonance",
+    "AdultsAreMoreAnthropomorphic",
+    "DotingGrandparent"
+  ],
   "tropes_by_category": {}
 }

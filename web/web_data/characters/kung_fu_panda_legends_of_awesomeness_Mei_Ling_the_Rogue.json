@@ -1,7 +1,20 @@
 {
   "name": "Mei Ling the Rogue",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "EvilPlan",
+    "AffablyEvil",
+    "EvilCannotComprehendGood",
+    "HeelFaceTurn",
+    "LoveAtFirstPunch",
+    "Inverted",
+    "FreakyFridayFlip",
+    "CunningLikeAFox",
+    "InterspeciesRomance",
+    "FemmeFatale",
+    "StarCrossedLovers",
+    "ItsAllAboutMe"
+  ],
   "tropes_by_category": {}
 }

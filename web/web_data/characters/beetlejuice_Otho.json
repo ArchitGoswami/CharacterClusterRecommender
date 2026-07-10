@@ -1,7 +1,23 @@
 {
   "name": "Otho",
   "show": "Beetlejuice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "KnowNothingKnowItAll",
+    "ScrewThisImOuttaHere",
+    "KarmaHoudini",
+    "SequelNonEntity",
+    "WhatHappenedToTheMouse",
+    "NakedFreakOut",
+    "ShamefulStrip",
+    "SissyVillain",
+    "HiddenDepths",
+    "AmbiguouslyGay",
+    "IronicHell",
+    "SeriousBusiness",
+    "TooCleverByHalf",
+    "EveryoneHasStandards",
+    "ImpossiblyTackyClothes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Kipper",
   "show": "Kipper",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CheatedAngle",
+    "VocalEvolution",
+    "HeroicDog",
+    "ExplodingCloset",
+    "DubNameChange",
+    "AllLovingHero"
+  ],
   "tropes_by_category": {}
 }

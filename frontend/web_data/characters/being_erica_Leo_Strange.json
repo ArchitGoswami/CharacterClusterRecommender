@@ -1,7 +1,12 @@
 {
   "name": "Leo Strange",
   "show": "Being Erica",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BrokenPedestal",
+    "DoubleStandardRapeMaleOnMale",
+    "PosthumousCharacter",
+    "TheHeart"
+  ],
   "tropes_by_category": {}
 }

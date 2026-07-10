@@ -1,7 +1,21 @@
 {
   "name": "Brain Freezer",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "ArmCannon",
+    "ShoutOut",
+    "PoweredArmor",
+    "StatusQuoIsGod",
+    "AnIcePerson",
+    "Manchild",
+    "InvokedTrope",
+    "TrademarkFavoriteDrink",
+    "PungeonMaster",
+    "ElementalHairComposition",
+    "CardCarryingVillain",
+    "YouNeedToGetLaid"
+  ],
   "tropes_by_category": {}
 }

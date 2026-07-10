@@ -1,7 +1,17 @@
 {
   "name": "Peggy Milbank",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TookALevelInBadass",
+    "Foil",
+    "BerserkButton",
+    "LockedOutOfTheLoop",
+    "NiceGirl",
+    "BadassAdorable",
+    "BewareTheNiceOnes",
+    "KindheartedCatLover",
+    "FryingPanOfDoom"
+  ],
   "tropes_by_category": {}
 }

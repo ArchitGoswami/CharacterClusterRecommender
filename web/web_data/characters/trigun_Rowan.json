@@ -1,7 +1,18 @@
 {
   "name": "Rowan",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "LoveMakesYouCrazy",
+    "SlasherSmile",
+    "IfICantHaveYou",
+    "Yandere",
+    "SpellMyNameWithAnS",
+    "MurderTheHypotenuse",
+    "AxCrazy",
+    "NotGoodWithRejection",
+    "BewareTheNiceOnes",
+    "CanonImmigrant"
+  ],
   "tropes_by_category": {}
 }

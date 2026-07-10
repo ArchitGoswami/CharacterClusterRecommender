@@ -1,7 +1,14 @@
 {
   "name": "Stella Rose",
   "show": "Black Butler",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AristocratsAreEvil",
+    "BlondeBrunetteRedhead",
+    "HairOfGoldHeartOfGold",
+    "TurnTheOtherCheek",
+    "DrivenToSuicide",
+    "GoodWearsWhite"
+  ],
   "tropes_by_category": {}
 }

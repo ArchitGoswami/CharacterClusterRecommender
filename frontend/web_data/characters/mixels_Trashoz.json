@@ -1,7 +1,16 @@
 {
   "name": "Trashoz",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AttentionWhore",
+    "AttentionDeficitOohShiny",
+    "TheQuietOne",
+    "PunnyName",
+    "Cyclops",
+    "ExtremeOmnivore",
+    "ColorCodedForYourConvenience",
+    "StomachOfHolding"
+  ],
   "tropes_by_category": {}
 }

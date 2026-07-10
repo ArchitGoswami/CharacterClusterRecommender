@@ -1,7 +1,10 @@
 {
   "name": "Youko Sasakura",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HotTeacher",
+    "PseudoRomanticFriendship"
+  ],
   "tropes_by_category": {}
 }

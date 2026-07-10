@@ -1,7 +1,16 @@
 {
   "name": "Flaps the Elephant",
   "show": "Bonkers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ContinuitySnarl",
+    "CruelElephant",
+    "AbnormalAmmo",
+    "BerserkButton",
+    "DiminishingVillainThreat",
+    "BrooklynRage",
+    "FatBastard",
+    "IneffectualSympatheticVillain"
+  ],
   "tropes_by_category": {}
 }

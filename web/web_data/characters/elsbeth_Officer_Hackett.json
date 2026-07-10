@@ -1,7 +1,11 @@
 {
   "name": "Officer Hackett",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MarriedToTheJob",
+    "CopeByCreating",
+    "InsultComic"
+  ],
   "tropes_by_category": {}
 }

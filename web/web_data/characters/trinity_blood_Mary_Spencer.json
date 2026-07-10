@@ -1,7 +1,26 @@
 {
   "name": "Mary Spencer",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "OddFriendship",
+    "HeroicSacrifice",
+    "LongLostRelative",
+    "GetAHoldOfYourselfMan",
+    "DramaticIrony",
+    "BadassBoast",
+    "UndyingLoyalty",
+    "TheAce",
+    "BreakTheCutie",
+    "AllForNothing",
+    "BastardBastard",
+    "LivingEmotionalCrutch",
+    "TheMenFirst",
+    "MyGodWhatHaveIDone",
+    "StrongFamilyResemblance",
+    "BrokenAce",
+    "DemotedToExtra",
+    "GiantMecha"
+  ],
   "tropes_by_category": {}
 }

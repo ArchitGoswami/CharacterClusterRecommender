@@ -1,7 +1,11 @@
 {
   "name": "Megan Donner",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AdvertisedExtra",
+    "TheMourningAfter",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

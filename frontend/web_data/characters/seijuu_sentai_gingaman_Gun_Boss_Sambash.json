@@ -1,7 +1,28 @@
 {
   "name": "Gun Boss Sambash",
   "show": "Seijuu Sentai Gingaman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "Foil",
+    "RecklessGunUsage",
+    "AnimalMotifs",
+    "TheStarscream",
+    "PropRecycling",
+    "WolfWhistle",
+    "PushyGunTotingVillain",
+    "DecompositeCharacter",
+    "AllForNothing",
+    "HotBlooded",
+    "NobleDemon",
+    "VillainousBreakdown",
+    "TakingYouWithMe",
+    "BigCreepyCrawlies",
+    "BoisterousWeakling",
+    "HateSink",
+    "ThemeNaming",
+    "ActorAllusion",
+    "AllBikersAreHellsAngels",
+    "BadassBiker"
+  ],
   "tropes_by_category": {}
 }

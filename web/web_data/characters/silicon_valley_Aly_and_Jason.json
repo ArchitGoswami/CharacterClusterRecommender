@@ -1,7 +1,13 @@
 {
   "name": "Aly and Jason",
   "show": "Silicon Valley",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ThoseTwoGuys",
+    "TheBusCameBack",
+    "Jerkass",
+    "ScrewThisImOuttaHere",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

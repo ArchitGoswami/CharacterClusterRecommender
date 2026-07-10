@@ -1,7 +1,14 @@
 {
   "name": "Ellison",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ShoutOut",
+    "KillAndReplace",
+    "InspectorJavert",
+    "AsTheGoodBookSays",
+    "SkepticNoLonger",
+    "VillainousRescue"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,29 @@
 {
   "name": "Mum",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "AdaptationalAttractiveness",
+    "SuddenlyShouting",
+    "MamaDidntRaiseNoCriminal",
+    "DoesNotLikeSpam",
+    "UnreliableNarrator",
+    "EveryoneHasStandards",
+    "AbusiveParents",
+    "FreudianExcuse",
+    "JerkWithAHeartOfGold",
+    "AdaptationalJerkass",
+    "TookALevelInJerkass",
+    "JerkassHasAPoint",
+    "OnlySaneWoman",
+    "WhereDidWeGoWrong",
+    "ParentalFavoritism",
+    "Catchphrase",
+    "SickEpisode",
+    "ParentalFavouritism",
+    "CorruptedCharacterCopy",
+    "PhraseCatcher",
+    "SlaveryIsASpecialKindOfEvil"
+  ],
   "tropes_by_category": {}
 }

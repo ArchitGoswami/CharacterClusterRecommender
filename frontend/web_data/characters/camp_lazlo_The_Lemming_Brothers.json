@@ -1,7 +1,16 @@
 {
   "name": "The Lemming Brothers",
   "show": "Camp Lazlo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AlliterativeFamily",
+    "AmazingTechnicolorWildlife",
+    "RecurringExtra",
+    "InformedSpecies",
+    "AlwaysIdenticalTwins",
+    "FlatCharacter",
+    "DemotedToExtra",
+    "AnimalStereotypes"
+  ],
   "tropes_by_category": {}
 }

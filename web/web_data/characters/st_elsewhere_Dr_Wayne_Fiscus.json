@@ -1,7 +1,25 @@
 {
   "name": "Dr. Wayne Fiscus",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "ThoseTwoGuys",
+    "BigApplesauce",
+    "AllLoveIsUnrequited",
+    "GallowsHumor",
+    "AllMenArePerverts",
+    "AmazinglyEmbarrassingParents",
+    "LikeBrotherAndSister",
+    "ManlyTears",
+    "BigBrotherMentor",
+    "ArchEnemy",
+    "TookALevelInCynic",
+    "DeadPersonConversation",
+    "TheStoner",
+    "BigDamnHeroes",
+    "LookingForLoveInAllTheWrongPlaces",
+    "JewishMother",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

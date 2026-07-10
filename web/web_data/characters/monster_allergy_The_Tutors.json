@@ -1,7 +1,30 @@
 {
   "name": "The Tutors",
   "show": "Monster Allergy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "TheSmurfettePrinciple",
+    "Foil",
+    "CatsAreMean",
+    "OnlyKnownByTheirNickname",
+    "EveryoneHasStandards",
+    "JerkWithAHeartOfGold",
+    "SurroundedByIdiots",
+    "Jerkass",
+    "GoodIsNotNice",
+    "MentorMascot",
+    "TyrantTakesTheHelm",
+    "ExtremeDoormat",
+    "NoIndoorVoice",
+    "TheBusCameBack",
+    "PutOnABus",
+    "BigDamnHeroes",
+    "SeenItAll",
+    "DrillSergeantNasty",
+    "NoodleIncident",
+    "AlliterativeName",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

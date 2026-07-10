@@ -1,7 +1,15 @@
 {
   "name": "Popo the Preaching Gorilla",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SurrealHumor",
+    "Expy",
+    "MobileSuitHuman",
+    "SurrealHorror",
+    "BestialityIsDepraved",
+    "EasyEvangelism",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

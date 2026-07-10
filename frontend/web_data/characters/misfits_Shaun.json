@@ -1,7 +1,22 @@
 {
   "name": "Shaun",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DeadpanSnarker",
+    "InUniverse",
+    "Jerkass",
+    "PetTheDog",
+    "ItMakesSenseInContext",
+    "DroppedABridgeOnHim",
+    "ScrewThisImOuttaHere",
+    "KickTheDog",
+    "PunchClockVillain",
+    "TheStoic",
+    "ObviousJudas",
+    "CheshireCatGrin",
+    "SociopathicSoldier",
+    "ItsProbablyNothing"
+  ],
   "tropes_by_category": {}
 }

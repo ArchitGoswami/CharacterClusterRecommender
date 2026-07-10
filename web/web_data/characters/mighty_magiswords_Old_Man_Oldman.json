@@ -1,7 +1,16 @@
 {
   "name": "Old Man Oldman",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolOldGuy",
+    "MundaneUtility",
+    "DepartmentOfRedundancyDepartment",
+    "GagNose",
+    "HarmlessVillain",
+    "SpeaksFluentAnimal",
+    "DisproportionateRetribution",
+    "CloudCuckoolander"
+  ],
   "tropes_by_category": {}
 }

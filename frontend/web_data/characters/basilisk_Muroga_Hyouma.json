@@ -1,7 +1,31 @@
 {
   "name": "Muroga Hyouma",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "PowerIncontinence",
+    "WaxOnWaxOff",
+    "DisabledInTheAdaptation",
+    "StrongAndSkilled",
+    "PsychicAssistedSuicide",
+    "ParentalSubstitute",
+    "AbledInTheAdaptation",
+    "FamilyUnfriendlyDeath",
+    "DeathGlare",
+    "MasterSwordsman",
+    "HandicappedBadass",
+    "TheStrategist",
+    "AdaptationalNiceGuy",
+    "BlindWeaponmaster",
+    "HiddenDepths",
+    "MentorArchetype",
+    "MasterOfAll",
+    "FaceDeathWithDignity",
+    "CoolUncle",
+    "StoryBreakerPower",
+    "DiedStandingUp",
+    "BewareTheNiceOnes",
+    "DidntSeeThatComing"
+  ],
   "tropes_by_category": {}
 }

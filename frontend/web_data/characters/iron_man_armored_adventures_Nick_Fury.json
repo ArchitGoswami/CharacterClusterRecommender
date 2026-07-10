@@ -1,7 +1,13 @@
 {
   "name": "Nick Fury",
   "show": "Iron Man: Armored Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Jerkass",
+    "CompositeCharacter",
+    "BadassNormal",
+    "TookALevelInKindness",
+    "EyepatchOfPower"
+  ],
   "tropes_by_category": {}
 }

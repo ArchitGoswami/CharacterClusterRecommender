@@ -1,7 +1,12 @@
 {
   "name": "David Dixon",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "RememberTheNewGuy",
+    "FreezeFrameBonus",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

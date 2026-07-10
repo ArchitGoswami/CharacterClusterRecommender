@@ -1,7 +1,15 @@
 {
   "name": "Reggie Sawyer",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AssholeVictim",
+    "HateSink",
+    "DomesticAbuser",
+    "KarmicDeath",
+    "TheBabyTrap",
+    "RapeIsASpecialKindOfEvil",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

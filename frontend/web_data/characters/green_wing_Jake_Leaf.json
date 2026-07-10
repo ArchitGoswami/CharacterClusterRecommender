@@ -1,7 +1,16 @@
 {
   "name": "Jake Leaf",
   "show": "Green Wing",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "WhatTheHellHero",
+    "ThirdOptionLoveInterest",
+    "SuddenlyShouting",
+    "TranquilFury",
+    "GranolaGirl",
+    "HeterosexualLifePartners",
+    "RomanticFalseLead",
+    "LongHairIsFeminine"
+  ],
   "tropes_by_category": {}
 }

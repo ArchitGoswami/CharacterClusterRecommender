@@ -1,7 +1,13 @@
 {
   "name": "Side Characters",
   "show": "Quack Pack",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CloudCuckooLand",
+    "SupremeChef",
+    "FunnyForeigner",
+    "DeusExMachina",
+    "ExtremeOmnivore"
+  ],
   "tropes_by_category": {}
 }

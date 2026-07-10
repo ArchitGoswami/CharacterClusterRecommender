@@ -1,7 +1,23 @@
 {
   "name": "The Aeon Worm",
   "show": "Bravest Warriors",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "SuddenlyVoiced",
+    "SandWorm",
+    "EvilSoundsDeep",
+    "StrongerWithAge",
+    "GreaterScopeVillain",
+    "EldritchAbomination",
+    "ReligionOfEvil",
+    "AttackOfThe50FootWhatever",
+    "YouCannotGraspTheTrueForm",
+    "SealedEvilInADuel",
+    "SealedEvilInACan",
+    "WeaksauceWeakness",
+    "TheVoiceless",
+    "MoreTeethThanTheOsmondFamily",
+    "CompellingVoice"
+  ],
   "tropes_by_category": {}
 }

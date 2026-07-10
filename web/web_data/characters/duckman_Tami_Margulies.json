@@ -1,7 +1,15 @@
 {
   "name": "Tami Margulies",
   "show": "Duckman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "UncannyValleyGirl",
+    "AxCrazy",
+    "InkSuitActor",
+    "NightmareFace",
+    "WouldHurtAChild",
+    "VileVillainSaccharineShow",
+    "NotQuiteDead"
+  ],
   "tropes_by_category": {}
 }

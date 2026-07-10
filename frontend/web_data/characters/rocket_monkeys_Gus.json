@@ -1,7 +1,27 @@
 {
   "name": "Gus",
   "show": "Rocket Monkeys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "IdiotHair",
+    "FoolishSiblingResponsibleSibling",
+    "ApologizesALot",
+    "InferioritySuperiorityComplex",
+    "BigBrotherInstinct",
+    "HeroicBSOD",
+    "BirthdayHater",
+    "TookALevelInDumbass",
+    "VocalDissonance",
+    "ItsAllAboutMe",
+    "TriggerPhrase",
+    "MilesGloriosus",
+    "FriendlessBackground",
+    "SensitiveGuyAndManlyMan",
+    "IdiotBall",
+    "AbhorrentAdmirer",
+    "BigBrotherBully",
+    "Gasshole",
+    "AdaptationPersonalityChange"
+  ],
   "tropes_by_category": {}
 }

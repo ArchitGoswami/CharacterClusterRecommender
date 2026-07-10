@@ -1,7 +1,11 @@
 {
   "name": "Aunt Effie Harper",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "EmbarrassingHospitalGown",
+    "AscendedExtra",
+    "PlayingSick"
+  ],
   "tropes_by_category": {}
 }

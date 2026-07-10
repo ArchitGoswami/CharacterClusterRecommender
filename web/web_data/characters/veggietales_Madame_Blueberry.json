@@ -1,7 +1,15 @@
 {
   "name": "Madame Blueberry",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SpeciesSurname",
+    "TrueBlueFemininity",
+    "MeaningfulName",
+    "FrenchJerk",
+    "VanityIsFeminine",
+    "AdaptationalNationality",
+    "GratuitousFrench"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Krit and Syl",
   "show": "Dark Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "WhatTheHellHero",
+    "UnseenNoMore",
+    "TheCavalry",
+    "CainAndAbel",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

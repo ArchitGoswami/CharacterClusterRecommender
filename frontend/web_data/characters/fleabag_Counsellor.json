@@ -1,7 +1,13 @@
 {
   "name": "Counsellor",
   "show": "Fleabag",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ArmorPiercingQuestion",
+    "BrutalHonesty",
+    "ActorAllusion",
+    "NotSoStoic",
+    "TheShrink"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Maria Serrano",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "NeverGoingBackToPrison"
+  ],
   "tropes_by_category": {}
 }

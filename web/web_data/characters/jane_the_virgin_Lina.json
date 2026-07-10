@@ -1,7 +1,28 @@
 {
   "name": "Lina",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "MsFanservice",
+    "BookDumb",
+    "DeadpanSnarker",
+    "OppositesAttract",
+    "BrutalHonesty",
+    "SatelliteCharacter",
+    "HiddenDepths",
+    "ReallyGetsAround",
+    "BigApplesauce",
+    "PutOnABus",
+    "CommutingOnABus",
+    "TheFashionista",
+    "LargeHam",
+    "OddFriendship",
+    "HugeSchoolgirl",
+    "HardDrinkingPartyGirl",
+    "CelebrityParadox",
+    "HeterosexualLifePartners",
+    "ChildhoodFriends",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

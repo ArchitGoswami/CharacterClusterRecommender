@@ -1,7 +1,12 @@
 {
   "name": "Yuji Kishida",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ScrewedByTheLawyers",
+    "EarlyBirdCameo",
+    "YouDontLookLikeYou",
+    "InSeriesNickname"
+  ],
   "tropes_by_category": {}
 }

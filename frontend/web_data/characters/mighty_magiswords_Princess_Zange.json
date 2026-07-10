@@ -1,7 +1,19 @@
 {
   "name": "Princess Zange",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "Catchphrase",
+    "Leitmotif",
+    "PrincessesRule",
+    "ReasonableAuthorityFigure",
+    "BigGood",
+    "SmarterThanYouLook",
+    "SecretTestOfCharacter",
+    "ValleyGirl",
+    "TricksterMentor",
+    "ModestRoyalty"
+  ],
   "tropes_by_category": {}
 }

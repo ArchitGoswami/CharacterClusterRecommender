@@ -1,7 +1,17 @@
 {
   "name": "Hermia",
   "show": "Princess Tutu",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OfficialCouple",
+    "HugeSchoolgirl",
+    "FaceOfAThug",
+    "MotorMouth",
+    "ShoutOutThemeNaming",
+    "SingleWomanSeeksGoodMan",
+    "CannotSpitItOut",
+    "DamselInDistress",
+    "PlayingCyrano"
+  ],
   "tropes_by_category": {}
 }

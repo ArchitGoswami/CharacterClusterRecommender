@@ -1,7 +1,23 @@
 {
   "name": "Red Butler",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CatchPhrase",
+    "DarkIsNotEvil",
+    "AdaptationalHairstyleChange",
+    "FieryRedhead",
+    "TheLeader",
+    "ThoseTwoGuys",
+    "TheLancer",
+    "BadassCape",
+    "PunnyName",
+    "RedIsViolent",
+    "NumberTwo",
+    "TheCharmer",
+    "Pride",
+    "AdaptationNameChange",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

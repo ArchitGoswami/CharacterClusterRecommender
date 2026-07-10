@@ -1,7 +1,16 @@
 {
   "name": "Hannah Keating",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Blackmail",
+    "ObnoxiousInLaws",
+    "BrotherSisterIncest",
+    "EvenEvilHasLovedOnes",
+    "KickTheDog",
+    "DrivenToSuicide",
+    "ManipulativeBitch",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

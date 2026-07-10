@@ -1,7 +1,20 @@
 {
   "name": "Paula Souwauski",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "IceQueen",
+    "RedOniBlueOni",
+    "TheLancer",
+    "LadyOfWar",
+    "DefrostingIceQueen",
+    "UndyingLoyalty",
+    "NumberTwo",
+    "TriggerHappy",
+    "BashBrothers",
+    "CharlesAtlasSuperpower",
+    "HyperCompetentSidekick",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

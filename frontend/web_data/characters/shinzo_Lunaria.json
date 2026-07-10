@@ -1,7 +1,9 @@
 {
   "name": "Lunaria",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheUnfought"
+  ],
   "tropes_by_category": {}
 }

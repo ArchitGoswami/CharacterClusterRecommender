@@ -1,7 +1,17 @@
 {
   "name": "Dr. Eliot Axelrod",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "KilledOffForReal",
+    "TookALevelInCynic",
+    "NiceGuy",
+    "Adorkable",
+    "BigEater",
+    "BewaretheNiceOnes",
+    "SkilledButNaive",
+    "MoralityPet",
+    "HollywoodPudgy"
+  ],
   "tropes_by_category": {}
 }

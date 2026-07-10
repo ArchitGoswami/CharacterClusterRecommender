@@ -1,7 +1,19 @@
 {
   "name": "Emily",
   "show": "Little Bear",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "PutOnTheBus",
+    "Leitmotif",
+    "SickEpisode",
+    "TokenHuman",
+    "TomboyAndGirlyGirl",
+    "TrueBlueFemininity",
+    "CoolBigSis",
+    "NiceGirl",
+    "TheSixthRanger",
+    "DemotedToExtra",
+    "CompanionCube"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Windy Mc Cloud",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "PunnyName"
+  ],
   "tropes_by_category": {}
 }

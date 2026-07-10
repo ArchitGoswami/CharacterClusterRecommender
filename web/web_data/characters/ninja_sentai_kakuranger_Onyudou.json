@@ -1,7 +1,18 @@
 {
   "name": "Onyudou",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MadArtist",
+    "NoOntologicalInertia",
+    "SpoiledBrat",
+    "MasterOfIllusion",
+    "MindOverMatter",
+    "PersonOfMassDestruction",
+    "ShrinkRay",
+    "HoistByHisOwnPetard",
+    "ModelPlanning",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

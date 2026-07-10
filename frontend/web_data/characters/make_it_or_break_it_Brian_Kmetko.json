@@ -1,7 +1,9 @@
 {
   "name": "Brian Kmetko",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "DisappearedDad"
+  ],
   "tropes_by_category": {}
 }

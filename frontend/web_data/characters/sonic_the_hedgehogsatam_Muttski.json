@@ -1,7 +1,14 @@
 {
   "name": "Muttski",
   "show": "Sonic the Hedgehog(SatAM)",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "AngryGuardDog",
+    "BigFriendlyDog",
+    "FurryConfusion",
+    "FightingFromTheInside",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

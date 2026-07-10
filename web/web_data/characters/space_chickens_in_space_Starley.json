@@ -1,7 +1,29 @@
 {
   "name": "Starley",
   "show": "Space Chickens in Space",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "BerserkButton",
+    "IHaveNoSon",
+    "TomboyandGirlyGirl",
+    "ChildishOlderSibling",
+    "FatalFlaw",
+    "SilkHidingSteel",
+    "AllLovingHero",
+    "WomenAreWiser",
+    "BadassAdorable",
+    "Cloudcuckoolander",
+    "GenkiGirl",
+    "BigSisterBully",
+    "HairTriggerTemper",
+    "MiddleChildSyndrome",
+    "UnstoppableRage",
+    "UnintentionallyKarmic",
+    "BigSisterInstinct",
+    "CoolBigSis",
+    "BewareTheNiceOnes",
+    "NiceGirl",
+    "TheCutie"
+  ],
   "tropes_by_category": {}
 }

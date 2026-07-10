@@ -1,7 +1,21 @@
 {
   "name": "Streex",
   "show": "Street Sharks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CasanovaWannabe",
+    "TheCasanova",
+    "Catchphrase",
+    "ConspicuousGloves",
+    "AllDrummersAreAnimals",
+    "UglyCute",
+    "SmallNameBigEgo",
+    "ArtisticLicenseBiology",
+    "BoisterousBruiser",
+    "VocalDissonance",
+    "WolverineClaws",
+    "BadassBiker",
+    "RollerbladeGood"
+  ],
   "tropes_by_category": {}
 }

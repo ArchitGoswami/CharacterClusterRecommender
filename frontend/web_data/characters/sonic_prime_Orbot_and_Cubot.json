@@ -1,7 +1,10 @@
 {
   "name": "Orbot and Cubot",
   "show": "Sonic Prime",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BackForTheFinale",
+    "ContinuityCameo"
+  ],
   "tropes_by_category": {}
 }

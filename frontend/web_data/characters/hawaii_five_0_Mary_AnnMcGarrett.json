@@ -1,7 +1,13 @@
 {
   "name": "Mary AnnMcGarrett",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DaddyHadAGoodReasonForAbandoningYou",
+    "DaddysGirl",
+    "HappilyAdopted",
+    "MissingMom",
+    "NoodleIncident"
+  ],
   "tropes_by_category": {}
 }

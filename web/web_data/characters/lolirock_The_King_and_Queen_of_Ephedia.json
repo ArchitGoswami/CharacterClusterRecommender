@@ -1,7 +1,19 @@
 {
   "name": "The King and Queen of Ephedia",
   "show": "Lolirock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "StatuesqueStunner",
+    "BigBad",
+    "TheStoic",
+    "TheHighQueen",
+    "GoodParents",
+    "CreepyMonotone",
+    "LightIsGood",
+    "ParentalAbandonment",
+    "TheGoodKing",
+    "RulingCouple",
+    "RoseHairedSweetie"
+  ],
   "tropes_by_category": {}
 }

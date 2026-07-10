@@ -1,7 +1,15 @@
 {
   "name": "Mammal",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AllThereInTheManual",
+    "WackyWaysideTribe",
+    "EvilEggEater",
+    "InformedSpecies",
+    "RogerRabbitEffect",
+    "AnachronismStew",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

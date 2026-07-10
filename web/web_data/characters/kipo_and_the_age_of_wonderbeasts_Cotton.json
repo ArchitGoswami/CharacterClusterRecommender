@@ -1,7 +1,21 @@
 {
   "name": "Cotton",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ADogNamedDog",
+    "TheRockStar",
+    "LoudOfWar",
+    "NoSell",
+    "TheRival",
+    "CommonalityConnection",
+    "MultipurposeTongue",
+    "MixAndMatchCritters",
+    "TheLadette",
+    "WouldHurtAChild",
+    "AnimalSpeciesAccent",
+    "BloodKnight",
+    "PrehensileTail"
+  ],
   "tropes_by_category": {}
 }

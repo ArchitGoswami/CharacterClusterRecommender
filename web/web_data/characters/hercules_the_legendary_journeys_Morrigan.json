@@ -1,7 +1,21 @@
 {
   "name": "Morrigan",
   "show": "Hercules: The Legendary Journeys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "YouKillItYouBoughtIt",
+    "AdaptationalWimp",
+    "IWantMyBelovedToBeHappy",
+    "DistaffCounterpart",
+    "MyGreatestFailure",
+    "DecompositeCharacter",
+    "IHaveYourWife",
+    "BatmanGambit",
+    "NiceJobFixingItVillain",
+    "CruelAndUnusualDeath",
+    "NotSoDifferentRemark",
+    "EvilCounterpart"
+  ],
   "tropes_by_category": {}
 }

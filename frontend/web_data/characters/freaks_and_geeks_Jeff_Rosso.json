@@ -1,7 +1,29 @@
 {
   "name": "Jeff Rosso",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "CoolTeacher",
+    "NiceGuy",
+    "AmbiguousCriminalHistory",
+    "CrazyPrepared",
+    "CoolCar",
+    "WhenIWasYourAge",
+    "AdultsAreUseless",
+    "HeCleansUpNicely",
+    "HiddenDepths",
+    "FirstNameBasis",
+    "MistakenForGay",
+    "BunnyEarsLawyer",
+    "LargeAndInCharge",
+    "ObfuscatingStupidity",
+    "TotallyRadical",
+    "PoliticallyMotivatedTeacher",
+    "HippieTeacher",
+    "ReasonableAuthorityFigure",
+    "HonorBeforeReason",
+    "PsychologistTeacher",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

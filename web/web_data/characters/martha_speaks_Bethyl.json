@@ -1,7 +1,10 @@
 {
   "name": "Bethyl",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NoFullNameGiven",
+    "SatelliteCharacter"
+  ],
   "tropes_by_category": {}
 }

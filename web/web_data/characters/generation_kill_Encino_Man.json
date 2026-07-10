@@ -1,7 +1,13 @@
 {
   "name": "Encino Man",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Inverted",
+    "EpicFail",
+    "TooDumbToLive",
+    "DumbJock",
+    "LethallyStupid"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Yuuki Matsuoka",
   "show": "Boys Over Flowers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BetterAsFriends",
+    "ImportantHaircut",
+    "ShipTease"
+  ],
   "tropes_by_category": {}
 }

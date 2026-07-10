@@ -1,7 +1,9 @@
 {
   "name": "Mr. Hanson",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TeacherStudentRomance"
+  ],
   "tropes_by_category": {}
 }

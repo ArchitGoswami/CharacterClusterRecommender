@@ -1,7 +1,10 @@
 {
   "name": "Trudy",
   "show": "Pinky and the Brain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "FurryFemaleMane",
+    "HumanoidFemaleAnimal"
+  ],
   "tropes_by_category": {}
 }

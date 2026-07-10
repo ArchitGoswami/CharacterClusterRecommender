@@ -1,7 +1,28 @@
 {
   "name": "Joe Dawson",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "PermaStubble",
+    "DisabledCharacterDisabledActor",
+    "DefiantToTheEnd",
+    "BondOneLiner",
+    "CoolOldGuy",
+    "GangstaStyle",
+    "HandicappedBadass",
+    "BadassNormal",
+    "SemperFi",
+    "Muggles",
+    "OnceDoneNeverForgotten",
+    "MyGreatestFailure",
+    "FireforgedFriends",
+    "PapaWolf",
+    "FaceDeathWithDignity",
+    "ToBeLawfulOrGood",
+    "TheWatcher",
+    "MrExposition",
+    "NiceJobBreakingItHero",
+    "CollateralDamage"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Jeannie Steinman",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DistaffCounterpart",
+    "FallingInLoveMontage"
+  ],
   "tropes_by_category": {}
 }

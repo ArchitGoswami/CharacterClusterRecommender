@@ -1,7 +1,20 @@
 {
   "name": "Officer Dibble",
   "show": "Top Cat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HeroAntagonist",
+    "JerkWithAHeartOfGold",
+    "TenMinuteRetirement",
+    "FriendlyEnemies",
+    "TheFettered",
+    "CrouchingMoronHiddenBadass",
+    "ButtMonkey",
+    "OOCIsSeriousBusiness",
+    "VitriolicBestBuds",
+    "ByTheBookCop",
+    "CantLiveWithThemCantLiveWithoutThem",
+    "MeddlesomePatrolman"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Gary",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "GentlemanSnarker",
+    "AllMenArePerverts",
+    "BreakTheHaughty",
+    "Jerkass",
+    "KarmaHoudini",
+    "LoungeLizard",
+    "InsufferableGenius",
+    "BewareTheNiceOnes",
+    "CompensatingForSomething",
+    "Troll",
+    "SmugSnake",
+    "JerkJock",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

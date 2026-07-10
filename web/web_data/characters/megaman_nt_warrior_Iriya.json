@@ -1,7 +1,14 @@
 {
   "name": "Iriya",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WickedCultured",
+    "KarmaHoudini",
+    "Samurai",
+    "EverythingsBetterWithSamurai",
+    "EvenEvilHasStandards",
+    "EvilFormerFriend"
+  ],
   "tropes_by_category": {}
 }

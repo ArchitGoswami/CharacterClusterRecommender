@@ -1,7 +1,17 @@
 {
   "name": "Billie Young",
   "show": "Night Court",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ScrewTheRulesImDoingWhatsRight",
+    "InappropriatelyCloseComrades",
+    "ChuckCunninghamSyndrome",
+    "MisplacedKindergartenTeacher",
+    "SuspiciouslySimilarSubstitute",
+    "PutOnABus",
+    "ShipSinking",
+    "HotBlooded",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

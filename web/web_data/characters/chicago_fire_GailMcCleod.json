@@ -1,7 +1,18 @@
 {
   "name": "GailMcCleod",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ShutUpHannibal",
+    "NearVillainVictory",
+    "DeathGlare",
+    "VillainousBreakdown",
+    "TranquilFury",
+    "PersonaNonGrata",
+    "GetOut",
+    "FlatWhat",
+    "SmugSnake",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

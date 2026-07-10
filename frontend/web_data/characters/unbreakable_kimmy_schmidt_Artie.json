@@ -1,7 +1,19 @@
 {
   "name": "Artie",
   "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "YourDaysAreNumbered",
+    "UnclePennybags",
+    "OppositesAttract",
+    "NiceGuy",
+    "Foil",
+    "KilledOffScreen",
+    "BelligerentSexualTension",
+    "MeaningfulName",
+    "TheTapeKnewYouWouldSayThat",
+    "DecemberDecemberRomance"
+  ],
   "tropes_by_category": {}
 }

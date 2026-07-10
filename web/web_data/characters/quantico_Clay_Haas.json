@@ -1,7 +1,17 @@
 {
   "name": "Clay Haas",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SiblingYinYang",
+    "BigBrotherInstinct",
+    "TheLeader",
+    "FoolishSiblingResponsibleSibling",
+    "AnnoyingYoungerSibling",
+    "AloofOlderBrother",
+    "Nepotism",
+    "UnresolvedSexualTension",
+    "SiblingTriangle"
+  ],
   "tropes_by_category": {}
 }

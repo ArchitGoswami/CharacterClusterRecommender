@@ -1,7 +1,31 @@
 {
   "name": "Twayne Boneraper",
   "show": "Ugly Americans",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "ScaryBlackMan",
+    "Pun",
+    "CampStraight",
+    "CasanovaWannabe",
+    "GentleGiant",
+    "Jerkass",
+    "ManChild",
+    "ArrangedMarriage",
+    "Manchild",
+    "KickTheDog",
+    "CannotTellAJoke",
+    "HiddenDepths",
+    "PetTheDog",
+    "CrouchingMoronHiddenBadass",
+    "VillainProtagonist",
+    "AbhorrentAdmirer",
+    "BlackAndNerdy",
+    "PointyHairedBoss",
+    "BewareTheSillyOnes",
+    "IdiotHoudini",
+    "TookALevelInKindness",
+    "BadBoss",
+    "VetinariJobSecurity"
+  ],
   "tropes_by_category": {}
 }

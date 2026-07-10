@@ -1,7 +1,20 @@
 {
   "name": "Martin Goodman",
   "show": "Friday Night Dinner",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AllJewsAreCheapskates",
+    "Catchphrase",
+    "AmazinglyEmbarrassingParents",
+    "RunningGag",
+    "NoSocialSkills",
+    "SitcomCharacterArchetypes",
+    "ObliquelyObfuscatedOccupation",
+    "FanDisservice",
+    "CallingTheOldWomanOut",
+    "ExtremeDoormat",
+    "Cloudcuckoolander",
+    "DitzyGenius"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Reiko \"Autumn\" Makigami",
   "show": "Infinite Stratos",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HoistByHisOwnPetard",
+    "SpiderPeople",
+    "SparedByTheAdaptation",
+    "MonsterThreatExpiration",
+    "PsychoForHire",
+    "ManipulativeBastard",
+    "ClickHello",
+    "AxCrazy",
+    "PsychoLesbian",
+    "PunchedAcrossTheRoom",
+    "HoneyTrap",
+    "SpidersAreScary",
+    "GrandTheftPrototype"
+  ],
   "tropes_by_category": {}
 }

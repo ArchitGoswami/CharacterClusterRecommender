@@ -1,7 +1,17 @@
 {
   "name": "Tamao Kikunoi",
   "show": "The Wallflower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LoveAtFirstSight",
+    "PerfectlyArrangedMarriage",
+    "FormalCharactersUseKeigo",
+    "HairOfGoldHeartOfGold",
+    "Ojou",
+    "LadykillerInLove",
+    "YamatoNadeshiko",
+    "NiceGirl",
+    "LoveHurts"
+  ],
   "tropes_by_category": {}
 }

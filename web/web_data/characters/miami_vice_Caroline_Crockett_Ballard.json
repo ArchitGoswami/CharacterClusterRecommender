@@ -1,7 +1,18 @@
 {
   "name": "Caroline Crockett Ballard",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheBusCameBack",
+    "ParentWithNewParamour",
+    "WhatTheHellHero",
+    "ShipTease",
+    "SpannerInTheWorks",
+    "MyGodWhatHaveIDone",
+    "DamselInDistress",
+    "AmicableExes",
+    "TheOneThatGotAway",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Dr. Arastoo Viziri",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BigBrotherInstinct",
+    "NiceGuy",
+    "Tsundere",
+    "HumiliationConga",
+    "AccentSlipUp",
+    "SurpassedTheTeacher",
+    "Fauxreigner",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

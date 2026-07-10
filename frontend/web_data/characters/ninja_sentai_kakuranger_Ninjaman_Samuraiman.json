@@ -1,7 +1,25 @@
 {
   "name": "Ninjaman/Samuraiman",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "OneWingedAngel",
+    "ShoutOut",
+    "HeroicBSOD",
+    "HighlyVisibleNinja",
+    "BerserkButton",
+    "FinishingMove",
+    "FriendToAllChildren",
+    "VoluntaryShapeshifting",
+    "KamehameHadoken",
+    "SpannerInTheWorks",
+    "SamuraiShinobi",
+    "Sizeshifter",
+    "BroughtToYouByTheLetterS",
+    "SixthRanger",
+    "HotBlooded",
+    "ThrowItIn",
+    "UnstoppableRage"
+  ],
   "tropes_by_category": {}
 }

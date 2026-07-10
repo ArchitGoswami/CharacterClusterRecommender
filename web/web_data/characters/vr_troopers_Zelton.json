@@ -1,7 +1,12 @@
 {
   "name": "Zelton",
   "show": "VR Troopers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "KillerRobot",
+    "CoDragons",
+    "AllYourPowersCombined",
+    "NobleTopEnforcer"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "RoxyBuckley",
   "show": "Insatiable",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BeautyContest",
+    "SouthernBelle",
+    "DisappearedDad"
+  ],
   "tropes_by_category": {}
 }

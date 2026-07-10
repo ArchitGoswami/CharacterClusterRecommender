@@ -1,7 +1,18 @@
 {
   "name": "Armadillo Dave",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "YouRemindMeOfX",
+    "TheKlutz",
+    "SuperZeroes",
+    "ArchEnemy",
+    "NerdGlasses",
+    "StoneWall",
+    "TheScrappy",
+    "BlindWithoutEm",
+    "WhatKindOfLamePowerIsHeartAnyway",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

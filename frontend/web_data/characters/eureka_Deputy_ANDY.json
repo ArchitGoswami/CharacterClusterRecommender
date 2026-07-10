@@ -1,7 +1,21 @@
 {
   "name": "Deputy ANDY",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SherlockScan",
+    "RidiculouslyHumanRobots",
+    "AndroidsAndDetectives",
+    "RoboRomance",
+    "TheNthDoctor",
+    "MajorInjuryUnderreaction",
+    "OOCIsSeriousBusiness",
+    "CannotTellALie",
+    "MeaningfulName",
+    "BenevolentAI",
+    "InUniverse",
+    "PlayedForLaughs",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Smiler",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "IronicNickname",
+    "ButtMonkey",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

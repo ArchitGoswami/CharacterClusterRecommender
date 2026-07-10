@@ -1,7 +1,12 @@
 {
   "name": "Theo",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HappilyMarried",
+    "BigEater",
+    "GoodParents",
+    "AccessoryWearingCartoonAnimal"
+  ],
   "tropes_by_category": {}
 }

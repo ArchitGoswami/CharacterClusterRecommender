@@ -1,7 +1,19 @@
 {
   "name": "Team K♣",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "LeParkour",
+    "AffablyEvil",
+    "TheLeader",
+    "TrueCompanions",
+    "GracefulLoser",
+    "ShipperOnDeck",
+    "TheSmurfettePrinciple",
+    "Foil",
+    "EvenEvilHasStandards",
+    "TheSmartGuy",
+    "FullFrontalAssault"
+  ],
   "tropes_by_category": {}
 }

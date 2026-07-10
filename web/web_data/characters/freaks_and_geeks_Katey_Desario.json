@@ -1,7 +1,12 @@
 {
   "name": "Katey Desario",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SkewedPriorities",
+    "ParentalObliviousness",
+    "TheCaretaker",
+    "UnnamedParent"
+  ],
   "tropes_by_category": {}
 }

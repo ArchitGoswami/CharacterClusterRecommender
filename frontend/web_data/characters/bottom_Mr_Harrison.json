@@ -1,7 +1,11 @@
 {
   "name": "Mr. Harrison",
   "show": "Bottom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChildHater",
+    "HatesTheirParent",
+    "Jerkass"
+  ],
   "tropes_by_category": {}
 }

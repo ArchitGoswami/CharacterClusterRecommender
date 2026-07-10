@@ -1,7 +1,14 @@
 {
   "name": "Orpheus",
   "show": "Hercules",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "RescuedFromTheUnderworld",
+    "UnseenNoMore",
+    "BritishRockstar",
+    "AdaptedOut",
+    "HiddenDepths",
+    "TeenIdol"
+  ],
   "tropes_by_category": {}
 }

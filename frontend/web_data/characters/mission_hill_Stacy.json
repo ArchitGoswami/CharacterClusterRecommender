@@ -1,7 +1,10 @@
 {
   "name": "Stacy",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "WhatCouldHaveBeen",
+    "AllGuysWantSororityWomen"
+  ],
   "tropes_by_category": {}
 }

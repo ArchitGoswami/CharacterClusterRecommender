@@ -1,7 +1,11 @@
 {
   "name": "Mr. Battersby",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "NoFullNameGiven",
+    "StevenUlyssesPerhero",
+    "OneShotCharacter"
+  ],
   "tropes_by_category": {}
 }

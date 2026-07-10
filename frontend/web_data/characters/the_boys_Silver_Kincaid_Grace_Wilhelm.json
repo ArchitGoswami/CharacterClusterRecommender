@@ -1,7 +1,14 @@
 {
   "name": "Silver Kincaid/Grace Wilhelm",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheMole",
+    "PsychicPowers",
+    "PrematurelyGreyHaired",
+    "FarmersDaughter",
+    "DrivenToSuicide",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

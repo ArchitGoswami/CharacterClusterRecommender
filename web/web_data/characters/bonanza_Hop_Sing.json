@@ -1,7 +1,9 @@
 {
   "name": "Hop Sing",
   "show": "Bonanza",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "SupremeChef"
+  ],
   "tropes_by_category": {}
 }

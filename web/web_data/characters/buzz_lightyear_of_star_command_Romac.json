@@ -1,7 +1,20 @@
 {
   "name": "Romac",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HeelFaceTurn",
+    "Intangibility",
+    "BountyHunter",
+    "ManOfKryptonite",
+    "TheAtoner",
+    "HonorBeforeReason",
+    "TokenHeroicOrc",
+    "StarCrossedLovers",
+    "DidntSeeThatComing",
+    "JumpedAtTheCall",
+    "EveryoneHasStandards",
+    "ChromeDomePsi"
+  ],
   "tropes_by_category": {}
 }

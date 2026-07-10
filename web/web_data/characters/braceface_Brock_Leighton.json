@@ -1,7 +1,18 @@
 {
   "name": "Brock Leighton",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CasanovaWannabe",
+    "OfficialCouple",
+    "WellDoneSonGuy",
+    "ClassClown",
+    "WithFriendsLikeThese",
+    "CoolShades",
+    "KindheartedCatLover",
+    "GarageBand",
+    "InsecureLoveInterest",
+    "LastNameBasis"
+  ],
   "tropes_by_category": {}
 }

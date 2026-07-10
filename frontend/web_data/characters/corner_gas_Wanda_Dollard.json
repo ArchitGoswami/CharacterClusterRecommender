@@ -1,7 +1,21 @@
 {
   "name": "Wanda Dollard",
   "show": "Corner Gas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "WorldOfSnark",
+    "DeadpanSnarker",
+    "IronicName",
+    "DownplayedTrope",
+    "Irony",
+    "GreenEyedMonster",
+    "BrandX",
+    "SesquipedalianLoquaciousness",
+    "WeaksauceWeakness",
+    "BrilliantButLazy",
+    "TooCleverByHalf",
+    "DitzyGenius",
+    "GrammarNazi"
+  ],
   "tropes_by_category": {}
 }

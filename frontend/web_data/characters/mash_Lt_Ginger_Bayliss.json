@@ -1,7 +1,10 @@
 {
   "name": "Lt. Ginger Bayliss",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "TokenMinorityCouple"
+  ],
   "tropes_by_category": {}
 }

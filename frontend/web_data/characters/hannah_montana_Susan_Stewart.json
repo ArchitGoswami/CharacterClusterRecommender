@@ -1,7 +1,10 @@
 {
   "name": "Susan Stewart",
   "show": "Hannah Montana",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PosthumousCharacter",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

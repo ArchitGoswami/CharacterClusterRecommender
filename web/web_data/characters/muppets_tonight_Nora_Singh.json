@@ -1,7 +1,24 @@
 {
   "name": "Nora Singh",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "InsufferableImbecile",
+    "OddFriendship",
+    "JerkWithAHeartOfGold",
+    "IWantMyBelovedToBeHappy",
+    "LickedByTheDog",
+    "ShipperOnDeck",
+    "LoserProtagonist",
+    "AllWorkVSAllPlay",
+    "Foil",
+    "RichSiblingPoorSibling",
+    "DefrostingIceQueen",
+    "EvilDetectingDog",
+    "BunnyEarsLawyer",
+    "PromotionToParent",
+    "MoralityPet",
+    "CloudCuckoolander"
+  ],
   "tropes_by_category": {}
 }

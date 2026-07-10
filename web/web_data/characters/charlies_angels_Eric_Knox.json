@@ -1,7 +1,23 @@
 {
   "name": "Eric Knox",
   "show": "Charlie's Angels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "EvilCostumeSwitch",
+    "TheReveal",
+    "WouldHitAGirl",
+    "ExpositoryHairstyleChange",
+    "TheChessmaster",
+    "PetTheDog",
+    "BigBad",
+    "BigNo",
+    "ManipulativeBastard",
+    "YouKilledMyFather",
+    "OhCrap",
+    "Mooks",
+    "HoistByHisOwnPetard",
+    "BadBoss",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

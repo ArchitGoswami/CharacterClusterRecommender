@@ -1,7 +1,17 @@
 {
   "name": "Label",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeerInTheHeadlights",
+    "SkewedPriorities",
+    "ReusedCharacterDesign",
+    "LovableJock",
+    "BefriendingTheEnemy",
+    "TopHeavyGuy",
+    "TomboyishPonytail",
+    "HotBlooded",
+    "NoIndoorVoice"
+  ],
   "tropes_by_category": {}
 }

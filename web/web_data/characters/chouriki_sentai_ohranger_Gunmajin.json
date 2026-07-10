@@ -1,7 +1,20 @@
 {
   "name": "Gunmajin",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BenevolentGenie",
+    "GenieTropes",
+    "Youkai",
+    "OurGeniesAreDifferent",
+    "CoolSword",
+    "TheKidWithTheRemoteControl",
+    "FriendToAllChildren",
+    "BlueAndOrangeMorality",
+    "LiteralGenie",
+    "DeusExMachina",
+    "InstantAllegianceArtifact",
+    "WhyDidItHaveToBeSnakes"
+  ],
   "tropes_by_category": {}
 }

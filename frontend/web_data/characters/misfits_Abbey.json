@@ -1,7 +1,25 @@
 {
   "name": "Abbey",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "OnlyKnownByHerNickname",
+    "FakeMemories",
+    "BigDamnHero",
+    "BecomingTheMask",
+    "HunterOfHerOwnKind",
+    "NoSocialSkills",
+    "HardDrinkingPartyGirl",
+    "BrutalHonesty",
+    "Tulpa",
+    "ParentalIncest",
+    "TheAlcoholic",
+    "BigDamnHeroes",
+    "IdentityAmnesia",
+    "InsistentTerminology",
+    "Cloudcuckoolander",
+    "EmotionlessGirl",
+    "WistfulAmnesia"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Caesar Kimaris",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GrandTheftMe",
+    "WhoNamesTheirKidDude",
+    "LightEmUp",
+    "UnwittingInstigatorOfDoom",
+    "RaceAgainstTheClock"
+  ],
   "tropes_by_category": {}
 }

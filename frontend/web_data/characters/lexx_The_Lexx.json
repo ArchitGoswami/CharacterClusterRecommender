@@ -1,7 +1,17 @@
 {
   "name": "The Lexx",
   "show": "Lexx",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "PlanetDestroyer",
+    "InsectoidAliens",
+    "WaveMotionGun",
+    "TheDitz",
+    "CripplingOverspecialization",
+    "PlanetEater",
+    "SapientShip",
+    "LivingShip",
+    "AlmightyIdiot"
+  ],
   "tropes_by_category": {}
 }

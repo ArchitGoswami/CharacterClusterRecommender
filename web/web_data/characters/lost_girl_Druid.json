@@ -1,7 +1,17 @@
 {
   "name": "Druid",
   "show": "Lost Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "EvenBadMenLoveTheirMamas",
+    "DisappearedDad",
+    "ArtificialLimbs",
+    "Manchild",
+    "HalfHumanHybrid",
+    "HeroKiller",
+    "Squick",
+    "IJustWantToBeSpecial",
+    "NeckSnap"
+  ],
   "tropes_by_category": {}
 }

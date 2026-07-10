@@ -1,7 +1,14 @@
 {
   "name": "Trey Kirkman",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DeadpanSnarker",
+    "RememberTheNewGuy",
+    "TheAtoner",
+    "LastMinuteHookup",
+    "HiddenDepths",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

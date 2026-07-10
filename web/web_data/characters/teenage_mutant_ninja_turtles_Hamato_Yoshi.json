@@ -1,7 +1,25 @@
 {
   "name": "Hamato Yoshi",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Animorphism",
+    "OppositesAttractRevenge",
+    "SparedByTheAdaptation",
+    "TechnicalPacifist",
+    "DefectorFromDecadence",
+    "CycleOfRevenge",
+    "TokenGoodTeammate",
+    "CompositeCharacter",
+    "PlotTriggeringDeath",
+    "PosthumousCharacter",
+    "AdaptedOut",
+    "Metamorphosis",
+    "HeroicLineage",
+    "AsLongAsItSoundsForeign",
+    "AscendedExtra",
+    "FightingFingerprint",
+    "DeathByOriginStory"
+  ],
   "tropes_by_category": {}
 }

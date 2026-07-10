@@ -1,7 +1,16 @@
 {
   "name": "Ann Norton",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "MyBelovedSmother",
+    "Jerkass",
+    "ArrangedMarriage",
+    "ControlFreak",
+    "PlayedWith",
+    "SheKnowsTooMuch",
+    "AbusiveParents",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

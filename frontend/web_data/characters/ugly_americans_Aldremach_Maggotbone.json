@@ -1,7 +1,15 @@
 {
   "name": "Aldremach Maggotbone",
   "show": "Ugly Americans",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheBluebeard",
+    "ObnoxiousInLaws",
+    "Satan",
+    "BigBad",
+    "LargeAndInCharge",
+    "NamesToRunAwayFromReallyFast",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "James Tartt",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "AllLovingHero",
+    "UngratefulBastard",
+    "AbusiveParents",
+    "WhereAreTheyNowEpilogue",
+    "AwwLookTheyReallyDoLoveEachOther",
+    "Jerkass",
+    "KickTheDog",
+    "TheAlcoholic",
+    "SportsDad",
+    "SternParentDotingParent",
+    "ItsAllAboutMe",
+    "SignificantHaircut",
+    "EvilCounterpart",
+    "AllTakeAndNoGive",
+    "TerribleTrio",
+    "ParentalAbandonment",
+    "EntitledBastard",
+    "Hypocrite",
+    "LowerClassLout"
+  ],
   "tropes_by_category": {}
 }

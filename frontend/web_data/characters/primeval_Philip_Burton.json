@@ -1,7 +1,22 @@
 {
   "name": "Philip Burton",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "BrokenPedestal",
+    "DeathEqualsRedemption",
+    "TheSvengali",
+    "HeelRealization",
+    "BigBad",
+    "AmbitionIsEvil",
+    "KickTheDog",
+    "BadPeopleAbuseAnimals",
+    "Downplayed",
+    "MyGodWhatHaveIDone",
+    "BadFuture",
+    "WellIntentionedExtremist",
+    "NatureIsNotAToy",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

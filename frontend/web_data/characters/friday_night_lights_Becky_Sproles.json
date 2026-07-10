@@ -1,7 +1,12 @@
 {
   "name": "Becky Sproles",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PrecociousCrush",
+    "GoodGirlsAvoidAbortion",
+    "StepfordSmiler",
+    "CoolBigBro"
+  ],
   "tropes_by_category": {}
 }

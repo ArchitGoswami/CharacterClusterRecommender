@@ -1,7 +1,15 @@
 {
   "name": "Mr. Squiggles",
   "show": "The ZhuZhus",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CatchPhrase",
+    "NerdGlasses",
+    "Crossdresser",
+    "MadScientist",
+    "AffectionateNickname",
+    "ForScience",
+    "UtilityBelt"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Femio",
   "show": "Princess Tutu",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "Bishonen",
+    "CatchPhrase",
+    "HeroicWillpower",
+    "SomethingAboutARose",
+    "EvenTheGuysWantHim",
+    "SmallNameBigEgo",
+    "LargeHam",
+    "MilkingTheGiantCow",
+    "IKissYourHand",
+    "CommitmentIssues",
+    "PrinceCharmingWannabe",
+    "EnsembleDarkhorse",
+    "VocalDissonance",
+    "SoBeautifulItsACurse",
+    "EverythingSoundsSexierInFrench",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

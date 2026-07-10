@@ -1,7 +1,10 @@
 {
   "name": "Mr. William Barry",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "IJustWantToBeSpecial",
+    "SmallTownBoredom"
+  ],
   "tropes_by_category": {}
 }

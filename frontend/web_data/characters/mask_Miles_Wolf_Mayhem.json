@@ -1,7 +1,19 @@
 {
   "name": "Miles \"Wolf\" Mayhem",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "EvilSoundsDeep",
+    "BigBad",
+    "ImprobablePilotingSkills",
+    "AnimalThemeNaming",
+    "BarrierWarrior",
+    "AcidAttack",
+    "LargeAndInCharge",
+    "NamesToRunAwayFromReallyFast",
+    "EvilOldFolks",
+    "FaceHeelTurn",
+    "FromCamouflageToCriminal"
+  ],
   "tropes_by_category": {}
 }

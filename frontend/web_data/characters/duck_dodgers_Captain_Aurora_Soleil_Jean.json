@@ -1,7 +1,16 @@
 {
   "name": "Captain Aurora Soleil Jean",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ActionGirl",
+    "TheAce",
+    "PurpleIsPowerful",
+    "SingleWomanSeeksGoodMan",
+    "CaptainSpaceDefenderOfEarth",
+    "IdealHero",
+    "PinkHeroine",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

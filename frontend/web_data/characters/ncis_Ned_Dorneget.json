@@ -1,7 +1,16 @@
 {
   "name": "Ned Dorneget",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ADeathInTheLimelight",
+    "DyingMomentOfAwesome",
+    "Nepotism",
+    "StraightGay",
+    "AvertedTrope",
+    "SacrificialLion",
+    "ButtMonkey",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Lennox",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Retirony",
+    "KilledOffForReal",
+    "BraveScot",
+    "BrutalHonesty",
+    "DiedInYourArmsTonight",
+    "OffscreenMomentOfAwesome",
+    "LastRequest",
+    "TheScapegoat",
+    "OnlySaneMan",
+    "OldSoldier"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Heidecker",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheMedic",
+    "AffablyEvil",
+    "MadDoctor",
+    "WouldHurtAChild",
+    "ForScience",
+    "AWolfInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

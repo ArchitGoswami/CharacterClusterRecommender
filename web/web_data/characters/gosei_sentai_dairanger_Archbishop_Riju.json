@@ -1,7 +1,20 @@
 {
   "name": "Archbishop Riju",
   "show": "Gosei Sentai Dairanger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "OneWingedAngel",
+    "ExtraEyes",
+    "Expy",
+    "VillainBall",
+    "InterimVillain",
+    "ArcVillain",
+    "CurbStompBattle",
+    "SinisterMinister",
+    "BadBoss",
+    "ShockAndAwe",
+    "DualWielding",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

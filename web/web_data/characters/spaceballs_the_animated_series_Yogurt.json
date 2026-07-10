@@ -1,7 +1,19 @@
 {
   "name": "Yogurt",
   "show": "Spaceballs: The Animated Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "LivingLegend",
+    "Expy",
+    "TheMerch",
+    "AlterKocker",
+    "PunnyName",
+    "CompositeCharacter",
+    "MyLittlePanzer",
+    "DontExplainTheJoke",
+    "HumbleHero",
+    "SpaceJews"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Frankie",
   "show": "Elliott from Earth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HorribleJudgeOfCharacter",
+    "TheGlassesGottaGo",
+    "GoodParents",
+    "ReallyMovesAround"
+  ],
   "tropes_by_category": {}
 }

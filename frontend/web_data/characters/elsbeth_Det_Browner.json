@@ -1,7 +1,13 @@
 {
   "name": "Det. Browner",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "SequelNonEntity",
+    "PutOnABus",
+    "HandWaved",
+    "InspectorLestrade"
+  ],
   "tropes_by_category": {}
 }

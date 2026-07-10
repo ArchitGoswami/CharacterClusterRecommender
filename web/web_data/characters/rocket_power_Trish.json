@@ -1,7 +1,11 @@
 {
   "name": "Trish",
   "show": "Rocket Power",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ThoseTwoGuys",
+    "CompetitionFreak",
+    "TheAce"
+  ],
   "tropes_by_category": {}
 }

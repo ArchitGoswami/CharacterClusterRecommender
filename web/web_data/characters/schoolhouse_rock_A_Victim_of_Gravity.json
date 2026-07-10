@@ -1,7 +1,13 @@
 {
   "name": "A Victim of Gravity",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BornUnlucky",
+    "Pun",
+    "TraumaCongaLine",
+    "ButtMonkey",
+    "DidNotGetTheGirl"
+  ],
   "tropes_by_category": {}
 }

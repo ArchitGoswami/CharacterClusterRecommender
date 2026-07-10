@@ -1,7 +1,21 @@
 {
   "name": "Peter Burns",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SettleForSibling",
+    "HospitalHottie",
+    "HappilyMarried",
+    "MercyKill",
+    "EarnYourHappyEnding",
+    "BlackGalOnWhiteGuyDrama",
+    "CrusadingWidower",
+    "SlapSlapKiss",
+    "TookALevelInKindness",
+    "VitriolicBestBuds",
+    "HeelFaceRevolvingDoor",
+    "MoralityPet",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

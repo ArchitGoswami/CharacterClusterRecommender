@@ -1,7 +1,10 @@
 {
   "name": "Scotty Wilson",
   "show": "Highway to Heaven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CrusadingLawyer",
+    "HappilyMarried"
+  ],
   "tropes_by_category": {}
 }

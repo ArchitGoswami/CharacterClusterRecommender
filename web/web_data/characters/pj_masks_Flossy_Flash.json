@@ -1,7 +1,13 @@
 {
   "name": "Flossy Flash",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ActionGirl",
+    "GirlShowGhetto",
+    "PurpleIsPowerful",
+    "Telepathy",
+    "InUniverse"
+  ],
   "tropes_by_category": {}
 }

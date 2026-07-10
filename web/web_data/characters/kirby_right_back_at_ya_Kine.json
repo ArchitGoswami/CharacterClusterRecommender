@@ -1,7 +1,18 @@
 {
   "name": "Kine",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "AdaptationalWimp",
+    "DoggedNiceGuy",
+    "OxygenatedUnderwaterBubbles",
+    "Pun",
+    "BinomiumRidiculus",
+    "InterspeciesRomance",
+    "DubSpeciesChange",
+    "AdaptationalPersonalityChange",
+    "CivilizedAnimal",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

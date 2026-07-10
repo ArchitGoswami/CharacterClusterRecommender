@@ -1,7 +1,17 @@
 {
   "name": "Agua Sin Gaaz",
   "show": "Young Justice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Teleportation",
+    "EatenAlive",
+    "ArchEnemy",
+    "CloningBodyParts",
+    "ArtificialZombie",
+    "EvilutionaryBiologist",
+    "DeathByIrony",
+    "HollywoodVoodoo",
+    "RasputinianDeath"
+  ],
   "tropes_by_category": {}
 }

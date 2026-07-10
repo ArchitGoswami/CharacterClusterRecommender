@@ -1,7 +1,13 @@
 {
   "name": "Miracle Girl",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ShoutOut",
+    "MindOverMatter",
+    "MacGuffin",
+    "BroughtDownToNormal",
+    "Flight"
+  ],
   "tropes_by_category": {}
 }

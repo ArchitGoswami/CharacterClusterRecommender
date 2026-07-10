@@ -1,7 +1,29 @@
 {
   "name": "The Ice Cream Man",
   "show": "The Cuphead Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "WasTooHardOnHim",
+    "BerserkButton",
+    "NoSell",
+    "SurprisinglyRealisticOutcome",
+    "WorkOffTheDebt",
+    "TheThingThatWouldNotLeave",
+    "DefiedTrope",
+    "TheReasonYouSuckSpeech",
+    "Spoiler",
+    "TheDitz",
+    "PoorCommunicationKills",
+    "EveryoneCallsHimBarkeep",
+    "DarkReprise",
+    "PsychoPink",
+    "LaughingMad",
+    "NoHoldsBarredBeatdown",
+    "Catchphrase",
+    "ComicallyMissingThePoint",
+    "RageBreakingPoint",
+    "OOCIsSeriousBusiness",
+    "ObliviousToHatred"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Tengu",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "NoOntologicalInertia",
+    "InsultBackfire",
+    "CharacterTics",
+    "BerserkButton",
+    "WouldHurtAChild",
+    "MindControl"
+  ],
   "tropes_by_category": {}
 }

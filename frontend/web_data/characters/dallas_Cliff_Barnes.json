@@ -1,7 +1,15 @@
 {
   "name": "Cliff Barnes",
   "show": "Dallas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ChickMagnet",
+    "FallenHero",
+    "ArchEnemy",
+    "NotSoHarmless",
+    "WellIntentionedExtremist",
+    "TrademarkFavoriteFood",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

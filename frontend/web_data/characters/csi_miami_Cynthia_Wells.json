@@ -1,7 +1,9 @@
 {
   "name": "Cynthia Wells",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheLabRat"
+  ],
   "tropes_by_category": {}
 }

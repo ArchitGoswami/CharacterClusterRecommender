@@ -1,7 +1,10 @@
 {
   "name": "Julie Hirschbaum",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AccidentalMisnaming",
+    "BerserkButton"
+  ],
   "tropes_by_category": {}
 }

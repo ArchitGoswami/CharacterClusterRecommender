@@ -1,7 +1,14 @@
 {
   "name": "Commodore Vector Azimuth Miller",
   "show": "Moonbeam City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CoolOldGuy",
+    "HonestCorporateExecutive",
+    "GoodParents",
+    "ParentalFavoritism",
+    "SoProudOfYou",
+    "LiterallyShatteredLives"
+  ],
   "tropes_by_category": {}
 }

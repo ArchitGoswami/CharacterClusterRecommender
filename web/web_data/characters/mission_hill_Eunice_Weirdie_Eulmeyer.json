@@ -1,7 +1,17 @@
 {
   "name": "Eunice \"Weirdie\" Eulmeyer",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "PickedFlowersAreDead",
+    "NerdGlasses",
+    "TinyGuyHugeGirl",
+    "EvenNerdsHaveStandards",
+    "HiddenDepths",
+    "AlliterativeName",
+    "OnlyKnownByTheirNickname",
+    "ThousandYardStare",
+    "InsultOfEndearment"
+  ],
   "tropes_by_category": {}
 }

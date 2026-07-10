@@ -1,7 +1,11 @@
 {
   "name": "Lara Macy",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BusCrash",
+    "ChuckCunninghamSyndrome",
+    "HeroAntagonist"
+  ],
   "tropes_by_category": {}
 }

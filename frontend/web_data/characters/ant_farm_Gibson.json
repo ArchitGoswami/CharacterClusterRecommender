@@ -1,7 +1,17 @@
 {
   "name": "Gibson",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Catchphrase",
+    "Expy",
+    "LiteralMinded",
+    "TheDitz",
+    "HammerspaceHair",
+    "PutOnABus",
+    "LaughTrack",
+    "Cloudcuckoolander",
+    "ReTool"
+  ],
   "tropes_by_category": {}
 }

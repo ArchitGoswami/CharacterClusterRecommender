@@ -1,7 +1,11 @@
 {
   "name": "Neil",
   "show": "United States of Tara",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DeadpanSnarker",
+    "FirstGirlWins",
+    "GenderInvertedTrope"
+  ],
   "tropes_by_category": {}
 }

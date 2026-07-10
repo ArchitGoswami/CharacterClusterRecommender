@@ -1,7 +1,11 @@
 {
   "name": "Russell Dalrymple",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MeanBoss",
+    "NoCelebritiesWereHarmed",
+    "LoveMakesYouCrazy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Wayne Liggett",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "BigOlEyebrows",
+    "DaChief",
+    "DirtyCop",
+    "TenMinuteRetirement",
+    "TheMentor",
+    "MyGreatestFailure",
+    "DramaticIrony",
+    "LethalChef",
+    "ExcellentJudgeOfCharacter",
+    "HesBack",
+    "TheAce",
+    "CowboyCop",
+    "AFriendInNeed",
+    "TokenGoodCop",
+    "ByTheBookCop",
+    "FireForgedFriends",
+    "WalkingSpoiler",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

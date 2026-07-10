@@ -1,7 +1,29 @@
 {
   "name": "Pops",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "HonestJohnsDealership",
+    "LethalChef",
+    "RememberTheNewGuy",
+    "OutOfFocus",
+    "ExpansionPackPast",
+    "ParentalSubstitute",
+    "JerkWithAHeartOfGold",
+    "AdultsAreUseless",
+    "ModernMajorGeneral",
+    "DemotedToExtra",
+    "WeSellEverything",
+    "KarmaHoudini",
+    "MeanBoss",
+    "CutawayGag",
+    "LargeHam",
+    "SuspiciouslySpecificDenial",
+    "ChuckCunninghamSyndrome",
+    "LosingYourHead",
+    "ParentalAbandonment",
+    "Greed",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

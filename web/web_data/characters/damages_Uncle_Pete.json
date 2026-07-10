@@ -1,7 +1,17 @@
 {
   "name": "Uncle Pete",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CoolOldGuy",
+    "SickbedSlaying",
+    "DeadPanSnarker",
+    "ChekhovsGunman",
+    "BewareTheSillyOnes",
+    "OlderSidekick",
+    "BungledSuicide",
+    "DrivenToSuicide",
+    "CleanUpCrew"
+  ],
   "tropes_by_category": {}
 }

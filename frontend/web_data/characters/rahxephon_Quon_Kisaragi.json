@@ -1,7 +1,23 @@
 {
   "name": "Quon Kisaragi",
   "show": "RahXephon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DarkIsNotEvil",
+    "SlowlySlippingIntoEvil",
+    "LukeIAmYourFather",
+    "WaifProphet",
+    "CrypticConversation",
+    "Foil",
+    "GeniusDitz",
+    "LadyOfBlackMagic",
+    "VerbalTic",
+    "ArtifactofDoom",
+    "ShamelessFanserviceGirl",
+    "ElegantGothicLolita",
+    "DemotedToExtra",
+    "Cloudcuckoolander",
+    "OlderThanSheLooks"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "La Llorona",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CryingARiver",
+    "ShoutOut",
+    "ProneToTears",
+    "EmptyNest",
+    "FriendToAllChildren",
+    "AdaptationalNiceGuy",
+    "OcularGushers",
+    "WomanScorned"
+  ],
   "tropes_by_category": {}
 }

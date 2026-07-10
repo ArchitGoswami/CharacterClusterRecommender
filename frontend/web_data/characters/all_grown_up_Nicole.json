@@ -1,7 +1,10 @@
 {
   "name": "Nicole",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheDitz",
+    "ChuckCunninghamSyndrome"
+  ],
   "tropes_by_category": {}
 }

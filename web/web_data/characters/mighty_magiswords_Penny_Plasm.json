@@ -1,7 +1,21 @@
 {
   "name": "Penny Plasm",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "KryptoniteFactor",
+    "Yandere",
+    "HeelRealization",
+    "MindOverMatter",
+    "EyesOutOfSight",
+    "BoyMeetsGhoul",
+    "FriendlyGhost",
+    "CuteGhostGirl",
+    "SouthernBelle",
+    "AntiVillain",
+    "NoodleIncident",
+    "ObliviouslyEvil",
+    "TogetherInDeath"
+  ],
   "tropes_by_category": {}
 }

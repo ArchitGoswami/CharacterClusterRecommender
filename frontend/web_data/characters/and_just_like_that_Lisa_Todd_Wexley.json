@@ -1,7 +1,9 @@
 {
   "name": "Lisa Todd Wexley",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "SixthRanger"
+  ],
   "tropes_by_category": {}
 }

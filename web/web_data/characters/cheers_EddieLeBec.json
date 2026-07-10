@@ -1,7 +1,17 @@
 {
   "name": "EddieLeBec",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BadlyBatteredBabysitter",
+    "HeroicSacrifice",
+    "BirdsOfAFeather",
+    "TheDitz",
+    "DroppedABridgeOnHim",
+    "FallenOnHardTimesJob",
+    "SecretOtherFamily",
+    "EmbarrassingFirstName",
+    "ForgottenAnniversary"
+  ],
   "tropes_by_category": {}
 }

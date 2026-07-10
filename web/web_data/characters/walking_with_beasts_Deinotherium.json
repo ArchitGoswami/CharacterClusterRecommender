@@ -1,7 +1,28 @@
 {
   "name": "Deinotherium",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "FantasticFaunaCounterpart",
+    "CruelElephant",
+    "WackyWaysideTribe",
+    "MeaningfulName",
+    "CompositeCharacter",
+    "InvincibleVillain",
+    "CrapSaccharineWorld",
+    "TruthInTelevision",
+    "StockSoundEffect",
+    "NamesToRunAwayFromReallyFast",
+    "WouldHurtAChild",
+    "RealLife",
+    "StealthyColossus",
+    "RuleOfCool",
+    "RhinoRampage",
+    "ProtagonistCenteredMorality",
+    "GiantEqualsInvincible",
+    "AxCrazy",
+    "YouCantGoHomeAgain",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Long James, Pirate Mayor",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CorruptPolitician",
+    "Catchphrase",
+    "ReasonableAuthorityFigure",
+    "WretchedHive",
+    "FriendlyEnemy"
+  ],
   "tropes_by_category": {}
 }

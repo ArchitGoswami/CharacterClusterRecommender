@@ -1,7 +1,12 @@
 {
   "name": "The French Peas",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NoNameGiven",
+    "Expy",
+    "FrenchJerk",
+    "IShallTauntYou"
+  ],
   "tropes_by_category": {}
 }

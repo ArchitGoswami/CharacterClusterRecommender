@@ -1,7 +1,11 @@
 {
   "name": "Won",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "LivingEmotionalCrutch",
+    "EyesAlwaysShut",
+    "HeadPet"
+  ],
   "tropes_by_category": {}
 }

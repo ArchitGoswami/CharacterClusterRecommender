@@ -1,7 +1,15 @@
 {
   "name": "Hannah Wyland",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CallBack",
+    "ArmoredClosetGay",
+    "BigBad",
+    "MotorMouth",
+    "BigDamnHeroes",
+    "AmicableExes",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Wallow",
   "show": "Bravest Warriors",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "InterspeciesRomance",
+    "OnlyOneName",
+    "TalkingTheMonsterToDeath",
+    "StraightMan",
+    "GentleGiant",
+    "MissionControl",
+    "TheXenophile",
+    "BFG",
+    "EarlyInstallmentCharacterDesignDifference",
+    "HandicappedBadass",
+    "TheSmartGuy",
+    "AmbiguouslyBi",
+    "ReallyGetsAround",
+    "WordOfGod",
+    "ColorCodedCharacters",
+    "ChippendalesDancers",
+    "FriendToAllLivingThings",
+    "LifeOrLimbDecision",
+    "TheMedic",
+    "TheBigGuy",
+    "ItMakesSenseInContext",
+    "NonStandardCharacterDesign",
+    "MajorInjuryUnderreaction"
+  ],
   "tropes_by_category": {}
 }

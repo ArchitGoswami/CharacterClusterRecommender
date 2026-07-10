@@ -1,7 +1,30 @@
 {
   "name": "Former Vice PresidentMacLeish",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TheChosenOne",
+    "EvenEvilHasLovedOnes",
+    "EvilAllAlong",
+    "BoomHeadshot",
+    "MoleInCharge",
+    "NoPartyGiven",
+    "BeautyIsNeverTarnished",
+    "VillainWithGoodPublicity",
+    "BornLucky",
+    "SurvivorsGuilt",
+    "LittleDidIKnow",
+    "MadeOfIron",
+    "MedalOfDishonor",
+    "EngineeredPublicConfession",
+    "TheAce",
+    "Foreshadowing",
+    "TheMole",
+    "BigBad",
+    "SoleSurvivor",
+    "RetiredBadass",
+    "BitchInSheepsClothing",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

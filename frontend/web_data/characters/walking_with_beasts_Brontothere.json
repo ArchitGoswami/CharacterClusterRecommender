@@ -1,7 +1,25 @@
 {
   "name": "Brontothere",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CowTools",
+    "DumbMuscle",
+    "AllThereInTheManual",
+    "DireBeast",
+    "MightyGlacier",
+    "StockSoundEffects",
+    "BizarreSexualDimorphism",
+    "MisplacedWildlife",
+    "AllForNothing",
+    "MamaBear",
+    "ShaggyDogStory",
+    "DyingRace",
+    "MoodDissonance",
+    "HeroicSecondWind",
+    "RuleOfCool",
+    "RhinoRampage",
+    "DeathOfAChild"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Jack Parezi",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EvenEvilCanBeLoved",
+    "IfICantHaveYou",
+    "DeathByFallingOver",
+    "DomesticAbuse",
+    "HateSink",
+    "AntagonisticOffspring",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

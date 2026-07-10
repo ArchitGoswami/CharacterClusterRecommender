@@ -1,7 +1,20 @@
 {
   "name": "The Rapist Defender",
   "show": "Thirteen Reasons Why",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "Blackmail",
+    "SlutShaming",
+    "FrameUp",
+    "LeaveBehindAPistol",
+    "BigBad",
+    "BrokenWindowWarning",
+    "TheUnfettered",
+    "SerialRapist",
+    "CarFu",
+    "HateSink",
+    "DeadAnimalWarning",
+    "SuicideDare"
+  ],
   "tropes_by_category": {}
 }

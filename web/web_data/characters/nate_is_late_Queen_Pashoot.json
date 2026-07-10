@@ -1,7 +1,15 @@
 {
   "name": "Queen Pashoot",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DarkIsNotEvil",
+    "ButNowIMustGo",
+    "GoOutWithASmile",
+    "GlowingEyes",
+    "Mummy",
+    "TheVoiceless",
+    "CuteMonsterGirl"
+  ],
   "tropes_by_category": {}
 }

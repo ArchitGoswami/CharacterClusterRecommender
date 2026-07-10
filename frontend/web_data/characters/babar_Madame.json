@@ -1,7 +1,13 @@
 {
   "name": "Madame",
   "show": "Babar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TokenHuman",
+    "GoodParents",
+    "DemotedToExtra",
+    "NoNameGiven",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

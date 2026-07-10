@@ -1,7 +1,20 @@
 {
   "name": "Roald",
   "show": "Letterkenny",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CatchPhrase",
+    "TheLancer",
+    "NiceGuy",
+    "IncompatibleOrientation",
+    "CombatPragmatist",
+    "AffectionateNickname",
+    "InelegantBlubbering",
+    "LethalJokeCharacter",
+    "HiddenDepths",
+    "BewareTheNiceOnes",
+    "Keet",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

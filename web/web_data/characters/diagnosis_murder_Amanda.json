@@ -1,7 +1,15 @@
 {
   "name": "Amanda",
   "show": "Diagnosis Murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "LovableRogue",
+    "TheLancer",
+    "StrugglingSingleMother",
+    "RaceLift",
+    "SlapSlapKiss",
+    "Determinator",
+    "GlamorousSingleMother"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Anxious Andrew",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "IronicName",
+    "NiceGuy",
+    "HideYourLesbians",
+    "LovableCoward",
+    "TheQuietOne",
+    "NervousWreck",
+    "ShrinkingViolet",
+    "AdaptedOut",
+    "AmbiguouslyGay",
+    "TheCutie",
+    "BreakTheCutie",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

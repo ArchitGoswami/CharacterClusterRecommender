@@ -1,7 +1,16 @@
 {
   "name": "Uncle Ted",
   "show": "Bobby's World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "Catchphrase",
+    "FormerlyFit",
+    "ManChild",
+    "AffectionateGestureToTheHead",
+    "FatAndSkinny",
+    "IntergenerationalFriendship",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

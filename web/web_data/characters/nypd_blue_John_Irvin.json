@@ -1,7 +1,14 @@
 {
   "name": "John Irvin",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "OddFriendship",
+    "CampGay",
+    "AffectionateNickname",
+    "PetHomosexual",
+    "MentorInQueerness",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

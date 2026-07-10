@@ -1,7 +1,15 @@
 {
   "name": "Kid Pickles",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TrademarkFavouriteFood",
+    "ImprobableWeaponUser",
+    "BirthdayHater",
+    "BrooklynRage",
+    "PungeonMaster",
+    "NoodleIncident",
+    "MouthyKid"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Ceres",
   "show": "Oban Star-Racers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BeneathTheMask",
+    "MagicalFlutist",
+    "MultiArmedMultitasking",
+    "MusicalAssassin",
+    "LastOfHisKind",
+    "MagnetismManipulation",
+    "ArrogantKungFuGuy",
+    "AlwaysChaoticEvil",
+    "MagicalNativeAmerican",
+    "ScaryDogmaticAliens",
+    "JerkassHasAPoint",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

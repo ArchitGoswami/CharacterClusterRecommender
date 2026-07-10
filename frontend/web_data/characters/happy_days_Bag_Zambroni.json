@@ -1,7 +1,12 @@
 {
   "name": "\"Bag\" Zambroni",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "GentleGiant",
+    "OnlyKnownByTheirNickname",
+    "ChuckCunninghamSyndrome",
+    "VitriolicBestBuds"
+  ],
   "tropes_by_category": {}
 }

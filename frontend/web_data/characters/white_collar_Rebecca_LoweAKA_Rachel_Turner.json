@@ -1,7 +1,17 @@
 {
   "name": "Rebecca LoweAKA Rachel Turner",
   "show": "White Collar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DarkActionGirl",
+    "BigBad",
+    "ConMan",
+    "InLoveWithTheMark",
+    "HoneyTrap",
+    "EvilCounterpart",
+    "ColdSniper",
+    "WalkingSpoiler",
+    "TheStarscream"
+  ],
   "tropes_by_category": {}
 }

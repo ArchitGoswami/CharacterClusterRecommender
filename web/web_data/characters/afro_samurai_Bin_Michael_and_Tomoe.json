@@ -1,7 +1,16 @@
 {
   "name": "Bin, Michael and Tomoe",
   "show": "Afro Samurai",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Cyborg",
+    "KillUsBoth",
+    "MoreDakka",
+    "RememberTheNewGuy",
+    "SparingThemTheDirtyWork",
+    "YamatoNadeshiko",
+    "ShoePhone",
+    "CoolMask"
+  ],
   "tropes_by_category": {}
 }

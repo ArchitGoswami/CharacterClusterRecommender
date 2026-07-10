@@ -1,7 +1,14 @@
 {
   "name": "Ronnie",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SingleTargetSexuality",
+    "HeroicSacrifice",
+    "CharacterDeath",
+    "PantsFree",
+    "UniformityException",
+    "BlackComedyRape"
+  ],
   "tropes_by_category": {}
 }

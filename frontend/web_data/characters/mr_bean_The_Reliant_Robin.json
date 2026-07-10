@@ -1,7 +1,20 @@
 {
   "name": "The Reliant Robin",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheDogBitesBack",
+    "ADayInTheLimelight",
+    "TheGhost",
+    "BewareTheQuietOnes",
+    "Leitmotif",
+    "Revenge",
+    "SitcomArchnemesis",
+    "TheBadGuyWins",
+    "UnseenNoMore",
+    "ATasteOfTheirOwnMedicine",
+    "ButtMonkey",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Jordan Randall",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheMole",
+    "SuspiciouslySimilarSubstitute",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

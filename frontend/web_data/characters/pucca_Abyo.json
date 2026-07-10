@@ -1,7 +1,26 @@
 {
   "name": "Abyo",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AmazonChaser",
+    "CasanovaWannabe",
+    "RunningGag",
+    "TemporaryBulkChange",
+    "Foil",
+    "CharacterTics",
+    "IJustWantToBeBadass",
+    "WardrobeMalfunction",
+    "ArrogantKungFuGuy",
+    "BoisterousBruiser",
+    "BigEater",
+    "BruceLeeClone",
+    "MissingMom",
+    "OvershadowedByAwesome",
+    "BloodKnight",
+    "HairTriggerTemper",
+    "AbhorrentAdmirer",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

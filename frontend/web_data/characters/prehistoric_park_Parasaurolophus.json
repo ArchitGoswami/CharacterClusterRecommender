@@ -1,7 +1,18 @@
 {
   "name": "Parasaurolophus",
   "show": "Prehistoric Park",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SocialOrnithopod",
+    "AdvertisedExtra",
+    "AllAnimalsAreDomesticated",
+    "HerbivoresAreFriendly",
+    "StockSoundEffects",
+    "MonsterMunch",
+    "OutlivingOnesOffspring",
+    "ForcedToWatch",
+    "RuleOfCool",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

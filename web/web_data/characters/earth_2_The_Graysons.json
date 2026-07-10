@@ -1,7 +1,22 @@
 {
   "name": "The Graysons",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ActionGirl",
+    "FairCop",
+    "NiceGuy",
+    "TookALevelInBadass",
+    "MasculineGirlFeminineBoy",
+    "DecompositeCharacter",
+    "HappilyMarried",
+    "MamaBear",
+    "TheEveryman",
+    "ADayInTheSpotlight",
+    "LegacyCharacter",
+    "BewareTheNiceOnes",
+    "TemptingFate",
+    "PapaWolf"
+  ],
   "tropes_by_category": {}
 }

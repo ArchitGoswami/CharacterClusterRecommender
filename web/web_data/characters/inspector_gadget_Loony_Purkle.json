@@ -1,7 +1,13 @@
 {
   "name": "Loony Purkle",
   "show": "Inspector Gadget",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "LovableCoward",
+    "RememberTheNewGuy",
+    "CannotSpitItOut",
+    "TheSmartGuy",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

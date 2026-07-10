@@ -1,7 +1,19 @@
 {
   "name": "Tony Kadjic",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheManBehindTheMan",
+    "BigBadDuumvirate",
+    "HeroAntagonist",
+    "ArmsDealer",
+    "ScrewTheRulesIHaveConnections",
+    "TrueFinalBoss",
+    "LackOfEmpathy",
+    "RuthlessForeignGangsters",
+    "ManOfWealthAndTaste",
+    "FauxAffablyEvil",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

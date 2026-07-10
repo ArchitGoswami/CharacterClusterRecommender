@@ -1,7 +1,22 @@
 {
   "name": "Radek Zelenka",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HomelessPigeonPerson",
+    "Catchphrase",
+    "ForeignCussWord",
+    "NationalityAsAlias",
+    "TheKlutz",
+    "Foil",
+    "CrouchingMoronHiddenBadass",
+    "FakeGuestStar",
+    "GeniusDitz",
+    "BeleagueredAssistant",
+    "PermaStubble",
+    "ForeignLanguageTirade",
+    "BilingualBonus",
+    "BreakingTheFourthWall"
+  ],
   "tropes_by_category": {}
 }

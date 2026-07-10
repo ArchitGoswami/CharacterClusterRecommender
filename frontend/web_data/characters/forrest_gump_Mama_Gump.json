@@ -1,7 +1,15 @@
 {
   "name": "Mama Gump",
   "show": "Forrest Gump",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "UnnamedParent",
+    "WhoNamesTheirKidDude",
+    "GoodParents",
+    "HowTheyTreatTheHelp",
+    "MamaBear",
+    "FaceDeathWithDignity"
+  ],
   "tropes_by_category": {}
 }

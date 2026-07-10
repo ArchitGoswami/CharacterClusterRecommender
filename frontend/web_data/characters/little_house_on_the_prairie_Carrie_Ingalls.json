@@ -1,7 +1,11 @@
 {
   "name": "Carrie Ingalls",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ShrinkingViolet",
+    "CoolBigSis",
+    "DelicateAndSickly"
+  ],
   "tropes_by_category": {}
 }

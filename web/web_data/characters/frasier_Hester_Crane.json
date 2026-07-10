@@ -1,7 +1,29 @@
 {
   "name": "Hester Crane",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "SitcomArchNemesis",
+    "ExcellentJudgeOfCharacter",
+    "PosthumousCharacter",
+    "TheProfiler",
+    "NeverMyFault",
+    "NotSoAboveItAll",
+    "IWarnedYou",
+    "TheHeart",
+    "DatingWhatDaddyHates",
+    "JerkassHasAPoint",
+    "SecretKeeper",
+    "OnceDoneNeverForgotten",
+    "ImagineSpot",
+    "HappilyMarried",
+    "TimeshiftedActor",
+    "EarlyInstallmentWeirdness",
+    "WartsAndAll",
+    "ObnoxiousInLaws",
+    "NeverSpeakIllOfTheDead",
+    "HypocriteHasAPoint",
+    "DeceasedParentsAreTheBest"
+  ],
   "tropes_by_category": {}
 }

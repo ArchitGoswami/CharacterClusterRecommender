@@ -1,7 +1,10 @@
 {
   "name": "Officer Junior Reigns",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DearJohnLetter",
+    "SecondEpisodeIntroduction"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Julie Molina",
   "show": "Julie and the Phantoms",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EveryoneCanSeeIt",
+    "DeadpanSnarker",
+    "PowerOfLove",
+    "RedOniBlueOni",
+    "AdaptationalAngstUpgrade",
+    "BlessedWithSuck",
+    "ISeeDeadPeople",
+    "ImagineSpot",
+    "ActingOutADaydream",
+    "AffectionateNickname",
+    "ShipTease",
+    "ProtagonistTitle",
+    "AnimalMotifs",
+    "MissingMom",
+    "LovedByAll",
+    "BrokenAce",
+    "FourTemperamentEnsemble"
+  ],
   "tropes_by_category": {}
 }

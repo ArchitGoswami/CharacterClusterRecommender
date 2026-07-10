@@ -1,7 +1,22 @@
 {
   "name": "King Richard III",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeroWithBadPublicity",
+    "DeadpanSnarker",
+    "WeHaveReserves",
+    "ImStandingRightHere",
+    "EstablishingCharacterMoment",
+    "WeatherManipulation",
+    "JerkassToOne",
+    "OlderThanTheyLook",
+    "AgeLift",
+    "OffscreenMomentOfAwesome",
+    "RoyalsWhoActuallyDoSomething",
+    "BlingOfWar",
+    "AscendToAHigherPlaneOfExistence",
+    "HistoricalHeroUpgrade"
+  ],
   "tropes_by_category": {}
 }

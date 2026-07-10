@@ -1,7 +1,21 @@
 {
   "name": "White Tigerzord",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "KilledOffForReal",
+    "BladeBelowTheShoulder",
+    "CoolSword",
+    "DeathByAdaptation",
+    "FinishingMove",
+    "PantheraAwesome",
+    "BarrierWarrior",
+    "TransformingMecha",
+    "ChestBlaster",
+    "StockFootage",
+    "CombiningMecha",
+    "AdaptationalBadass",
+    "MotionCaptureMecha"
+  ],
   "tropes_by_category": {}
 }

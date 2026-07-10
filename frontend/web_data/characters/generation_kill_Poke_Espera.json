@@ -1,7 +1,17 @@
 {
   "name": "Poke Espera",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CharacterFilibuster",
+    "FamilyBusiness",
+    "MyGirlBackHome",
+    "ConsummateProfessional",
+    "ActorSharedBackground",
+    "AmbiguouslyBrown",
+    "VitriolicBestBuds",
+    "BrokenAce",
+    "GreekChorus"
+  ],
   "tropes_by_category": {}
 }

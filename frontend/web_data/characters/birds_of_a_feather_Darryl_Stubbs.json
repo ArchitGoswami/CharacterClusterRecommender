@@ -1,7 +1,16 @@
 {
   "name": "Darryl Stubbs",
   "show": "Birds of a Feather",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheGhost",
+    "DisappearedDad",
+    "DisneyVillainDeath",
+    "KilledOffscreen",
+    "HappilyMarried",
+    "OutOfFocus",
+    "DrivenToSuicide",
+    "LoserSonOfLoserDad"
+  ],
   "tropes_by_category": {}
 }

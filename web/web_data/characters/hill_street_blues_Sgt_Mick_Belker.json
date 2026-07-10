@@ -1,7 +1,21 @@
 {
   "name": "Sgt. Mick Belker",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "IWorkAlone",
+    "BruiserWithASoftCenter",
+    "DistaffCounterpart",
+    "TinyTyrannicalGirl",
+    "MommasBoy",
+    "OnceDoneNeverForgotten",
+    "RabidCop",
+    "RunningGag",
+    "JewishMother",
+    "TheNapoleon",
+    "PermaStubble",
+    "HiddenDepths",
+    "CigarChomper"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "Kimi Finster",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "Foil",
+    "LethalChef",
+    "RedOni",
+    "EasilyForgiven",
+    "EarlyInstallmentCharacterDesignDifference",
+    "TokenMinority",
+    "BlueOni",
+    "DisappearedDad",
+    "FarEast",
+    "TheAce",
+    "ShipTease",
+    "WhyDidItHaveToBeSnakes",
+    "Irony",
+    "SheCleansUpNicely",
+    "ImStandingRightHere",
+    "FreakyFashionMildMind",
+    "LittleMissSnarker",
+    "TomboyAndGirlyGirl",
+    "Lampshaded"
+  ],
   "tropes_by_category": {}
 }

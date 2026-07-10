@@ -1,7 +1,17 @@
 {
   "name": "Joan Mavis \"Joannie\" Hollins Trotter",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SympatheticAdulterer",
+    "RunningGag",
+    "DrowningMySorrows",
+    "PosthumousCharacter",
+    "CloserToEarth",
+    "TooGoodForThisSinfulEarth",
+    "LampshadeHanging",
+    "ExpositoryHairstyleChange",
+    "TogetherInDeath"
+  ],
   "tropes_by_category": {}
 }

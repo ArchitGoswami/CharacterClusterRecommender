@@ -1,7 +1,22 @@
 {
   "name": "Janus",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "LovableRogue",
+    "PetTheDog",
+    "NiceGuy",
+    "MadScientist",
+    "GoneHorriblyWrong",
+    "FlingALightIntoTheFuture",
+    "SoProudOfYou",
+    "LongLived",
+    "ForScience",
+    "TheSmartGuy",
+    "TooCleverByHalf",
+    "FantasticRacism",
+    "DidntThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

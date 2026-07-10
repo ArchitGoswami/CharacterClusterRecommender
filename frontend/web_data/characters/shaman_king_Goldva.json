@@ -1,7 +1,12 @@
 {
   "name": "Goldva",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "LaughingMad",
+    "TheWorfEffect",
+    "LadyLooksLikeADude",
+    "GoMadFromTheRevelation"
+  ],
   "tropes_by_category": {}
 }

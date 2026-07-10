@@ -1,7 +1,15 @@
 {
   "name": "Valentina Espinoza",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "StringTheory",
+    "CatFolk",
+    "BerserkButton",
+    "Determinator",
+    "GetOutOfJailFreeCard",
+    "WrongGenreSavvy"
+  ],
   "tropes_by_category": {}
 }

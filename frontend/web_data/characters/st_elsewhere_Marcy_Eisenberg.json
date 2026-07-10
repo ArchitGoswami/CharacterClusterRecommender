@@ -1,7 +1,10 @@
 {
   "name": "Marcy Eisenberg",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheResenter",
+    "CallingTheOldManOut"
+  ],
   "tropes_by_category": {}
 }

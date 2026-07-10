@@ -1,7 +1,21 @@
 {
   "name": "The Toro Family",
   "show": "Jakers! The Adventures of Piggley Winks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "GentleGiant",
+    "SmarterThanTheyLook",
+    "NiceGuy",
+    "LovableCoward",
+    "TheBully",
+    "TheSmartGirl",
+    "BurlyBlacksmith",
+    "BigEater",
+    "MissingMom",
+    "BreakTheCutie",
+    "PapaWolf",
+    "Cloudcuckoolander",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

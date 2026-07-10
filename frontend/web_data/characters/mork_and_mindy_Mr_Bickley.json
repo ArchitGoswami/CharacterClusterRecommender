@@ -1,7 +1,13 @@
 {
   "name": "Mr. Bickley",
   "show": "Mork and Mindy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AdvertisedExtra",
+    "JerkWithAHeartOfGold",
+    "PetTheDog",
+    "NamedAfterSomebodyFamous",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Evil Spy",
   "show": "Blazing Dragons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheFaceless",
+    "PaperThinDisguise",
+    "TheVoiceless"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Koji and Stan",
   "show": "Oban Star-Racers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "ThoseTwoGuys",
+    "FieryRedhead",
+    "BlackAndNerdy",
+    "RedOniBlueOni",
+    "ShipperOnDeck",
+    "NiceGuy",
+    "MrFixit",
+    "EyesAlwaysShut",
+    "SmartPeopleWearGlasses",
+    "SensitiveGuyAndManlyMan",
+    "HeterosexualLifePartners",
+    "CharacterDevelopment",
+    "TheSmartGuy",
+    "NoHeroToHisValet",
+    "AsianAndNerdy",
+    "IrrationalHatred"
+  ],
   "tropes_by_category": {}
 }

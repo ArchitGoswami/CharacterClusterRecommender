@@ -1,7 +1,15 @@
 {
   "name": "Herod",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "RealMenWearPink",
+    "PuppetKing",
+    "AbortedArc",
+    "YoungFutureFamousPeople",
+    "WordOfGod",
+    "TheQuisling",
+    "SleazyPolitician"
+  ],
   "tropes_by_category": {}
 }

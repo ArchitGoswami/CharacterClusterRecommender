@@ -1,7 +1,11 @@
 {
   "name": "Mr. Phillips",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ApatheticTeacher",
+    "Jerkass",
+    "ArmouredClosetGay"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Dubstep Bees",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "TheImmune",
+    "BeeAfraid",
+    "StarfishLanguage",
+    "LargeAndInCharge",
+    "InvoluntaryDance",
+    "DominanceThroughFurniture",
+    "FourLeggedInsect"
+  ],
   "tropes_by_category": {}
 }

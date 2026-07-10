@@ -1,7 +1,27 @@
 {
   "name": "Andi van Willigan",
   "show": "Hell's Kitchen",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "NotSoStoic",
+    "HeManWomanHater",
+    "UnwittingInstigatorOfDoom",
+    "DeadpanSnarker",
+    "HiddenDepths",
+    "TheReliableOne",
+    "TheBusCameBack",
+    "ADayInTheLimelight",
+    "BewareTheQuietOnes",
+    "PetTheDog",
+    "TheBully",
+    "ManipulativeBastard",
+    "PutOnABus",
+    "CurbStompBattle",
+    "HamToHamCombat",
+    "TheStoic",
+    "ReasonableAuthorityFigure",
+    "CharacterFocus",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

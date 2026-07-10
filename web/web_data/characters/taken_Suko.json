@@ -1,7 +1,15 @@
 {
   "name": "Suko",
   "show": "Taken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AllThereInTheScript",
+    "NoFullNameGiven",
+    "SuspiciouslySimilarSubstitute",
+    "EvenEvilHasLovedOnes",
+    "EvilWearsBlack",
+    "TheBrute",
+    "TheDragon"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Matilda (All Series)",
   "show": "Robot Wars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "ChainsawGood",
+    "CameBackStrong",
+    "BackFromTheDead",
+    "SpikesOfVillainy",
+    "LegacyCharacter",
+    "SpectacularSpinning",
+    "MeaningfulName",
+    "OutOfFocus",
+    "RedEyesTakeWarning",
+    "ButtMonkey",
+    "BadassBack",
+    "HornAttack",
+    "LightningBruiser",
+    "GlowingEyesOfDoom",
+    "TheseusShipParadox",
+    "TemperCeratops",
+    "TookALevelInBadass",
+    "TomTheDarkLord",
+    "InSeriesNickname",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

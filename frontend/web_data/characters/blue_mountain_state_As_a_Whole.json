@@ -1,7 +1,17 @@
 {
   "name": "As a Whole",
   "show": "Blue Mountain State",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "FratBro",
+    "MaleFrontalNudity",
+    "WildTeenParty",
+    "WackyFratboyHijinx",
+    "RuleOfFunny",
+    "DumbJock",
+    "BookDumb",
+    "KarmaHoudiniWarranty",
+    "JerkJock"
+  ],
   "tropes_by_category": {}
 }

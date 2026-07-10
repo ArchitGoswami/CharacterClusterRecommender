@@ -1,7 +1,18 @@
 {
   "name": "Caine the Longshot",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SniperRifle",
+    "ChameleonCamouflage",
+    "BFG",
+    "Expy",
+    "CripplingOverspecialization",
+    "BetterToDieThanBeKilled",
+    "SelfDisposingVillain",
+    "SilentBob",
+    "RuleOfCool",
+    "ColdSniper"
+  ],
   "tropes_by_category": {}
 }

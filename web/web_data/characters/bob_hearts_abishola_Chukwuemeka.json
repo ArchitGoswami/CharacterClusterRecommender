@@ -1,7 +1,10 @@
 {
   "name": "Chukwuemeka",
   "show": "Bob Hearts Abishola",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BasementDweller",
+    "StrawMisogynist"
+  ],
   "tropes_by_category": {}
 }

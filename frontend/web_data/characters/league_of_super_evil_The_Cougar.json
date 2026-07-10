@@ -1,7 +1,15 @@
 {
   "name": "The Cougar",
   "show": "League of Super Evil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DirtyOldWoman",
+    "Expy",
+    "AnimalMotif",
+    "EvilOldFolks",
+    "MeaningfulName",
+    "Squick",
+    "ClassyCatBurglar"
+  ],
   "tropes_by_category": {}
 }

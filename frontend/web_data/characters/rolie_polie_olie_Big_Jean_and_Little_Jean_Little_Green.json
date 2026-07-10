@@ -1,7 +1,21 @@
 {
   "name": "Big Jean and Little Jean Little Green",
   "show": "Rolie Polie Olie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "StrangeSyntaxSpeaker",
+    "ThisIsMyNameOnForeign",
+    "ADayInTheLimelight",
+    "VocalEvolution",
+    "InterspeciesFriendship",
+    "EarlyInstallmentCharacterDesignDifference",
+    "RecurringExtra",
+    "AffectionateNickname",
+    "VerbalTic",
+    "LittleGreenMen",
+    "LivingEmotionalCrutch",
+    "MeaningfulName",
+    "YouNoTakeCandle"
+  ],
   "tropes_by_category": {}
 }

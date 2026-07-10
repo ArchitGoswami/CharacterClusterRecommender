@@ -1,7 +1,22 @@
 {
   "name": "Zephyr Vos",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DistaffCounterpart",
+    "WantedAGenderConformingChild",
+    "LiteralMinded",
+    "TookALevelInBadass",
+    "AmbiguouslyBi",
+    "ThePigpen",
+    "NonActionGuy",
+    "HeroWorship",
+    "SecretTestOfCharacter",
+    "TeethClenchedTeamwork",
+    "OnlyKnownByTheirNickname",
+    "AwesomenessByAnalysis",
+    "DarkAndTroubledPast",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

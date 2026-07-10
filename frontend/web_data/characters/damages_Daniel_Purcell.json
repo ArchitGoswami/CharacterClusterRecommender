@@ -1,7 +1,17 @@
 {
   "name": "Daniel Purcell",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LukeIAmYourFather",
+    "NotSoStoic",
+    "HappilyMarried",
+    "CorruptTheCutie",
+    "RealLifeWritesThePlot",
+    "NewOldFlame",
+    "TheOneThatGotAway",
+    "SmugSnake",
+    "Subverted"
+  ],
   "tropes_by_category": {}
 }

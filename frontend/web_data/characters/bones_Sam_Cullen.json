@@ -1,7 +1,14 @@
 {
   "name": "Sam Cullen",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DaChief",
+    "ChuckCunninghamSyndrome",
+    "ADayInTheLimelight",
+    "ReasonableAuthorityFigure",
+    "BaldOfAuthority",
+    "ItsPersonal"
+  ],
   "tropes_by_category": {}
 }

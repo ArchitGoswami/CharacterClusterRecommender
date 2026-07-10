@@ -1,7 +1,24 @@
 {
   "name": "Barney",
   "show": "Grojband",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "SitcomArchNemesis",
+    "OddFriendship",
+    "NiceGuy",
+    "PetTheDog",
+    "GoodAllAlong",
+    "PunnyName",
+    "CensorSuds",
+    "IHaveManyNames",
+    "NewJobAsThePlotDemands",
+    "PermaStubble",
+    "IGaveMyWord",
+    "InSeriesNickname",
+    "IfYoureSoEvilEatThisKitten",
+    "BewareTheNiceOnes",
+    "IntergenerationalFriendship",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

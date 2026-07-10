@@ -1,7 +1,11 @@
 {
   "name": "The Freeze",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HarmlessFreezing",
+    "AnIcePerson",
+    "IceMagicIsWater"
+  ],
   "tropes_by_category": {}
 }

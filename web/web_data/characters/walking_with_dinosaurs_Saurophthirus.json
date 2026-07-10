@@ -1,7 +1,12 @@
 {
   "name": "Saurophthirus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ProportionatelyPonderousParasites",
+    "BigCreepyCrawlies",
+    "AllThereInTheManual",
+    "ParasiticHorror"
+  ],
   "tropes_by_category": {}
 }

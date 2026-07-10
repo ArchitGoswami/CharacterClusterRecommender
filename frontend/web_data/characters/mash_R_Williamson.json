@@ -1,7 +1,21 @@
 {
   "name": "R. Williamson",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Blackmail",
+    "CallBack",
+    "Hypocrite",
+    "Jerkass",
+    "JerkWithTheHeartOfAJerk",
+    "BatmanGambit",
+    "RedScare",
+    "HateSink",
+    "TheStinger",
+    "InUniverse",
+    "CastingCouch",
+    "ReallyGetsAround",
+    "IronicEcho"
+  ],
   "tropes_by_category": {}
 }

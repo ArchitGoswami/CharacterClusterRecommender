@@ -1,7 +1,14 @@
 {
   "name": "Jordan Bennett",
   "show": "Sister, Sister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "StrawMisogynist",
+    "BlackAndNerdy",
+    "LoveInterest",
+    "PromotedToOpeningTitles",
+    "TookALevelInKindness",
+    "BelligerentSexualTension"
+  ],
   "tropes_by_category": {}
 }

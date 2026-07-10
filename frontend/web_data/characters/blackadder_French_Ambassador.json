@@ -1,7 +1,21 @@
 {
   "name": "French Ambassador",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RightForTheWrongReasons",
+    "TheDogBitesBack",
+    "AssInAmbassador",
+    "NearVillainVictory",
+    "EverybodyCallsHimBarkeep",
+    "BiggerIsBetterInBed",
+    "ImAHumanitarian",
+    "WhatHappenedToTheMouse",
+    "LameComeback",
+    "KlingonPromotion",
+    "EvenEvilHasStandards",
+    "PoliticallyIncorrectVillain",
+    "YouNoTakeCandle"
+  ],
   "tropes_by_category": {}
 }

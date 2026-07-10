@@ -1,7 +1,12 @@
 {
   "name": "Emily Dickinson Jones",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PromotionNotPunishment",
+    "NamedAfterSomebodyFamous",
+    "DrillSergeantNasty",
+    "GenderBlenderName"
+  ],
   "tropes_by_category": {}
 }

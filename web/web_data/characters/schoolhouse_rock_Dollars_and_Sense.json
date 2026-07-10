@@ -1,7 +1,11 @@
 {
   "name": "Dollars and Sense",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "FarmersDaughter",
+    "MoneyDumb",
+    "CountryMusic"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Eric Boyer",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HeroicSuicide",
+    "TheConspiracy",
+    "Expy"
+  ],
   "tropes_by_category": {}
 }

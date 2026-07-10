@@ -1,7 +1,23 @@
 {
   "name": "Sergeant Dunder",
   "show": "TaleSpin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AffablyEvil",
+    "MildlyMilitary",
+    "ApologeticAttacker",
+    "TheBigGuy",
+    "NiceGuy",
+    "MookLieutenant",
+    "CrouchingMoronHiddenBadass",
+    "MinionWithAnFInEvil",
+    "SatelliteCharacter",
+    "TokenGoodTeammate",
+    "PunchClockVillain",
+    "TheBrute",
+    "TheSlacker",
+    "NiceMeanAndInBetween",
+    "HeelFaceRevolvingDoor"
+  ],
   "tropes_by_category": {}
 }

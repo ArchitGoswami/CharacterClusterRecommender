@@ -1,7 +1,20 @@
 {
   "name": "Tatouro",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "PintSizedPowerhouse",
+    "DumbMuscle",
+    "TheBigGuy",
+    "TheDitz",
+    "AdaptationalIntelligence",
+    "KidHero",
+    "AntiHero",
+    "FatalFlaw",
+    "AnimalMotifs",
+    "SuperStrength",
+    "SuperStrongChild",
+    "RollingAttack"
+  ],
   "tropes_by_category": {}
 }

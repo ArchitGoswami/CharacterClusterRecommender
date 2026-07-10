@@ -1,7 +1,13 @@
 {
   "name": "Ronald Wisenheimer",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "Catchphrase",
+    "TheAhnold",
+    "LargeHam",
+    "SignificantAnagram"
+  ],
   "tropes_by_category": {}
 }

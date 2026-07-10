@@ -1,7 +1,26 @@
 {
   "name": "The Four Horsemen",
   "show": "The Cuphead Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "HorsemenOfTheApocalypse",
+    "AffablyEvil",
+    "FourIsDeath",
+    "BodyHorror",
+    "DemBones",
+    "YouAreNumberSix",
+    "HorrifyingTheHorror",
+    "CanonForeigner",
+    "FaceOfAThug",
+    "TheDreaded",
+    "GodzillaThreshold",
+    "CaptainObvious",
+    "KnightOfCerebus",
+    "NonStandardCharacterDesign",
+    "ColorFailure",
+    "PunchClockVillain",
+    "RedEyesTakeWarning",
+    "HellishHorse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Rufus Humphrey",
   "show": "Gossip Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TwitchyEye",
+    "LongLostRelative",
+    "OneNoteCook",
+    "TookALevelInDumbass",
+    "HouseHusband",
+    "Flanderization",
+    "TrademarkFavoriteFood",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

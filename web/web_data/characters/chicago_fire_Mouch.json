@@ -1,7 +1,25 @@
 {
   "name": "Mouch",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Retirony",
+    "ExperiencedProtagonist",
+    "DisappearedDad",
+    "BraveScot",
+    "NoSocialSkills",
+    "WordOfGod",
+    "HappilyMarried",
+    "UnmanlySecret",
+    "BunnyEarsLawyer",
+    "HeterosexualLifePartners",
+    "IdiotBall",
+    "EmbarrassingNickname",
+    "RankUp",
+    "OnlyKnownByTheirNickname",
+    "CharacterizationMarchesOn",
+    "EverythingsLouderWithBagpipes",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

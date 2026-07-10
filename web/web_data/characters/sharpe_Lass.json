@@ -1,7 +1,17 @@
 {
   "name": "Lass",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SuddenlyVoiced",
+    "ClothingDamage",
+    "AttemptedRape",
+    "BewareTheQuietOnes",
+    "CanonForeigner",
+    "HeroicBSOD",
+    "SilkHidingSteel",
+    "BadassPreacher",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

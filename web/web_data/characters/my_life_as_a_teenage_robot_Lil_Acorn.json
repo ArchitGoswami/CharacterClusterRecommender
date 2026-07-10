@@ -1,7 +1,13 @@
 {
   "name": "Lil Acorn",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NeverMyFault",
+    "BewareTheSillyOnes",
+    "DemonicDummy",
+    "AIIsACrapshoot",
+    "IJustWantToBeLoved"
+  ],
   "tropes_by_category": {}
 }

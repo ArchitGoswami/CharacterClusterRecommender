@@ -1,7 +1,14 @@
 {
   "name": "Brightly",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HeelFaceTurn",
+    "AlmightyJanitor",
+    "AlternateTooniverse",
+    "JerkWithAHeartOfGold",
+    "MyGodWhatHaveIDone",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

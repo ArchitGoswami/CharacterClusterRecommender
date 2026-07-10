@@ -1,7 +1,24 @@
 {
   "name": "Baron Samedi",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "RiseFromYourGrave",
+    "WickedCultured",
+    "ScaryBlackMan",
+    "CharacterTics",
+    "EvilLaugh",
+    "LargeHam",
+    "SwordCane",
+    "UnderestimatingBadassery",
+    "PreMortemOneLiner",
+    "Pun",
+    "LackOfEmpathy",
+    "MeaningfulName",
+    "TheDragon",
+    "BaldOfEvil",
+    "BeardOfEvil",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

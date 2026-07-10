@@ -1,7 +1,15 @@
 {
   "name": "Mayor \"Fitzy\" Fitzgerald",
   "show": "Corner Gas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EvenBadMenLoveTheirMamas",
+    "PointyHairedBoss",
+    "CluelessBoss",
+    "CuttingCorners",
+    "ObstructiveBureaucrat",
+    "UltimateJobSecurity",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

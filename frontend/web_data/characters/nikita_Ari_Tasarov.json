@@ -1,7 +1,26 @@
 {
   "name": "Ari Tasarov",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AffablyEvil",
+    "DeadpanSnarker",
+    "BodyguardBetrayal",
+    "BilingualDialogue",
+    "PapaWolf",
+    "TheChessmaster",
+    "DefectorFromDecadence",
+    "BadassBoast",
+    "EvenEvilHasLovedOnes",
+    "EvilVersusEvil",
+    "ManipulativeBastard",
+    "UnholyMatrimony",
+    "KlingonPromotion",
+    "TheStarscream",
+    "DragonWithAnAgenda",
+    "RedemptionEqualsDeath",
+    "DragonAscendant",
+    "BadassInANiceSuit"
+  ],
   "tropes_by_category": {}
 }

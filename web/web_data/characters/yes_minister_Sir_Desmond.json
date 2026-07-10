@@ -1,7 +1,14 @@
 {
   "name": "Sir Desmond",
   "show": "Yes, Minister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MorallyBankruptBanker",
+    "ThePiratesWhoDontDoAnything",
+    "TheDitz",
+    "ClicheStorm",
+    "Flanderization",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

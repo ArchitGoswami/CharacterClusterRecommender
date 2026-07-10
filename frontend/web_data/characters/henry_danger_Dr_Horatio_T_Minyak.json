@@ -1,7 +1,24 @@
 {
   "name": "Dr. Horatio T. Minyak",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "DeadpanSnarker",
+    "EvilBrit",
+    "LaughablyEvil",
+    "NotSoHarmlessVillain",
+    "VillainDecay",
+    "KarmaHoudini",
+    "MindControlMusic",
+    "MadScientist",
+    "WouldHurtAChild",
+    "MeaningfulName",
+    "CardCarryingVillain",
+    "HoistByHisOwnPetard",
+    "VillainTeamUp",
+    "DemotedToExtra",
+    "FauxAffablyEvil",
+    "AndThenWhat"
+  ],
   "tropes_by_category": {}
 }

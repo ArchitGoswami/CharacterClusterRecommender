@@ -1,7 +1,19 @@
 {
   "name": "Kraggler",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SelfDemonstratingArticle",
+    "TimeMaster",
+    "ArchEnemy",
+    "OurGargoylesRock",
+    "SeniorSleepCycle",
+    "GrumpyOldMan",
+    "TotallyRadical",
+    "RapidAging",
+    "EvilOldFolks",
+    "ScatterbrainedSenior",
+    "PlotRelevantAgeUp"
+  ],
   "tropes_by_category": {}
 }

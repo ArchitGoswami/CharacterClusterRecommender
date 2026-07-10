@@ -1,7 +1,16 @@
 {
   "name": "Ashley Garcia",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OddFriendship",
+    "AttentionDeficitOohShiny",
+    "BigFun",
+    "Manchild",
+    "PutOnABus",
+    "TheSlacker",
+    "BumblingSidekick",
+    "ProfessionalSlacker"
+  ],
   "tropes_by_category": {}
 }

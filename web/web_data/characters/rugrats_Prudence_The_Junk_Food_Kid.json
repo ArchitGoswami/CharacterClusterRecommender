@@ -1,7 +1,13 @@
 {
   "name": "Prudence/The Junk Food Kid",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "DefeatMeansFriendship",
+    "ReformedBully",
+    "TheTropeKid",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

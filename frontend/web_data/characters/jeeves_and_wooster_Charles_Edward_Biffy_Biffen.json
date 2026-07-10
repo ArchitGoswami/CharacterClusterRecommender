@@ -1,7 +1,10 @@
 {
   "name": "Charles Edward \"Biffy\" Biffen",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ForgetfulJones",
+    "UpperClassTwit"
+  ],
   "tropes_by_category": {}
 }

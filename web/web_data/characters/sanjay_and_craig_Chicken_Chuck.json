@@ -1,7 +1,14 @@
 {
   "name": "Chicken Chuck",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheRockStar",
+    "CarpetOfVirility",
+    "TrademarkFavoriteFood",
+    "HiddenDepths",
+    "EightiesHair",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

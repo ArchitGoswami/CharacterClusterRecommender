@@ -1,7 +1,21 @@
 {
   "name": "Alice Carter",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "YoureNotMyFather",
+    "Inverted",
+    "MayflyDecemberRomance",
+    "RememberTheNewGuy",
+    "ActionMom",
+    "AbsurdlyYouthfulParent",
+    "TraumaCongaLine",
+    "Muggle",
+    "OutlivingOnesOffspring",
+    "GenerationXerox",
+    "Really700YearsOld",
+    "BreakTheCutie",
+    "WhamLine"
+  ],
   "tropes_by_category": {}
 }

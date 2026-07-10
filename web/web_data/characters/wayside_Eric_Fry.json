@@ -1,7 +1,12 @@
 {
   "name": "Eric Fry",
   "show": "Wayside",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TokenMinority",
+    "BigThinShortTrio",
+    "AdaptationNameChange",
+    "TheAce"
+  ],
   "tropes_by_category": {}
 }

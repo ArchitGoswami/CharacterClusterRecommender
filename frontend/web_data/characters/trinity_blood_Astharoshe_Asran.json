@@ -1,7 +1,12 @@
 {
   "name": "Astharoshe Asran",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "LockedIntoStrangeness",
+    "EnergyWeapon",
+    "BadassBoast",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

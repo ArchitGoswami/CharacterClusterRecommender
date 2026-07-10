@@ -1,7 +1,17 @@
 {
   "name": "Ryuuhei Suga",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ThoseTwoGuys",
+    "RedOniBlueOni",
+    "WordOfGod",
+    "AuthorAvatar",
+    "BromanticFoil",
+    "Flanderization",
+    "CaptainErsatz",
+    "Hypocrite",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Colonel David Telford",
   "show": "Stargate Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheBusCameBack",
+    "JerkWithAHeartOfGold",
+    "ExpendableClone",
+    "Brainwashed",
+    "ReverseMole",
+    "TheMole",
+    "NeverMyFault",
+    "ManipulativeBastard",
+    "PutOnABus",
+    "JerkAss",
+    "TheNeidermeyer"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Jetstreak",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "GroinAttack",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

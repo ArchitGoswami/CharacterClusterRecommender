@@ -1,7 +1,15 @@
 {
   "name": "Laddio",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheDitz",
+    "TheHerosJourney",
+    "KidSidekick",
+    "BatmanParody",
+    "InnocentFanserviceGuy",
+    "LegacyCharacter",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

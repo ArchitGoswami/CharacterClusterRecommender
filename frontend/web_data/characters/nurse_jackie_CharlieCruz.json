@@ -1,7 +1,10 @@
 {
   "name": "CharlieCruz",
   "show": "Nurse Jackie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "IntergenerationalFriendship",
+    "MoralityPet"
+  ],
   "tropes_by_category": {}
 }

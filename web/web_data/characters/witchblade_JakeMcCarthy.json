@@ -1,7 +1,12 @@
 {
   "name": "JakeMcCarthy",
   "show": "Witchblade",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DrivenToSuicide",
+    "DemonicPossession",
+    "SecretSecretKeeper",
+    "HopelessSuitor"
+  ],
   "tropes_by_category": {}
 }

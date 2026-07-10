@@ -1,7 +1,17 @@
 {
   "name": "Dante",
   "show": "Ridley Jones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DumbMuscle",
+    "BigBrotherInstinct",
+    "TheBigGuy",
+    "IAmSong",
+    "NiceGuy",
+    "PrimaryColorChampion",
+    "PlayedWith",
+    "BewareTheNiceOnes",
+    "CompanionCube"
+  ],
   "tropes_by_category": {}
 }

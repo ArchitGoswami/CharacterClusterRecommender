@@ -1,7 +1,23 @@
 {
   "name": "Chloe Chronicle",
   "show": "Infinite Stratos",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "SharedUnusualTrait",
+    "MagicalEye",
+    "MasterOfIllusion",
+    "LethalChef",
+    "ArtificialHuman",
+    "EyesAlwaysShut",
+    "SwordCane",
+    "UndyingLoyalty",
+    "BigEater",
+    "AlliterativeName",
+    "NoodleIncident",
+    "DamselInDistress",
+    "TheCracker",
+    "CloneAngst",
+    "MysticalWhiteHair"
+  ],
   "tropes_by_category": {}
 }

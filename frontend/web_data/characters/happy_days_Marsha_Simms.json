@@ -1,7 +1,10 @@
 {
   "name": "Marsha Simms",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HairOfGoldHeartOfGold",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

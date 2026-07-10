@@ -1,7 +1,12 @@
 {
   "name": "Grandma Roz Schotz",
   "show": "Bizaardvark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SuperStrength",
+    "RetiredBadass",
+    "BoxingBattler",
+    "HappilyMarried"
+  ],
   "tropes_by_category": {}
 }

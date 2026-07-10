@@ -1,7 +1,14 @@
 {
   "name": "Ty Ridgemount",
   "show": "Stoked",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HorribleJudgeOfCharacter",
+    "FoolishSiblingResponsibleSibling",
+    "ObliviousToLove",
+    "WhatDoesHeSeeInHer",
+    "AloofBigBrother",
+    "EternallyPearlyWhiteTeeth"
+  ],
   "tropes_by_category": {}
 }

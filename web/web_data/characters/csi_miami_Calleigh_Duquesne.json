@@ -1,7 +1,12 @@
 {
   "name": "Calleigh Duquesne",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "LegFocus",
+    "NumberTwo",
+    "MsFanservice",
+    "SouthernFriedGenius"
+  ],
   "tropes_by_category": {}
 }

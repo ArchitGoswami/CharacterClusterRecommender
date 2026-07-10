@@ -1,7 +1,20 @@
 {
   "name": "Stormy",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TokenEvilTeammate",
+    "DarkIsNotEvil",
+    "AmazingTechnicolorWildlife",
+    "JerkWithAHeartOfGold",
+    "MinionManipulatedIntoVillainy",
+    "SubvertedTrope",
+    "PaintingTheFrostOnWindows",
+    "TheMcCoy",
+    "ManipulativeBastard",
+    "GreenEyedMonster",
+    "ToylessToylineCharacter",
+    "HellishHorse"
+  ],
   "tropes_by_category": {}
 }

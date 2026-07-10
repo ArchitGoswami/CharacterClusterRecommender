@@ -1,7 +1,23 @@
 {
   "name": "Spike Taylor (Kenryu Kodai)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "PapaWolf",
+    "Expy",
+    "AnimeHair",
+    "Manchild",
+    "HappilyMarried",
+    "GoodParents",
+    "BigGood",
+    "AdventurerArchaeologist",
+    "DishingOutDirt",
+    "ManlyFacialHair",
+    "BigDamnHeroes",
+    "HiddenDepths",
+    "OutOfFocus",
+    "DemotedToExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

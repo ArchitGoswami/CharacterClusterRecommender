@@ -1,7 +1,16 @@
 {
   "name": "Arthur Manchester",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BrokenPedestal",
+    "SacrificialLion",
+    "TheMole",
+    "WellIntentionedExtremist",
+    "DrunkWithPower",
+    "ShadowArchetype",
+    "HeKnowsTooMuch",
+    "HeelFaceRevolvingDoor"
+  ],
   "tropes_by_category": {}
 }

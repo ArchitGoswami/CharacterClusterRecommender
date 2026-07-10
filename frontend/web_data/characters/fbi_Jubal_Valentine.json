@@ -1,7 +1,20 @@
 {
   "name": "Jubal Valentine",
   "show": "FBI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "FamilyBusiness",
+    "VoiceWithAnInternetConnection",
+    "WhenYouComingHomeDad",
+    "OffTheWagon",
+    "NumberTwo",
+    "OutlivingOnesOffspring",
+    "TheAlcoholic",
+    "ThinkingTic",
+    "AmicableExes",
+    "WeUsedToBeFriends",
+    "NoIndoorVoice",
+    "OfficeRomance"
+  ],
   "tropes_by_category": {}
 }

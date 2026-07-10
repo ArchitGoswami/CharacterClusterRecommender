@@ -1,7 +1,23 @@
 {
   "name": "Don Ho",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "TheMafia",
+    "NearDeathExperience",
+    "TheTriadsAndTheTongs",
+    "HeelRealization",
+    "ShutUpAndSaveMe",
+    "TheMonolith",
+    "HeelFaceDoorSlam",
+    "NinjaPirateZombieRobot",
+    "ExploitedTrope",
+    "DevilInPlainSight",
+    "ShameIfSomethingHappened",
+    "EyeScream",
+    "GreyGoo",
+    "AgonyOfTheFeet",
+    "TheDon"
+  ],
   "tropes_by_category": {}
 }

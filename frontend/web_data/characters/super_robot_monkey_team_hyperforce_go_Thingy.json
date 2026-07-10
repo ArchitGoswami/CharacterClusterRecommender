@@ -1,7 +1,11 @@
 {
   "name": "Thingy",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "VoluntaryShapeshifting",
+    "RidiculouslyCuteCritter",
+    "TeamPet"
+  ],
   "tropes_by_category": {}
 }

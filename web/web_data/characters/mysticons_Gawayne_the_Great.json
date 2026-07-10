@@ -1,7 +1,27 @@
 {
   "name": "Gawayne the Great",
   "show": "Mysticons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "BerserkButton",
+    "KarmicButtMonkey",
+    "JerkAss",
+    "HoistByHisOwnPetard",
+    "ComplainingAboutRescuesTheyDontLike",
+    "TheWrongfulHeirToTheThrone",
+    "ExplainExplainOhCrap",
+    "HatedByAll",
+    "BrutalHonesty",
+    "HiddenDepths",
+    "AdiposeRex",
+    "ItsAllAboutMe",
+    "LampshadeHanging",
+    "HopelessSuitor",
+    "AngstWhatAngst",
+    "HateSink",
+    "FatBastard",
+    "BigBrotherBully",
+    "TakenForGranite"
+  ],
   "tropes_by_category": {}
 }

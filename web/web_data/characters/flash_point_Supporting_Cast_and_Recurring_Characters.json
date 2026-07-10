@@ -1,7 +1,18 @@
 {
   "name": "Supporting Cast and Recurring Characters",
   "show": "Flash Point",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CatchPhrase",
+    "WellDoneSonGuy",
+    "ParentWithNewParamour",
+    "PutOnTheBus",
+    "DisappearedDad",
+    "VoiceWithAnInternetConnection",
+    "Tsundere",
+    "ShipTease",
+    "FollowInMyFootsteps",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

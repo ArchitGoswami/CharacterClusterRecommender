@@ -1,7 +1,15 @@
 {
   "name": "Queen of Hearts",
   "show": "Alice's Wonderland Bakery",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AdaptationalAttractiveness",
+    "DramaQueen",
+    "AdaptationalNiceGuy",
+    "Gonk",
+    "AdaptationalNationality",
+    "FatBastard",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

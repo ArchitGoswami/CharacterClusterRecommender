@@ -1,7 +1,24 @@
 {
   "name": "Luca Stolas",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "LifeDrain",
+    "PoisonousPerson",
+    "SlasherSmile",
+    "SeeTheInvisible",
+    "MyGreatestFailure",
+    "Leitmotif",
+    "NerdGlasses",
+    "CreepyGood",
+    "MadScientist",
+    "ExpressiveHair",
+    "TheGadfly",
+    "MorphicResonance",
+    "ExtremeOmnivore",
+    "BossRemix",
+    "LastNameBasis",
+    "CharacterClassSystem"
+  ],
   "tropes_by_category": {}
 }

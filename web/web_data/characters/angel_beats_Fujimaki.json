@@ -1,7 +1,20 @@
 {
   "name": "Fujimaki",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "EveryJapaneseSwordIsAKatana",
+    "Yakuza",
+    "GilliganCut",
+    "BalloonBelly",
+    "AbsurdPhobia",
+    "SuperDrowningSkills",
+    "ShrinkingViolet",
+    "BigEater",
+    "NoodleIncident",
+    "ImperialStormtrooperMarksmanshipAcademy",
+    "SwordAndGun",
+    "MookPromotion"
+  ],
   "tropes_by_category": {}
 }

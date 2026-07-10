@@ -1,7 +1,15 @@
 {
   "name": "Reina Akikawa",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PreFinalBoss",
+    "TookALevelInBadass",
+    "MightyGlacier",
+    "TheRival",
+    "AdaptationPersonalityChange",
+    "YouDontLookLikeYou",
+    "CurbStompBattle"
+  ],
   "tropes_by_category": {}
 }

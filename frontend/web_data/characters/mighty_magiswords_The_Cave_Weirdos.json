@@ -1,7 +1,25 @@
 {
   "name": "The Cave Weirdos",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DeadpanSnarker",
+    "DemBones",
+    "FailureIsTheOnlyOption",
+    "SnakesAreSinister",
+    "InfiniteSupplies",
+    "SssnakeTalk",
+    "GenkiGirl",
+    "TalkingAnimal",
+    "PunchClockVillain",
+    "BrilliantButLazy",
+    "MeanCharacterNiceActor",
+    "OurDragonsAreDifferent",
+    "TheGenericGuy",
+    "ItsAllAboutMe",
+    "TheSmartGuy",
+    "EarlyInstallmentWeirdness",
+    "PuzzleBoss"
+  ],
   "tropes_by_category": {}
 }

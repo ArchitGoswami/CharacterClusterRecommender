@@ -1,7 +1,13 @@
 {
   "name": "Victor Kozlowski",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PrecociousCrush",
+    "WoundedGazelleGambit",
+    "HeterosexualLifePartners",
+    "MistreatmentInducedBetrayal",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "The Judges",
   "show": "Robot Wars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CoolOldGuy",
+    "Foreshadowing",
+    "PromotedFanboy",
+    "EinsteinHair",
+    "TheVoiceless",
+    "LongRunner",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

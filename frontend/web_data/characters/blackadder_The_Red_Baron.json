@@ -1,7 +1,26 @@
 {
   "name": "The Red Baron",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "CastingGag",
+    "WickedCultured",
+    "CoolAndUnusualPunishment",
+    "Expy",
+    "WorthyOpponent",
+    "FateWorseThanDeath",
+    "SmugSnake",
+    "AcePilot",
+    "KilledMidSentence",
+    "EuropeansAreKinky",
+    "HistoricalBadassUpgrade",
+    "Kaiserreich",
+    "UnknownRival",
+    "StraightGay",
+    "WrongGenreSavvy",
+    "InvertedTrope",
+    "IdenticalGrandson",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

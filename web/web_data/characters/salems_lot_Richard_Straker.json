@@ -1,7 +1,30 @@
 {
   "name": "Richard Straker",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "YouHaveOutlivedYourUsefulness",
+    "LooksLikeOrlok",
+    "KarmicDeath",
+    "DiscOneFinalBoss",
+    "TheDragon",
+    "TheRenfield",
+    "CardCarryingVillain",
+    "YouHaveFailedMe",
+    "EvilBrit",
+    "ManipulativeBastard",
+    "WouldHurtAChild",
+    "AdaptationExpansion",
+    "SilverFox",
+    "AdaptationalBadass",
+    "Satan",
+    "StrongerThanTheyLook",
+    "GenreSavvy",
+    "BadPeopleAbuseAnimals",
+    "SerialKiller",
+    "BaldOfEvil",
+    "RadioDrama",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Ray Butani",
   "show": "Schitts Creek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ShadyRealEstateAgent",
+    "NewJobAsThePlotDemands",
+    "HiddenDepths",
+    "JackOfAllTrades",
+    "RoommateDrama",
+    "InnocentlyInsensitive",
+    "ComicallyMissingThePoint",
+    "ChristmasEpisode"
+  ],
   "tropes_by_category": {}
 }

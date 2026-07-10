@@ -1,7 +1,13 @@
 {
   "name": "Dr. Bug",
   "show": "Squidbillies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "SeriesFinale",
+    "RecurringExtra",
+    "LongLostRelative",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

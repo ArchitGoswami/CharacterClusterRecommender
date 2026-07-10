@@ -1,7 +1,28 @@
 {
   "name": "Achika Masaki",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "LuminescentBlush",
+    "ThisIsUnforgivable",
+    "PosthumousCharacter",
+    "ParentsKnowTheirChildren",
+    "TranquilFury",
+    "OrdinaryHighschoolStudent",
+    "NaginatasAreFeminine",
+    "LaserBlade",
+    "CastFromLifespan",
+    "FacialMarkings",
+    "RescueReversal",
+    "MamaBear",
+    "MySignificanceSenseIsTingling",
+    "LadyOfWar",
+    "ActionMom",
+    "BewareTheNiceOnes",
+    "NiceGirl",
+    "BerserkerTears",
+    "HalfTheManHeUsedToBe",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

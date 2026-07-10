@@ -1,7 +1,14 @@
 {
   "name": "Manimal Jacks",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheBigGuy",
+    "WarIsHell",
+    "ComicallyMissingThePoint",
+    "DearJohnLetter",
+    "BigDamnHeroes",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

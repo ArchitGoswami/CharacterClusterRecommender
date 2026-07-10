@@ -1,7 +1,21 @@
 {
   "name": "Russell",
   "show": "Middlemost Post",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "QueerEstablishingMoment",
+    "TeamPet",
+    "GenderBlenderName",
+    "HatesBaths",
+    "TheSmurfettePrinciple",
+    "Crossdresser",
+    "AllAnimalsAreDogs",
+    "InterspeciesRomance",
+    "TheVoiceless",
+    "TertiarySexualCharacteristics",
+    "WarmHeartedWalrus",
+    "IntelligibleUnintelligible",
+    "StomachOfHolding"
+  ],
   "tropes_by_category": {}
 }

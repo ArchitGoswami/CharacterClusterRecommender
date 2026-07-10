@@ -1,7 +1,10 @@
 {
   "name": "Mr. Poodlepants",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DemotedToExtra",
+    "NoCelebritiesWereHarmed"
+  ],
   "tropes_by_category": {}
 }

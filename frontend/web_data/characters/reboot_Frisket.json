@@ -1,7 +1,15 @@
 {
   "name": "Frisket",
   "show": "ReBoot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AmplifiedAnimalAptitude",
+    "TheNoseKnows",
+    "EvilDetectingDog",
+    "UndyingLoyalty",
+    "SuperStrength",
+    "TeamPet",
+    "MadeOfIron"
+  ],
   "tropes_by_category": {}
 }

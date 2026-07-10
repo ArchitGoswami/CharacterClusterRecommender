@@ -1,7 +1,31 @@
 {
   "name": "Prime Minister Brian Green",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "FateWorseThanDeath",
+    "OutsideGenreFoe",
+    "SpannerInTheWorks",
+    "DontCelebrateJustYet",
+    "VillainWithGoodPublicity",
+    "DeadpanSnarker",
+    "NeverMyFault",
+    "PresidentEvil",
+    "AmericaSavesTheDay",
+    "LaserGuidedKarma",
+    "WeaselWords",
+    "DissonantSerenity",
+    "HateSink",
+    "FourEyesZeroSoul",
+    "InsaneTrollLogic",
+    "TheSociopath",
+    "DrivenToSuicide",
+    "HumansAreTheRealMonsters",
+    "DeadlyEuphemism",
+    "DirtyCoward",
+    "BadBoss",
+    "InsistentTerminology"
+  ],
   "tropes_by_category": {}
 }

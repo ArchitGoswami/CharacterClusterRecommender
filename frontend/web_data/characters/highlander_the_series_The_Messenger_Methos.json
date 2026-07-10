@@ -1,7 +1,21 @@
 {
   "name": "The Messenger/\"Methos\"",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HorribleJudgeOfCharacter",
+    "LegendaryImpostor",
+    "TheUnreveal",
+    "SuicidalPacifism",
+    "LivingIsMoreThanSurviving",
+    "UnwittingInstigatorOfDoom",
+    "ActualPacifist",
+    "OneSteveLimit",
+    "TragicMistake",
+    "YouAreBetterThanYouThinkYouAre",
+    "NoNameGiven",
+    "Irony",
+    "BadassPacifist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Louise Jefferson",
   "show": "All in the Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NWordPrivileges",
+    "DeadpanSnarker",
+    "OddFriendship",
+    "NiceGuy",
+    "Foil",
+    "Fangirl",
+    "AffectionateNickname",
+    "CloserToEarth"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Dana Mosier",
   "show": "FBI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DaChief",
+    "BenevolentBoss",
+    "BrainyBrunette",
+    "ReasonableAuthorityFigure",
+    "SecondEpisodeSubstitute",
+    "PutOnABus",
+    "TheProfiler"
+  ],
   "tropes_by_category": {}
 }

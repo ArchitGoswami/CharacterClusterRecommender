@@ -1,7 +1,15 @@
 {
   "name": "Dada",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CrouchingMoronHiddenBadass",
+    "NervousWreck",
+    "TheFriendNobodyLikes",
+    "PottyFailure",
+    "HopelessSuitor",
+    "ButtMonkey",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

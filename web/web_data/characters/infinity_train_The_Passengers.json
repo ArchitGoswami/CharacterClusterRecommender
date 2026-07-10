@@ -1,7 +1,14 @@
 {
   "name": "The Passengers",
   "show": "Infinity Train",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ClaimedByTheSupernatural",
+    "MarkOfTheSupernatural",
+    "GuideDangIt",
+    "BadassNormal",
+    "FatalFlaw",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

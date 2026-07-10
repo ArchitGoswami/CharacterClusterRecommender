@@ -1,7 +1,10 @@
 {
   "name": "Alex Woods",
   "show": "Greenhouse Academy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RavenHairIvorySkin",
+    "TheScapegoat"
+  ],
   "tropes_by_category": {}
 }

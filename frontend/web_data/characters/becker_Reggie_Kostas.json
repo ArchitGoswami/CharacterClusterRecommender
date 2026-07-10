@@ -1,7 +1,22 @@
 {
   "name": "Reggie Kostas",
   "show": "Becker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "JadedWashout",
+    "ADegreeInUseless",
+    "DeadpanSnarker",
+    "BirdsOfAFeather",
+    "GreasySpoon",
+    "FamilyBusiness",
+    "PartingWordsRegret",
+    "LethalChef",
+    "StatuesqueStunner",
+    "ShipTease",
+    "PutOnABus",
+    "JustifiedTrope",
+    "LoveTriangle",
+    "FourTemperamentEnsemble"
+  ],
   "tropes_by_category": {}
 }

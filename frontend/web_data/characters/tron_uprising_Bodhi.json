@@ -1,7 +1,17 @@
 {
   "name": "Bodhi",
   "show": "Tron: Uprising",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "WeHardlyKnewYe",
+    "DoNotTauntCthulhu",
+    "FriendlyRivalry",
+    "TheGenericGuy",
+    "ChekhovsGun",
+    "SacrificialLamb",
+    "HotBlooded",
+    "DeathByOriginStory"
+  ],
   "tropes_by_category": {}
 }

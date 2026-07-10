@@ -1,7 +1,27 @@
 {
   "name": "Megan Sparkles",
   "show": "Sanjay and Craig",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "BerserkButton",
+    "GirlyGirl",
+    "MeaningfulName",
+    "JerkWithAHeartOfGold",
+    "TheLadette",
+    "LoveInterest",
+    "DisappearedDad",
+    "Tomboy",
+    "GirlyGirlWithATomboyStreak",
+    "YouthfulFreckles",
+    "TomboyAndGirlyGirl",
+    "OnlySaneMan",
+    "GamerChick",
+    "OddFriendship",
+    "OneOfTheBoys",
+    "TownGirls",
+    "TomboyWithAGirlyStreak",
+    "NiceGirl",
+    "GirlyBruiser"
+  ],
   "tropes_by_category": {}
 }

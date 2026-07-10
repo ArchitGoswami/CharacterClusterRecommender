@@ -1,7 +1,17 @@
 {
   "name": "Rhea Masaki",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GoodStepmother",
+    "WordOfGod",
+    "ArtificialHuman",
+    "RememberTheNewGuy",
+    "HappilyMarried",
+    "MateOrDie",
+    "BumblingDad",
+    "CloudCuckoolander",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

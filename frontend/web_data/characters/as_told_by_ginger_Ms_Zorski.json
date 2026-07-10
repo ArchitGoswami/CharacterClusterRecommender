@@ -1,7 +1,15 @@
 {
   "name": "Ms. Zorski",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SadistTeacher",
+    "CoolTeacher",
+    "ReasonableAuthorityFigure",
+    "IdiotBall",
+    "PsychologistTeacher",
+    "NoodleIncident",
+    "HippieTeacher"
+  ],
   "tropes_by_category": {}
 }

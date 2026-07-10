@@ -1,7 +1,16 @@
 {
   "name": "Wolfe",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DisappearedDad",
+    "TheMole",
+    "ManipulativeBastard",
+    "BeneathSuspicion",
+    "HistoricalDomainCharacter",
+    "ISurrenderSuckers",
+    "MeaningfulName",
+    "TheBigBad"
+  ],
   "tropes_by_category": {}
 }

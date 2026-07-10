@@ -1,7 +1,27 @@
 {
   "name": "Jacob Broadsky",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "DamnYouMuscleMemory",
+    "WellIntentionedExtremist",
+    "NeverMyFault",
+    "PayEvilUntoEvil",
+    "GameBreakingInjury",
+    "HeroKiller",
+    "ArcVillain",
+    "DidntThinkThisThrough",
+    "SerialKillerKiller",
+    "BrokenPedestal",
+    "EvilCounterpart",
+    "LaserGuidedKarma",
+    "OhCrap",
+    "LackOfEmpathy",
+    "NotSoDifferentRemark",
+    "BelievingTheirOwnLies",
+    "SniperDuel",
+    "NotSoWellIntentionedExtremist",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

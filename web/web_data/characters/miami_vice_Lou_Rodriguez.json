@@ -1,7 +1,19 @@
 {
   "name": "Lou Rodriguez",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "DaChief",
+    "TakingTheBullet",
+    "HeroicSacrifice",
+    "WeHardlyKnewYe",
+    "The70s",
+    "RedHerring",
+    "RuleOfSymbolism",
+    "FireForgedFriends",
+    "CigarChomper",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

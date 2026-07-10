@@ -1,7 +1,17 @@
 {
   "name": "Claire Haas",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BrokenPedestal",
+    "HeroAntagonist",
+    "MyBelovedSmother",
+    "ShoutOut",
+    "GloryHound",
+    "UtopiaJustifiesTheMeans",
+    "FriendlyEnemy",
+    "EmergencyPresidentialAddress",
+    "HappyFlashback"
+  ],
   "tropes_by_category": {}
 }

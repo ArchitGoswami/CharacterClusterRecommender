@@ -1,7 +1,20 @@
 {
   "name": "Lady Grace",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DyingDream",
+    "GoodAdulteryBadAdultery",
+    "AttemptedRape",
+    "UptownGirl",
+    "DeathByChildbirth",
+    "UpperClassTwit",
+    "DefrostingIceQueen",
+    "SexualExtortion",
+    "RescueRomance",
+    "KillingInSelfDefense",
+    "FirstLove",
+    "DisposableWoman"
+  ],
   "tropes_by_category": {}
 }

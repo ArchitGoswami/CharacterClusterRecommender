@@ -1,7 +1,16 @@
 {
   "name": "Pompadour",
   "show": "Babar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HighClassGlass",
+    "AnimalGenderBender",
+    "CanonForeigner",
+    "NervousWreck",
+    "HeterosexualLifePartners",
+    "ObstructiveBureaucrat",
+    "AmbiguouslyGay",
+    "MeaningfulName"
+  ],
   "tropes_by_category": {}
 }

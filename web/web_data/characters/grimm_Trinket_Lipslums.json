@@ -1,7 +1,14 @@
 {
   "name": "Trinket Lipslums",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SayMyName",
+    "FatalFlaw",
+    "SerialKiller",
+    "DrivenToSuicide",
+    "EvilIsPetty",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

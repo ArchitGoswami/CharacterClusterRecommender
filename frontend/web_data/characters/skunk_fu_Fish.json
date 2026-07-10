@@ -1,7 +1,9 @@
 {
   "name": "Fish",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "BadassTeacher"
+  ],
   "tropes_by_category": {}
 }

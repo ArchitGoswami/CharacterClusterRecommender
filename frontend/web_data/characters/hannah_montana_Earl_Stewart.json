@@ -1,7 +1,13 @@
 {
   "name": "Earl Stewart",
   "show": "Hannah Montana",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "UnseenNoMore",
+    "YouAreFat",
+    "BigEater",
+    "InformedDeformity",
+    "ComfortFood"
+  ],
   "tropes_by_category": {}
 }

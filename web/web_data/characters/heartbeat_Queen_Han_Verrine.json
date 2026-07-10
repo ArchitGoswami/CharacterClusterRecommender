@@ -1,7 +1,23 @@
 {
   "name": "Queen Han Verrine",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "OneWingedAngel",
+    "Leitmotif",
+    "BigBad",
+    "OrcusOnHisThrone",
+    "GreenEyedMonster",
+    "MurderTheHypotenuse",
+    "SpannerInTheWorks",
+    "SomeoneToRememberHimBy",
+    "MorphicResonance",
+    "NonElemental",
+    "DemonicPossession",
+    "BossRemix",
+    "WomanScorned",
+    "FreudianExcuse",
+    "IronicEcho"
+  ],
   "tropes_by_category": {}
 }

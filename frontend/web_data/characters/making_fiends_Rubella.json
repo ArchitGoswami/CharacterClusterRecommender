@@ -1,7 +1,18 @@
 {
   "name": "Rubella",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DumbMuscle",
+    "HulkSpeak",
+    "ArtificialHuman",
+    "WhatHappenedToTheMouse",
+    "GirlishPigtails",
+    "AdaptedOut",
+    "TheBrute",
+    "BigOlUnibrow",
+    "ExtremeOmnivore",
+    "DiseasedName"
+  ],
   "tropes_by_category": {}
 }

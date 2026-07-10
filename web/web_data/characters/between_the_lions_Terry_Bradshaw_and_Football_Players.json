@@ -1,7 +1,11 @@
 {
   "name": "Terry Bradshaw and Football Players",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "IrisOut",
+    "FreezeFrameBonus",
+    "LargeHamAnnouncer"
+  ],
   "tropes_by_category": {}
 }

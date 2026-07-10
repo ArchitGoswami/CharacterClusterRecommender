@@ -1,7 +1,23 @@
 {
   "name": "Fawn Deer",
   "show": "Bonkers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "MsFanservice",
+    "SpeciesSurname",
+    "PinkMeansFeminine",
+    "TheSmurfettePrinciple",
+    "HumanoidFemaleAnimal",
+    "PunnyName",
+    "FurBikini",
+    "InterspeciesRomance",
+    "TheVoiceless",
+    "TrueBlueFemininity",
+    "SingleWomanSeeksGoodMan",
+    "TheCutie",
+    "NiceGirl",
+    "DemotedToExtra",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

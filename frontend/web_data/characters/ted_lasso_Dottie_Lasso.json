@@ -1,7 +1,17 @@
 {
   "name": "Dottie Lasso",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmazinglyEmbarrassingParents",
+    "WhatTheHellHero",
+    "LikeParentLikeChild",
+    "TallTale",
+    "StepfordSmiler",
+    "CallingTheOldManOut",
+    "GenerationXerox",
+    "ParentsAsPeople",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

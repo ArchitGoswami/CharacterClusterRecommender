@@ -1,7 +1,15 @@
 {
   "name": "Skullossus",
   "show": "League of Super Evil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AffablyEvil",
+    "EvilSoundsDeep",
+    "GreaterScopeVillain",
+    "MobileSuitHuman",
+    "EvenEvilHasLovedOnes",
+    "DisproportionateRetribution",
+    "FriendlyEnemy"
+  ],
   "tropes_by_category": {}
 }

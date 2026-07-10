@@ -1,7 +1,25 @@
 {
   "name": "Cheers",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "SitcomArchNemesis",
+    "UnderNewManagement",
+    "LocalHangout",
+    "WrittenInAbsence",
+    "OneTrueLove",
+    "Defictionalization",
+    "AdaptationalAttractiveness",
+    "FisherKingdom",
+    "OlderThanTheyLook",
+    "GainaxEnding",
+    "PerpetualPoverty",
+    "GoodGuyBar",
+    "BottleEpisode",
+    "EstablishingShot",
+    "FlashForward",
+    "TheMainCharactersDoEverything",
+    "CompanionCube"
+  ],
   "tropes_by_category": {}
 }

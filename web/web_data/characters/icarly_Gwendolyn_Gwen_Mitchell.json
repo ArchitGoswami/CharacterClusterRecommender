@@ -1,7 +1,12 @@
 {
   "name": "Gwendolyn \"Gwen\" Mitchell",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AmicableExes",
+    "BrainyBrunette",
+    "AbsurdlyYouthfulMother",
+    "TeenPregnancy"
+  ],
   "tropes_by_category": {}
 }

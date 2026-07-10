@@ -1,7 +1,30 @@
 {
   "name": "Jill Taylor",
   "show": "Home Improvement",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ChristmasEpisode",
+    "LethalChef",
+    "MilitaryBrat",
+    "SportsWidow",
+    "DestructiveSavior",
+    "DeadpanSnarker",
+    "WomenAreWiser",
+    "NotSoAboveItAll",
+    "SemperFi",
+    "DatingWhatDaddyHates",
+    "AnticsEnablingWife",
+    "HappilyMarried",
+    "WetBlanketWife",
+    "EmbarrassingNickname",
+    "BackToSchool",
+    "OnlySaneMan",
+    "ParentingTheHusband",
+    "TimTaylorTechnology",
+    "DoomItYourself",
+    "EnragedByIdiocy",
+    "StageMom",
+    "PursueTheDreamJob"
+  ],
   "tropes_by_category": {}
 }

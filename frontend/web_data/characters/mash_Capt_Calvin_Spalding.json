@@ -1,7 +1,13 @@
 {
   "name": "Capt. Calvin Spalding",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DeadpanSnarker",
+    "ChuckCunninghamSyndrome",
+    "ShoutOut",
+    "GreekChorus",
+    "SpecialGuest"
+  ],
   "tropes_by_category": {}
 }

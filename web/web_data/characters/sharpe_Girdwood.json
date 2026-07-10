@@ -1,7 +1,20 @@
 {
   "name": "Girdwood",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BreakTheHaughty",
+    "FakeBrit",
+    "DastardlyWhiplash",
+    "HeroWorshipper",
+    "MilesGloriosus",
+    "VillainousBSOD",
+    "BeCarefulWhatYouWishFor",
+    "StacheOfDuty",
+    "TheHeavy",
+    "WhyDidItHaveToBeSnakes",
+    "AbhorrentAdmirer",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

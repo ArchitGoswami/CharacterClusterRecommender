@@ -1,7 +1,21 @@
 {
   "name": "Tokkori",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "TheNicknamer",
+    "DirtyCoward",
+    "JerkassRealization",
+    "Leitmotif",
+    "WhatTheHellHero",
+    "DramaQueen",
+    "FeatheredFiend",
+    "KickTheDog",
+    "EarlyBirdCameo",
+    "TookALevelInKindness",
+    "SurpriseParty",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

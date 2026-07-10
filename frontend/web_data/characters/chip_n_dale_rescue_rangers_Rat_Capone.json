@@ -1,7 +1,25 @@
 {
   "name": "Rat Capone",
   "show": "Chip 'n Dale Rescue Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BigThinShortTrio",
+    "IHaveYouNowMyPretty",
+    "FatCat",
+    "DumbMuscle",
+    "ShoutOut",
+    "TheRoaring20s",
+    "GangsterLand",
+    "Joisey",
+    "AManOfWealthAndTaste",
+    "MouseWorld",
+    "TerribleTrio",
+    "YouDirtyRat",
+    "HypocriticalHumor",
+    "DubNameChange",
+    "OncePerEpisode",
+    "TheAhnold",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

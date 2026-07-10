@@ -1,7 +1,22 @@
 {
   "name": "Agent Dani Pearce",
   "show": "Burn Notice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "MissionControl",
+    "ActionGirl",
+    "BestServedCold",
+    "CruelMercy",
+    "HeroicSacrifice",
+    "ScrewTheRulesImDoingWhatsRight",
+    "BrainyBrunette",
+    "RevengeBeforeReason",
+    "CowboyCop",
+    "FunWithSubtitles",
+    "Determinator",
+    "SixthRanger",
+    "DarkAndTroubledPast",
+    "ReassignedToAntarctica"
+  ],
   "tropes_by_category": {}
 }

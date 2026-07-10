@@ -1,7 +1,11 @@
 {
   "name": "Ashley Schaeffer",
   "show": "Spin City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheBusCameBack",
+    "Deuteragonist",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

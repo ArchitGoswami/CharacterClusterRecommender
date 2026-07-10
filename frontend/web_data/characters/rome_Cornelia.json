@@ -1,7 +1,12 @@
 {
   "name": "Cornelia",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "WhatHappenedToTheMouse",
+    "ThePromise",
+    "ProperLady"
+  ],
   "tropes_by_category": {}
 }

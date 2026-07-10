@@ -1,7 +1,20 @@
 {
   "name": "Prince George",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CloudCuckooLander",
+    "JerkWithAHeartOfGold",
+    "TheCuckoolanderWasRight",
+    "TheGhost",
+    "Gaslighting",
+    "ManChild",
+    "HeroWorshipper",
+    "MilesGloriosus",
+    "HistoricalDomainCharacter",
+    "FrontlineGeneral",
+    "AdiposeRex",
+    "ZergRush"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Lixers",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheUnintelligible",
+    "OverlyLongTongue",
+    "MercurysWings",
+    "PunnyName",
+    "BigFriendlyDog",
+    "MixAndMatchCritter",
+    "ConstantlyCurious",
+    "QuizzicalTilt",
+    "ThePigPen",
+    "LandSeaSky",
+    "ColorCodedForYourConvenience",
+    "Cyclops"
+  ],
   "tropes_by_category": {}
 }

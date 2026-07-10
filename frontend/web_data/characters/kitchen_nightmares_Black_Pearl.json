@@ -1,7 +1,21 @@
 {
   "name": "Black Pearl",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "KnowNothingKnowItAll",
+    "NeverMyFault",
+    "Jerkass",
+    "NiceGuy",
+    "SoreLoser",
+    "BlatantLies",
+    "ReasonableAuthorityFigure",
+    "KickTheDog",
+    "TheLoad",
+    "BrilliantButLazy",
+    "EmbarrassingNickname",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

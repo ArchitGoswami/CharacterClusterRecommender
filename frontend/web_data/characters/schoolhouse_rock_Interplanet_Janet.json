@@ -1,7 +1,19 @@
 {
   "name": "Interplanet Janet",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AngelicAliens",
+    "RetractableAppendages",
+    "SuperSpeed",
+    "AmbiguouslyHuman",
+    "NonMammalMammaries",
+    "DownplayedTrope",
+    "HumansAreCthulhu",
+    "PassionateSportsGirl",
+    "HumanoidAlien",
+    "SuddenAnatomy",
+    "BizarreAlienBiology"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Krishna",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheDogBitesBack",
+    "GoodAllAlong",
+    "BeleagueredAssistant",
+    "StraightGay",
+    "AscendedExtra",
+    "GirlFriday"
+  ],
   "tropes_by_category": {}
 }

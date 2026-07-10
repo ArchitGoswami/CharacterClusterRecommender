@@ -1,7 +1,11 @@
 {
   "name": "Sidney Birnbaum",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ThoseTwoGuys",
+    "AmbiguouslyJewish",
+    "ChuckCunninghamSyndrome"
+  ],
   "tropes_by_category": {}
 }

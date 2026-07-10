@@ -1,7 +1,10 @@
 {
   "name": "Simon Styles",
   "show": "Studio 60 on the Sunset Strip",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TokenMinority",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

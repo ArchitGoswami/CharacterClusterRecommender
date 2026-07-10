@@ -1,7 +1,21 @@
 {
   "name": "Binky",
   "show": "Rolie Polie Olie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CloudcuckoolandersMinder",
+    "BabyTalk",
+    "RedOniBlueOni",
+    "FearlessFool",
+    "MasculineLinesFeminineCurves",
+    "ObliviousYoungerSibling",
+    "TookALevelInBadass",
+    "BabysFirstWords",
+    "PerpetualSmiler",
+    "FireForgedFriends",
+    "Cloudcuckoolander",
+    "InnocentlyInsensitive",
+    "BabySeeBabyDo"
+  ],
   "tropes_by_category": {}
 }

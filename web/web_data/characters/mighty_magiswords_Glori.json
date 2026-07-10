@@ -1,7 +1,23 @@
 {
   "name": "Glori",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "StalkerWithACrush",
+    "SmittenTeenageGirl",
+    "NeverMyFault",
+    "LoonyFan",
+    "CuteAndPsycho",
+    "BigBad",
+    "EvilLaugh",
+    "CreateYourOwnVillain",
+    "EyelidPullTaunt",
+    "RoseHairedSweetie",
+    "TakeThat",
+    "DeliberatelyDistressedDamsel",
+    "BreakTheCutie",
+    "WomanScorned",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

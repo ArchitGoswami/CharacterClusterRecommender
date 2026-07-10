@@ -1,7 +1,19 @@
 {
   "name": "Backpack Boy",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BlackAndNerdy",
+    "NiceGuy",
+    "RealAfterAll",
+    "EveryoneCallsHimBarkeep",
+    "TokenMinorityCouple",
+    "BetaCouple",
+    "OutOfFocus",
+    "OnlyKnownByTheirNickname",
+    "NoNameGiven",
+    "ButtMonkey",
+    "BagOfHolding"
+  ],
   "tropes_by_category": {}
 }

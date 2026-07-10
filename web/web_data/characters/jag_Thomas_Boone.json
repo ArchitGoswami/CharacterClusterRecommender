@@ -1,7 +1,19 @@
 {
   "name": "Thomas Boone",
   "show": "JAG",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "EstablishingCharacterMoment",
+    "DeadpanSnarker",
+    "MyGreatestFailure",
+    "PrinciplesZealot",
+    "AcePilot",
+    "NobleBigot",
+    "ReasonableAuthorityFigure",
+    "ConsummateProfessional",
+    "TellMeAboutMyFather",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

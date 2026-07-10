@@ -1,7 +1,17 @@
 {
   "name": "Gigas",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "WhiteAndRedAndEerieAllOver",
+    "AtArmsLength",
+    "TookALevelInBadass",
+    "DoubleKnockout",
+    "PlayingWithFire",
+    "TerrifyingTyrannosaur",
+    "EvilCounterpart",
+    "RedAndBlackAndEvilAllOver"
+  ],
   "tropes_by_category": {}
 }

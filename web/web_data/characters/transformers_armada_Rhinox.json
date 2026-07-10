@@ -1,7 +1,12 @@
 {
   "name": "Rhinox",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DroppedABridgeOnHim",
+    "NumberTwo",
+    "TheCameo",
+    "ReforgedIntoAMinion"
+  ],
   "tropes_by_category": {}
 }

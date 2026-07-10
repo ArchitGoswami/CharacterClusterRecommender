@@ -1,7 +1,23 @@
 {
   "name": "Matthew Cuthbert",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "SituationalSociability",
+    "TeamDad",
+    "SparedByTheAdaptation",
+    "PromotedToParent",
+    "NoSocialSkills",
+    "MrFixit",
+    "TheQuietOne",
+    "GoodParents",
+    "OutlivingOnesOffspring",
+    "OOCIsSeriousBusiness",
+    "FreudianExcuseIsNoExcuse",
+    "CallingTheOldWomanOut",
+    "ExtremeDoormat",
+    "CannotTalkToWomen",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

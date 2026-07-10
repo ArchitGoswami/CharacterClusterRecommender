@@ -1,7 +1,19 @@
 {
   "name": "Vincent and Jules as a duo",
   "show": "Pulp Fiction",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AffablyEvil",
+    "RedOniBlueOni",
+    "HypercompetentSidekick",
+    "BanteringBaddieBuddies",
+    "KickTheDog",
+    "AsTheGoodBookSays",
+    "VitriolicBestBuds",
+    "VillainProtagonist",
+    "BadassInANiceSuit",
+    "VillainousFriendship",
+    "SeinfeldianConversation"
+  ],
   "tropes_by_category": {}
 }

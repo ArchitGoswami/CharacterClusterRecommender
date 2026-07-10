@@ -1,7 +1,10 @@
 {
   "name": "Zeppo",
   "show": "Pinky and the Brain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "HereWeGoAgain"
+  ],
   "tropes_by_category": {}
 }

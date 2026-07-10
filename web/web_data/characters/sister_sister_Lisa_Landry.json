@@ -1,7 +1,19 @@
 {
   "name": "Lisa Landry",
   "show": "Sister, Sister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "WackyParentSeriousChild",
+    "RunningGag",
+    "SavvyGuyEnergeticGirl",
+    "PluckyComicRelief",
+    "PlatonicCoParenting",
+    "BigEater",
+    "AlliterativeName",
+    "BewareTheNiceOnes",
+    "SassyBlackWoman",
+    "Cloudcuckoolander",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

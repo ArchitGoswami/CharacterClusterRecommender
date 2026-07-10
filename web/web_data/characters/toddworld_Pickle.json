@@ -1,7 +1,12 @@
 {
   "name": "Pickle",
   "show": "ToddWorld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "UnwantedGlassesPlot",
+    "EdibleThemeNaming",
+    "HeightAngst",
+    "AerithAndBob"
+  ],
   "tropes_by_category": {}
 }

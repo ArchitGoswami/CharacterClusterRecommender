@@ -1,7 +1,14 @@
 {
   "name": "Bast",
   "show": "American Gods",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SurveillanceAsThePlotDemands",
+    "IntimateHealing",
+    "CatGirl",
+    "AnimalEyeSpy",
+    "VoluntaryShapeshifting",
+    "SupernaturalGoldEyes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Tom Mayhue",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LaserGuidedKarma",
+    "TookALevelInJerkass",
+    "KickTheDog",
+    "HateSink",
+    "TeamDad",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

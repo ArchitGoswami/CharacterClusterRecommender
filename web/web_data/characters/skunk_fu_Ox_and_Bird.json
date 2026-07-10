@@ -1,7 +1,20 @@
 {
   "name": "Ox and Bird",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "GentleGiant",
+    "BigGuyLittleGuy",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "ThoseTwoGuys",
+    "TheDitz",
+    "CrouchingMoronHiddenBadass",
+    "TheNapoleon",
+    "SurferDude",
+    "LazyBum",
+    "NakedPeopleAreFunny",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Loren Bray",
   "show": "Dr. Quinn, Medicine Woman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "BigBrotherInstinct",
+    "OutlivingOnesOffspring",
+    "GrumpyOldMan",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

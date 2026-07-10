@@ -1,7 +1,18 @@
 {
   "name": "Jerome",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "EasilyForgiven",
+    "Catchphrase",
+    "LovableRogue",
+    "TheNicknamer",
+    "DisappearedDad",
+    "PetTheDog",
+    "FriendlyEnemy",
+    "HiddenDepths",
+    "Hustler",
+    "CoolBigBro"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Princess Samira",
   "show": "Shimmer and Shine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PrincessesRule",
+    "TomboyAndGirlyGirl"
+  ],
   "tropes_by_category": {}
 }

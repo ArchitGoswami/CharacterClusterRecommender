@@ -1,7 +1,13 @@
 {
   "name": "Overtel Corporation",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BigBad",
+    "EvilCounterpart",
+    "DrivenToSuicide",
+    "CorruptCorporateExecutive",
+    "Greed"
+  ],
   "tropes_by_category": {}
 }

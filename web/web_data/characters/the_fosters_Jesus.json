@@ -1,7 +1,25 @@
 {
   "name": "Jesus",
   "show": "The Fosters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "ChickMagnet",
+    "InWithTheInCrowd",
+    "BigBrotherInstinct",
+    "AttentionDeficitOohShiny",
+    "WrestlerInAllOfUs",
+    "FoolishSiblingResponsibleSibling",
+    "StraightManAndWiseGuy",
+    "DaddyIssues",
+    "HonorBeforeReason",
+    "TookALevelInJerkass",
+    "HappilyAdopted",
+    "HasAType",
+    "BettyAndVeronica",
+    "GetOut",
+    "StrawFeminist",
+    "StraightMan",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

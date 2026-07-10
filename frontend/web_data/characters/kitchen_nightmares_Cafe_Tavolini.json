@@ -1,7 +1,29 @@
 {
   "name": "Cafe Tavolini",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "SkewedPriorities",
+    "HypercompetentSidekick",
+    "HoistByHisOwnPetard",
+    "NeverMyFault",
+    "BrutalHonesty",
+    "ScrewThisImOuttaHere",
+    "WhatTheHellHero",
+    "BlatantLies",
+    "AesopAmnesia",
+    "DownerEnding",
+    "DidntThinkThisThrough",
+    "TheDogBitesBack",
+    "MyGodWhatHaveIDone",
+    "HenpeckedHusband",
+    "ExactWords",
+    "FatBastard",
+    "InformedAttribute",
+    "LikeFatherUnlikeSon",
+    "ReturningTheWeddingRing",
+    "TheLoad",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

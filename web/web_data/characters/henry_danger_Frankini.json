@@ -1,7 +1,17 @@
 {
   "name": "Frankini",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "NearVillainVictory",
+    "DirtyCoward",
+    "FreakyFridayFlip",
+    "AmbiguouslyRelated",
+    "Pun",
+    "CampGay",
+    "BigFinaleCrowdSong",
+    "CampStraight",
+    "JustInTime"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Benny Baroni",
   "show": "Home Improvement",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheDitz",
+    "TheFriendNobodyLikes",
+    "FatBastard",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Tendo King",
   "show": "Outlaw Star",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "GreaterScopeVillain",
+    "KingOfThieves",
+    "TheGhost",
+    "AlwaysABiggerFish"
+  ],
   "tropes_by_category": {}
 }

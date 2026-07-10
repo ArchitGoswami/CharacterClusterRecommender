@@ -1,7 +1,10 @@
 {
   "name": "Elaine Todd",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "WesternTerrorists",
+    "OffWithHisHead"
+  ],
   "tropes_by_category": {}
 }

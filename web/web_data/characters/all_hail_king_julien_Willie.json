@@ -1,7 +1,15 @@
 {
   "name": "Willie",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Catchphrase",
+    "MythologyGag",
+    "LovableCoward",
+    "TheParanoiac",
+    "PersonAsVerb",
+    "OnlySaneMan",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

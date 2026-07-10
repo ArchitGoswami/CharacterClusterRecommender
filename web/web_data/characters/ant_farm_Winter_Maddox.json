@@ -1,7 +1,11 @@
 {
   "name": "Winter Maddox",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "VillainTeamUp",
+    "FlatWhat",
+    "YouLookFamiliar"
+  ],
   "tropes_by_category": {}
 }

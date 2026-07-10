@@ -1,7 +1,13 @@
 {
   "name": "Miss Flap",
   "show": "Bunsen Is a Beast",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ReasonableAuthorityFigure",
+    "UncattyResemblance",
+    "UltimateJobSecurity",
+    "Cloudcuckoolander",
+    "ScrewTheMoneyIHaveRules"
+  ],
   "tropes_by_category": {}
 }

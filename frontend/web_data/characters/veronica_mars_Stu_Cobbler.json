@@ -1,7 +1,15 @@
 {
   "name": "Stu Cobbler",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "StalkerWithACrush",
+    "BigBad",
+    "TheFriendNobodyLikes",
+    "PlayedForDrama",
+    "FromNobodyToNightmare",
+    "WalkingSpoiler",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

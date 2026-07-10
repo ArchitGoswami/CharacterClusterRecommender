@@ -1,7 +1,19 @@
 {
   "name": "Axl",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RoadRunnerVsCoyote",
+    "TheDogBitesBack",
+    "MinionWithAnFInEvil",
+    "UndyingLoyalty",
+    "LizardFolk",
+    "ObfuscatingStupidity",
+    "PunchClockVillain",
+    "NiceMeanAndInBetween",
+    "TellMeAgain",
+    "TheCameo",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

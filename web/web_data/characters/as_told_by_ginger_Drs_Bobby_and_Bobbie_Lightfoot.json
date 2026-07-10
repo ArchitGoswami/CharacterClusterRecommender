@@ -1,7 +1,25 @@
 {
   "name": "Drs. Bobby and Bobbie Lightfoot",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "PowerHair",
+    "LikeFatherLikeSon",
+    "TheShrink",
+    "DotingParent",
+    "TheGhost",
+    "AdultsAreUseless",
+    "GenderBlenderName",
+    "WhenYouComingHomeDad",
+    "TheAtoner",
+    "HappilyMarried",
+    "ParentalNeglect",
+    "WhatHaveIDone",
+    "NewAgeRetroHippie",
+    "BourgeoisBohemian",
+    "LanternJawOfJustice",
+    "TheCobblersChildrenHaveNoShoes",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "The Wood",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "GracefulLoser",
+    "WhenTreesAttack",
+    "ElementalHairComposition",
+    "NonMaliciousMonster",
+    "GreenThumb",
+    "GardenGarment"
+  ],
   "tropes_by_category": {}
 }

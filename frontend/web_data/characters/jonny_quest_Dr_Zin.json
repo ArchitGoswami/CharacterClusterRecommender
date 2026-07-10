@@ -1,7 +1,16 @@
 {
   "name": "Dr. Zin",
   "show": "Jonny Quest",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CallBack",
+    "VillainousBreakdown",
+    "ArchEnemy",
+    "MadScientist",
+    "WouldHurtAChild",
+    "BaldOfEvil",
+    "YellowPeril",
+    "PreemptiveThreatElimination"
+  ],
   "tropes_by_category": {}
 }

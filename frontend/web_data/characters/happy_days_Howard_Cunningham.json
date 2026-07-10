@@ -1,7 +1,28 @@
 {
   "name": "Howard Cunningham",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "ThePatriarch",
+    "BigEater",
+    "Standard50sFather",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "SurroundedByIdiots",
+    "GoodParents",
+    "TeamDad",
+    "LongRunnerCastTurnover",
+    "ParentExMachina",
+    "BirthdayEpisode",
+    "HappilyMarried",
+    "DadTheVeteran",
+    "TheComicallySerious",
+    "OnlySaneMan",
+    "MrViceGuy",
+    "AndStarring",
+    "ReasonableAuthorityFigure",
+    "BumblingDad",
+    "ParentalHypocrisy"
+  ],
   "tropes_by_category": {}
 }

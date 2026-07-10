@@ -1,7 +1,16 @@
 {
   "name": "Perdissa",
   "show": "Lucifer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BrotherSisterIncest",
+    "VillainousIncest",
+    "WouldHurtAChild",
+    "SexForServices",
+    "HolierThanThou",
+    "LightIsNotGood",
+    "KnightTemplar",
+    "WomanScorned"
+  ],
   "tropes_by_category": {}
 }

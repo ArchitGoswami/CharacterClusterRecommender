@@ -1,7 +1,22 @@
 {
   "name": "The Committee",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "SealedEvilInAnotherWorld",
+    "OneWingedAngel",
+    "GreaterScopeVillain",
+    "BigBad",
+    "RememberTheNewGuy",
+    "EvilVersusEvil",
+    "GoneHorriblyRight",
+    "SealedEvilInACan",
+    "NamesToRunAwayFromReallyFast",
+    "CurbStompBattle",
+    "AliensAreBastards",
+    "DemonicPossession",
+    "CollectiveIdentity",
+    "TheDisembodied"
+  ],
   "tropes_by_category": {}
 }

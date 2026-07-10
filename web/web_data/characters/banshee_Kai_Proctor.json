@@ -1,7 +1,30 @@
 {
   "name": "Kai Proctor",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "GoKartingWithBowser",
+    "PragmaticVillainy",
+    "BerserkButton",
+    "CrazyJealousGuy",
+    "MamaDidntRaiseNoCriminal",
+    "WellDoneSonGuy",
+    "AffablyEvil",
+    "EvenBadMenLoveTheirMamas",
+    "WorthyOpponent",
+    "Yandere",
+    "NobleDemon",
+    "AmbitionIsEvil",
+    "AlwaysABiggerFish",
+    "PapaWolf",
+    "RuralGangsters",
+    "FaceDeathWithDignity",
+    "CorruptCorporateExecutive",
+    "VillainousRescue",
+    "TheExile",
+    "BigBad",
+    "ALighterShadeOfBlack",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

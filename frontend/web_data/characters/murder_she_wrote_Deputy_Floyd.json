@@ -1,7 +1,10 @@
 {
   "name": "Deputy Floyd",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CluelessDeputy",
+    "ChuckCunninghamSyndrome"
+  ],
   "tropes_by_category": {}
 }

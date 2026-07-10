@@ -1,7 +1,15 @@
 {
   "name": "Curly",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ThoseTwoGuys",
+    "AnimalLover",
+    "IdiotSavant",
+    "MentallyUnwellSpecialSenses",
+    "ManChild",
+    "AmbiguouslyRelated",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

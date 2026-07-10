@@ -1,7 +1,25 @@
 {
   "name": "Barkmeat",
   "show": "Catscratch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Hellhound",
+    "BewareOfViciousDog",
+    "ColdHam",
+    "NobleDemon",
+    "DiabolicalDogCatcher",
+    "IJustWantToHaveFriends",
+    "OddFriendship",
+    "PetTheDog",
+    "TheDreaded",
+    "VolumetricMouth",
+    "OneShotCharacter",
+    "BigShadowLittleCreature",
+    "CardCarryingVillain",
+    "Gonk",
+    "MoreTeethThanTheOsmondFamily",
+    "FantasticRacism",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

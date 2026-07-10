@@ -1,7 +1,31 @@
 {
   "name": "The Professor",
   "show": "Gilligan's Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "OmnidisciplinaryScientist",
+    "NiceGuy",
+    "InsufferableGenius",
+    "SesquipedalianLoquaciousness",
+    "GreatBigBookOfEverything",
+    "AgentScully",
+    "NotSoAboveItAll",
+    "TheProfessor",
+    "ReedRichardsIsUseless",
+    "FreudianTrio",
+    "Pride",
+    "MacGyvering",
+    "PromotionToOpeningTitles",
+    "EveryoneCallsHimBarkeep",
+    "LimitedWardrobe",
+    "AndTheRest",
+    "BambooTechnology",
+    "TheStoic",
+    "OnlySaneMan",
+    "BrainsAndBrawn",
+    "FemaleGaze",
+    "MrFanservice",
+    "BagOfHolding"
+  ],
   "tropes_by_category": {}
 }

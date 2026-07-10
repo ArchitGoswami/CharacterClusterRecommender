@@ -1,7 +1,14 @@
 {
   "name": "Karen Tehama",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrainyBrunette",
+    "TheSmartGirl",
+    "GirlishPigtails",
+    "TheProfiler",
+    "TrademarkFavoriteFood",
+    "AsianAndNerdy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Spiny (Spino)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TailSlap",
+    "RunningGag",
+    "MakingASplash",
+    "PaperTiger",
+    "SavageSpinosaurs",
+    "LeanAndMean",
+    "ALizardNamedLiz",
+    "ButtMonkey",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

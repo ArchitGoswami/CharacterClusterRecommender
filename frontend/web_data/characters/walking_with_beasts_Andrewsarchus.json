@@ -1,7 +1,22 @@
 {
   "name": "Andrewsarchus",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "AnachronisticAnimal",
+    "StockSoundEffects",
+    "ScienceMarchesOn",
+    "ArtisticLicenseBiology",
+    "TwoLinesNoWaiting",
+    "HeinousHyena",
+    "ScavengersAreScum",
+    "AscendedToCarnivorism",
+    "CanisMajor",
+    "InformedSpecies",
+    "StrongFamilyResemblance",
+    "EatsBabies",
+    "RuleOfCool",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

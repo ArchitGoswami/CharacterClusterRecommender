@@ -1,7 +1,11 @@
 {
   "name": "The Bunker Ghosts",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "CargoCult",
+    "The60s",
+    "GoodIsDumb"
+  ],
   "tropes_by_category": {}
 }

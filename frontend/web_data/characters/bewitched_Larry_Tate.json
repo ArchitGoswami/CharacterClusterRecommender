@@ -1,7 +1,18 @@
 {
   "name": "Larry Tate",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BenevolentBoss",
+    "Catchphrase",
+    "JerkWithAHeartOfGold",
+    "AndStarring",
+    "OpinionFlipflop",
+    "ReasonableAuthorityFigure",
+    "DubNameChange",
+    "IntergenerationalFriendship",
+    "EveryoneHasStandards",
+    "MrViceGuy"
+  ],
   "tropes_by_category": {}
 }

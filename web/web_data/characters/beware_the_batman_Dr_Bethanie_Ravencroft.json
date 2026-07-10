@@ -1,7 +1,23 @@
 {
   "name": "Dr. Bethanie Ravencroft",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "EmptyShell",
+    "YouSaidYouWouldLetThemGo",
+    "MyNaymeIs",
+    "CanonForeigner",
+    "RedHerring",
+    "RewardedAsATraitorDeserves",
+    "WalkingSpoiler",
+    "SmartPeopleWearGlasses",
+    "HoneyTrap",
+    "AssholeVictim",
+    "EvenEvilHasStandards",
+    "TheShrink",
+    "BitchInSheepsClothing",
+    "HiddenHeartOfGold"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Don",
   "show": "Zeke and Luther",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ManChild",
+    "TheDitz",
+    "RepetitiveName"
+  ],
   "tropes_by_category": {}
 }

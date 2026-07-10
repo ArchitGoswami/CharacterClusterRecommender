@@ -1,7 +1,21 @@
 {
   "name": "Rachel Goldstein",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ParentalMarriageVeto",
+    "DisproportionateRetribution",
+    "GirlOfTheWeek",
+    "IAteWhat",
+    "NakedFreakOut",
+    "InsaneTrollLogic",
+    "HandWave",
+    "AgainstMyReligion",
+    "PutOnABus",
+    "ShamelessFanserviceGirl",
+    "AccidentalPervert",
+    "TeenyWeenie",
+    "LoveInterest"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "The Twin",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TricksterTwins",
+    "CuteOversizedSleeves",
+    "HappyHarlequinHat",
+    "SingleMindedTwins"
+  ],
   "tropes_by_category": {}
 }

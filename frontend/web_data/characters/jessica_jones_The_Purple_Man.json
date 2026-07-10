@@ -1,7 +1,9 @@
 {
   "name": "The Purple Man",
   "show": "Jessica Jones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ArchEnemy"
+  ],
   "tropes_by_category": {}
 }

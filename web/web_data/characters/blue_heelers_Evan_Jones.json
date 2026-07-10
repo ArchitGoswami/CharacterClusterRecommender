@@ -1,7 +1,11 @@
 {
   "name": "Evan Jones",
   "show": "Blue Heelers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ComicallyMissingThePoint",
+    "VillainousIncest",
+    "PunctuatedForEmphasis"
+  ],
   "tropes_by_category": {}
 }

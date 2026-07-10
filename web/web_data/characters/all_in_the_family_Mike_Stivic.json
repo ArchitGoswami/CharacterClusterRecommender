@@ -1,7 +1,29 @@
 {
   "name": "Mike Stivic",
   "show": "All in the Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "SoapboxSadie",
+    "FatalFlaw",
+    "WellIntentionedExtremist",
+    "BigEater",
+    "UngratefulBastard",
+    "TheReasonYouSuckSpeech",
+    "BlankStare",
+    "TookALevelInJerkass",
+    "SeventiesHair",
+    "VitriolicBestBuds",
+    "LikeFatherLikeSon",
+    "OnlySaneMan",
+    "MrViceGuy",
+    "HollywoodAtheist",
+    "StrawmanPolitical",
+    "CondescendingCompassion",
+    "HonorBeforeReason",
+    "MirrorCharacter",
+    "InSeriesNickname",
+    "ParentalAbandonment",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

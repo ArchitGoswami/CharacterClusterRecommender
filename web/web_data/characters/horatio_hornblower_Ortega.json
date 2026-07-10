@@ -1,7 +1,15 @@
 {
   "name": "Ortega",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeathByAdaptation",
+    "FacialDialogue",
+    "AffectionateGestureToTheHead",
+    "HappilyMarried",
+    "SoreLoser",
+    "HoneyTrap",
+    "MeaningfulLook"
+  ],
   "tropes_by_category": {}
 }

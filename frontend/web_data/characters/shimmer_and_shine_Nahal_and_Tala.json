@@ -1,7 +1,9 @@
 {
   "name": "Nahal and Tala",
   "show": "Shimmer and Shine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Carissa",
   "show": "Lolirock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ThoseTwoGuys",
+    "FieryRedhead",
+    "ProudWarriorRaceGirl",
+    "TomboyAndGirlyGirl",
+    "GracefulLadiesLikePurple",
+    "PurpleIsPowerful",
+    "TransformationTrinket",
+    "BoisterousBruiser",
+    "VitriolicBestBuds",
+    "HotBlooded",
+    "LaResistance",
+    "SixthRanger",
+    "TomboyPrincess",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

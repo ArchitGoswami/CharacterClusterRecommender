@@ -1,7 +1,28 @@
 {
   "name": "Kamimatsu/Godmatsu",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "NiceGuy",
+    "TokenGoodTeammate",
+    "BigLittleBrother",
+    "EnemyWithout",
+    "GoldAndWhiteAreDivine",
+    "PhysicalGod",
+    "MadeOfGood",
+    "PrettyBoy",
+    "TheHeartless",
+    "TheAce",
+    "ColorCodedCharacters",
+    "InnocentlyInsensitive",
+    "UnusualEars",
+    "UltimateLifeForm",
+    "TallPoppySyndrome",
+    "ParodySue",
+    "LightIsGood",
+    "BeadyEyedLoser",
+    "SupernaturalGoldEyes",
+    "TooGoodForThisSinfulEarth"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Sonny Troyer",
   "show": "Medium",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CouldntFindAPen",
+    "DramaticIrony",
+    "TheVillainKnowsWhereYouLive",
+    "SerialRapist",
+    "InUniverseNickname",
+    "HarassingPhoneCall",
+    "GreatEscape",
+    "FourEyesZeroSoul",
+    "HiddenDepths",
+    "SerialKiller",
+    "EvilCounterpart",
+    "BadSamaritan",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

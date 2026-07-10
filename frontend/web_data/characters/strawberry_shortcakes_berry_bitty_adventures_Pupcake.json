@@ -1,7 +1,12 @@
 {
   "name": "Pupcake",
   "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PunnyName",
+    "AdaptationRelationshipOverhaul",
+    "DecompositeCharacter",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

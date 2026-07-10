@@ -1,7 +1,22 @@
 {
   "name": "Mike Seaver",
   "show": "Growing Pains",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HormoneAddledTeenager",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "LovableRogue",
+    "BookSmart",
+    "FoolishSiblingResponsibleSibling",
+    "BrattyTeenageSon",
+    "ChildishOlderSibling",
+    "DumbassTeenageSon",
+    "CoolBigBro",
+    "BookDumb",
+    "TheSlacker",
+    "CharacterizationMarchesOn",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

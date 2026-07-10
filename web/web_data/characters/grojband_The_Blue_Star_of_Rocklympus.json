@@ -1,7 +1,22 @@
 {
   "name": "The Blue Star of Rocklympus",
   "show": "Grojband",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DistaffCounterpart",
+    "GreaterScopeVillain",
+    "WordOfGod",
+    "TheBadGuyWins",
+    "WhatHappenedToTheMouse",
+    "BigDamPlot",
+    "CoolBigSis",
+    "BigSisterBully",
+    "VoluntaryShapeshifting",
+    "OneShotCharacter",
+    "PinkGirlBlueBoy",
+    "DemonicPossession",
+    "ResetButton",
+    "AllMythsAreTrue"
+  ],
   "tropes_by_category": {}
 }

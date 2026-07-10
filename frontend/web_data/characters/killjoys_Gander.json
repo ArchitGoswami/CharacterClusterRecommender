@@ -1,7 +1,12 @@
 {
   "name": "Gander",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheStarscream",
+    "ProfessionalButtKisser",
+    "EvilBrit",
+    "TheDragon"
+  ],
   "tropes_by_category": {}
 }

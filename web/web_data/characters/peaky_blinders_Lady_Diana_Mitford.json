@@ -1,7 +1,22 @@
 {
   "name": "Lady Diana Mitford",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "AristocratsAreEvil",
+    "WickedCultured",
+    "ReallyGetsAround",
+    "LadyMacbeth",
+    "SmugSnake",
+    "PoliticallyIncorrectVillain",
+    "HappilyMarried",
+    "LadyInRed",
+    "HistoricalDomainCharacter",
+    "AdaptationalSexuality",
+    "PrecisionFStrike",
+    "Socialite",
+    "BoomerangBigot",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

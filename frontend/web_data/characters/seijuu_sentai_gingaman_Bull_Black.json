@@ -1,7 +1,17 @@
 {
   "name": "Bull Black",
   "show": "Seijuu Sentai Gingaman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeroicSacrifice",
+    "PetTheDog",
+    "Foil",
+    "ItsPersonal",
+    "AntiHero",
+    "SymbioticPossession",
+    "WellIntentionedExtremist",
+    "RedemptionEqualsDeath",
+    "TogetherInDeath"
+  ],
   "tropes_by_category": {}
 }

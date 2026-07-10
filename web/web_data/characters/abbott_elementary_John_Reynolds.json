@@ -1,7 +1,10 @@
 {
   "name": "John Reynolds",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "KickTheDog",
+    "DisproportionateRetribution"
+  ],
   "tropes_by_category": {}
 }

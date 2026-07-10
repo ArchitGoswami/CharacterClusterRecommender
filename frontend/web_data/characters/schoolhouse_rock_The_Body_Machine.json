@@ -1,7 +1,10 @@
 {
   "name": "The Body Machine",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RenaissanceMan",
+    "PintSizedKid"
+  ],
   "tropes_by_category": {}
 }

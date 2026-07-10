@@ -1,7 +1,12 @@
 {
   "name": "Anne Marie Mitchell",
   "show": "Roseanne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ItMakesSenseInContext",
+    "MusicalEpisode",
+    "RememberTheNewGuy",
+    "HappilyMarried"
+  ],
   "tropes_by_category": {}
 }

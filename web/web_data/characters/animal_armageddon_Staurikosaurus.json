@@ -1,7 +1,12 @@
 {
   "name": "Staurikosaurus",
   "show": "Animal Armageddon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AnachronisticAnimal",
+    "DragonAscendant",
+    "RaptorAttack",
+    "AnimalStampede"
+  ],
   "tropes_by_category": {}
 }

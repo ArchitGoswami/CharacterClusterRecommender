@@ -1,7 +1,21 @@
 {
   "name": "Radietta Fanbelt/White Racer",
   "show": "Gekisou Sentai Carranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MagicalGirl",
+    "IncrediblyObviousBomb",
+    "LoonyFan",
+    "BewareTheSillyOnes",
+    "LukeYouAreMyFather",
+    "BadassAdorable",
+    "BigDamnHeroes",
+    "Downplayed",
+    "AwesomeButImpractical",
+    "BadassInDistress",
+    "ImageSong",
+    "SailorEarth",
+    "SixthRanger"
+  ],
   "tropes_by_category": {}
 }

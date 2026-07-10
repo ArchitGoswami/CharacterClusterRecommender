@@ -1,7 +1,28 @@
 {
   "name": "Team Chris Is Really Really Really Really Hot",
   "show": "Total Drama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "TokenEvilTeammate",
+    "TheSmurfettePrinciple",
+    "NonGameplayElimination",
+    "TokenGoodTeammate",
+    "NiceMeanAndInbetween",
+    "TheLeader",
+    "TheStrategist",
+    "TheSmartGuy",
+    "BrokenPedestal",
+    "AscendedFangirl",
+    "TheLancer",
+    "BrilliantButLazy",
+    "EmbarrassingNickname",
+    "SixthRanger",
+    "HistoryRepeats",
+    "IronicName",
+    "DumbMuscle",
+    "TheBigGuy",
+    "BigBad",
+    "TheLoad"
+  ],
   "tropes_by_category": {}
 }

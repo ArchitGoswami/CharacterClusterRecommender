@@ -1,7 +1,11 @@
 {
   "name": "Mikuni (Johnny Coolburns)",
   "show": "Duel Masters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HotBloodedSideburns",
+    "TheBigGuy",
+    "StopCopyingMe"
+  ],
   "tropes_by_category": {}
 }

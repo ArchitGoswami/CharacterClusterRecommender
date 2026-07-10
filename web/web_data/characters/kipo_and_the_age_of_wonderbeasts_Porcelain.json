@@ -1,7 +1,11 @@
 {
   "name": "Porcelain",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BloodKnight",
+    "GirlsWithMustaches",
+    "GlassShatteringSound"
+  ],
   "tropes_by_category": {}
 }

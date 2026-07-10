@@ -1,7 +1,16 @@
 {
   "name": "Bird",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AdvertisedExtra",
+    "AmplifiedAnimalAptitude",
+    "ADogNamedDog",
+    "InterspeciesFriendship",
+    "UnpleasantAnimalCounterpart",
+    "CartoonCreature",
+    "HeadPet",
+    "DemotedToExtra"
+  ],
   "tropes_by_category": {}
 }

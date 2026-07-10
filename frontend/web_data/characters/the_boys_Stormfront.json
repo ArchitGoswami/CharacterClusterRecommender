@@ -1,7 +1,30 @@
 {
   "name": "Stormfront",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ChocolateBaby",
+    "JerkAss",
+    "MeaningfulName",
+    "UndignifiedDeath",
+    "AlternateCompanyEquivalent",
+    "ThoseWackyNazis",
+    "FlyingBrick",
+    "BreathWeapon",
+    "TheWorfEffect",
+    "RefugeInAudacity",
+    "BuryYourDisabled",
+    "ForeignCussWord",
+    "HateSink",
+    "UnskilledButStrong",
+    "GroinAttack",
+    "PoliticallyIncorrectVillain",
+    "NoHoldsBarredBeatdown",
+    "HeelFaceTurn",
+    "CurbStomp",
+    "SuperPrototype",
+    "EyeScream",
+    "NightmareFetishist"
+  ],
   "tropes_by_category": {}
 }

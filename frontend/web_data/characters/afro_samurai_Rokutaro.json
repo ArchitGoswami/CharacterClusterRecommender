@@ -1,7 +1,15 @@
 {
   "name": "Rokutaro",
   "show": "Afro Samurai",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CameBackWrong",
+    "EvilKnockoff",
+    "MasterSwordsman",
+    "HisNameIs",
+    "WellIntentionedExtremist",
+    "PeopleJars",
+    "OffWithHisHead"
+  ],
   "tropes_by_category": {}
 }

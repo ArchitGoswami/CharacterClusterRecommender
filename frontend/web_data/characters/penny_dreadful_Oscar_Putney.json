@@ -1,7 +1,19 @@
 {
   "name": "Oscar Putney",
   "show": "Penny Dreadful",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "NeckSnap",
+    "SmugSnake",
+    "GenreBlind",
+    "AssholeVictim",
+    "NoHoldsBarredBeatdown",
+    "SesquipedalianLoquaciousness",
+    "SuperStrength",
+    "BaldOfEvil",
+    "Greed",
+    "BitchInSheepsClothing",
+    "SupernaturalGoldEyes"
+  ],
   "tropes_by_category": {}
 }

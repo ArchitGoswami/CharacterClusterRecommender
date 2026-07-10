@@ -1,7 +1,14 @@
 {
   "name": "Tongue Depressor",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MellowFellow",
+    "NewAgeRetroHippie",
+    "VagueAge",
+    "PrehensileTail",
+    "DrearyHalfLiddedEyes",
+    "AnimalFacialHair"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Augie Sansome",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigOlEyebrows",
+    "LeaveNoWitnesses",
+    "WitnessProtection",
+    "ConMan",
+    "HeKnowsTooMuch",
+    "BlackmailIsSuchAnUglyWord"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Elizabeth Warden",
   "show": "Keeping Up Appearances",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "RunningGag",
+    "DropInCharacter",
+    "AffectionateNickname",
+    "OnlyFriend",
+    "NosyNeighbor",
+    "NiceGirl",
+    "ExtremeDoormat",
+    "HeWhoMustNotBeSeen",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

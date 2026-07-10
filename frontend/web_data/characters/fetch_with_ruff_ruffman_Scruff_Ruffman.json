@@ -1,7 +1,10 @@
 {
   "name": "Scruff Ruffman",
   "show": "Fetch! with Ruff Ruffman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "EvilTwin",
+    "NoodleIncident"
+  ],
   "tropes_by_category": {}
 }

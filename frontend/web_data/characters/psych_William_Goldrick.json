@@ -1,7 +1,11 @@
 {
   "name": "William Goldrick",
   "show": "Psych",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "EvilBrit",
+    "TheInformant",
+    "TheHeavy"
+  ],
   "tropes_by_category": {}
 }

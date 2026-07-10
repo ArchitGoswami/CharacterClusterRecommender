@@ -1,7 +1,25 @@
 {
   "name": "Ethan Craft",
   "show": "Lizzie McGuire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BigManOnCampus",
+    "ChickMagnet",
+    "CoolKidAndLoserFriendship",
+    "EvenBadMenLoveTheirMamas",
+    "NiceGuy",
+    "PopularIsDumb",
+    "TheDitz",
+    "SatelliteLoveInterest",
+    "BrainlessBeauty",
+    "SmarterThanYouLook",
+    "BetterAsFriends",
+    "HiddenDepths",
+    "EarlyInstallmentWeirdness",
+    "CharacterizationMarchesOn",
+    "Cloudcuckoolander",
+    "InformedAttractiveness",
+    "KindheartedSimpleton"
+  ],
   "tropes_by_category": {}
 }

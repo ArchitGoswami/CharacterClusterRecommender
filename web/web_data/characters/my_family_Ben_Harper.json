@@ -1,7 +1,30 @@
 {
   "name": "Ben Harper",
   "show": "My Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "AvertedTrope",
+    "TheScrooge",
+    "ButtMonkey",
+    "StrawNihilist",
+    "JadedWashout",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "ItsAWonderfulPlot",
+    "Jerkass",
+    "ItsAllAboutMe",
+    "DepravedDentist",
+    "Cloudcuckoolander",
+    "DiggingYourselfDeeper",
+    "NotHelpingYourCase",
+    "MeanBoss",
+    "OnlySaneMan",
+    "PapaWolf",
+    "FluffyCloudHeaven",
+    "INeedAFreakingDrink",
+    "LazyBum",
+    "NoRespectGuy",
+    "TheEeyore"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Lulu Pickles",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheGhost",
+    "CoolOldLady",
+    "DecemberDecemberRomance",
+    "ForgottenFirstMeeting"
+  ],
   "tropes_by_category": {}
 }

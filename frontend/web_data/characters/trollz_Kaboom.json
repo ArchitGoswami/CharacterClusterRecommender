@@ -1,7 +1,11 @@
 {
   "name": "Kaboom",
   "show": "Trollz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheDogBitesBack",
+    "IronButtmonkey",
+    "HilarityEnsues"
+  ],
   "tropes_by_category": {}
 }

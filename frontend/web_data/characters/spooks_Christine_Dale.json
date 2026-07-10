@@ -1,7 +1,11 @@
 {
   "name": "Christine Dale",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ItsAllAboutMe",
+    "BelligerentSexualTension",
+    "Tsundere"
+  ],
   "tropes_by_category": {}
 }

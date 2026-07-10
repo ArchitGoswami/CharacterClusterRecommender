@@ -1,7 +1,30 @@
 {
   "name": "Nefertina",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "MsFanservice",
+    "BareMidriffsAreFeminine",
+    "TheSmurfettePrinciple",
+    "WellDoneDaughterGirl",
+    "CatGirl",
+    "AnimalMotifs",
+    "WeaponSpecialization",
+    "ActionGirl",
+    "BrainyBrunette",
+    "Portmanteau",
+    "Thememobile",
+    "DeathByOriginStory",
+    "SamusIsAGirl",
+    "WrenchWench",
+    "DrivesLikeCrazy",
+    "BadassDriver",
+    "SheCleansUpNicely",
+    "AbsurdlySharpClaws",
+    "SpeedDemon",
+    "SingleWomanSeeksGoodMan",
+    "MysticalWhiteHair",
+    "RedAndBlackAndEvilAllOver"
+  ],
   "tropes_by_category": {}
 }

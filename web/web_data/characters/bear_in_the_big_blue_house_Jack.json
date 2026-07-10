@@ -1,7 +1,10 @@
 {
   "name": "Jack",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "FunnyAnimal",
+    "DogsLoveFireHydrants"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Louise Clarkson",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MamaBear",
+    "HateSink",
+    "DeadpanSnarker",
+    "EvenEvilHasLovedOnes"
+  ],
   "tropes_by_category": {}
 }

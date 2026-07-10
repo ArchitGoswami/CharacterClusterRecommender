@@ -1,7 +1,14 @@
 {
   "name": "The Sleep",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FairySexy",
+    "EarWings",
+    "ForcedSleep",
+    "WingedHumanoid",
+    "CosmicMotifs",
+    "AstonishinglyAppropriateAppearance"
+  ],
   "tropes_by_category": {}
 }

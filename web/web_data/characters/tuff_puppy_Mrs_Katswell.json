@@ -1,7 +1,11 @@
 {
   "name": "Mrs. Katswell",
   "show": "T.U.F.F. Puppy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "WellDoneSonGuy",
+    "ParentalIssues",
+    "AbusiveParent"
+  ],
   "tropes_by_category": {}
 }

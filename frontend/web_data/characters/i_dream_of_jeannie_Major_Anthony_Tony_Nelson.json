@@ -1,7 +1,19 @@
 {
   "name": "Major Anthony \"Tony\" Nelson",
   "show": "I Dream of Jeannie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GuileHero",
+    "ChickMagnet",
+    "KeepingSecretsSucks",
+    "MrFanservice",
+    "NiceGuy",
+    "CrazyJealousGuy",
+    "HappilyMarried",
+    "NonActionGuy",
+    "Tsundere",
+    "HumbleHero",
+    "BrokenAce"
+  ],
   "tropes_by_category": {}
 }

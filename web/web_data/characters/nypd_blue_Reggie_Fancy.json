@@ -1,7 +1,9 @@
 {
   "name": "Reggie Fancy",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "MinorityPoliceOfficer"
+  ],
   "tropes_by_category": {}
 }

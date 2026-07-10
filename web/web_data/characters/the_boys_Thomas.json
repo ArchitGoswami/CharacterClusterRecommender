@@ -1,7 +1,16 @@
 {
   "name": "Thomas",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheJeeves",
+    "ServileSnarker",
+    "OldRetainer",
+    "BlatantLies",
+    "MeaningfulName",
+    "EtTuBrute",
+    "MistreatmentInducedBetrayal",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Richard Swimmins",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheyKilledKennyAgain",
+    "ClassPet",
+    "WingdingEyes",
+    "PunnyName",
+    "ReplacementGoldfish"
+  ],
   "tropes_by_category": {}
 }

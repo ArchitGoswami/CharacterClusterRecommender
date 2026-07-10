@@ -1,7 +1,19 @@
 {
   "name": "The Cotton Family",
   "show": "EastEnders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DarkSecret",
+    "DisappearedDad",
+    "NeverMyFault",
+    "PetTheDog",
+    "LaserGuidedKarma",
+    "BigBad",
+    "ManipulativeBastard",
+    "HisOwnWorstEnemy",
+    "SurprisePregnancy",
+    "DeadGuyJunior",
+    "ImpersonatingAnOfficer"
+  ],
   "tropes_by_category": {}
 }

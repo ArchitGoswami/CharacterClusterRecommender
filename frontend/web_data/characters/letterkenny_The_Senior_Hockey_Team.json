@@ -1,7 +1,14 @@
 {
   "name": "The Senior Hockey Team",
   "show": "Letterkenny",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "QuirkyMinibossSquad",
+    "LovableJock",
+    "BerserkButton",
+    "VerbalTic",
+    "BrokenAce",
+    "CloudCuckoolander"
+  ],
   "tropes_by_category": {}
 }

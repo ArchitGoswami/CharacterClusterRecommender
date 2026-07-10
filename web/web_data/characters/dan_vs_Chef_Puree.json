@@ -1,7 +1,13 @@
 {
   "name": "Chef Puree",
   "show": "Dan Vs.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Jerkass",
+    "HateSink",
+    "FrenchJerk",
+    "VillainProtagonist",
+    "FatBastard"
+  ],
   "tropes_by_category": {}
 }

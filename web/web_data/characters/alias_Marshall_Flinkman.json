@@ -1,7 +1,21 @@
 {
   "name": "Marshall Flinkman",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MissionControl",
+    "OddFriendship",
+    "PhotographicMemory",
+    "GibberingGenius",
+    "ADayInTheLimelight",
+    "HollywoodHacking",
+    "BunnyEarsLawyer",
+    "NonActionGuy",
+    "VerbalTic",
+    "MotorMouth",
+    "TheSmartGuy",
+    "TechnoWizard",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

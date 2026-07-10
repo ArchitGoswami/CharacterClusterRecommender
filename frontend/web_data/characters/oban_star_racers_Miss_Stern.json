@@ -1,7 +1,18 @@
 {
   "name": "Miss Stern",
   "show": "Oban Star-Racers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "SadistTeacher",
+    "KarmaHoudini",
+    "BoardingSchoolOfHorrors",
+    "HateSink",
+    "LackOfEmpathy",
+    "FourEyesZeroSoul",
+    "JerkassHasAPoint",
+    "PrimAndProperBun",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

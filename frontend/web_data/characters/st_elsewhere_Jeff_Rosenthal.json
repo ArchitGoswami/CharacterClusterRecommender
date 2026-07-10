@@ -1,7 +1,10 @@
 {
   "name": "Jeff Rosenthal",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SantaClaus",
+    "MouthyKid"
+  ],
   "tropes_by_category": {}
 }

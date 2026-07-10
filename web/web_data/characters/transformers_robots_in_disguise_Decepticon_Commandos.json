@@ -1,7 +1,21 @@
 {
   "name": "Decepticon Commandos",
   "show": "Transformers: Robots in Disguise",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "SurveillanceAsThePlotDemands",
+    "LeaderFormsTheHead",
+    "PaletteSwap",
+    "Expy",
+    "CombiningMecha",
+    "ReimaginingTheArtifact",
+    "FlatCharacter",
+    "DubNameChange",
+    "EliteMooks",
+    "MultiformBalance",
+    "ThePsychoRangers",
+    "IneffectualSympatheticVillain"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Minor Characters",
   "show": "Dog With A Blog",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheScream",
+    "SadisticChoice",
+    "TheDreaded",
+    "ILied",
+    "MadScientist",
+    "TalkingAnimal",
+    "WouldHurtAChild",
+    "AvertedTrope",
+    "HoistByHisOwnPetard"
+  ],
   "tropes_by_category": {}
 }

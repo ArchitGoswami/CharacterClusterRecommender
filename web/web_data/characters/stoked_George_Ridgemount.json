@@ -1,7 +1,17 @@
 {
   "name": "George Ridgemount",
   "show": "Stoked",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ThoseTwoGuys",
+    "EnfantTerrible",
+    "SpoiledBrat",
+    "PetTheDog",
+    "AnnoyingYoungerSibling",
+    "KarmaHoudini",
+    "LikesOlderWomen",
+    "HateSink",
+    "BrattyHalfPint"
+  ],
   "tropes_by_category": {}
 }

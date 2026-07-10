@@ -1,7 +1,21 @@
 {
   "name": "Hyneria",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FantasticFaunaCounterpart",
+    "BloodIsSquickerInWater",
+    "GeniusBonus",
+    "BigBad",
+    "HazardousWater",
+    "BoringButPractical",
+    "PrehistoricMonster",
+    "AlwaysABiggerFish",
+    "FiendishFish",
+    "NoSell",
+    "SuperpersistentPredator",
+    "YouCanRunButYouCantHide",
+    "RuleOfCool"
+  ],
   "tropes_by_category": {}
 }

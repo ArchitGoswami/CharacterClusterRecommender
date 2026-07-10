@@ -1,7 +1,14 @@
 {
   "name": "Lunch Lady Rose",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SassyBlackWoman",
+    "Catchphrase",
+    "FortuneTeller",
+    "HiddenDepths",
+    "CassandraTruth",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

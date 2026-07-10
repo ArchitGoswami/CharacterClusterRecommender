@@ -1,7 +1,10 @@
 {
   "name": "Pauline Lamb",
   "show": "Doc Martin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "SassySecretary"
+  ],
   "tropes_by_category": {}
 }

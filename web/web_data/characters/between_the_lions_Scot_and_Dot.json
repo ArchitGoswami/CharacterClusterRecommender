@@ -1,7 +1,11 @@
 {
   "name": "Scot and Dot",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChildrenAreInnocent",
+    "TheDitz",
+    "TooDumbToLive"
+  ],
   "tropes_by_category": {}
 }

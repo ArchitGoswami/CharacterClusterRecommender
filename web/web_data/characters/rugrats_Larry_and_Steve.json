@@ -1,7 +1,15 @@
 {
   "name": "Larry and Steve",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ThoseTwoGuys",
+    "ChuckCunninghamSyndrome",
+    "CanonForeigner",
+    "NewJobAsThePlotDemands",
+    "JustifiedTrope",
+    "FatAndSkinny",
+    "VitriolicBestBuds"
+  ],
   "tropes_by_category": {}
 }

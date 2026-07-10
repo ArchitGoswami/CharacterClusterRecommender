@@ -1,7 +1,23 @@
 {
   "name": "Bigfoot",
   "show": "Back at the Barnyard",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "GentleGiant",
+    "AllLoveIsUnrequited",
+    "LandslideElection",
+    "TheUnintelligible",
+    "BlindingCameraFlash",
+    "BerserkButton",
+    "BigfootSasquatchAndYeti",
+    "TabloidMelodrama",
+    "VindicatedByHistory",
+    "FakingTheDead",
+    "Flight",
+    "HiddenDepths",
+    "PlayedForLaughs",
+    "RousingSpeech",
+    "YouNoTakeCandle"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Pai Mei",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "StorybreakerPower",
+    "InverseLawOfUtilityAndLethality",
+    "GoryDiscretionShot",
+    "UncertainDoom",
+    "OneManArmy",
+    "TouchOfDeath",
+    "TheAce",
+    "ZigZaggedTrope",
+    "PintsizedPowerhouse",
+    "OldMaster",
+    "DefeatingTheUndefeatable",
+    "EvilOldFolks",
+    "OneShotCharacter",
+    "DefeatAsBackstory",
+    "KnightOfCerebus",
+    "MisplacedWildlife",
+    "NoHistoricalFiguresWereHarmed"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "San Yung",
   "show": "Magic Knight Rayearth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "LuminescentBlush",
+    "SuperDeformed",
+    "InconsistentSpelling",
+    "NonStandardCharacterDesign",
+    "TheNoseless",
+    "BeleagueredAssistant",
+    "BlackBeadEyes",
+    "AdorablyPrecociousChild",
+    "BlushSticker",
+    "SubordinateExcuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Lepidus",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AdaptationalWimp",
+    "AFatherToHisMen",
+    "PoliticallyIncorrectVillain",
+    "GeneralFailure",
+    "PutOnABus",
+    "NumberTwo",
+    "KickedUpstairs",
+    "OvershadowedByAwesome",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Toni",
   "show": "Peep Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "BerserkButton",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

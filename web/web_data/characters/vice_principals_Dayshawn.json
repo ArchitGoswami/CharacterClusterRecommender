@@ -1,7 +1,11 @@
 {
   "name": "Dayshawn",
   "show": "Vice Principals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TokenMinority",
+    "MistakenforGay",
+    "TheConfidant"
+  ],
   "tropes_by_category": {}
 }

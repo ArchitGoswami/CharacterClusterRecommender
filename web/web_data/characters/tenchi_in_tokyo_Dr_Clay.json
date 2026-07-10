@@ -1,7 +1,28 @@
 {
   "name": "Dr. Clay",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "NotSoHarmlessVillain",
+    "GrewBeyondTheirProgramming",
+    "MyDeathIsJustTheBeginning",
+    "OnlyOneName",
+    "AnimalMotifs",
+    "ButtMonkey",
+    "MadScientist",
+    "KickTheDog",
+    "SmugSnake",
+    "KnightOfCerebus",
+    "SigilSpam",
+    "DirtyOldMan",
+    "ACupAngst",
+    "OhCrap",
+    "EmbarrassingNickname",
+    "Gonk",
+    "GalacticConqueror",
+    "HighClassGlass",
+    "TheRival",
+    "GenreSavvy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Patricia \"Patty\" Bladell",
   "show": "Insatiable",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BeautyContest",
+    "FormerlyFat",
+    "RedOniBlueOni",
+    "DisappearedDad",
+    "DestructiveRomance",
+    "HorribleJudgeOfCharacter",
+    "UnkemptBeauty",
+    "FatBestFriend",
+    "MyGodWhatHaveIDone",
+    "HiddenDepths",
+    "AgeGapRomance",
+    "TomboyAndGirlyGirl",
+    "ItsAllAboutMe",
+    "ButWeUsedACondom",
+    "HairTriggerTemper",
+    "FreudianExcuse",
+    "EvenTheGirlsWantHer"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Figure Eight",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "FantasySequence"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Sacha/Yoyo",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ColorCodedCharacters",
+    "FastAsLightning",
+    "BlueIsHeroic",
+    "AnimalMotifs"
+  ],
   "tropes_by_category": {}
 }

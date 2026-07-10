@@ -1,7 +1,30 @@
 {
   "name": "Mammon",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "SevenDeadlySins",
+    "SealedEvilInACan",
+    "TheChessmaster",
+    "KickTheDog",
+    "FallenAngel",
+    "ObviouslyEvil",
+    "BishonenLine",
+    "WickedCultured",
+    "ClippedWingAngel",
+    "ManipulativeBastard",
+    "NamesToRunAwayFromReallyFast",
+    "NonActionBigBad",
+    "TheOldGods",
+    "DemotedToDragon",
+    "DirtyCoward",
+    "Mammon",
+    "BigBad",
+    "LastOfHisKind",
+    "EvilMentor",
+    "ManOfWealthAndTaste",
+    "DragonAscendant",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

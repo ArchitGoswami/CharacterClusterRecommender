@@ -1,7 +1,16 @@
 {
   "name": "Foot Elite",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "EliteMook",
+    "AllAsiansWearConicalStrawHats",
+    "TheRemnant",
+    "CounterpartCombatCoordination",
+    "EnemyCivilWar",
+    "NominalImportance",
+    "FlatCharacter",
+    "AvengingTheVillain"
+  ],
   "tropes_by_category": {}
 }

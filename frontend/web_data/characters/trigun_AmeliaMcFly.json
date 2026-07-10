@@ -1,7 +1,30 @@
 {
   "name": "AmeliaMcFly",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "LuminescentBlush",
+    "DefrostingIceQueen",
+    "YouKilledMyFather",
+    "BelligerentSexualTension",
+    "BarBrawl",
+    "HatesBeingTouched",
+    "PerpetualFrowner",
+    "BadassLongcoat",
+    "DoesNotLikeMen",
+    "ActionGirl",
+    "HeroicBSOD",
+    "ImprovisedWeapon",
+    "FieryRedhead",
+    "DisneyDeath",
+    "ShipTease",
+    "YoungerThanTheyLook",
+    "YouthfulFreckles",
+    "StrongFamilyResemblance",
+    "Revenge",
+    "CharacterDevelopment",
+    "ChekhovsGun",
+    "FryingPanOfDoom"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Tonoda",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SexBot",
+    "SoProudOfYou"
+  ],
   "tropes_by_category": {}
 }

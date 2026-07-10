@@ -1,7 +1,13 @@
 {
   "name": "Jillian Deline",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SatelliteFamilyMember",
+    "HappilyMarried",
+    "SatelliteCharacter",
+    "WetBlanketWife",
+    "FlatCharacter"
+  ],
   "tropes_by_category": {}
 }

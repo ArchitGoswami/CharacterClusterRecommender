@@ -1,7 +1,18 @@
 {
   "name": "Phil",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheDogBitesBack",
+    "CharacterDeath",
+    "ChekhovsGunman",
+    "FatBastard",
+    "AcquiredPoisonImmunity",
+    "BoomHeadshot",
+    "TheTopicOfCancer",
+    "BackForTheFinale",
+    "BackForTheDead",
+    "HollywoodPudgy"
+  ],
   "tropes_by_category": {}
 }

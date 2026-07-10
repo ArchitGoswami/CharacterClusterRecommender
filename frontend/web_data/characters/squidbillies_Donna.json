@@ -1,7 +1,17 @@
 {
   "name": "Donna",
   "show": "Squidbillies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AllThereInTheScript",
+    "NiceGuy",
+    "ItMakesSenseInContext",
+    "ShipTease",
+    "ShapedLikeItself",
+    "FlatCharacter",
+    "EarlyInstallmentWeirdness",
+    "InformedAttractiveness",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

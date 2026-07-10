@@ -1,7 +1,16 @@
 {
   "name": "Teo",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolOldGuy",
+    "BattleaxeNurse",
+    "AmbiguouslyHuman",
+    "FetchQuest",
+    "GrumpyOldMan",
+    "PlayingWithFire",
+    "BleakAbyssRetirementHome",
+    "AmnesiacGod"
+  ],
   "tropes_by_category": {}
 }

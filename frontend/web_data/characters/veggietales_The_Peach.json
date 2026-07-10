@@ -1,7 +1,10 @@
 {
   "name": "The Peach",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheQuietOne",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Yorshk Voso",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "PokeThePoodle",
+    "PoisonousPerson",
+    "NotSoHarmlessVillain",
+    "VillainsOutShopping",
+    "DefeatMeansFriendship",
+    "EarlyBirdCameo",
+    "BishonenLine",
+    "TheHeavy",
+    "BadBoss",
+    "RecurringBoss",
+    "TheStarscream"
+  ],
   "tropes_by_category": {}
 }

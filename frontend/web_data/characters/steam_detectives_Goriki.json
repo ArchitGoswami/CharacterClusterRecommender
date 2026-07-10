@@ -1,7 +1,17 @@
 {
   "name": "Goriki",
   "show": "Steam Detectives",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ThisIsADrill",
+    "MundaneUtility",
+    "HeroicBSOD",
+    "FinishingMove",
+    "RobotBuddy",
+    "PoseOfSupplication",
+    "StockFootage",
+    "AndroidsAndDetectives",
+    "VictoryPose"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Katelyn",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CloudCuckoolander",
+    "PerpetualSmiler"
+  ],
   "tropes_by_category": {}
 }

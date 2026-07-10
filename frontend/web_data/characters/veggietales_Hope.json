@@ -1,7 +1,15 @@
 {
   "name": "Hope",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "AllThereInTheManual",
+    "UnexplainedAccent",
+    "AnimateInanimateObject",
+    "StepfordSnarker",
+    "TookALevelInKindness",
+    "MeaningfulName"
+  ],
   "tropes_by_category": {}
 }

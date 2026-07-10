@@ -1,7 +1,14 @@
 {
   "name": "Kenny Bania",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ObliviousToHatred",
+    "SitcomArchnemesis",
+    "TrademarkFavoriteFood",
+    "SmallNameBigEgo",
+    "TheFriendNobodyLikes",
+    "VerbalTic"
+  ],
   "tropes_by_category": {}
 }

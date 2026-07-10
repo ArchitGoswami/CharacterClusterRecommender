@@ -1,7 +1,10 @@
 {
   "name": "RandiMcFarland",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "WeirdnessMagnet",
+    "IntrepidReporter"
+  ],
   "tropes_by_category": {}
 }

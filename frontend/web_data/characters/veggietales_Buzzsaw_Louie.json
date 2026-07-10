@@ -1,7 +1,21 @@
 {
   "name": "Buzzsaw Louie",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SirNotAppearingInThisTrailer",
+    "LivingToys",
+    "MundaneUtility",
+    "RememberedICouldFly",
+    "UnusuallyUninterestingSight",
+    "BladeBelowTheShoulder",
+    "HumbleGoal",
+    "MyLittlePanzer",
+    "InstantAIJustAddWater",
+    "LampshadeHanging",
+    "ShrugOfGod",
+    "TheCameo",
+    "Handwave"
+  ],
   "tropes_by_category": {}
 }

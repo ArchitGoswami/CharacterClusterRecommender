@@ -1,7 +1,15 @@
 {
   "name": "Kevin Langley",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "IconicOutfit",
+    "NiceGuy",
+    "TheAllAmericanBoy",
+    "YouthfulFreckles",
+    "HiddenDepths",
+    "ActuallyPrettyFunny",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

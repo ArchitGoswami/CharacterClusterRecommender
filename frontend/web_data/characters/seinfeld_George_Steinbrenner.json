@@ -1,7 +1,21 @@
 {
   "name": "George Steinbrenner",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ForTheEvulz",
+    "AttentionDeficitOohShiny",
+    "CreatorCameo",
+    "HeWhoMustNotBeSeen",
+    "MotorMouth",
+    "TheBore",
+    "NoCelebritiesWereHarmed",
+    "BadBoss",
+    "RamblingOldManMonologue",
+    "Cloudcuckoolander",
+    "GeorgeJetsonJobSecurity",
+    "TakeThat",
+    "AffectionateParody"
+  ],
   "tropes_by_category": {}
 }

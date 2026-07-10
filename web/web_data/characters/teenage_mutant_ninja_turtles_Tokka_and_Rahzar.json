@@ -1,7 +1,28 @@
 {
   "name": "Tokka and Rahzar",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "SmarterThanTheyLook",
+    "Kaiju",
+    "ElementalPowers",
+    "ThoseTwoGuys",
+    "AdvertisedExtra",
+    "CanonForeigner",
+    "AnIcePerson",
+    "DualBoss",
+    "InNameOnly",
+    "PlayingWithFire",
+    "ComicBookMoviesDontUseCodenames",
+    "AdaptationalBadass",
+    "ExpyCoexistence",
+    "Animorphism",
+    "DumbMuscle",
+    "AdaptationalSpeciesChange",
+    "Expy",
+    "AdaptationalIntelligence",
+    "BossBattle",
+    "SimilarSquad"
+  ],
   "tropes_by_category": {}
 }

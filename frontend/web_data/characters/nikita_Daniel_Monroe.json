@@ -1,7 +1,13 @@
 {
   "name": "Daniel Monroe",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NiceGuy",
+    "PosthumousCharacter",
+    "MoralityPet",
+    "DeathByOriginStory",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

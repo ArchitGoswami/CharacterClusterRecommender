@@ -1,7 +1,19 @@
 {
   "name": "Adult Planes",
   "show": "Jay Jay the Jet Plane",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CoolOldGuy",
+    "TheSmurfettePrinciple",
+    "CanonForeigner",
+    "YellowPurpleContrast",
+    "ReasonableAuthorityFigure",
+    "NonStandardCharacterDesign",
+    "BigGood",
+    "SingingVoiceDissonance",
+    "PunnyName",
+    "MeaningfulName",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Caterina Sforza",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DaChief",
+    "IncurableCoughOfDeath",
+    "HighClassGlass",
+    "BigBrotherInstinct",
+    "RedOniBlueOni",
+    "ReasonableAuthorityFigure",
+    "ChildhoodFriends",
+    "LoveMakesYouEvil"
+  ],
   "tropes_by_category": {}
 }

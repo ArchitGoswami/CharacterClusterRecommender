@@ -1,7 +1,11 @@
 {
   "name": "Maggi/Jives",
   "show": "Lazytown",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TeamDad",
+    "TotallyRadical",
+    "AdaptedOut"
+  ],
   "tropes_by_category": {}
 }

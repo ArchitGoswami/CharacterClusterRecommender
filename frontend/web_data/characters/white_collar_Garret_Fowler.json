@@ -1,7 +1,13 @@
 {
   "name": "Garret Fowler",
   "show": "White Collar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "WhatHappenedToTheMouse",
+    "ManBehindTheMan",
+    "LawmanGoneBad",
+    "AntiVillain",
+    "InternalAffairs"
+  ],
   "tropes_by_category": {}
 }

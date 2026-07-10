@@ -1,7 +1,18 @@
 {
   "name": "Bonnie",
   "show": "Baby Daddy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "MyBelovedSmother",
+    "DotingParent",
+    "TeamMom",
+    "ItsAllAboutMe",
+    "FormerTeenRebel",
+    "MamaBear",
+    "ObliquelyObfuscatedOccupation",
+    "HiddenDepths",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

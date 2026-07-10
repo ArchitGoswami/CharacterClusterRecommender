@@ -1,7 +1,19 @@
 {
   "name": "Vera de Milo",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BabyBeMine",
+    "SignatureLaugh",
+    "OneWomanArmy",
+    "BrawnHilda",
+    "LipLosses",
+    "GirlishPigtails",
+    "GagLips",
+    "TomboyWithAGirlyStreak",
+    "GirlyGirlWithATomboyStreak",
+    "KavorkaMan",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

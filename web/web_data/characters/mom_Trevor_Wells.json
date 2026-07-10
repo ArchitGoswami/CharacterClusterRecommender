@@ -1,7 +1,12 @@
 {
   "name": "Trevor Wells",
   "show": "Mom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HumiliationConga",
+    "TheStoic",
+    "AwfulWeddedLife",
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

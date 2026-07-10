@@ -1,7 +1,24 @@
 {
   "name": "Standard",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "TheBusCameBack",
+    "PrivateMilitaryContractors",
+    "FakeMemories",
+    "UncleTomfoolery",
+    "NamedByDemocracy",
+    "MindScrew",
+    "UndyingLoyalty",
+    "PutOnABus",
+    "TheLoad",
+    "Eagleland",
+    "TokenMinority",
+    "SixthRanger",
+    "NewMeat",
+    "ButtMonkey",
+    "PluckyComicRelief",
+    "ContrivedCoincidence"
+  ],
   "tropes_by_category": {}
 }

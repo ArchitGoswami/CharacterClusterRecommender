@@ -1,7 +1,21 @@
 {
   "name": "Bobby Generic",
   "show": "Bobby's World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "Catchphrase",
+    "BareMidriffsAreFeminine",
+    "LiteralMinded",
+    "NiceGuy",
+    "BerserkButton",
+    "TinyGuyHugeGirl",
+    "MrImagination",
+    "InsistentTerminology",
+    "NiceMeanAndInBetween",
+    "WiseBeyondHisYears",
+    "BrattyHalfPint",
+    "SheIsNotMyGirlfriend"
+  ],
   "tropes_by_category": {}
 }

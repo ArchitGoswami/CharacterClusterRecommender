@@ -1,7 +1,17 @@
 {
   "name": "Godinotia",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Anticlimax",
+    "NeverTrustATrailer",
+    "ArtisticLicensePaleontology",
+    "Sleepyhead",
+    "InformedSpecies",
+    "AdaptedOut",
+    "DoubleEntendre",
+    "OutWithABang",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

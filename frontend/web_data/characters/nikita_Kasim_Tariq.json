@@ -1,7 +1,13 @@
 {
   "name": "Kasim Tariq",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BecomingTheMask",
+    "DoubleAgent",
+    "GenericEthnicCrimeGang",
+    "BaldOfEvil",
+    "FaceDeathWithDignity"
+  ],
   "tropes_by_category": {}
 }

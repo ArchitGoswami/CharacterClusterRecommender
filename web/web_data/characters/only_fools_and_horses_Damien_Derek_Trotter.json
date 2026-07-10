@@ -1,7 +1,16 @@
 {
   "name": "Damien Derek Trotter",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "JiveTurkey",
+    "EnfantTerrible",
+    "BiggerIsBetterInBed",
+    "EmbarrassingMiddleName",
+    "TagalongKid",
+    "NamesToRunAwayFromReallyFast",
+    "ThePeepingTom",
+    "MouthyKid"
+  ],
   "tropes_by_category": {}
 }

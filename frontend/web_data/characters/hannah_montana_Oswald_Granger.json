@@ -1,7 +1,13 @@
 {
   "name": "Oswald Granger",
   "show": "Hannah Montana",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SecretChaser",
+    "HeelRealization",
+    "BigBad",
+    "TakeThisJobAndShoveIt",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,29 @@
 {
   "name": "Ryan",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "InnocentBlueEyes",
+    "NiceGuy",
+    "NonActionGuy",
+    "Determinator",
+    "PlatonicLifePartners",
+    "ButtMonkey",
+    "ScrewTheRulesImDoingWhatsRight",
+    "HeroicSacrifice",
+    "KilledOffForReal",
+    "DistressedDude",
+    "UndyingLoyalty",
+    "RecruitmentByRescue",
+    "SealedGoodInACan",
+    "TheSmartGuy",
+    "AwesomenessByAnalysis",
+    "DaChief",
+    "SomethingOnlyTheyWouldSay",
+    "DeathFakedForYou",
+    "HonoraryTrueCompanion",
+    "TheChainsOfCommanding",
+    "ReasonableAuthorityFigure"
+  ],
   "tropes_by_category": {}
 }

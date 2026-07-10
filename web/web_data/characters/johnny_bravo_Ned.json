@@ -1,7 +1,11 @@
 {
   "name": "Ned",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "CrazyJealousGuy",
+    "Jerkass",
+    "InterspeciesRomance"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Cave Lion",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AdvertisedExtra",
+    "PaletteSwap",
+    "GrimUpNorth",
+    "AllThereInTheManual",
+    "WeHardlyKnewYe",
+    "ShownTheirWork",
+    "PantheraAwesome",
+    "ArtisticLicenseBiology",
+    "ArtisticLicensePaleontology",
+    "ToServeMan",
+    "CatsAreMean",
+    "InformedSpecies",
+    "AnimalsNotToScale",
+    "OutOfFocus",
+    "EatsBabies",
+    "RuleOfCool",
+    "GreatWhiteFeline",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

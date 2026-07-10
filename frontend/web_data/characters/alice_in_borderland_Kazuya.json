@@ -1,7 +1,17 @@
 {
   "name": "Kazuya",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Yakuza",
+    "HeroicSacrifice",
+    "TheBigGuy",
+    "CanonForeigner",
+    "SuspiciouslySimilarSubstitute",
+    "NotSoStoic",
+    "BattleStrip",
+    "TattooedCrook",
+    "SignificantAnagram"
+  ],
   "tropes_by_category": {}
 }

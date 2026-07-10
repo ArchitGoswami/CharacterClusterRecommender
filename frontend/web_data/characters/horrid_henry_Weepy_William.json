@@ -1,7 +1,18 @@
 {
   "name": "Weepy William",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "IronicName",
+    "ProneToTears",
+    "NiceGuy",
+    "HideYourLesbians",
+    "LovableCoward",
+    "AmbiguouslyGay",
+    "TheCutie",
+    "PottyFailure",
+    "BreakTheCutie",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

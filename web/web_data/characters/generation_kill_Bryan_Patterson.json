@@ -1,7 +1,14 @@
 {
   "name": "Bryan Patterson",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ADayInTheLimelight",
+    "ScarfOfAsskicking",
+    "Foil",
+    "ReasonableAuthorityFigure",
+    "OOCIsSeriousBusiness",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

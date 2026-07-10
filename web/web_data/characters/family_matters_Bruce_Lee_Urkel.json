@@ -1,7 +1,19 @@
 {
   "name": "Bruce Lee Urkel",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "KnuckleCracking",
+    "Leitmotif",
+    "MrFanservice",
+    "BattleCry",
+    "CrouchingMoronHiddenBadass",
+    "TookALevelInBadass",
+    "KungFoley",
+    "BruceLeeClone",
+    "BewareTheNiceOnes",
+    "BarBrawl",
+    "OneManArmy"
+  ],
   "tropes_by_category": {}
 }

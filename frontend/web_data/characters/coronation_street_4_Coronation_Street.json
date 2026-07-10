@@ -1,7 +1,25 @@
 {
   "name": "4 Coronation Street",
   "show": "Coronation Street",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "YoureNotMyFather",
+    "Jerkass",
+    "HorribleJudgeOfCharacter",
+    "NiceGuy",
+    "SmallNameBigEgo",
+    "LoveHungry",
+    "ExcellentJudgeOfCharacter",
+    "ParentalNeglect",
+    "TheDanza",
+    "RichBitch",
+    "UndyingLoyalty",
+    "JerkassHasAPoint",
+    "ConflictingLoyalty",
+    "PapaWolf",
+    "ITakeOffenseToThatLastOne",
+    "LastDisrespects"
+  ],
   "tropes_by_category": {}
 }

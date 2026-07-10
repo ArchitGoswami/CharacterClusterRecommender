@@ -1,7 +1,22 @@
 {
   "name": "Jackson Fuller",
   "show": "Fuller House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DoggedNiceGuy",
+    "BigBrotherInstinct",
+    "VocalEvolution",
+    "TheKlutz",
+    "WhatTheHellHero",
+    "SpearCounterpart",
+    "DecompositeCharacter",
+    "GeniusDitz",
+    "SensitiveGuyAndManlyMan",
+    "AccidentalAthlete",
+    "DumbassTeenageSon",
+    "CoolBigBro",
+    "BookDumb",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

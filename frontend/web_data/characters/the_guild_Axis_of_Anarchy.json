@@ -1,7 +1,23 @@
 {
   "name": "Axis of Anarchy",
   "show": "The Guild",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "TheBusCameBack",
+    "ShoutOut",
+    "TransparentCloset",
+    "HaveIMentionedIAmHeterosexualToday",
+    "NietzscheWannabe",
+    "BerserkButton",
+    "JerkWithAHeartOfJerk",
+    "CampGay",
+    "GIRL",
+    "CrossPlayer",
+    "AmbiguouslyBrown",
+    "TheBrute",
+    "AmbiguouslyGay",
+    "ManipulativeBitch",
+    "ManInAKilt"
+  ],
   "tropes_by_category": {}
 }

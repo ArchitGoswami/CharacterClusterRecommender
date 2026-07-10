@@ -1,7 +1,20 @@
 {
   "name": "Suzanne",
   "show": "Designing Women",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BigBeautifulWoman",
+    "TheRival",
+    "IWasQuiteALooker",
+    "RichBitch",
+    "YouAreFat",
+    "TheFashionista",
+    "GoldDigger",
+    "SerialSpouse",
+    "ItsAllAboutMe",
+    "EarlyInstallmentWeirdness",
+    "PracticallyDifferentGenerations",
+    "UnsympatheticComedyProtagonist"
+  ],
   "tropes_by_category": {}
 }

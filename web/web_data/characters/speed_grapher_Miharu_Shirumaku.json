@@ -1,7 +1,15 @@
 {
   "name": "Miharu Shirumaku",
   "show": "Speed Grapher",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "WellDoneSonGuy",
+    "TheVamp",
+    "MakingASplash",
+    "StageMom",
+    "AntiVillain",
+    "FreudianExcuse",
+    "OffingTheOffspring"
+  ],
   "tropes_by_category": {}
 }

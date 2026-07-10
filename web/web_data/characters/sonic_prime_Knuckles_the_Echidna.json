@@ -1,7 +1,16 @@
 {
   "name": "Knuckles the Echidna",
   "show": "Sonic Prime",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheBigGuy",
+    "BaritoneOfStrength",
+    "AntiClimaxBoss",
+    "VitriolicBestBuds",
+    "BossBattle",
+    "BloodKnight",
+    "CompressedAdaptation",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

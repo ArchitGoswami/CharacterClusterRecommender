@@ -1,7 +1,21 @@
 {
   "name": "Ben Mears",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "StrangerInAFamiliarLand",
+    "Expy",
+    "MyNaymeIs",
+    "NiceGuy",
+    "TookALevelInBadass",
+    "BusCrash",
+    "AmbiguousSituation",
+    "MostWritersAreWriters",
+    "ItsPersonal",
+    "RadioDrama",
+    "BewareTheNiceOnes",
+    "DarkAndTroubledPast",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

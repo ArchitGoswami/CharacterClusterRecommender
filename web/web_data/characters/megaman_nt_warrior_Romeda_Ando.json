@@ -1,7 +1,11 @@
 {
   "name": "Romeda Ando",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "StarPower",
+    "FortuneTeller",
+    "PunnyName"
+  ],
   "tropes_by_category": {}
 }

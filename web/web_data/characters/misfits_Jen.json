@@ -1,7 +1,12 @@
 {
   "name": "Jen",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FreakyFridayFlip",
+    "MyGodWhatHaveIDone",
+    "AntiVillain",
+    "ConvenientComa"
+  ],
   "tropes_by_category": {}
 }

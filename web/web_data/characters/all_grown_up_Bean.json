@@ -1,7 +1,16 @@
 {
   "name": "Bean",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "JumpScare",
+    "DeathGlare",
+    "DeadAllAlong",
+    "TookALevelInJerkass",
+    "TheStoic",
+    "RedEyesTakeWarning",
+    "ReallySevenHundredYearsOld",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

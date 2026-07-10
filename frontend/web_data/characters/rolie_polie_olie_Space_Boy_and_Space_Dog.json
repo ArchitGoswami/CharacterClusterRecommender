@@ -1,7 +1,12 @@
 {
   "name": "Space Boy and Space Dog",
   "show": "Rolie Polie Olie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "KidHero",
+    "ShowWithinAShow",
+    "PaletteSwap",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Vesper Abaddon",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AffablyEvil",
+    "ZeroPercentApprovalRating",
+    "Expy",
+    "PetTheDog",
+    "EvenEvilHasLovedOnes",
+    "ManipulativeBastard",
+    "SealedEvilInACan",
+    "BlackComedy",
+    "LeakingCanOfEvil",
+    "EvilMentor",
+    "EvilOldFolks",
+    "VillainousGlutton",
+    "MachiavelliWasWrong",
+    "LouisCypher",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

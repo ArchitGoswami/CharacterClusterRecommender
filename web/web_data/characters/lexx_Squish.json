@@ -1,7 +1,19 @@
 {
   "name": "Squish",
   "show": "Lexx",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ReptilesAreAbhorrent",
+    "ActionPet",
+    "HeroicSacrifice",
+    "ChekhovsGunman",
+    "ToServeMan",
+    "PickyPeopleEater",
+    "BadassAdorable",
+    "WhatMeasureIsANonCute",
+    "TeamPet",
+    "PetMonstrosity",
+    "BizarreAlienBiology"
+  ],
   "tropes_by_category": {}
 }

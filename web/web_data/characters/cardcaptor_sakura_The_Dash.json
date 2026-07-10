@@ -1,7 +1,13 @@
 {
   "name": "The Dash",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "RidiculouslyCuteCritter",
+    "SuperSpeed",
+    "AllAnimalsAreDogs",
+    "BewareTheNiceOnes",
+    "CarbuncleCreature"
+  ],
   "tropes_by_category": {}
 }

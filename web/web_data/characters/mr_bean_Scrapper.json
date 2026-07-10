@@ -1,7 +1,23 @@
 {
   "name": "Scrapper",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AmazingTechnicolorWildlife",
+    "TreeBuchet",
+    "Jerkass",
+    "KarmaHoudini",
+    "CatsAreMean",
+    "HateSink",
+    "KarmicButtMonkey",
+    "MeaningfulName",
+    "EarNotch",
+    "CatUpATree",
+    "EyeScream",
+    "FatBastard",
+    "EvenTheDogIsAshamed",
+    "UngratefulBastard",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Omnifarious",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "WellDoneSonGuy",
+    "TheDogBitesBack",
+    "LonelyRichKid",
+    "SuperpowerLottery",
+    "Expy",
+    "AdaptationalVillainy",
+    "AdaptationalJerkass",
+    "TakenForGranite",
+    "CompositeCharacter",
+    "AgeLift",
+    "DeathBySecretIdentity",
+    "AdaptedOut",
+    "Hypocrite",
+    "AdaptationalBadass",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

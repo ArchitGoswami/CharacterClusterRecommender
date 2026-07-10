@@ -1,7 +1,21 @@
 {
   "name": "Usagi Yuzuha",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ActionGirl",
+    "LoveInterest",
+    "DisappearedDad",
+    "Deuteragonist",
+    "SciFiBobHaircut",
+    "AdaptationDyeJob",
+    "ShipTease",
+    "MeaningfulName",
+    "DrivenToSuicide",
+    "SecondEpisodeIntroduction",
+    "RelationshipUpgrade",
+    "PintsizedPowerhouse",
+    "AliceAllusion"
+  ],
   "tropes_by_category": {}
 }

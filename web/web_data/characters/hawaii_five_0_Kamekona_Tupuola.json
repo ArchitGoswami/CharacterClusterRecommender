@@ -1,7 +1,25 @@
 {
   "name": "Kamekona Tupuola",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "GentleGiant",
+    "DeadpanSnarker",
+    "AllThereInTheManual",
+    "ADayInTheLimelight",
+    "DrivesLikeCrazy",
+    "BigFun",
+    "HonestJohnsDealership",
+    "BigBad",
+    "TheInformant",
+    "RunningGag",
+    "PrisonsAreSchools",
+    "BigEater",
+    "NamedAfterSomebodyFamous",
+    "MasochistsMeal",
+    "InvertedTrope",
+    "FatBastard",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

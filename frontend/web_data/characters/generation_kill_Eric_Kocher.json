@@ -1,7 +1,10 @@
 {
   "name": "Eric Kocher",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NoGoodDeedGoesUnpunished",
+    "HypercompetentSidekick"
+  ],
   "tropes_by_category": {}
 }

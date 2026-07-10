@@ -1,7 +1,18 @@
 {
   "name": "Lexi",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "HeelFaceTurn",
+    "DeathEqualsRedemption",
+    "HeroicSacrifice",
+    "AmbiguouslyEvil",
+    "TheAtoner",
+    "CreepyChild",
+    "MyGodWhatHaveIDone",
+    "RapidAging",
+    "RealityWarper",
+    "PhysicalGod"
+  ],
   "tropes_by_category": {}
 }

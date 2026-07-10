@@ -1,7 +1,15 @@
 {
   "name": "Acetylene Lamp",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ShutUpHannibal",
+    "MyGreatestFailure",
+    "Jerkass",
+    "Hypocrite",
+    "CorruptCorporateExecutive",
+    "AscendedExtra",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

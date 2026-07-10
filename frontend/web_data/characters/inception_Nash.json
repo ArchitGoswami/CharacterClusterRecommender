@@ -1,7 +1,13 @@
 {
   "name": "Nash",
   "show": "Inception",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DirtyCoward",
+    "InUniverseFactoidFailure",
+    "YouHaveFailedMe",
+    "RewardedAsATraitorDeserves",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

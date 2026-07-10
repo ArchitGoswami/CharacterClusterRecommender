@@ -1,7 +1,16 @@
 {
   "name": "Everyone else",
   "show": "Gravitation",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ArrangedMarriage",
+    "PairTheSpares",
+    "OnlyOneName",
+    "AdaptedOut",
+    "OutOfFocus",
+    "NoNameGiven",
+    "SubordinateExcuse",
+    "IgnoredEnamoredUnderling"
+  ],
   "tropes_by_category": {}
 }

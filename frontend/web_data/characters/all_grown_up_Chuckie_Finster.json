@@ -1,7 +1,31 @@
 {
   "name": "Chuckie Finster",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "BigBrotherMentor",
+    "AnimeHair",
+    "ContinuityNod",
+    "LauncherOfAThousandShips",
+    "ButtMonkey",
+    "BigBrotherInstinct",
+    "TechnoBabble",
+    "HiddenDepths",
+    "TheLancer",
+    "RunningGag",
+    "LovableCoward",
+    "CrouchingMoronHiddenBadass",
+    "BlindWithoutEm",
+    "WhyDidItHaveToBeSnakes",
+    "MySisterIsOffLimits",
+    "ShipperOnDeck",
+    "NerdGlasses",
+    "ShowerShy",
+    "PubescentBraces",
+    "SimpleYetAwesome",
+    "HeterosexualLifePartners",
+    "BadLiar",
+    "SelfDeprecation"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Rick Twitler",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "OneWingedAngel",
+    "FictionalSocialNetwork",
+    "TheChessmaster",
+    "NewMediaAreEvil",
+    "TrojanPrisoner",
+    "LaserGuidedAmnesia",
+    "BroughtDownToNormal",
+    "WellIntentionedExtremist",
+    "CrazyPrepared",
+    "PlayedForLaughs",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

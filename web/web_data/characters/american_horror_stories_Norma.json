@@ -1,7 +1,10 @@
 {
   "name": "Norma",
   "show": "American Horror Stories",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ScrewThisImOuttaHere",
+    "EthnicMenialLabor"
+  ],
   "tropes_by_category": {}
 }

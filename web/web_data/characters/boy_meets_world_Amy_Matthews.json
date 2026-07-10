@@ -1,7 +1,11 @@
 {
   "name": "Amy Matthews",
   "show": "Boy Meets World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MyBelovedSmother",
+    "BabiesEverAfter",
+    "LikeParentLikeSpouse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Orrock",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Foil",
+    "CategoryTraitor",
+    "PluckyMiddie",
+    "AscendedExtra",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

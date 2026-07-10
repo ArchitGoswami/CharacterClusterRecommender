@@ -1,7 +1,31 @@
 {
   "name": "Ivan/Ice Cub",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "AscendedFanboy",
+    "LogicalWeakness",
+    "NiceGuy",
+    "IJustWantToBeSpecial",
+    "GentleGiant",
+    "AnIcePerson",
+    "HandicappedBadass",
+    "JerkassBall",
+    "BearsAreBadNews",
+    "BearHug",
+    "TopHeavyGuy",
+    "AnimalThemedSuperBeing",
+    "BigOlEyebrows",
+    "ImplausibleBoardingSkills",
+    "MagicMeteor",
+    "NeverBareheaded",
+    "NonStandardCharacterDesign",
+    "TheNoseKnows",
+    "BearyFriendly",
+    "TwoferTokenMinority",
+    "BewareTheNiceOnes",
+    "EvilSmellsBad",
+    "IncorruptiblePurePureness"
+  ],
   "tropes_by_category": {}
 }

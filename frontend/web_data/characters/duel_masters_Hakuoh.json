@@ -1,7 +1,21 @@
 {
   "name": "Hakuoh",
   "show": "Duel Masters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "LockedIntoStrangeness",
+    "Jerkass",
+    "WhiteHairBlackHeart",
+    "DistressedDude",
+    "AnimeHair",
+    "TheRival",
+    "ForTheEvulz",
+    "LightIsGood",
+    "EveryoneHasStandards",
+    "LightIsNotGood",
+    "BadassInANiceSuit",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

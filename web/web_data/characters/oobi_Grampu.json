@@ -1,7 +1,21 @@
 {
   "name": "Grampu",
   "show": "Oobi",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ChickMagnet",
+    "CoolOldGuy",
+    "NeverSayDie",
+    "GrandparentalObliviousness",
+    "SignatureLaugh",
+    "UnnamedParent",
+    "DecemberDecemberRomance",
+    "NonStandardCharacterDesign",
+    "BumblingDad",
+    "HisNameReallyIsBarkeep",
+    "ButtMonkey",
+    "NoPeripheralVision",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Mondo Gecko",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeelFaceTurn",
+    "NonMammalianHair",
+    "TotallyRadical",
+    "Metamorphosis",
+    "LovableLizard"
+  ],
   "tropes_by_category": {}
 }

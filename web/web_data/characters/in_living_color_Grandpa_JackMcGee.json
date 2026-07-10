@@ -1,7 +1,26 @@
 {
   "name": "Grandpa JackMcGee",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SpeakIllOfTheDead",
+    "Catchphrase",
+    "UngratefulBastard",
+    "TropeCodifier",
+    "Jerkass",
+    "TheGhost",
+    "AlcoholInducedIdiocy",
+    "TheFunInFuneral",
+    "AlcoholicParent",
+    "ParentalIncest",
+    "DrunkDriver",
+    "WhiteSheep",
+    "BigScrewedUpFamily",
+    "PlayedForLaughs",
+    "TrademarkFavoriteFood",
+    "PoliticallyIncorrectVillain",
+    "AbusiveParents",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

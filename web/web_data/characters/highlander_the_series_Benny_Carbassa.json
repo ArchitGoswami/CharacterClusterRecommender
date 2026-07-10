@@ -1,7 +1,12 @@
 {
   "name": "Benny Carbassa",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NotSoHarmlessVillain",
+    "TheFriendNobodyLikes",
+    "PutOnABus",
+    "NonActionGuy"
+  ],
   "tropes_by_category": {}
 }

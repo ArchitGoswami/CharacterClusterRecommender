@@ -1,7 +1,20 @@
 {
   "name": "Jonathan Creek",
   "show": "Jonathan Creek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CatchPhrase",
+    "TheManBehindTheMan",
+    "GoodWithNumbers",
+    "StageMagic",
+    "ResignedToTheCall",
+    "RegularCaller",
+    "InsufferableGenius",
+    "DistractedByTheSexy",
+    "EurekaMoment",
+    "MagicianDetective",
+    "CharacterTic",
+    "IntelligenceEqualsIsolation"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Action Hotdog",
   "show": "Perfect Hair Forever",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "VerbalTic",
+    "FairyCompanion",
+    "AnimateInanimateObject"
+  ],
   "tropes_by_category": {}
 }

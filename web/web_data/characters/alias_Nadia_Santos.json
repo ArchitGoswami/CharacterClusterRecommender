@@ -1,7 +1,17 @@
 {
   "name": "Nadia Santos",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "SealedInsideAPersonShapedCan",
+    "ActionGirl",
+    "KilledOffForReal",
+    "SpiritAdvisor",
+    "WaifProphet",
+    "MadScientistsBeautifulDaughter",
+    "LongLostRelative",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

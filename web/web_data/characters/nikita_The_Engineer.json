@@ -1,7 +1,14 @@
 {
   "name": "The Engineer",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "YouHaveOutlivedYourUsefulness",
+    "MentorOccupationalHazard",
+    "TechnoWizard",
+    "EccentricMentor",
+    "NoNameGiven",
+    "NeckSnap"
+  ],
   "tropes_by_category": {}
 }

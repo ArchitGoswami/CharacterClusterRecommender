@@ -1,7 +1,25 @@
 {
   "name": "Ferris",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "TheHeavy",
+    "WouldHitAGirl",
+    "InterserviceRivalry",
+    "BecomingTheMask",
+    "ChainsawGood",
+    "Foil",
+    "NiceGuy",
+    "RogueAgent",
+    "AnArmAndALeg",
+    "AxCrazy",
+    "ItsPersonal",
+    "BloodFromTheMouth",
+    "NoodleIncident",
+    "InLoveWithTheMark",
+    "BoomHeadshot",
+    "SmugSnake",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

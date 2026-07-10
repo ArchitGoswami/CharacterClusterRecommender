@@ -1,7 +1,18 @@
 {
   "name": "Tony Twist",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Tuckerization",
+    "SirSwearsALot",
+    "SinisterShades",
+    "HumanoidAbomination",
+    "AnimatedAdaptation",
+    "BullyingADragon",
+    "StarterVillain",
+    "FatBastard",
+    "HairTriggerTemper",
+    "TheDon"
+  ],
   "tropes_by_category": {}
 }

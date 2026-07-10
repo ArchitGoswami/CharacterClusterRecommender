@@ -1,7 +1,13 @@
 {
   "name": "Dr. Spectrum",
   "show": "Inspector Gadget",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "KarmaHoudini",
+    "MadScientist",
+    "DarkerAndEdgier",
+    "BaldOfEvil",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

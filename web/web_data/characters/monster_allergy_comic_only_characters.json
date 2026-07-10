@@ -1,0 +1,16 @@
+{
+  "name": "Comic-only characters",
+  "show": "Monster Allergy",
+  "trope_count": 8,
+  "tropes": [
+    "KarmicTransformation",
+    "ForcedTransformation",
+    "Reincarnation",
+    "ObstructiveBureaucrat",
+    "AdaptedOut",
+    "ImaginaryFriend",
+    "LawfulStupid",
+    "JerkassHasAPoint"
+  ],
+  "tropes_by_category": {}
+}

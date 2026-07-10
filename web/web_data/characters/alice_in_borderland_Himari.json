@@ -1,7 +1,12 @@
 {
   "name": "Himari",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CanonForeigner",
+    "WeHardlyKnewYe",
+    "DisneyVillainDeath",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

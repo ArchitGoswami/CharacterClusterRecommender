@@ -1,7 +1,31 @@
 {
   "name": "Daisy Steiner",
   "show": "Spaced",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "ADegreeInUseless",
+    "ItsForABook",
+    "ThePiratesWhoDontDoAnything",
+    "TheKlutz",
+    "PlatonicLifePartners",
+    "TheSlacker",
+    "ArsonMurderAndJaywalking",
+    "ActionGirl",
+    "HeroesLoveDogs",
+    "SubvertedTrope",
+    "CompetitionFreak",
+    "ComplimentBackfire",
+    "MostWritersAreWriters",
+    "RealLifeWritesThePlot",
+    "GenkiGirl",
+    "MotorMouth",
+    "InformedAttribute",
+    "CharacterTic",
+    "SheCleansUpNicely",
+    "TookALevelInBadass",
+    "AllWomenAreLustful",
+    "Hipster",
+    "RidiculousProcrastinator"
+  ],
   "tropes_by_category": {}
 }

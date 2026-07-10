@@ -1,7 +1,17 @@
 {
   "name": "The Farmer",
   "show": "Back at the Barnyard",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "NiceGuy",
+    "EveryoneCallsHimBarkeep",
+    "TookALevelInDumbass",
+    "VirtuousVegetarianism",
+    "AdaptationalNameChange",
+    "OutOfFocus",
+    "PilotMovie",
+    "NoNameGiven",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

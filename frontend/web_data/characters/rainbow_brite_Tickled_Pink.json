@@ -1,7 +1,12 @@
 {
   "name": "Tickled Pink",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGirl",
+    "TheKirk",
+    "AdaptationDistillation",
+    "DubNameChange"
+  ],
   "tropes_by_category": {}
 }

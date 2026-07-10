@@ -1,7 +1,9 @@
 {
   "name": "Trinket",
   "show": "Nella the Princess Knight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "Unicorn"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Mimori Kiryuu",
   "show": "Scryed",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "FrontierDoctor",
+    "AllLoveIsUnrequited",
+    "ShelteredAristocrat",
+    "TeenGenius",
+    "PolitenessJudo",
+    "ImprobableAge",
+    "UnluckyChildhoodFriend",
+    "NiceGirl",
+    "BadassPacifist"
+  ],
   "tropes_by_category": {}
 }

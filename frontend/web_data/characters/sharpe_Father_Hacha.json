@@ -1,7 +1,15 @@
 {
   "name": "Father Hacha",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SiblingsInCrime",
+    "NeverBareheaded",
+    "BeardOfEvil",
+    "SinisterMinister",
+    "YouHaveFailedMe",
+    "CoDragons",
+    "RedAndBlackAndEvilAllOver"
+  ],
   "tropes_by_category": {}
 }

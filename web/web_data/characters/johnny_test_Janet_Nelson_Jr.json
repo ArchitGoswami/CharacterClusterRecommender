@@ -1,7 +1,12 @@
 {
   "name": "Janet Nelson Jr.",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DemotedToExtra",
+    "ChuckCunninghamSyndrome",
+    "LovableAlphaBitch",
+    "ShipTease"
+  ],
   "tropes_by_category": {}
 }

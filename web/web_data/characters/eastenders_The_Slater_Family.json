@@ -1,7 +1,15 @@
 {
   "name": "The Slater Family",
   "show": "EastEnders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HonestJohnsDealership",
+    "LadyInRed",
+    "PutOnABus",
+    "OutOfFocus",
+    "LongLostRelative",
+    "ComingOutStory",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

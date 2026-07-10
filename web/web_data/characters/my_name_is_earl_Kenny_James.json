@@ -1,7 +1,17 @@
 {
   "name": "Kenny James",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OddFriendship",
+    "HaveIMentionedIAmHeterosexualToday",
+    "NiceGuy",
+    "ClubKid",
+    "SomethingElseAlsoRises",
+    "LateComingOut",
+    "TheSmartGuy",
+    "SixthRanger",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Maude",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ScrewPolitenessImASenior",
+    "Spirits",
+    "FalseTeethTomfoolery",
+    "IntergenerationalFriendship",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Inventor Grotch",
   "show": "Gekisou Sentai Carranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "AffablyEvil",
+    "DitzyGenius",
+    "IgnoredEpiphany",
+    "DirtyCoward",
+    "Jerkass",
+    "Brainwashed",
+    "PopGoesTheHuman",
+    "EvilGenius",
+    "PsychoSerum",
+    "GiantEqualsInvincible",
+    "TheNudifier",
+    "ThePigPen",
+    "BigEater",
+    "DoubleStandardViolenceChildOnAdult",
+    "NoRespectGuy",
+    "FatBastard",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

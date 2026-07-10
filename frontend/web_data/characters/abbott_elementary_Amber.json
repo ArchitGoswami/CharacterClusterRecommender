@@ -1,7 +1,10 @@
 {
   "name": "Amber",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ItsAllAboutMe",
+    "RomanticFalseLead"
+  ],
   "tropes_by_category": {}
 }

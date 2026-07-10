@@ -1,7 +1,13 @@
 {
   "name": "Baby Felix And Friends Characters",
   "show": "The Twisted Tales of Felix the Cat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheQuietOne",
+    "AmazingTechnicolorPopulation",
+    "TheVoiceless",
+    "NiceGirl",
+    "PreciousPuppy"
+  ],
   "tropes_by_category": {}
 }

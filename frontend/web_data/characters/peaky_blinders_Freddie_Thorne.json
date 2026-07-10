@@ -1,7 +1,17 @@
 {
   "name": "Freddie Thorne",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ChildhoodFriendRomance",
+    "InLoveWithTheGangstersGirl",
+    "InformedJudaism",
+    "WhatTheHellIsThatAccent",
+    "DroppedABridgeOnHim",
+    "BadassBookworm",
+    "BigDamnHeroes",
+    "MeaningfulName",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

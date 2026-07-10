@@ -1,7 +1,19 @@
 {
   "name": "Miss Lovely",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HotTeacher",
+    "SubvertedTrope",
+    "CoolTeacher",
+    "HairOfGoldHeartOfGold",
+    "ReasonableAuthorityFigure",
+    "RaceLift",
+    "BewareTheNiceOnes",
+    "NiceGirl",
+    "FullNameUltimatum",
+    "AllLovingHero",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

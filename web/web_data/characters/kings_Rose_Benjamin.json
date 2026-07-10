@@ -1,7 +1,17 @@
 {
   "name": "Rose Benjamin",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheChessmaster",
+    "PoliticallyIncorrectVillain",
+    "TheCynic",
+    "MamaBear",
+    "ObfuscatingStupidity",
+    "DisproportionateRetribution",
+    "Hypocrite",
+    "BitchInSheepsClothing",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

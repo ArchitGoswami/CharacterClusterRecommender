@@ -1,7 +1,14 @@
 {
   "name": "Bumper Randalls",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "RealMenWearPink",
+    "ChuckCunninghamSyndrome",
+    "WouldHitAGirl",
+    "TheBully",
+    "TakenForGranite",
+    "HiddenDepths"
+  ],
   "tropes_by_category": {}
 }

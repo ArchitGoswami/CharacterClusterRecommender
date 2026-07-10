@@ -1,7 +1,26 @@
 {
   "name": "Oji Karasuma",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "TrademarkFavouriteFood",
+    "AccidentalMisnaming",
+    "CosplayOtakuGirl",
+    "FingerSuckHealing",
+    "NiceGuy",
+    "CrouchingMoronHiddenBadass",
+    "TheDreaded",
+    "NotSoStoic",
+    "ObliviousToLove",
+    "TheQuietOne",
+    "LimitedWardrobe",
+    "CreepyMonotone",
+    "LaserGuidedAmnesia",
+    "ObfuscatingStupidity",
+    "SchoolUniformsAreTheNewBlack",
+    "AlternateCharacterReading",
+    "TheStoic",
+    "HeyYou"
+  ],
   "tropes_by_category": {}
 }

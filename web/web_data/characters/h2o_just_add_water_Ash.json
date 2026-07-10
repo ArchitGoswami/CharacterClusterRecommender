@@ -1,7 +1,12 @@
 {
   "name": "Ash",
   "show": "H2O: Just Add Water",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "ChuckCunninghamSyndrome",
+    "LoveInterest",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

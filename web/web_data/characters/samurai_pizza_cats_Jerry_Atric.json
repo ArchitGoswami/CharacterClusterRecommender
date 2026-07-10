@@ -1,7 +1,26 @@
 {
   "name": "Jerry Atric",
   "show": "Samurai Pizza Cats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "LaughablyEvil",
+    "ItMakesSenseInContext",
+    "NotSoAboveItAll",
+    "ServileSnarker",
+    "PunnyName",
+    "CampGay",
+    "HoYay",
+    "HeterosexualLifePartners",
+    "TheEvilGenius",
+    "EvilOldFolks",
+    "AmbiguouslyGay",
+    "TheStarscream",
+    "EvenEvilHasStandards",
+    "OnlySaneMan",
+    "PlayedForLaughs",
+    "HyperCompetentSidekick",
+    "IOweYouMyLife",
+    "BrainsAndBrawn"
+  ],
   "tropes_by_category": {}
 }

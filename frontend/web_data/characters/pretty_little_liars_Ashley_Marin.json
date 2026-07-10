@@ -1,7 +1,19 @@
 {
   "name": "Ashley Marin",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AmicablyDivorced",
+    "FairCop",
+    "MayDecemberRomance",
+    "PutOnABus",
+    "MamaBear",
+    "AdaptationalNiceGuy",
+    "AdaptationExpansion",
+    "OutOfFocus",
+    "HotForPreacher",
+    "OpenMindedParent",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

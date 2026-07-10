@@ -1,7 +1,9 @@
 {
   "name": "Evan Hawkins",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "CharacterDeath"
+  ],
   "tropes_by_category": {}
 }

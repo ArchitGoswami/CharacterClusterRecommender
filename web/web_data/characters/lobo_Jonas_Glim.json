@@ -1,7 +1,10 @@
 {
   "name": "Jonas Glim",
   "show": "Lobo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HumanoidAliens",
+    "HeterosexualLifePartners"
+  ],
   "tropes_by_category": {}
 }

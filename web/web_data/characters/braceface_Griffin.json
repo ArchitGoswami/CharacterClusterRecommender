@@ -1,7 +1,21 @@
 {
   "name": "Griffin",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "LikeBrotherAndSister",
+    "NiceGuy",
+    "TroubledButCute",
+    "InferioritySuperiorityComplex",
+    "IHaveNoSon",
+    "PairTheSpares",
+    "WhatDoesSheSeeInHim",
+    "TookALevelInKindness",
+    "Delinquent",
+    "FirstNameBasis",
+    "CallingParentsByTheirName"
+  ],
   "tropes_by_category": {}
 }

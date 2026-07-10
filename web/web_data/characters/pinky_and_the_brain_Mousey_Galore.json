@@ -1,7 +1,14 @@
 {
   "name": "Mousey Galore",
   "show": "Pinky and the Brain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HumanoidFemaleAnimal",
+    "FemmeFatale",
+    "FurryFemaleMane",
+    "CaptainErsatz",
+    "PoliticallyIncorrectVillain",
+    "SexyBacklessOutfit"
+  ],
   "tropes_by_category": {}
 }

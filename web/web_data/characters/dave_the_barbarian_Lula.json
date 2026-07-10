@@ -1,7 +1,25 @@
 {
   "name": "Lula",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CheatedAngle",
+    "DeadpanSnarker",
+    "ExcaliburInTheRust",
+    "JerkWithAHeartOfGold",
+    "OnlySaneWoman",
+    "TalkingWeapon",
+    "HelpImStuck",
+    "ServileSnarker",
+    "AnimateInanimateObject",
+    "BadassFamily",
+    "SnarkyInanimateObject",
+    "TertiarySexualCharacteristics",
+    "ShockAndAwe",
+    "AlwaysSomeoneBetter",
+    "HairTriggerTemper",
+    "NoIndoorVoice",
+    "OnlyTheChosenMayWield"
+  ],
   "tropes_by_category": {}
 }

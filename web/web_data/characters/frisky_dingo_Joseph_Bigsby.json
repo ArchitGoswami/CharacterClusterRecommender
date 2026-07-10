@@ -1,7 +1,9 @@
 {
   "name": "Joseph Bigsby",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "PermissionToSpeakFreely"
+  ],
   "tropes_by_category": {}
 }

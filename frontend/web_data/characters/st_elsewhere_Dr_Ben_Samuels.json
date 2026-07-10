@@ -1,7 +1,11 @@
 {
   "name": "Dr. Ben Samuels",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "OutlivingOnesOffspring",
+    "ChuckCunninghamSyndrome",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

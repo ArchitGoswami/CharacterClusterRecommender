@@ -1,7 +1,17 @@
 {
   "name": "Trevor Ochmonek",
   "show": "ALF",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BigApplesauce",
+    "StrangeMindsThinkAlike",
+    "JerkWithAHeartOfGold",
+    "BickeringCouplePeacefulCouple",
+    "BigRottenApple",
+    "JerkJock",
+    "DropInCharacter",
+    "DadTheVeteran",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Zarnot",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "EvilIsHammy",
+    "LivingToys",
+    "HumongousMecha",
+    "CrazyJealousGuy",
+    "DarkIsEvil",
+    "CardCarryingVillain",
+    "BroughtToYouByTheLetterS",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

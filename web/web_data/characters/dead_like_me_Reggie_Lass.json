@@ -1,7 +1,13 @@
 {
   "name": "Reggie Lass",
   "show": "Dead Like Me",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MySiblingWillLiveThroughMe",
+    "DeadpanSnarker",
+    "CoolBigSis",
+    "ShrineToTheFallen",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

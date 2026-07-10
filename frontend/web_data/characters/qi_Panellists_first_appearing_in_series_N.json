@@ -1,7 +1,11 @@
 {
   "name": "Panellists first appearing in series N",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "QuestionableCasting",
+    "HiddenDepths",
+    "AtomicFBomb"
+  ],
   "tropes_by_category": {}
 }

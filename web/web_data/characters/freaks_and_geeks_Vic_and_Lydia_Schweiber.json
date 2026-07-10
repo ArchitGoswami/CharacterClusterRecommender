@@ -1,7 +1,19 @@
 {
   "name": "Vic and Lydia Schweiber",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BrokenPedestal",
+    "CoolOldGuy",
+    "SympatheticAdulterer",
+    "HandsomeLech",
+    "GoodParents",
+    "ReasonableAuthorityFigure",
+    "HappyMarriageCharade",
+    "NotThatKindOfDoctor",
+    "ParentsAsPeople",
+    "ExtremeDoormat",
+    "CoolCar"
+  ],
   "tropes_by_category": {}
 }

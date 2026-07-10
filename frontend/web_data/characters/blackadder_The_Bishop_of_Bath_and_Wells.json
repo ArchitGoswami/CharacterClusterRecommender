@@ -1,7 +1,30 @@
 {
   "name": "The Bishop of Bath and Wells",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "BerserkButton",
+    "ChildEater",
+    "EatsBabies",
+    "VillainWithGoodPublicity",
+    "IncomingHam",
+    "TheDreaded",
+    "CardCarryingVillain",
+    "PsychoForHire",
+    "EveryoneCallsHimBarkeep",
+    "SinisterMinister",
+    "DirtyOldMonk",
+    "AssShove",
+    "FatBastard",
+    "LargeHam",
+    "LoanShark",
+    "CastingGag",
+    "TooDumbToLive",
+    "BigBad",
+    "ExtremeOmnisexual",
+    "NeverHeardThatOneBefore",
+    "PlayedForLaughs",
+    "ArsonMurderAndAdmiration"
+  ],
   "tropes_by_category": {}
 }

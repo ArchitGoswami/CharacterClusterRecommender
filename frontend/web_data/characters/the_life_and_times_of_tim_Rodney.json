@@ -1,7 +1,10 @@
 {
   "name": "Rodney",
   "show": "The Life and Times of Tim",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheFriendNobodyLikes",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

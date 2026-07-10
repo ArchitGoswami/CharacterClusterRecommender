@@ -1,7 +1,16 @@
 {
   "name": "Lyde",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DarkSecret",
+    "DespairEventHorizon",
+    "TakingTheVeil",
+    "LawOfInverseFertility",
+    "SympathyForTheDevil",
+    "MadeASlave",
+    "InVinoVeritas",
+    "TheGloriousWarOfSisterlyRivalry"
+  ],
   "tropes_by_category": {}
 }

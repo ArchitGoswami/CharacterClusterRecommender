@@ -1,7 +1,13 @@
 {
   "name": "Malvaron",
   "show": "Mysticons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheGift",
+    "SheIsNotMyGirlfriend",
+    "AlwaysSomeoneBetter",
+    "BigBrotherBully",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

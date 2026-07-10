@@ -1,7 +1,20 @@
 {
   "name": "Sonia Belmont",
   "show": "Castlevania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "IntimateFriendship",
+    "TheBusCameBack",
+    "ActionGirl",
+    "BabiesEverAfter",
+    "CanonDiscontinuity",
+    "SugarAndIcePersonality",
+    "TheSmurfettePrinciple",
+    "Stripperiffic",
+    "BraidsOfAction",
+    "MagicKnight",
+    "SuperMode",
+    "LeotardOfPower"
+  ],
   "tropes_by_category": {}
 }

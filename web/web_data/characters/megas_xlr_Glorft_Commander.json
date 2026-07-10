@@ -1,7 +1,17 @@
 {
   "name": "Glorft Commander",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "MyMasterRightOrWrong",
+    "HyperCompetentSidekick",
+    "EveryoneCallsHimBarkeep",
+    "CaptainObvious",
+    "TheStrategist",
+    "TheDragon",
+    "TheDissenterIsAlwaysRight",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "The Best Boys Club",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ADayInTheLimelight",
+    "EvenTheLovingHeroHasHatedOnes",
+    "NiceGuy",
+    "TookALevelInJerkass",
+    "JerkassBall",
+    "HiddenDepths",
+    "ButtMonkey",
+    "NamesToTrustImmediately"
+  ],
   "tropes_by_category": {}
 }

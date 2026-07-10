@@ -1,7 +1,24 @@
 {
   "name": "William \"Bill\" Bluff III",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "HeelFaceTurn",
+    "TheMovie",
+    "GRatedDrug",
+    "BigBad",
+    "KnightTemplarParent",
+    "UpperClassTwit",
+    "OneJudgeToRuleThemAll",
+    "WellIntentionedExtremist",
+    "AlliterativeName",
+    "SouthernGentleman",
+    "LanternJawOfJustice",
+    "PapaWolf",
+    "RichesToRags",
+    "CorruptCorporateExecutive",
+    "KnightTemplar",
+    "RichInDollarsPoorInSense"
+  ],
   "tropes_by_category": {}
 }

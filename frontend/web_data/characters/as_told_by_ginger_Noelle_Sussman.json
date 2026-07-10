@@ -1,7 +1,24 @@
 {
   "name": "Noelle Sussman",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "SitcomArchNemesis",
+    "FieryRedhead",
+    "OnlySaneWoman",
+    "LikeParentLikeSpouse",
+    "HeldBackInSchool",
+    "FreakyIsCool",
+    "NerdGlasses",
+    "LittleMissBadass",
+    "AmbiguouslyJewish",
+    "BetterAsFriends",
+    "AllOfTheOtherReindeer",
+    "PsychicPowers",
+    "BettyAndVeronica",
+    "BlindWithoutThem",
+    "Cloudcuckoolander",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

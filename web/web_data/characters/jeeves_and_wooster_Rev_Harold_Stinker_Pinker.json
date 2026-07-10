@@ -1,7 +1,17 @@
 {
   "name": "Rev. Harold \"Stinker\" Pinker",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GentleGiant",
+    "TheKlutz",
+    "NiceGuy",
+    "GracefulInTheirElement",
+    "BadassPreacher",
+    "BewareTheNiceOnes",
+    "TheVicar",
+    "HenpeckedHusband",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

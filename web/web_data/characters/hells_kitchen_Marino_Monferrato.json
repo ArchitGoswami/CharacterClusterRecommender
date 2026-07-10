@@ -1,7 +1,17 @@
 {
   "name": "Marino Monferrato",
   "show": "Hell's Kitchen",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "Catchphrase",
+    "EpicFail",
+    "GratuitousItalian",
+    "ButtMonkey",
+    "FunnyForeigner",
+    "GoshDangItToHeck",
+    "HiddenDepths",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Old Man Ribbit",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AffablyEvil",
+    "Expy",
+    "CheatersNeverProsper",
+    "AdaptationalVillainy",
+    "PoirotSpeak",
+    "RaginCajun"
+  ],
   "tropes_by_category": {}
 }

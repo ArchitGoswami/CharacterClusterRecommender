@@ -1,7 +1,13 @@
 {
   "name": "Mike Rogers",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBigGuy",
+    "Jerkass",
+    "ReasonableAuthorityFigure",
+    "EmbarrassingTattoo",
+    "GloryDays"
+  ],
   "tropes_by_category": {}
 }

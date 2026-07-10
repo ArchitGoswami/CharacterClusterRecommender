@@ -1,7 +1,21 @@
 {
   "name": "Clockwork Mouse",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ThoseTwoGuys",
+    "LovableRogue",
+    "ADayInTheLimelight",
+    "TheNapoleon",
+    "ShrinkingViolet",
+    "ShapedLikeItself",
+    "AdaptationPersonalityChange",
+    "BlackBeadEyes",
+    "GenderFlip",
+    "VocalDissonance",
+    "YouDontLookLikeYou",
+    "HeightAngst",
+    "AttackOfTheFiftyFootWhatever"
+  ],
   "tropes_by_category": {}
 }

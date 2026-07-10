@@ -1,7 +1,19 @@
 {
   "name": "Iron Klaw",
   "show": "G.I. Joe Extreme",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "EvilBrit",
+    "BastardUnderstudy",
+    "BigBad",
+    "GrandFinale",
+    "MeanBoss",
+    "TinTyrant",
+    "BadBoss",
+    "KarmaHoudiniWarranty",
+    "LargeHam",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Oleg Stark",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "RageAgainstTheLegalSystem",
+    "NearVillainVictory",
+    "WouldHitAGirl",
+    "RevengeBeforeReason",
+    "PsychoForHire",
+    "FacialHorror",
+    "NoSell",
+    "VillainOfTheWeek",
+    "TheSpook",
+    "WouldHurtAChild",
+    "NoHoldsBarredBeatdown",
+    "SignificantAnagram"
+  ],
   "tropes_by_category": {}
 }

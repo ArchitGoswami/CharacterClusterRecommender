@@ -1,7 +1,17 @@
 {
   "name": "Lou Fleming",
   "show": "Heartland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BrainyBrunette",
+    "GoodParents",
+    "CityMouse",
+    "DaddysGirl",
+    "GirlyGirl",
+    "SoapboxSadie",
+    "GlamorousSingleMother",
+    "TheSmartGuy",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

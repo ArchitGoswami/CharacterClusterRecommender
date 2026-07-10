@@ -1,7 +1,21 @@
 {
   "name": "Amanda Carrington",
   "show": "Dynasty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "EvilBrit",
+    "ChuckCunninghamSyndrome",
+    "BloodSplatteredWeddingDress",
+    "EnglishRose",
+    "GeneHunting",
+    "LukeYouAreMyFather",
+    "PutOnABus",
+    "DaddysGirl",
+    "HappilyAdopted",
+    "NobilityMarriesMoney",
+    "CatFight",
+    "NiceGirl",
+    "NotEvenBotheringWithTheAccent"
+  ],
   "tropes_by_category": {}
 }

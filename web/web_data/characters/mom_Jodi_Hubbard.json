@@ -1,7 +1,13 @@
 {
   "name": "Jodi Hubbard",
   "show": "Mom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CharacterDeath",
+    "DroppedABridgeOnHim",
+    "TheStoner",
+    "WhateverHappenedToTheMouse",
+    "SacrificialLion"
+  ],
   "tropes_by_category": {}
 }

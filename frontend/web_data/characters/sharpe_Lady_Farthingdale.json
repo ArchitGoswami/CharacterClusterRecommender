@@ -1,7 +1,20 @@
 {
   "name": "Lady Farthingdale",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ChivalrousPervert",
+    "DefiantCaptive",
+    "AttemptedRape",
+    "ArchEnemy",
+    "MayDecemberRomance",
+    "PimpedOutCape",
+    "HighClassCallGirl",
+    "DecompositeCharacter",
+    "ShamefulStrip",
+    "GoldDigger",
+    "ManBitesMan",
+    "DamselInDistress"
+  ],
   "tropes_by_category": {}
 }

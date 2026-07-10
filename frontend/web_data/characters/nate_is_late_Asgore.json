@@ -1,7 +1,13 @@
 {
   "name": "Asgore",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ShoutOut",
+    "EveryoneHatesMath",
+    "KidFromTheFuture",
+    "TheEndOrIsIt",
+    "SetRightWhatOnceWentWrong"
+  ],
   "tropes_by_category": {}
 }

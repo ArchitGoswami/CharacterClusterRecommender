@@ -1,7 +1,22 @@
 {
   "name": "Seymouria",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "NoisyNature",
+    "DeathByMaterialism",
+    "AllThereInTheManual",
+    "StockSoundEffect",
+    "SuspiciouslySimilarSubstitute",
+    "ScienceMarchesOn",
+    "ShootTheShaggyDog",
+    "MamaBear",
+    "BullyingADragon",
+    "KarmicDeath",
+    "SuperPersistentPredator",
+    "DoubleStandard",
+    "OnlyKnownByTheirNickname",
+    "EvilEggEater"
+  ],
   "tropes_by_category": {}
 }

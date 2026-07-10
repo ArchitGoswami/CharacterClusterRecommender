@@ -1,7 +1,13 @@
 {
   "name": "Annie Martoz",
   "show": "Sabrina, the Teenage Witch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DeadpanSnarker",
+    "Jerkass",
+    "NoSenseOfHumor",
+    "PerpetualFrowner",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Jeff Clarke",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheBusCameBack",
+    "CareerEndingInjury",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

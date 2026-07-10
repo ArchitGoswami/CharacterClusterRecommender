@@ -1,7 +1,10 @@
 {
   "name": "Lilirara",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HopeSpot",
+    "LastOfHerKind"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Wildcat",
   "show": "TaleSpin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "NiceGuy",
+    "CatsAreMean",
+    "CartoonCreature",
+    "BodyDouble",
+    "Averted",
+    "MachineEmpathy",
+    "TenorBoy",
+    "KindheartedSimpleton",
+    "ManChild",
+    "RoughOveralls",
+    "Cloudcuckoolander",
+    "SecondEpisodeIntroduction",
+    "OneOfTheKids",
+    "BunnyEarsLawyer",
+    "CaptainCrash",
+    "FriendToAllLivingThings",
+    "InformedAttribute",
+    "PercussiveMaintenance",
+    "Expy",
+    "GeniusDitz",
+    "MrFixIt",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

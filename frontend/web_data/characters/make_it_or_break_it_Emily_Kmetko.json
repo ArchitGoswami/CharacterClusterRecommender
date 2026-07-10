@@ -1,7 +1,20 @@
 {
   "name": "Emily Kmetko",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "GoodGirlsAvoidAbortion",
+    "DisappearedDad",
+    "TeenPregnancy",
+    "PutMeInCoach",
+    "PutOnABus",
+    "CoolBigSis",
+    "NewTransferStudent",
+    "LoveTriangle",
+    "RealLifeWritesThePlot",
+    "ButICantBePregnant",
+    "GoingHomeAgain",
+    "InformedAttractiveness"
+  ],
   "tropes_by_category": {}
 }

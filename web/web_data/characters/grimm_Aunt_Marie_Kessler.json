@@ -1,7 +1,24 @@
 {
   "name": "Aunt Marie (Kessler)",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "BaldnessMeansSickness",
+    "MaidenAunt",
+    "WeHardlyKnewYe",
+    "DyingMomentOfAwesome",
+    "CoveredWithScars",
+    "ItsNotYouItsMyEnemies",
+    "BadassBookworm",
+    "InterspeciesRomance",
+    "MentorOccupationalHazard",
+    "BirdPeople",
+    "NeverMessWithGranny",
+    "SecretKeeper",
+    "HiddenDepths",
+    "CrazyPrepared",
+    "BackForTheFinale",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

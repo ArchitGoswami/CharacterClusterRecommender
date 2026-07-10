@@ -1,7 +1,21 @@
 {
   "name": "Lisa Casper",
   "show": "Resident Alien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeathGlare",
+    "CharacterDeath",
+    "TheStoic",
+    "DragonInChief",
+    "NoSell",
+    "OhCrap",
+    "MurderIsTheBestSolution",
+    "WouldHurtAChild",
+    "SuperStrength",
+    "StrongGirlSmartGuy",
+    "TheHeavy",
+    "TheSociopath",
+    "TheMenInBlack"
+  ],
   "tropes_by_category": {}
 }

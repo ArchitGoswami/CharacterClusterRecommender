@@ -1,7 +1,16 @@
 {
   "name": "Mr. Casper",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "SurroundedByIdiots",
+    "SadistTeacher",
+    "BreakTheHaughty",
+    "Jerkass",
+    "ApatheticTeacher",
+    "AmbiguouslyGay",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

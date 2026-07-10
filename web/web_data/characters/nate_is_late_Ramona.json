@@ -1,7 +1,19 @@
 {
   "name": "Ramona",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MyBelovedSmother",
+    "WickedWitch",
+    "Foil",
+    "BigBad",
+    "LaserGuidedKarma",
+    "NoNameGiven",
+    "MamaBear",
+    "WellIntentionedExtremist",
+    "CrazyPrepared",
+    "HoistByHisOwnPetard",
+    "BlindWithoutThem"
+  ],
   "tropes_by_category": {}
 }

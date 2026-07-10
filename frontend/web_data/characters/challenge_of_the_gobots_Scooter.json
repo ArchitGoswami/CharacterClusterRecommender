@@ -1,7 +1,16 @@
 {
   "name": "Scooter",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "RequiredSecondaryPower",
+    "HolographicDisguise",
+    "CowardlyLion",
+    "RedIsHeroic",
+    "VoiceChangeling",
+    "FlowersForAlgernonSyndrome",
+    "HeterosexualLifePartners",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

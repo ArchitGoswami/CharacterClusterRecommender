@@ -1,7 +1,20 @@
 {
   "name": "Pilchard",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "PredatorPreyFriendship",
+    "AmazingTechnicolorWildlife",
+    "ActionPet",
+    "AmplifiedAnimalAptitude",
+    "SpoiledBrat",
+    "PawprintStamping",
+    "PetContestEpisode",
+    "CatsAreMean",
+    "AMouseNamedMozzarella",
+    "UnderestimatingIntelligence",
+    "ImageSong",
+    "TeamPet"
+  ],
   "tropes_by_category": {}
 }

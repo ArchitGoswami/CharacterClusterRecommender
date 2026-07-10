@@ -1,7 +1,14 @@
 {
   "name": "Nurse Helen Rosenthal",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DrugsAreBad",
+    "TeamMom",
+    "BitchSlap",
+    "BerserkButton",
+    "SerialSpouse",
+    "BigScrewedUpFamily"
+  ],
   "tropes_by_category": {}
 }

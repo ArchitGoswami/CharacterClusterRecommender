@@ -1,7 +1,9 @@
 {
   "name": "Racka and Presley",
   "show": "Blazing Dragons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "NoodleIncident"
+  ],
   "tropes_by_category": {}
 }

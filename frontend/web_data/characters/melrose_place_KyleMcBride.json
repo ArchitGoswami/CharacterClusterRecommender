@@ -1,7 +1,14 @@
 {
   "name": "KyleMcBride",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LocalHangout",
+    "HeroicBSOD",
+    "MrFanservice",
+    "EarnYourHappyEnding",
+    "CainAndAbel",
+    "SemperFi"
+  ],
   "tropes_by_category": {}
 }

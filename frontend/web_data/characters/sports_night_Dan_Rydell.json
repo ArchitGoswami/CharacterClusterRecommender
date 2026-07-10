@@ -1,7 +1,11 @@
 {
   "name": "Dan Rydell",
   "show": "Sports Night",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HeelRealization",
+    "TheUnfavourite",
+    "IvyLeagueForEveryone"
+  ],
   "tropes_by_category": {}
 }

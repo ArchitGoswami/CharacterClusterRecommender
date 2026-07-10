@@ -1,7 +1,19 @@
 {
   "name": "Shay Mosley",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ManOnFire",
+    "HeroOfAnotherStory",
+    "ReasonableAuthorityFigure",
+    "PutOnABus",
+    "TookALevelInJerkass",
+    "MamaBear",
+    "UnwittingInstigatorOfDoom",
+    "BigDamnHeroes",
+    "ItsAllAboutMe",
+    "DidntThinkThisThrough",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

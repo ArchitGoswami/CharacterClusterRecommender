@@ -1,7 +1,12 @@
 {
   "name": "Erika",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OldFriend",
+    "TheGadfly",
+    "GossipyHens",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

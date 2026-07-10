@@ -1,7 +1,20 @@
 {
   "name": "Aquamaria",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "IJustWantToBeNormal",
+    "ArtEvolution",
+    "TookALevelInBadass",
+    "TheWorfEffect",
+    "AdaptationalVillainy",
+    "ManOfKryptonite",
+    "WaterIsWomanly",
+    "MakingASplash",
+    "UnholyMatrimony",
+    "BroughtDownToNormal",
+    "WalkingSwimsuitScene",
+    "OohMeAccentsSlipping"
+  ],
   "tropes_by_category": {}
 }

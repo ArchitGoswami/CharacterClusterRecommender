@@ -1,7 +1,22 @@
 {
   "name": "David Logan",
   "show": "Resident Alien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CloudcuckoolandersMinder",
+    "BlackAndNerdy",
+    "YoureInsane",
+    "Foil",
+    "KillAllHumans",
+    "MandatoryUnretirement",
+    "MinionWithAnFInEvil",
+    "NaiveNewcomer",
+    "AgentMulder",
+    "StrongGirlSmartGuy",
+    "TheSmartGuy",
+    "BackForTheFinale",
+    "TheMenInBlack",
+    "OnlyMostlyDead"
+  ],
   "tropes_by_category": {}
 }

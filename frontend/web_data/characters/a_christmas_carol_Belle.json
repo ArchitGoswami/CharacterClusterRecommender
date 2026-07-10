@@ -1,7 +1,25 @@
 {
   "name": "Belle",
   "show": "A Christmas Carol",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BeautyEqualsGoodness",
+    "LoveInterest",
+    "CanonForeigner",
+    "HeelRealization",
+    "NiceGuy",
+    "HappyEnding",
+    "HappilyMarried",
+    "LoveCannotOvercome",
+    "CompositeCharacter",
+    "BadFuture",
+    "RelatedInTheAdaptation",
+    "FlatCharacter",
+    "WhateverHappenedToTheMouse",
+    "NiceGirl",
+    "TheOneThatGotAway",
+    "AscendedExtra",
+    "TheyJustDontGetIt"
+  ],
   "tropes_by_category": {}
 }

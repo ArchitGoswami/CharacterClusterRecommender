@@ -1,7 +1,21 @@
 {
   "name": "The Punk Frogs",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "PsychoRangers",
+    "OddNameOut",
+    "TheLeader",
+    "TheBigGuy",
+    "TheFool",
+    "CanonForeigner",
+    "ThemeNaming",
+    "NonIndicativeName",
+    "AdaptedOut",
+    "Metamorphosis",
+    "TheSmartGuy",
+    "SimilarSquad"
+  ],
   "tropes_by_category": {}
 }

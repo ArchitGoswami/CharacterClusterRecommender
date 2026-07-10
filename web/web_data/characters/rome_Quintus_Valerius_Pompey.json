@@ -1,7 +1,22 @@
 {
   "name": "Quintus Valerius Pompey",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TokenEvilTeammate",
+    "DeadlyHug",
+    "DrowningMySorrows",
+    "WhatTheHellHero",
+    "RefugeInAudacity",
+    "NoGoodDeedGoesUnpunished",
+    "SeekingSanctuary",
+    "RockBottom",
+    "CompositeCharacter",
+    "TortureTechnician",
+    "InSeriesNickname",
+    "TheDragon",
+    "OverzealousUnderling",
+    "HeroicSecondWind"
+  ],
   "tropes_by_category": {}
 }

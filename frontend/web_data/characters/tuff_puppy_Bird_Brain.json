@@ -1,7 +1,25 @@
 {
   "name": "Bird Brain",
   "show": "T.U.F.F. Puppy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "IronicName",
+    "RailEnthusiast",
+    "HighClassGlass",
+    "AnimalGenderBender",
+    "ArtisticLicenseLaw",
+    "SurroundedByIdiots",
+    "RememberTheNewGuy",
+    "FurryBaldness",
+    "MadScientist",
+    "LastOfHisKind",
+    "Duck",
+    "HairTodayGoneTomorrow",
+    "MyBrainIsBig",
+    "OnlySaneMan",
+    "YoungerThanTheyLook",
+    "BaldOfEvil",
+    "EvilCounterpart"
+  ],
   "tropes_by_category": {}
 }

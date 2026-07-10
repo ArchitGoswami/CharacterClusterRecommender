@@ -1,7 +1,9 @@
 {
   "name": "Avery Brown",
   "show": "Murphy Brown",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "GenerationXerox"
+  ],
   "tropes_by_category": {}
 }

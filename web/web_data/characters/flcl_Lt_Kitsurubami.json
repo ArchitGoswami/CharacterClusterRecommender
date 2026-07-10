@@ -1,7 +1,22 @@
 {
   "name": "Lt. Kitsurubami",
   "show": "FLCL",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ClothingDamage",
+    "BFG",
+    "CovertPervert",
+    "NotSoAboveItAll",
+    "BiggerIsBetterInBed",
+    "Robosexual",
+    "NumberTwo",
+    "IAteWhat",
+    "YouthfulFreckles",
+    "MeaningfulName",
+    "FriendlySniper",
+    "DemotedToExtra",
+    "AbhorrentAdmirer",
+    "Nosebleed"
+  ],
   "tropes_by_category": {}
 }

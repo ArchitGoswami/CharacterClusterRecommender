@@ -1,7 +1,10 @@
 {
   "name": "Monster Under the Bed",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DeadpanSnarker",
+    "Fanboy"
+  ],
   "tropes_by_category": {}
 }

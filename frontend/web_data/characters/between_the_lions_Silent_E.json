@@ -1,7 +1,17 @@
 {
   "name": "Silent E",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CardboardPrison",
+    "TheVillainSucksSong",
+    "ClothesMakeTheSuperman",
+    "VillainProtagonist",
+    "TheVoiceless",
+    "AnthropomorphicTypography",
+    "ConspicuousTrenchcoat",
+    "RealityWarper",
+    "KarmaHoudiniWarranty"
+  ],
   "tropes_by_category": {}
 }

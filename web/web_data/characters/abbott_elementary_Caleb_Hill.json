@@ -1,7 +1,19 @@
 {
   "name": "Caleb Hill",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SiblingYinYang",
+    "RacistGrandma",
+    "AwLookTheyReallyDoLoveEachOther",
+    "BigBrotherInstinct",
+    "NiceGuy",
+    "AnnoyingYoungerSibling",
+    "BrainlessBeauty",
+    "AllAmericanBoy",
+    "DumbJock",
+    "BigBrotherWorship",
+    "TheBore"
+  ],
   "tropes_by_category": {}
 }

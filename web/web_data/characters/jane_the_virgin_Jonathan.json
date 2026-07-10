@@ -1,7 +1,15 @@
 {
   "name": "Jonathan",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HotTeacher",
+    "TheBusCameBack",
+    "PetTheDog",
+    "SternTeacher",
+    "ThirdOptionLoveInterest",
+    "UnequalPairing",
+    "TeacherStudentRomance"
+  ],
   "tropes_by_category": {}
 }

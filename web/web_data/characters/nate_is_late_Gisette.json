@@ -1,7 +1,11 @@
 {
   "name": "Gisette",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "Foil",
+    "TokenGoodTeammate",
+    "CreatingLife"
+  ],
   "tropes_by_category": {}
 }

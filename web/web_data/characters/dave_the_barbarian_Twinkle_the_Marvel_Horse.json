@@ -1,7 +1,19 @@
 {
   "name": "Twinkle the Marvel Horse",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "CoolHorse",
+    "RunningGag",
+    "CreepyGood",
+    "DudeLooksLikeALady",
+    "Flight",
+    "VocalDissonance",
+    "GoMadFromTheIsolation",
+    "NightmareFetishist",
+    "TheEeyore",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

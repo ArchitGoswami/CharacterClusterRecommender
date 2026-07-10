@@ -1,7 +1,13 @@
 {
   "name": "Gerald Jackson",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BlackDudeDiesFirst",
+    "MentorOccupationalHazard",
+    "PutOnABus",
+    "FlatCharacter",
+    "CareerEndingInjury"
+  ],
   "tropes_by_category": {}
 }

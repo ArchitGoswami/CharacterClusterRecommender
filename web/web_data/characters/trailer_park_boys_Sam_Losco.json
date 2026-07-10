@@ -1,7 +1,29 @@
 {
   "name": "Sam Losco",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "CurbstompBattle",
+    "BerserkButton",
+    "TheDragon",
+    "VillainWithGoodPublicity",
+    "AffablyEvil",
+    "EvenBadMenLoveTheirMamas",
+    "WickedWastefulness",
+    "KickTheDog",
+    "BackAlleyDoctor",
+    "BetterTheDevilYouKnow",
+    "HiddenDepths",
+    "AmusingInjuries",
+    "ContemporaryCaveman",
+    "TheMedic",
+    "NobodyPoops",
+    "NewJobAsThePlotDemands",
+    "TookALevelInKindness",
+    "EnemyMine",
+    "ThePigPen",
+    "EvilCounterpart",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

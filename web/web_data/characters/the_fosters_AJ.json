@@ -1,7 +1,28 @@
 {
   "name": "AJ",
   "show": "The Fosters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "YouMonster",
+    "SleazyPolitician",
+    "NotSoSimilar",
+    "YouAreACreditToYourRace",
+    "BigBrotherInstinct",
+    "ArtistsAreAttractive",
+    "WhatTheHellHero",
+    "WhatHappenedToTheMouse",
+    "UndyingLoyalty",
+    "Profiling",
+    "ArcSymbol",
+    "FrameUp",
+    "SecondLove",
+    "AFriendInNeed",
+    "PoliticallyIncorrectVillain",
+    "SavingTheWorldWithArt",
+    "DirtyCoward",
+    "BirdsOfAFeather",
+    "ParentalAbandonment",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

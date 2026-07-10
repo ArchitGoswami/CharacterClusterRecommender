@@ -1,7 +1,21 @@
 {
   "name": "The Huge Crew",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "OddFriendship",
+    "ChuckCunninghamSyndrome",
+    "DistaffCounterpart",
+    "StalkerWithACrush",
+    "TheQuietOne",
+    "TerribleTrio",
+    "AlwaysABiggerFish",
+    "GangOfBullies",
+    "FlatCharacter",
+    "UnwantedHarem",
+    "OutOfCharacterMoment",
+    "RoughOveralls",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

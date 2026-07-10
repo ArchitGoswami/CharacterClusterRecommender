@@ -1,7 +1,16 @@
 {
   "name": "Alien Commander",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Foreshadowing",
+    "DrillSergeantNasty",
+    "TheSmurfettePrinciple",
+    "ActionMom",
+    "SatelliteCharacter",
+    "LongLostRelative",
+    "NoNameGiven",
+    "DoomMagnet"
+  ],
   "tropes_by_category": {}
 }

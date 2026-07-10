@@ -1,7 +1,14 @@
 {
   "name": "Ike Prentiss",
   "show": "Nurse Jackie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "PetTheDog",
+    "PutOnABus",
+    "DrJerk",
+    "Tsundere",
+    "DarkAndTroubledPast",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

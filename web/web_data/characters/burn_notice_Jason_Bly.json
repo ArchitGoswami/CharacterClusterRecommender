@@ -1,7 +1,24 @@
 {
   "name": "Jason Bly",
   "show": "Burn Notice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "TheBusCameBack",
+    "Foreshadowing",
+    "HeroAntagonist",
+    "JerkWithAHeartOfGold",
+    "TheReveal",
+    "SmugSnake",
+    "KarmaHoudini",
+    "ArtisticLicenseLawEnforcement",
+    "PutOnABus",
+    "PunchClockVillain",
+    "ObstructiveBureaucrat",
+    "SacrificialLion",
+    "FireForgedFriends",
+    "OutGambitted",
+    "MacGyvering",
+    "CoolCar"
+  ],
   "tropes_by_category": {}
 }

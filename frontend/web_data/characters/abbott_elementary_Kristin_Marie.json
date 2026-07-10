@@ -1,7 +1,14 @@
 {
   "name": "Kristin Marie",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AwLookTheyReallyDoLoveEachOther",
+    "OnceDoneNeverForgotten",
+    "PetTheDog",
+    "EnemyMine",
+    "StrongFamilyResemblance",
+    "TheGloriousWarOfSisterlyRivalry"
+  ],
   "tropes_by_category": {}
 }

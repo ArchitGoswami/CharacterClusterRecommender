@@ -1,7 +1,13 @@
 {
   "name": "Uli",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ManipulativeBastard",
+    "EvilIsNotAToy",
+    "AncientEvil",
+    "HeelFaceRevolvingDoor",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

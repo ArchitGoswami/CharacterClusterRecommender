@@ -1,7 +1,12 @@
 {
   "name": "Reno",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ReusedCharacterDesign",
+    "CircusBrat",
+    "GadgeteerGenius",
+    "ShipTease"
+  ],
   "tropes_by_category": {}
 }

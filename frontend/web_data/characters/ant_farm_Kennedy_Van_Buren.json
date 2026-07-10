@@ -1,7 +1,10 @@
 {
   "name": "Kennedy Van Buren",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "StatusQuoIsGod",
+    "TheDragon"
+  ],
   "tropes_by_category": {}
 }

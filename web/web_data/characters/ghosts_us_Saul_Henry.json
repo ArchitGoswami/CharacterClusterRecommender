@@ -1,7 +1,13 @@
 {
   "name": "Saul Henry",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheRoaring20s",
+    "DiscardAndDraw",
+    "PersonalityPowers",
+    "BoundToAnArea",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

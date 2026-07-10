@@ -1,7 +1,21 @@
 {
   "name": "Moe Bumbercatch",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RealMenWearPink",
+    "AttentionDeficitOohShiny",
+    "EvenTheGuysWantHim",
+    "DramaticIrony",
+    "SuddenlyEthnicity",
+    "ParentalSexualitySquick",
+    "ConspiracyTheorist",
+    "HiddenDepths",
+    "CrazyPrepared",
+    "TruthInTelevision",
+    "PlayedForLaughs",
+    "LastNameBasis",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

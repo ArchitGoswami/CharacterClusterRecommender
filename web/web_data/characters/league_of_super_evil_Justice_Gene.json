@@ -1,7 +1,16 @@
 {
   "name": "Justice Gene",
   "show": "League of Super Evil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "SitcomArchNemesis",
+    "HeroicWannabe",
+    "SuperZeroes",
+    "TheDitz",
+    "SmallStepsHero",
+    "FaceHeelTurn",
+    "SeriousBusiness",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

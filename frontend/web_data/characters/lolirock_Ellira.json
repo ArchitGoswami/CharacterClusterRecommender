@@ -1,7 +1,12 @@
 {
   "name": "Ellira",
   "show": "Lolirock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MamaBear",
+    "MagicalGirlWarrior",
+    "SilkHidingSteel",
+    "GoThroughMe"
+  ],
   "tropes_by_category": {}
 }

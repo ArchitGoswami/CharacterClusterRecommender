@@ -1,7 +1,15 @@
 {
   "name": "Jenny Kelley",
   "show": "Sabrina, the Teenage Witch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AdaptationNameChange",
+    "AdvertisedExtra",
+    "ChuckCunninghamSyndrome",
+    "QuirkyCurls",
+    "RomanticFalseLead",
+    "GirlNextDoor",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

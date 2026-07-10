@@ -1,7 +1,16 @@
 {
   "name": "Ancylotherium",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GentleGiant",
+    "PaletteSwap",
+    "StockSoundEffect",
+    "LastOfItsKind",
+    "InformedSpecies",
+    "MonsterMunch",
+    "StrongFamilyResemblance",
+    "WolverineClaws"
+  ],
   "tropes_by_category": {}
 }

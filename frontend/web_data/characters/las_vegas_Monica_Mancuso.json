@@ -1,7 +1,26 @@
 {
   "name": "Monica Mancuso",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AndThereWasMuchRejoicing",
+    "NonIdleRich",
+    "SleepingWithTheBoss",
+    "RunningGag",
+    "PetTheDog",
+    "ACupAngst",
+    "DroppedABridgeOnHim",
+    "ItsAllAboutMe",
+    "ControlFreak",
+    "CowboyCop",
+    "WeCanRuleTogether",
+    "KarmicDeath",
+    "GoldDigger",
+    "AlliterativeName",
+    "PrisonRape",
+    "BadBoss",
+    "AnimalWrongsGroup",
+    "TheCaligula"
+  ],
   "tropes_by_category": {}
 }

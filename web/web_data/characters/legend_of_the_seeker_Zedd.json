@@ -1,7 +1,25 @@
 {
   "name": "Zedd",
   "show": "Legend of the Seeker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CoolOldGuy",
+    "TheCasanova",
+    "EstablishingCharacterMoment",
+    "TheSmartGuy",
+    "NiceGuy",
+    "WizardClassic",
+    "TheWorfEffect",
+    "KillItWithFire",
+    "LastOfHisKind",
+    "BigEater",
+    "Hellfire",
+    "FireKeepsItDead",
+    "NakedPeopleAreFunny",
+    "PlayingWithFire",
+    "TheArchmage",
+    "DudeWheresMyRespect",
+    "TheTrickster"
+  ],
   "tropes_by_category": {}
 }

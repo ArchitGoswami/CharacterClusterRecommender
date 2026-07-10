@@ -1,7 +1,11 @@
 {
   "name": "Man Boy",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PubescentBraces",
+    "SuperScream",
+    "EnfantTerrible"
+  ],
   "tropes_by_category": {}
 }

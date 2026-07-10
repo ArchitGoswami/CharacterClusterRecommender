@@ -1,7 +1,19 @@
 {
   "name": "The Worms",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MustHaveCaffeine",
+    "SkewedPriorities",
+    "ThePiratesWhoDontDoAnything",
+    "SidekickCreatureNuisance",
+    "TooDumbToLive",
+    "HalloweenEpisode",
+    "Manchild",
+    "AmusingAlien",
+    "ForbiddenFruit",
+    "HiddenDepths",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

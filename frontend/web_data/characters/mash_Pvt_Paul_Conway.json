@@ -1,7 +1,15 @@
 {
   "name": "Pvt. Paul Conway",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "MisplacedKindergartenTeacher",
+    "TheKlutz",
+    "NiceGuy",
+    "SupremeChef",
+    "OOCIsSeriousBusiness",
+    "WhatYouAreInTheDark"
+  ],
   "tropes_by_category": {}
 }

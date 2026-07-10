@@ -1,7 +1,13 @@
 {
   "name": "Fatima Namazi",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ActionGirl",
+    "EstablishingCharacterMoment",
+    "Expy",
+    "AllThereInTheManual",
+    "TokenMinority"
+  ],
   "tropes_by_category": {}
 }

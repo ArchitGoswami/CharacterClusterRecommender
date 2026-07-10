@@ -1,7 +1,12 @@
 {
   "name": "Garbage Goblins",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ILied",
+    "OurGoblinsAreDifferent",
+    "FamilyMan",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

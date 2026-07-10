@@ -1,7 +1,12 @@
 {
   "name": "Ed Sambora",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BarbarianLonghair",
+    "NeverBareheaded",
+    "CharacterDeath",
+    "KillItWithFire"
+  ],
   "tropes_by_category": {}
 }

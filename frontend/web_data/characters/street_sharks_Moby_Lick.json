@@ -1,7 +1,15 @@
 {
   "name": "Moby Lick",
   "show": "Street Sharks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DarkIsNotEvil",
+    "GuestStarPartyMember",
+    "OverlyLongTongue",
+    "MakingASplash",
+    "HeroicDolphin",
+    "SuperStrength",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

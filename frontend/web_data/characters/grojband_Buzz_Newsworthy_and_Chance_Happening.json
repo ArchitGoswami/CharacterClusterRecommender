@@ -1,7 +1,16 @@
 {
   "name": "Buzz Newsworthy and Chance Happening",
   "show": "Grojband",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TomboyishName",
+    "PunnyName",
+    "KentBrockmanNews",
+    "CoincidentalBroadcast",
+    "CouldThisHappenToYou",
+    "VitriolicBestBuds",
+    "WorstNewsJudgementEver",
+    "HotScoop"
+  ],
   "tropes_by_category": {}
 }

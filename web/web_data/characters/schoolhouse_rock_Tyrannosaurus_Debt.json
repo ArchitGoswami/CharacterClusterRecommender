@@ -1,7 +1,17 @@
 {
   "name": "Tyrannosaurus Debt",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmazingTechnicolorWildlife",
+    "UnusuallyUninterestingSight",
+    "CurrencyCuisine",
+    "VegetarianCarnivore",
+    "AnthropomorphicPersonification",
+    "BigEater",
+    "ExtremeOmnivore",
+    "ReallySevenHundredYearsOld",
+    "GoldToothOfWealth"
+  ],
   "tropes_by_category": {}
 }

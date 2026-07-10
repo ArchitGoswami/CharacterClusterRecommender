@@ -1,7 +1,26 @@
 {
   "name": "Frank",
   "show": "Kickin'it",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AfraidOfClowns",
+    "DirtyCoward",
+    "SuperGullible",
+    "VillainDecay",
+    "EvilCounterpart",
+    "ArchEnemy",
+    "HeldBackInSchool",
+    "EvilLaugh",
+    "Jerkass",
+    "SycophanticServant",
+    "DiminishingVillainThreat",
+    "NotMeThisTime",
+    "PaperTiger",
+    "TheHeavy",
+    "EvenEvilHasStandards",
+    "BookDumb",
+    "VillainousBreakdown",
+    "MonsterClown"
+  ],
   "tropes_by_category": {}
 }

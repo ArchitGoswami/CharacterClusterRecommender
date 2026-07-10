@@ -1,7 +1,15 @@
 {
   "name": "Justin Pitt",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "MistakenForMurderer",
+    "BritishStuffiness",
+    "BadBoss",
+    "Cloudcuckoolander",
+    "JerkWithAHeartOfGold",
+    "Manchild",
+    "EnmityWithAnObject"
+  ],
   "tropes_by_category": {}
 }

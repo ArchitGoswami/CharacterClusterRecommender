@@ -1,7 +1,13 @@
 {
   "name": "Donny",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CatchPhrase",
+    "ClusterFBomb",
+    "TheVoice",
+    "StockScream",
+    "NoIndoorVoice"
+  ],
   "tropes_by_category": {}
 }

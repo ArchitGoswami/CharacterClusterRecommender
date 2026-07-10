@@ -1,7 +1,16 @@
 {
   "name": "Hella, Ramona and Angelica Sin",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ChickMagnet",
+    "AffablyEvil",
+    "EvilSoundsDeep",
+    "BlondeBrunetteRedhead",
+    "BeautyIsBad",
+    "Dracula",
+    "JerkAss",
+    "VampireVords"
+  ],
   "tropes_by_category": {}
 }

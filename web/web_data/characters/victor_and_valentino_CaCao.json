@@ -1,7 +1,15 @@
 {
   "name": "CaCao",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "VomitIndiscretionShot",
+    "MeaningfulName",
+    "BrainyBaby",
+    "OnlyKnownByTheirNickname",
+    "PokemonSpeak",
+    "TrademarkFavoriteFood",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

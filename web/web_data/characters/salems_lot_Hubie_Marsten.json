@@ -1,7 +1,12 @@
 {
   "name": "Hubie Marsten",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheRenfield",
+    "HollywoodSatanism",
+    "PosthumousCharacter",
+    "GreaterScopeVillain"
+  ],
   "tropes_by_category": {}
 }

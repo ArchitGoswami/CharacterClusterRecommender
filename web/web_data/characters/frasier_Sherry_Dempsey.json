@@ -1,7 +1,15 @@
 {
   "name": "Sherry Dempsey",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BigFun",
+    "DreadfulMusician",
+    "CommitmentIssues",
+    "UnwantedAssistance",
+    "SerialSpouse",
+    "InnocentlyInsensitive",
+    "TheMatchmaker"
+  ],
   "tropes_by_category": {}
 }

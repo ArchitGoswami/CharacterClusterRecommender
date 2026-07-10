@@ -1,7 +1,12 @@
 {
   "name": "Gen Sasaki AKA \"Gatchan\"",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MotorMouth",
+    "UpdatedRerelease",
+    "AdaptationalDyeJob",
+    "YouDontLookLikeYou"
+  ],
   "tropes_by_category": {}
 }

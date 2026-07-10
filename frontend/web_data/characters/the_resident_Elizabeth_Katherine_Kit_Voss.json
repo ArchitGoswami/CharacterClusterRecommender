@@ -1,7 +1,13 @@
 {
   "name": "Elizabeth Katherine \"Kit\" Voss",
   "show": "The Resident",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "IAmVeryBritish",
+    "RememberTheNewGuy",
+    "IconicSequelCharacter",
+    "MoralityChain",
+    "RankUp"
+  ],
   "tropes_by_category": {}
 }

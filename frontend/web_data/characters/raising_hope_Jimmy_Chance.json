@@ -1,7 +1,25 @@
 {
   "name": "Jimmy Chance",
   "show": "Raising Hope",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DistinguishingMark",
+    "UnfazedEveryman",
+    "IdiotSavant",
+    "LoveMartyr",
+    "OopsIForgotIWasMarried",
+    "Goth",
+    "LoserProtagonist",
+    "NeverMyFault",
+    "ParentsAsPeople",
+    "BecauseYouWereNiceToMe",
+    "HappilyMarried",
+    "MilhollandRelationshipMoment",
+    "UnrequitedLoveSwitcheroo",
+    "BumblingDad",
+    "BookDumb",
+    "FourTemperamentEnsemble",
+    "NoAccountingForTaste"
+  ],
   "tropes_by_category": {}
 }

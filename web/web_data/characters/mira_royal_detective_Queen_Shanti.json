@@ -1,7 +1,11 @@
 {
   "name": "Queen Shanti",
   "show": "Mira, Royal Detective",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ParentalSubstitute",
+    "NiceGirl",
+    "TheGoodQueen"
+  ],
   "tropes_by_category": {}
 }

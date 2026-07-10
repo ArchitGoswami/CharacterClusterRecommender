@@ -1,7 +1,21 @@
 {
   "name": "Georgia \"George\" Lass",
   "show": "Dead Like Me",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "FauxlosophicNarration",
+    "FirstEpisodeResurrection",
+    "DeathByLookingUp",
+    "TomboyishName",
+    "AttendingYourOwnFuneral",
+    "TheSnarkKnight",
+    "YouCantGoHomeAgain",
+    "UndignifiedDeath",
+    "CruelAndUnusualDeath",
+    "AgeAppropriateAngst",
+    "TrademarkFavoriteFood",
+    "SexAsRiteOfPassage"
+  ],
   "tropes_by_category": {}
 }

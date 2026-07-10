@@ -1,7 +1,10 @@
 {
   "name": "Nightshade",
   "show": "League of Super Evil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DarkIsNotEvil",
+    "BaritoneOfStrength"
+  ],
   "tropes_by_category": {}
 }

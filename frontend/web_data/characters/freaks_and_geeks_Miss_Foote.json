@@ -1,7 +1,11 @@
 {
   "name": "Miss Foote",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HotTeacher",
+    "HotForTeacher",
+    "CoolTeacher"
+  ],
   "tropes_by_category": {}
 }

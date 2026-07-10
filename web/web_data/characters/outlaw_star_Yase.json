@@ -1,7 +1,22 @@
 {
   "name": "Yase",
   "show": "Outlaw Star",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DirtyCoward",
+    "CreepyHighPitchedVoice",
+    "Jerkass",
+    "LooksLikeOrlok",
+    "Foil",
+    "SuperSpeed",
+    "ISurrenderSuckers",
+    "CrazyPrepared",
+    "UndignifiedDeath",
+    "BaldOfEvil",
+    "SmugSnake",
+    "Ninja",
+    "FauxAffablyEvil",
+    "MonsterClown"
+  ],
   "tropes_by_category": {}
 }

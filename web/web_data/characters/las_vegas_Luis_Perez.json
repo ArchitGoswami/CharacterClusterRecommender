@@ -1,7 +1,12 @@
 {
   "name": "Luis Perez",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PutOnABusToHell",
+    "FriendOnTheForce",
+    "GratuitousSpanish",
+    "ChildhoodFriend"
+  ],
   "tropes_by_category": {}
 }

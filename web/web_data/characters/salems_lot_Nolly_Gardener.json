@@ -1,7 +1,13 @@
 {
   "name": "Nolly Gardener",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CluelessDeputy",
+    "Expy",
+    "NiceGuy",
+    "PoliceAreUseless",
+    "RadioDrama"
+  ],
   "tropes_by_category": {}
 }

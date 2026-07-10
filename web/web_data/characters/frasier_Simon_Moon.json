@@ -1,7 +1,21 @@
 {
   "name": "Simon Moon",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "ReallyGetsAround",
+    "DelusionsOfEloquence",
+    "MisplacedAccent",
+    "SesquipedalianLoquaciousness",
+    "StealthParody",
+    "BrilliantButLazy",
+    "TheAlcoholic",
+    "LazyBum",
+    "ItsAllAboutMe",
+    "TheThingThatWouldNotLeave",
+    "BackForTheFinale",
+    "KavorkaMan"
+  ],
   "tropes_by_category": {}
 }

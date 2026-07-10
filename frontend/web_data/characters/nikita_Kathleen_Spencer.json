@@ -1,7 +1,15 @@
 {
   "name": "Kathleen Spencer",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EnlightenedSelfInterest",
+    "CaptureAndReplicate",
+    "WhatHappenedToTheMouse",
+    "ReasonableAuthorityFigure",
+    "NoPartyGiven",
+    "DeathFakedForYou",
+    "IronLady"
+  ],
   "tropes_by_category": {}
 }

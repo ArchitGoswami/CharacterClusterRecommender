@@ -1,7 +1,11 @@
 {
   "name": "Dr. Dale Volker",
   "show": "Stargate Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ThoseTwoGuys",
+    "OnlySaneMan",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

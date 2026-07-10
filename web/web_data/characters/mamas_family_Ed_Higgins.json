@@ -1,7 +1,12 @@
 {
   "name": "Ed Higgins",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DemotedToExtra",
+    "HenpeckedHusband",
+    "HypocriticalHumor",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Stacks Edwards",
   "show": "Goodfellas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "TokenMinority",
+    "IdiotBall",
+    "BoomHeadshot"
+  ],
   "tropes_by_category": {}
 }

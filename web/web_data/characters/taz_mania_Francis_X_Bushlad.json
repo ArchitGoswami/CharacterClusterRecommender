@@ -1,7 +1,24 @@
 {
   "name": "Francis X. Bushlad",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "RoadRunnerVsCoyote",
+    "ClashingCousins",
+    "FailureIsTheOnlyOption",
+    "RiteOfPassage",
+    "GoneHorriblyRight",
+    "ARealManIsAKiller",
+    "Determinator",
+    "MusicSoothesTheSavageBeast",
+    "WhoWritesThisCrap",
+    "DisguisedInDrag",
+    "NamedAfterSomebodyFamous",
+    "NiceMeanAndInBetween",
+    "AttractiveBentGender",
+    "HollywoodNatives",
+    "IfYouKillHimYouWillBeJustLikeHim",
+    "AllJustADream"
+  ],
   "tropes_by_category": {}
 }

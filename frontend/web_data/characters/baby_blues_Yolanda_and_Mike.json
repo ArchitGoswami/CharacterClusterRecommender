@@ -1,7 +1,16 @@
 {
   "name": "Yolanda and Mike",
   "show": "Baby Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "InconsistentColoring",
+    "LivingProp",
+    "TokenBlackFriend",
+    "SatelliteCharacter",
+    "AerithAndBob",
+    "LastMinuteBabyNaming",
+    "OnlyOneName",
+    "FlatCharacter"
+  ],
   "tropes_by_category": {}
 }

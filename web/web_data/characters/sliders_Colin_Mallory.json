@@ -1,7 +1,17 @@
 {
   "name": "Colin Mallory",
   "show": "Sliders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WideEyedIdealist",
+    "FishOutOfWater",
+    "PutOnABusToHell",
+    "DroppedABridgeOnHim",
+    "ConvenientReplacementCharacter",
+    "SmarterThanYouLook",
+    "AllOfTheOtherReindeer",
+    "AvertedTrope",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

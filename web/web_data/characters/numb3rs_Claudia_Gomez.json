@@ -1,7 +1,9 @@
 {
   "name": "Claudia Gomez",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheCoroner"
+  ],
   "tropes_by_category": {}
 }

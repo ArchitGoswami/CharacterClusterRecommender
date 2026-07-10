@@ -1,7 +1,18 @@
 {
   "name": "Horus",
   "show": "American Gods",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CloudCuckooLander",
+    "ChekhovsGunman",
+    "StealthPun",
+    "RaceLift",
+    "NakedPeopleAreFunny",
+    "VoluntaryShapeshifting",
+    "NonSequitur",
+    "TheOphelia",
+    "PowerOfTheSun",
+    "NobleBirdOfPrey"
+  ],
   "tropes_by_category": {}
 }

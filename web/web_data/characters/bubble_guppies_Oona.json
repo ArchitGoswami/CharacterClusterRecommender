@@ -1,7 +1,19 @@
 {
   "name": "Oona",
   "show": "Bubble Guppies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HeelFaceTurn",
+    "Catchphrase",
+    "RedOniBlueOni",
+    "BigBad",
+    "GirlishPigtails",
+    "GracefulLadiesLikePurple",
+    "TheCutie",
+    "TheDragon",
+    "BewareTheNiceOnes",
+    "TemporarilyAVillain",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

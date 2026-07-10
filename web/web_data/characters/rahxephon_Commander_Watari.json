@@ -1,7 +1,11 @@
 {
   "name": "Commander Watari",
   "show": "RahXephon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AFatherToHisMen",
+    "LukeIAmYourFather",
+    "EyepatchOfPower"
+  ],
   "tropes_by_category": {}
 }

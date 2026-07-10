@@ -1,7 +1,18 @@
 {
   "name": "Miss Georgiana Darcy",
   "show": "Pride and Prejudice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "StatuesqueStunner",
+    "ElegantClassicalMusician",
+    "HeroWorshipper",
+    "HairOfGoldHeartOfGold",
+    "ShrinkingViolet",
+    "MeaningfulName",
+    "BigBrotherWorship",
+    "NiceGirl",
+    "MoralityPet",
+    "PracticallyDifferentGenerations"
+  ],
   "tropes_by_category": {}
 }

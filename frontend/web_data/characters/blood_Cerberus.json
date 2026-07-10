@@ -1,7 +1,14 @@
 {
   "name": "Cerberus",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Hellhound",
+    "BreathWeapon",
+    "LaserGuidedKarma",
+    "KillItWithFire",
+    "BossRush",
+    "HelpfulMook"
+  ],
   "tropes_by_category": {}
 }

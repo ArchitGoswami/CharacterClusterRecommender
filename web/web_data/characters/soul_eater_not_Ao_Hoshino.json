@@ -1,7 +1,17 @@
 {
   "name": "Ao Hoshino",
   "show": "Soul Eater NOT!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "UnusuallyUninterestingSight",
+    "HimeCut",
+    "LastEpisodeNewCharacter",
+    "HeroWorshipper",
+    "SinisterScythe",
+    "ExoticEyeDesigns",
+    "FlatCharacter",
+    "MeaningfulName",
+    "SixthRanger"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "The Monreaux Family",
   "show": "Filthy Rich",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DoggedNiceGuy",
+    "RagsToRiches",
+    "WrongLineOfWork",
+    "NiceGuy",
+    "SpoiledSweet",
+    "ArmoredClosetGay",
+    "BitchInSheepsClothing",
+    "TheAtoner",
+    "InadequateInheritor",
+    "MamaBear",
+    "MyGodWhatHaveIDone",
+    "ItsAllAboutMe",
+    "AwfulWeddedLife",
+    "EveryoneHasStandards",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

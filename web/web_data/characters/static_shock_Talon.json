@@ -1,7 +1,29 @@
 {
   "name": "Talon",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "HarpingOnAboutHarpies",
+    "BeastMan",
+    "WhatYouAreInTheDark",
+    "KnownOnlyByTheirNickname",
+    "FromNobodyToNightmare",
+    "TheReasonYouSuckSpeech",
+    "WomenAreWiser",
+    "ThatWomanIsDead",
+    "CanonForeigner",
+    "GrandFinale",
+    "BadassNormal",
+    "HiddenDepths",
+    "SpicyLatina",
+    "SeriesFinale",
+    "FeatheredFiend",
+    "CoDragons",
+    "LaughingMad",
+    "CanonImmigrant",
+    "HeelFaceTurn",
+    "IJustWantToBeNormal",
+    "SuperScream"
+  ],
   "tropes_by_category": {}
 }

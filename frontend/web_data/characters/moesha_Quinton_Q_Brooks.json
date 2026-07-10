@@ -1,7 +1,17 @@
 {
   "name": "Quinton \"Q\" Brooks",
   "show": "Moesha",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MaleBandFemaleSinger",
+    "ChivalrousPervert",
+    "JerkWithAHeartOfGold",
+    "RedOniBlueOni",
+    "TroubledButCute",
+    "TheNapoleon",
+    "BrooklynRage",
+    "BroodingBoyGentleGirl",
+    "LowerClassLout"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Piranha",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DashAttack",
+    "RetCon",
+    "InconsistentSpelling",
+    "MightyGlacier",
+    "ThePerfectionist",
+    "BrutalBonusLevel",
+    "OneHundredPercentCompletion",
+    "PurposelyOverpowered",
+    "AnimalMotifs",
+    "AwesomeButImpractical",
+    "DoubleEntendre",
+    "MasterOfAll",
+    "InvisibilityCloak",
+    "SecretArt",
+    "BadassPacifist"
+  ],
   "tropes_by_category": {}
 }

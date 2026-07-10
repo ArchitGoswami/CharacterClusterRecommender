@@ -1,7 +1,14 @@
 {
   "name": "Zoe Reynolds",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrokenPedestal",
+    "TheExile",
+    "CunningLinguist",
+    "HoneyTrap",
+    "JustFriends",
+    "StartingANewLife"
+  ],
   "tropes_by_category": {}
 }

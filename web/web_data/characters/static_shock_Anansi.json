@@ -1,7 +1,18 @@
 {
   "name": "Anansi",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FightsLikeANormal",
+    "MasterOfIllusion",
+    "SneakySpider",
+    "WallCrawl",
+    "LegacyCharacter",
+    "SignatureHeadgear",
+    "BreakoutCharacter",
+    "AnimalThemedSuperbeing",
+    "CanonImmigrant",
+    "TheUnreveal"
+  ],
   "tropes_by_category": {}
 }

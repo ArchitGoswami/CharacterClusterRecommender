@@ -1,7 +1,19 @@
 {
   "name": "Turtle Lou",
   "show": "Donkey Hodie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Expy",
+    "MythologyGag",
+    "NonMammalianHair",
+    "SubvertedTrope",
+    "EarlyInstallmentCharacterDesignDifference",
+    "SuperSpeed",
+    "PunnyName",
+    "BitCharacter",
+    "ShamedByAMob",
+    "SturdyAndSteadyTurtles",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

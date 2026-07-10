@@ -1,7 +1,18 @@
 {
   "name": "Dr. Syn Palik",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Jerkass",
+    "GracefulLoser",
+    "NiceGuy",
+    "PaperThinDisguise",
+    "GreaterScopeVillain",
+    "VillainRespect",
+    "HateSink",
+    "FriendlyEnemy",
+    "EvilIsPetty",
+    "Irony"
+  ],
   "tropes_by_category": {}
 }

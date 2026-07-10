@@ -1,7 +1,14 @@
 {
   "name": "Drallag",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CyberCyclops",
+    "Expy",
+    "MonsterOfTheWeek",
+    "WickedWastefulness",
+    "DestructiveSaviour",
+    "HoistByHisOwnPetard"
+  ],
   "tropes_by_category": {}
 }

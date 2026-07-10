@@ -1,7 +1,17 @@
 {
   "name": "Steve Brady",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "DoggedNiceGuy",
+    "NiceGuy",
+    "MasculineGirlFeminineBoy",
+    "ShipTease",
+    "EurekaMoment",
+    "LawOfInverseFertility",
+    "AmicableExes",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

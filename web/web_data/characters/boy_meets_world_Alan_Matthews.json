@@ -1,7 +1,20 @@
 {
   "name": "Alan Matthews",
   "show": "Boy Meets World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "VerySpecialEpisode",
+    "TheDitz",
+    "CrouchingMoronHiddenBadass",
+    "FormerTeenRebel",
+    "HappilyMarried",
+    "ScreamsLikeALittleGirl",
+    "BumblingDad",
+    "Cult",
+    "PromotionToParent",
+    "PapaWolf",
+    "RetiredBadAss",
+    "SilverFox"
+  ],
   "tropes_by_category": {}
 }

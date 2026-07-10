@@ -1,7 +1,11 @@
 {
   "name": "Mayor Madison",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DeusExScuseMe",
+    "OneHourWorkWeek",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

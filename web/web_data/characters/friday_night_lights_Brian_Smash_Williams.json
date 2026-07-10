@@ -1,7 +1,21 @@
 {
   "name": "Brian \"Smash\" Williams",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "BigBrotherInstinct",
+    "DisappearedDad",
+    "SmallNameBigEgo",
+    "TheHeart",
+    "HesBack",
+    "PutOnABus",
+    "EarnYourHappyEnding",
+    "BoisterousBruiser",
+    "JustifiedCriminal",
+    "OnlyKnownByTheirNickname",
+    "ButtMonkey",
+    "ThirdPersonPerson"
+  ],
   "tropes_by_category": {}
 }

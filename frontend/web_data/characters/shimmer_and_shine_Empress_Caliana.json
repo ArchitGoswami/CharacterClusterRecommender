@@ -1,7 +1,10 @@
 {
   "name": "Empress Caliana",
   "show": "Shimmer and Shine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CelebrityVoiceActor",
+    "CoolTeacher"
+  ],
   "tropes_by_category": {}
 }

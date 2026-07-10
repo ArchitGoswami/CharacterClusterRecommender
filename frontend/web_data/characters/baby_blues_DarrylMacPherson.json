@@ -1,7 +1,14 @@
 {
   "name": "DarrylMacPherson",
   "show": "Baby Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BoyfriendBlockingDad",
+    "GagNose",
+    "BumblingDad",
+    "OpaqueLenses",
+    "SundayStrip",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Andy Schroeder",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBusCameBack",
+    "StalkerWithACrush",
+    "BerserkButton",
+    "GreenEyedMonster",
+    "DevotedToYou"
+  ],
   "tropes_by_category": {}
 }

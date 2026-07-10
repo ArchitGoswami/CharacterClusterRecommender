@@ -1,7 +1,11 @@
 {
   "name": "Kemi",
   "show": "Bob Hearts Abishola",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ItsAllAboutMe",
+    "OnlySaneWoman",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

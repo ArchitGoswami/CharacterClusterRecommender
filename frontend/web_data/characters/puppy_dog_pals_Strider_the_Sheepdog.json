@@ -1,7 +1,9 @@
 {
   "name": "Strider the Sheepdog",
   "show": "Puppy Dog Pals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "MotorMouth"
+  ],
   "tropes_by_category": {}
 }

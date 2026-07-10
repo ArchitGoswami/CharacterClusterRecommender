@@ -1,7 +1,13 @@
 {
   "name": "Miriam Kent",
   "show": "H2O: Just Add Water",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "AlphaBitch",
+    "TheBully",
+    "ShrinkingViolet",
+    "Archenemy"
+  ],
   "tropes_by_category": {}
 }

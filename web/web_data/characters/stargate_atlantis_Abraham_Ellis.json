@@ -1,7 +1,12 @@
 {
   "name": "Abraham Ellis",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ColonelBadass",
+    "JerkAss",
+    "ReplacementFlatCharacter",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

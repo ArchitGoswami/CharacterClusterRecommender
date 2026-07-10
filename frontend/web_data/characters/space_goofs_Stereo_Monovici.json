@@ -1,7 +1,21 @@
 {
   "name": "Stereo Monovici",
   "show": "Space Goofs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "IdenticalTwinIDTag",
+    "BirthdayEpisode",
+    "PaperThinDisguise",
+    "BadassBookworm",
+    "PutOnABus",
+    "FinishingEachOthersSentences",
+    "CommutingOnABus",
+    "Omniglot",
+    "MeaningfulName",
+    "MultipleHeadCase",
+    "DemotedToExtra",
+    "AmbiguouslyBi",
+    "CharacterExaggeration"
+  ],
   "tropes_by_category": {}
 }

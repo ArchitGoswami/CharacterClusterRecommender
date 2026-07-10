@@ -1,7 +1,25 @@
 {
   "name": "Prime Minister Yoko Kayabuki",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "TheDogBitesBack",
+    "AllThereInTheManual",
+    "PuppetKing",
+    "HeroicBSOD",
+    "TookALevelInBadass",
+    "WhatTheHellHero",
+    "OlderThanTheyLook",
+    "ReasonableAuthorityFigure",
+    "PutOnABus",
+    "NoPartyGiven",
+    "RecurringCharacter",
+    "MeaningfulName",
+    "DamselInDistress",
+    "InUniverse",
+    "ManipulativeBitch",
+    "IronLady"
+  ],
   "tropes_by_category": {}
 }

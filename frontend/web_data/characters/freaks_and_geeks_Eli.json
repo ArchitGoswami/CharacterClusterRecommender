@@ -1,7 +1,14 @@
 {
   "name": "Eli",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WeNeedADistraction",
+    "Jerkass",
+    "BerserkButton",
+    "FanBoy",
+    "ButtMonkey",
+    "SpeechImpediment"
+  ],
   "tropes_by_category": {}
 }

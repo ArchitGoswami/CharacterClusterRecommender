@@ -1,7 +1,15 @@
 {
   "name": "Captain Gregory",
   "show": "Seijuu Sentai Gingaman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PostFinalBoss",
+    "VillainousBreakdown",
+    "TheDreaded",
+    "Sizeshifter",
+    "SealedEvilInACan",
+    "AvengingTheVillain",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

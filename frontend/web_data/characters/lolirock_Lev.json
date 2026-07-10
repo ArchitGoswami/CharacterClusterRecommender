@@ -1,7 +1,16 @@
 {
   "name": "Lev",
   "show": "Lolirock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GentlemanThief",
+    "MrFanservice",
+    "ILied",
+    "ConsummateLiar",
+    "OnlyInItForTheMoney",
+    "AntiHero",
+    "IcyBlueEyes",
+    "BettyAndVeronica"
+  ],
   "tropes_by_category": {}
 }

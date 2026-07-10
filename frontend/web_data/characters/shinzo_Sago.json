@@ -1,7 +1,19 @@
 {
   "name": "Sago",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GratuitousEnglish",
+    "AliensSpeakingEnglish",
+    "MidSeasonUpgrade",
+    "Homage",
+    "TheLancer",
+    "CoolHelmet",
+    "MakingASplash",
+    "GoldenSuperMode",
+    "SuperMode",
+    "AdaptationSpeciesChange",
+    "MysticalWhiteHair"
+  ],
   "tropes_by_category": {}
 }

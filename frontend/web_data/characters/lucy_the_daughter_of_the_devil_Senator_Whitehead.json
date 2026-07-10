@@ -1,7 +1,11 @@
 {
   "name": "Senator Whitehead",
   "show": "Lucy, the Daughter of the Devil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "EarlyInstallmentCharacterDesignDifference",
+    "HulkingOut",
+    "SeriesFinale"
+  ],
   "tropes_by_category": {}
 }

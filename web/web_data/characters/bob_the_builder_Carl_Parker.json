@@ -1,7 +1,9 @@
 {
   "name": "Carl Parker",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ShowWithinAShow"
+  ],
   "tropes_by_category": {}
 }

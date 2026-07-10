@@ -1,7 +1,12 @@
 {
   "name": "Nikki Coleman",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OnlySaneWoman",
+    "ThoseTwoGirls",
+    "ADayInTheLimelight",
+    "TomboyAndGirlyGirl"
+  ],
   "tropes_by_category": {}
 }

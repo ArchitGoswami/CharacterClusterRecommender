@@ -1,7 +1,19 @@
 {
   "name": "Edgar and Allan",
   "show": "Ruby Gloom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "HighClassGlass",
+    "DumbMuscle",
+    "TheBigGuy",
+    "TheSpeechless",
+    "SatelliteCharacter",
+    "SilentSnarker",
+    "ToothyBird",
+    "ShoutOutThemeNaming",
+    "FatAndSkinny",
+    "FlatCharacter"
+  ],
   "tropes_by_category": {}
 }

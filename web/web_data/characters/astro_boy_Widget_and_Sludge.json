@@ -1,7 +1,12 @@
 {
   "name": "Widget and Sludge",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MisterStrangenoun",
+    "SiblingSenioritySquabble",
+    "HalfIdenticalTwins",
+    "TearsOfFear"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Michael Benoit",
   "show": "Medium",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GrandTheftMe",
+    "ObnoxiousInLaws",
+    "PhonyPsychic",
+    "JerkWithAHeartOfGold",
+    "BoisterousWeakling",
+    "TheAlcoholic",
+    "InSeriesNickname",
+    "InterruptedSuicide",
+    "GhostlyGoals",
+    "RefusalOfTheCall",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

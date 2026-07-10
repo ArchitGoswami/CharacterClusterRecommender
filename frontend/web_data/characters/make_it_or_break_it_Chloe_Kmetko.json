@@ -1,7 +1,10 @@
 {
   "name": "Chloe Kmetko",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HookerWithAHeartOfGold",
+    "DatingServiceDisaster"
+  ],
   "tropes_by_category": {}
 }

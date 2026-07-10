@@ -1,7 +1,15 @@
 {
   "name": "Denzel Collins",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "ThisIsUnforgivable",
+    "RemarriedToTheMistress",
+    "AssholeVictim",
+    "KickTheDog",
+    "PutOnABus",
+    "MisplacedRetribution"
+  ],
   "tropes_by_category": {}
 }

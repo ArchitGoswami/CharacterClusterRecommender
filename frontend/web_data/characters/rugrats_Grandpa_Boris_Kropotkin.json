@@ -1,7 +1,23 @@
 {
   "name": "Grandpa Boris Kropotkin",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CoolOldGuy",
+    "TheBusCameBack",
+    "NostalgiaFilter",
+    "DeadpanSnarker",
+    "SitcomArchNemesis",
+    "Ruritania",
+    "HonoraryUncle",
+    "TheStoryteller",
+    "FunetikAksent",
+    "TheOldCountry",
+    "FunnyForeigner",
+    "BlackBeadEyes",
+    "GrumpyOldMan",
+    "JewsLoveToArgue",
+    "OutOfFocus"
+  ],
   "tropes_by_category": {}
 }

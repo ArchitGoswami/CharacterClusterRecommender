@@ -1,7 +1,23 @@
 {
   "name": "Uncle Oswidge",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "MrExposition",
+    "AccidentalPublicConfession",
+    "IneptMage",
+    "Manchild",
+    "TrademarkFavoriteFood",
+    "VerbalBackspace",
+    "UnmanlySecret",
+    "BigGood",
+    "BigEater",
+    "ExtraDigits",
+    "WizardClassic",
+    "InTouchWithHisFeminineSide",
+    "OnlySaneMan",
+    "AlwaysSomeoneBetter",
+    "MakesJustAsMuchSenseInContext"
+  ],
   "tropes_by_category": {}
 }

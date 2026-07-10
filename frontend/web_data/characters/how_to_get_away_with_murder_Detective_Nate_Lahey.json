@@ -1,7 +1,29 @@
 {
   "name": "Detective Nate Lahey",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "NiceGuy",
+    "MercyKill",
+    "TokenGoodTeammate",
+    "FriendOnTheForce",
+    "TheReasonYouSuckSpeech",
+    "SubvertedTrope",
+    "NeverMyFault",
+    "TookALevelInJerkass",
+    "TheScapegoat",
+    "JerkassHasAPoint",
+    "ConflictingLoyalty",
+    "LikeFatherLikeSon",
+    "FrameUp",
+    "ILied",
+    "ZigzaggedTrope",
+    "NoHoldsBarredBeatdown",
+    "ChickMagnet",
+    "FairCop",
+    "MrFanservice",
+    "ItsPersonal",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

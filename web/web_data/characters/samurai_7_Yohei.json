@@ -1,7 +1,10 @@
 {
   "name": "Yohei",
   "show": "Samurai 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DemotedToExtra",
+    "SparedByTheAdaptation"
+  ],
   "tropes_by_category": {}
 }

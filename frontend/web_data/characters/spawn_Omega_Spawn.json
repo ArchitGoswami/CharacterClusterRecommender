@@ -1,7 +1,16 @@
 {
   "name": "Omega Spawn",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GalacticConqueror",
+    "MoreTeethThanTheOsmondFamily",
+    "OneWingedAngel",
+    "EvilIsBigger",
+    "DeadPersonImpersonation",
+    "DemonLordsAndArchdevils",
+    "EvilCounterpart",
+    "EnemyWithout"
+  ],
   "tropes_by_category": {}
 }

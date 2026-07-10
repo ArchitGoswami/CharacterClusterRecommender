@@ -1,7 +1,19 @@
 {
   "name": "Charlotte Cross",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheReveal",
+    "LukeIAmYourFather",
+    "BrainyBrunette",
+    "OlderThanTheyLook",
+    "TheAtoner",
+    "CommonalityConnection",
+    "ScienceHero",
+    "AbsurdlyYouthfulMother",
+    "WasItAllALie",
+    "DarkAndTroubledPast",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

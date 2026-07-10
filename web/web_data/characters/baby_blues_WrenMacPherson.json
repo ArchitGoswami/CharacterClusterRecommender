@@ -1,7 +1,16 @@
 {
   "name": "WrenMacPherson",
   "show": "Baby Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FieryRedhead",
+    "Gasshole",
+    "InnocentSwearing",
+    "LivingProp",
+    "TerseTalker",
+    "FearlessInfant",
+    "LastMinuteBabyNaming",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

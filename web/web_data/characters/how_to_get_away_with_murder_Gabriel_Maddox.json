@@ -1,7 +1,19 @@
 {
   "name": "Gabriel Maddox",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CrusadingLawyer",
+    "DarkSecret",
+    "DisappearedDad",
+    "FrameUp",
+    "RedHerring",
+    "RefugeInAudacity",
+    "WhatHappenedToTheMouse",
+    "SeriesFinale",
+    "AllOfTheOtherReindeer",
+    "NewTransferStudent",
+    "LoveTriangle"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Tommy Pierce",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ParentalSubstitute",
+    "ElderEmployee",
+    "TheMasqueradeWillKillYourDatingLife",
+    "LaserGuidedAmnesia",
+    "OutlivingOnesOffspring",
+    "TheAlcoholic",
+    "HopeSpot",
+    "FreudianExcuse",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

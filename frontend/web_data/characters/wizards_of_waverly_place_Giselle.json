@@ -1,7 +1,21 @@
 {
   "name": "Giselle",
   "show": "Wizards of Waverly Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "YouHaveOutlivedYourUsefulness",
+    "KarmicTransformation",
+    "FateWorseThanDeath",
+    "EpicFail",
+    "BigBad",
+    "KickTheDog",
+    "OhCrap",
+    "NiceJobFixingItVillain",
+    "StupidEvil",
+    "FlatCharacter",
+    "ItsAllAboutMe",
+    "PlotIrrelevantVillain"
+  ],
   "tropes_by_category": {}
 }

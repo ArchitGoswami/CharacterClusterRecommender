@@ -1,7 +1,15 @@
 {
   "name": "Isaiah",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CasanovaWannabe",
+    "ThoseTwoGuys",
+    "TheQuietOne",
+    "BashBrothers",
+    "DemotedToExtra",
+    "HotBlooded",
+    "WalkingShirtlessScene"
+  ],
   "tropes_by_category": {}
 }

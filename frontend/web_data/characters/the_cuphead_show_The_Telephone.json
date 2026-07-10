@@ -1,7 +1,19 @@
 {
   "name": "The Telephone",
   "show": "The Cuphead Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheyKilledKennyAgain",
+    "Catchphrase",
+    "AmbiguousRobots",
+    "CanonForeigner",
+    "HoppingMachine",
+    "EveryoneCallsHimBarkeep",
+    "RecurringExtra",
+    "UnexplainedRecovery",
+    "RadioVoice",
+    "ButtMonkey",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

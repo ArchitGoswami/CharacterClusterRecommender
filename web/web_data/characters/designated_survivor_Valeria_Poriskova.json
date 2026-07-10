@@ -1,7 +1,14 @@
 {
   "name": "Valeria Poriskova",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "YouHaveOutlivedYourUsefulness",
+    "TheMole",
+    "DoubleAgent",
+    "TheHandler",
+    "FemmeFatale",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

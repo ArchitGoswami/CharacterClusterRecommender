@@ -1,7 +1,10 @@
 {
   "name": "Panellists first appearing in series Q",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ConsistentClothingStyle",
+    "AccidentalTruth"
+  ],
   "tropes_by_category": {}
 }

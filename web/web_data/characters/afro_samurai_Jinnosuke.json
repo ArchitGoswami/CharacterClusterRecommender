@@ -1,7 +1,21 @@
 {
   "name": "Jinnosuke",
   "show": "Afro Samurai",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AncestralWeapon",
+    "BigBrotherInstinct",
+    "RedOniBlueOni",
+    "ChasteHero",
+    "LikeBrotherAndSister",
+    "NiceGuy",
+    "Foil",
+    "ShipperOnDeck",
+    "TheRival",
+    "TrueCompanions",
+    "IdiotBall",
+    "FriendlyRival",
+    "DualWielding"
+  ],
   "tropes_by_category": {}
 }

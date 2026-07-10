@@ -1,7 +1,25 @@
 {
   "name": "Tuesday X",
   "show": "The X's",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BoyishShortHair",
+    "ActionGirl",
+    "OnlySaneWoman",
+    "Wedgie",
+    "DayOfTheWeekName",
+    "InconsistentColoring",
+    "LaserGuidedKarma",
+    "GirlsLoveStuffedAnimals",
+    "AffectionateGestureToTheHead",
+    "GoofyPrintUnderwear",
+    "PickyPeopleEater",
+    "TomboyWithAGirlyStreak",
+    "BigSisterBully",
+    "TeenSuperspy",
+    "HartmanHips",
+    "TemporarilyAVillain",
+    "DatingCatwoman"
+  ],
   "tropes_by_category": {}
 }

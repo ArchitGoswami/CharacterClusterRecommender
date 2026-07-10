@@ -1,7 +1,17 @@
 {
   "name": "Diictodon",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TunnelKing",
+    "ApocalypseHow",
+    "RidiculouslyCuteCritter",
+    "UglyCute",
+    "PrehistoricMonster",
+    "ActionSurvivor",
+    "BlackBeadEyes",
+    "SoleSurvivor",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Cleopatra \"Dirtbike\" Funnie",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OutOfFocus",
+    "WhoNamesTheirKidDude",
+    "CousinOliver",
+    "AerithAndBob"
+  ],
   "tropes_by_category": {}
 }

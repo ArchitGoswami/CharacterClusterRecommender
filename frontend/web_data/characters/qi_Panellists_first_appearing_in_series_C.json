@@ -1,7 +1,15 @@
 {
   "name": "Panellists first appearing in series C",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SitcomArchNemesis",
+    "TheBusCameBack",
+    "DeadpanSnarker",
+    "PutOnABus",
+    "Troll",
+    "RantComedy",
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

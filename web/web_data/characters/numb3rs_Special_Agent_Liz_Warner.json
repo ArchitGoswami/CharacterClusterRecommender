@@ -1,7 +1,14 @@
 {
   "name": "Special Agent Liz Warner",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WorkingWithTheEx",
+    "ActionGirl",
+    "LadyOfWar",
+    "FBIAgent",
+    "AmicableExes",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

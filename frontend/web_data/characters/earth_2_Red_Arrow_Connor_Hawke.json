@@ -1,7 +1,13 @@
 {
   "name": "Red Arrow (Connor Hawke)",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DroppedABridgeOnHim",
+    "CombatPragmatist",
+    "CompositeCharacter",
+    "RaceLift",
+    "AdaptationNameChange"
+  ],
   "tropes_by_category": {}
 }

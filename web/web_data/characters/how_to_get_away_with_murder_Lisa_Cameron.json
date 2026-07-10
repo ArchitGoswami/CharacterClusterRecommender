@@ -1,7 +1,14 @@
 {
   "name": "Lisa Cameron",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FrameUp",
+    "WhatHappenedToTheMouse",
+    "EvenEvilHasLovedOnes",
+    "PunchClockVillain",
+    "HoneyTrap",
+    "TheMistress"
+  ],
   "tropes_by_category": {}
 }

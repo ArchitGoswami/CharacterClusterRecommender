@@ -1,7 +1,13 @@
 {
   "name": "Locos",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeelFaceTurn",
+    "AffablyEvil",
+    "PokeThePoodle",
+    "TheCartel",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Eric van der Woodsen",
   "show": "Gossip Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "LonelyRichKid",
+    "AlphaBitch",
+    "DisappearedDad",
+    "LikeBrotherAndSister",
+    "Jerkass",
+    "NiceGuy",
+    "PutOnABus",
+    "OnlySaneMan",
+    "TookALevelInJerkass",
+    "ButNotTooGay",
+    "StraightGay",
+    "CallingTheOldManOut",
+    "MoralityPet",
+    "BrattyTeenageDaughter",
+    "DrivenToSuicide",
+    "BackForTheFinale",
+    "ComingOutStory",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Bunting",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CruelMercy",
+    "DangerousDeserter",
+    "PressGanged",
+    "BurialAtSea",
+    "CanonForeigner",
+    "RememberTheNewGuy",
+    "SuicideByCop",
+    "BetterToDieThanBeKilled",
+    "HeterosexualLifePartners",
+    "NoNameGiven",
+    "ATasteOfTheLash"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Gunpowder",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "InUniverse",
+    "GunNut",
+    "Squick",
+    "EvenEvilHasStandards",
+    "AssShove",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

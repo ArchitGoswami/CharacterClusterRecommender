@@ -1,7 +1,15 @@
 {
   "name": "Cameron Dennis",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "GoodHairEvilHair",
+    "PersecutingProsecutor",
+    "ScrewTheRulesImDoingWhatsRight",
+    "TheBusCameBack",
+    "BigBad",
+    "IKnowYoureInThereSomewhereFight",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

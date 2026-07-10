@@ -1,7 +1,23 @@
 {
   "name": "Scottie",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "HelloAttorney",
+    "RivalryAsCourtship",
+    "LoveInterest",
+    "BookSmart",
+    "SexyDiscretionShot",
+    "AffectionateNickname",
+    "AcademicAlphaBitch",
+    "SexGoddess",
+    "DuelOfSeduction",
+    "NewOldFlame",
+    "FriendlyRival",
+    "HeelFaceRevolvingDoor",
+    "DatingCatwoman",
+    "Bookworm",
+    "FriendsWithBenefits"
+  ],
   "tropes_by_category": {}
 }

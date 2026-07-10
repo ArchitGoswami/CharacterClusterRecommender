@@ -1,7 +1,14 @@
 {
   "name": "JJ",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "AmbiguouslyEvil",
+    "TheCharmer",
+    "RagsToRiches",
+    "BetterAsFriends",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Claire Maddox",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheRival",
+    "AscendedExtra",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

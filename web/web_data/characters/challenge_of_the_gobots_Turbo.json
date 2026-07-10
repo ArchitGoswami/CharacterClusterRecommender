@@ -1,7 +1,12 @@
 {
   "name": "Turbo",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "InterspeciesFriendship",
+    "RedIsHeroic",
+    "Catchphrase",
+    "BoisterousBruiser"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Mervin Stimpleton",
   "show": "Rocket Power",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "OppositesAttract",
+    "Jerkass",
+    "NotSoAboveItAll",
+    "TheEngineer",
+    "PetTheDog",
+    "ForTheLulz",
+    "LargeHam",
+    "HappilyMarried",
+    "OlderThanTheyLook",
+    "OOCIsSeriousBusiness",
+    "MoralGuardians",
+    "TookALevelInKindness",
+    "MoralityPet",
+    "CloudCuckoolander",
+    "JerkassHasAPoint",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

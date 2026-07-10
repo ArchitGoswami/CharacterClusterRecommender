@@ -1,7 +1,23 @@
 {
   "name": "Eddie",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AwwLookTheyReallyDoLoveEachOther",
+    "AmplifiedAnimalAptitude",
+    "KleptomaniacHero",
+    "HeroicBSOD",
+    "EvenTheDogIsAshamed",
+    "SitcomArchnemesis",
+    "EvilDetectingDog",
+    "RuleOfFunny",
+    "SilentSnarker",
+    "NearlyNormalAnimal",
+    "StaringContest",
+    "AnimalReactionShot",
+    "Cloudcuckoolander",
+    "CharacterTic",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

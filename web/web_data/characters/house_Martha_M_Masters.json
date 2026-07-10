@@ -1,7 +1,31 @@
 {
   "name": "Martha M. Masters",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TokenGoodTeammate",
+    "Determinator",
+    "ChildProdigy",
+    "WillNotTellALie",
+    "StraightMan",
+    "PrinciplesZealot",
+    "HeroicBSOD",
+    "DownplayedTrope",
+    "NaiveNewcomer",
+    "NotThatKindOfDoctor",
+    "BreakTheCutie",
+    "BackForTheFinale",
+    "HonestyIsTheBestPolicy",
+    "PutOnABus",
+    "TokenWholesome",
+    "LastNameBasis",
+    "GeorgeJetsonJobSecurity",
+    "TheIntern",
+    "CuteButPsycho",
+    "DiagnosedByTheAudience",
+    "AlliterativeName",
+    "PlayedForLaughs",
+    "IncorruptiblePurePureness"
+  ],
   "tropes_by_category": {}
 }

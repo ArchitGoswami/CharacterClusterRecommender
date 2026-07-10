@@ -1,7 +1,12 @@
 {
   "name": "Dr. Colin Fisher",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheBusCameBack",
+    "KavorkaMan",
+    "TheEeyore",
+    "BunnyEarsLawyer"
+  ],
   "tropes_by_category": {}
 }

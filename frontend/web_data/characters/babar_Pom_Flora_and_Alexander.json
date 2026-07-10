@@ -1,7 +1,16 @@
 {
   "name": "Pom, Flora and Alexander",
   "show": "Babar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ComicBookTime",
+    "InfantSiblingJealousy",
+    "JerkWithAHeartOfGold",
+    "ProneToTears",
+    "SameSexTriplets",
+    "TheDutifulSon",
+    "PinkGirlBlueBoy",
+    "AudienceSurrogate"
+  ],
   "tropes_by_category": {}
 }

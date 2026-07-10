@@ -1,7 +1,16 @@
 {
   "name": "Adam Carter",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HeroicSacrifice",
+    "SurvivorGuilt",
+    "HeroicBSOD",
+    "SuspiciouslySimilarSubstitute",
+    "TheAce",
+    "TortureTechnician",
+    "BrokenAce",
+    "WigDressAccent"
+  ],
   "tropes_by_category": {}
 }

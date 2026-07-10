@@ -1,7 +1,18 @@
 {
   "name": "Matt",
   "show": "St. Denis Medical",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheIngenue",
+    "MistakenForGay",
+    "GoshDarnItToHeck",
+    "SecretlyRich",
+    "SpottingTheThread",
+    "SarcasmBlind",
+    "TheFundamentalist",
+    "ClarkKentOutfit",
+    "NewMeat",
+    "BigDamnKiss"
+  ],
   "tropes_by_category": {}
 }

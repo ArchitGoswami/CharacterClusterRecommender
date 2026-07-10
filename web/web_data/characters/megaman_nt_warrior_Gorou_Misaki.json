@@ -1,7 +1,14 @@
 {
   "name": "Gorou Misaki",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FallenHero",
+    "DarkIsEvil",
+    "TheAce",
+    "PutOnABus",
+    "BigDamnHeroes",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

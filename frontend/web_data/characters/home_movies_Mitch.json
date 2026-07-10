@@ -1,7 +1,13 @@
 {
   "name": "Mitch",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OfficialCouple",
+    "OddCouple",
+    "AuthorAvatar",
+    "YoungerThanTheyLook",
+    "OneShotCharacter"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Lana",
   "show": "Night Court",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ChuckCunninghamSyndrome"
+  ],
   "tropes_by_category": {}
 }

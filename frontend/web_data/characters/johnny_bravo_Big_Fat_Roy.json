@@ -1,7 +1,13 @@
 {
   "name": "Big Fat Roy",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "EvilBrit",
+    "AllThereInTheScript",
+    "EvenEvilHasLovedOnes",
+    "FamilyFriendlyFireArms",
+    "FatBastard"
+  ],
   "tropes_by_category": {}
 }

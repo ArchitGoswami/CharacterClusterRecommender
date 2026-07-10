@@ -1,7 +1,10 @@
 {
   "name": "TheOrnithomimusflock",
   "show": "Prehistoric Park",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "UglyCute",
+    "ArtisticLicensePaleontology"
+  ],
   "tropes_by_category": {}
 }

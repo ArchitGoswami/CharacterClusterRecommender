@@ -1,7 +1,14 @@
 {
   "name": "Big Blue and Brother",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "OneWingedAngel",
+    "KilledOffForReal",
+    "GiantSpider",
+    "AmbiguousSituation",
+    "NoNameGiven",
+    "UngratefulBastard"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Kyle",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OddFriendship",
+    "HappilyMarried",
+    "CommonalityConnection",
+    "MirrorCharacter",
+    "GenderFlip",
+    "TheFriendNobodyLikes",
+    "BigEater",
+    "ThereIsAnother",
+    "HellholePrison"
+  ],
   "tropes_by_category": {}
 }

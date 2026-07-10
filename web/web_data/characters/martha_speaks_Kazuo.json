@@ -1,7 +1,13 @@
 {
   "name": "Kazuo",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AnimalLover",
+    "NoFullNameGiven",
+    "NiceGuy",
+    "ComicallyMissingThePoint",
+    "AmbiguouslyBrown"
+  ],
   "tropes_by_category": {}
 }

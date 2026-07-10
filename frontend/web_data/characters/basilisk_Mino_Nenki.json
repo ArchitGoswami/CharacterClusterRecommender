@@ -1,7 +1,28 @@
 {
   "name": "Mino Nenki",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "CarryABigStick",
+    "LecherousLicking",
+    "AmazonianBeauty",
+    "AnimalMotifs",
+    "BoisterousBruiser",
+    "HoistByHisOwnPetard",
+    "BigWhat",
+    "PetTheDog",
+    "JustAKid",
+    "OhCrap",
+    "YouDontLookLikeYou",
+    "LargeHam",
+    "BifurcatedWeapon",
+    "PrehensileHair",
+    "BigOlEyebrows",
+    "CarpetOfVirility",
+    "ExpressiveHair",
+    "CruelAndUnusualDeath",
+    "EyeScream",
+    "WolverineClaws"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Josie Pye",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DefiledForever",
+    "SugarAndIcePersonality",
+    "ForcefulKiss",
+    "BreakTheHaughty",
+    "FemaleMisogynist",
+    "AlphaBitch",
+    "RapePortrayedAsRedemption",
+    "InAnotherMansShoes",
+    "ProudBeauty",
+    "WomanScorned",
+    "IncompatibleOrientation",
+    "BeCarefulWhatYouWishFor",
+    "GracefulLadiesLikePurple",
+    "TookALevelInKindness",
+    "ExpositoryHairstyleChange",
+    "BeautyIsBest",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

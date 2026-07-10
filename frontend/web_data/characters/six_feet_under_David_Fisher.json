@@ -1,7 +1,29 @@
 {
   "name": "David Fisher",
   "show": "Six Feet Under",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "ThePollyanna",
+    "FriendToAllChildren",
+    "WellDoneSonGuy",
+    "BigBrotherInstinct",
+    "HonestCorporateExecutive",
+    "PassedOverInheritance",
+    "Gayngst",
+    "UptightLovesWild",
+    "KickTheDog",
+    "TraumaCongaLine",
+    "BreakTheCutie",
+    "ExtremeDoormat",
+    "PetTheDog",
+    "HappilyMarried",
+    "OhCrap",
+    "SiblingRivalry",
+    "TheDutifulSon",
+    "SiblingYinYang",
+    "FamilyMan",
+    "RedOniBlueOni",
+    "ControlFreak"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Lana Gardner",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AlphaBitch",
+    "SuddenNameChange",
+    "LargeHam",
+    "ControlFreak",
+    "DefrostingIceQueen",
+    "SuddenlyShouting",
+    "ObnoxiousEntitledHousewife",
+    "DivorceIsTemporary",
+    "EducationMama",
+    "PsychopathicManchild",
+    "AlliterativeName",
+    "ManipulativeBitch",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

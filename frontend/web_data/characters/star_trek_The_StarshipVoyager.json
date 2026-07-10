@@ -1,7 +1,15 @@
 {
   "name": "The StarshipVoyager",
   "show": "Star Trek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "FamedInStory",
+    "AbortedArc",
+    "UncertainDoom",
+    "CoolStarship",
+    "LegacyVesselNaming",
+    "RetiredBadass",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

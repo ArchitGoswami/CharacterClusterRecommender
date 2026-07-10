@@ -1,7 +1,17 @@
 {
   "name": "Suzy Lu",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WomenAreWiser",
+    "InconsistentSpelling",
+    "MooseAndMapleSyrup",
+    "OralFixation",
+    "EarlyBirdCameo",
+    "TheLadette",
+    "BewareTheNiceOnes",
+    "MixAndMatchCritters",
+    "DidntThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

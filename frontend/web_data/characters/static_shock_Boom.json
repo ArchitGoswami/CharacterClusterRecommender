@@ -1,7 +1,21 @@
 {
   "name": "Boom",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheNicknamer",
+    "WithGreatPowerComesGreatInsanity",
+    "NeverMyFault",
+    "ILied",
+    "LoudOfWar",
+    "MakeSomeNoise",
+    "ChestBlaster",
+    "ParentalAbandonment",
+    "NotSoWellIntentionedExtremist",
+    "CainAndAbel",
+    "BackForTheFinale",
+    "TheCameo",
+    "BigBrotherBully"
+  ],
   "tropes_by_category": {}
 }

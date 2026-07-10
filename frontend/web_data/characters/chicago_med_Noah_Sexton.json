@@ -1,7 +1,21 @@
 {
   "name": "Noah Sexton",
   "show": "Chicago Med",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheCasanova",
+    "ScrewTheRulesImDoingWhatsRight",
+    "JerkWithAHeartOfGold",
+    "SpoiledBrat",
+    "FoolishSiblingResponsibleSibling",
+    "SurprisinglyRealisticOutcome",
+    "ToughLove",
+    "PutOnABus",
+    "ShipTease",
+    "OldFriend",
+    "BrilliantButLazy",
+    "CharacterDevelopment",
+    "ShamelessSelfPromoter"
+  ],
   "tropes_by_category": {}
 }

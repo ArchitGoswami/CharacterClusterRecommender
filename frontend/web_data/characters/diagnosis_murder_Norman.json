@@ -1,7 +1,14 @@
 {
   "name": "Norman",
   "show": "Diagnosis Murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "ChuckCunninghamSyndrome",
+    "HopelessWithTech",
+    "TheScrooge",
+    "ButtMonkey",
+    "ZanyScheme"
+  ],
   "tropes_by_category": {}
 }

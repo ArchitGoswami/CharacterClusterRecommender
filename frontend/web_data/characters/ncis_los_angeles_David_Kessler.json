@@ -1,7 +1,21 @@
 {
   "name": "David Kessler",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "StalkerWithACrush",
+    "NobleDemon",
+    "Lust",
+    "Foil",
+    "HairOfGoldHeartOfGold",
+    "KnightOfCerebus",
+    "StrawFan",
+    "HateSink",
+    "BigotWithACrush",
+    "TakeThat",
+    "BettyAndVeronica",
+    "TheSociopath",
+    "AllegoricalCharacter"
+  ],
   "tropes_by_category": {}
 }

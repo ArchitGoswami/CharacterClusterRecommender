@@ -1,7 +1,16 @@
 {
   "name": "Esper Kitten",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AdvertisedExtra",
+    "UnusuallyUninterestingSight",
+    "UpliftedAnimal",
+    "AccessoryWearingCartoonAnimal",
+    "LivingLieDetector",
+    "TeamPet",
+    "Telepathy",
+    "InformedAttribute"
+  ],
   "tropes_by_category": {}
 }

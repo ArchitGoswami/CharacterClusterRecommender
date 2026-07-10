@@ -1,7 +1,27 @@
 {
   "name": "Waffle",
   "show": "Catscratch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "TheKlutz",
+    "BerserkButton",
+    "SesquipedalianLoquaciousness",
+    "BigLittleBrother",
+    "KindheartedSimpleton",
+    "IdiotHero",
+    "TheBabyOfTheBunch",
+    "TheDitz",
+    "Manchild",
+    "Cloudcuckoolander",
+    "RoaringRampageOfRevenge",
+    "DrivesLikeCrazy",
+    "CrouchingMoronHiddenBadass",
+    "AntiVillain",
+    "BuffoonishTomCat",
+    "FriendToAllLivingThings",
+    "BigThinShortTrio",
+    "Catchphrase",
+    "GeniusDitz"
+  ],
   "tropes_by_category": {}
 }

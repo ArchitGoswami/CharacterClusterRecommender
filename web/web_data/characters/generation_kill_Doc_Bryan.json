@@ -1,7 +1,21 @@
 {
   "name": "Doc Bryan",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FieryRedhead",
+    "JerkWithAHeartOfGold",
+    "SelfMadeMan",
+    "BrutalHonesty",
+    "CombatMedic",
+    "BerserkButton",
+    "TheConscience",
+    "TheAce",
+    "WithDueRespect",
+    "PlayedForDrama",
+    "GroinAttack",
+    "PlayedForLaughs",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

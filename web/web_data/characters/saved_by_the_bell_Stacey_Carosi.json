@@ -1,7 +1,12 @@
 {
   "name": "Stacey Carosi",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BigApplesauce",
+    "BelligerentSexualTension",
+    "ParentalMarriageVeto",
+    "DefrostingIceQueen"
+  ],
   "tropes_by_category": {}
 }

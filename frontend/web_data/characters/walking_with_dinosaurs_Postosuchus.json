@@ -1,7 +1,31 @@
 {
   "name": "Postosuchus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "CoolVersusAwesome",
+    "EstablishingCharacterMoment",
+    "Foil",
+    "StockSoundEffects",
+    "GenderFlip",
+    "AlasPoorVillain",
+    "StarterVillain",
+    "DumbDinos",
+    "StockScream",
+    "PrehistoricMonster",
+    "DecompositeCharacter",
+    "ArtisticLicensePaleontology",
+    "NeverSmileAtACrocodile",
+    "HistoricalDowngrade",
+    "ArmorIsUseless",
+    "MightyGlacier",
+    "AdaptationExpansion",
+    "VillainProtagonist",
+    "DoomedHurtGuy",
+    "AdaptationalBadass",
+    "BigBad",
+    "StartsWithTheirFuneral",
+    "BadassInDistress"
+  ],
   "tropes_by_category": {}
 }

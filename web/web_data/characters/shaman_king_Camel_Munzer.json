@@ -1,7 +1,12 @@
 {
   "name": "Camel Munzer",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "RevengeBeforeReason",
+    "RedemptionEqualsDeath",
+    "PosthumousCharacter",
+    "EmotionlessGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Takashi Shimamura",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "Expy",
+    "ADayInTheLimelight",
+    "EnfantTerrible",
+    "BigBad",
+    "TheBadGuyWins",
+    "DeadPersonConversation",
+    "TheQuietOne",
+    "UtopiaJustifiesTheMeans",
+    "WellIntentionedExtremist",
+    "BigEater",
+    "DarkAndTroubledPast",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

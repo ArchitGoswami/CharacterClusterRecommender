@@ -1,7 +1,16 @@
 {
   "name": "Serena",
   "show": "St. Denis Medical",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FormerlyFat",
+    "ClassPrincess",
+    "AlphaBitch",
+    "ObliviousToLove",
+    "GreenEyedMonster",
+    "LovableAlphaBitch",
+    "ItsAllAboutMe",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

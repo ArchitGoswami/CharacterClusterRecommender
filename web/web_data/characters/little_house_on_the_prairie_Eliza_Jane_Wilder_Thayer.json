@@ -1,7 +1,16 @@
 {
   "name": "Eliza Jane Wilder Thayer",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolAunt",
+    "MisplacedKindergartenTeacher",
+    "DotingParent",
+    "CompositeCharacter",
+    "EmbarrassingFirstName",
+    "AdaptedOut",
+    "OneSteveLimit",
+    "MisplacedRetribution"
+  ],
   "tropes_by_category": {}
 }

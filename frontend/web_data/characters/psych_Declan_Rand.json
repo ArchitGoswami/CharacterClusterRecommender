@@ -1,7 +1,13 @@
 {
   "name": "Declan Rand",
   "show": "Psych",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NonIdleRich",
+    "Foil",
+    "PutOnABus",
+    "TakeThat",
+    "WholePlotReference"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Elena Derevko",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheReveal",
+    "EvilMatriarch",
+    "ZombieApocalypse",
+    "GreaterScopeVillain",
+    "TheChessmaster",
+    "TheHecateSisters",
+    "BigBad",
+    "WoundedGazelleGambit",
+    "CainAndAbel",
+    "BitchInSheepsClothing",
+    "NotEvenBotheringWithTheAccent",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

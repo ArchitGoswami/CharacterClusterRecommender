@@ -1,7 +1,19 @@
 {
   "name": "Alex Mercer",
   "show": "Julie and the Phantoms",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Intangibility",
+    "DeadpanSnarker",
+    "RealMenWearPink",
+    "RedOniBlueOni",
+    "HairOfGoldHeartOfGold",
+    "NervousWreck",
+    "MeetCute",
+    "HeroicSelfDeprecation",
+    "OnlySaneMan",
+    "FourTemperamentEnsemble",
+    "TeleportersAndTransporters"
+  ],
   "tropes_by_category": {}
 }

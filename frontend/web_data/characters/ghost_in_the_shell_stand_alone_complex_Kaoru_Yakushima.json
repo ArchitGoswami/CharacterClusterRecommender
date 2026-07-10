@@ -1,7 +1,12 @@
 {
   "name": "Kaoru Yakushima",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BigBad",
+    "NonActionBigBad",
+    "VillainWithGoodPublicity",
+    "CopKiller"
+  ],
   "tropes_by_category": {}
 }

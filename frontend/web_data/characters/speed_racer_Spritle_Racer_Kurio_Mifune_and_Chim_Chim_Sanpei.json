@@ -1,7 +1,21 @@
 {
   "name": "Spritle Racer (Kurio Mifune) and Chim Chim (Sanpei)",
   "show": "Speed Racer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AmplifiedAnimalAptitude",
+    "PunkInTheTrunk",
+    "NiceGuy",
+    "FoolishSiblingResponsibleSibling",
+    "AnnoyingYoungerSibling",
+    "CrouchingMoronHiddenBadass",
+    "HongKongDub",
+    "MotorMouth",
+    "LittleStowaway",
+    "BrattyHalfPint",
+    "TimmyInAWell",
+    "SweetTooth",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Sergeant Franco",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CoolOldGuy",
+    "MrExposition",
+    "SuspiciouslySimilarSubstitute",
+    "ConflictingLoyalty"
+  ],
   "tropes_by_category": {}
 }

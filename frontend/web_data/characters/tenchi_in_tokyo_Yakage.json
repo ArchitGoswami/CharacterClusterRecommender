@@ -1,7 +1,31 @@
 {
   "name": "Yakage",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "OutOfContinues",
+    "Determinator",
+    "AffablyEvil",
+    "IncurableCoughOfDeath",
+    "CloneDegeneration",
+    "GracefulLoser",
+    "MasterSwordsman",
+    "MadScientist",
+    "AGoodWayToDie",
+    "CoolSword",
+    "FatherlyScientist",
+    "TrainingFromHell",
+    "SecretlyDying",
+    "BloodFromTheMouth",
+    "AntiVillain",
+    "TheLastDance",
+    "IAmNotLeftHanded",
+    "BenevolentBoss",
+    "DoubleWeapon",
+    "BarrierWarrior",
+    "BloodKnight",
+    "GoodScarsEvilScars",
+    "SingleStrokeBattle"
+  ],
   "tropes_by_category": {}
 }

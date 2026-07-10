@@ -1,7 +1,28 @@
 {
   "name": "Lloyd Shelley",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "AmbiguousSituation",
+    "AbusiveParents",
+    "FreudianExcuse",
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "TheShutIn",
+    "HiddenDepths",
+    "SternParentDotingParent",
+    "ItsAllAboutMe",
+    "PoorCommunicationKills",
+    "LikeFatherLikeSon",
+    "HappilyMarried",
+    "MyGodWhatHaveIDone",
+    "WouldHurtAChild",
+    "TheStoic",
+    "ParentsAsPeople",
+    "ProfanityPolice",
+    "JerkassRealization",
+    "DotingGrandparent",
+    "ParentalIssues"
+  ],
   "tropes_by_category": {}
 }

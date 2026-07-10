@@ -1,7 +1,19 @@
 {
   "name": "Ondai",
   "show": "Oban Star-Racers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BecomeARealBoy",
+    "WhatHappenedToTheMouse",
+    "BadassBookworm",
+    "BFS",
+    "InsufferableGenius",
+    "TransformingMecha",
+    "LivingLieDetector",
+    "NatureLovingRobot",
+    "HiddenDepths",
+    "ParalysisByAnalysis",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

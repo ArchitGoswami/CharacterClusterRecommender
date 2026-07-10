@@ -1,7 +1,25 @@
 {
   "name": "Principal Irving Pal",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CoolOldGuy",
+    "PuttingThePalInPrincipal",
+    "CloudCuckooLander",
+    "ObfuscatingInsanity",
+    "TenMinuteRetirement",
+    "Expy",
+    "TheGhost",
+    "RunningGag",
+    "ShellShockedVeteran",
+    "HalloweenEpisode",
+    "BatmanGambit",
+    "BunnyEarsLawyer",
+    "FakingTheDead",
+    "ObfuscatingStupidity",
+    "SecretTestOfCharacter",
+    "MeaningfulName",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

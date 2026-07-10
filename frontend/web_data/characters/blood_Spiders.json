@@ -1,7 +1,12 @@
 {
   "name": "Spiders",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "InterfaceScrew",
+    "KillItWithWater",
+    "PaletteSwap",
+    "IntoxicationMechanic"
+  ],
   "tropes_by_category": {}
 }

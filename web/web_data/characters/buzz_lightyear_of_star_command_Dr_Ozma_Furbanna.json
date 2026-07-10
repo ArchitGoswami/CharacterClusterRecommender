@@ -1,7 +1,18 @@
 {
   "name": "Dr. Ozma Furbanna",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SkewedPriorities",
+    "AnimalLover",
+    "PoweredArmor",
+    "OppositesAttract",
+    "DudeMagnet",
+    "DefrostingIceQueen",
+    "HeroicNeutral",
+    "AnimalWrongsGroup",
+    "NightmareFetishist",
+    "BetterWithNonHumanCompany"
+  ],
   "tropes_by_category": {}
 }

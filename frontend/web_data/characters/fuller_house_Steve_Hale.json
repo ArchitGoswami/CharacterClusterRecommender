@@ -1,7 +1,24 @@
 {
   "name": "Steve Hale",
   "show": "Fuller House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "GoshdangItToHeck",
+    "AccidentalMisnaming",
+    "DistaffCounterpart",
+    "NiceGuy",
+    "SatelliteLoveInterest",
+    "TheRival",
+    "BlatantLies",
+    "OhCrap",
+    "HasAType",
+    "HeterosexualLifePartners",
+    "BigEater",
+    "WackyMarriageProposal",
+    "AmicableExes",
+    "OnlySaneMan",
+    "ExpositoryHairstyleChange",
+    "HighSchoolSweethearts"
+  ],
   "tropes_by_category": {}
 }

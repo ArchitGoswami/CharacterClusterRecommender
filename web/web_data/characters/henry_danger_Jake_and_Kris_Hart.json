@@ -1,7 +1,12 @@
 {
   "name": "Jake and Kris Hart",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TooDumbToLive",
+    "BumblingDad",
+    "PushoverParents",
+    "InformedAttribute"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Yomi",
   "show": "Zombie Loan",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "UnsettlingGenderReveal",
+    "AttemptedRape"
+  ],
   "tropes_by_category": {}
 }

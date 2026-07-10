@@ -1,7 +1,17 @@
 {
   "name": "Roxxi",
   "show": "Bratz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OfficialCouple",
+    "FieryRedhead",
+    "ShipTease",
+    "PunkRock",
+    "PolarOppositeTwins",
+    "CharacterSignatureSong",
+    "LateComingOut",
+    "PerkyGoth",
+    "BlitheSpirit"
+  ],
   "tropes_by_category": {}
 }

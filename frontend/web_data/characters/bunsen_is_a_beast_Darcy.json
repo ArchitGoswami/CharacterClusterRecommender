@@ -1,7 +1,14 @@
 {
   "name": "Darcy",
   "show": "Bunsen Is a Beast",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TechnicolorEyes",
+    "HomeschooledKids",
+    "RememberTheNewGuy",
+    "NoSenseOfPersonalSpace",
+    "AmbiguouslyBrown",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

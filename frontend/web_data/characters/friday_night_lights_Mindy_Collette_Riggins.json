@@ -1,7 +1,11 @@
 {
   "name": "Mindy Collette Riggins",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AscendedExtra",
+    "FanserviceExtra",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

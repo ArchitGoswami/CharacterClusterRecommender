@@ -1,7 +1,24 @@
 {
   "name": "Mr. Lucas",
   "show": "Are You Being Served?",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "CasanovaWannabe",
+    "DeadpanSnarker",
+    "TheReveal",
+    "DramaticPause",
+    "SnarkToSnarkCombat",
+    "HilarityEnsues",
+    "YouHaveFailedMe",
+    "OopNorth",
+    "SensitiveGuyAndManlyMan",
+    "EmbarrassingFirstName",
+    "PlayingSick",
+    "EarlyInstallmentWeirdness",
+    "LampshadeHanging",
+    "FirstNameBasis",
+    "ThePrankster",
+    "HurricaneOfExcuses"
+  ],
   "tropes_by_category": {}
 }

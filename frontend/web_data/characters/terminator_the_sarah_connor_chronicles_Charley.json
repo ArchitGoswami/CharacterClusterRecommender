@@ -1,7 +1,14 @@
 {
   "name": "Charley",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HollywoodAtheist",
+    "HeroicSacrifice",
+    "HeroicBSOD",
+    "CombatMedic",
+    "TheHeart",
+    "BrickJoke"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Max Miller",
   "show": "Greenhouse Academy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OppositesAttract",
+    "GoodSamaritan",
+    "HardWorkHardlyWorks",
+    "CowardlyLion",
+    "EndearinglyDorky",
+    "TechnoBabble",
+    "ThinkNothingOfIt",
+    "TheMovieBuff"
+  ],
   "tropes_by_category": {}
 }

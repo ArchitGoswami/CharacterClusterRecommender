@@ -1,7 +1,20 @@
 {
   "name": "Darius",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HeelFaceTurn",
+    "KilledOffscreen",
+    "TheAtoner",
+    "BeenThereShapedHistory",
+    "ExpandedUniverse",
+    "HeroKiller",
+    "EvilMentor",
+    "BadassPreacher",
+    "ActualPacifist",
+    "RealLifeWritesThePlot",
+    "TheOlderImmortal",
+    "RetiredBadass"
+  ],
   "tropes_by_category": {}
 }

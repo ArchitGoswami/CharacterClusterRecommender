@@ -1,7 +1,24 @@
 {
   "name": "Bob, Dawn and Rex",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "WomenAreWiser",
+    "ChuckCunninghamSyndrome",
+    "MissConception",
+    "InconsistentColoring",
+    "LaserGuidedKarma",
+    "IHaveThisFriend",
+    "ArtisticLicensePaleontology",
+    "Whateversaurus",
+    "ReversePsychology",
+    "BumblingDad",
+    "CannotTellALie",
+    "MeaningfulName",
+    "StrongFamilyResemblance",
+    "CultDefector",
+    "DumbDinos",
+    "TheArtifact"
+  ],
   "tropes_by_category": {}
 }

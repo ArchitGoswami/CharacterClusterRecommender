@@ -1,7 +1,25 @@
 {
   "name": "Bowlboy",
   "show": "The Cuphead Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "SitcomArchNemesis",
+    "ThrillSeeker",
+    "Beat",
+    "ADayInTheLimelight",
+    "Leitmotif",
+    "BewareTheSillyOnes",
+    "CanonForeigner",
+    "RecurringExtra",
+    "Pun",
+    "BrickJoke",
+    "NonStandardCharacterDesign",
+    "AxCrazy",
+    "UnexplainedRecovery",
+    "NightmareFace",
+    "IJustWantToBeYou",
+    "OutOfFocus",
+    "Cephalothorax"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Miranda Sanchez",
   "show": "Lizzie McGuire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "AlphaBitch",
+    "TheSpock",
+    "TheKirk",
+    "PlatonicLifePartners",
+    "StrawLoser",
+    "BadBadActing",
+    "DeadpanSnarker",
+    "JerkassBall",
+    "AesopAmnesia",
+    "TokenMinority",
+    "GirlPosse",
+    "TheLancer",
+    "LoveMakesYouDumb",
+    "PutOnABus",
+    "TomboyAndGirlyGirl",
+    "NaiveEverygirl",
+    "TheMcCoy",
+    "TownGirls",
+    "HeterosexualLifePartners",
+    "TheReasonYouSuck",
+    "NiceGirl",
+    "RelationshipUpgrade",
+    "SingleGirlSeeksMostPopularGuy"
+  ],
   "tropes_by_category": {}
 }

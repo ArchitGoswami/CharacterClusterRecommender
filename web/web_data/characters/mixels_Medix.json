@@ -1,7 +1,19 @@
 {
   "name": "Medix",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheMedic",
+    "EmergencyServices",
+    "TheLeader",
+    "MagicalDefibrillator",
+    "PunnyName",
+    "IronicFear",
+    "DressedToHeal",
+    "WhyDidItHaveToBeSnakes",
+    "ColorCodedForYourConvenience",
+    "DepravedDentist",
+    "Cyclops"
+  ],
   "tropes_by_category": {}
 }

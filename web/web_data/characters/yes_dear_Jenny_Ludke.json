@@ -1,7 +1,9 @@
 {
   "name": "Jenny Ludke",
   "show": "Yes, Dear",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "VolleyingInsults"
+  ],
   "tropes_by_category": {}
 }

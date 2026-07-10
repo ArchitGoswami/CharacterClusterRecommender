@@ -1,7 +1,19 @@
 {
   "name": "Lady Emily Merchant",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BoundAndGagged",
+    "ActionGirl",
+    "TheSixthRanger",
+    "SpringHeeledJack",
+    "BeenThereShapedHistory",
+    "FantasticRomance",
+    "BadFuture",
+    "DamselInDistress",
+    "AwfulWeddedLife",
+    "WeUsedToBeFriends",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

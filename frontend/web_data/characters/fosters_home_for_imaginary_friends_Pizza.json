@@ -1,7 +1,18 @@
 {
   "name": "Pizza",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FamilyUnfriendlyDeath",
+    "WeHardlyKnewYe",
+    "EatenAlive",
+    "TokenHeroicOrc",
+    "TheCutie",
+    "KillTheCutie",
+    "AlwaysChaoticEvil",
+    "AnthropomorphicFood",
+    "TeensAreMonsters",
+    "BigBrotherBully"
+  ],
   "tropes_by_category": {}
 }

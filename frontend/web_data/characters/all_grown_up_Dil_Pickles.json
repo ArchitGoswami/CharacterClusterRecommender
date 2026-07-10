@@ -1,7 +1,28 @@
 {
   "name": "Dil Pickles",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "CallBack",
+    "BerserkButton",
+    "TheReasonYouSuckSpeech",
+    "ChasteHero",
+    "PunnyName",
+    "TagalongKid",
+    "SpeaksFluentAnimal",
+    "MustHaveLotsOfFreeTime",
+    "TheSmartGuy",
+    "CloudCuckooLander",
+    "AnnoyingYoungerSibling",
+    "ChildhoodBrainDamage",
+    "AllOfTheOtherReindeer",
+    "StepfordSmiler",
+    "IntergenerationalFriendship",
+    "GadgeteerGenius",
+    "TheCuckooLanderWasRight",
+    "WhyCouldntYouBeDifferent",
+    "FirstContact",
+    "HeterosexualLifePartners"
+  ],
   "tropes_by_category": {}
 }

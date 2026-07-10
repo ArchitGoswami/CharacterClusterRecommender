@@ -1,7 +1,12 @@
 {
   "name": "Harada",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DownplayedTrope",
+    "OnlyOneName",
+    "YouDontLookLikeYou",
+    "AdaptationalEarlyAppearance"
+  ],
   "tropes_by_category": {}
 }

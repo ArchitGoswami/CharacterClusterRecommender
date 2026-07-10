@@ -1,7 +1,21 @@
 {
   "name": "Wallace Mahoney",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MakeItLookLikeAnAccident",
+    "DarkSecret",
+    "LukeIAmYourFather",
+    "BaitTheDog",
+    "SubvertedTrope",
+    "DisappearedDad",
+    "Jerkass",
+    "KarmaHoudini",
+    "AssholeVictim",
+    "WouldHurtAChild",
+    "BoomHeadshot",
+    "PoliticallyIncorrectVillain",
+    "OffingTheOffspring"
+  ],
   "tropes_by_category": {}
 }

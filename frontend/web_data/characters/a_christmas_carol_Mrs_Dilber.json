@@ -1,7 +1,16 @@
 {
   "name": "Mrs. Dilber",
   "show": "A Christmas Carol",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AdaptationalVillainy",
+    "VillainSong",
+    "ServileSnarker",
+    "CompositeCharacter",
+    "BadFuture",
+    "DemotedToExtra",
+    "NoSympathy",
+    "TheHelpHelpingThemselves"
+  ],
   "tropes_by_category": {}
 }

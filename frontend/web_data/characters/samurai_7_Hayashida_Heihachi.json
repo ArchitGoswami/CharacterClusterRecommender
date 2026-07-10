@@ -1,7 +1,28 @@
 {
   "name": "Hayashida Heihachi",
   "show": "Samurai 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "CallBack",
+    "AdaptationalAttractiveness",
+    "NiceGuy",
+    "BerserkButton",
+    "ExpressiveAccessory",
+    "TeruTeruBozu",
+    "EarlyBirdCameo",
+    "HeroicSacrifice",
+    "DeathGlare",
+    "AdaptationalAngstUpgrade",
+    "TranquilFury",
+    "DyingMomentOfAwesome",
+    "TheAtoner",
+    "StepfordSmiler",
+    "BambooTechnology",
+    "RedemptionEqualsDeath",
+    "RegretfulTraitor",
+    "GadgeteerGenius",
+    "DiesDifferentlyInAdaptation",
+    "AfraidOfBlood"
+  ],
   "tropes_by_category": {}
 }

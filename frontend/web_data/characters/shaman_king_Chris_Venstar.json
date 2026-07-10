@@ -1,7 +1,14 @@
 {
   "name": "Chris Venstar",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheBigGuy",
+    "PetTheDog",
+    "HandicappedBadass",
+    "SenselessSacrifice",
+    "UndyingLoyalty",
+    "PsychoSupporter"
+  ],
   "tropes_by_category": {}
 }

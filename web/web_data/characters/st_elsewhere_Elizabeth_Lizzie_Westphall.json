@@ -1,7 +1,11 @@
 {
   "name": "Elizabeth \"Lizzie\" Westphall",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BrattyTeenageDaughter",
+    "TheCaretaker",
+    "DeadGuyJunior"
+  ],
   "tropes_by_category": {}
 }

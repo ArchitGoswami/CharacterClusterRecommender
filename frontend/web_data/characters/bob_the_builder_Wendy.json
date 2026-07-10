@@ -1,7 +1,19 @@
 {
   "name": "Wendy",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Catchphrase",
+    "TeamMom",
+    "CostumeEvolution",
+    "TomboyAndGirlyGirl",
+    "HairOfGoldHeartOfGold",
+    "TomboyWithAGirlyStreak",
+    "MrFixIt",
+    "ImageSong",
+    "ImpliedLoveInterest",
+    "TomboyishPonytail",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

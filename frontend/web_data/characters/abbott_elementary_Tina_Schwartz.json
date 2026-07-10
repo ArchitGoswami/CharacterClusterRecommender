@@ -1,7 +1,14 @@
 {
   "name": "Tina Schwartz",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "TheBusCameBack",
+    "KarmaHoudini",
+    "ShipTease",
+    "PutOnABus",
+    "WouldHurtAChild"
+  ],
   "tropes_by_category": {}
 }

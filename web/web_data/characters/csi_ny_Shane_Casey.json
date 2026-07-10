@@ -1,7 +1,19 @@
 {
   "name": "Shane Casey",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "IRejectYourReality",
+    "YouHaveOutlivedYourUsefulness",
+    "CopKiller",
+    "DisneyVillainDeath",
+    "FrameUp",
+    "ArchEnemy",
+    "ImpersonatingAnOfficer",
+    "NeverMyFault",
+    "CallingCard",
+    "WouldHurtAChild",
+    "DenyingTheDeadParentsSins"
+  ],
   "tropes_by_category": {}
 }

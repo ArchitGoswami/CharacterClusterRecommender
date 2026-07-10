@@ -1,7 +1,10 @@
 {
   "name": "Eleanor Rachel \"Nellie\" Buller",
   "show": "Friday Night Dinner",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AwfulWeddedLife",
+    "InnocentlyInsensitive"
+  ],
   "tropes_by_category": {}
 }

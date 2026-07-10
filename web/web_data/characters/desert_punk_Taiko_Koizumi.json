@@ -1,7 +1,27 @@
 {
   "name": "Taiko Koizumi",
   "show": "Desert Punk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "SmallGirlBigGun",
+    "AntiHero",
+    "CorruptTheCutie",
+    "IJustWantToBeBadass",
+    "BadassAdorable",
+    "CloserToEarth",
+    "BlushSticker",
+    "TookaLevelInBadass",
+    "IJustWantToBeBeautiful",
+    "ACupAngst",
+    "TrainingFromHell",
+    "GenerationXerox",
+    "TheSocialDarwinist",
+    "TeenGenius",
+    "HeroWorshipper",
+    "BrattyHalfPint",
+    "PluckyGirl",
+    "BreakoutCharacter",
+    "GirlFriday"
+  ],
   "tropes_by_category": {}
 }

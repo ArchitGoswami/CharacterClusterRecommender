@@ -1,7 +1,17 @@
 {
   "name": "Capri",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "IdenticalTwinIDTag",
+    "NeverMyFault",
+    "BigFun",
+    "ManChild",
+    "CrouchingMoronHiddenBadass",
+    "TookALevelInBadass",
+    "NoSell",
+    "InelegantBlubbering",
+    "TwinSwitch"
+  ],
   "tropes_by_category": {}
 }

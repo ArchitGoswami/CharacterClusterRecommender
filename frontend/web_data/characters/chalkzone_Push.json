@@ -1,7 +1,11 @@
 {
   "name": "Push",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheUnintelligible",
+    "CollectorOfTheStrange",
+    "SignatureMove"
+  ],
   "tropes_by_category": {}
 }

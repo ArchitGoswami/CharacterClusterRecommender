@@ -1,7 +1,9 @@
 {
   "name": "Carlton",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "WhyDidItHaveToBeSnakes"
+  ],
   "tropes_by_category": {}
 }

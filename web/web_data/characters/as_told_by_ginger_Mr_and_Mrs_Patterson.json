@@ -1,7 +1,16 @@
 {
   "name": "Mr. and Mrs. Patterson",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "LovableJock",
+    "AdultsAreUseless",
+    "HappilyMarried",
+    "TopHeavyGuy",
+    "JockDadNerdSon",
+    "OpenMindedParent",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

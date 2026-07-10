@@ -1,7 +1,18 @@
 {
   "name": "The Gruesome Twosome (Drivers of the Creepy Coupe)",
   "show": "Wacky Races",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "DarkIsNotEvil",
+    "LorreLookalike",
+    "WickedWitch",
+    "EyesOutOfSight",
+    "BiggerOnTheInside",
+    "KarloffKopy",
+    "FrankensteinsMonster",
+    "CaptainErsatz",
+    "MonsterMash"
+  ],
   "tropes_by_category": {}
 }

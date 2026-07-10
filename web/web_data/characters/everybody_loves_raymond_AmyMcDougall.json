@@ -1,7 +1,26 @@
 {
   "name": "AmyMcDougall",
   "show": "Everybody Loves Raymond",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "Cloudcuckooland",
+    "HairOfGoldHeartofGold",
+    "SubvertedTrope",
+    "Jerkass",
+    "SixthRanger",
+    "FriendToAllChildren",
+    "BetaCouple",
+    "NiceGirl",
+    "SecondLove",
+    "BewareTheNiceOnes",
+    "TheCutie",
+    "BreakTheCutie",
+    "OnlySaneMan",
+    "TheIngenue",
+    "CharacterizationMarchesOn",
+    "AscendedExtra",
+    "IncorruptiblePurePureness",
+    "NotSoDifferentRemark"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Almanzo Wilder",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AmazonChaser",
+    "ThoseTwoGuys",
+    "CoolHorse",
+    "DoggedNiceGuy",
+    "Deuteragonist",
+    "NiceGuy",
+    "TookALevelInBadass",
+    "EmbarrassingFirstName",
+    "InSeriesNickname",
+    "BigEater",
+    "AgeGapRomance",
+    "VagueAge",
+    "TheDeterminator"
+  ],
   "tropes_by_category": {}
 }

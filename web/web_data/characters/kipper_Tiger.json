@@ -1,7 +1,14 @@
 {
   "name": "Tiger",
   "show": "Kipper",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SodaCanShakeup",
+    "JerkWithAHeartOfGold",
+    "AnnoyingPatient",
+    "ADogNamedCat",
+    "WhyDidItHaveToBeSnakes",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

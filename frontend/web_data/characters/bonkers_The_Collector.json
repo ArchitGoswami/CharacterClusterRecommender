@@ -1,7 +1,28 @@
 {
   "name": "The Collector",
   "show": "Bonkers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "SlasherSmile",
+    "MadnessMantra",
+    "HoistByHisOwnPetard",
+    "RedEyesTakeWarning",
+    "DraggedOffToHell",
+    "NerdInEvilsHelmet",
+    "HairRaisingHare",
+    "KnightOfCerebus",
+    "VillainousBreakdown",
+    "AndIMustScream",
+    "VileVillainSaccharineShow",
+    "IdentityBreakdown",
+    "Expy",
+    "FreakOut",
+    "LoonyFan",
+    "Chuunibyou",
+    "BiggerOnTheInside",
+    "BeCarefulWhatYouWishFor",
+    "SanitySlippage",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

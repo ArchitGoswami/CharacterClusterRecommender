@@ -1,7 +1,10 @@
 {
   "name": "Ros Utterthwaite",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ThoseTwoGuys",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

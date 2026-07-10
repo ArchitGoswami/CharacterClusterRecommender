@@ -1,7 +1,13 @@
 {
   "name": "Waru",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Intangibility",
+    "VillainHasAPoint",
+    "VoluntaryShapeshifting",
+    "YouHaveFailedMe",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

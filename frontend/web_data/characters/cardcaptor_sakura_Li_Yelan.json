@@ -1,7 +1,28 @@
 {
   "name": "Li Yelan",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "BigFancyHouse",
+    "DefrostingIceQueen",
+    "RavenHairIvorySkin",
+    "EducationMama",
+    "AloofDarkHairedGirl",
+    "TheMourningAfter",
+    "AlmightyMom",
+    "IceQueen",
+    "MinorLivingAlone",
+    "TheBeautifulElite",
+    "Seers",
+    "EeriePaleSkinnedBrunette",
+    "Mukokuseki",
+    "TheStoic",
+    "ParentsAsPeople",
+    "OlderThanSheLooks",
+    "MumLooksLikeASister",
+    "Ojou",
+    "SugarBowl",
+    "RichBitch"
+  ],
   "tropes_by_category": {}
 }

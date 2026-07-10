@@ -1,7 +1,16 @@
 {
   "name": "Apidium",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "LeParkour",
+    "AnachronisticAnimal",
+    "StockSoundEffects",
+    "HazardousWater",
+    "NonIndicativeName",
+    "SloMo",
+    "NoNameGiven",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

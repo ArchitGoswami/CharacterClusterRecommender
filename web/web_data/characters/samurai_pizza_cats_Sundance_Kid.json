@@ -1,7 +1,18 @@
 {
   "name": "Sundance Kid",
   "show": "Samurai Pizza Cats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "GratuitousEnglish",
+    "BlastingItOutOfTheirHands",
+    "JerkWithAHeartOfGold",
+    "ShoutOut",
+    "AmericansAreCowboys",
+    "FinishingMove",
+    "TheRival",
+    "FamilyFriendlyFirearms",
+    "NamedAfterSomebodyFamous",
+    "TheGunslinger"
+  ],
   "tropes_by_category": {}
 }

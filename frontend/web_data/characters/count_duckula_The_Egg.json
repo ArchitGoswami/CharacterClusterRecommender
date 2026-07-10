@@ -1,7 +1,12 @@
 {
   "name": "The Egg",
   "show": "Count Duckula",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NeverGrewUp",
+    "NotGrowingUpSucks",
+    "DarkLordOnLifeSupport",
+    "EvilGenius"
+  ],
   "tropes_by_category": {}
 }

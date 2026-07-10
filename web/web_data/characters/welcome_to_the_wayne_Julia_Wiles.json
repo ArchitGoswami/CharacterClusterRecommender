@@ -1,7 +1,13 @@
 {
   "name": "Julia Wiles",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TwitchyEye",
+    "FluffyTamer",
+    "MarkOfTheSupernatural",
+    "HiddenDepths",
+    "GoMadFromTheRevelation"
+  ],
   "tropes_by_category": {}
 }

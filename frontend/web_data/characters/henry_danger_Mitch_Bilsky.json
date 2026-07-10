@@ -1,7 +1,19 @@
 {
   "name": "Mitch Bilsky",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "Expy",
+    "Jerkass",
+    "AmbiguousSituation",
+    "KickTheDog",
+    "WouldHurtAChild",
+    "TheHero",
+    "EvenEvilHasStandards",
+    "DumbassHasAPoint",
+    "JerkassHasAPoint",
+    "InnocentlyInsensitive"
+  ],
   "tropes_by_category": {}
 }

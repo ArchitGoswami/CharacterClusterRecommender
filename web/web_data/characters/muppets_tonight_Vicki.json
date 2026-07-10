@@ -1,7 +1,10 @@
 {
   "name": "Vicki",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "InnocentlyInsensitive",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

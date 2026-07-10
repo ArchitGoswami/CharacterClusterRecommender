@@ -1,7 +1,10 @@
 {
   "name": "Damon Young",
   "show": "Make It or Break It",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "LoveTriangle",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

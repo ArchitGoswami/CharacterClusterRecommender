@@ -1,7 +1,17 @@
 {
   "name": "Maurice Lalonde",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BigFun",
+    "DownplayedTrope",
+    "NiceGuy",
+    "SupremeChef",
+    "OOCIsSeriousBusiness",
+    "TheFriendNobodyLikes",
+    "HiddenDepths",
+    "AvertedTrope",
+    "FrenchJerk"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Phat Allen and his Junkyard Pals",
   "show": "Drawn Together",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "SuspiciouslySpecificDenial",
+    "LawyerFriendlyCameo",
+    "TakeThat",
+    "TheScapegoat",
+    "NotAMask",
+    "CaptainErsatz",
+    "LyricalDissonance"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Chuck Cunningham",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "StillSucksThumb",
+    "ChuckCunninghamSyndrome",
+    "TropeNamers",
+    "LovableJock",
+    "TheDitz",
+    "AloofOlderBrother",
+    "DumbJock",
+    "BigEater",
+    "AlliterativeName",
+    "TitleDrop",
+    "Unperson",
+    "BookDumb"
+  ],
   "tropes_by_category": {}
 }

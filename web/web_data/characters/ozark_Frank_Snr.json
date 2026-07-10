@@ -1,7 +1,10 @@
 {
   "name": "Frank Snr.",
   "show": "Ozark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BlownAcrossTheRoom",
+    "KilledMidSentence"
+  ],
   "tropes_by_category": {}
 }

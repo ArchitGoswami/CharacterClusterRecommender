@@ -1,7 +1,13 @@
 {
   "name": "Casey Klein",
   "show": "Party Down",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OnlySaneEmployee",
+    "InformedJudaism",
+    "WantingIsBetterThanHaving",
+    "FourTemperamentEnsemble",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

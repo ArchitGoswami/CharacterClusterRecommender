@@ -1,7 +1,11 @@
 {
   "name": "Bay City High School",
   "show": "Mech X4",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "OutOfFocus",
+    "NewMediaAreEvil",
+    "PunnyName"
+  ],
   "tropes_by_category": {}
 }

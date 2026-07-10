@@ -1,7 +1,21 @@
 {
   "name": "Leroux",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CoolSword",
+    "BigBad",
+    "ImpaledWithExtremePrejudice",
+    "ManipulativeBastard",
+    "HeroKiller",
+    "DeadPersonImpersonation",
+    "HiddenDepths",
+    "ColdBloodedTorture",
+    "DuelToTheDeath",
+    "BadBoss",
+    "PraetorianGuard",
+    "WouldHurtAChild",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

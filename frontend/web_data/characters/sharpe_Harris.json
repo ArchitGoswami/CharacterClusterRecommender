@@ -1,7 +1,29 @@
 {
   "name": "Harris",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "IAmVeryBritish",
+    "TheSquad",
+    "BadassBookworm",
+    "CanonForeigner",
+    "NoFullNameGiven",
+    "RefugeInAudacity",
+    "TheSmartGuy",
+    "BackForTheFinale",
+    "BackForTheDead",
+    "DeliveryGuy",
+    "FieryRedhead",
+    "FrameUp",
+    "WordOfGod",
+    "ImpaledWithExtremePrejudice",
+    "BrilliantButLazy",
+    "CanonImmigrant",
+    "RankUp",
+    "CulturedBadass",
+    "DeathByAdaptation",
+    "WarriorPoet",
+    "SmartPeopleWearGlasses"
+  ],
   "tropes_by_category": {}
 }

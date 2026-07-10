@@ -1,7 +1,18 @@
 {
   "name": "The Moopets",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "PsychoRangers",
+    "SinisterSwine",
+    "Jerkass",
+    "ThemeNaming",
+    "TokenHuman",
+    "DarkerAndEdgier",
+    "Badbutt",
+    "EvilCounterpart",
+    "BearsAreBadNews",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

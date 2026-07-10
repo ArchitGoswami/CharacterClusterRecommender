@@ -1,7 +1,15 @@
 {
   "name": "Father Westley",
   "show": "Psych",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CastingGag",
+    "PreacherMan",
+    "AsTheGoodBookSays",
+    "BadassPreacher",
+    "FriendlyEnemy",
+    "ConfessInConfidence",
+    "HollywoodExorcism"
+  ],
   "tropes_by_category": {}
 }

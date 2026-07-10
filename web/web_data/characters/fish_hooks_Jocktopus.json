@@ -1,7 +1,25 @@
 {
   "name": "Jocktopus",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "OfficialCouple",
+    "OddFriendship",
+    "JerkWithAHeartOfGold",
+    "WouldHitAGirl",
+    "ADayInTheLimelight",
+    "BirthdayEpisode",
+    "TheBully",
+    "WithFriendsLikeThese",
+    "PunnyName",
+    "NonStandardCharacterDesign",
+    "DumbJock",
+    "HiddenDepths",
+    "VitriolicBestBuds",
+    "Gonk",
+    "JerkJock",
+    "LargeHam",
+    "ThirdPersonPerson"
+  ],
   "tropes_by_category": {}
 }

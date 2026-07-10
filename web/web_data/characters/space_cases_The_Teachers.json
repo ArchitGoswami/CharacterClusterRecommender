@@ -1,7 +1,26 @@
 {
   "name": "The Teachers",
   "show": "Space Cases",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "StiffUpperLip",
+    "CatchPhrase",
+    "MyBelovedSmother",
+    "TeamMom",
+    "GenderBlenderName",
+    "Fainting",
+    "CrouchingMoronHiddenBadass",
+    "WordOfGod",
+    "YoungerAndHipper",
+    "ReasonableAuthorityFigure",
+    "FiringDay",
+    "BelligerentSexualTension",
+    "NoodleIncident",
+    "DemotedToExtra",
+    "TeamDad",
+    "MetaphorIsMyMiddleName",
+    "ButtMonkey",
+    "ReassignedToAntarctica"
+  ],
   "tropes_by_category": {}
 }

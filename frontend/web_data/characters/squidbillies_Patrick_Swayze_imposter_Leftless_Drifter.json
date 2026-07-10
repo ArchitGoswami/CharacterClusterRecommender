@@ -1,7 +1,12 @@
 {
   "name": "Patrick Swayze imposter/Leftless Drifter",
   "show": "Squidbillies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "OutOfFocus",
+    "NoCelebritiesWereHarmed",
+    "RecurringExtra",
+    "ADayInTheLimelight"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Doedicurus",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BookEnds",
+    "AdaptationalExpansion",
+    "StockSoundEffect",
+    "CompeteForTheMaidensHand",
+    "MightyGlacier",
+    "SuspiciouslySimilarSubstitute",
+    "BewareMyStingerTail",
+    "ArmourIsUseless",
+    "EpicFlail",
+    "NighInvulnerable",
+    "RuleOfCool"
+  ],
   "tropes_by_category": {}
 }

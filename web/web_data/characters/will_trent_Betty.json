@@ -1,7 +1,10 @@
 {
   "name": "Betty",
   "show": "Will Trent",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CanineCompanion",
+    "NamedAfterSomebodyFamous"
+  ],
   "tropes_by_category": {}
 }

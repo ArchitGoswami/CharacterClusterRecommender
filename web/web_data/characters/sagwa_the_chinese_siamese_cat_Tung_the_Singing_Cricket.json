@@ -1,7 +1,9 @@
 {
   "name": "Tung the Singing Cricket",
   "show": "Sagwa, the Chinese Siamese Cat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "SingingVoiceDissonance"
+  ],
   "tropes_by_category": {}
 }

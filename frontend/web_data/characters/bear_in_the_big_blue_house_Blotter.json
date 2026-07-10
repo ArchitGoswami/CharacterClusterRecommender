@@ -1,7 +1,13 @@
 {
   "name": "Blotter",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BabyTalk",
+    "AmazingTechnicolorWildlife",
+    "ProneToTears",
+    "AccessoryWearingCartoonAnimal",
+    "Sleepyhead"
+  ],
   "tropes_by_category": {}
 }

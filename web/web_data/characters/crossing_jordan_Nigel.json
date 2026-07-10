@@ -1,7 +1,17 @@
 {
   "name": "Nigel",
   "show": "Crossing Jordan",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OmnidisciplinaryScientist",
+    "DeadpanSnarker",
+    "TheSmartGuy",
+    "EnhanceButton",
+    "BelligerentSexualTension",
+    "AmbiguouslyGay",
+    "PerkyGoth",
+    "AscendedExtra",
+    "TheLabRat"
+  ],
   "tropes_by_category": {}
 }

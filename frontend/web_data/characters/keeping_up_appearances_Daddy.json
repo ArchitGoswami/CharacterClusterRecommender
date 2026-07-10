@@ -1,7 +1,17 @@
 {
   "name": "Daddy",
   "show": "Keeping Up Appearances",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LovableSexManiac",
+    "EveryoneCallsHimBarkeep",
+    "DadTheVeteran",
+    "TheAlcoholic",
+    "Determinator",
+    "MoralityPet",
+    "GroinAttack",
+    "CloudCuckoolander",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

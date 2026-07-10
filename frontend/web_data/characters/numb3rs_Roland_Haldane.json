@@ -1,7 +1,13 @@
 {
   "name": "Roland Haldane",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "KilledOffForReal",
+    "SerialRapist",
+    "SerialKiller",
+    "ColdBloodedTorture"
+  ],
   "tropes_by_category": {}
 }

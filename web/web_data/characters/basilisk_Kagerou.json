@@ -1,7 +1,30 @@
 {
   "name": "Kagerou",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "BrokenBird",
+    "KissOfDeath",
+    "PoisonousPerson",
+    "GoOutWithASmile",
+    "MurderTheHypotenuse",
+    "MeaningfulName",
+    "Yandere",
+    "RapeLeadsToInsanity",
+    "AdaptationalJerkass",
+    "FemmeFatale",
+    "OutWithABang",
+    "BreakTheCutie",
+    "ClingyJealousGirl",
+    "IfICantHaveYou",
+    "BlessedWithSuck",
+    "BodyguardCrush",
+    "SwordCane",
+    "RapeAsDrama",
+    "KissingCousins",
+    "TogetherInDeath",
+    "Angst",
+    "WorthIt"
+  ],
   "tropes_by_category": {}
 }

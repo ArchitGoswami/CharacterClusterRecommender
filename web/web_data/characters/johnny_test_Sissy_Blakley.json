@@ -1,7 +1,17 @@
 {
   "name": "Sissy Blakley",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LightningFireJuxtaposition",
+    "CastingGag",
+    "ChuckCunninghamSyndrome",
+    "DistaffCounterpart",
+    "Expy",
+    "ShipTease",
+    "Tsundere",
+    "TomboyWithAGirlyStreak",
+    "BelligerentSexualTension"
+  ],
   "tropes_by_category": {}
 }

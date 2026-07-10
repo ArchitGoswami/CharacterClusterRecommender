@@ -1,7 +1,15 @@
 {
   "name": "Izzie Taylor",
   "show": "Atypical",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "OfficialCouple",
+    "IJustWantToBeNormal",
+    "FakeGuestStar",
+    "JustFriends",
+    "StepfordSmiler",
+    "LovableAlphaBitch",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Ketta",
   "show": "Breadwinners",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ActionGirl",
+    "WrenchWench",
+    "TheSmartGuy",
+    "MasculineGirlFeminineBoy",
+    "UnwantedAssistance",
+    "SmellyFeetGag",
+    "OnlySaneMan",
+    "RollerbladeGood"
+  ],
   "tropes_by_category": {}
 }

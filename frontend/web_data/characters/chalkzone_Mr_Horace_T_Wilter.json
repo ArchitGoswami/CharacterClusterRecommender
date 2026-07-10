@@ -1,7 +1,25 @@
 {
   "name": "Mr. Horace T. Wilter",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "GoKartingWithBowser",
+    "Jerkass",
+    "GagNose",
+    "EvilTeacher",
+    "ManChild",
+    "PetTheDog",
+    "BerserkButton",
+    "SternTeacher",
+    "TwoTeacherSchool",
+    "OOCIsSeriousBusiness",
+    "SoProudOfYou",
+    "WhatCouldHaveBeen",
+    "FantasticRacism",
+    "ButtMonkey",
+    "TheEeyore",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

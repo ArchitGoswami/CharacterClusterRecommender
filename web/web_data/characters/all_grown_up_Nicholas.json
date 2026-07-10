@@ -1,7 +1,9 @@
 {
   "name": "Nicholas",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheDitz"
+  ],
   "tropes_by_category": {}
 }

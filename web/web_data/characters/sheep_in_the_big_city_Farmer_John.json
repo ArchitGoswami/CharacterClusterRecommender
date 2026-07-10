@@ -1,7 +1,18 @@
 {
   "name": "Farmer John",
   "show": "Sheep in the Big City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MyBelovedSmother",
+    "GagNose",
+    "NiceGuy",
+    "Retcon",
+    "TheDitz",
+    "BerserkButton",
+    "WhoNamesTheirKidDude",
+    "HisNameReallyIsBarkeep",
+    "PapaWolf",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

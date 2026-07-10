@@ -1,7 +1,16 @@
 {
   "name": "Sniz and Fondue",
   "show": "Kablam!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Catchphrase",
+    "RidiculouslyCuteCritter",
+    "StraightMan",
+    "PrettyButterflies",
+    "InformedSpecies",
+    "ContinuityNod",
+    "SpikyHair",
+    "LastNameBasis"
+  ],
   "tropes_by_category": {}
 }

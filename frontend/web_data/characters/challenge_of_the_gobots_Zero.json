@@ -1,7 +1,14 @@
 {
   "name": "Zero",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AffablyEvil",
+    "TheResenter",
+    "WhatHappenedToTheMouse",
+    "PlayedWith",
+    "EvilerThanThou",
+    "TheStarscream"
+  ],
   "tropes_by_category": {}
 }

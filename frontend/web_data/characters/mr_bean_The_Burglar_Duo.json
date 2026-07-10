@@ -1,7 +1,20 @@
 {
   "name": "The Burglar Duo",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AnnoyingLaugh",
+    "BigBadDuumvirate",
+    "BigGuyLittleGuy",
+    "ScarsAreForever",
+    "SeriesContinuityError",
+    "EarlyInstallmentCharacterDesignDifference",
+    "KarmaHoudini",
+    "WhatHappenedToTheMouse",
+    "PutOnABus",
+    "PermaStubble",
+    "NoNameGiven",
+    "SchoolyardBullyAllGrownUp"
+  ],
   "tropes_by_category": {}
 }

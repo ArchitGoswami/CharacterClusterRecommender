@@ -1,7 +1,20 @@
 {
   "name": "Mary Drake",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BigBadDuumvirate",
+    "TheReveal",
+    "AmbiguouslyEvil",
+    "BedTrick",
+    "EvenEvilHasStandards",
+    "BigBadEnsemble",
+    "AntiVillain",
+    "CainAndAbel",
+    "CoDragons",
+    "WalkingSpoiler",
+    "EvilTwin",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Sally Botsford",
   "show": "WordGirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ParentalObliviousness",
+    "SavvyGuyEnergeticGirl",
+    "CrouchingMoronHiddenBadass",
+    "HappilyMarried",
+    "GeniusDitz",
+    "MuggleFosterParents",
+    "AmbiguouslyBrown",
+    "CuteButCacophonic",
+    "LetsGetDangerous"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Joan Malone",
   "show": "Kickin'it",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PoliceAreUseless",
+    "HeroesLoveDogs",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

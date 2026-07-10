@@ -1,7 +1,22 @@
 {
   "name": "Corporal Caponi",
   "show": "'Allo 'Allo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ItaliansTalkWithHands",
+    "PutOnABus",
+    "SatelliteCharacter",
+    "ArmedFarces",
+    "DirtyCoward",
+    "KilledOffForReal",
+    "PhraseCatcher",
+    "TimeSkip",
+    "NoFullNameGiven",
+    "SuspiciouslyIdleOfficers",
+    "DressingAsTheEnemy",
+    "LastNameBasis",
+    "TheGhost",
+    "TranslationConvention"
+  ],
   "tropes_by_category": {}
 }

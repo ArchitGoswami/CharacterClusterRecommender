@@ -1,7 +1,25 @@
 {
   "name": "The Rovers Return Inn",
   "show": "Coronation Street",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CoolOldGuy",
+    "TheBusCameBack",
+    "BrokenBird",
+    "IWantMyBelovedToBeHappy",
+    "GoodBadGirl",
+    "OnceDoneNeverForgotten",
+    "Jerkass",
+    "BrattyTeenageDaughter",
+    "HighClassCallGirl",
+    "MamaBear",
+    "TookALevelInKindness",
+    "SympathyForTheDevil",
+    "ParentalAbandonment",
+    "TomboyAndGirlyGirl",
+    "AmicableExes",
+    "PapaWolf",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

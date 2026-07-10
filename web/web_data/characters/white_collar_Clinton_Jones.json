@@ -1,7 +1,15 @@
 {
   "name": "Clinton Jones",
   "show": "White Collar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "MissionControl",
+    "DeadpanSnarker",
+    "FBIAgent",
+    "CombatPragmatist",
+    "EmbarrassingNickname",
+    "LowerDeckEpisode",
+    "GirlOnGirlIsHot"
+  ],
   "tropes_by_category": {}
 }

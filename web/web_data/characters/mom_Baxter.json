@@ -1,7 +1,15 @@
 {
   "name": "Baxter",
   "show": "Mom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DumbassNoMore",
+    "LivesInAVan",
+    "TheStoner",
+    "HiddenDepths",
+    "TheScapegoat",
+    "CharacterDevelopment",
+    "HenpeckedHusband"
+  ],
   "tropes_by_category": {}
 }

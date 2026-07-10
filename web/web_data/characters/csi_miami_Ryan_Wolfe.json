@@ -1,7 +1,14 @@
 {
   "name": "Ryan Wolfe",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AllLoveIsUnrequited",
+    "JerkWithAHeartOfGold",
+    "HappyEnding",
+    "EagerRookie",
+    "YankTheDogsChain",
+    "LastNameBasis"
+  ],
   "tropes_by_category": {}
 }

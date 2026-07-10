@@ -1,7 +1,9 @@
 {
   "name": "Miss Bakewell",
   "show": "Are You Being Served?",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

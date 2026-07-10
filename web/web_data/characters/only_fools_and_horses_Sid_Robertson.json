@@ -1,7 +1,11 @@
 {
   "name": "Sid Robertson",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "IWasQuiteALooker",
+    "CordonBleughChef"
+  ],
   "tropes_by_category": {}
 }

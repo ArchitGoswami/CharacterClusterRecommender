@@ -1,7 +1,13 @@
 {
   "name": "The Wubb Girlz",
   "show": "Wow! Wow! Wubbzy!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "WhatHappenedToTheMouse",
+    "NonStandardCharacterDesign",
+    "AlphabeticalThemeNaming",
+    "GirlGroup"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Alexis Thi Dang",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DeadpanSnarker",
+    "AllThereInTheManual",
+    "DubNameChange",
+    "InterspeciesRomance",
+    "PutOnABus",
+    "ShipTease",
+    "OrdinaryHighSchoolStudent",
+    "ChildProdigy",
+    "OnlySaneMan",
+    "AsianAndNerdy",
+    "SuddenlyEthnicity",
+    "AudienceSurrogate"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Jane Payne",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "WhereAreTheyNowEpilogue",
+    "ManicPixieDreamGirl",
+    "ClingyJealousGirl",
+    "BabiesEverAfter",
+    "SmartPeoplePlayChess",
+    "Yandere",
+    "BrainyBrunette",
+    "RhymingNames",
+    "NightmareFetishist",
+    "MeaningfulName",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

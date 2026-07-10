@@ -1,7 +1,28 @@
 {
   "name": "Mandarin II",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "InTheBack",
+    "AssholeVictim",
+    "TheDragon",
+    "BodyHorror",
+    "SwallowedWhole",
+    "NothingButSkinAndBones",
+    "FacialHorror",
+    "TheRightHandOfDoom",
+    "GeneticMemory",
+    "LaserBlade",
+    "EatenAlive",
+    "AnArmAndALeg",
+    "WouldHurtAChild",
+    "CantKillYouStillNeedYou",
+    "TheUndead",
+    "SuperScream",
+    "PutOnABusToHell",
+    "TeethClenchedTeamwork",
+    "GoMadFromTheIsolation",
+    "NotQuiteDead"
+  ],
   "tropes_by_category": {}
 }

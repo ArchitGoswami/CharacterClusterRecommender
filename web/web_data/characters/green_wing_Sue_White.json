@@ -1,7 +1,26 @@
 {
   "name": "Sue White",
   "show": "Green Wing",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SitcomArchNemesis",
+    "TomboyishPonytail",
+    "DeadpanSnarker",
+    "ComedicSociopathy",
+    "StalkerWithACrush",
+    "SirSwearsALot",
+    "StalkerWithATestTube",
+    "ViolentGlaswegian",
+    "Yandere",
+    "ImAHumanitarian",
+    "AxCrazy",
+    "BelligerentSexualTension",
+    "PlayedForLaughs",
+    "EnemyMine",
+    "Hypocrite",
+    "AmbiguouslyBi",
+    "LargeHam",
+    "CrazyCatLady"
+  ],
   "tropes_by_category": {}
 }

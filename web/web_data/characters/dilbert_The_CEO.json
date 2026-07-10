@@ -1,7 +1,17 @@
 {
   "name": "The CEO",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "PointyHairedBoss",
+    "LiteralMinded",
+    "YouHaveFailedMe",
+    "YourSizeMayVary",
+    "UnexplainedRecovery",
+    "WickedWeasel",
+    "Lampshade",
+    "TheFaceless",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

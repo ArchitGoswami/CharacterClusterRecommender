@@ -1,7 +1,15 @@
 {
   "name": "Barry Ditmer",
   "show": "Dan Vs.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "Jerkass",
+    "BigNo",
+    "LevitatingLotusPosition",
+    "BourgeoisBohemian",
+    "HatesBeingTouched",
+    "BlackmailIsSuchAnUglyWord"
+  ],
   "tropes_by_category": {}
 }

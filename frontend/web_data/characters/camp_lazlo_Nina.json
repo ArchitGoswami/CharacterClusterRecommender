@@ -1,7 +1,20 @@
 {
   "name": "Nina",
   "show": "Camp Lazlo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DistaffCounterpart",
+    "ADayInTheLimelight",
+    "BeautyBrainsAndBrawn",
+    "NiceGuy",
+    "OnlyChildSyndrome",
+    "JerkassBall",
+    "NiceMeanAndInbetween",
+    "AlliterativeName",
+    "NiceGirl",
+    "BreakTheCutie",
+    "NeatFreak",
+    "GenialGiraffe"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Nephew Fred",
   "show": "A Christmas Carol",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "LikeFatherUnlikeSon",
+    "YouRemindMeOfX",
+    "NotSoAboveItAll",
+    "NiceGuy",
+    "NoFullNameGiven",
+    "InformedPoverty",
+    "ThePollyanna",
+    "HappilyMarried",
+    "Determinator",
+    "FlatCharacter",
+    "PerpetualSmiler",
+    "YouAreBetterThanYouThinkYouAre",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

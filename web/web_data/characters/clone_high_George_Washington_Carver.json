@@ -1,7 +1,17 @@
 {
   "name": "George Washington Carver",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OfficialCouple",
+    "OddFriendship",
+    "BlackAndNerdy",
+    "MadScientist",
+    "LabcoatOfScienceAndMedicine",
+    "StopBeingStereotypical",
+    "BelligerentSexualTension",
+    "ExoticEyeDesigns",
+    "AntiquatedLinguistics"
+  ],
   "tropes_by_category": {}
 }

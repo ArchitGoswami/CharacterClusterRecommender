@@ -1,7 +1,13 @@
 {
   "name": "La Lechuza",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AffablyEvil",
+    "MyBelovedSmother",
+    "FriendToAllChildren",
+    "TakingAdvantageOfGenerosity",
+    "ImTakingHimHomeWithMe"
+  ],
   "tropes_by_category": {}
 }

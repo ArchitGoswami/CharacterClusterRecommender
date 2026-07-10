@@ -1,7 +1,19 @@
 {
   "name": "Ms. Vivian Morello",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RaceFetish",
+    "Jerkass",
+    "SatelliteCharacter",
+    "CondescendingCompassion",
+    "TookALevelInJerkass",
+    "BigotWithACrush",
+    "InnocentBigot",
+    "WhereDaWhiteWomenAt",
+    "FlatCharacter",
+    "OutOfCharacterMoment",
+    "KarmaHoudiniWarranty"
+  ],
   "tropes_by_category": {}
 }

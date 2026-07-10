@@ -1,7 +1,31 @@
 {
   "name": "Tao Yuan",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "DefeatEqualsFriendship",
+    "EnfantTerrible",
+    "Foil",
+    "NoSell",
+    "HumanoidAbomination",
+    "Reincarnation",
+    "HealingFactor",
+    "DiscOneFinalBoss",
+    "StoutStrength",
+    "AbusiveParents",
+    "Jerkass",
+    "LightningBruiser",
+    "LargeAndInCharge",
+    "PersonOfMassDestruction",
+    "RankScalesWithAsskicking",
+    "FatBastard",
+    "TookTheWifesName",
+    "ArchnemesisDad",
+    "AwLookTheyReallyDoLoveEachOther",
+    "BigBad",
+    "OurDragonsAreDifferent",
+    "ProphetEyes",
+    "EvilCounterpart"
+  ],
   "tropes_by_category": {}
 }

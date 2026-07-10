@@ -1,7 +1,20 @@
 {
   "name": "Los Cadejos",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BodyHorror",
+    "DemBones",
+    "AdaptationalHeroism",
+    "DarkIsEvil",
+    "NobleWolf",
+    "PolarOppositeTwins",
+    "ShockAndAwe",
+    "LightIsGood",
+    "LightIsNotGood",
+    "RedEyesTakeWarning",
+    "EvilTwin",
+    "EmbarrassingNickName"
+  ],
   "tropes_by_category": {}
 }

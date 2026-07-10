@@ -1,7 +1,15 @@
 {
   "name": "Minima De Spell",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EasilyForgiven",
+    "LonersAreFreaks",
+    "CuteWitch",
+    "FriendlessBackground",
+    "NumberOne",
+    "StrongFamilyResemblance",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

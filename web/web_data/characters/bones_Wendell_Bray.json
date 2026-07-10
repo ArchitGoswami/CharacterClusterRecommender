@@ -1,7 +1,13 @@
 {
   "name": "Wendell Bray",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "RomanticRunnerUp",
+    "AcademicAthlete",
+    "TheEveryman",
+    "SmokingIsCool",
+    "FirstGuyWins"
+  ],
   "tropes_by_category": {}
 }

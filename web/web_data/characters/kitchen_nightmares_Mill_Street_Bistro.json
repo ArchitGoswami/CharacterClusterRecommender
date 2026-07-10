@@ -1,7 +1,31 @@
 {
   "name": "Mill Street Bistro",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "BaitTheDog",
+    "CordonBleughChef",
+    "SarcasmMode",
+    "BerserkButton",
+    "LethalChef",
+    "TheMillstone",
+    "LongSpeechTeaTime",
+    "NoSympathy",
+    "ZeroPercentApprovalRating",
+    "NeverMyFault",
+    "TranquilFury",
+    "BlatantLies",
+    "ImmediateSelfContradiction",
+    "HumiliationConga",
+    "AesopAmnesia",
+    "HopeSpot",
+    "DumbassHasAPoint",
+    "CantTakeCriticism",
+    "TheNapoleon",
+    "DepartmentOfRedundancyDepartment",
+    "Angrish",
+    "BadBoss",
+    "HistoryRepeatsItself"
+  ],
   "tropes_by_category": {}
 }

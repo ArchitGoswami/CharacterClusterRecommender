@@ -1,7 +1,11 @@
 {
   "name": "DVD player",
   "show": "House of Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BeleagueredAssistant",
+    "AnimateInanimateObject",
+    "RunningGag"
+  ],
   "tropes_by_category": {}
 }

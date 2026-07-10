@@ -1,7 +1,17 @@
 {
   "name": "Sweet Cheeks",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MisanthropeSupreme",
+    "ImMelting",
+    "WouldHurtAChild",
+    "DeathByIrony",
+    "CurbStompBattle",
+    "Acrofatic",
+    "FatBastard",
+    "SweetTooth",
+    "MonsterClown"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Special Agent Megan Reeves",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ActionGirl",
+    "DeadpanSnarker",
+    "ChuckCunninghamSyndrome",
+    "OppositesAttract",
+    "LadyOfWar",
+    "FBIAgent",
+    "WhyCouldntYouBeDifferent",
+    "FormerTeenRebel",
+    "PutOnABus",
+    "FridgeBrilliance",
+    "NerdsAreSexy",
+    "TheProfiler",
+    "StandardCopBackstory",
+    "ParentalIssues"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "The Pointy Heads",
   "show": "Pac-Man and the Ghostly Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HumongousMecha",
+    "CanonForeigner",
+    "AlienAnimals",
+    "DownplayedTrope",
+    "SmugSnake",
+    "KnightOfCerebus",
+    "LethalJokeItem",
+    "ItsPersonal",
+    "VileVillainSaccharineShow",
+    "WhyDidItHaveToBeSnakes",
+    "HiddenAgendaVillain",
+    "AlienInvasion",
+    "Expies"
+  ],
   "tropes_by_category": {}
 }

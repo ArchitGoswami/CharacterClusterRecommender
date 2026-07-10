@@ -1,7 +1,17 @@
 {
   "name": "Will Tippin",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TemporaryLoveInterest",
+    "UnfazedEveryman",
+    "RecklessSidekick",
+    "TookALevelInBadass",
+    "IntrepidReporter",
+    "BadassBoast",
+    "CommutingOnABus",
+    "ActionSurvivor",
+    "BetterAsFriends"
+  ],
   "tropes_by_category": {}
 }

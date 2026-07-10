@@ -1,7 +1,10 @@
 {
   "name": "Admiral Bullets",
   "show": "I Am Weasel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "AmbiguouslyBrown"
+  ],
   "tropes_by_category": {}
 }

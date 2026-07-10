@@ -1,7 +1,14 @@
 {
   "name": "Quinn",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FemmeFataleSpy",
+    "DeadpanSnarker",
+    "CanonForeigner",
+    "TheMole",
+    "CommunicationsOfficer",
+    "TechnoWizard"
+  ],
   "tropes_by_category": {}
 }

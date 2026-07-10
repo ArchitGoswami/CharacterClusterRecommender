@@ -1,7 +1,25 @@
 {
   "name": "Zombie Pumpkin Magisword",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DeadpanSnarker",
+    "TalkingWeapon",
+    "InUniverse",
+    "CannibalismSuperpower",
+    "LorreLookalike",
+    "Kaiju",
+    "ImAHumanitarian",
+    "ISeeDeadPeople",
+    "UglyCute",
+    "ShrinkingViolet",
+    "AffectionateNickname",
+    "HealingFactor",
+    "CannotSpitItOut",
+    "TeamPet",
+    "BulletSeed",
+    "TrademarkFavoriteFood",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

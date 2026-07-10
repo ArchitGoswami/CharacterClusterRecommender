@@ -1,7 +1,10 @@
 {
   "name": "Mavis Moulterd",
   "show": "Are You Being Served?",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ThereIsOnlyOneBed",
+    "ThePigPen"
+  ],
   "tropes_by_category": {}
 }

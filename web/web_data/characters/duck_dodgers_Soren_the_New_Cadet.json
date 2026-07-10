@@ -1,7 +1,13 @@
 {
   "name": "Soren the New Cadet",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "StalkerWithACrush",
+    "Yandere",
+    "GenderBlenderName",
+    "BeautyIsBad",
+    "AxCrazy"
+  ],
   "tropes_by_category": {}
 }

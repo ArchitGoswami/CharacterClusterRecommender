@@ -1,7 +1,18 @@
 {
   "name": "Andrew",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ParentWithNewParamour",
+    "VisitByDivorcedDad",
+    "DisappearedDad",
+    "NiceGuy",
+    "MayDecemberRomance",
+    "NotNowKiddo",
+    "ParentalAbandonment",
+    "AmicableExes",
+    "NoAccountingForTaste",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

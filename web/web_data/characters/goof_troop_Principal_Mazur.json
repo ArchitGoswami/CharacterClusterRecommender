@@ -1,7 +1,21 @@
 {
   "name": "Principal Mazur",
   "show": "Goof Troop",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "Tuckerization",
+    "ZeroPercentApprovalRating",
+    "LastNameBasis",
+    "LargeHam",
+    "MilkingTheGiantCow",
+    "SelfServingMemory",
+    "HairTriggerTemper",
+    "ChirpingCrickets",
+    "DisproportionateRetribution",
+    "DeanBitterman",
+    "ButtMonkey",
+    "DodgyToupee"
+  ],
   "tropes_by_category": {}
 }

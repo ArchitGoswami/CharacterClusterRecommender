@@ -1,7 +1,9 @@
 {
   "name": "Jay",
   "show": "Fetch! with Ruff Ruffman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "DeadpanSnarker"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,30 @@
 {
   "name": "Sand Bar Museum",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "SpaceWhale",
+    "AcePilot",
+    "ImprobableWeaponUser",
+    "OlderThanTheyLook",
+    "HeroOfAnotherStory",
+    "FishPeople",
+    "ParasolOfPain",
+    "LastOfHerKind",
+    "HiddenDepths",
+    "OptionalBoss",
+    "Seers",
+    "DarkIsNotEvil",
+    "AnchorsAway",
+    "ChekhovsGunman",
+    "ShellShockedVeteran",
+    "SharkMan",
+    "HappilyMarried",
+    "BossRush",
+    "BabiesEverAfter",
+    "SpaceIsAnOcean",
+    "GuestStarPartyMember",
+    "CulturedBadass"
+  ],
   "tropes_by_category": {}
 }

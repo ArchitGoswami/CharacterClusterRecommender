@@ -1,7 +1,16 @@
 {
   "name": "Tim Fleming",
   "show": "Heartland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AbledInTheAdaptation",
+    "JerkWithAHeartOfGold",
+    "DotingParent",
+    "DisappearedDad",
+    "BerserkButton",
+    "YoungerThanTheyLook",
+    "TheAlcoholic",
+    "TheFriendNobodyLikes"
+  ],
   "tropes_by_category": {}
 }

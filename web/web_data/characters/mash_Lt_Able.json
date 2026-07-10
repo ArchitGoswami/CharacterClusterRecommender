@@ -1,7 +1,13 @@
 {
   "name": "Lt. Able",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ThoseTwoGuys",
+    "NoFullNameGiven",
+    "AlphabeticalThemeNaming",
+    "MilitaryAlphabet",
+    "TheGenericGirl"
+  ],
   "tropes_by_category": {}
 }

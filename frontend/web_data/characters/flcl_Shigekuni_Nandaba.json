@@ -1,7 +1,13 @@
 {
   "name": "Shigekuni Nandaba",
   "show": "FLCL",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MadnessMantra",
+    "DeathByAdaptation",
+    "TitleDrop",
+    "AscendedExtra",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

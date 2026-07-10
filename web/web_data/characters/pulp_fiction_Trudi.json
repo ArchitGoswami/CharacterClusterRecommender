@@ -1,7 +1,10 @@
 {
   "name": "Trudi",
   "show": "Pulp Fiction",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BystanderSyndrome",
+    "ShipTease"
+  ],
   "tropes_by_category": {}
 }

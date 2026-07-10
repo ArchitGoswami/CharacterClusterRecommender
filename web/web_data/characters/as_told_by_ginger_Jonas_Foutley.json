@@ -1,7 +1,19 @@
 {
   "name": "Jonas Foutley",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DaddyHadAGoodReasonForAbandoningYou",
+    "LikeFatherLikeSon",
+    "TheGhost",
+    "DisappearedDad",
+    "AdultsAreUseless",
+    "Foil",
+    "HeelRealization",
+    "PermaStubble",
+    "BumblingDad",
+    "AvertedTrope",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

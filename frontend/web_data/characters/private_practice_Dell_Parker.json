@@ -1,7 +1,14 @@
 {
   "name": "Dell Parker",
   "show": "Private Practice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DisappearedDad",
+    "MrFanservice",
+    "ShirtlessScene",
+    "UnrequitedLove",
+    "PapaWolf",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

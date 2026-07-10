@@ -1,7 +1,16 @@
 {
   "name": "Ellen Crawford",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HeroAntagonist",
+    "AllThereInTheScript",
+    "OvershadowedByAwesome",
+    "InspectorJavert",
+    "ForensicAccounting",
+    "ExaltedTorturer",
+    "EntertaininglyWrong",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "Kim Mills",
   "show": "Taken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "DeadGuyJunior",
+    "TheReasonYouSuckSpeech",
+    "DisposableWoman",
+    "AccidentalMisnaming",
+    "SexSlave",
+    "BlatantLies",
+    "UndyingLoyalty",
+    "DaddysGirl",
+    "MarriedToTheJob",
+    "AwfulWeddedLife",
+    "FirstFatherWins",
+    "GirlOfTheWeek",
+    "IJustWantToBeNormal",
+    "ShipperOnDeck",
+    "GoGoEnslavement",
+    "TookALevelInBadass",
+    "AffectionateNickname",
+    "DamselInDistress",
+    "RelationshipUpgrade"
+  ],
   "tropes_by_category": {}
 }

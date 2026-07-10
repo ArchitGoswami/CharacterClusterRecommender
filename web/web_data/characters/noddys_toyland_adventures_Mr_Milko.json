@@ -1,7 +1,11 @@
 {
   "name": "Mr. Milko",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "TheEeyore",
+    "AdaptationalPersonalityChange"
+  ],
   "tropes_by_category": {}
 }

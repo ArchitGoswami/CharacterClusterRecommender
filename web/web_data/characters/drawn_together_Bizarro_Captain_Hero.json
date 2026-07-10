@@ -1,7 +1,11 @@
 {
   "name": "Bizarro Captain Hero",
   "show": "Drawn Together",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "BuryYourGays",
+    "BeardOfEvil"
+  ],
   "tropes_by_category": {}
 }

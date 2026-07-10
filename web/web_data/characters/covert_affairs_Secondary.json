@@ -1,7 +1,26 @@
 {
   "name": "Secondary",
   "show": "Covert Affairs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "UnclePennybags",
+    "YouHaveOutlivedYourUsefulness",
+    "GratuitousForeignLanguage",
+    "TheChessmaster",
+    "NiceGuy",
+    "WithFriendsLikeThese",
+    "EvenEvilHasLovedOnes",
+    "UndyingLoyalty",
+    "YouHaveOutLivedYourUsefulness",
+    "DecapitatedArmy",
+    "ItsPersonal",
+    "PrivateMilitaryContractor",
+    "CrazyPrepared",
+    "ForTheEvulz",
+    "ChronicBackstabbingDisorder",
+    "TheSociopath",
+    "KnightOfCerebus",
+    "VillainousRescue"
+  ],
   "tropes_by_category": {}
 }

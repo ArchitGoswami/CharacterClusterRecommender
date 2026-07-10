@@ -1,7 +1,17 @@
 {
   "name": "Petra",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "EvilBrit",
+    "HatedByAll",
+    "GirlPosse",
+    "KarmaHoudini",
+    "PreppyName",
+    "TheFashionista",
+    "WhamLine",
+    "ForTheEvulz",
+    "AlwaysSomeoneBetter"
+  ],
   "tropes_by_category": {}
 }

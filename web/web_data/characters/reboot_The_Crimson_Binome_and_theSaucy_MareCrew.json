@@ -1,7 +1,31 @@
 {
   "name": "\"The Crimson Binome\" and theSaucy MareCrew",
   "show": "ReBoot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "PirateBooty",
+    "ThePiratesWhoDontDoAnything",
+    "ArmorPiercingQuestion",
+    "OnlyInItForTheMoney",
+    "DeconstructedTrope",
+    "VerbalTic",
+    "FakeAristocrat",
+    "ScrewTheMoneyIHaveRules",
+    "Tuckerization",
+    "ActionGirl",
+    "DeathGlare",
+    "BrawnHilda",
+    "WhatTheHellHero",
+    "WhatHappenedToTheMouse",
+    "UndyingLoyalty",
+    "TheStoic",
+    "AFriendInNeed",
+    "GoodPaysBetter",
+    "LargeHam",
+    "NoGuyWantsAnAmazon",
+    "BenevolentBoss",
+    "CutLexLuthorACheck",
+    "Expy"
+  ],
   "tropes_by_category": {}
 }

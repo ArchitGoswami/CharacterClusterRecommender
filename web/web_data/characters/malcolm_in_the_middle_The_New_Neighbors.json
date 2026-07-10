@@ -1,7 +1,14 @@
 {
   "name": "The New Neighbors",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TokenGoodTeammate",
+    "ObnoxiousEntitledHousewife",
+    "BrattyHalfPint",
+    "BigScrewedUpFamily",
+    "WomanChild",
+    "MaliciousSlander"
+  ],
   "tropes_by_category": {}
 }

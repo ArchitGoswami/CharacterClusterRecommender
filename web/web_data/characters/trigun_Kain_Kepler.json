@@ -1,7 +1,19 @@
 {
   "name": "Kain/Kepler",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AintTooProudToBeg",
+    "DirtyCoward",
+    "Jerkass",
+    "OnlyInItForTheMoney",
+    "ScreamsLikeALittleGirl",
+    "ObfuscatingStupidity",
+    "WideEyesAndShrunkenIrises",
+    "OneSteveLimit",
+    "MistreatmentInducedBetrayal",
+    "KarmaHoudiniWarranty",
+    "PyrrhicVictory"
+  ],
   "tropes_by_category": {}
 }

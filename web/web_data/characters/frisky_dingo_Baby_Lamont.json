@@ -1,7 +1,15 @@
 {
   "name": "Baby Lamont",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CharacterDeath",
+    "RidiculouslyCuteCritter",
+    "RageBreakingPoint",
+    "NearlyNormalAnimal",
+    "TeamPet",
+    "MoralityPet",
+    "KickTheMoralityPet"
+  ],
   "tropes_by_category": {}
 }

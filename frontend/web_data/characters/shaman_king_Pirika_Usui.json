@@ -1,7 +1,13 @@
 {
   "name": "Pirika Usui",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AwLookTheyReallyDoLoveEachOther",
+    "DrillSergeantNasty",
+    "CurtainsMatchTheWindow",
+    "AnnoyingYoungerSibling",
+    "GenkiGirl"
+  ],
   "tropes_by_category": {}
 }

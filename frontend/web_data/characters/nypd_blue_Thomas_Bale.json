@@ -1,7 +1,16 @@
 {
   "name": "Thomas Bale",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "PetTheDog",
+    "KickTheDog",
+    "TookALevelInKindness",
+    "StraightGay",
+    "DisproportionateRetribution",
+    "CharacterDevelopment",
+    "ByTheBookCop",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

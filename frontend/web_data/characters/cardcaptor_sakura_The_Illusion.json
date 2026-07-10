@@ -1,7 +1,11 @@
 {
   "name": "The Illusion",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MasterOfIllusion",
+    "YourHeartsDesire",
+    "AGlitchInTheMatrix"
+  ],
   "tropes_by_category": {}
 }

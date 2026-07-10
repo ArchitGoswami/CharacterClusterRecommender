@@ -1,7 +1,16 @@
 {
   "name": "Lady Kiely",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GrievousBottleyHarm",
+    "DefiantCaptive",
+    "CanonForeigner",
+    "IHaveYourWife",
+    "OutlivingOnesOffspring",
+    "SilkHidingSteel",
+    "ImperiledInPregnancy",
+    "StraightMan"
+  ],
   "tropes_by_category": {}
 }

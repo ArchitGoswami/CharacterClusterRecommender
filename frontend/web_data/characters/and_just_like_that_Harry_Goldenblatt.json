@@ -1,7 +1,17 @@
 {
   "name": "Harry Goldenblatt",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "PrinceCharming",
+    "BrutalHonesty",
+    "Foil",
+    "NiceGuy",
+    "SexGod",
+    "HappilyMarried",
+    "Irony",
+    "UglyGuyHotWife",
+    "KavorkaMan"
+  ],
   "tropes_by_category": {}
 }

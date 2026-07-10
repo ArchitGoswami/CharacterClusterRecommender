@@ -1,7 +1,16 @@
 {
   "name": "Sir Loungelot",
   "show": "Blazing Dragons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DirtyCoward",
+    "Expy",
+    "ProfessionalButtKisser",
+    "NoHoldsBarredBeatdown",
+    "LazyBum",
+    "MeaningfulName",
+    "BadBoss",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

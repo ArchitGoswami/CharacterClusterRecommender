@@ -1,7 +1,10 @@
 {
   "name": "Floyd Minton",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CanonForeigner",
+    "Determinator"
+  ],
   "tropes_by_category": {}
 }

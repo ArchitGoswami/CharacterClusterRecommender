@@ -1,7 +1,13 @@
 {
   "name": "The Admiral",
   "show": "House of Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ReasonableAuthorityFigure",
+    "PunnyName",
+    "RetiredBadass",
+    "NoNameGiven",
+    "WarmHeartedWalrus"
+  ],
   "tropes_by_category": {}
 }

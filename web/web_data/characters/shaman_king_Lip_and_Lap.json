@@ -1,7 +1,11 @@
 {
   "name": "Lip and Lap",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ThemeTwinNaming",
+    "IdenticalTwinIDTag",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Moody Spurgeon",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "IGotBigger",
+    "TheKlutz",
+    "TooDumbToLive",
+    "NiceGuy",
+    "TerriblePickUpLines",
+    "HiddenDepths",
+    "ButtMonkey",
+    "CannotTalkToWomen"
+  ],
   "tropes_by_category": {}
 }

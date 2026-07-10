@@ -1,7 +1,15 @@
 {
   "name": "Propalaeotherium",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "RidiculouslyCuteCritter",
+    "StockSoundEffect",
+    "AlcoholInducedIdiocy",
+    "FragileSpeedster",
+    "MonsterMunch",
+    "ButtMonkey",
+    "IntoxicationEnsues"
+  ],
   "tropes_by_category": {}
 }

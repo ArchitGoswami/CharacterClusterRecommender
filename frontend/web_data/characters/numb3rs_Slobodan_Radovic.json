@@ -1,7 +1,10 @@
 {
   "name": "Slobodan Radovic",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BalkanBastard",
+    "NoHistoricalFiguresWereHarmed"
+  ],
   "tropes_by_category": {}
 }

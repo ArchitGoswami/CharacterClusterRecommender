@@ -1,7 +1,15 @@
 {
   "name": "Akira Mimasaka",
   "show": "Boys Over Flowers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Yakuza",
+    "OneOfTheKids",
+    "LikesOlderWomen",
+    "HeterosexualLifePartners",
+    "MafiaPrincess",
+    "DubNameChange",
+    "TeamDad"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Triakis",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "RealMenWearPink",
+    "RetCon",
+    "CheatersNeverProsper",
+    "Foil",
+    "MightyGlacier",
+    "TheAtoner",
+    "AnimalMotifs",
+    "MeaningfulName",
+    "GoodBadBugs",
+    "LightningBruiser",
+    "AbsoluteComparative",
+    "AwesomeAussie",
+    "Moe"
+  ],
   "tropes_by_category": {}
 }

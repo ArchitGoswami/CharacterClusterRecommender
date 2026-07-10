@@ -1,7 +1,18 @@
 {
   "name": "David Shepherd",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DisappearedDad",
+    "TheChosenOne",
+    "HolyHalo",
+    "DavidVersusGoliath",
+    "MassiveNumberedSiblings",
+    "MeaningfulName",
+    "HumbleHero",
+    "YoungestChildWins",
+    "RankUp",
+    "FarmBoy"
+  ],
   "tropes_by_category": {}
 }

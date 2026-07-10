@@ -1,7 +1,18 @@
 {
   "name": "ConnorMacKenzie",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BeautifulAllAlong",
+    "OfficialCouple",
+    "ChildhoodFriendRomance",
+    "NiceGuy",
+    "BetterAsFriends",
+    "ChildhoodFriends",
+    "PlatonicLifePartners",
+    "OutOfFocus",
+    "TheFriendsWhoNeverHang",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

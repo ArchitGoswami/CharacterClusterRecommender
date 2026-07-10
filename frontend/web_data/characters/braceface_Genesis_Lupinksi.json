@@ -1,7 +1,11 @@
 {
   "name": "Genesis Lupinksi",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "IJustWantToBeNormal",
+    "AlwaysSomeoneBetter",
+    "AerithAndBob"
+  ],
   "tropes_by_category": {}
 }

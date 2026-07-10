@@ -1,7 +1,14 @@
 {
   "name": "The Wanderer",
   "show": "Lost Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheGhost",
+    "GreaterScopeVillain",
+    "Leitmotif",
+    "TheDreaded",
+    "EveryoneCallsHimBarkeep",
+    "WifeHusbandry"
+  ],
   "tropes_by_category": {}
 }

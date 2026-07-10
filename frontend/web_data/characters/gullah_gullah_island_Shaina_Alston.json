@@ -1,7 +1,11 @@
 {
   "name": "Shaina Alston",
   "show": "Gullah Gullah Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "GirlyGirlWithATomboyStreak",
+    "AnnoyingYoungerSibling",
+    "TomboyAndGirlyGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Alice Mitchell",
   "show": "Dennis the Menace",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Housewife",
+    "MsFanservice",
+    "DudeMagnet",
+    "LethalChef",
+    "HappilyMarried",
+    "GoodParents",
+    "UglyGuyHotWife",
+    "MissingMom",
+    "ActuallyPrettyFunny",
+    "WhyDidItHaveToBeSnakes"
+  ],
   "tropes_by_category": {}
 }

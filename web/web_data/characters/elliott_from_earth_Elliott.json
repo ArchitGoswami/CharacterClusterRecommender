@@ -1,7 +1,21 @@
 {
   "name": "Elliott",
   "show": "Elliott from Earth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FishOutOfWater",
+    "CheatedAngle",
+    "IJustWantToHaveFriends",
+    "NiceGuy",
+    "DownplayedTrope",
+    "FriendlessBackground",
+    "JustifiedTrope",
+    "InnocentlyInsensitive",
+    "MissingMom",
+    "OnlyChildSyndrome",
+    "BlueIsHeroic",
+    "AllLovingHero",
+    "KiddieKid"
+  ],
   "tropes_by_category": {}
 }

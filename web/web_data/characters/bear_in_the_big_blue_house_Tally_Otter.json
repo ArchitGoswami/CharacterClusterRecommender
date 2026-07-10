@@ -1,7 +1,16 @@
 {
   "name": "Tally Otter",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GoodWithNumbers",
+    "AmazingTechnicolorWildlife",
+    "SpeciesSurname",
+    "FunnyAnimal",
+    "SmartPeopleWearGlasses",
+    "AccessoryWearingCartoonAnimal",
+    "MeaningfulName",
+    "AdultsAreMoreAnthropomorphic"
+  ],
   "tropes_by_category": {}
 }

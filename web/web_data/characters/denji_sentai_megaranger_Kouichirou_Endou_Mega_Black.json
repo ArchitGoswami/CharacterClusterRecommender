@@ -1,7 +1,19 @@
 {
   "name": "Kouichirou Endou/Mega Black",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "StudentCouncilPresident",
+    "TheLeader",
+    "TheBigGuy",
+    "CombiningMecha",
+    "MightyGlacier",
+    "ShipTease",
+    "SeriousBusiness",
+    "EveryoneCanSeeIt",
+    "LightningBruiser",
+    "LeaderFormsTheHead",
+    "SignatureMove"
+  ],
   "tropes_by_category": {}
 }

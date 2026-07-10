@@ -1,7 +1,18 @@
 {
   "name": "Boo",
   "show": "Fleabag",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CloudCuckooLander",
+    "AnimalLover",
+    "ILetGwenStacyDie",
+    "Yandere",
+    "HairOfGoldHeartOfGold",
+    "AccidentalSuicide",
+    "LivingEmotionalCrutch",
+    "PosthumousCharacter",
+    "ReplacementGoldfish",
+    "KickTheMoralityPet"
+  ],
   "tropes_by_category": {}
 }

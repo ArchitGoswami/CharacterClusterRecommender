@@ -1,7 +1,17 @@
 {
   "name": "Iguanodon",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CowTools",
+    "FantasticFaunaCounterpart",
+    "PaletteSwap",
+    "SocialOrnithopod",
+    "ThoseTwoGuys",
+    "MonsterMunch",
+    "ColorCodedForYourConvenience",
+    "TheCameo",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

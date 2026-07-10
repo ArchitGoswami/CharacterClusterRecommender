@@ -1,7 +1,16 @@
 {
   "name": "Henry Roarke",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FrameUp",
+    "LaserGuidedKarma",
+    "BigBad",
+    "EvilVirtues",
+    "BadBoss",
+    "VillainTakesAnInterest",
+    "JerkassHasAPoint",
+    "VillainWithGoodPublicity"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Master Chang",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AdaptationalNiceGuy",
+    "SternTeacher",
+    "AmbiguouslyAbsentParent",
+    "TheMentor"
+  ],
   "tropes_by_category": {}
 }

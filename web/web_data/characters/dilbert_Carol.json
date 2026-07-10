@@ -1,7 +1,17 @@
 {
   "name": "Carol",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "NietzscheWannabe",
+    "UltimateJobSecurity",
+    "Dismotivation",
+    "JustifiedTrope",
+    "ObstructiveBureaucrat",
+    "SassySecretary",
+    "DemotedToExtra",
+    "YankTheDogsChain",
+    "CrapsackWorld"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "The Ancient Warrior",
   "show": "Samurai Pizza Cats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DarkIsNotEvil",
+    "StealthMentor",
+    "ShoutOut",
+    "NonStandardCharacterDesign",
+    "VaderBreath",
+    "SecretTestOfCharacter",
+    "DeusExMachina",
+    "KnightOfCerebus",
+    "PhysicalGod"
+  ],
   "tropes_by_category": {}
 }

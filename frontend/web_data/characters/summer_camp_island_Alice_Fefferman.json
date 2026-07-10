@@ -1,7 +1,21 @@
 {
   "name": "Alice Fefferman",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Seers",
+    "BewareTheSillyOnes",
+    "CutenessProximity",
+    "AngryDance",
+    "GirlyGirl",
+    "InformedSpecies",
+    "LackOfEmpathy",
+    "MaliciousSlander",
+    "AmbiguouslyBrown",
+    "WellIntentionedExtremist",
+    "WouldHurtAChild",
+    "FaintingSeer",
+    "MakesJustAsMuchSenseInContext"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "The Driscoll Brothers",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "AffablyEvil",
+    "BigGuyLittleGuy",
+    "Expy",
+    "OffstageVillainy",
+    "LondonGangster",
+    "TheDreaded",
+    "NamesToRunAwayFromReallyFast",
+    "EvilCounterpart",
+    "KnightOfCerebus",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

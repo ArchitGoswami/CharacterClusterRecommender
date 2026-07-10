@@ -1,7 +1,23 @@
 {
   "name": "Ninja Zords",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "EarthquakeMachine",
+    "ForceAndFinesse",
+    "AmphibianAtLarge",
+    "FinishingMove",
+    "NobleWolf",
+    "PutOnABus",
+    "SillySimian",
+    "AdaptationalEarlyAppearance",
+    "PlayingWithFire",
+    "BareFistedMonk",
+    "AnimalMecha",
+    "DualWielding",
+    "BearsAreBadNews",
+    "TailSlap",
+    "NobleBirdOfPrey"
+  ],
   "tropes_by_category": {}
 }

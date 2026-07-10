@@ -1,7 +1,11 @@
 {
   "name": "Reynaldo and Reynalda",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BrotherSisterIncest",
+    "BrotherSisterTeam",
+    "ThoseTwoGuys"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Sir Cumference",
   "show": "Pac-Man and the Ghostly Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CoolOldGuy",
+    "Expy",
+    "DecemberDecemberRomance",
+    "MissXPun",
+    "CanonForeigner",
+    "PunnyName",
+    "ReasonableAuthorityFigure",
+    "BadFuture",
+    "RetiredBadass",
+    "LongLived",
+    "GadgeteerGenius",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

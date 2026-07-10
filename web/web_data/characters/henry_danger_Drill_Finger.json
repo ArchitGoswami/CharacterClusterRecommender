@@ -1,7 +1,13 @@
 {
   "name": "Drill Finger",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ThisIsADrill",
+    "KarmaHoudini",
+    "WouldHurtAChild",
+    "TheUnfought",
+    "FaceHeelTurn"
+  ],
   "tropes_by_category": {}
 }

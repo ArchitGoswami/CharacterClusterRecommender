@@ -1,7 +1,16 @@
 {
   "name": "Kazari Bomani",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TimeSkip",
+    "YouHaveOutlivedYourUsefulness",
+    "ArmsDealer",
+    "Jerkass",
+    "TeethClenchedTeamwork",
+    "KarmicDeath",
+    "ForcedToWatch",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

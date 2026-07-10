@@ -1,7 +1,21 @@
 {
   "name": "Jane Gibbons",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AdaptationalNiceGirl",
+    "SpoiledBrat",
+    "ShelteredAristocrat",
+    "LadyMacbeth",
+    "LaserGuidedKarma",
+    "SuddenSequelHeelSyndrome",
+    "TheUnfavorite",
+    "BigBadEnsemble",
+    "DomesticAbuse",
+    "DiabolusExMachina",
+    "FaceHeelTurn",
+    "NiceGirl",
+    "CallToAgriculture"
+  ],
   "tropes_by_category": {}
 }

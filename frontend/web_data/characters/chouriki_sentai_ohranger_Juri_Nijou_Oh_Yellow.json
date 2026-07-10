@@ -1,7 +1,20 @@
 {
   "name": "Juri Nijou/Oh Yellow",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "KickChick",
+    "ActionGirl",
+    "MsFanservice",
+    "CordonBleughChef",
+    "StatuesqueStunner",
+    "GirlishPigtails",
+    "TomboyWithAGirlyStreak",
+    "TheBigGirl",
+    "MeaningfulName",
+    "CrazyPrepared",
+    "FakeDefector",
+    "SignatureMove"
+  ],
   "tropes_by_category": {}
 }

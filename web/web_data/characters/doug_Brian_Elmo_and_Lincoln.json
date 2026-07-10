@@ -1,7 +1,13 @@
 {
   "name": "Brian, Elmo and Lincoln",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BracesOfOrthodonticOverkill",
+    "NerdGlasses",
+    "SinisterSchnoz",
+    "FunnyAfro",
+    "FlatCharacter"
+  ],
   "tropes_by_category": {}
 }

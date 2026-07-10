@@ -1,7 +1,16 @@
 {
   "name": "Yolanda Rat",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "TheSmurfettePrinciple",
+    "VoiceChangeling",
+    "HiddenDepths",
+    "SassySecretary",
+    "YouDirtyRat",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

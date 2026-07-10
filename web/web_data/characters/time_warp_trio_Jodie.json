@@ -1,7 +1,16 @@
 {
   "name": "Jodie",
   "show": "Time Warp Trio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheLeader",
+    "SpoiledBrat",
+    "PetTheDog",
+    "TownGirls",
+    "TheAce",
+    "HeterosexualLifePartners",
+    "CoolBigSis",
+    "TwoFirstNames"
+  ],
   "tropes_by_category": {}
 }

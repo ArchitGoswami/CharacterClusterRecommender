@@ -1,7 +1,18 @@
 {
   "name": "Tama",
   "show": "Love Hina",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SeriesMascot",
+    "TeamPet",
+    "OfficialFanSubmittedContent",
+    "InterspeciesRomance",
+    "FlyingSeafoodSpecial",
+    "BareHandedBladeBlock",
+    "HeadPet",
+    "AmbiguousGender",
+    "WhyDidItHaveToBeSnakes",
+    "EmpathyPet"
+  ],
   "tropes_by_category": {}
 }

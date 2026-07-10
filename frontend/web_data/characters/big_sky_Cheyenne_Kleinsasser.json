@@ -1,7 +1,9 @@
 {
   "name": "Cheyenne Kleinsasser",
   "show": "Big Sky",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "YoungestChildWins"
+  ],
   "tropes_by_category": {}
 }

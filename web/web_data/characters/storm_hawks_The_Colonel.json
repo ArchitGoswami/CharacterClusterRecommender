@@ -1,7 +1,24 @@
 {
   "name": "The Colonel",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "RealMenWearPink",
+    "DeathGlare",
+    "SpiderPeople",
+    "BreakTheHaughty",
+    "RidiculouslyCuteCritter",
+    "TheMobBossIsScarier",
+    "PetTheDog",
+    "TheDreaded",
+    "KarmaHoudini",
+    "AcquiredPoisonImmunity",
+    "EvilOverlord",
+    "BigEater",
+    "ExtremeOmnivore",
+    "OnlyKnownByTheirNickname",
+    "AllWebbedUp",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

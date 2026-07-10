@@ -1,7 +1,20 @@
 {
   "name": "Frank Mitchell",
   "show": "Moesha",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "WellDoneSonGuy",
+    "MamasBoy",
+    "LukeIAmYourFather",
+    "BoyfriendBlockingDad",
+    "FoolishSiblingResponsibleSibling",
+    "NinetiesHair",
+    "TheUnfavorite",
+    "HateSink",
+    "MenAreTough",
+    "ParentalHypocrisy",
+    "AwfulWeddedLife",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

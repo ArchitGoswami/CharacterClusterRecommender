@@ -1,7 +1,17 @@
 {
   "name": "Gabbro (Gunenco)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DumbMuscle",
+    "WakeUpCallBoss",
+    "PowerFist",
+    "SuperStrength",
+    "TheBrute",
+    "AncientPersia",
+    "StarterVillain",
+    "RedIsViolent",
+    "MadeOfIron"
+  ],
   "tropes_by_category": {}
 }

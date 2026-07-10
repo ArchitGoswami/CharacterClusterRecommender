@@ -1,7 +1,14 @@
 {
   "name": "Sheerah",
   "show": "Taken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HeroicBSOD",
+    "PetTheDog",
+    "RichBitch",
+    "JerkassHasAPoint",
+    "InnocentlyInsensitive",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

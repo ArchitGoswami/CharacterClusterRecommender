@@ -1,7 +1,29 @@
 {
   "name": "Team Awesome Force",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "TrueCompanions",
+    "OlderThanTheyLook",
+    "KickingAssInAllHerFinery",
+    "FireForgedFriends",
+    "AbusiveParents",
+    "TheLeader",
+    "LikeBrotherAndSister",
+    "CartwrightCurse",
+    "TheHeart",
+    "TheSmartGuy",
+    "DarkAndTroubledPast",
+    "ExperiencedProtagonist",
+    "BadassCrew",
+    "CasualDangerDialogue",
+    "BigDamnHeroes",
+    "RevolvingDoorBand",
+    "TheBigGuy",
+    "Downplayed",
+    "OddlySmallOrganization",
+    "MissingMom",
+    "TheSomethingForce"
+  ],
   "tropes_by_category": {}
 }

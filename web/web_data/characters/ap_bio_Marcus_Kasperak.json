@@ -1,7 +1,21 @@
 {
   "name": "Marcus Kasperak",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SitcomArchNemesis",
+    "TheDogBitesBack",
+    "DeadpanSnarker",
+    "StudentCouncilPresident",
+    "JerkWithAHeartOfGold",
+    "NerdGlasses",
+    "InsufferableGenius",
+    "BullyingADragon",
+    "SmugSnake",
+    "JerkassHasAPoint",
+    "ButtMonkey",
+    "FreudianExcuse",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

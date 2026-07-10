@@ -1,7 +1,21 @@
 {
   "name": "Ruth Evershed",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SignificantWardrobeShift",
+    "CunningLinguist",
+    "BrainyBrunette",
+    "MarriedToTheJob",
+    "SingleWomanSeeksGoodMan",
+    "HiddenDepths",
+    "BewareTheNiceOnes",
+    "ItGetsEasier",
+    "KindheartedCatLover",
+    "UnresolvedSexualTension",
+    "EncyclopaedicKnowledge",
+    "PlayfulHacker",
+    "GirlFriday"
+  ],
   "tropes_by_category": {}
 }

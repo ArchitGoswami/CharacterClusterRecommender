@@ -1,7 +1,29 @@
 {
   "name": "Treelo",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "TheUnintelligible",
+    "MeaningfulName",
+    "Keet",
+    "ThirdPersonPerson",
+    "TheBabyOfTheBunch",
+    "ArtEvolution",
+    "IntelligibleUnintelligible",
+    "YouNoTakeCandle",
+    "DependingOnTheWriter",
+    "AmazingTechnicolorWildlife",
+    "CharacterTics",
+    "MotorMouth",
+    "CloudCuckoolander",
+    "SelfDemonstratingArticle",
+    "Catchphrase",
+    "CuddleBug",
+    "DropInCharacter",
+    "DeterioratesIntoGibberish",
+    "TrademarkFavoriteFood",
+    "MisplacedWildlife",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

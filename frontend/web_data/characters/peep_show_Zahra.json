@@ -1,7 +1,12 @@
 {
   "name": "Zahra",
   "show": "Peep Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MenAreUncultured",
+    "Hipster",
+    "RomanticFalseLead",
+    "FeigningIntelligence"
+  ],
   "tropes_by_category": {}
 }

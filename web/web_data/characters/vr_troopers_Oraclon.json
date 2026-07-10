@@ -1,7 +1,18 @@
 {
   "name": "Oraclon",
   "show": "VR Troopers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "EliteMook",
+    "VillainsWantMercy",
+    "BigBad",
+    "DragonInChief",
+    "DecompositeCharacter",
+    "MakerOfMonsters",
+    "DemotedToExtra",
+    "EvilGenius",
+    "MeaningfulName",
+    "CoDragons"
+  ],
   "tropes_by_category": {}
 }

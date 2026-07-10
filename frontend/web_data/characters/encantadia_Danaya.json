@@ -1,7 +1,13 @@
 {
   "name": "Danaya",
   "show": "Encantadia",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheMentor",
+    "CombatMedic",
+    "FrameUp",
+    "MeaningfulName",
+    "GreenThumb"
+  ],
   "tropes_by_category": {}
 }

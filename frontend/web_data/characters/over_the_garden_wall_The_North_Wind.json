@@ -1,7 +1,18 @@
 {
   "name": "The North Wind",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Expy",
+    "TheOldNorthWind",
+    "FairytaleMotifs",
+    "VillainSong",
+    "TropeNamer",
+    "SealedEvilInACan",
+    "EvilOldFolks",
+    "TheBrute",
+    "GenericDoomsdayVillain",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

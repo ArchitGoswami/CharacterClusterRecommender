@@ -1,7 +1,14 @@
 {
   "name": "Dominic",
   "show": "Wizards of Waverly Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheAntichrist",
+    "Satan",
+    "BigBad",
+    "HalfHumanHybrid",
+    "AvengingTheVillain",
+    "VillainBall"
+  ],
   "tropes_by_category": {}
 }

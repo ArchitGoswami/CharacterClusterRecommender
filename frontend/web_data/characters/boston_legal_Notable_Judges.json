@@ -1,7 +1,21 @@
 {
   "name": "Notable Judges",
   "show": "Boston Legal",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CatchPhrase",
+    "GayConservative",
+    "EstablishingCharacterMoment",
+    "SternOldJudge",
+    "DeathGlare",
+    "Expy",
+    "AltarTheSpeed",
+    "ReasonableAuthorityFigure",
+    "VerbalTic",
+    "TheComicallySerious",
+    "HamToHamCombat",
+    "ScatterbrainedSenior",
+    "CloudCuckoolander"
+  ],
   "tropes_by_category": {}
 }

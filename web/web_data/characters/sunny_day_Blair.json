@@ -1,7 +1,10 @@
 {
   "name": "Blair",
   "show": "Sunny Day",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NeatFreak",
+    "TomboyAndGirlyGirl"
+  ],
   "tropes_by_category": {}
 }

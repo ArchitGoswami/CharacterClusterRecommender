@@ -1,7 +1,10 @@
 {
   "name": "Ari",
   "show": "Sonic the Hedgehog(SatAM)",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ForcedIntoEvil",
+    "HeroicSacrifice"
+  ],
   "tropes_by_category": {}
 }

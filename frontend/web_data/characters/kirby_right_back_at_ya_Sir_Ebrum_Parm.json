@@ -1,7 +1,17 @@
 {
   "name": "Sir Ebrum (Parm)",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "IronicName",
+    "ThePiratesWhoDontDoAnything",
+    "AdultsAreUseless",
+    "HappilyMarried",
+    "GoodParents",
+    "PunnyName",
+    "BumblingDad",
+    "InconsistentDub",
+    "AccentAdaptation"
+  ],
   "tropes_by_category": {}
 }

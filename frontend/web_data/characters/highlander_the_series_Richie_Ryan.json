@@ -1,7 +1,24 @@
 {
   "name": "Richie Ryan",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "Sidekick",
+    "BountyHunter",
+    "RecklessSidekick",
+    "StreetUrchin",
+    "DroppedABridgeOnHim",
+    "TheMafiya",
+    "ChronicHeroSyndrome",
+    "MentorOccupationalHazard",
+    "FosterKid",
+    "TrainingMontage",
+    "AxCrazy",
+    "HoYay",
+    "NaiveNewcomer",
+    "BadassAdorable",
+    "DamselInDistress",
+    "DeadSidekick"
+  ],
   "tropes_by_category": {}
 }

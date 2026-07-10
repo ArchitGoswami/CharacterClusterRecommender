@@ -1,7 +1,14 @@
 {
   "name": "Natalie Duckworth",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ClingyJealousGirl",
+    "PleaseDumpMe",
+    "Stripperiffic",
+    "NaughtyByNight",
+    "LookingForLoveInAllTheWrongPlaces",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

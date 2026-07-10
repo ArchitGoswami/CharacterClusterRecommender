@@ -1,7 +1,16 @@
 {
   "name": "Max Louis",
   "show": "NewsRadio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "InexplicablyIdenticalIndividuals",
+    "Jerkass",
+    "SuspiciouslySimilarSubstitute",
+    "SmallNameBigEgo",
+    "RecurringExtra",
+    "NotSoStoic",
+    "IHaveManyNames",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

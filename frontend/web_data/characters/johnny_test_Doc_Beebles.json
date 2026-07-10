@@ -1,7 +1,15 @@
 {
   "name": "Doc Beebles",
   "show": "Johnny Test",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HeelFaceTurn",
+    "ChuckCunninghamSyndrome",
+    "EvilSoundsDeep",
+    "BeeBeeGun",
+    "VerbalTic",
+    "WellIntentionedExtremist",
+    "AntiVillain"
+  ],
   "tropes_by_category": {}
 }

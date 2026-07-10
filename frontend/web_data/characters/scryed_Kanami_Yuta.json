@@ -1,7 +1,30 @@
 {
   "name": "Kanami Yuta",
   "show": "Scryed",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "FoolishSiblingResponsibleSibling",
+    "PowerIncontinence",
+    "NoSell",
+    "LockedOutOfTheLoop",
+    "SpannerInTheWorks",
+    "PsychicPowers",
+    "AllLovingHero",
+    "CombatClairvoyance",
+    "DistantFinale",
+    "SignatureHeadgear",
+    "BreakTheCutie",
+    "EveryonesBabySister",
+    "SupremeChef",
+    "MagneticHero",
+    "MySignificanceSenseIsTingling",
+    "MoralityPet",
+    "SlipknotPonytail",
+    "SheKnowsTooMuch",
+    "NiceGirl",
+    "DamselInDistress",
+    "ExpositoryHairstyleChange",
+    "NotBloodSiblings"
+  ],
   "tropes_by_category": {}
 }

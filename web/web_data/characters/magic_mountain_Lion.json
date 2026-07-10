@@ -1,7 +1,20 @@
 {
   "name": "Lion",
   "show": "Magic Mountain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "Catchphrase",
+    "CowardlyLion",
+    "LovableJock",
+    "DistressedDude",
+    "GenkiGuy",
+    "StraightManAndWiseGuy",
+    "OOCIsSeriousBusiness",
+    "AgentMulder",
+    "HiddenDepths",
+    "BroodingBoyGentleGirl",
+    "WhyDidItHaveToBeSnakes",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

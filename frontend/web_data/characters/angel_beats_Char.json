@@ -1,7 +1,22 @@
 {
   "name": "Char",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "YouRemindMeOfX",
+    "SchoolIsForLosers",
+    "TheEngineer",
+    "TokenAdult",
+    "TheDreaded",
+    "HappilyMarried",
+    "AxCrazy",
+    "GunNut",
+    "ManlyFacialHair",
+    "CrusadingWidower",
+    "BoomHeadshot",
+    "OnlyKnownByTheirNickname",
+    "GadgeteerGenius",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

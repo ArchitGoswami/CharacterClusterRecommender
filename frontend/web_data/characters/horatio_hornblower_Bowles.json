@@ -1,7 +1,16 @@
 {
   "name": "Bowles",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "PlayingPossum",
+    "ADayInTheLimelight",
+    "DressingAsTheEnemy",
+    "SergeantRock",
+    "NoNameGiven",
+    "PutOnABus",
+    "OldSoldier",
+    "MuggedForDisguise"
+  ],
   "tropes_by_category": {}
 }

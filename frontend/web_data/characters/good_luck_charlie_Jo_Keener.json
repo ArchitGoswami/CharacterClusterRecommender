@@ -1,7 +1,18 @@
 {
   "name": "Jo Keener",
   "show": "Good Luck Charlie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "GenderBlenderName",
+    "LovingBully",
+    "TheBully",
+    "TomboyishName",
+    "LittleMissBadass",
+    "Tsundere",
+    "TheLadette",
+    "GamerChick",
+    "PintsizedPowerhouse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Dash Lightning",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ShowWithinAShow",
+    "Catchphrase",
+    "TheKnightsWhoSaySquee",
+    "AwesomeMcCoolname",
+    "EarlyBirdCameo",
+    "TwinkleSmile"
+  ],
   "tropes_by_category": {}
 }

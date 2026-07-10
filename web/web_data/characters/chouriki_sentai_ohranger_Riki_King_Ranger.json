@@ -1,7 +1,23 @@
 {
   "name": "Riki/King Ranger",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CarryABigStick",
+    "FunnyBruceLeeNoises",
+    "IWorkAlone",
+    "OneHeadTaller",
+    "ColdOpen",
+    "OlderThanTheyLook",
+    "SuperPrototype",
+    "KnightInShiningArmor",
+    "Really700YearsOld",
+    "BlingBlingBang",
+    "BlingOfWar",
+    "PuppyLove",
+    "SixthRanger",
+    "FishOutOfTemporalWater",
+    "SignatureMove"
+  ],
   "tropes_by_category": {}
 }

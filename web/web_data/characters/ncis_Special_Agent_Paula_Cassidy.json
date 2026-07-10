@@ -1,7 +1,17 @@
 {
   "name": "Special Agent Paula Cassidy",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeathEqualsRedemption",
+    "ActionGirl",
+    "DeadpanSnarker",
+    "HeroicSacrifice",
+    "BigBad",
+    "OffscreenMomentOfAwesome",
+    "BadassInDistress",
+    "PlayedForLaughs",
+    "TogetherInDeath"
+  ],
   "tropes_by_category": {}
 }

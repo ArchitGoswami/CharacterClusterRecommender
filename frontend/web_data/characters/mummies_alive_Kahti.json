@@ -1,7 +1,14 @@
 {
   "name": "Kahti",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "EveryoneCallsHimBarkeep",
+    "BadassAdorable",
+    "LoyalAnimalCompanion",
+    "VoluntaryShapeshifter",
+    "TeamPet",
+    "DeathByOriginStory"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Big Al",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BodyHorror",
+    "StartsWithTheirFuneral",
+    "LikesOlderWomen",
+    "ShootTheShaggyDog",
+    "Bookends",
+    "ForegoneConclusion",
+    "HistoricalDomainCharacter",
+    "CradleToGraveCharacter",
+    "AnimalsNotToScale",
+    "DeathByIrony",
+    "BadassInDistress",
+    "QuicksandSucks",
+    "DownerEnding",
+    "NonHumanUndead",
+    "ComingOfAgeStory",
+    "AgonyOfTheFeet",
+    "IronButtMonkey"
+  ],
   "tropes_by_category": {}
 }

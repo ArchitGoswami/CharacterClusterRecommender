@@ -1,7 +1,10 @@
 {
   "name": "Mike Ryerson",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NiceGuy",
+    "SlowTransformation"
+  ],
   "tropes_by_category": {}
 }

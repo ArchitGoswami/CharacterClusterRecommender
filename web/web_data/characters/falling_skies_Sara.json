@@ -1,7 +1,17 @@
 {
   "name": "Sara",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OfficialCouple",
+    "ActionGirl",
+    "DeadpanSnarker",
+    "DiedInYourArmsTonight",
+    "BelligerentSexualTension",
+    "CruelAndUnusualDeath",
+    "ChangedMyMindKid",
+    "MoralityChain",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

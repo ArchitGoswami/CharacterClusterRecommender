@@ -1,7 +1,12 @@
 {
   "name": "Reverend Lloyd Meachum",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "GoodShepherd",
+    "HenpeckedHusband",
+    "PiratesWhoDontDoAnything",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Sidney",
   "show": "Puppy Dog Pals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Fangirl",
+    "Squee",
+    "IAlwaysWantedToSayThat",
+    "ParentalAbandonment"
+  ],
   "tropes_by_category": {}
 }

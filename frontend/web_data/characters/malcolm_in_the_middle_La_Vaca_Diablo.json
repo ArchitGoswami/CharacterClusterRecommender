@@ -1,7 +1,12 @@
 {
   "name": "\"La Vaca Diablo\"",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HerbivoresAreFriendly",
+    "Zigzagged",
+    "Subverted",
+    "RealAfterAll"
+  ],
   "tropes_by_category": {}
 }

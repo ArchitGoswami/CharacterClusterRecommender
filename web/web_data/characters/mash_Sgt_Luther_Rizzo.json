@@ -1,7 +1,16 @@
 {
   "name": "Sgt. Luther Rizzo",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "SimpleMindedWisdom",
+    "ThisIsGonnaSuck",
+    "DrillSergeantNasty",
+    "BunnyEarsLawyer",
+    "LazyBum",
+    "SouthernFriedPrivate",
+    "Sleepyhead",
+    "LoanShark"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Dan Decker",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheBully",
+    "CoolAndUnusualPunishment",
+    "TookALevelInKindness",
+    "UnresolvedSexualTension"
+  ],
   "tropes_by_category": {}
 }

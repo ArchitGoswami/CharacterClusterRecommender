@@ -1,7 +1,13 @@
 {
   "name": "Governor Lynelle Perry",
   "show": "Yellowstone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PairTheSpares",
+    "TheChainsOfCommanding",
+    "UndyingLoyalty",
+    "FieldPromotion",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

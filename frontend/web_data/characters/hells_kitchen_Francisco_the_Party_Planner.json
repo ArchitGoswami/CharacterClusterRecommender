@@ -1,7 +1,12 @@
 {
   "name": "Francisco the Party Planner",
   "show": "Hell's Kitchen",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "BlitheSpirit",
+    "SitcomArchnemesis",
+    "CampGay"
+  ],
   "tropes_by_category": {}
 }

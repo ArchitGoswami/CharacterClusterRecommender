@@ -1,7 +1,15 @@
 {
   "name": "Jessie Eden",
   "show": "Peaky Blinders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BrokenBird",
+    "CallForward",
+    "CommonalityConnection",
+    "MsExposition",
+    "HistoricalDomainCharacter",
+    "LostLenore",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

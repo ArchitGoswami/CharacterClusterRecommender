@@ -1,7 +1,15 @@
 {
   "name": "Arthropleura",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PoisonousPerson",
+    "DisneyVillainDeath",
+    "WhatHappenedToTheMouse",
+    "ArtisticLicensePaleontology",
+    "ScienceMarchesOn",
+    "HighVoltageDeath",
+    "CreepyCentipedes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Bug Bite",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheDragon",
+    "AdaptationalHeroism",
+    "AscendedExtra",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

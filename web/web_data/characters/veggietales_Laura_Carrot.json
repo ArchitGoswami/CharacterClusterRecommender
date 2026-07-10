@@ -1,7 +1,12 @@
 {
   "name": "Laura Carrot",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BadassAdorable",
+    "YouthfulFreckles",
+    "HairofGoldHeartofGold",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

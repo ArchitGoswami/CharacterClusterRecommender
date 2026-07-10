@@ -1,7 +1,12 @@
 {
   "name": "Miss Spider",
   "show": "Miss Spider's Sunny Patch Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HappilyAdopted",
+    "LastNameBasis",
+    "FriendToAllChildren",
+    "BigBeautifulWoman"
+  ],
   "tropes_by_category": {}
 }

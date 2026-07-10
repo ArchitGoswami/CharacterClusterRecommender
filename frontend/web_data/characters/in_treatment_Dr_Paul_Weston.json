@@ -1,7 +1,16 @@
 {
   "name": "Dr. Paul Weston",
   "show": "In Treatment",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "IAmNotMyFather",
+    "JerkWithAHeartOfGold",
+    "DramaticIrony",
+    "RageBreakingPoint",
+    "MyGodWhatHaveIDone",
+    "FootDraggingDivorcee",
+    "TheCobblersChildrenHaveNoShoes",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

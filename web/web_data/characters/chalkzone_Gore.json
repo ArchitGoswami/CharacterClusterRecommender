@@ -1,7 +1,13 @@
 {
   "name": "Gore",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheDreaded",
+    "NinjaPirateZombieRobot",
+    "OurVampiresAreDifferent",
+    "VileVillainSaccharineShow",
+    "AmbiguousSyntax"
+  ],
   "tropes_by_category": {}
 }

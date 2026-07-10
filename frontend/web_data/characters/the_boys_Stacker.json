@@ -1,7 +1,12 @@
 {
   "name": "Stacker",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SupremeChef",
+    "TheQuietOne",
+    "TheBrute",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

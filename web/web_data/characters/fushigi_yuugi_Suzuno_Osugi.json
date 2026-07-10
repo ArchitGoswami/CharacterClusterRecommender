@@ -1,7 +1,19 @@
 {
   "name": "Suzuno Osugi",
   "show": "Fushigi Yuugi",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SailorFuku",
+    "BigFancyHouse",
+    "GirlishPigtails",
+    "YamatoNadeshiko",
+    "KimonoIsTraditional",
+    "JustifiedTrope",
+    "StarCrossedLovers",
+    "SnowMeansDeath",
+    "PluckyGirl",
+    "TogetherInDeath",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

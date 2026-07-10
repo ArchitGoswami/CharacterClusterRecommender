@@ -1,7 +1,29 @@
 {
   "name": "Other Characters",
   "show": "Boston Public",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "WhenYouComingHomeDad",
+    "ApatheticTeacher",
+    "PerpetualFrowner",
+    "AmicableExes",
+    "AbusiveParents",
+    "ThirdPersonPerson",
+    "DeadpanSnarker",
+    "Jerkass",
+    "NeverMyFault",
+    "AdultsAreUseless",
+    "JerkassHasAPoint",
+    "AngryBlackManStereotype",
+    "LackOfEmpathy",
+    "BlackComedy",
+    "ObstructiveBureaucrat",
+    "LoveTriangle",
+    "RousingSpeech",
+    "ChuckCunninghamSyndrome",
+    "AlternateTeachingMethod",
+    "BadBoss",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

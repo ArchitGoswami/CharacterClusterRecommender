@@ -1,7 +1,12 @@
 {
   "name": "Algernon and Binky",
   "show": "ReBoot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ThoseTwoGuys",
+    "BigGuyLittleGuy",
+    "FatAndSkinny",
+    "TheStoic"
+  ],
   "tropes_by_category": {}
 }

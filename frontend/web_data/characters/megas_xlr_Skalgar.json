@@ -1,7 +1,25 @@
 {
   "name": "Skalgar",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "AccidentalMisnaming",
+    "Expy",
+    "MonsterOfTheWeek",
+    "Leitmotif",
+    "DeflectorShields",
+    "UnderestimatingBadassery",
+    "BerserkButton",
+    "TheNapoleon",
+    "IShallTauntYou",
+    "PunchedAcrossTheRoom",
+    "MaliciousMisnaming",
+    "BadGuyBar",
+    "TemptingFate",
+    "HoistByHisOwnPetard",
+    "DudeWheresMyRespect",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

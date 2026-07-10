@@ -1,7 +1,17 @@
 {
   "name": "Huckleberry Pie",
   "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeroesLoveDogs",
+    "NiceGuy",
+    "SixthRanger",
+    "BlueIsHeroic",
+    "ShipTease",
+    "OutOfFocus",
+    "AdaptationalJobChange",
+    "PinkGirlBlueBoy",
+    "TheOneGuy"
+  ],
   "tropes_by_category": {}
 }

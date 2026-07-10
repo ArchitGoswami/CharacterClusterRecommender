@@ -1,7 +1,24 @@
 {
   "name": "Florence and Allies",
   "show": "Da Vinci's Demons",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "DoubleReverseQuadrupleAgent",
+    "CruelMercy",
+    "JerkWithAHeartOfGold",
+    "TheChessMaster",
+    "SmartPeoplePlayChess",
+    "RevengeBeforeReason",
+    "AncientConspiracy",
+    "ReasonableAuthorityFigure",
+    "ShadowArchetype",
+    "ActingForTwo",
+    "HermitGuru",
+    "PlayedWith",
+    "CainAndAbel",
+    "PapaWolf",
+    "WalkingSpoiler",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

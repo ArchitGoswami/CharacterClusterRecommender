@@ -1,7 +1,13 @@
 {
   "name": "The Jackson Family",
   "show": "EastEnders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheTopicofCancer",
+    "MamaBear",
+    "OutlivingOnesOffspring",
+    "MrsRobinson",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

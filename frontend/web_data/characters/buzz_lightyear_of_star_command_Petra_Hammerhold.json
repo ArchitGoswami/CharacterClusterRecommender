@@ -1,7 +1,18 @@
 {
   "name": "Petra Hammerhold",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DeadpanSnarker",
+    "Expy",
+    "GreenSkinnedSpaceBabe",
+    "InterspeciesRomance",
+    "MilitarySchool",
+    "FatAndSkinny",
+    "OneShotCharacter",
+    "BrattyTeenageDaughter",
+    "DatingWhatDaddyHates",
+    "FantasticRacism"
+  ],
   "tropes_by_category": {}
 }

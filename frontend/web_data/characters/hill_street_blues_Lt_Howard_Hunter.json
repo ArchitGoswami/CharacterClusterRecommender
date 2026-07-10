@@ -1,7 +1,21 @@
 {
   "name": "Lt. Howard Hunter",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SitcomArchNemesis",
+    "WalkingDisasterArea",
+    "CulturedWarrior",
+    "ShellShockedVeteran",
+    "NobleBigotWithABadge",
+    "Foil",
+    "NoSocialSkills",
+    "DistinguishedGentlemansPipe",
+    "SesquipedalianLoquaciousness",
+    "GeneralRipper",
+    "HiddenDepths",
+    "BloodKnight",
+    "PreciousPuppy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Exposition Guy",
   "show": "WordGirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MrExposition",
+    "Catchphrase",
+    "TheDitz",
+    "EveryoneCallsHimBarkeep",
+    "NarratingTheObvious",
+    "PlotDevice",
+    "BreakTheCutie",
+    "NoSenseOfDirection",
+    "ContrivedCoincidence"
+  ],
   "tropes_by_category": {}
 }

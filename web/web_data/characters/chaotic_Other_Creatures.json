@@ -1,7 +1,21 @@
 {
   "name": "Other Creatures",
   "show": "Chaotic",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "KilledOffForReal",
+    "FinalBoss",
+    "FeelingTheirAge",
+    "ArchEnemy",
+    "SoulJar",
+    "Revenge",
+    "LastEpisodeNewCharacter",
+    "TakesOneToKillOne",
+    "TokenHeroicOrc",
+    "TookALevelInKindness",
+    "MeaningfulName",
+    "MagicStaff",
+    "OmnicidalManiac"
+  ],
   "tropes_by_category": {}
 }

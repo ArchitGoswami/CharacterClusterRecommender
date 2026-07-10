@@ -1,7 +1,24 @@
 {
   "name": "Armon",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "GentleGiant",
+    "TheBigGuy",
+    "SupremeChef",
+    "ArtificialLimbs",
+    "LethalChef",
+    "HandicappedBadass",
+    "GeniusDitz",
+    "SituationalHandSwitch",
+    "AnimalMotifs",
+    "BigEater",
+    "BoisterousBruiser",
+    "BareFistedMonk",
+    "LightningBruiser",
+    "DeathByOriginStory",
+    "FreudianExcuse",
+    "BrainsAndBrawn"
+  ],
   "tropes_by_category": {}
 }

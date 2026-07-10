@@ -1,7 +1,20 @@
 {
   "name": "Carson Beckett",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ChickMagnet",
+    "TheMedic",
+    "Expy",
+    "HospitalHottie",
+    "CombatMedic",
+    "MeaningfulFuneral",
+    "TheMcCoy",
+    "MadScientist",
+    "TheHeart",
+    "YouLookFamiliar",
+    "CloneAngst",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

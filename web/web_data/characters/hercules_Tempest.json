@@ -1,7 +1,23 @@
 {
   "name": "Tempest",
   "show": "Hercules",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ActionGirl",
+    "MusclesAreMeaningless",
+    "MinidressOfPower",
+    "AnimeHair",
+    "DefrostingIceQueen",
+    "TheAce",
+    "Tomboy",
+    "PassionateSportsGirl",
+    "TomboyWithAGirlyStreak",
+    "TomboyishVoice",
+    "TrueBlueFemininity",
+    "AllAmazonsWantHercules",
+    "CharacterDevelopment",
+    "TomboyishPonytail",
+    "ColorMotifs"
+  ],
   "tropes_by_category": {}
 }

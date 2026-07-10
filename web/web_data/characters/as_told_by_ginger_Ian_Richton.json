@@ -1,7 +1,22 @@
 {
   "name": "Ian Richton",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "PopularIsDumb",
+    "TallDarkAndHandsome",
+    "RomanticFalseLead",
+    "TertiarySexualCharacteristics",
+    "MeaningfulName",
+    "OutOfFocus",
+    "AmbiguouslyGay",
+    "LanternJawOfJustice",
+    "BookDumb",
+    "JerkJock",
+    "AttractivenessIsolation",
+    "TheArtifact",
+    "InformedFlaw"
+  ],
   "tropes_by_category": {}
 }

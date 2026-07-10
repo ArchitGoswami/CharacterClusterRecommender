@@ -1,7 +1,24 @@
 {
   "name": "The Wayward Soldiers",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "IncomingHam",
+    "Expy",
+    "AttentionDeficitOohShiny",
+    "FunnyBackgroundEvent",
+    "ImprobableWeaponUser",
+    "EveryoneCallsHimBarkeep",
+    "ManChild",
+    "WouldHurtAChild",
+    "PlayedForLaughs",
+    "BigEater",
+    "TheMadHatter",
+    "InsaneTrollLogic",
+    "NoNameGiven",
+    "Cloudcuckoolander",
+    "LargeHam",
+    "HarmfulToMinors"
+  ],
   "tropes_by_category": {}
 }

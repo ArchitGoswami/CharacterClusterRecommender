@@ -1,7 +1,16 @@
 {
   "name": "Horvak",
   "show": "Aaahh!!! Real Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HistoricalInJoke",
+    "PermaStubble",
+    "EyepatchOfPower",
+    "GenerationXerox",
+    "StrongFamilyResemblance",
+    "EyeScream",
+    "Curse",
+    "FantasticRacism"
+  ],
   "tropes_by_category": {}
 }

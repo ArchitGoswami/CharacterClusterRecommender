@@ -1,7 +1,16 @@
 {
   "name": "Al Delvecchio",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CatchPhrase",
+    "UnderNewManagement",
+    "ExtremeDoormat",
+    "IconicSequelCharacter",
+    "PutOnABus",
+    "TeamDad",
+    "BackForTheFinale",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Marcus Starke",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HorribleJudgeOfCharacter",
+    "TheChessmaster",
+    "TheDreaded",
+    "TheBigBad",
+    "ManipulativeBastard",
+    "MirrorCharacter",
+    "TheEvilGenius",
+    "CardCarryingVillain",
+    "TheDragon",
+    "SmugSnake",
+    "OutGambitted",
+    "RedemptionRejection",
+    "SimilarSquad"
+  ],
   "tropes_by_category": {}
 }

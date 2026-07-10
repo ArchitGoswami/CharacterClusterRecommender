@@ -1,7 +1,15 @@
 {
   "name": "Commanderette Zircon",
   "show": "Spaceballs: The Animated Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BoyishShortHair",
+    "CovertPervert",
+    "TheSmurfettePrinciple",
+    "StatuesqueStunner",
+    "AsideGlance",
+    "InconvenientSummons",
+    "TheLadette"
+  ],
   "tropes_by_category": {}
 }

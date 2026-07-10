@@ -1,7 +1,17 @@
 {
   "name": "Shirong",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AwLookTheyReallyDoLoveEachOther",
+    "Neologizer",
+    "DisappearedDad",
+    "DelusionsOfEloquence",
+    "WhiteAndGreyMorality",
+    "OneShotCharacter",
+    "ConMan",
+    "AccentsArentHereditary",
+    "LongLostUncleAesop"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Helga",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "NonSpecificallyForeign",
+    "BigEater",
+    "BrawnHilda"
+  ],
   "tropes_by_category": {}
 }

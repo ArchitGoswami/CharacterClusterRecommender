@@ -1,7 +1,11 @@
 {
   "name": "Zen Inubashiri",
   "show": "Zombie Loan",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "FlorenceNightingaleEffect",
+    "OlderThanHeLooks",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

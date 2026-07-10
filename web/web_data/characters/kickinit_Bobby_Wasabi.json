@@ -1,7 +1,13 @@
 {
   "name": "Bobby Wasabi",
   "show": "Kickin'it",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoDoubtTheYearsHaveChangedMe",
+    "TooDumbToLive",
+    "BigGood",
+    "Acrofatic",
+    "RetiredBadass"
+  ],
   "tropes_by_category": {}
 }

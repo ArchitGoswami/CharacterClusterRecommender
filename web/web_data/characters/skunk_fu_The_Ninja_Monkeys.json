@@ -1,7 +1,17 @@
 {
   "name": "The Ninja Monkeys",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ManiacMonkeys",
+    "Jerkass",
+    "NotSoHarmlessVillain",
+    "PetTheDog",
+    "TheUnintelligible",
+    "Mooks",
+    "VileVillainLaughableLackey",
+    "ButtMonkey",
+    "Ninja"
+  ],
   "tropes_by_category": {}
 }

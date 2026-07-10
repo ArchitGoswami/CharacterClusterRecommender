@@ -1,7 +1,12 @@
 {
   "name": "Stoolshadow",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ForgotTheirIntangibility",
+    "ForgetfulJones",
+    "PowerIncontinence",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

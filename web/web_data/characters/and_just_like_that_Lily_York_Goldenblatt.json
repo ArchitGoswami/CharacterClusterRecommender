@@ -1,7 +1,10 @@
 {
   "name": "Lily York Goldenblatt",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HappilyAdopted",
+    "GenerationXerox"
+  ],
   "tropes_by_category": {}
 }

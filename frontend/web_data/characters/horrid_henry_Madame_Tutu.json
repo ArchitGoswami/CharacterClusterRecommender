@@ -1,7 +1,15 @@
 {
   "name": "Madame Tutu",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AdaptationalNiceGirl",
+    "AccentSlipUp",
+    "SternTeacher",
+    "ChildHater",
+    "FrenchJerk",
+    "AdaptationalNameChange",
+    "PerpetualFrowner"
+  ],
   "tropes_by_category": {}
 }

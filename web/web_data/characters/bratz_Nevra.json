@@ -1,7 +1,21 @@
 {
   "name": "Nevra",
   "show": "Bratz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "OfficialCouple",
+    "ActionGirl",
+    "LovableJock",
+    "BrutalHonesty",
+    "Pride",
+    "AcademicAthlete",
+    "ShipTease",
+    "TheDiva",
+    "HiddenDepths",
+    "AllegedLookAlikes",
+    "LateComingOut",
+    "OneShotCharacter",
+    "InformedAttribute"
+  ],
   "tropes_by_category": {}
 }

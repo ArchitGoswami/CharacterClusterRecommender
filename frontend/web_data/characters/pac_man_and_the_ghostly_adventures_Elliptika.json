@@ -1,7 +1,14 @@
 {
   "name": "Elliptika",
   "show": "Pac-Man and the Ghostly Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CanonForeigner",
+    "LastEpisodeNewCharacter",
+    "ThirdOptionLoveInterest",
+    "GratuitousJapanese",
+    "NiceGirl",
+    "BettyAndVeronica"
+  ],
   "tropes_by_category": {}
 }

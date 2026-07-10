@@ -1,7 +1,10 @@
 {
   "name": "Louise Tate",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DisproportionateRetribution",
+    "SatelliteCharacter"
+  ],
   "tropes_by_category": {}
 }

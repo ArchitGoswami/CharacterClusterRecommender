@@ -1,7 +1,11 @@
 {
   "name": "Trent",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DeathByCameo",
+    "FourFingeredHands",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

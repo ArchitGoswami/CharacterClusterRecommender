@@ -1,7 +1,13 @@
 {
   "name": "The Scallions",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BigThinShortTrio",
+    "EvilBrit",
+    "ChuckCunninghamSyndrome",
+    "StealthPun",
+    "NoNameGiven"
+  ],
   "tropes_by_category": {}
 }

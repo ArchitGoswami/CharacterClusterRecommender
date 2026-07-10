@@ -1,7 +1,15 @@
 {
   "name": "Sayuki Manaka",
   "show": "Duel Masters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "FanservicePack",
+    "LoveMakesYouCrazy",
+    "CanonForeigner",
+    "AllWomenAreLustful",
+    "PutOnABus",
+    "AssKicksYou"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Gladys Kravitz nee Gruber",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "TheCassandra",
+    "Catchphrase",
+    "AwLookTheyReallyDoLoveEachOther",
+    "ADayInTheLimelight",
+    "StatusQuoIsGod",
+    "DubNameChange",
+    "FreakOut",
+    "FriendlyEnemies",
+    "RunningGag",
+    "SayMyName",
+    "TookALevelInJerkass",
+    "NosyNeighbor",
+    "WellIntentionedExtremist",
+    "AlliterativeName",
+    "CosmicPlaything",
+    "HighschoolSweethearts",
+    "ButtMonkey",
+    "SecretChaser"
+  ],
   "tropes_by_category": {}
 }

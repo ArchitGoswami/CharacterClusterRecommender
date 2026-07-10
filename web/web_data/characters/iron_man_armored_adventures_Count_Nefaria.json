@@ -1,7 +1,23 @@
 {
   "name": "Count Nefaria",
   "show": "Iron Man: Armored Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AristocratsAreEvil",
+    "AdaptationalWimp",
+    "NervesOfSteel",
+    "FromBadToWorse",
+    "HowTheMightyHaveFallen",
+    "AndThenJohnWasAZombie",
+    "TheRival",
+    "VillainInAWhiteSuit",
+    "BigBadWannabe",
+    "UnrelatedInTheAdaptation",
+    "ShockAndAwe",
+    "TheStoic",
+    "BeardOfEvil",
+    "AdaptationalBadass",
+    "TheDon"
+  ],
   "tropes_by_category": {}
 }

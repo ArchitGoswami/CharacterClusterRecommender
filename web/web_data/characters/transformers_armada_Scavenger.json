@@ -1,7 +1,23 @@
 {
   "name": "Scavenger",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "StealthMentor",
+    "ChuckCunninghamSyndrome",
+    "TheBigGuy",
+    "BadassCape",
+    "TheMole",
+    "AdaptationalHeroism",
+    "SeniorSleepCycle",
+    "UnrelatedInTheAdaptation",
+    "OldMaster",
+    "CapedMecha",
+    "DubNameChange",
+    "OldSoldier",
+    "RuleOfCool",
+    "WalkingSpoiler",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

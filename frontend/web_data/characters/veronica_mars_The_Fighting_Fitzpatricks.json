@@ -1,7 +1,21 @@
 {
   "name": "The Fighting Fitzpatricks",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MutilationInterrogation",
+    "CorruptChurch",
+    "NeverSpeakIllOfTheDead",
+    "PetTheDog",
+    "PunnyName",
+    "GangBangers",
+    "FightingIrish",
+    "ChronicBackstabbingDisorder",
+    "TheIrishMob",
+    "BadGuysDoTheDirtyWork",
+    "TheSociopath",
+    "IrishPriest",
+    "CainAndAbel"
+  ],
   "tropes_by_category": {}
 }

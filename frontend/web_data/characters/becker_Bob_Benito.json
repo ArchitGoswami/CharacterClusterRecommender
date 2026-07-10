@@ -1,7 +1,26 @@
 {
   "name": "Bob Benito",
   "show": "Becker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "LongBusTrip",
+    "EvenBadMenLoveTheirMamas",
+    "StalkerWithACrush",
+    "MyFriendsAndZoidberg",
+    "NoFullNameGiven",
+    "TalkativeLoon",
+    "RichesToRags",
+    "FourTemperamentEnsemble",
+    "HumiliationConga",
+    "MotorMouth",
+    "LazyBum",
+    "HiddenDepths",
+    "EarlyInstallmentWeirdness",
+    "SmugSnake",
+    "CharacterizationMarchesOn",
+    "ButtMonkey",
+    "AbhorrentAdmirer",
+    "ThirdPersonPerson"
+  ],
   "tropes_by_category": {}
 }

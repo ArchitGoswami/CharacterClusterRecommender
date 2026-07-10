@@ -1,7 +1,16 @@
 {
   "name": "Dierks",
   "show": "Letterkenny",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CatchPhrase",
+    "DirtyCoward",
+    "TooDumbToLive",
+    "VerbalTic",
+    "HateSink",
+    "InSeriesNickname",
+    "NoHoldsBarredBeatdown",
+    "ArsonMurderAndJaywalking"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Jirou Yoshidayama",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ThoseTwoGuys",
+    "AnimeHair",
+    "BoisterousWeakling",
+    "TheStarscream",
+    "Delinquent",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

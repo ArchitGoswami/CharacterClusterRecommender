@@ -1,7 +1,12 @@
 {
   "name": "Zora",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DoomedByCanon",
+    "GuestStarPartyMember",
+    "Hammerspace",
+    "LadyLooksLikeADude"
+  ],
   "tropes_by_category": {}
 }

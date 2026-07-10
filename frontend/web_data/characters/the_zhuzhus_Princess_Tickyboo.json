@@ -1,7 +1,9 @@
 {
   "name": "Princess Tickyboo",
   "show": "The ZhuZhus",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AccessoryWearingCartoonAnimal"
+  ],
   "tropes_by_category": {}
 }

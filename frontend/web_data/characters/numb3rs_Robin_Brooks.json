@@ -1,7 +1,10 @@
 {
   "name": "Robin Brooks",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HelloAttorney",
+    "IvyLeagueForEveryone"
+  ],
   "tropes_by_category": {}
 }

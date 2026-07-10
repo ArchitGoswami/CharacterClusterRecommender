@@ -1,7 +1,18 @@
 {
   "name": "HMS Indefatigable",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CoolBoat",
+    "BoardingParty",
+    "Leitmotif",
+    "SettingAsACharacter",
+    "GunshipRescue",
+    "JustInTime",
+    "AffectionateNickname",
+    "BigDamnHeroes",
+    "MeaningfulName",
+    "WeaponsUnderstudies"
+  ],
   "tropes_by_category": {}
 }

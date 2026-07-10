@@ -1,7 +1,20 @@
 {
   "name": "Dennis the Duck",
   "show": "House of Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CatchPhrase",
+    "BrokenPedestal",
+    "Retraux",
+    "RememberTheNewGuy",
+    "Hammerspace",
+    "DagwoodSandwich",
+    "InformedSpecies",
+    "InterruptedSuicide",
+    "ImYourBiggestFan",
+    "HypocriticalHumor",
+    "BreakingTheFourthWall",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

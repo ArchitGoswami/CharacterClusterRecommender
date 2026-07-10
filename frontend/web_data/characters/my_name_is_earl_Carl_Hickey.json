@@ -1,7 +1,22 @@
 {
   "name": "Carl Hickey",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeelFaceTurn",
+    "APartyAlsoKnownAsAnOrgy",
+    "IWantGrandkids",
+    "DrugsAreBad",
+    "The70s",
+    "ManlyTears",
+    "WhatTheHellHero",
+    "ChocolateBaby",
+    "GrumpyOldMan",
+    "The80s",
+    "ExiledToTheCouch",
+    "ParentsAsPeople",
+    "NoSympathy",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

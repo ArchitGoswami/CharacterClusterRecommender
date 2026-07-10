@@ -1,7 +1,16 @@
 {
   "name": "Zarek",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NearVillainVictory",
+    "WeWillMeetAgain",
+    "Expy",
+    "MonsterOfTheWeek",
+    "HorrifyingTheHorror",
+    "NoOneCouldSurviveThat",
+    "KneelBeforeZod",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

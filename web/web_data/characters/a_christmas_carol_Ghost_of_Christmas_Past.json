@@ -1,7 +1,30 @@
 {
   "name": "Ghost of Christmas Past",
   "show": "A Christmas Carol",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "MsFanservice",
+    "WasItReallyWorthIt",
+    "TheSmurfettePrinciple",
+    "HumanoidAbomination",
+    "FriendlyGhost",
+    "TheFaceless",
+    "OurAngelsAreDifferent",
+    "PensieveFlashback",
+    "CreepyChild",
+    "DarkAndTroubledPast",
+    "OtherworldlyAndSexuallyAmbiguous",
+    "UncertainDoom",
+    "TemporalTrio",
+    "TopHeavyGuy",
+    "LightEmUp",
+    "MonochromeApparition",
+    "PerpetuallyProtean",
+    "AdaptationalSpeciesChange",
+    "CuteGhostGirl",
+    "AmbiguousGender",
+    "AlienGeometries",
+    "MysticalWhiteHair"
+  ],
   "tropes_by_category": {}
 }

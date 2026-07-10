@@ -1,7 +1,17 @@
 {
   "name": "Amy Sykes",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ActionGirl",
+    "GoodLookingPrivates",
+    "Expy",
+    "ShellShockedVeteran",
+    "FairCop",
+    "ProfessionalButtKisser",
+    "RememberTheNewGuy",
+    "TwoferTokenMinority",
+    "FireForgedFriends"
+  ],
   "tropes_by_category": {}
 }

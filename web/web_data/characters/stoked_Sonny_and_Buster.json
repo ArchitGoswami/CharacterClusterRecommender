@@ -1,7 +1,14 @@
 {
   "name": "Sonny and Buster",
   "show": "Stoked",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "ImAHumanitarian",
+    "WithFriendsLikeThese",
+    "BrooklynRage",
+    "TalkingAnimal",
+    "CarnivoreConfusion"
+  ],
   "tropes_by_category": {}
 }

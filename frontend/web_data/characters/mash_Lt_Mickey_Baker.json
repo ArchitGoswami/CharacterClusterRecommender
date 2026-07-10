@@ -1,7 +1,17 @@
 {
   "name": "Lt. Mickey Baker",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "ADayInTheLimelight",
+    "SuddenNameChange",
+    "TomboyishName",
+    "FriendToAllChildren",
+    "AlphabeticalThemeNaming",
+    "MilitaryAlphabet",
+    "CharacterizationMarchesOn",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

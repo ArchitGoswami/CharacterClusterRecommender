@@ -1,7 +1,15 @@
 {
   "name": "Rhonda Blair",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "WeHardlyKnewYe",
+    "PutOnABus",
+    "SlapSlapKiss",
+    "PlatonicLifePartners",
+    "TokenMinority",
+    "WorkoutFanservice"
+  ],
   "tropes_by_category": {}
 }

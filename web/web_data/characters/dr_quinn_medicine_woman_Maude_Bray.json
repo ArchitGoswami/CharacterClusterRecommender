@@ -1,7 +1,12 @@
 {
   "name": "Maude Bray",
   "show": "Dr. Quinn, Medicine Woman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BroodingBoyGentleGirl",
+    "OutlivingOnesOffspring",
+    "WeHardlyKnewYe",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

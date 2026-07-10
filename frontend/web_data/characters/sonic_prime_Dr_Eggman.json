@@ -1,7 +1,21 @@
 {
   "name": "Dr. Eggman",
   "show": "Sonic Prime",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "PostFinalBoss",
+    "GreaterScopeVillain",
+    "VillainousBreakdown",
+    "OutOfCharacterAlert",
+    "BigNo",
+    "EvilLaugh",
+    "SinisterSchnoz",
+    "BatmanGambit",
+    "MiniMecha",
+    "EvilIsNotAToy",
+    "BackForTheFinale",
+    "UngratefulBastard"
+  ],
   "tropes_by_category": {}
 }

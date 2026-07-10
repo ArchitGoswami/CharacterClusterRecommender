@@ -1,7 +1,20 @@
 {
   "name": "Ian Blackpoole",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "WickedCultured",
+    "OutGambitted",
+    "VillainousBreakdown",
+    "SmugSnake",
+    "RulesLawyer",
+    "ItsPersonal",
+    "LackOfEmpathy",
+    "TheCollector",
+    "EvilOldFolks",
+    "ManOfWealthAndTaste",
+    "CorruptCorporateExecutive",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

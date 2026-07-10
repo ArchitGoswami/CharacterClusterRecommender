@@ -1,7 +1,20 @@
 {
   "name": "Boris",
   "show": "Caillou",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "RailEnthusiast",
+    "RhymeThemeNaming",
+    "NiceGuy",
+    "WhatTheHellHero",
+    "CoupleThemeNaming",
+    "HappilyMarried",
+    "GoodParents",
+    "ReasonableAuthorityFigure",
+    "OnlyOneName",
+    "MemeticMutation",
+    "BewareTheNiceOnes",
+    "BrattyHalfPint"
+  ],
   "tropes_by_category": {}
 }

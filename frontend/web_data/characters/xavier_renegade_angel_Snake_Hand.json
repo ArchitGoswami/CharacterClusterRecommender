@@ -1,7 +1,20 @@
 {
   "name": "Snake Hand",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ADayInTheLimelight",
+    "TheUnintelligible",
+    "EatsBabies",
+    "ImAHumanitarian",
+    "LikesOlderWomen",
+    "ShapedLikeItself",
+    "PlayedForLaughs",
+    "EvilHand",
+    "DepravedBisexual",
+    "AmbiguouslyBi",
+    "MinorMajorCharacter",
+    "FetishesAreWeird"
+  ],
   "tropes_by_category": {}
 }

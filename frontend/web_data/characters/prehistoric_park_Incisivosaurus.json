@@ -1,7 +1,13 @@
 {
   "name": "Incisivosaurus",
   "show": "Prehistoric Park",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GoofyFeatheredDinosaur",
+    "AmazingTechnicolorWildlife",
+    "CoversAlwaysLie",
+    "GoofyBuckteeth",
+    "RuleOfCool"
+  ],
   "tropes_by_category": {}
 }

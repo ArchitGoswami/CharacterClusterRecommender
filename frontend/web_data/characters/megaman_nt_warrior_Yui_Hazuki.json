@@ -1,7 +1,13 @@
 {
   "name": "Yui Hazuki",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NiceJobBreakingItHero",
+    "BornUnlucky",
+    "TakenForGranite",
+    "DishingOutDirt",
+    "CuteClumsyGirl"
+  ],
   "tropes_by_category": {}
 }

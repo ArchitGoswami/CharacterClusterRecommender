@@ -1,7 +1,10 @@
 {
   "name": "The Hayes family",
   "show": "Everwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "LoveInterest"
+  ],
   "tropes_by_category": {}
 }

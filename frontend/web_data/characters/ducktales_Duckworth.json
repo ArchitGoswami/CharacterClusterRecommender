@@ -1,7 +1,24 @@
 {
   "name": "Duckworth",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "NonindicativeName",
+    "DeadpanSnarker",
+    "ADayInTheLimelight",
+    "IconicOutfit",
+    "ThemeNaming",
+    "SpeciesSurname",
+    "TheJeeves",
+    "RenaissanceMan",
+    "ServileSnarker",
+    "UndyingLoyalty",
+    "SophisticatedAsHell",
+    "HiddenDepths",
+    "TheStoic",
+    "JackOfAllTrades",
+    "Dogfaces",
+    "StiffUpperLip"
+  ],
   "tropes_by_category": {}
 }

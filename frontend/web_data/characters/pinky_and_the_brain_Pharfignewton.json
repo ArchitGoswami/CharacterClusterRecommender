@@ -1,7 +1,13 @@
 {
   "name": "Pharfignewton",
   "show": "Pinky and the Brain",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DoesThisRemindYouOfAnything",
+    "CaptainObvious",
+    "InterspeciesRomance",
+    "FurryConfusion",
+    "NearlyNormalAnimal"
+  ],
   "tropes_by_category": {}
 }

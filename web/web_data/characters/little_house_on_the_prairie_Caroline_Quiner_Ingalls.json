@@ -1,7 +1,22 @@
 {
   "name": "Caroline Quiner Ingalls",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DeathGlare",
+    "ProperLady",
+    "Schoolmarm",
+    "TextileWorkIsFeminine",
+    "BrainyBrunette",
+    "TheSmartGirl",
+    "CountryMouse",
+    "EducationMama",
+    "SilkHidingSteel",
+    "DeterminedHomesteader",
+    "BewareTheNiceOnes",
+    "SternParentDotingParent",
+    "ParentsAsPeople",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Maria Teresa",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CursedItem",
+    "NiceMeanAndInBetween",
+    "AmbiguouslyHuman",
+    "PetTheDog",
+    "WickedWitch",
+    "TheRival",
+    "OlderThanTheyLook",
+    "GroundhogDayLoop",
+    "ButterFace",
+    "Gonk",
+    "DotingGrandparent",
+    "RichBitch"
+  ],
   "tropes_by_category": {}
 }

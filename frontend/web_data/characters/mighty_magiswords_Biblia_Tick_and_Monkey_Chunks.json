@@ -1,7 +1,13 @@
 {
   "name": "Biblia Tick and Monkey Chunks",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "ReasonableAuthorityFigure",
+    "PunnyName",
+    "VerbalTic",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

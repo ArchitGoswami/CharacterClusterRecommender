@@ -1,7 +1,17 @@
 {
   "name": "Nathan Beady",
   "show": "Back at the Barnyard",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LazyHusband",
+    "GRatedDrug",
+    "AwLookTheyReallyDoLoveEachOther",
+    "Expy",
+    "OverlyLongName",
+    "SatelliteCharacter",
+    "StrongFamilyResemblance",
+    "TheStoic",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

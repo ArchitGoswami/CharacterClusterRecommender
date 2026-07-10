@@ -1,7 +1,18 @@
 {
   "name": "Chaz Finster",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "AmusingInjuries",
+    "NerdGlasses",
+    "HappilyMarried",
+    "ButtMonkey",
+    "UglyGuyHotWife",
+    "BumblingDad",
+    "TheLadette",
+    "DemotedToExtra",
+    "AscendedExtra",
+    "CrackOhMyBack"
+  ],
   "tropes_by_category": {}
 }

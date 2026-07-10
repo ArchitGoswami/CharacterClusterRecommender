@@ -1,7 +1,14 @@
 {
   "name": "Tetsu",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CanonForeigner",
+    "LadyInRed",
+    "AddledAddict",
+    "TheAlcoholic",
+    "HiddenDepths",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

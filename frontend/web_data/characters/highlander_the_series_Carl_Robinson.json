@@ -1,7 +1,17 @@
 {
   "name": "Carl Robinson",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SubvertedTrope",
+    "NiceGuy",
+    "CoolSword",
+    "TraumaCongaLine",
+    "PayEvilUntoEvil",
+    "MadeASlave",
+    "ClearMyName",
+    "DarkAndTroubledPast",
+    "AngryBlackManStereotype"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,31 @@
 {
   "name": "Nikita",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "FauxActionGirl",
+    "BrokenBird",
+    "MsFanservice",
+    "TheMentor",
+    "MasterOfDisguise",
+    "OnlyOneName",
+    "AntiHero",
+    "KnightInSourArmor",
+    "CopKiller",
+    "UnstablePoweredWoman",
+    "ActionFashionista",
+    "AmbiguouslyBi",
+    "DarkAndTroubledPast",
+    "FemmeFataleSpy",
+    "DisappearedDad",
+    "ChronicHeroSyndrome",
+    "SecondLove",
+    "DeathFakedForYou",
+    "AdaptationalWimp",
+    "LadyOfWar",
+    "DudeMagnet",
+    "TheMole",
+    "PingPongNaivete"
+  ],
   "tropes_by_category": {}
 }

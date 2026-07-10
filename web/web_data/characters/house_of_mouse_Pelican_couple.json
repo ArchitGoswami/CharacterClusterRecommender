@@ -1,7 +1,12 @@
 {
   "name": "Pelican couple",
   "show": "House of Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PelicanPackagePouch",
+    "NoNameGiven",
+    "Expy",
+    "OffScreenTeleportation"
+  ],
   "tropes_by_category": {}
 }

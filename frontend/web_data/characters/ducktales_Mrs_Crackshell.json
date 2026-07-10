@@ -1,7 +1,20 @@
 {
   "name": "Mrs. Crackshell",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AmnesiaEpisode",
+    "JerkWithAHeartOfGold",
+    "Catchphrase",
+    "WrenchWench",
+    "BorrowedCatchPhrase",
+    "BrilliantButLazy",
+    "LegacyCharacter",
+    "SingleWomanSeeksGoodMan",
+    "SecondLove",
+    "OnlyKnownByTheirNickname",
+    "FunctionalAddict",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

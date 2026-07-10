@@ -1,7 +1,25 @@
 {
   "name": "Imposter Dan/The Imposter/The Telemarketer",
   "show": "Dan Vs.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EvilPlan",
+    "AffablyEvil",
+    "TheChessmaster",
+    "NiceGuy",
+    "KarmaHoudini",
+    "TheBadGuyWins",
+    "NoNameGiven",
+    "CombatPragmatist",
+    "VillainHasAPoint",
+    "TheAce",
+    "HairTriggerTemper",
+    "FriendlyEnemy",
+    "AntiVillain",
+    "EvenEvilHasStandards",
+    "DidntThinkThisThrough",
+    "DiabolusExNihilo",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

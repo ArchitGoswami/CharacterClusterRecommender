@@ -1,7 +1,12 @@
 {
   "name": "Jason Todd",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TheQuietOne",
+    "NoNameGiven",
+    "LastEpisodeNewCharacter",
+    "MythologyGag"
+  ],
   "tropes_by_category": {}
 }

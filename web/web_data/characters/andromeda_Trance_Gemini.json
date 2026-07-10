@@ -1,7 +1,25 @@
 {
   "name": "Trance Gemini",
   "show": "Andromeda",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "OddFriendship",
+    "SufficientlyAdvancedAlien",
+    "HeroicBSOD",
+    "ResurrectiveImmortality",
+    "TheDitz",
+    "ThePollyanna",
+    "PhysicalGod",
+    "GreenSkinnedSpaceBabe",
+    "SentientStars",
+    "GenkiGirl",
+    "WoundedGazelleGambit",
+    "ObfuscatingStupidity",
+    "SuperStrength",
+    "BewareTheNiceOnes",
+    "GeniusLoci",
+    "EatingOptional",
+    "MortalityGreyArea"
+  ],
   "tropes_by_category": {}
 }

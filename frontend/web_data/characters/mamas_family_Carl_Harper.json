@@ -1,7 +1,16 @@
 {
   "name": "Carl Harper",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "LazyHusband",
+    "Beat",
+    "ToiletHumor",
+    "AManIsAlwaysEager",
+    "GuysAreSlobs",
+    "PosthumousCharacter",
+    "UndignifiedDeath",
+    "UncannyFamilyResemblance"
+  ],
   "tropes_by_category": {}
 }

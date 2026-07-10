@@ -1,7 +1,29 @@
 {
   "name": "Miss Pink Cat",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "AdaptationalAttractiveness",
+    "Foil",
+    "CatsAreMean",
+    "JerkWithAHeartOfGold",
+    "AdaptationalHeroism",
+    "AnthropomorphicShift",
+    "CompositeCharacter",
+    "CharacterCheck",
+    "AdaptationalJobChange",
+    "LocalHangout",
+    "ADayInTheLimelight",
+    "HalfDressedCartoonAnimal",
+    "ChristmasSpecial",
+    "SmallNameBigEgo",
+    "ShipTease",
+    "SouthernBelle",
+    "FrenchJerk",
+    "ChuckCunninghamSyndrome",
+    "JerkassRealization",
+    "ControlFreak",
+    "TookALevelInKindness"
+  ],
   "tropes_by_category": {}
 }

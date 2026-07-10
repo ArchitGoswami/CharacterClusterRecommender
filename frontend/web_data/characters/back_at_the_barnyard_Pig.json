@@ -1,7 +1,22 @@
 {
   "name": "Pig",
   "show": "Back at the Barnyard",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DistinguishingMark",
+    "OddNameOut",
+    "TheCuckoolanderWasRight",
+    "ADogNamedDog",
+    "BerserkButton",
+    "GluttonousPig",
+    "MessyPig",
+    "SarcasmBlind",
+    "SweetTooth",
+    "BigEater",
+    "HiddenDepths",
+    "BreakingTheFourthWall",
+    "Cloudcuckoolander",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

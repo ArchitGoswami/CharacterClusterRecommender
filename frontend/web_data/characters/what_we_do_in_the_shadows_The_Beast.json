@@ -1,7 +1,15 @@
 {
   "name": "\"The Beast\"",
   "show": "What We Do in the Shadows",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "WallBangHer",
+    "ABeastInNameAndNature",
+    "SamusIsAGirl",
+    "SexWithTheEx",
+    "TheDreaded",
+    "VillainyFreeVillain",
+    "MadLove"
+  ],
   "tropes_by_category": {}
 }

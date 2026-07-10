@@ -1,7 +1,12 @@
 {
   "name": "Weymer Simms",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CruelToBeKind",
+    "UptownGirl",
+    "HeroicSacrifice",
+    "GoodParents"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Geo Metro",
   "show": "Magic Knight Rayearth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HumongousMecha",
+    "AcePilot",
+    "NumberTwo",
+    "AntiVillain",
+    "HotBlooded",
+    "SweetTooth",
+    "GoodScarsEvilScars",
+    "AdaptationalBadass",
+    "VehicularThemeNaming"
+  ],
   "tropes_by_category": {}
 }

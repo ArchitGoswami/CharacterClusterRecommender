@@ -1,7 +1,26 @@
 {
   "name": "The Bolt Gun Killer",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "FaceStealer",
+    "EvilCannotComprehendGood",
+    "SamusIsAGirl",
+    "BodyHorror",
+    "FridgeLogic",
+    "NeverMyFault",
+    "RequiredSecondaryPowers",
+    "BlessedWithSuck",
+    "ImpostorForgotOneDetail",
+    "ImprobableWeaponUser",
+    "EveryoneCallsHimBarkeep",
+    "OlderThanTheyLook",
+    "Yandere",
+    "StartOfDarkness",
+    "GlamourFailure",
+    "SomethingOnlyTheyWouldSay",
+    "SerialKiller",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

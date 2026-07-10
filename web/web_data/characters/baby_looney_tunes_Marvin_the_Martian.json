@@ -1,7 +1,27 @@
 {
   "name": "Marvin the Martian",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "PropellerHatOfWhimsy",
+    "SuddenlySpeaking",
+    "LonersAreFreaks",
+    "NiceGuy",
+    "TheUnintelligible",
+    "TheQuietOne",
+    "AdaptationalHeroism",
+    "OneShotCharacter",
+    "BreakTheCutie",
+    "SuddenlyVoiced",
+    "CharacterTics",
+    "AlienAmongUs",
+    "ShrinkingViolet",
+    "MisunderstoodLonerWithAHeartOfGold",
+    "AllOfTheOtherReindeer",
+    "Moe",
+    "MrFixIt",
+    "SameClothesDifferentYear",
+    "NoMouth"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Mary Lou Wentz",
   "show": "Good Luck Charlie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "FriendlyRivalry"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,30 @@
 {
   "name": "Presley Carnovan",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TheChosenOne",
+    "LikesOlderWomen",
+    "Reincarnation",
+    "NonActionGuy",
+    "JustifiedTrope",
+    "AmbiguouslyBrown",
+    "MeaningfulName",
+    "DistractedByTheSexy",
+    "ObliviousToLove",
+    "KindheartedCatLover",
+    "MeetingYourReincarnation",
+    "RebelPrince",
+    "BrokenPedestal",
+    "DoggedNiceGuy",
+    "ShelteredAristocrat",
+    "ArbitrarySkepticism",
+    "ImCryingButIDontKnowWhy",
+    "SupportingProtagonist",
+    "PastLifeMemories",
+    "IJustWantToBeNormal",
+    "RebuiltPedestal",
+    "RookieRedRanger"
+  ],
   "tropes_by_category": {}
 }

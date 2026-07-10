@@ -1,7 +1,10 @@
 {
   "name": "Lee Goodard",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NewOldFlame",
+    "NiceGuy"
+  ],
   "tropes_by_category": {}
 }

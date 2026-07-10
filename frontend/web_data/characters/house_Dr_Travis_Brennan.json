@@ -1,7 +1,17 @@
 {
   "name": "Dr. Travis Brennan",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TokenEvilTeammate",
+    "Jerkass",
+    "MadDoctor",
+    "SingleIssueWonk",
+    "WhatHappenedToTheMouse",
+    "WellIntentionedExtremist",
+    "MotiveRant",
+    "SanityHasAdvantages",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

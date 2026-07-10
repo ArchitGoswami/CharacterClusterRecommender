@@ -1,7 +1,30 @@
 {
   "name": "Asok",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ImprobablyHighIQ",
+    "LimitedAdvancementOpportunities",
+    "TropeCodifier",
+    "ThePollyanna",
+    "HaveIMentionedIAmGay",
+    "PsychicPowers",
+    "InappropriateRoleModel",
+    "AirVentPassageway",
+    "WrongGenreSavvy",
+    "SkilledButNaive",
+    "YourHeadASplode",
+    "ButtMonkey",
+    "NaiveNewcomer",
+    "BollywoodNerd",
+    "TokenMinority",
+    "BreakingTheFourthWall",
+    "RunningGag",
+    "CloningGambit",
+    "CrapsackWorld",
+    "TheIntern",
+    "StraightGay",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

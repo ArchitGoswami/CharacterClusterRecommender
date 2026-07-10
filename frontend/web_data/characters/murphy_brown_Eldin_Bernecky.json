@@ -1,7 +1,9 @@
 {
   "name": "Eldin Bernecky",
   "show": "Murphy Brown",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheCharacterDiedWithHim"
+  ],
   "tropes_by_category": {}
 }

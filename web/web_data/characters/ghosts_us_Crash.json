@@ -1,7 +1,21 @@
 {
   "name": "Crash",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheBusCameBack",
+    "NoCelebritiesWereHarmed",
+    "LosingYourHead",
+    "OffWithHisHEad",
+    "OnlyKnownByTheirNickname",
+    "AgeLift",
+    "TheFriendNobodyLikes",
+    "FlatCharacter",
+    "RealLifeWritesThePlot",
+    "DemotedToExtra",
+    "GreaserDelinquents",
+    "AmbiguouslyBi",
+    "The50s"
+  ],
   "tropes_by_category": {}
 }

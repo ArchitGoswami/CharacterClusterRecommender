@@ -1,7 +1,25 @@
 {
   "name": "Jan Maas",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "JerkWithAHeartOfGold",
+    "ShipperOnDeck",
+    "NotSoAboveItAll",
+    "BrutalHonesty",
+    "CulturalPosturing",
+    "HonestAdvisor",
+    "HistoricalCharactersFictionalRelative",
+    "FullNameBasis",
+    "NaiveNewcomer",
+    "PhraseCatcher",
+    "InnocentlyInsensitive",
+    "TheComicallySerious",
+    "UnwittingInstigatorOfDoom",
+    "TruthInTelevision",
+    "AuthorAppeal",
+    "TheEeyore"
+  ],
   "tropes_by_category": {}
 }

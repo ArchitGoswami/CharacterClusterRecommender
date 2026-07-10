@@ -1,7 +1,11 @@
 {
   "name": "Sam Wood",
   "show": "In the Heat of the Night",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "RedHerring",
+    "TheDitz",
+    "ThePeepingTom"
+  ],
   "tropes_by_category": {}
 }

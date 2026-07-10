@@ -1,7 +1,9 @@
 {
   "name": "Hayley Fulton",
   "show": "Blue Heelers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "PacManFever"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "The Taylor Family",
   "show": "EastEnders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "ProperlyParanoid",
+    "HappilyMarried",
+    "ParentalNeglect",
+    "ToughLove",
+    "DomesticAbuse",
+    "MamaBear",
+    "HateSink",
+    "UnconfessedUnemployment",
+    "ReformedBully",
+    "HeroKiller",
+    "FreudianExcuseIsNoExcuse",
+    "CharacterDevelopment",
+    "WouldHurtAChild",
+    "EveryoneHasStandards",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

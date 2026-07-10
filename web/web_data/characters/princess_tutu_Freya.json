@@ -1,7 +1,16 @@
 {
   "name": "Freya",
   "show": "Princess Tutu",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CurtainsMatchTheWindow",
+    "HairOfGoldHeartOfGold",
+    "MeaningfulName",
+    "NiceGirl",
+    "DamselInDistress",
+    "InnocentFlowerGirl",
+    "TheIngenue",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

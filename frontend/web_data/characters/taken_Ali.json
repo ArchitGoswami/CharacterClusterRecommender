@@ -1,7 +1,15 @@
 {
   "name": "Ali",
   "show": "Taken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "GrievousBottleyHarm",
+    "NoFullNameGiven",
+    "UseTheirOwnWeaponAgainstThem",
+    "DeviousDaggers",
+    "EvilWearsBlack",
+    "RasputinianDeath",
+    "TheDragon"
+  ],
   "tropes_by_category": {}
 }

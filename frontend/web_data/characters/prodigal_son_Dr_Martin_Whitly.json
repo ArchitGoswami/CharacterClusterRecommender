@@ -1,7 +1,14 @@
 {
   "name": "Dr. Martin Whitly",
   "show": "Prodigal Son",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AffablyEvil",
+    "Catchphrase",
+    "EvenEvilHasLovedOnes",
+    "MultipleChoicePast",
+    "SerialKiller",
+    "EvenEvilHasStandards"
+  ],
   "tropes_by_category": {}
 }

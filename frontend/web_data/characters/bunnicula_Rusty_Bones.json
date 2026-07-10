@@ -1,7 +1,14 @@
 {
   "name": "Rusty Bones",
   "show": "Bunnicula",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FailureIsTheOnlyOption",
+    "ThePollyanna",
+    "NotEvilJustMisunderstood",
+    "SingingVoiceDissonance",
+    "OnlySaneMan",
+    "TheEeyore"
+  ],
   "tropes_by_category": {}
 }

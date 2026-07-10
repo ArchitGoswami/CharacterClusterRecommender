@@ -1,7 +1,17 @@
 {
   "name": "Muffin, The Town President",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmazingTechnicolorWildlife",
+    "Jerkass",
+    "MayorPain",
+    "ILied",
+    "EveryoneCallsHimBarkeep",
+    "BlatantLies",
+    "ItsAllAboutMe",
+    "NoNameGiven",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

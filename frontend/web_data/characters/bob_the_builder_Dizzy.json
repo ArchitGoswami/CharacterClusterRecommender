@@ -1,7 +1,20 @@
 {
   "name": "Dizzy",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ShesAManInJapan",
+    "Catchphrase",
+    "TheBabyOfTheBunch",
+    "TheSmurfettePrinciple",
+    "CommonalityConnection",
+    "GenkiGirl",
+    "KidAppealCharacter",
+    "TheCutie",
+    "ImageSong",
+    "DemotedToExtra",
+    "PluckyComicRelief",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

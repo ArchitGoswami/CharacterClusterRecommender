@@ -1,7 +1,23 @@
 {
   "name": "Bubba Higgins",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "TheCasanova",
+    "LovableJock",
+    "NiceGuy",
+    "MrFanservice",
+    "SuspiciouslySimilarSubstitute",
+    "ParentalSubstitute",
+    "WholesomeCrossdresser",
+    "PlayedForLaughs",
+    "HiddenDepths",
+    "BigEater",
+    "CharacterDevelopment",
+    "ParentalAbandonment",
+    "InsistentTerminology",
+    "OnlyKnownByTheirNickname",
+    "BurgerFool"
+  ],
   "tropes_by_category": {}
 }

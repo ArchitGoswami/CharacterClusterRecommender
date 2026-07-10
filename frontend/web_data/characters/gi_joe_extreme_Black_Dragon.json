@@ -1,7 +1,12 @@
 {
   "name": "Black Dragon",
   "show": "G.I. Joe Extreme",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "RaceLift",
+    "TheSpeechless",
+    "Expy",
+    "Ninja"
+  ],
   "tropes_by_category": {}
 }

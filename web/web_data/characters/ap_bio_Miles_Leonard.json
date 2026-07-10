@@ -1,7 +1,13 @@
 {
   "name": "Miles Leonard",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AdvertisedExtra",
+    "ChuckCunninghamSyndrome",
+    "HeroAntagonist",
+    "NiceGuy",
+    "KarmaHoudini"
+  ],
   "tropes_by_category": {}
 }

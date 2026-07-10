@@ -1,7 +1,21 @@
 {
   "name": "Patches the Weredude",
   "show": "Bunnicula",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ReverseSupernaturalCreature",
+    "BefriendingTheEnemy",
+    "HalfHumanHybrid",
+    "MellowFellow",
+    "IHaveManyNames",
+    "ForgetfulJones",
+    "FunPersonified",
+    "BuffoonishTomcat",
+    "SimpletonVoice",
+    "DelusionsOfDoghood",
+    "CloudCuckoolander",
+    "Cloudcuckoolander",
+    "DogsAreDumb"
+  ],
   "tropes_by_category": {}
 }

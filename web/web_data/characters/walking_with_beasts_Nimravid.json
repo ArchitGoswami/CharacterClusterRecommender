@@ -1,7 +1,13 @@
 {
   "name": "Nimravid",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Foreshadowing",
+    "AlternateContinuity",
+    "WackyWaysideTribe",
+    "FromNobodyToNightmare",
+    "NoNameGiven"
+  ],
   "tropes_by_category": {}
 }

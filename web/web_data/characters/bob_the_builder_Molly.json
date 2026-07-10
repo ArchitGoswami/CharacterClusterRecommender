@@ -1,7 +1,13 @@
 {
   "name": "Molly",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NoFullNameGiven",
+    "MirrorCharacter",
+    "HiddenDepths",
+    "TokenMinority",
+    "MissingMom"
+  ],
   "tropes_by_category": {}
 }

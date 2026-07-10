@@ -1,7 +1,22 @@
 {
   "name": "Quinn \"Mallory\" Mallory",
   "show": "Sliders",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "SplitPersonality",
+    "AppliedPhlebotinum",
+    "TheNthDoctor",
+    "HonorBeforeReason",
+    "SharingABody",
+    "LoveableRogue",
+    "FlipPersonality",
+    "AntiHeroSubstitute",
+    "ParentalAbandonment",
+    "BookDumb",
+    "TheCharmer",
+    "DarkAndTroubledPast",
+    "LastNameBasis",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

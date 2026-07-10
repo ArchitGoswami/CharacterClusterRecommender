@@ -1,7 +1,21 @@
 {
   "name": "Big Jet",
   "show": "Little Einsteins",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "BlackAndBlueAndScaryAllOver",
+    "Jerkass",
+    "CheatersNeverProsper",
+    "BigBad",
+    "TheSpeechless",
+    "GoodColorsEvilColors",
+    "SoreLoser",
+    "KickTheDog",
+    "DickDastardlyStopsToCheat",
+    "ItsPersonal",
+    "SpeakOfTheDevil",
+    "SentientVehicle"
+  ],
   "tropes_by_category": {}
 }

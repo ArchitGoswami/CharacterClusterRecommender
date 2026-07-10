@@ -1,7 +1,25 @@
 {
   "name": "Cassandra Stone and Faye Moskowitz",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DeadpanSnarker",
+    "CantHoldHisLiquor",
+    "ChuckCunninghamSyndrome",
+    "PursueTheDreamJob",
+    "SexyShirtSwitch",
+    "Foil",
+    "SupremeChef",
+    "HowTheyTreatTheHelp",
+    "GracefulLadiesLikePurple",
+    "LoveTriangle",
+    "JewsLoveToArgue",
+    "MasterOfTheMixedMessage",
+    "AmicableExes",
+    "AmbiguouslyBi",
+    "JewishMother",
+    "PoorCommunicationKills",
+    "InformedFlaw"
+  ],
   "tropes_by_category": {}
 }

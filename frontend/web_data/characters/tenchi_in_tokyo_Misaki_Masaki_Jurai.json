@@ -1,7 +1,27 @@
 {
   "name": "Misaki Masaki Jurai",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "AmazinglyEmbarrassingParents",
+    "BerserkButton",
+    "RedEyesTakeWarning",
+    "DeathGlare",
+    "AllThereInTheManual",
+    "ArrangedMarriage",
+    "GodWasMyCopilot",
+    "Cloudcuckoolander",
+    "RepetitiveName",
+    "SuperpoweredEvilSide",
+    "MamaBear",
+    "StacysMom",
+    "StrongFamilyResemblance",
+    "ActionGirlfriend",
+    "CuddleBug",
+    "LoveMakesYouCrazy",
+    "PerfectlyArrangedMarriage",
+    "ActionMom",
+    "MagnificentBastard"
+  ],
   "tropes_by_category": {}
 }

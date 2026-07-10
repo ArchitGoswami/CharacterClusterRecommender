@@ -1,7 +1,22 @@
 {
   "name": "As a whole",
   "show": "Bubble Guppies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TrueCompanions",
+    "FriendToAllLivingThings",
+    "NiceGuy",
+    "SixthRanger",
+    "TokenHuman",
+    "AerithAndBob",
+    "FiveTokenBand",
+    "AmbiguouslyJewish",
+    "GenderEqualEnsemble",
+    "MrImagination",
+    "FreeRangeChildren",
+    "VagueAge",
+    "PuppyLove",
+    "FourTemperamentEnsemble"
+  ],
   "tropes_by_category": {}
 }

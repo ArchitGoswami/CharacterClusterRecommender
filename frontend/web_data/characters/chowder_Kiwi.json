@@ -1,7 +1,12 @@
 {
   "name": "Kiwi",
   "show": "Chowder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGuy",
+    "GreekChorus",
+    "MessyMaggots",
+    "CharacterTic"
+  ],
   "tropes_by_category": {}
 }

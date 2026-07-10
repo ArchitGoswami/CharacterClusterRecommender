@@ -1,7 +1,30 @@
 {
   "name": "Alton Brown",
   "show": "Good Eats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ThisIsGonnaSuck",
+    "TheWatson",
+    "AddedAlliterativeAppeal",
+    "UnitConfusion",
+    "CatchPhrase",
+    "ShoutOut",
+    "AnotherStoryForAnotherTime",
+    "HypocriticalHumor",
+    "LampshadeHanging",
+    "MacGyvering",
+    "SmallNameBigEgo",
+    "RealisticDictionIsUnrealistic",
+    "GoshDangItToHeck",
+    "ForScience",
+    "TitleDrop",
+    "SophisticatedAsHell",
+    "SelfDemonstratingArticle",
+    "Catchphrase",
+    "CanineCompanion",
+    "BadBoss",
+    "TrademarkFavoriteFood",
+    "SelfDeprecation"
+  ],
   "tropes_by_category": {}
 }

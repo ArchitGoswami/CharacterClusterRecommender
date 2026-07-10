@@ -1,7 +1,19 @@
 {
   "name": "Kinko Inuyama",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BoyishShortHair",
+    "OddFriendship",
+    "Foil",
+    "TomboyAndGirlyGirl",
+    "Tomboy",
+    "CuteClumsyGirl",
+    "AffectionateNickname",
+    "NiceGirl",
+    "AmbiguouslyBrown",
+    "GoodIsNotSoft",
+    "FakeCutie"
+  ],
   "tropes_by_category": {}
 }

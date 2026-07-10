@@ -1,7 +1,14 @@
 {
   "name": "Mr. Angelo Sabatini",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LocalHangout",
+    "Catchphrase",
+    "GratuitousItalian",
+    "HiddenDepths",
+    "PlatonicKissing",
+    "FreezeFrameBonus"
+  ],
   "tropes_by_category": {}
 }

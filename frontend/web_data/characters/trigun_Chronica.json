@@ -1,7 +1,14 @@
 {
   "name": "Chronica",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "NotSoStoic",
+    "FlashStep",
+    "RestrainingBolt",
+    "BigDamnHeroes",
+    "SuperweaponSurprise",
+    "TheStoic"
+  ],
   "tropes_by_category": {}
 }

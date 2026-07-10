@@ -1,7 +1,25 @@
 {
   "name": "Kamon Nandaba",
   "show": "FLCL",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "NoFourthWall",
+    "MadnessMantra",
+    "WackyParentSeriousChild",
+    "AdultsAreUseless",
+    "AbusiveParent",
+    "DeathByAdaptation",
+    "Manchild",
+    "Otaku",
+    "SmarterThanYouLook",
+    "OnlyMostlyDead",
+    "LeftForDead",
+    "HiddenDepths",
+    "TitleDrop",
+    "DumbassHasAPoint",
+    "ButtMonkey",
+    "GagPenis",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "The Ninja Brothers",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "BigBrotherBully"
+  ],
   "tropes_by_category": {}
 }

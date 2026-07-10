@@ -1,7 +1,11 @@
 {
   "name": "Winkle",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TiredOfRunning",
+    "NiceJobBreakingItHero",
+    "CowardlyLion"
+  ],
   "tropes_by_category": {}
 }

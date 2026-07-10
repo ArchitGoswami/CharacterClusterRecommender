@@ -1,7 +1,28 @@
 {
   "name": "Dave Nelson",
   "show": "NewsRadio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "MustHaveCaffeine",
+    "OnlySaneEmployee",
+    "CompressedVice",
+    "BookDumb",
+    "SurroundedByIdiots",
+    "NotSoAboveItAll",
+    "Ventriloquism",
+    "NaiveNewcomer",
+    "MaddenIntoMisanthropy",
+    "HiddenDepths",
+    "VitriolicBestBuds",
+    "MinnesotaNice",
+    "ClosetGeek",
+    "TheCassandra",
+    "RunningGag",
+    "StopHavingFunGuy",
+    "Flanderization",
+    "BenevolentBoss",
+    "Lampshade",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

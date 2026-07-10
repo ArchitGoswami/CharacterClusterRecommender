@@ -1,7 +1,14 @@
 {
   "name": "Captain Steel (Hank Heywood Jr.)",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DisappearedDad",
+    "DroppedABridgeOnHim",
+    "NotSoStoic",
+    "RaceLift",
+    "TheStoic",
+    "AdaptationNameChange"
+  ],
   "tropes_by_category": {}
 }

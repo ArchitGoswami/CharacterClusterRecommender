@@ -1,7 +1,12 @@
 {
   "name": "Lydia Bates",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WoundedGazelleGambit",
+    "DaddysLittleVillain",
+    "BitchInSheepsClothing",
+    "ChronicHeroSyndrome"
+  ],
   "tropes_by_category": {}
 }

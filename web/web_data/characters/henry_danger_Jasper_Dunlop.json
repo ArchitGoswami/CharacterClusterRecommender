@@ -1,7 +1,24 @@
 {
   "name": "Jasper Dunlop",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "BigBrotherInstinct",
+    "AscendedFanboy",
+    "ExpositoryHairstyleChange",
+    "VocalEvolution",
+    "DistressedDude",
+    "TheDitz",
+    "SensitiveGuyAndManlyMan",
+    "TookALevelInJerkass",
+    "TookALevelInKindness",
+    "FatAndSkinny",
+    "CollectorOfTheStrange",
+    "TheFriendNobodyLikes",
+    "SuperMode",
+    "Cloudcuckoolander",
+    "ButtMonkey",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "El Chupacabra",
   "show": "Victor and Valentino",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "FriendToAllLivingThings",
+    "VegetarianVampire",
+    "TerribleArtist"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Eric Endicott",
   "show": "In the Heat of the Night",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "EstablishingCharacterMoment",
+    "AdaptationalJerkass",
+    "PoliticallyIncorrectVillain"
+  ],
   "tropes_by_category": {}
 }

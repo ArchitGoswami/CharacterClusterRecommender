@@ -1,7 +1,31 @@
 {
   "name": "Randolph Bell",
   "show": "The Resident",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TragicVillain",
+    "DueToTheDead",
+    "DealWithTheDevil",
+    "SurprisinglyRealisticOutcome",
+    "OnlyInItForTheMoney",
+    "CompressedVice",
+    "EveryoneHasStandards",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "HidingTheHandicap",
+    "OpenSecret",
+    "JerkassHasAPoint",
+    "HalloweenEpisode",
+    "KarmaHoudini",
+    "NoGoodDeedGoesUnpunished",
+    "MockMillionaire",
+    "ConspicuousConsumption",
+    "AFoolAndHisNewMoneyAreSoonParted",
+    "ElephantInTheLivingRoom",
+    "TheChainsOfCommanding",
+    "AloneWithThePsycho",
+    "TookALevelInKindness",
+    "SerialKiller"
+  ],
   "tropes_by_category": {}
 }

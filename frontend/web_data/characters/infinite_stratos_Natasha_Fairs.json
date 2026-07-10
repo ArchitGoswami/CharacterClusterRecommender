@@ -1,7 +1,18 @@
 {
   "name": "Natasha Fairs",
   "show": "Infinite Stratos",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ThisIsUnforgivable",
+    "WhatTheHellHero",
+    "ICallItVera",
+    "MajorInjuryUnderreaction",
+    "MamaBear",
+    "ComicallyMissingThePoint",
+    "AdaptedOut",
+    "UnwantedHarem",
+    "BigDamnHeroes",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

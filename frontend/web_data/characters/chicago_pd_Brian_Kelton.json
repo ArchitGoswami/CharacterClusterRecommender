@@ -1,7 +1,13 @@
 {
   "name": "Brian Kelton",
   "show": "Chicago PD",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DirtyCop",
+    "BigBad",
+    "AmbitionIsEvil",
+    "DeathByIrony",
+    "PyrrhicVictory"
+  ],
   "tropes_by_category": {}
 }

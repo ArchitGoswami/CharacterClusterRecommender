@@ -1,7 +1,13 @@
 {
   "name": "Harry Mackenzie",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Expy",
+    "ChekhovsGunman",
+    "TheAce",
+    "CoolShades",
+    "BadassBiker"
+  ],
   "tropes_by_category": {}
 }

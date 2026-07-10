@@ -1,7 +1,26 @@
 {
   "name": "Johnson",
   "show": "Peep Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "BrokenPedestal",
+    "PointyHairedBoss",
+    "VillainousBreakdown",
+    "JerkJock",
+    "PetTheDog",
+    "EvenTheGuysWantHim",
+    "TheSocialDarwinist",
+    "LastNameBasis",
+    "TheTeetotaler",
+    "StupidSexyFlanders",
+    "BunnyEarsLawyer",
+    "HeManWomanHater",
+    "TheAlcoholic",
+    "SanitySlippage",
+    "BadBoss",
+    "DrivenToSuicide",
+    "Cloudcuckoolander",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Miranda Shaw",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HeroWithBadPublicity",
+    "HeroicBSOD",
+    "WhatTheHellHero",
+    "ReasonableAuthorityFigure",
+    "BigGood",
+    "TookALevelInJerkass",
+    "MamaBear",
+    "MyGodWhatHaveIDone",
+    "BigDamnHeroes",
+    "FaceHeelTurn",
+    "BlackBossLady"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Phosphorus Rex",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "WouldHitAGirl",
+    "Pyromaniac",
+    "MeaningfulName",
+    "TheDragon",
+    "WreathedInFlames",
+    "AmoralAttorney",
+    "EvilRedhead",
+    "SmugSnake",
+    "FlamingHair",
+    "DragonInChief",
+    "PlayingWithFire",
+    "ElementalHairColors",
+    "AscendedExtra",
+    "CanonCharacterAllAlong",
+    "Fireballs",
+    "StevenUlyssesPerhero",
+    "NamedByTheAdaptation",
+    "PowerEchoes",
+    "AlliterativeName",
+    "EvilIsBurningHot"
+  ],
   "tropes_by_category": {}
 }

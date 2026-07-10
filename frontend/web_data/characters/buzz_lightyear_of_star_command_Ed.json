@@ -1,7 +1,13 @@
 {
   "name": "Ed",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "UnstoppableMailman",
+    "Catchphrase",
+    "Courier",
+    "NoodleIncident",
+    "AlwaysChaoticEvil"
+  ],
   "tropes_by_category": {}
 }

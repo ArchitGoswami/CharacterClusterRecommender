@@ -1,7 +1,31 @@
 {
   "name": "Lady Debonair",
   "show": "Magic Knight Rayearth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "AsLongAsThereIsEvil",
+    "Brainwashing",
+    "NietzscheWannabe",
+    "DefeatEqualsExplosion",
+    "DarkIsEvil",
+    "VilerNewVillain",
+    "NightmareFace",
+    "OneWingedAngel",
+    "FinalBoss",
+    "CanonForeigner",
+    "FemmeFatalons",
+    "VehicularThemeNaming",
+    "OutsideContextProblem",
+    "AbusiveMom",
+    "TheHeartless",
+    "AntiVillain",
+    "CanonImmigrant",
+    "HopeCrusher",
+    "LargeHam",
+    "BigBad",
+    "EvilLaugh",
+    "OrcusOnHisThrone",
+    "EvilCounterpart"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Hovis",
   "show": "Catscratch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "NotSoAboveItAll",
+    "DreadfulMusician",
+    "TheJeeves",
+    "ServileSnarker",
+    "OldRetainer",
+    "HiddenDepths",
+    "PerpetualFrowner",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

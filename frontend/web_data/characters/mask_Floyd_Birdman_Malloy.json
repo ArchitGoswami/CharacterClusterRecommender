@@ -1,7 +1,9 @@
 {
   "name": "Floyd \"Birdman\" Malloy",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AnimeHair"
+  ],
   "tropes_by_category": {}
 }

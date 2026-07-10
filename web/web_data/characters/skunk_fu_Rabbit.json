@@ -1,7 +1,28 @@
 {
   "name": "Rabbit",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "BigBrotherMentor",
+    "BerserkButton",
+    "AntiHero",
+    "BelligerentSexualTension",
+    "ButtMonkey",
+    "IronButtMonkey",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "BigBrotherInstinct",
+    "Deuteragonist",
+    "Jerkass",
+    "WorldOfPun",
+    "BadassBoast",
+    "BadassAdorable",
+    "PetTheDog",
+    "KarmaHoudini",
+    "BigBrotherBully",
+    "Warhawk",
+    "RhymesOnADime",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

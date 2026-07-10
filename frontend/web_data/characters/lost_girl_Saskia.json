@@ -1,7 +1,26 @@
 {
   "name": "\"Saskia\"",
   "show": "Lost Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "LukeIAmYourFather",
+    "BeingTorturedMakesYouEvil",
+    "TheVamp",
+    "DyingAsYourself",
+    "SuccubiAndIncubi",
+    "BigBad",
+    "BerserkButton",
+    "SuperpoweredEvilSide",
+    "SlashedThroat",
+    "AxCrazy",
+    "ParentalIncest",
+    "AntagonisticOffspring",
+    "EvilMentor",
+    "MeaningfulName",
+    "NeverFoundTheBody",
+    "SupernaturallyYoungParent",
+    "ReallySevenHundredYearsOld",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

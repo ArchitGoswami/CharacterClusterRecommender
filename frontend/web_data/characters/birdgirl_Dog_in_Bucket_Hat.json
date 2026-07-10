@@ -1,7 +1,11 @@
 {
   "name": "Dog in Bucket Hat",
   "show": "Birdgirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "RecoveredAddict",
+    "HisNameReallyIsBarkeep",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Jake Malloy",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Retcon",
+    "DerailingLoveInterests",
+    "EndearinglyDorky",
+    "HappilyMarried",
+    "TheUnseen",
+    "HelloAttorney",
+    "WeUsedToBeFriends",
+    "DisposableWoman"
+  ],
   "tropes_by_category": {}
 }

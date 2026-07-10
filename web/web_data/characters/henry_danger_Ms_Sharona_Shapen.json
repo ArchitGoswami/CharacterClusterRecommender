@@ -1,7 +1,11 @@
 {
   "name": "Ms. Sharona Shapen",
   "show": "Henry Danger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheDogBitesBack",
+    "PunnyName",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

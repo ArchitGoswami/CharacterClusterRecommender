@@ -1,7 +1,13 @@
 {
   "name": "Elvy Hadhiyat",
   "show": "RahXephon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CharacterDeath",
+    "AcePilot",
+    "HardDrinkingPartyGirl",
+    "AmbiguouslyBrown",
+    "VitriolicBestBuds"
+  ],
   "tropes_by_category": {}
 }

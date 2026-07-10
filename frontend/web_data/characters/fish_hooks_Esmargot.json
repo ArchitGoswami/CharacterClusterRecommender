@@ -1,7 +1,13 @@
 {
   "name": "Esmargot",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OfficialCouple",
+    "PinkMeansFeminine",
+    "PunnyName",
+    "GirlishPigtails",
+    "TheEeyore"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Rhys Williams",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "UnderstandingBoyfriend",
+    "ChainsawGood",
+    "BerserkButton",
+    "HappilyMarried",
+    "BadassNormal",
+    "PutOnABus",
+    "ActionSurvivor",
+    "NegatedMomentOfAwesome",
+    "Muggle",
+    "NakedPeopleAreFunny",
+    "BewareTheNiceOnes",
+    "SixthRanger",
+    "ArsonMurderAndJaywalking",
+    "BackFromTheDead",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

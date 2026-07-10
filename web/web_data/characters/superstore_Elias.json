@@ -1,7 +1,10 @@
 {
   "name": "Elias",
   "show": "Superstore",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheVoiceless",
+    "HiddenDepths"
+  ],
   "tropes_by_category": {}
 }

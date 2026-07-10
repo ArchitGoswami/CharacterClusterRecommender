@@ -1,7 +1,10 @@
 {
   "name": "Bunkey",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OneShotCharacter",
+    "PaperThinDisguise"
+  ],
   "tropes_by_category": {}
 }

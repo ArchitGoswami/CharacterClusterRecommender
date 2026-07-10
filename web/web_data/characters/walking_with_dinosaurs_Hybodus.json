@@ -1,7 +1,26 @@
 {
   "name": "Hybodus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SuperNotDrowningSkills",
+    "AllThereInTheManual",
+    "WhosLaughingNow",
+    "TheWorfEffect",
+    "ScrewThisImOuttaHere",
+    "ForebodingFleeingFlock",
+    "ThreateningShark",
+    "NoNameGiven",
+    "TheNoseKnows",
+    "SpikesOfVillainy",
+    "MonsterMunch",
+    "BlackBeadEyes",
+    "YouCanRunButYouCantHide",
+    "DemotedToExtra",
+    "EatsBabies",
+    "AlwaysSomeoneBetter",
+    "AnachronismStew",
+    "CirclingVultures"
+  ],
   "tropes_by_category": {}
 }

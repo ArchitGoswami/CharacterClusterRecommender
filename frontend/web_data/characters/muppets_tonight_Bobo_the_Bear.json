@@ -1,7 +1,16 @@
 {
   "name": "Bobo the Bear",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ThoseTwoGuys",
+    "MinionWithAnFInEvil",
+    "DadTheVeteran",
+    "BearyFriendly",
+    "DemotedToExtra",
+    "AscendedExtra",
+    "BreakoutCharacter",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

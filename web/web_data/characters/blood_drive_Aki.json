@@ -1,7 +1,24 @@
 {
   "name": "Aki",
   "show": "Blood Drive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "HeelFaceTurn",
+    "UncannyValleyGirl",
+    "MsFanservice",
+    "Sexbot",
+    "BarbieDollAnatomy",
+    "TheMole",
+    "Dominatrix",
+    "ArtificialHuman",
+    "SciFiBobHaircut",
+    "WhatIsThisThingYouCallLove",
+    "FanDisservice",
+    "NippleAndDimed",
+    "ReplacementGoldfish",
+    "EmotionlessGirl",
+    "EyeColourChange",
+    "FunWithAcronyms"
+  ],
   "tropes_by_category": {}
 }

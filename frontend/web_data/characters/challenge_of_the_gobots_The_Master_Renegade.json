@@ -1,7 +1,13 @@
 {
   "name": "The Master Renegade",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HumanAlien",
+    "EyepatchOfPower",
+    "HumanPopsicle",
+    "BigEater",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Hana no Kunoichi Gumi (Flower Kunoichi Gang)",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheDividual",
+    "PsychoRangers",
+    "HumanityEnsues",
+    "DeathOfPersonality",
+    "EliteMook",
+    "StrongAsTheyNeedToBe",
+    "CatsAreMean",
+    "QuirkyMiniBossSquad",
+    "AmazonBrigade"
+  ],
   "tropes_by_category": {}
 }

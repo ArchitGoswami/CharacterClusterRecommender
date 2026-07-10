@@ -1,7 +1,14 @@
 {
   "name": "Thylacosmilus",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheHeavy",
+    "SadlyMythtaken",
+    "BigBad",
+    "SuspiciouslySimilarSubstitute",
+    "WeakWilled",
+    "Chupacabra"
+  ],
   "tropes_by_category": {}
 }

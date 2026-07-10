@@ -1,7 +1,20 @@
 {
   "name": "Mr. Ford",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ActionPet",
+    "Beat",
+    "ArmsDealer",
+    "OurPresidentsAreDifferent",
+    "BedlamHouse",
+    "HumansAreMorons",
+    "ContinuityCameo",
+    "BlatantLies",
+    "ComicallyMissingThePoint",
+    "NewJobAsThePlotDemands",
+    "ContinuityNod",
+    "Flashback"
+  ],
   "tropes_by_category": {}
 }

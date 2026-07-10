@@ -1,7 +1,19 @@
 {
   "name": "Frank Grimes",
   "show": "Ugly Americans",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DaChief",
+    "MyBelovedSmother",
+    "GagPenis",
+    "NobleBigotWithABadge",
+    "Jerkass",
+    "SociopathicHero",
+    "AFatherToHisMen",
+    "TheAtoner",
+    "AccidentalMurder",
+    "CharacterDevelopment",
+    "HighTurnoverRate"
+  ],
   "tropes_by_category": {}
 }

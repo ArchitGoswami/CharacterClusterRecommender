@@ -1,7 +1,30 @@
 {
   "name": "Christopher Hermann",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "SkewedPriorities",
+    "SitcomArchNemesis",
+    "ActionDad",
+    "LimitedAdvancementOpportunities",
+    "FriendToAllChildren",
+    "MassiveNumberedSiblings",
+    "NumberTwo",
+    "GetRichQuickScheme",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "TheLeader",
+    "TheHeart",
+    "HiddenDepths",
+    "JerkassHasAPoint",
+    "HotBlooded",
+    "ExperiencedProtagonist",
+    "HappilyMarried",
+    "RankUp",
+    "FamilyMan",
+    "Ponzi",
+    "HeterosexualLifePartners",
+    "ShirtlessScene"
+  ],
   "tropes_by_category": {}
 }

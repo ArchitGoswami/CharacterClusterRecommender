@@ -1,7 +1,13 @@
 {
   "name": "Vince Howard",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MommasBoy",
+    "SuspiciouslySimilarSubstitute",
+    "HandsomeLech",
+    "PromotionToParent",
+    "BrokenAce"
+  ],
   "tropes_by_category": {}
 }

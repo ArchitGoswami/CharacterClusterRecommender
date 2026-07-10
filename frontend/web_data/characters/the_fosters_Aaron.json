@@ -1,7 +1,18 @@
 {
   "name": "Aaron",
   "show": "The Fosters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MistakenForGay",
+    "TransTribulations",
+    "NiceGuy",
+    "SatelliteLoveInterest",
+    "CrazyJealousGuy",
+    "TeenGenius",
+    "TheRunaway",
+    "MyGodWhatHaveIDone",
+    "AmicableExes",
+    "ComingOutStory"
+  ],
   "tropes_by_category": {}
 }

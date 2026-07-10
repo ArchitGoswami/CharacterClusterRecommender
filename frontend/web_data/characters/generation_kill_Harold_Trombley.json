@@ -1,7 +1,20 @@
 {
   "name": "Harold Trombley",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TokenEvilTeammate",
+    "DissonantSerenity",
+    "BlatantLies",
+    "AxCrazy",
+    "BlackComedy",
+    "ImprobableAimingSkills",
+    "KickTheDog",
+    "MyGirlBackHome",
+    "BloodKnight",
+    "SociopathicSoldier",
+    "NewMeat",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

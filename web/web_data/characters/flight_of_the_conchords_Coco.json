@@ -1,7 +1,15 @@
 {
   "name": "Coco",
   "show": "Flight of the Conchords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "OffscreenBreakup",
+    "BirdsOfAFeather",
+    "OnlyOneName",
+    "BettyAndVeronica",
+    "YokoOhNo",
+    "PursueTheDreamJob",
+    "OfficeRomance"
+  ],
   "tropes_by_category": {}
 }

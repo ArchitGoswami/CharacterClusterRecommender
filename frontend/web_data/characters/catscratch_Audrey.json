@@ -1,7 +1,14 @@
 {
   "name": "Audrey",
   "show": "Catscratch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FurryConfusion",
+    "InformedSpecies",
+    "MissingMom",
+    "StrongFamilyResemblance",
+    "TruthInTelevision",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

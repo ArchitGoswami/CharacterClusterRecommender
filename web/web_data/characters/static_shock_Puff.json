@@ -1,7 +1,16 @@
 {
   "name": "Puff",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadlyGas",
+    "TheLeader",
+    "RetCanon",
+    "BerserkButton",
+    "FogFeet",
+    "RaceLift",
+    "EvilDuo",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Delisha Sloss",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Blackmail",
+    "JerkWithAHeartofJerk",
+    "AssholeVictim",
+    "JerkAss",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

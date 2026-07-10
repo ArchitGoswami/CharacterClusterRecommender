@@ -1,7 +1,11 @@
 {
   "name": "Sydney Driscoll",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HeroAntagonist",
+    "EvilAllAlong",
+    "TheDragon"
+  ],
   "tropes_by_category": {}
 }

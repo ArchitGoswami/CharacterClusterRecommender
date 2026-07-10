@@ -1,7 +1,13 @@
 {
   "name": "Ethan Cragg",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "WeHardlyKnewYe",
+    "SuspiciouslySimilarSubstitute",
+    "BeleagueredAssistant",
+    "EurekaMoment"
+  ],
   "tropes_by_category": {}
 }

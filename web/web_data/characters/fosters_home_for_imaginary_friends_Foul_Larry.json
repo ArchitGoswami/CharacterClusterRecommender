@@ -1,7 +1,30 @@
 {
   "name": "Foul Larry",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "ScarsAreForever",
+    "FaceOfAThug",
+    "InvokedTrope",
+    "MeaningfulName",
+    "NamedAfterSomebodyFamous",
+    "JerkWithAHeartOfGold",
+    "PrimaryColorChampion",
+    "DownplayedTrope",
+    "EvilIsBigger",
+    "SecondaryColorNemesis",
+    "GreenEyedMonster",
+    "LovableJock",
+    "LaserGuidedKarma",
+    "DefeatingTheUndefeatable",
+    "JerkJock",
+    "HeelFaceTurn",
+    "NonHumanHead",
+    "BigBad",
+    "TheRival",
+    "EvilCounterpart",
+    "TailorMadeToTerminate",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

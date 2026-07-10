@@ -1,7 +1,9 @@
 {
   "name": "Harvey Oberst",
   "show": "In the Heat of the Night",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "BecauseYouWereNiceToMe"
+  ],
   "tropes_by_category": {}
 }

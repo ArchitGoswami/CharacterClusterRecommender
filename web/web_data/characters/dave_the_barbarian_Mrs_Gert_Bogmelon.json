@@ -1,7 +1,13 @@
 {
   "name": "Mrs. Gert Bogmelon",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Catchphrase",
+    "AmazingTechnicolorPopulation",
+    "OnlyInItForTheMoney",
+    "Gonk",
+    "Greed"
+  ],
   "tropes_by_category": {}
 }

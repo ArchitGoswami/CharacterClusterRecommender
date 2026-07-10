@@ -1,7 +1,14 @@
 {
   "name": "DC/DS \"Taff\" Jones",
   "show": "Minder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ThoseTwoGuys",
+    "ChuckCunninghamSyndrome",
+    "TheOtherDarrin",
+    "BeleagueredAssistant",
+    "PunchClockVillain",
+    "RankUp"
+  ],
   "tropes_by_category": {}
 }

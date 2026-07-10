@@ -1,7 +1,22 @@
 {
   "name": "The PJ Pets",
   "show": "PJ Masks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeelFaceTurn",
+    "ActionPet",
+    "ADogNamedDog",
+    "Kaiju",
+    "WhatHappenedToTheMouse",
+    "AllAnimalsAreDogs",
+    "AmazingTechnicolorPopulation",
+    "PutOnABus",
+    "CatsAreMean",
+    "CuteOwl",
+    "ThatPoorCat",
+    "LoyalAnimalCompanion",
+    "NearlyNormalAnimal",
+    "LovableLizard"
+  ],
   "tropes_by_category": {}
 }

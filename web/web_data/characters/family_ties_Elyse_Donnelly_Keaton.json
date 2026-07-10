@@ -1,7 +1,13 @@
 {
   "name": "Elyse Donnelly Keaton",
   "show": "Family Ties",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HairOfGoldHeartOfGold",
+    "TheAce",
+    "NiceGirl",
+    "OutOfFocus",
+    "ClassReunion"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Philip Jones",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "PrivateMilitaryContractors",
+    "WickedCultured",
+    "GreaterScopeVillain",
+    "TheChessmaster",
+    "AdaptationalVillainy",
+    "DecoyLeader",
+    "AgeLift",
+    "UnrelatedInTheAdaptation",
+    "WarForFunAndProfit",
+    "NonActionBigBad",
+    "ManOfWealthAndTaste",
+    "CorruptCorporateExecutive"
+  ],
   "tropes_by_category": {}
 }

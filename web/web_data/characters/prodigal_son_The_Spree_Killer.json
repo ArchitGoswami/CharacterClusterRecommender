@@ -1,7 +1,11 @@
 {
   "name": "The Spree Killer",
   "show": "Prodigal Son",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BadPeopleAbuseAnimals",
+    "DisproportionateRetribution",
+    "EnfantTerrible"
+  ],
   "tropes_by_category": {}
 }

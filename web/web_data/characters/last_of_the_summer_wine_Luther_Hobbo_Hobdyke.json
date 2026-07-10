@@ -1,7 +1,14 @@
 {
   "name": "Luther 'Hobbo' Hobdyke",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "NotSoAboveItAll",
+    "NiceGuy",
+    "SmallNameBigEgo",
+    "MasterOfDisguise",
+    "VitriolicBestBuds",
+    "InTouchWithHisFeminineSide"
+  ],
   "tropes_by_category": {}
 }

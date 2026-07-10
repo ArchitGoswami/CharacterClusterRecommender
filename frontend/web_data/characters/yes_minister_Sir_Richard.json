@@ -1,7 +1,11 @@
 {
   "name": "Sir Richard",
   "show": "Yes, Minister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "SmugSnake",
+    "BystanderSyndrome",
+    "StronglyWordedLetter"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Dwayne",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "HulkSpeak",
+    "InconsistentSpelling",
+    "EyesOutOfSight",
+    "ShipTease",
+    "OnlyOneName",
+    "GarageBand",
+    "BookDumb",
+    "IntergenerationalFriendship",
+    "Cloudcuckoolander",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Tyreke Scott",
   "show": "Sister, Sister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LoveInterest",
+    "TroubledButCute",
+    "NiceGuy",
+    "PromotedToOpeningTitles",
+    "TragicDropout",
+    "BackToSchool"
+  ],
   "tropes_by_category": {}
 }

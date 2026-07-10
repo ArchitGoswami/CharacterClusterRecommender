@@ -1,7 +1,14 @@
 {
   "name": "Jack Malone",
   "show": "Without a Trace",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CowboyCop",
+    "LimitedWardrobe",
+    "MarriedToTheJob",
+    "TimeShiftedActor",
+    "GoodIsNotSoft",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

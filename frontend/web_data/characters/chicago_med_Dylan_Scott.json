@@ -1,7 +1,9 @@
 {
   "name": "Dylan Scott",
   "show": "Chicago Med",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "FriendToAllChildren"
+  ],
   "tropes_by_category": {}
 }

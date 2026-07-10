@@ -1,7 +1,17 @@
 {
   "name": "Granddad Shay",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WellDoneSonGuy",
+    "NotSoAboveItAll",
+    "NiceGuy",
+    "DoWrongRight",
+    "EveryoneCallsHimBarkeep",
+    "DisappointedInYou",
+    "ParentalFavoritism",
+    "DotingGrandparent",
+    "SilverFox"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "The Lion",
   "show": "Teletubbies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "CoolBoard",
+    "EvilSoundsDeep",
+    "VillainousBreakdown",
+    "VillainDecay",
+    "HarmlessVillain",
+    "BadassBoast",
+    "SurprisinglyCreepyMoment",
+    "Bowdlerise",
+    "ZigZaggedTrope",
+    "OopNorth",
+    "NightmareFace",
+    "OffscreenTeleportation",
+    "PowerEchoes",
+    "VileVillainSaccharineShow",
+    "PunctuatedForEmphasis",
+    "SupernaturalGoldEyes",
+    "InformedAttribute",
+    "BannedInChina"
+  ],
   "tropes_by_category": {}
 }

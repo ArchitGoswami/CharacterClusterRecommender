@@ -1,7 +1,12 @@
 {
   "name": "Shana Fring",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SecretKeeper",
+    "EvenEvilHasLovedOnes",
+    "LipstickLesbian",
+    "BecomingTheMask"
+  ],
   "tropes_by_category": {}
 }

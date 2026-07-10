@@ -1,7 +1,20 @@
 {
   "name": "Hakumenro",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DramaticUnmask",
+    "LukeIAmYourFather",
+    "DisappearedDad",
+    "MindOverMatter",
+    "DoubleAgent",
+    "TakenForGranite",
+    "SwordBeam",
+    "IfYoureSoEvilEatThisKitten",
+    "AttackReflector",
+    "TakeMeInstead",
+    "FakeDefector",
+    "RedBaron"
+  ],
   "tropes_by_category": {}
 }

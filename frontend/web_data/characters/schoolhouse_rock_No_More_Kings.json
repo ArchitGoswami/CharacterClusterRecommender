@@ -1,7 +1,17 @@
 {
   "name": "No More Kings",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "EvilBrit",
+    "EvilIsHammy",
+    "BigBad",
+    "EvilLaugh",
+    "BucketBoobyTrap",
+    "HandRubbing",
+    "PsychopathicManchild",
+    "Satire",
+    "RoyalBrat"
+  ],
   "tropes_by_category": {}
 }

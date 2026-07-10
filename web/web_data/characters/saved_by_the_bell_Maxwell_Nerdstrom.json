@@ -1,7 +1,13 @@
 {
   "name": "Maxwell Nerdstrom",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CasanovaWannabe",
+    "ControlFreak",
+    "JerkAss",
+    "MeaningfulName",
+    "SmugSnake"
+  ],
   "tropes_by_category": {}
 }

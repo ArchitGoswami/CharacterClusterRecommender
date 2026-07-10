@@ -1,7 +1,11 @@
 {
   "name": "Maximus Mayhem",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HeelFaceTurn",
+    "AnIcePerson",
+    "CutLexLuthorACheck"
+  ],
   "tropes_by_category": {}
 }

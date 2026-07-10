@@ -1,7 +1,30 @@
 {
   "name": "Aiden Ford",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "IgnoredEpiphany",
+    "NiceGuy",
+    "AntiHero",
+    "NeverFoundTheBody",
+    "WellDoneSonGuy",
+    "DeathGlare",
+    "NeverMyFault",
+    "WhatTheHellHero",
+    "BusCrash",
+    "WhatHappenedToTheMouse",
+    "BlackEyesOfCrazy",
+    "DemotedToExtra",
+    "ReassignedToAntarctica",
+    "UncertainDoom",
+    "MyGodWhatHaveIDone",
+    "AntiVillain",
+    "TheGenericGuy",
+    "CharacterDevelopment",
+    "WeHardlyKnewYe",
+    "HeroWorshipper",
+    "PerpetualSmiler",
+    "LotusEaterMachine"
+  ],
   "tropes_by_category": {}
 }

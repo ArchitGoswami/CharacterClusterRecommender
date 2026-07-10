@@ -1,7 +1,9 @@
 {
   "name": "Emre",
   "show": "Encantadia",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "LightIsGood"
+  ],
   "tropes_by_category": {}
 }

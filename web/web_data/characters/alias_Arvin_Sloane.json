@@ -1,7 +1,17 @@
 {
   "name": "“Arvin Sloane”",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CastingGag",
+    "TheChessmaster",
+    "OutsideContextProblem",
+    "BigBad",
+    "ArtificialHuman",
+    "BigBadWannabe",
+    "GoMadFromTheRevelation",
+    "FlatWhat",
+    "DudeNotFunny"
+  ],
   "tropes_by_category": {}
 }

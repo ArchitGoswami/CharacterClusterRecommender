@@ -1,7 +1,20 @@
 {
   "name": "Harold Frumpkin",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AllLoveIsUnrequited",
+    "NiceGuy",
+    "Geek",
+    "AdaptationalJerkass",
+    "ButtMonkey",
+    "ItRunsInTheFamily",
+    "GeniusDitz",
+    "RuleOfFun",
+    "TheShrink",
+    "ExtremeDoormat",
+    "AscendedExtra",
+    "TheIgor"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Angelic Layercast",
   "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "FinalBoss"
+  ],
   "tropes_by_category": {}
 }

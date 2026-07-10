@@ -1,7 +1,11 @@
 {
   "name": "Jeff Malone",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MistakenForGay",
+    "WasItAllALie",
+    "OfficeRomance"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Matt Fielding",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "AdvertisedExtra",
+    "HospitalHottie",
+    "SubvertedTrope",
+    "HeroicBuild",
+    "LikeBrotherAndSister",
+    "CitizenshipMarriage",
+    "BusCrash",
+    "FriendToAllChildren",
+    "TheHeart",
+    "PutOnABus",
+    "EverybodyHasLotsOfSex",
+    "ButNotTooGay",
+    "StraightGay",
+    "OnlySaneMan",
+    "ButtMonkey",
+    "ReallyGetsAround"
+  ],
   "tropes_by_category": {}
 }

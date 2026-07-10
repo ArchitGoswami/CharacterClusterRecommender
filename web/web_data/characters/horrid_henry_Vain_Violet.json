@@ -1,7 +1,10 @@
 {
   "name": "Vain Violet",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AdaptedOut",
+    "Narcissist"
+  ],
   "tropes_by_category": {}
 }

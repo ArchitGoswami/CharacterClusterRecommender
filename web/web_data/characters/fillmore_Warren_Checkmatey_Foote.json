@@ -1,7 +1,15 @@
 {
   "name": "Warren \"Checkmatey\" Foote",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DirtyCoward",
+    "FakedKidnapping",
+    "SlaveToPR",
+    "PainfulRhyme",
+    "EvenTheGuysWantHim",
+    "WorthyOpponent",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

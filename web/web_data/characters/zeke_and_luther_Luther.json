@@ -1,7 +1,15 @@
 {
   "name": "Luther",
   "show": "Zeke and Luther",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CloudcuckoolandersMinder",
+    "TheDitz",
+    "JerkassToOne",
+    "HeterosexualLifePartners",
+    "UnknownRival",
+    "SignificantBirthDate",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

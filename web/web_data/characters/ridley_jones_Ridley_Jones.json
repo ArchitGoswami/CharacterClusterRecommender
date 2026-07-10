@@ -1,7 +1,18 @@
 {
   "name": "Ridley Jones",
   "show": "Ridley Jones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ActionGirl",
+    "DeadpanSnarker",
+    "IAmSong",
+    "KidHero",
+    "GirlyGirl",
+    "BadassAdorable",
+    "AdorablyPrecociousChild",
+    "BlueIsHeroic",
+    "TomBoyAndGirlyGirl",
+    "TomBoy"
+  ],
   "tropes_by_category": {}
 }

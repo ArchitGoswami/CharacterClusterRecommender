@@ -1,7 +1,31 @@
 {
   "name": "Dragon",
   "show": "Jane and the Dragon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "GassHole",
+    "BerserkButton",
+    "OnlyOneWhoLikesSpam",
+    "DelightfulDragon",
+    "DeadpanSnarker",
+    "BigBrotherInstinct",
+    "BreathWeapon",
+    "CannotTellAJoke",
+    "HiddenDepths",
+    "VitriolicBestBuds",
+    "ToiletHumour",
+    "ADogNamedDog",
+    "TastesLikeFeet",
+    "DinosaursAreDragons",
+    "WordOfGod",
+    "LethalKlutz",
+    "MyGodWhatHaveIDone",
+    "BetterWithNonHumanCompany",
+    "SuperSenses",
+    "LastOfHisKind",
+    "OurDragonsAreDifferent",
+    "ParentalAbandonment",
+    "AllPowerfulBystander"
+  ],
   "tropes_by_category": {}
 }

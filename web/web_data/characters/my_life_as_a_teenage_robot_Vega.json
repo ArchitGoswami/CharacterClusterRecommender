@@ -1,7 +1,20 @@
 {
   "name": "Vega",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HowDoIShotWeb",
+    "ActionGirl",
+    "MySpeciesDothProtestTooMuch",
+    "BladeBelowTheShoulder",
+    "PowerGivesYouWings",
+    "BadassAdorable",
+    "StrongFamilyResemblance",
+    "RoyalsWhoActuallyDoSomething",
+    "NiceGirl",
+    "MadScientistsBeautifulDaughter",
+    "CuteMachines",
+    "SimilarSquad"
+  ],
   "tropes_by_category": {}
 }

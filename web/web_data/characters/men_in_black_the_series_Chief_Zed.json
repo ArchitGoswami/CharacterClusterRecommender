@@ -1,7 +1,17 @@
 {
   "name": "Chief Zed",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CoolOldGuy",
+    "DaChief",
+    "BadassInANiceSuit",
+    "DeadpanSnarker",
+    "ReasonableAuthorityFigure",
+    "AgeLift",
+    "BadassBureaucrat",
+    "TheMenInBlack",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

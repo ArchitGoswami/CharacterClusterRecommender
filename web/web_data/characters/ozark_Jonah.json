@@ -1,7 +1,19 @@
 {
   "name": "Jonah",
   "show": "Ozark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "OddFriendship",
+    "BewaretheQuietOnes",
+    "TeenGenius",
+    "NotSoStoic",
+    "TheAce",
+    "OOCIsSeriousBusiness",
+    "HiddenDepths",
+    "BigLittleBrother",
+    "TheStoic",
+    "TroublingUnchildlikeBehavior",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

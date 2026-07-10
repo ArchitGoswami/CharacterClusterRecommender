@@ -1,7 +1,18 @@
 {
   "name": "The Bear",
   "show": "Teletubbies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "CoolBoard",
+    "JumpScare",
+    "EvilSoundsDeep",
+    "ArtisticLicenseBiology",
+    "FragileSpeedster",
+    "OffscreenTeleportation",
+    "Troll",
+    "VocalDissonance",
+    "Cloudcuckoolander",
+    "InformedAttribute"
+  ],
   "tropes_by_category": {}
 }

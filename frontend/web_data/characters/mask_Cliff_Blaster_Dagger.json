@@ -1,7 +1,12 @@
 {
   "name": "Cliff \"Blaster\" Dagger",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PlayingWithFire",
+    "ChuckCunninghamSyndrome",
+    "DumbMuscle",
+    "EyepatchOfPower"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Stanley Stohl",
   "show": "Chicago Med",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DaChief",
+    "JerkAss",
+    "JerkWithAHeartOfGold",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

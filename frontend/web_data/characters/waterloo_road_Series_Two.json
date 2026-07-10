@@ -1,7 +1,14 @@
 {
   "name": "Series Two",
   "show": "Waterloo Road",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "HeelFaceTurn",
+    "AttentionWhore",
+    "TheBusCameBack",
+    "TheAce",
+    "LackOfEmpathy"
+  ],
   "tropes_by_category": {}
 }

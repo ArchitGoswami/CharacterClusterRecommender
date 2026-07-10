@@ -1,7 +1,11 @@
 {
   "name": "Tax Man Max",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "AllThereInTheScript",
+    "TinyGuyHugeGirl"
+  ],
   "tropes_by_category": {}
 }

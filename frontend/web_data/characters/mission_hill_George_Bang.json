@@ -1,7 +1,13 @@
 {
   "name": "George Bang",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CreatorCameo",
+    "AsianStoreOwner",
+    "EmbarrassingNickname",
+    "ButtMonkey",
+    "AsianAndNerdy"
+  ],
   "tropes_by_category": {}
 }

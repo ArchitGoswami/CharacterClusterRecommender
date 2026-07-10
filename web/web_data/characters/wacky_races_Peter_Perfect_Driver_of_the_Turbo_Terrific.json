@@ -1,7 +1,27 @@
 {
   "name": "Peter Perfect (Driver of the Turbo Terrific)",
   "show": "Wacky Races",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "MyCarHatesMe",
+    "Foil",
+    "DudleyDoRightStopsToHelp",
+    "ButtMonkey",
+    "GlassCannon",
+    "DubNameChange",
+    "ThrowTheDogABone",
+    "DoggedNiceGuy",
+    "TheAllegedCar",
+    "TopHeavyGuy",
+    "FragileSpeedster",
+    "LanternJawOfJustice",
+    "IronicName",
+    "FakeUltimateHero",
+    "Catchphrase",
+    "Expy",
+    "DickDastardlyStopsToCheat",
+    "AlliterativeName",
+    "OldSchoolChivalry"
+  ],
   "tropes_by_category": {}
 }

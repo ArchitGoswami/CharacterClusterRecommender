@@ -1,7 +1,31 @@
 {
   "name": "Tamsin",
   "show": "Lost Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TokenEvilTeammate",
+    "BountyHunter",
+    "InspectorJavert",
+    "Valkyries",
+    "AffablyEvil",
+    "PregnantBadass",
+    "BornAgainImmortality",
+    "PowerDegeneration",
+    "IJustWantToHaveFriends",
+    "SelfProclaimedLoveInterest",
+    "UhOhEyes",
+    "GreenEyedMonster",
+    "KickTheDog",
+    "BlessedWithSuck",
+    "PetTheDog",
+    "DeathByChildbirth",
+    "SecretlyDying",
+    "UST",
+    "FriendsWithBenefits",
+    "ShipperOnDeck",
+    "TookALevelInKindness",
+    "TeethClenchedTeamwork",
+    "FoeRomanceSubtext"
+  ],
   "tropes_by_category": {}
 }

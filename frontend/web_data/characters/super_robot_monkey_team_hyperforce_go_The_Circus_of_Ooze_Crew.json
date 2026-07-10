@@ -1,7 +1,18 @@
 {
   "name": "The Circus of Ooze Crew",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BareMidriffsAreFeminine",
+    "LovableSexManiac",
+    "SnakePeople",
+    "PervertedDrooling",
+    "NonIronicClown",
+    "BrainwashedAndCrazy",
+    "ImpossibleHourglassFigure",
+    "CircusOfFear",
+    "HeadTurningBeauty",
+    "MonsterClown"
+  ],
   "tropes_by_category": {}
 }

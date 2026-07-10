@@ -1,7 +1,21 @@
 {
   "name": "Bunny Bravo",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ParentWithNewParamour",
+    "OnlySaneWoman",
+    "MyBelovedSmother",
+    "ActionMom",
+    "NeverMessWithGranny",
+    "TheAce",
+    "MamaBear",
+    "CoolShades",
+    "AlliterativeName",
+    "GlamorousSingleMother",
+    "CoolOldLady",
+    "ParentChildTeam",
+    "SilverFox"
+  ],
   "tropes_by_category": {}
 }

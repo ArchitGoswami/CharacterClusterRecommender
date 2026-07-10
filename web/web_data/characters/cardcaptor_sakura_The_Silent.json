@@ -1,7 +1,12 @@
 {
   "name": "The Silent",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Teleportation",
+    "BerserkButton",
+    "EyesAlwaysShut",
+    "CurseOfBabel"
+  ],
   "tropes_by_category": {}
 }

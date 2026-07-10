@@ -1,7 +1,9 @@
 {
   "name": "Vince Fryer",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "InternalAffairs"
+  ],
   "tropes_by_category": {}
 }

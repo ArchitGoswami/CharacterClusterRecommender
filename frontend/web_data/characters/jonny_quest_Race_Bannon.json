@@ -1,7 +1,21 @@
 {
   "name": "Race Bannon",
   "show": "Jonny Quest",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TeamMom",
+    "BrainsAndBrawn",
+    "CoolTeacher",
+    "OnlyKnownByTheirNickname",
+    "MightyWhitey",
+    "ParentalSubstitute",
+    "TheAce",
+    "ActionHero",
+    "YoungerThanTheyLook",
+    "MeaningfulName",
+    "HeterosexualLifePartner",
+    "DatingCatwoman",
+    "ComicBookFantasyCasting"
+  ],
   "tropes_by_category": {}
 }

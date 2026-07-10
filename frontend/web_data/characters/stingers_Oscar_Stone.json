@@ -1,7 +1,12 @@
 {
   "name": "Oscar Stone",
   "show": "Stingers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DrivenToSuicide",
+    "HeroicSacrifice",
+    "LethalDiagnosis",
+    "TookALevelInJerkass"
+  ],
   "tropes_by_category": {}
 }

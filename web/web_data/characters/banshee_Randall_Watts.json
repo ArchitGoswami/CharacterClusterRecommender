@@ -1,7 +1,13 @@
 {
   "name": "Randall Watts",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AffablyEvil",
+    "GreaterScopeVillain",
+    "BigBad",
+    "EvenEvilHasLovedOnes",
+    "EvilerThanThou"
+  ],
   "tropes_by_category": {}
 }

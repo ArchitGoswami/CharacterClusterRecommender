@@ -1,7 +1,26 @@
 {
   "name": "William",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "EvilCannotComprehendGood",
+    "SuperEmpowering",
+    "ActorAllusion",
+    "AntiMagic",
+    "NoSell",
+    "EvenEvilHasLovedOnes",
+    "EvilAllAlong",
+    "FalseFriend",
+    "OlderThanTheyLook",
+    "SealedEvilInACan",
+    "TheUnfettered",
+    "BrilliantButLazy",
+    "Synchronization",
+    "HealingFactor",
+    "GroinAttack",
+    "MonsterProgenitor",
+    "BitchInSheepsClothing",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

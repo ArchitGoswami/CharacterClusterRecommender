@@ -1,7 +1,15 @@
 {
   "name": "Buckley",
   "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EnfantTerrible",
+    "SpoiledBrat",
+    "WhenYouComingHomeDad",
+    "CreepyChild",
+    "NamesToRunAwayFromReallyFast",
+    "OutOfFocus",
+    "CharacterizationMarchesOn"
+  ],
   "tropes_by_category": {}
 }

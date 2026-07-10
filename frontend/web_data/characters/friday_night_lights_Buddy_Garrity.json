@@ -1,7 +1,15 @@
 {
   "name": "Buddy Garrity",
   "show": "Friday Night Lights",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HeelFaceTurn",
+    "JerkWithAHeartOfGold",
+    "GoodOlBoy",
+    "SexistUsedCarSalesman",
+    "PetTheDog",
+    "SeriousBusiness",
+    "RetiredBadass"
+  ],
   "tropes_by_category": {}
 }

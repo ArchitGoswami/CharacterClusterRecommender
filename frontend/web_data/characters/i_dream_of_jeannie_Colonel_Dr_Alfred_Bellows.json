@@ -1,7 +1,21 @@
 {
   "name": "Colonel Dr. Alfred Bellows",
   "show": "I Dream of Jeannie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BenevolentBoss",
+    "JerkWithAHeartOfGold",
+    "ItMakesSenseInContext",
+    "ArchEnemy",
+    "ScrewThisImOuttaHere",
+    "HappilyMarried",
+    "GenreSavvy",
+    "ItWasHereISwear",
+    "AvertedTrope",
+    "AntiVillain",
+    "CassandraTruth",
+    "EveryoneHasStandards",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

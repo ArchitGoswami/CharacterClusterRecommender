@@ -1,7 +1,21 @@
 {
   "name": "Lord Peel",
   "show": "Rocket Monkeys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SuicideDare",
+    "TragicVillain",
+    "Catchphrase",
+    "Expy",
+    "Subverted",
+    "GrayAndGrayMorality",
+    "AxCrazy",
+    "AnthropomorphicFood",
+    "AmbiguouslyGay",
+    "FriendlyEnemy",
+    "DrivenToSuicide",
+    "IAmNotAWeasel",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Vanessa Alston",
   "show": "Gullah Gullah Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TomboyWithAGirlyStreak",
+    "TomboyAndGirlyGirl",
+    "VocalEvolution",
+    "FearOfThunder"
+  ],
   "tropes_by_category": {}
 }

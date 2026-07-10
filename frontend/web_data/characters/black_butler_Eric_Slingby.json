@@ -1,7 +1,11 @@
 {
   "name": "Eric Slingby",
   "show": "Black Butler",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "Foil",
+    "DrivenToSuicide",
+    "LoveMakesYouCrazy"
+  ],
   "tropes_by_category": {}
 }

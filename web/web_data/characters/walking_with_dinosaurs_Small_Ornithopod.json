@@ -1,7 +1,12 @@
 {
   "name": "Small Ornithopod",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MonsterMunch",
+    "PaletteSwap",
+    "NoNameGiven",
+    "LivingProp"
+  ],
   "tropes_by_category": {}
 }

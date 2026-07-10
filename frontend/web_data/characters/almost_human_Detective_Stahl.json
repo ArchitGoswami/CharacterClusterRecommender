@@ -1,7 +1,17 @@
 {
   "name": "Detective Stahl",
   "show": "Almost Human",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BioAugmentation",
+    "FairCop",
+    "BrainyBrunette",
+    "ShipTease",
+    "VillainOfTheWeek",
+    "FridgeBrilliance",
+    "ProHumanTranshuman",
+    "BadassInDistress",
+    "DesignerBabies"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Mr. Lindenson",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "PointyHairedBoss"
+  ],
   "tropes_by_category": {}
 }

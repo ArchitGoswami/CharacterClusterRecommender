@@ -1,7 +1,30 @@
 {
   "name": "Cheyenne",
   "show": "Superstore",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "WideEyedIdealist",
+    "MsFanservice",
+    "BuffySpeak",
+    "AmbiguouslyBrown",
+    "TheCynic",
+    "TookALevelInCynic",
+    "TheDitz",
+    "NervousWreck",
+    "HiddenDepths",
+    "Acrofatic",
+    "FutureLoser",
+    "AsianAirhead",
+    "CharacterTics",
+    "CloudCuckoolandersMinder",
+    "BunnyEarsLawyer",
+    "ShamelessFanserviceGirl",
+    "LaughingMad",
+    "YouAreInCommandNow",
+    "TeenPregnancy",
+    "TookALevelInBadass",
+    "SitcomCharacterArchetypes",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

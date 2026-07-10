@@ -1,7 +1,17 @@
 {
   "name": "Spencer Walsh",
   "show": "Good Luck Charlie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "OfficialCouple",
+    "MyGreatestFailure",
+    "Jerkass",
+    "MistakenForCheating",
+    "DumbJock",
+    "CharacterDevelopment",
+    "SatelliteLoveInterest",
+    "Subverted",
+    "DidNotGetTheGirl"
+  ],
   "tropes_by_category": {}
 }

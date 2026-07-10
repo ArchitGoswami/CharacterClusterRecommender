@@ -1,7 +1,16 @@
 {
   "name": "Billy Campbell",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GrewASpine",
+    "PutOnABus",
+    "EarnYourHappyEnding",
+    "LivingEmotionalCrutch",
+    "StarCrossedLovers",
+    "BrokenAce",
+    "OnlyKnownByTheirNickname",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

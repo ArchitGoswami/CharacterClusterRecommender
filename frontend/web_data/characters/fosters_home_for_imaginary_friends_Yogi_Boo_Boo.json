@@ -1,7 +1,16 @@
 {
   "name": "Yogi Boo Boo",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ShoutOut",
+    "ArtEvolution",
+    "ActorAllusion",
+    "DependingOnTheArtist",
+    "FunnyForeigner",
+    "DoesNotLikeSpam",
+    "HiddenDepths",
+    "NoMouth"
+  ],
   "tropes_by_category": {}
 }

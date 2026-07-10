@@ -1,7 +1,17 @@
 {
   "name": "Dr. Wren Kingston",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmbiguouslyEvil",
+    "HospitalHottie",
+    "GreenEyedEpiphany",
+    "NiceGuy",
+    "NewJobAsThePlotDemands",
+    "AdaptationExpansion",
+    "DisposableFiance",
+    "FaceHeelTurn",
+    "AdaptationNameChange"
+  ],
   "tropes_by_category": {}
 }

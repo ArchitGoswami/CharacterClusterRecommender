@@ -1,7 +1,19 @@
 {
   "name": "Kutal",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Homage",
+    "TheBigGuy",
+    "CrouchingMoronHiddenBadass",
+    "PantheraAwesome",
+    "DishingOutDirt",
+    "ExpectingSomeoneTaller",
+    "SuperMode",
+    "Acrofatic",
+    "CassandraTruth",
+    "AdaptationSpeciesChange",
+    "MegaNeko"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Neville Goldufski",
   "show": "Roseanne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "Foreshadowing",
+    "NiceGuy",
+    "Foil",
+    "MayDecemberRomance",
+    "TookALevelInJerkass"
+  ],
   "tropes_by_category": {}
 }

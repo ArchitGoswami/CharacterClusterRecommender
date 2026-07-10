@@ -1,7 +1,22 @@
 {
   "name": "Patrick Lloyd",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TheConspiracy",
+    "KarmaHoudiniWarranty",
+    "ThereIsNoKillLikeOverkill",
+    "SequelHook",
+    "BigBad",
+    "DroppedABridgeOnHim",
+    "KarmaHoudini",
+    "ScrewTheRulesIHaveMoney",
+    "MyDeathIsJustTheBeginning",
+    "ManBehindTheMan",
+    "RightWingMilitiaFanatic",
+    "CorruptCorporateExecutive",
+    "VillainWithGoodPublicity",
+    "Eagleland"
+  ],
   "tropes_by_category": {}
 }

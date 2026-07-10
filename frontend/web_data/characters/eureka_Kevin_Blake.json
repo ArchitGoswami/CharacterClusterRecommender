@@ -1,7 +1,15 @@
 {
   "name": "Kevin Blake",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AlternateTimeline",
+    "TheBusCameBack",
+    "BlackBox",
+    "PutOnTheBus",
+    "NeurodiversityIsSupernatural",
+    "TeenGenius",
+    "KidHero"
+  ],
   "tropes_by_category": {}
 }

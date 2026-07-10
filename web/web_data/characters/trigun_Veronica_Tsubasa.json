@@ -1,7 +1,10 @@
 {
   "name": "Veronica Tsubasa",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ActionGirl",
+    "AndNowForSomeoneCompletelyDifferent"
+  ],
   "tropes_by_category": {}
 }

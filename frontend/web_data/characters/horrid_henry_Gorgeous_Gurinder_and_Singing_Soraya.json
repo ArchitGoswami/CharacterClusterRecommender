@@ -1,7 +1,23 @@
 {
   "name": "Gorgeous Gurinder and Singing Soraya",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "ArousedByTheirVoice",
+    "LightFeminineAndDarkFeminine",
+    "NotSoAboveItAll",
+    "BrainyBrunette",
+    "ThoseTwoGirls",
+    "BrainlessBeauty",
+    "GeniusDitz",
+    "GenkiGirl",
+    "TokenGoodTeammate",
+    "SingleMindedTwins",
+    "TheCutie",
+    "NiceGirl",
+    "VanityIsFeminine",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

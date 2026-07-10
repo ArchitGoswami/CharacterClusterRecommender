@@ -1,7 +1,13 @@
 {
   "name": "Colin Wells",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ThoseTwoGuys",
+    "WoodlandChaseScene",
+    "MI5",
+    "CrosswordPuzzle",
+    "KillTheCutie"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Bandit",
   "show": "Jonny Quest",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AttentionWhore",
+    "ActionPet",
+    "LovableCoward",
+    "HeroicDog",
+    "EvilDetectingDog",
+    "GreenEyedMonster",
+    "TheLoad",
+    "CanineCompanion",
+    "TeamPet"
+  ],
   "tropes_by_category": {}
 }

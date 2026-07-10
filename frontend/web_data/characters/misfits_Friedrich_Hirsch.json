@@ -1,7 +1,15 @@
 {
   "name": "Friedrich Hirsch",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "CoolOldGuy",
+    "NiceJobBreakingItHero",
+    "TheAtoner",
+    "BoomHeadshot",
+    "SetRightWhatOnceWentWrong",
+    "TakeUpMySword",
+    "FaceDeathWithDignity"
+  ],
   "tropes_by_category": {}
 }

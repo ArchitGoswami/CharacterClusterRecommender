@@ -1,7 +1,17 @@
 {
   "name": "The Italian",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmbiguouslyEvil",
+    "NationalityAsAlias",
+    "MysteriousEmployer",
+    "WhatHappenedToTheMouse",
+    "ManipulativeBastard",
+    "FemmeFatale",
+    "HiddenAgendaVillain",
+    "NoNameGiven",
+    "EverythingSoundsSexierInFrench"
+  ],
   "tropes_by_category": {}
 }

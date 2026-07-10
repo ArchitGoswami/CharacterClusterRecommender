@@ -1,7 +1,18 @@
 {
   "name": "Nana Mary",
   "show": "Roseanne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "GoodGirlsAvoidAbortion",
+    "JerkWithAHeartOfGold",
+    "CloudcuckooLander",
+    "ReallyGetsAround",
+    "LadyDrunk",
+    "TheAlcoholic",
+    "BlindWithoutEm",
+    "VagueAge",
+    "CoolOldLady",
+    "OpenMindedParent"
+  ],
   "tropes_by_category": {}
 }

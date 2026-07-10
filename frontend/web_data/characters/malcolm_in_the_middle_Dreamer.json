@@ -1,7 +1,10 @@
 {
   "name": "Dreamer",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheGhost",
+    "ParentalAbandonment"
+  ],
   "tropes_by_category": {}
 }

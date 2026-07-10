@@ -1,7 +1,19 @@
 {
   "name": "Lugey",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AffablyEvil",
+    "DumbMuscle",
+    "ToiletHumour",
+    "ThemeNaming",
+    "ItMakesSenseInContext",
+    "CrouchingMoronHiddenBadass",
+    "TheDitz",
+    "SimpletonVoice",
+    "BigEater",
+    "TheScapegoat",
+    "FatIdiot"
+  ],
   "tropes_by_category": {}
 }

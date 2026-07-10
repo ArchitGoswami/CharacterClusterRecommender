@@ -1,7 +1,26 @@
 {
   "name": "Dr. John Steinbeck \"Jack\" Morrison",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "GentleGiant",
+    "ThoseTwoGuys",
+    "YouShouldHaveDiedInstead",
+    "WorthlessForeignDegree",
+    "HeroicBSOD",
+    "NotWantingKidsIsWeird",
+    "LaserGuidedKarma",
+    "TheEmpath",
+    "DeadPersonConversation",
+    "WhatTheHellHero",
+    "TheHeart",
+    "ItsPersonal",
+    "DesignatedVictim",
+    "TraumaCongaLine",
+    "HiddenDisdainReveal",
+    "ButtMonkey",
+    "DumbButDiligent",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

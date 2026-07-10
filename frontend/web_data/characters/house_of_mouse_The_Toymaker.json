@@ -1,7 +1,23 @@
 {
   "name": "The Toymaker",
   "show": "House of Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AffectionateParody",
+    "Cyborg",
+    "Expy",
+    "OrganTheft",
+    "OminousPipeOrgan",
+    "WingdingEyes",
+    "PygmalionPlot",
+    "FrankensteinsMonster",
+    "HybridMonster",
+    "ObviouslyEvil",
+    "SupervillainLair",
+    "WickedToymaker",
+    "TheHyena",
+    "ExactWords",
+    "EyeColourChange"
+  ],
   "tropes_by_category": {}
 }

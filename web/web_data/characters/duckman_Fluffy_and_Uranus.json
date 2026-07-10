@@ -1,7 +1,27 @@
 {
   "name": "Fluffy and Uranus",
   "show": "Duckman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "TheyKilledKennyAgain",
+    "PrecisionFStrike",
+    "ButtMonkey",
+    "IronButtMonkey",
+    "ThoseTwoGuys",
+    "AdvertisedExtra",
+    "DeathGlare",
+    "Leitmotif",
+    "NotSoAboveItAll",
+    "PoliticalOvercorrectness",
+    "AerithAndBob",
+    "PinkGirlBlueBoy",
+    "TheDividual",
+    "TheDogBitesBack",
+    "ClusterFBomb",
+    "SignificantMonogram",
+    "RageBreakingPoint",
+    "BewareTheNiceOnes",
+    "AmbiguousGender"
+  ],
   "tropes_by_category": {}
 }

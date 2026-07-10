@@ -1,7 +1,12 @@
 {
   "name": "Monster Joe",
   "show": "Pulp Fiction",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FamilyBusiness",
+    "CleanupCrew",
+    "NewhartPhonecall",
+    "TheGhost"
+  ],
   "tropes_by_category": {}
 }

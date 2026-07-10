@@ -1,7 +1,14 @@
 {
   "name": "Brent Starkisser",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "Catchphrase",
+    "LukeNounverber",
+    "IntrepidReporter",
+    "RecurringExtra",
+    "PerpetualSmiler"
+  ],
   "tropes_by_category": {}
 }

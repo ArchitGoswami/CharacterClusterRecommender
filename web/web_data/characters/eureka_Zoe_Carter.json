@@ -1,7 +1,23 @@
 {
   "name": "Zoe Carter",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DeadpanSnarker",
+    "ActionGirl",
+    "NonActionSnarker",
+    "NeverMyFault",
+    "MilitaryBrat",
+    "PerkyGoth",
+    "CommutingOnABus",
+    "DaddysGirl",
+    "NonActionGuy",
+    "SmarterThanYouLook",
+    "ReformedCriminal",
+    "SingleWomanSeeksGoodMan",
+    "Delinquent",
+    "BrattyTeenageDaughter",
+    "Lampshaded"
+  ],
   "tropes_by_category": {}
 }

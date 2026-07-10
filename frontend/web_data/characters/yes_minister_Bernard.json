@@ -1,7 +1,25 @@
 {
   "name": "Bernard",
   "show": "Yes, Minister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DeadpanSnarker",
+    "DeathGlare",
+    "CouldSayItBut",
+    "BluntMetaphorsTrauma",
+    "LovableCoward",
+    "DroppedABridgeOnHim",
+    "VastBureaucracy",
+    "TheWatson",
+    "TokenGoodTeammate",
+    "PhraseCatcher",
+    "BeleagueredBureaucrat",
+    "MeaningfulName",
+    "UnwittingInstigatorOfDoom",
+    "CharacterDevelopment",
+    "WallOfBlather",
+    "ConflictingLoyalty",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

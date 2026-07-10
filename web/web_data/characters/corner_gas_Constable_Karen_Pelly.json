@@ -1,7 +1,21 @@
 {
   "name": "Constable Karen Pelly",
   "show": "Corner Gas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FeminineWomenCanCook",
+    "TheMovie",
+    "BabiesEverAfter",
+    "PregnantBadass",
+    "WomenAreWiser",
+    "RunningGag",
+    "BrutalHonesty",
+    "FairCop",
+    "BerserkButton",
+    "DumbBlonde",
+    "PoliceAreUseless",
+    "LettingHerHairDown",
+    "StraightMan"
+  ],
   "tropes_by_category": {}
 }

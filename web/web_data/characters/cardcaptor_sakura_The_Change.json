@@ -1,7 +1,10 @@
 {
   "name": "The Change",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "FreakyFridayFlip",
+    "CartoonCreature"
+  ],
   "tropes_by_category": {}
 }

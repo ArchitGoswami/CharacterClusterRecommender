@@ -1,7 +1,15 @@
 {
   "name": "Chief Master Guru",
   "show": "Xavier, Renegade Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "VoiceOfTheLegion",
+    "MentorOccupationalHazard",
+    "AmbiguousSituation",
+    "Troll",
+    "MagicalNativeAmerican",
+    "ExactWords",
+    "Sabotutor"
+  ],
   "tropes_by_category": {}
 }

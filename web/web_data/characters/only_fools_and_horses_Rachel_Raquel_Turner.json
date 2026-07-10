@@ -1,7 +1,16 @@
 {
   "name": "Rachel \"Raquel\" Turner",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TeamMom",
+    "WordOfGod",
+    "HookerWithAHeartOfGold",
+    "StripperCopConfusion",
+    "FawltyTowersPlot",
+    "ReplacementGoldfish",
+    "OnlySaneMan",
+    "StrawFeminist"
+  ],
   "tropes_by_category": {}
 }

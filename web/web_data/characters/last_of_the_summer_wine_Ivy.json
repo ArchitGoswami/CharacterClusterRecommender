@@ -1,7 +1,20 @@
 {
   "name": "Ivy",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheFinickyOne",
+    "Catchphrase",
+    "AwLookTheyReallyDoLoveEachOther",
+    "UnusualEuphemism",
+    "DramaQueen",
+    "UpperClassTwit",
+    "LargeAndInCharge",
+    "HiddenDepths",
+    "OnlySaneMan",
+    "FirstNameBasis",
+    "TheDeterminator",
+    "GossipyHens"
+  ],
   "tropes_by_category": {}
 }

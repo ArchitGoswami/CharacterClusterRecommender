@@ -1,7 +1,10 @@
 {
   "name": "Stef Duncan",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TokenBlackFriend",
+    "VitriolicBestBuds"
+  ],
   "tropes_by_category": {}
 }

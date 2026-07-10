@@ -1,7 +1,20 @@
 {
   "name": "The Monk",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "HoistByHisOwnPetard",
+    "DeadpanSnarker",
+    "SnarkToSnarkCombat",
+    "TheChessmaster",
+    "SiblingTeam",
+    "DeaderThanDead",
+    "BlackCloak",
+    "PsychicPowers",
+    "TheDragon",
+    "HiddenAgendaVillain",
+    "NoNameGiven",
+    "TwinTelepathy"
+  ],
   "tropes_by_category": {}
 }

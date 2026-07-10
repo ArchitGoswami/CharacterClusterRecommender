@@ -1,7 +1,17 @@
 {
   "name": "Baron Karloff",
   "show": "Bunnicula",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AffablyEvil",
+    "ShoutOut",
+    "NotEvilJustMisunderstood",
+    "AvertedTrope",
+    "CursedWithAwesome",
+    "InvertedTrope",
+    "DogsAreDumb",
+    "FreudianExcuse",
+    "DevotedToYou"
+  ],
   "tropes_by_category": {}
 }

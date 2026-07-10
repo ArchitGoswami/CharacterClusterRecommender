@@ -1,7 +1,22 @@
 {
   "name": "Meme Tatane",
   "show": "Soul Eater NOT!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "IdiotHair",
+    "IronicName",
+    "DitzyGenius",
+    "CurtainsMatchTheWindow",
+    "TheDitz",
+    "CrouchingMoronHiddenBadass",
+    "FridgeHorror",
+    "CuteBruiser",
+    "ForgetfulJones",
+    "FashionableAsymmetry",
+    "Cloudcuckoolander",
+    "HeavySleeper",
+    "BrainwashedAndCrazy",
+    "WhatDidIDoLastNight"
+  ],
   "tropes_by_category": {}
 }

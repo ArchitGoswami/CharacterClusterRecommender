@@ -1,7 +1,14 @@
 {
   "name": "Qirex pilots",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CoolOldGuy",
+    "RedOniBlueOni",
+    "AcePilot",
+    "MotherRussiaMakesYouStrong",
+    "TheAce",
+    "SiblingRivalry"
+  ],
   "tropes_by_category": {}
 }

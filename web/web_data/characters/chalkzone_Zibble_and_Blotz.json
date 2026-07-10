@@ -1,7 +1,9 @@
 {
   "name": "Zibble and Blotz",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "OurGhostsAreDifferent"
+  ],
   "tropes_by_category": {}
 }

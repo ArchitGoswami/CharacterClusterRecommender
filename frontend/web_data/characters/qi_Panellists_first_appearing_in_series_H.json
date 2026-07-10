@@ -1,7 +1,9 @@
 {
   "name": "Panellists first appearing in series H",
   "show": "QI",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

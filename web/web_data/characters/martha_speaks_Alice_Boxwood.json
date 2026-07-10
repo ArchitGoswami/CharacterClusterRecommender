@@ -1,7 +1,19 @@
 {
   "name": "Alice Boxwood",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AnimalLover",
+    "TheKlutz",
+    "LovableJock",
+    "HairOfGoldHeartOfGold",
+    "SiblingRivalry",
+    "LimitedWardrobe",
+    "GenkiGirl",
+    "SoapboxSadie",
+    "Tomboy",
+    "SharedFamilyQuirks",
+    "SweetTooth"
+  ],
   "tropes_by_category": {}
 }

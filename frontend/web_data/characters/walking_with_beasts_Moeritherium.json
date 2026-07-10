@@ -1,7 +1,15 @@
 {
   "name": "Moeritherium",
   "show": "Walking with Beasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "GentleGiant",
+    "StockSoundEffect",
+    "HuggyHuggyHippos",
+    "ArtisticLicensePaleontology",
+    "EarnYourHappyEnding",
+    "RealLife",
+    "HonorableElephant"
+  ],
   "tropes_by_category": {}
 }

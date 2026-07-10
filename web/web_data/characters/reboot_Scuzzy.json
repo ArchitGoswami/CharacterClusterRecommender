@@ -1,7 +1,19 @@
 {
   "name": "Scuzzy",
   "show": "ReBoot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RidiculouslyCuteCritter",
+    "RightHandCat",
+    "TheSpeechless",
+    "PunnyName",
+    "UndyingLoyalty",
+    "CatsAreMean",
+    "SilentSnarker",
+    "OutOfFocus",
+    "MoreTeethThanTheOsmondFamily",
+    "FollowTheBouncingBall",
+    "AttackOfTheFiftyFootWhatever"
+  ],
   "tropes_by_category": {}
 }

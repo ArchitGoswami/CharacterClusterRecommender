@@ -1,7 +1,20 @@
 {
   "name": "PeterMcDougall",
   "show": "Everybody Loves Raymond",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "BasementDweller",
+    "TheBusCameBack",
+    "CloudCuckooLander",
+    "JerkWithAHeartOfGold",
+    "BigBrotherInstinct",
+    "ManChild",
+    "PairTheSpares",
+    "TheUnfavorite",
+    "LastMinuteHookup",
+    "KindheartedCatLover",
+    "GeekPhysiques",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

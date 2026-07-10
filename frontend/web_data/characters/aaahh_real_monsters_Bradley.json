@@ -1,7 +1,14 @@
 {
   "name": "Bradley",
   "show": "Aaahh!!! Real Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheyWouldCutYouUp",
+    "HeelFaceTurn",
+    "ChuckCunninghamSyndrome",
+    "ChekhovsGunman",
+    "BrokenMasquerade",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

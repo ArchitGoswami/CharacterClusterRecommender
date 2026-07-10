@@ -1,7 +1,20 @@
 {
   "name": "Rudy",
   "show": "Almost Human",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "OmnidisciplinaryScientist",
+    "SuspiciouslySpecificDenial",
+    "IJustWantToHaveFriends",
+    "TookALevelInBadass",
+    "AmbiguouslyJewish",
+    "HiddenDepths",
+    "DistractedByTheSexy",
+    "WaistcoatOfStyle",
+    "TheSmartGuy",
+    "MysteriousPast",
+    "AmbiguouslyBi",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Seamus Harper",
   "show": "Andromeda",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CasanovaWannabe",
+    "TheScrounger",
+    "CowardlyLion",
+    "TheEngineer",
+    "InsufferableGenius",
+    "WhyDidItHaveToBe",
+    "FantasticRacism",
+    "LastNameBasis",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Skugs",
   "show": "VR Troopers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "AdaptationalWimp",
+    "MauveShirt",
+    "MadScientist",
+    "CompositeCharacter",
+    "WeaksauceWeakness",
+    "Mooks",
+    "TwoMenOneDress",
+    "EliteMooks",
+    "ParentService",
+    "Mook"
+  ],
   "tropes_by_category": {}
 }

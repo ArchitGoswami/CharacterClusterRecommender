@@ -1,7 +1,11 @@
 {
   "name": "Big Mad Andy",
   "show": "Peep Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "AxCrazy",
+    "TheBusCameBack",
+    "SanitySlippage"
+  ],
   "tropes_by_category": {}
 }

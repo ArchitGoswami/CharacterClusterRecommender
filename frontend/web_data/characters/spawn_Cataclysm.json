@@ -1,7 +1,11 @@
 {
   "name": "Cataclysm",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ActionDad",
+    "RedAndBlackAndEvilAllOver",
+    "FromNobodyToNightmare"
+  ],
   "tropes_by_category": {}
 }

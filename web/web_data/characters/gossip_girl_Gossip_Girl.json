@@ -1,7 +1,22 @@
 {
   "name": "Gossip Girl",
   "show": "Gossip Girl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CatchPhrase",
+    "CharacterBlog",
+    "TheReveal",
+    "TheNicknamer",
+    "FauxlosophicNarration",
+    "InteractiveNarrator",
+    "TheOmniscient",
+    "SchoolNewspaperNewsHound",
+    "SecondaryCharacterTitle",
+    "LegacyCharacter",
+    "AlliterativeName",
+    "TitleDrop",
+    "HeWhoMustNotBeSeen",
+    "GossipyHens"
+  ],
   "tropes_by_category": {}
 }

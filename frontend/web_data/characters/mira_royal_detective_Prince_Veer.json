@@ -1,7 +1,17 @@
 {
   "name": "Prince Veer",
   "show": "Mira, Royal Detective",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SiblingYinYang",
+    "KnowNothingKnowItAll",
+    "JerkWithAHeartOfGold",
+    "RedOniBlueOni",
+    "Foil",
+    "TheChainsOfCommanding",
+    "DemotedToExtra",
+    "ModestRoyalty",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

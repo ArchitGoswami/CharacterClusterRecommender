@@ -1,7 +1,28 @@
 {
   "name": "Sword Knight and Blade Knight",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "KnightKnaveAndSquire",
+    "RetCanon",
+    "AssistCharacter",
+    "TheyCallHimSword",
+    "MuggingTheMonster",
+    "FinalBattle",
+    "ShoutOut",
+    "BadassCape",
+    "AdaptationalHeroism",
+    "SuspiciouslySimilarSubstitute",
+    "SatelliteCharacter",
+    "CompositeCharacter",
+    "IntelligibleUnintelligible",
+    "DarkAndTroubledPast",
+    "ADayInTheLimelight",
+    "AdaptationExpansion",
+    "CanonImmigrant",
+    "MythologyGag",
+    "BecauseYouWereNiceToMe",
+    "Mooks"
+  ],
   "tropes_by_category": {}
 }

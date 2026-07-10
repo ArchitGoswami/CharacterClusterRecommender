@@ -1,7 +1,31 @@
 {
   "name": "Klinkers",
   "show": "Mixels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "PuttingThePalInPrincipal",
+    "UnexplainedAccent",
+    "ColorCodedForYourConvenience",
+    "Greed",
+    "CoolOldGuy",
+    "TheLeader",
+    "TheRockStar",
+    "SpoiledBrat",
+    "PunnyName",
+    "PungeonMaster",
+    "ImpoverishedPatrician",
+    "ToylessToylineCharacter",
+    "ExtremeDoormat",
+    "Steampunk",
+    "TheLancer",
+    "HeelRealization",
+    "PennyPinchingCrab",
+    "NoisyRobots",
+    "BritishRockstar",
+    "EmbarrassingFirstName",
+    "RetiredBadass",
+    "Cyclops",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

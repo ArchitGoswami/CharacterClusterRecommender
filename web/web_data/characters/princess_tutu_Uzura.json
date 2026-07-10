@@ -1,7 +1,19 @@
 {
   "name": "Uzura",
   "show": "Princess Tutu",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "CatchPhrase",
+    "PleasePutSomeClothesOn",
+    "ThirdPersonPerson",
+    "ArtificialHuman",
+    "Reincarnation",
+    "WhatIsThisThingYouCallLove",
+    "SpannerInTheWorks",
+    "VerbalTic",
+    "CuteButCacophonic",
+    "PluckyComicRelief",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

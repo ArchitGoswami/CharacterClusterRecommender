@@ -1,7 +1,18 @@
 {
   "name": "Etno Polino",
   "show": "Space Goofs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "KnowNothingKnowItAll",
+    "SmartPeoplePlayChess",
+    "StatusQuoIsGod",
+    "TheSmartGuy",
+    "BunglingInventor",
+    "InvokedTrope",
+    "KlingonsLoveShakespeare",
+    "AccentAdaptation",
+    "OnlySaneMan",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

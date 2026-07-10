@@ -1,7 +1,13 @@
 {
   "name": "Lt. Ray Calletano",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NumberTwo",
+    "KickedUpstairs",
+    "NiceGuysFinishLast",
+    "AlwaysSomeoneBetter",
+    "DudeWheresMyRespect"
+  ],
   "tropes_by_category": {}
 }

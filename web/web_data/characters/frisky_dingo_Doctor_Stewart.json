@@ -1,7 +1,12 @@
 {
   "name": "Doctor Stewart",
   "show": "Frisky Dingo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EarlyBirdCameo",
+    "JourneyToTheCentreOfTheMind",
+    "ShootTheMedicFirst",
+    "ContinuityNod"
+  ],
   "tropes_by_category": {}
 }

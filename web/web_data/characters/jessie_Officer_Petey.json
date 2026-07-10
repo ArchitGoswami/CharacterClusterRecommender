@@ -1,7 +1,17 @@
 {
   "name": "Officer Petey",
   "show": "Jessie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "BirdsOfAFeather",
+    "FairCop",
+    "TheDitz",
+    "PoliceAreUseless",
+    "PlatonicLifePartners",
+    "OnlyKnownByTheirNickname",
+    "Cloudcuckoolander",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

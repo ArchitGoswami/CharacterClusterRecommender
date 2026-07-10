@@ -1,7 +1,17 @@
 {
   "name": "Fury",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "AdaptationalVillainy",
+    "DarkActionGirl",
+    "Stripperiffic",
+    "CompositeCharacter",
+    "RelatedInTheAdaptation",
+    "TheDragon",
+    "StrongFamilyResemblance",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

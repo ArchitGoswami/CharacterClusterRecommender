@@ -1,7 +1,20 @@
 {
   "name": "Buckland",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "InstantlyProvenWrong",
+    "SuicideMission",
+    "AdaptationalAngstUpgrade",
+    "WhosLaughingNow",
+    "DrowningMySorrows",
+    "TheDitherer",
+    "AdaptationalVillainy",
+    "TheDrunkenSailor",
+    "UriahGambit",
+    "NoNameGiven",
+    "LastNameBasis",
+    "GotVolunteered"
+  ],
   "tropes_by_category": {}
 }

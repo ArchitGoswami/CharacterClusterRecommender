@@ -1,7 +1,13 @@
 {
   "name": "Dr Flik",
   "show": "Lobo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "MsFanservice",
+    "DarkandTroubledPast",
+    "CharacterDevelopment",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

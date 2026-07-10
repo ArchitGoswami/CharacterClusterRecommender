@@ -1,7 +1,25 @@
 {
   "name": "Martin",
   "show": "Fleabag",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "ViolentGlaswegian",
+    "PetTheDog",
+    "ArchEnemy",
+    "SleepsWithEveryoneButYou",
+    "PoliticallyIncorrectVillain",
+    "JerkWithAHeartOfJerk",
+    "KickTheDog",
+    "HateSink",
+    "BadPeopleAbuseAnimals",
+    "TheAlcoholic",
+    "HeManWomanHater",
+    "AnguishedDeclarationOfLove",
+    "UglyGuyHotWife",
+    "EvenEvilHasStandards",
+    "AdaptationalNationality",
+    "BeardOfEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Beatrice Duckman",
   "show": "Duckman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "LoveAtFirstSight",
+    "SympatheticAdulterer",
+    "CovertPervert",
+    "DeathByAdaptation",
+    "DeceasedParentsAreTheBest",
+    "SecretKeeper",
+    "EmbarrassingFirstName",
+    "CrazyPrepared",
+    "NiceMeanAndInBetween",
+    "MoralityChain",
+    "NotQuiteDead",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

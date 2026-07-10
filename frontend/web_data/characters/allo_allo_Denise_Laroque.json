@@ -1,7 +1,20 @@
 {
   "name": "Denise Laroque",
   "show": "'Allo 'Allo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "PutOnABus",
+    "BusCrash",
+    "DirtyCommunist",
+    "KilledOffForReal",
+    "LaResistance",
+    "BrideAndSwitch",
+    "RebelLeader",
+    "CharacterDeath",
+    "KilledOffscreen",
+    "TheMistress",
+    "AndNowYouMustMarryMe",
+    "TranslationConvention"
+  ],
   "tropes_by_category": {}
 }

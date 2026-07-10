@@ -1,7 +1,20 @@
 {
   "name": "Martin Qwerly",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "Leitmotif",
+    "NiceGuy",
+    "TeenGenius",
+    "PunnyName",
+    "MotorMouth",
+    "MeaningfulName",
+    "HiddenDepths",
+    "Keet",
+    "TheSmartGuy",
+    "Lampshaded",
+    "TrademarkFavoriteFood",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

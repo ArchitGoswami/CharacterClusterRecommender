@@ -1,7 +1,18 @@
 {
   "name": "Doomageddon",
   "show": "League of Super Evil",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Hellhound",
+    "TeamPet",
+    "NamesToRunAwayFromReallyFast",
+    "NearlyNormalAnimal",
+    "BigEater",
+    "HiddenDepths",
+    "ExtremeOmnivore",
+    "Bowdlerize",
+    "Troll",
+    "AnimalisticAbomination"
+  ],
   "tropes_by_category": {}
 }

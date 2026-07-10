@@ -1,7 +1,17 @@
 {
   "name": "Apple Dumplin'",
   "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ToylessToylineCharacter",
+    "FinalSeasonCasting",
+    "WalkingTheEarth",
+    "RelatedDifferentlyInTheAdaptation",
+    "AdaptationalDyeJob",
+    "AgeLift",
+    "TomboyWithAGirlyStreak",
+    "TomboyAndGirlyGirl",
+    "TomboynessUpgrade"
+  ],
   "tropes_by_category": {}
 }

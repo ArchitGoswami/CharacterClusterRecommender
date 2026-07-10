@@ -1,7 +1,10 @@
 {
   "name": "Chicken Jane",
   "show": "Between the Lions",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ButtMonkey",
+    "UndyingLoyalty"
+  ],
   "tropes_by_category": {}
 }

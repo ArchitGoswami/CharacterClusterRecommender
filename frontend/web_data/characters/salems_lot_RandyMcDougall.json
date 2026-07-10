@@ -1,7 +1,10 @@
 {
   "name": "RandyMcDougall",
   "show": "Salem's Lot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "UndeadChild",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Stepan Duchevsky",
   "show": "Mr. Bean",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "NiceGuy",
+    "GratuitousRussian",
+    "DaddysGirl",
+    "KidHero",
+    "MissingMom",
+    "LiteraryAgentHypothesis",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

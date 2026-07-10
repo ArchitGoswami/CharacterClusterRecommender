@@ -1,7 +1,23 @@
 {
   "name": "Tatsuya Shima",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "ShoutOut",
+    "PaletteSwap",
+    "FinalBoss",
+    "TrueFinalBoss",
+    "ExplosiveOverclocking",
+    "KnowWhenToFoldEm",
+    "TheRival",
+    "NamesToRunAwayFromReallyFast",
+    "LegacyCharacter",
+    "YouDontLookLikeYou",
+    "DiscOneFinalBoss",
+    "TheStoic",
+    "PimpedOutCar",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

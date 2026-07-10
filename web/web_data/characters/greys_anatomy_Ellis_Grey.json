@@ -1,7 +1,23 @@
 {
   "name": "Ellis Grey",
   "show": "Grey's Anatomy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ZeroPercentApprovalRating",
+    "OppositesAttract",
+    "TeamDad",
+    "NoSocialSkills",
+    "ItsAllAboutMe",
+    "TheAce",
+    "Narrator",
+    "UnwittingInstigatorOfDoom",
+    "LoveTriangle",
+    "CallingTheOldManOut",
+    "TimeShiftedActor",
+    "EarlyInstallmentWeirdness",
+    "WhatYouAreInTheDark",
+    "DrivenToSuicide",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

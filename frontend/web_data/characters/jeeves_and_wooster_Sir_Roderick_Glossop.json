@@ -1,7 +1,17 @@
 {
   "name": "Sir Roderick Glossop",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "BigOlEyebrows",
+    "BlackFace",
+    "CommonalityConnection",
+    "HypocriticalHumor",
+    "OneSteveLimit",
+    "PsychoPsychologist",
+    "TheShrink",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Frank Kowchevski",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DeadpanSnarker",
+    "SadistTeacher",
+    "Jerkass",
+    "ShellShockedVeteran",
+    "PetTheDog",
+    "Gayngst",
+    "StraightGay",
+    "HiddenDepths",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

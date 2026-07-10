@@ -1,7 +1,10 @@
 {
   "name": "Angie Bladell",
   "show": "Insatiable",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "AlcoholicParent",
+    "ParentalNeglect"
+  ],
   "tropes_by_category": {}
 }

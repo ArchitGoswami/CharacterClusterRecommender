@@ -1,7 +1,19 @@
 {
   "name": "Medieval Spawn I/Sir John of York",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BenevolentBoss",
+    "PrecursorHeroes",
+    "NiceGuy",
+    "AlternateSelf",
+    "NoGoodDeedGoesUnpunished",
+    "HumanoidAbomination",
+    "BFS",
+    "EarnYourHappyEnding",
+    "MonsterKnight",
+    "DarkAndTroubledPast",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Kawase",
   "show": "Megaman NT Warrior",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "EvilFormerFriend",
+    "PlayingWithFire",
+    "ExtraOreDinary",
+    "Greed",
+    "Ninja"
+  ],
   "tropes_by_category": {}
 }

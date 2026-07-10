@@ -1,7 +1,23 @@
 {
   "name": "Mark Gordon",
   "show": "Highway to Heaven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Catchphrase",
+    "JerkWithAHeartOfGold",
+    "WalkingTheEarth",
+    "SnarkToSnarkCombat",
+    "NiceGuy",
+    "FriendToAllChildren",
+    "StraightManAndWiseGuy",
+    "LimitedWardrobe",
+    "TookALevelInKindness",
+    "TheAlcoholic",
+    "HeterosexualLifePartners",
+    "VitriolicBestBuds",
+    "GoodIsNotSoft",
+    "DarkAndTroubledPast",
+    "MrViceGuy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Chipacles",
   "show": "Hercules",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PetTheDog",
+    "PoliceAreUseless",
+    "JerkWithAHeartOfGold",
+    "ReasonableAuthorityFigure"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,26 @@
 {
   "name": "Chef Rudy",
   "show": "Mom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "ThoseTwoGuys",
+    "TheBusCameBack",
+    "SingleTargetSexuality",
+    "ChuckCunninghamSyndrome",
+    "NeverMyFault",
+    "PetTheDog",
+    "BigNo",
+    "OohMeAccentsSlipping",
+    "FullNameBasis",
+    "TooKinkyToTorture",
+    "BelligerentSexualTension",
+    "TheAlcoholic",
+    "UnwittingInstigatorOfDoom",
+    "NoodleIncident",
+    "LampshadeHanging",
+    "TheSociopath",
+    "PlayedForLaughs",
+    "MrViceGuy"
+  ],
   "tropes_by_category": {}
 }

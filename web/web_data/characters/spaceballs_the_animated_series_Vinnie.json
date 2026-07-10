@@ -1,7 +1,14 @@
 {
   "name": "Vinnie",
   "show": "Spaceballs: The Animated Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Expy",
+    "RidiculouslyHumanRobots",
+    "MockHeadroom",
+    "WhatHappenedToTheMouse",
+    "AmbiguouslyGay",
+    "RussianReversal"
+  ],
   "tropes_by_category": {}
 }

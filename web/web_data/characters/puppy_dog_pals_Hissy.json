@@ -1,7 +1,16 @@
 {
   "name": "Hissy",
   "show": "Puppy Dog Pals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OnlySaneWoman",
+    "JerkWithAHeartOfGold",
+    "AmazingTechnicolorWildlife",
+    "CatsAreSnarkers",
+    "CoolBigSis",
+    "OutOfFocus",
+    "TuftOfHeadFur",
+    "CatsHateWater"
+  ],
   "tropes_by_category": {}
 }

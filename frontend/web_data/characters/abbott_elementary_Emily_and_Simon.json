@@ -1,7 +1,13 @@
 {
   "name": "Emily and Simon",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PowerTrio",
+    "ThoseTwoGuys",
+    "WhatExactlyIsHisJob",
+    "BirdsOfAFeather",
+    "StraightGay"
+  ],
   "tropes_by_category": {}
 }

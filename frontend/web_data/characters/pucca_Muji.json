@@ -1,7 +1,24 @@
 {
   "name": "Muji",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "SpaceOpera",
+    "EstablishingCharacterMoment",
+    "ChuckCunninghamSyndrome",
+    "BenevolentBoss",
+    "PrehensileHair",
+    "CompetitionFreak",
+    "BalloonBelly",
+    "Leitmotif",
+    "Foil",
+    "ThirdPersonPerson",
+    "OlderThanTheyLook",
+    "UnexplainedAccent",
+    "CharacterizationMarchesOn",
+    "BadassArmfold",
+    "Irony",
+    "SecurityBlanket"
+  ],
   "tropes_by_category": {}
 }

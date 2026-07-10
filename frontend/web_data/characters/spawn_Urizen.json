@@ -1,7 +1,13 @@
 {
   "name": "Urizen",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBusCameBack",
+    "EldritchAbomination",
+    "EvilIsBigger",
+    "TimeAbyss",
+    "PhysicalGod"
+  ],
   "tropes_by_category": {}
 }

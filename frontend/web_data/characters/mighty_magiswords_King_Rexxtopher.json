@@ -1,7 +1,22 @@
 {
   "name": "King Rexxtopher",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "UnexplainedAccent",
+    "ShownTheirWork",
+    "SitcomArchnemesis",
+    "BerserkButton",
+    "FeatheredFiend",
+    "ReasonableAuthorityFigure",
+    "BrooklynRage",
+    "NewJobAsThePlotDemands",
+    "ToServeMan",
+    "VerbalTic",
+    "DisproportionateRetribution",
+    "WeaponSpecialization",
+    "FantasticRacism",
+    "TailSlap"
+  ],
   "tropes_by_category": {}
 }

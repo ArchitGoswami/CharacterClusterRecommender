@@ -1,7 +1,19 @@
 {
   "name": "The Spookshow",
   "show": "American Gods",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GenericName",
+    "AmbiguouslyHuman",
+    "TheMenInBlack",
+    "WhatHappenedToTheMouse",
+    "Mooks",
+    "PunchClockVillain",
+    "MookLieutenant",
+    "AlasPoorVillain",
+    "AvengingTheVillain",
+    "FlatEarthAtheist",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

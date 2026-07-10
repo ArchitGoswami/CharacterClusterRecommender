@@ -1,7 +1,11 @@
 {
   "name": "Sensei",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MiniatureSeniorCitizens",
+    "SparedByTheAdaptation",
+    "KilledOffscreen"
+  ],
   "tropes_by_category": {}
 }

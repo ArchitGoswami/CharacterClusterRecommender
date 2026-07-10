@@ -1,7 +1,15 @@
 {
   "name": "Penn Epner",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AttentionWhore",
+    "BigBad",
+    "TheBadGuyWins",
+    "SitcomArchnemesis",
+    "SmallNameBigEgo",
+    "TakeThat",
+    "FromNobodyToNightmare"
+  ],
   "tropes_by_category": {}
 }

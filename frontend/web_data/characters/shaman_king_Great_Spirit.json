@@ -1,7 +1,18 @@
 {
   "name": "Great Spirit",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "God",
+    "EldritchAbomination",
+    "PowerOfTheSun",
+    "InMysteriousWays",
+    "OlympusMons",
+    "LightEmUp",
+    "GoMadFromTheRevelation",
+    "FlamingMeteor",
+    "CosmicPower",
+    "MinorMajorCharacter"
+  ],
   "tropes_by_category": {}
 }

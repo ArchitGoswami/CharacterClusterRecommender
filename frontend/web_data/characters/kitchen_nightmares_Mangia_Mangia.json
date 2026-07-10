@@ -1,7 +1,21 @@
 {
   "name": "Mangia Mangia",
   "show": "Kitchen Nightmares",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CatchPhrase",
+    "Jerkass",
+    "SourOutsideSadInside",
+    "StoppedCaring",
+    "KickTheDog",
+    "LackOfEmpathy",
+    "YesMan",
+    "AwesomeButImpractical",
+    "TheScapegoat",
+    "BadBoss",
+    "BittersweetEnding",
+    "CantTakeCriticism",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

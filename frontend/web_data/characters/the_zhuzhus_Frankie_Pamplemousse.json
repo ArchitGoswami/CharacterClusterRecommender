@@ -1,7 +1,31 @@
 {
   "name": "Frankie Pamplemousse",
   "show": "The ZhuZhus",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "InnocentBlueEyes",
+    "ScaryStingingSwarm",
+    "ModestyShorts",
+    "OrdinaryHighSchoolStudent",
+    "PinkHeroine",
+    "HeroProtagonist",
+    "AllThereInTheManual",
+    "CanonForeigner",
+    "Crossdresser",
+    "PassionateSportsGirl",
+    "Contortionist",
+    "CloudCuckooLander",
+    "StockFemurbone",
+    "AbnormalLimbRotationRange",
+    "YoungerThanTheyLook",
+    "TomboyishPonytail",
+    "BeehiveHairdo",
+    "SuperHeroine",
+    "SuddenNameChange",
+    "HairOfGoldHeartOfGold",
+    "PirateGirl",
+    "AlliterativeName",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

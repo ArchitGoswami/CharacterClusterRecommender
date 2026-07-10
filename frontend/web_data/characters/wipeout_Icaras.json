@@ -1,7 +1,25 @@
 {
   "name": "Icaras",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "RealMenWearPink",
+    "Jobber",
+    "IcarusAllusion",
+    "Foil",
+    "CripplingOverspecialization",
+    "InconsistentSpelling",
+    "ItsAllAboutMe",
+    "SoreLoser",
+    "TookALevelInBadass",
+    "DeconstructedTrope",
+    "BlackComedy",
+    "FragileSpeedster",
+    "ItsPersonal",
+    "SelfImposedChallenge",
+    "DifficultButAwesome",
+    "UndignifiedDeath",
+    "WhatDidYouExpectWhenYouNamedIt"
+  ],
   "tropes_by_category": {}
 }

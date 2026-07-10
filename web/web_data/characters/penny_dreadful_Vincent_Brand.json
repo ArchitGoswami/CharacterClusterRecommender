@@ -1,7 +1,13 @@
 {
   "name": "Vincent Brand",
   "show": "Penny Dreadful",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "NiceGuy",
+    "SesquipedalianLoquaciousness",
+    "TheAlcoholic",
+    "LargeHam",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

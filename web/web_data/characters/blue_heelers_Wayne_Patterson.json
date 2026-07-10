@@ -1,7 +1,10 @@
 {
   "name": "Wayne Patterson",
   "show": "Blue Heelers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "StereoFibbing",
+    "CharacterDeath"
+  ],
   "tropes_by_category": {}
 }

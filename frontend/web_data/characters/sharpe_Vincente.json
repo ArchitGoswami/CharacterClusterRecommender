@@ -1,7 +1,15 @@
 {
   "name": "Vincente",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "MyCountryRightOrWrong",
+    "HappilyMarried",
+    "BewareTheNiceOnes",
+    "OfficerAndAGentleman",
+    "FollowTheLeader",
+    "GoodCannotComprehendEvil",
+    "TheIdealist"
+  ],
   "tropes_by_category": {}
 }

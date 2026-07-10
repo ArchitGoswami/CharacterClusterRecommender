@@ -1,7 +1,14 @@
 {
   "name": "The Boogeyman",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "RealMenWearPink",
+    "TheUnintelligible",
+    "EarlyBirdCameo",
+    "CoolShades",
+    "DiscoDan",
+    "AfroAssKicker"
+  ],
   "tropes_by_category": {}
 }

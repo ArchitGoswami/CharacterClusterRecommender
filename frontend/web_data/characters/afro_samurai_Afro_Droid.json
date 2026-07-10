@@ -1,7 +1,22 @@
 {
   "name": "Afro Droid",
   "show": "Afro Samurai",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ArmCannon",
+    "PaletteSwap",
+    "ShoutOut",
+    "EvilKnockoff",
+    "GiantMook",
+    "ConservationOfNinjutsu",
+    "BreathWeapon",
+    "WaveMotionGun",
+    "RobotMe",
+    "JetPack",
+    "RocketPunch",
+    "EnergyWeapon",
+    "CoolShades",
+    "MacrossMissileMassacre"
+  ],
   "tropes_by_category": {}
 }

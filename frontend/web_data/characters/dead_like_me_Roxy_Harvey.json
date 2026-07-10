@@ -1,7 +1,17 @@
 {
   "name": "Roxy Harvey",
   "show": "Dead Like Me",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TeamMom",
+    "TheBigGuy",
+    "NotSoAboveItAll",
+    "PrecisionFStrike",
+    "UnwantedFalseFaith",
+    "BewareTheNiceOnes",
+    "FourTemperamentEnsemble",
+    "SassyBlackWoman",
+    "SeinfeldianConversation"
+  ],
   "tropes_by_category": {}
 }

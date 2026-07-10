@@ -1,7 +1,24 @@
 {
   "name": "Sheldon Wallace",
   "show": "Private Practice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "OddFriendship",
+    "LoveInterest",
+    "SubvertedTrope",
+    "RunningGag",
+    "NiceGuy",
+    "BiggerIsBetterInBed",
+    "SexGod",
+    "RomanticRunnerUp",
+    "CommonalityConnection",
+    "AloneWithThePsycho",
+    "LoveTriangle",
+    "TheConfidant",
+    "AmicableExes",
+    "TheShrink",
+    "TheLoinsSleepTonight",
+    "GagPenis"
+  ],
   "tropes_by_category": {}
 }

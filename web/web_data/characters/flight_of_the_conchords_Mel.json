@@ -1,7 +1,26 @@
 {
   "name": "Mel",
   "show": "Flight of the Conchords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "SynchroVox",
+    "RealDreamsAreWeirder",
+    "ActionGirl",
+    "ClingyJealousGirl",
+    "StalkerWithACrush",
+    "TeacherStudentRomance",
+    "LoonyFan",
+    "CuteAndPsycho",
+    "DisneyAcidSequence",
+    "TheSmurfettePrinciple",
+    "YaoiFangirl",
+    "HappilyMarried",
+    "TheDeterminator",
+    "OnlyOneName",
+    "EroticDream",
+    "FourTemperamentEnsemble",
+    "Cloudcuckoolander",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

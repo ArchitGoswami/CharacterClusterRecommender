@@ -1,7 +1,18 @@
 {
   "name": "Master Chao",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MythologyGag",
+    "TheWorfEffect",
+    "NotSoAboveItAll",
+    "InTheBack",
+    "ReasonableAuthorityFigure",
+    "OldMaster",
+    "RedEyesTakeWarning",
+    "CharacterTic",
+    "MadeOfIron",
+    "BadassOnPaper"
+  ],
   "tropes_by_category": {}
 }

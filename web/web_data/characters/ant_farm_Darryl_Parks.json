@@ -1,7 +1,16 @@
 {
   "name": "Darryl Parks",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "PoliceAreUseless",
+    "BumblingDad",
+    "DisproportionateRetribution",
+    "BigEater",
+    "HiddenDepths",
+    "PoliceCodeForEverything",
+    "FatIdiot",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "The Voice",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WingedHumanoid",
+    "IntangibleTheft",
+    "EarWings",
+    "HarpingOnAboutHarpies"
+  ],
   "tropes_by_category": {}
 }

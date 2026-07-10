@@ -1,7 +1,22 @@
 {
   "name": "Shellsea",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CatchPhrase",
+    "AllWorkVsAllPlay",
+    "JerkWithAHeartOfGold",
+    "AlphaBitch",
+    "BigBeautifulWoman",
+    "BeautyIsBad",
+    "LightFeminineAndDarkFeminine",
+    "PinkMeansFeminine",
+    "TomboyAndGirlyGirl",
+    "PunnyName",
+    "ValleyGirl",
+    "LovableAlphaBitch",
+    "PhoneaholicTeenager",
+    "TheStoic"
+  ],
   "tropes_by_category": {}
 }

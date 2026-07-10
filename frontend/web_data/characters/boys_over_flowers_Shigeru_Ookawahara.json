@@ -1,7 +1,13 @@
 {
   "name": "Shigeru Ookawahara",
   "show": "Boys Over Flowers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ManicPixieDreamGirl",
+    "BoyishShortHair",
+    "IWantMyBelovedToBeHappy",
+    "ShipperOnDeck",
+    "ArrangedMarriage"
+  ],
   "tropes_by_category": {}
 }

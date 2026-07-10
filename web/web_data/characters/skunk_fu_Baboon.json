@@ -1,7 +1,21 @@
 {
   "name": "Baboon",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Catchphrase",
+    "ManiacMonkeys",
+    "NotSoHarmlessVillain",
+    "PetTheDog",
+    "BigBad",
+    "CampStraight",
+    "IneffectualSympatheticVillain",
+    "NakedPeopleAreFunny",
+    "TheDragon",
+    "InTouchWithHisFeminineSide",
+    "JustAStupidAccent",
+    "ButtMonkey",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

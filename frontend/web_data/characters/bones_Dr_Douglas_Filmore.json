@@ -1,7 +1,11 @@
 {
   "name": "Dr. Douglas Filmore",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BewareTheSillyOnes",
+    "BreakTheCutie",
+    "BunnyEarsLawyer"
+  ],
   "tropes_by_category": {}
 }

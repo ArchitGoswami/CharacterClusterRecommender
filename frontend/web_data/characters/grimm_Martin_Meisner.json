@@ -1,7 +1,22 @@
 {
   "name": "Martin Meisner",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DeliveryGuy",
+    "TheBusCameBack",
+    "LastStand",
+    "TheBigGuy",
+    "DisneyVillainDeath",
+    "MrFanservice",
+    "WildCard",
+    "MercyKill",
+    "BadassNormal",
+    "ItsPersonal",
+    "MeaningfulName",
+    "AlliterativeName",
+    "IcyBlueEyes",
+    "UnfinishedBusiness"
+  ],
   "tropes_by_category": {}
 }

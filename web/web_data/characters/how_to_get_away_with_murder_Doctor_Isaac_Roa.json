@@ -1,7 +1,12 @@
 {
   "name": "Doctor Isaac Roa",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HappierHomeMovie",
+    "TheShrink",
+    "DarkAndTroubledPast",
+    "OffTheWagon"
+  ],
   "tropes_by_category": {}
 }

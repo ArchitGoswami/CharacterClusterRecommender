@@ -1,7 +1,19 @@
 {
   "name": "Tavern Residents",
   "show": "Over the Garden Wall",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AtLeastIAdmitIt",
+    "TheVillainSucksSong",
+    "Expy",
+    "AmbiguouslyHuman",
+    "YouAllMeetInAnInn",
+    "EveryoneCallsHimBarkeep",
+    "ManipulativeBastard",
+    "ThatRemindsMeOfASong",
+    "EarlyBirdCameo",
+    "ShipperWithAnAgenda",
+    "NoSenseOfPersonalSpace"
+  ],
   "tropes_by_category": {}
 }

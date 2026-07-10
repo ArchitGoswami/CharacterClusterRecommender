@@ -1,7 +1,11 @@
 {
   "name": "Dr. Ashka",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BystanderSyndrome",
+    "WorthlessForeignDegree",
+    "WeHardlyKnewYe"
+  ],
   "tropes_by_category": {}
 }

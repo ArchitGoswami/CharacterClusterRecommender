@@ -1,7 +1,21 @@
 {
   "name": "Big Suze",
   "show": "Peep Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MsFanservice",
+    "HorribleJudgeOfCharacter",
+    "StatuesqueStunner",
+    "ObliviousToLove",
+    "UpperClassTwit",
+    "BrainlessBeauty",
+    "UnseenNoMore",
+    "ShipTease",
+    "TookALevelInJerkass",
+    "BewareTheNiceOnes",
+    "NiceGirl",
+    "OnlyKnownByTheirNickname",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

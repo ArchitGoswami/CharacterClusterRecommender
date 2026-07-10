@@ -1,7 +1,14 @@
 {
   "name": "Fenton",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Jerkass",
+    "SpoiledBrat",
+    "BrutalHonesty",
+    "CharacterDevelopment",
+    "BrattyHalfPint",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

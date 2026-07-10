@@ -1,7 +1,17 @@
 {
   "name": "Elias Harper",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "DirtyCoward",
+    "CowardlyLion",
+    "NiceGuy",
+    "TheMole",
+    "InspectorJavert",
+    "AmoralAttorney",
+    "StraightGay",
+    "DrivenToSuicide",
+    "BuryYourGays"
+  ],
   "tropes_by_category": {}
 }

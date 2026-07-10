@@ -1,7 +1,20 @@
 {
   "name": "Dopey",
   "show": "The 7D",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "GoingNative",
+    "ShoutOut",
+    "FluffyTamer",
+    "RaisedByWolves",
+    "TheUnintelligible",
+    "WholesomeCrossdresser",
+    "YouthfulFreckles",
+    "HiddenDepths",
+    "IntelligibleUnintelligible",
+    "FriendToAllLivingThings",
+    "CuteMute",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Uran/Astro Girl/Zoran",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "DistaffCounterpart",
+    "ADayInTheLimelight",
+    "Leitmotif",
+    "KillerRobot",
+    "TheDreaded",
+    "UltimateUniverse",
+    "MultipleChoicePast",
+    "SpeaksFluentAnimal",
+    "Tomboy",
+    "TomboyWithAGirlyStreak",
+    "AdaptationalNiceGuy",
+    "NatureLovingRobot",
+    "BigBrotherWorship",
+    "BrattyHalfPint",
+    "MoralityPet",
+    "DeliberatelyCuteChild"
+  ],
   "tropes_by_category": {}
 }

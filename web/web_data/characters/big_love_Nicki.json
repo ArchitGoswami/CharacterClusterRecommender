@@ -1,7 +1,12 @@
 {
   "name": "Nicki",
   "show": "Big Love",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MoneyDumb",
+    "RetailTherapy",
+    "TheUnfavorite",
+    "FemaleMisogynist"
+  ],
   "tropes_by_category": {}
 }

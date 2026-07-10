@@ -1,7 +1,16 @@
 {
   "name": "Sgt. Phil Esterhaus",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Catchphrase",
+    "LimitedAdvancementOpportunities",
+    "FatherToHisMen",
+    "MayDecemberRomance",
+    "SergeantRock",
+    "SesquipedalianLoquaciousness",
+    "OutWithABang",
+    "TheCharacterDiedWithHim"
+  ],
   "tropes_by_category": {}
 }

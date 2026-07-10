@@ -1,7 +1,26 @@
 {
   "name": "Agent J",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AmusingInjuries",
+    "BadassInANiceSuit",
+    "Catchphrase",
+    "DeadpanSnarker",
+    "RippleEffectProofMemory",
+    "UnresolvedSexualTension",
+    "RunningGag",
+    "ManChild",
+    "CrouchingMoronHiddenBadass",
+    "SpottingTheThread",
+    "ForcedTransformation",
+    "ButtMonkey",
+    "NaiveNewcomer",
+    "ImportedAlienPhlebotinum",
+    "InsistentTerminology",
+    "TheMenInBlack",
+    "CoolCar",
+    "RetGone"
+  ],
   "tropes_by_category": {}
 }

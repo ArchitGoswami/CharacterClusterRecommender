@@ -1,7 +1,16 @@
 {
   "name": "Erica Strange",
   "show": "Being Erica",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "WatchingTroyBurn",
+    "BrainyBrunette",
+    "GenkiGirl",
+    "TheAce",
+    "AmbiguouslyJewish",
+    "PlotAllergy",
+    "TraumaCongaLine",
+    "BrokenAce"
+  ],
   "tropes_by_category": {}
 }

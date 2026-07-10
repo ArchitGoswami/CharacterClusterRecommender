@@ -1,7 +1,14 @@
 {
   "name": "Lem Mongello",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheBabyOfTheBunch",
+    "WordOfGod",
+    "TheTeamNormal",
+    "PunnyName",
+    "GirlishPigtails",
+    "TomboyAndGirlyGirl"
+  ],
   "tropes_by_category": {}
 }

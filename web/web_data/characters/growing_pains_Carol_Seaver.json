@@ -1,7 +1,19 @@
 {
   "name": "Carol Seaver",
   "show": "Growing Pains",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BookSmart",
+    "FoolishSiblingResponsibleSibling",
+    "IvyLeagueForEveryone",
+    "SeriesFinale",
+    "PutOnABus",
+    "BrattyTeenageSon",
+    "MatureYoungerSibling",
+    "CharacterDevelopment",
+    "GoGetterGirl",
+    "BackForTheFinale",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

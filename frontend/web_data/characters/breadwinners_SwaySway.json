@@ -1,7 +1,21 @@
 {
   "name": "SwaySway",
   "show": "Breadwinners",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "MommasBoy",
+    "StalkerWithACrush",
+    "Yandere",
+    "DrivesLikeCrazy",
+    "IWantMyMommy",
+    "NiceGuy",
+    "Protectorate",
+    "AxCrazy",
+    "FatAndSkinny",
+    "VitriolicBestBuds",
+    "DistractedByTheSexy",
+    "AbhorrentAdmirer",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

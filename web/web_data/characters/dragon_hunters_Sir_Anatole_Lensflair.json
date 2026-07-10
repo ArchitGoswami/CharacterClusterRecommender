@@ -1,7 +1,10 @@
 {
   "name": "Sir Anatole Lensflair",
   "show": "Dragon Hunters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheMovie",
+    "KnightInShiningArmor"
+  ],
   "tropes_by_category": {}
 }

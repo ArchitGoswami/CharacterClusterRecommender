@@ -1,7 +1,15 @@
 {
   "name": "Garlude",
   "show": "Kirby: Right Back at Ya!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "FamilyUnfriendlyDeath",
+    "HeroicSacrifice",
+    "DeadHandShot",
+    "CanonForeigner",
+    "AmazingTechnicolorPopulation",
+    "PosthumousCharacter",
+    "MissingMom"
+  ],
   "tropes_by_category": {}
 }

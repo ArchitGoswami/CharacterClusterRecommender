@@ -1,7 +1,10 @@
 {
   "name": "Tatsuya Sakimura",
   "show": "Texhnolyze",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OnlySaneMan",
+    "SoleSurvivor"
+  ],
   "tropes_by_category": {}
 }

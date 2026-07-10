@@ -1,7 +1,20 @@
 {
   "name": "Captain Hilary Becker",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "NiceJobBreakingItHero",
+    "TheBigGuy",
+    "AllThereInTheManual",
+    "HeroicBSOD",
+    "NotSoStoic",
+    "ShotgunsAreJustBetter",
+    "EmbarrassingFirstName",
+    "PunchClockVillain",
+    "HiddenDepths",
+    "Troll",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

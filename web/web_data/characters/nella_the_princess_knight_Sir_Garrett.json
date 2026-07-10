@@ -1,7 +1,9 @@
 {
   "name": "Sir Garrett",
   "show": "Nella the Princess Knight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

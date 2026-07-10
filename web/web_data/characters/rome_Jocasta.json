@@ -1,7 +1,25 @@
 {
   "name": "Jocasta",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DefiledForever",
+    "FallenPrincess",
+    "GoingNative",
+    "NouveauRiche",
+    "ObfuscatingInsanity",
+    "PerfectlyArrangedMarriage",
+    "MayDecemberRomance",
+    "HardDrinkingPartyGirl",
+    "BrainlessBeauty",
+    "TheStoner",
+    "ThePurge",
+    "UglyGuyHotWife",
+    "DisproportionateRetribution",
+    "SoleSurvivor",
+    "TalkativeLoon",
+    "Cloudcuckoolander",
+    "FunctionalAddict"
+  ],
   "tropes_by_category": {}
 }

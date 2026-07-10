@@ -1,7 +1,12 @@
 {
   "name": "Alicia",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DomesticAbuse",
+    "OhCrap",
+    "CurbStompBattle",
+    "YouAreWhatYouHate"
+  ],
   "tropes_by_category": {}
 }

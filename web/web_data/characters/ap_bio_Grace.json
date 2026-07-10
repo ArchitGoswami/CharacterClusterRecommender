@@ -1,7 +1,13 @@
 {
   "name": "Grace",
   "show": "AP Bio",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CreepyChild",
+    "AxCrazy",
+    "HiddenDepths",
+    "OutOfFocus",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

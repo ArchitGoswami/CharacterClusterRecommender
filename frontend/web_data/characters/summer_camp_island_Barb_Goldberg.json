@@ -1,7 +1,14 @@
 {
   "name": "Barb Goldberg",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "LoveConfession",
+    "ETGaveUsWiFi",
+    "BerserkButton",
+    "BlatantLies",
+    "LikeASonToMe",
+    "RubeGoldbergDevice"
+  ],
   "tropes_by_category": {}
 }

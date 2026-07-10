@@ -1,7 +1,13 @@
 {
   "name": "\"Sticks\" Downey",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TokenBlackFriend",
+    "YouKnowImBlackRight",
+    "Aesop",
+    "ShooOutTheNewGuy",
+    "LongLostUncleAesop"
+  ],
   "tropes_by_category": {}
 }

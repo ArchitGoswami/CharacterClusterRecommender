@@ -1,7 +1,12 @@
 {
   "name": "Dilmom",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MamaBear",
+    "OnlyKnownByTheirNickname",
+    "NeverMessWithGranny",
+    "OffingTheOffspring"
+  ],
   "tropes_by_category": {}
 }

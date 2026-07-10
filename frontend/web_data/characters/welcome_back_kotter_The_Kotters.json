@@ -1,7 +1,20 @@
 {
   "name": "The Kotters",
   "show": "Welcome Back, Kotter",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ADegreeInUseless",
+    "BigApplesauce",
+    "DeadpanSnarker",
+    "SugarAndIcePersonality",
+    "TheMentor",
+    "TheOneWhoMadeItOut",
+    "CordonBleughChef",
+    "StraightManAndWiseGuy",
+    "HouseWife",
+    "DemotedToExtra",
+    "DeanBitterman",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

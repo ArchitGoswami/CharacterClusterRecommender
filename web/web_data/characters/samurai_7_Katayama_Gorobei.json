@@ -1,7 +1,22 @@
 {
   "name": "Katayama Gorobei",
   "show": "Samurai 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "BlackDudeDiesFirst",
+    "Catchphrase",
+    "HeroicSacrifice",
+    "AdaptationalAttractiveness",
+    "BrutalHonesty",
+    "NiceGuy",
+    "WordOfGod",
+    "DeathByAdaptation",
+    "CombatSadomasochist",
+    "AmbiguouslyBrown",
+    "TheBet",
+    "OffHandBackHand",
+    "PreMortemCatchphrase",
+    "ArrowCatch"
+  ],
   "tropes_by_category": {}
 }

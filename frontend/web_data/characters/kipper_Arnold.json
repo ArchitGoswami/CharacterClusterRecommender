@@ -1,7 +1,13 @@
 {
   "name": "Arnold",
   "show": "Kipper",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheSpeechless",
+    "CheeryPink",
+    "InstantExpert",
+    "CuteMute",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

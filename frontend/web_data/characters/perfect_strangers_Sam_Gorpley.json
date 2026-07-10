@@ -1,7 +1,15 @@
 {
   "name": "Sam Gorpley",
   "show": "Perfect Strangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "DisappearedDad",
+    "TheDanza",
+    "JerkAss",
+    "BadBoss",
+    "LastNameBasis",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Betsey",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "WhatTheHellHero",
+    "HistoricalDomainCharacter",
+    "StarCrossedLovers",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

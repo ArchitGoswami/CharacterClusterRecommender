@@ -1,7 +1,17 @@
 {
   "name": "Rei Tachibana",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BoyishShortHair",
+    "GenderBlenderName",
+    "InterspeciesFriendship",
+    "Bifauxnen",
+    "PassionateSportsGirl",
+    "BroughtDownToBadass",
+    "NiceGirl",
+    "SchoolIdol",
+    "FriendToAllLivingThings"
+  ],
   "tropes_by_category": {}
 }

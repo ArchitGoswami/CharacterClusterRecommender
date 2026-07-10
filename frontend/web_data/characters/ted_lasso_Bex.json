@@ -1,7 +1,16 @@
 {
   "name": "Bex",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "WhereAreTheyNowEpilogue",
+    "MayDecemberRomance",
+    "EarlyBirdCameo",
+    "HasAType",
+    "TrophyWife",
+    "VagueAge",
+    "NiceGirl",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

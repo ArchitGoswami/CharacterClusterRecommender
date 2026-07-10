@@ -1,7 +1,14 @@
 {
   "name": "Fiona",
   "show": "The Magic School Bus Rides Again",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ActionGirl",
+    "BeautyBrainsAndBrawn",
+    "TankTopTomboy",
+    "TomboyishPonytail",
+    "DreamworksFace",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

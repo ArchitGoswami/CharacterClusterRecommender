@@ -1,7 +1,11 @@
 {
   "name": "Terry Fitzgerald",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DoggedNiceGuy",
+    "ButtMonkey",
+    "BadassBookworm"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Rossendale",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DiesDifferentlyInAdaptation",
+    "ImpaledWithExtremePrejudice",
+    "ReassignmentBackfire",
+    "BringMyBrownPants",
+    "LoveMakesYouDumb",
+    "ImpoverishedPatrician",
+    "TheDragon",
+    "EvenEvilHasStandards",
+    "WreckedWeapon",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

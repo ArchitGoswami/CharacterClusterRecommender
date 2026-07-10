@@ -1,7 +1,29 @@
 {
   "name": "Gravitina",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "MsFanservice",
+    "PowerIncontinence",
+    "Pun",
+    "AlternateUniverse",
+    "MurderTheHypotenuse",
+    "AstonishinglyAppropriateAppearance",
+    "FreudianExcuse",
+    "ActionGirl",
+    "MarriedToTheJob",
+    "WhatTheHellIsThatAccent",
+    "AllGirlsWantBadBoys",
+    "GravityMaster",
+    "MyBrainIsBig",
+    "AbhorrentAdmirer",
+    "GreenSkinnedSpaceBabe",
+    "SquishyWizard",
+    "ButterFace",
+    "TomboyAndGirlyGirl",
+    "TomboyPrincess",
+    "EvilCounterpart",
+    "VillainousCrush"
+  ],
   "tropes_by_category": {}
 }

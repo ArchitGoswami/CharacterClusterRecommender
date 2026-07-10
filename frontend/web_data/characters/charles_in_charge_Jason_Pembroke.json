@@ -1,7 +1,11 @@
 {
   "name": "Jason Pembroke",
   "show": "Charles in Charge",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DeadpanSnarker",
+    "IntergenerationalFriendship",
+    "AdorablyPrecociousChild"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Thelma Botkin",
   "show": "Inspector Gadget",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BadGuysPlayPool",
+    "KarmaHoudini",
+    "TimeTravel"
+  ],
   "tropes_by_category": {}
 }

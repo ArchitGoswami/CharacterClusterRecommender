@@ -1,7 +1,19 @@
 {
   "name": "Norbert Klerm",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheDogBitesBack",
+    "NotSoHarmlessVillain",
+    "BigBad",
+    "VillainBall",
+    "ScrewTheRulesIHaveMoney",
+    "FourEyesZeroSoul",
+    "PsychopathicManchild",
+    "EvilRedhead",
+    "EvilIsNotAToy",
+    "CorruptCorporateExecutive",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Scribbles",
   "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CripplingOverspecialization",
+    "ServantRace",
+    "AlwaysChaoticEvil",
+    "SealedEvilInACan"
+  ],
   "tropes_by_category": {}
 }

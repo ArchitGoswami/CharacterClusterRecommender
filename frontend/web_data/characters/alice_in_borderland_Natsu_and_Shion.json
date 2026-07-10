@@ -1,7 +1,18 @@
 {
   "name": "Natsu and Shion",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "BareMidriffsAreFeminine",
+    "CanonForeigner",
+    "OneeSama",
+    "GirlyGirl",
+    "TheFashionista",
+    "FanDisservice",
+    "HiddenDepths",
+    "BookDumb",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

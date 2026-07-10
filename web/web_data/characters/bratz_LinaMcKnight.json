@@ -1,7 +1,17 @@
 {
   "name": "LinaMcKnight",
   "show": "Bratz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Animorphism",
+    "Goth",
+    "TheCorrupter",
+    "TheChessmaster",
+    "AmbiguouslyRelated",
+    "BigBad",
+    "OlderThanTheyLook",
+    "PowerStrainBlackout",
+    "Transflormation"
+  ],
   "tropes_by_category": {}
 }

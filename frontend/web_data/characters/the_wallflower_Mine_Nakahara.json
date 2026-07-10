@@ -1,7 +1,21 @@
 {
   "name": "Mine Nakahara",
   "show": "The Wallflower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SmokingIsGlamorous",
+    "ShipperOnDeck",
+    "WantedAGenderConformingChild",
+    "CreepyLonerGirl",
+    "WhyCouldntYouBeDifferent",
+    "MaamShock",
+    "YamatoNadeshiko",
+    "NoblewomansLaugh",
+    "AdaptationalEarlyAppearance",
+    "EccentricMillionaire",
+    "HerHeartWillGoOn",
+    "LargeHam",
+    "RichInDollarsPoorInSense"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Skip Carbia",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HeelFaceTurn",
+    "BabiesEverAfter",
+    "TheChanteuse",
+    "AlphaBitch",
+    "LadyOfWar",
+    "AnIcePerson",
+    "SatelliteCharacter",
+    "BishonenLine",
+    "ProngsOfPoseidon"
+  ],
   "tropes_by_category": {}
 }

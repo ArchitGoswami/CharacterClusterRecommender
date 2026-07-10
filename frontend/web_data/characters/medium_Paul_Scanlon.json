@@ -1,7 +1,10 @@
 {
   "name": "Paul Scanlon",
   "show": "Medium",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SiblingYinYang",
+    "SerialRapist"
+  ],
   "tropes_by_category": {}
 }

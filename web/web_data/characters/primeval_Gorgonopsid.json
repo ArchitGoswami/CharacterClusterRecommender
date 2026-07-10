@@ -1,7 +1,25 @@
 {
   "name": "Gorgonopsid",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "WarmUpBoss",
+    "HeroicSacrifice",
+    "BMovie",
+    "MightyGlacier",
+    "NoNameGiven",
+    "AlwaysABiggerFish",
+    "ArtisticLicensePaleontology",
+    "TRexpy",
+    "MamaBear",
+    "AnimalsNotToScale",
+    "UpgradeVsPrototypeFight",
+    "EyeScream",
+    "LightningBruiser",
+    "EatsBabies",
+    "RockBeatsLaser",
+    "MadeOfIron",
+    "CrocScaledSaurian"
+  ],
   "tropes_by_category": {}
 }

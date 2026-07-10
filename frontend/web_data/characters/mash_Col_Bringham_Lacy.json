@@ -1,7 +1,14 @@
 {
   "name": "Col. Bringham Lacy",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "GloryHound",
+    "ObliviouslyEvil",
+    "GenreBlind",
+    "TheFriendNobodyLikes",
+    "BadBoss",
+    "ColonelKilgore"
+  ],
   "tropes_by_category": {}
 }

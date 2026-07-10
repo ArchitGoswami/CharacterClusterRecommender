@@ -1,7 +1,13 @@
 {
   "name": "Gildas",
   "show": "Dragon Hunters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FrontierDoctor",
+    "TheMovie",
+    "HypercompetentSidekick",
+    "NoSenseOfHumor",
+    "DrJerk"
+  ],
   "tropes_by_category": {}
 }

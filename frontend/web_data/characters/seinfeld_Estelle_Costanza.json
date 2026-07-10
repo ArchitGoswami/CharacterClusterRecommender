@@ -1,7 +1,17 @@
 {
   "name": "Estelle Costanza",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmbiguouslyJewish",
+    "JewsLoveToArgue",
+    "NoSenseOfHumor",
+    "SuddenlyShouting",
+    "JewishComplaining",
+    "ParentsAsPeople",
+    "NoAccountingForTaste",
+    "BorschtBelt",
+    "JewishMother"
+  ],
   "tropes_by_category": {}
 }

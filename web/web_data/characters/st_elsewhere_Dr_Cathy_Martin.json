@@ -1,7 +1,18 @@
 {
   "name": "Dr. Cathy Martin",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "BrokenBird",
+    "AdaptationalSelfDefense",
+    "CreepyMortician",
+    "TraumaCongaLine",
+    "BunnyEarsLawyer",
+    "PutOnABus",
+    "ForgivenButNotForgotten",
+    "RescueRomance",
+    "CloudCuckoolander",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

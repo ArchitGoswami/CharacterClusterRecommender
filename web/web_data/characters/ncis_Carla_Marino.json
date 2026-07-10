@@ -1,7 +1,19 @@
 {
   "name": "Carla Marino",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "MoralMyopia",
+    "EvilCannotComprehendGood",
+    "TheQueenpin",
+    "ArchEnemy",
+    "RevengeBeforeReason",
+    "TakingYouWithMe",
+    "TargetedToHurtTheHero",
+    "HateSink",
+    "OutlivingOnesOffspring",
+    "KarmicDeath",
+    "ArcVillain"
+  ],
   "tropes_by_category": {}
 }

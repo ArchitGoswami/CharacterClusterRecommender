@@ -1,7 +1,12 @@
 {
   "name": "Dr. Samira Terzi",
   "show": "House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CripplingOverspecialization",
+    "MsFanservice",
+    "DidntThinkThisThrough",
+    "PoorCommunicationKills"
+  ],
   "tropes_by_category": {}
 }

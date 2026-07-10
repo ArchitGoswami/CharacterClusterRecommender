@@ -1,7 +1,16 @@
 {
   "name": "Cloggy Colon Creature",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheBusCameBack",
+    "DoesThisRemindYouOfAnything",
+    "NoCelebritiesWereHarmed",
+    "ToServeMan",
+    "StarfishAliens",
+    "CardCarryingVillain",
+    "ItsAllAboutMe",
+    "OffscreenRealityWarp"
+  ],
   "tropes_by_category": {}
 }

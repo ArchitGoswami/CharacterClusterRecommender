@@ -1,7 +1,14 @@
 {
   "name": "Doctor Odium",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Nanomachines",
+    "MadScientist",
+    "MirrorCharacter",
+    "WeCanRuleTogether",
+    "EvilOldFolks",
+    "ActuallyADoombot"
+  ],
   "tropes_by_category": {}
 }

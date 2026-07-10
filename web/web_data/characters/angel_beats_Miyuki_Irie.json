@@ -1,7 +1,13 @@
 {
   "name": "Miyuki Irie",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "StudentCouncilPresident",
+    "ShrinkingViolet",
+    "AffectionateNickname",
+    "IronicFear",
+    "BreakTheCutie"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Stevie Kenarban",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BlackAndNerdy",
+    "GeniusCripple",
+    "TookALevelInBadass",
+    "TeenGenius",
+    "WoundedGazelleGambit",
+    "HandicappedBadass",
+    "TookALevelInJerkass",
+    "LampshadeHanging",
+    "CorruptTheCutie",
+    "TwoferTokenMinority",
+    "BewareTheNiceOnes",
+    "DisabledSnarker",
+    "VitriolicBestBuds",
+    "OnlySaneMan",
+    "HowsYourBritishAccent",
+    "DisabledMeansHelpless",
+    "SpeechImpediment"
+  ],
   "tropes_by_category": {}
 }

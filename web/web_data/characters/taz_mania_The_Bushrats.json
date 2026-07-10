@@ -1,7 +1,10 @@
 {
   "name": "The Bushrats",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HollywoodNatives",
+    "IntelligibleUnintelligible"
+  ],
   "tropes_by_category": {}
 }

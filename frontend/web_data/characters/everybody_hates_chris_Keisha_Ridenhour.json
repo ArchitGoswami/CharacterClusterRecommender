@@ -1,7 +1,15 @@
 {
   "name": "Keisha Ridenhour",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AllLoveIsUnrequited",
+    "PutOnABusToHell",
+    "KickTheDog",
+    "JerkassBall",
+    "LiterallyLovingThyNeighbor",
+    "CutawayGag",
+    "BlackComedy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Sir Watkyn Bassett",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Jerkass",
+    "ArchEnemy",
+    "HangingJudge",
+    "GrumpyOldMan",
+    "DrunkWithPower",
+    "SeriousBusiness",
+    "CorruptBureaucrat"
+  ],
   "tropes_by_category": {}
 }

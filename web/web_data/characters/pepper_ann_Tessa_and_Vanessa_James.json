@@ -1,7 +1,19 @@
 {
   "name": "Tessa and Vanessa James",
   "show": "Pepper Ann",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "IncestSubtext",
+    "RhymeThemeNaming",
+    "ADayInTheLimelight",
+    "CoordinatedClothes",
+    "DistantFinale",
+    "LookAlikeLovers",
+    "FinishingEachOthersSentences",
+    "KiddyCoveralls",
+    "SingleMindedTwins",
+    "GossipyHens",
+    "FamilyThemeNaming"
+  ],
   "tropes_by_category": {}
 }

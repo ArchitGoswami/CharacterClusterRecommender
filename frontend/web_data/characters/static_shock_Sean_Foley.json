@@ -1,7 +1,20 @@
 {
   "name": "Sean Foley",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "LikeFatherUnlikeSon",
+    "RacistGrandma",
+    "PapaWolf",
+    "Workaholic",
+    "NiceGuy",
+    "HeelRealization",
+    "ParentalNeglect",
+    "Oireland",
+    "TookALevelInKindness",
+    "MyGodWhatHaveIDone",
+    "AngryWhiteMan",
+    "FormerBigot"
+  ],
   "tropes_by_category": {}
 }

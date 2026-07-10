@@ -1,7 +1,16 @@
 {
   "name": "Gigantix",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ColonyDrop",
+    "BigBad",
+    "StickySituation",
+    "WeaksauceWeakness",
+    "ATwinkleInTheSky",
+    "BlobMonster",
+    "LargeHam",
+    "AttackOfTheFiftyFootWhatever"
+  ],
   "tropes_by_category": {}
 }

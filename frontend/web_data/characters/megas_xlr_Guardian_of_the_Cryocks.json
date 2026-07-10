@@ -1,7 +1,26 @@
 {
   "name": "Guardian of the Cryocks",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "ArmCannon",
+    "FailedASpotCheck",
+    "KilledOffForReal",
+    "ImproperlyParanoid",
+    "Expy",
+    "DefectorFromDecadence",
+    "EveryoneCallsHimBarkeep",
+    "UnderestimatingBadassery",
+    "ShoulderCannon",
+    "CompositeCharacter",
+    "PoorCommunicationKills",
+    "BullyingADragon",
+    "FatalFlaw",
+    "SmugSuper",
+    "TankGoodness",
+    "OneShotCharacter",
+    "NoNameGiven",
+    "OneManArmy"
+  ],
   "tropes_by_category": {}
 }

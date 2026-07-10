@@ -1,7 +1,13 @@
 {
   "name": "Mallory Dent",
   "show": "Veronica Mars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AdvertisedExtra",
+    "ChuckCunninghamSyndrome",
+    "AbortedArc",
+    "PutOnABus",
+    "RealLifeWritesThePlot"
+  ],
   "tropes_by_category": {}
 }

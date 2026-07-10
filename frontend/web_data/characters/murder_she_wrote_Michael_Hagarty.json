@@ -1,7 +1,11 @@
 {
   "name": "Michael Hagarty",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "FightingIrish",
+    "TheCharmer",
+    "IndyPloy"
+  ],
   "tropes_by_category": {}
 }

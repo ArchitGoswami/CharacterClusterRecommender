@@ -1,7 +1,28 @@
 {
   "name": "Dabio",
   "show": "Wild Kratts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "TokenGoodTeammate",
+    "OnlyOneName",
+    "Keet",
+    "AffablyEvil",
+    "ManChild",
+    "TheDitz",
+    "MinionWithAnFInEvil",
+    "GenderInvertedTrope",
+    "NominalImportance",
+    "TheBrute",
+    "EvilMinions",
+    "DumbBlonde",
+    "SimpletonVoice",
+    "TopHeavyGuy",
+    "YouGetMeCoffee",
+    "DumbMuscle",
+    "Expy",
+    "CaptainErsatz",
+    "PerkyFemaleMinion"
+  ],
   "tropes_by_category": {}
 }

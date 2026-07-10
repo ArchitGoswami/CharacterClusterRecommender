@@ -1,7 +1,14 @@
 {
   "name": "Clyde the Cloud",
   "show": "Donkey Hodie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CastingGag",
+    "CanonForeigner",
+    "NiceGuy",
+    "AnimateInanimateObject",
+    "AccessoryWearingCartoonAnimal",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

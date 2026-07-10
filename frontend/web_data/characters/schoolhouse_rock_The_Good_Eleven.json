@@ -1,7 +1,10 @@
 {
   "name": "The Good Eleven",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ThoseTwoGuys",
+    "RunningGag"
+  ],
   "tropes_by_category": {}
 }

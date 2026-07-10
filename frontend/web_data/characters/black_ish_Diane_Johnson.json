@@ -1,7 +1,9 @@
 {
   "name": "Diane Johnson",
   "show": "Black-ish",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "EmbarrassingNickname"
+  ],
   "tropes_by_category": {}
 }

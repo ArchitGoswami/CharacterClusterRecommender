@@ -1,7 +1,17 @@
 {
   "name": "Ben Warren",
   "show": "Grey's Anatomy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ActionDad",
+    "RareMaleExample",
+    "NewMeat",
+    "NiceGuy",
+    "Transplant",
+    "NaiveNewcomer",
+    "FamilyVersusCareer",
+    "CareerEndingInjury",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

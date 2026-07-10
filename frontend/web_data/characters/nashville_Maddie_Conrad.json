@@ -1,7 +1,13 @@
 {
   "name": "Maddie Conrad",
   "show": "Nashville",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DarkSecret",
+    "SiblingTeam",
+    "AscendedExtra",
+    "TheAce",
+    "TwoFirstNames"
+  ],
   "tropes_by_category": {}
 }

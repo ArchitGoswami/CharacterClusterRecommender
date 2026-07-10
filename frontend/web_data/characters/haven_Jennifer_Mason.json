@@ -1,7 +1,24 @@
 {
   "name": "Jennifer Mason",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "TrueSight",
+    "LoveInterest",
+    "AbortedArc",
+    "TheChosenOne",
+    "HugeGuyTinyGirl",
+    "BlessedWithSuck",
+    "HearingVoices",
+    "TheWatson",
+    "ThirdOptionLoveInterest",
+    "WhiteCollarWorker",
+    "HappilyAdopted",
+    "NoMedicationForMe",
+    "MotorMouth",
+    "DroppedABridgeOnHer",
+    "RescueIntroduction",
+    "LoveTriangle"
+  ],
   "tropes_by_category": {}
 }

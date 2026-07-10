@@ -1,7 +1,19 @@
 {
   "name": "Aron Price",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BrokenPedestal",
+    "EngineeredPublicConfession",
+    "EstablishingCharacterMoment",
+    "CaughtOnTape",
+    "ManipulativeBastard",
+    "NonActionGuy",
+    "HateSink",
+    "NotBloodNotFamily",
+    "PerpetualFrowner",
+    "Greed",
+    "BigBrotherBully"
+  ],
   "tropes_by_category": {}
 }

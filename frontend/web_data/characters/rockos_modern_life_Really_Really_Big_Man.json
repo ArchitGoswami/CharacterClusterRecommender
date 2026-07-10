@@ -1,7 +1,22 @@
 {
   "name": "Really Really Big Man",
   "show": "Rocko's Modern Life",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DaytimeDramaQueen",
+    "TheBigGuy",
+    "Expy",
+    "NiceGuy",
+    "WholesomeCrossdresser",
+    "TheCape",
+    "DoesNotKnowHisOwnStrength",
+    "InformedSpecies",
+    "DarkerAndEdgier",
+    "CartoonCreature",
+    "LanternJawOfJustice",
+    "PhraseCatcher",
+    "TopHeavyGuy",
+    "EyeScream"
+  ],
   "tropes_by_category": {}
 }

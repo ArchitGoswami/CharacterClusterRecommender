@@ -1,7 +1,10 @@
 {
   "name": "Principal Hickey",
   "show": "Pepper Ann",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "MyGodWhatHaveIDone",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Mia Nesky",
   "show": "In Treatment",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "GoodGirlsAvoidAbortion",
+    "PregnancyScare",
+    "IJustWantToHaveFriends",
+    "OldMaid",
+    "LonelyAtTheTop",
+    "DaddysGirl",
+    "JerkAss",
+    "SingleWomanSeeksGoodMan"
+  ],
   "tropes_by_category": {}
 }

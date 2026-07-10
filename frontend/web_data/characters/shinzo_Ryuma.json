@@ -1,7 +1,19 @@
 {
   "name": "Ryuma",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "IHaveYouNowMyPretty",
+    "CruelMercy",
+    "DraconicHumanoid",
+    "Expy",
+    "AndNowYouMustMarryMe",
+    "HumiliationConga",
+    "AnimalEyes",
+    "DevourTheDragon",
+    "SuperMode",
+    "GoldenSuperMode",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

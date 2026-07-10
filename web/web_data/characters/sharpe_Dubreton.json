@@ -1,7 +1,16 @@
 {
   "name": "Dubreton",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NothingPersonal",
+    "HappilyMarried",
+    "ClickHello",
+    "EnemyMine",
+    "DoWithHimAsYouWill",
+    "FriendlyEnemy",
+    "ExactWords",
+    "ColonelBadass"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Fire Dragons of Wei",
   "show": "Kingdom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "NotSoStoic",
+    "NonActionGuy",
+    "UriahGambit",
+    "CynicismCatalyst",
+    "TheReasonYouSuckSpeech",
+    "GlassCannon",
+    "AffablyEvil",
+    "AttackAttackAttack",
+    "DyingAsYourself",
+    "TheDreaded",
+    "TheStrategist",
+    "ArcVillain",
+    "SmugSmiler",
+    "GeneralFailure",
+    "TheStoic",
+    "KissingCousins",
+    "KavorkaMan",
+    "OneManArmy",
+    "DudeLooksLikeALady",
+    "ThousandYardStare"
+  ],
   "tropes_by_category": {}
 }

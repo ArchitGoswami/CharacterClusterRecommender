@@ -1,7 +1,21 @@
 {
   "name": "Matatoa",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TattooedCrook",
+    "AdaptationalWimp",
+    "LickingTheBlade",
+    "AdaptationalVillainy",
+    "ImAHumanitarian",
+    "MightyWhitey",
+    "AxCrazy",
+    "RaceLift",
+    "DarkerAndEdgier",
+    "MeaningfulName",
+    "ManiacTongue",
+    "DemotedToExtra",
+    "DreadlockWarrior"
+  ],
   "tropes_by_category": {}
 }

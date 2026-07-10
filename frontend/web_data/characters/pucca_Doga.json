@@ -1,7 +1,19 @@
 {
   "name": "Doga",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "EyeBeams",
+    "FacialMarkings",
+    "WickedWitch",
+    "LaserGuidedKarma",
+    "AFateWorseThanDeath",
+    "LadyLooksLikeADude",
+    "ArtifactOfDoom",
+    "ThePigPen",
+    "CardCarryingVillain",
+    "SixthRanger"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Crocodile",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AmazingTechnicolorWildlife",
+    "TheDreaded",
+    "HazardousWater",
+    "ArtisticLicensePaleontology",
+    "InformedSpecies",
+    "UnwittingInstigatorOfDoom",
+    "AdaptationExpansion",
+    "AdaptedOut",
+    "AnimalsNotToScale",
+    "NeverSmileAtACrocodile",
+    "WritersCannotDoMath",
+    "NoNameGiven",
+    "AluminumChristmasTrees",
+    "AnachronismStew",
+    "PlotIrrelevantVillain"
+  ],
   "tropes_by_category": {}
 }

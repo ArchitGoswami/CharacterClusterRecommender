@@ -1,7 +1,14 @@
 {
   "name": "Gabe Garza",
   "show": "Generation Kill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DumbMuscle",
+    "NiceGuy",
+    "StrongerThanTheyLook",
+    "NonUniformUniform",
+    "BizarreTasteInFood",
+    "FriendOrFoe"
+  ],
   "tropes_by_category": {}
 }

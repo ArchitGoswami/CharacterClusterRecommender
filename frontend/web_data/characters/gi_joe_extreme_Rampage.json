@@ -1,7 +1,20 @@
 {
   "name": "Rampage",
   "show": "G.I. Joe Extreme",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ArmCannon",
+    "TheBusCameBack",
+    "YouWouldntLikeMeWhenImAngry",
+    "BerserkButton",
+    "PutOnABus",
+    "ToylessToylineCharacter",
+    "TheStarscream",
+    "VillainWithGoodPublicity",
+    "MechaMooks",
+    "LargeHam",
+    "ContrastingSequelAntagonist",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

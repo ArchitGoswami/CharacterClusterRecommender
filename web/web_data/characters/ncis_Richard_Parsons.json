@@ -1,7 +1,26 @@
 {
   "name": "Richard Parsons",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "Blackmail",
+    "HeelFaceTurn",
+    "TenMinuteRetirement",
+    "BreakTheHaughty",
+    "Hypocrite",
+    "TheUnfettered",
+    "VillainHasAPoint",
+    "CondescendingCompassion",
+    "TheAce",
+    "IShallTauntYou",
+    "ObfuscatingStupidity",
+    "ADickInName",
+    "TheFriendNobodyLikes",
+    "FillerVillain",
+    "EvilCounterpart",
+    "OutGambitted",
+    "JerkassHasAPoint",
+    "DidntThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

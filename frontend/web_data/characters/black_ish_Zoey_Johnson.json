@@ -1,7 +1,28 @@
 {
   "name": "Zoey Johnson",
   "show": "Black-ish",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "FoolishSiblingResponsibleSibling",
+    "BrattyTeenageDaughter",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "TheDitz",
+    "DaddysGirl",
+    "SmarterThanYouLook",
+    "HiddenDepths",
+    "TheReliableOne",
+    "PutOnABus",
+    "BrilliantButLazy",
+    "TheFashionista",
+    "OnlySaneMan",
+    "SiblingYinYang",
+    "AloofBigSister",
+    "WildTeenParty",
+    "HollywoodToneDeaf",
+    "MellowFellow",
+    "CoolBigSis",
+    "PhoneaholicTeenager"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Kenny Daly",
   "show": "Frasier",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "FromBadToWorse",
+    "BigFun",
+    "NiceGuy",
+    "BadLiar",
+    "ADayInTheLimeLight",
+    "INeedAFreakingDrink",
+    "ReasonableAuthorityFigure",
+    "LargeHamRadio",
+    "GoshDangItToHeck",
+    "WillNotTellALie",
+    "ButtMonkey",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

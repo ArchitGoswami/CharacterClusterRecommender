@@ -1,7 +1,19 @@
 {
   "name": "Prometheus V",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ArmCannon",
+    "DeadpanSnarker",
+    "YouAreNumberSix",
+    "HumongousMecha",
+    "GoodAllAlong",
+    "ChestBlaster",
+    "InSeriesNickname",
+    "MeaningfulName",
+    "SmugSuper",
+    "SuperiorSuccessor",
+    "LightningBruiser"
+  ],
   "tropes_by_category": {}
 }

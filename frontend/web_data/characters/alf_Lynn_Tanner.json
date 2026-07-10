@@ -1,7 +1,16 @@
 {
   "name": "Lynn Tanner",
   "show": "ALF",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "TheUglyGuysHotDaughter",
+    "ButtMonkey",
+    "ShrinkingViolet",
+    "JerkassBall",
+    "PracticallyDifferentGenerations",
+    "EightiesHair",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

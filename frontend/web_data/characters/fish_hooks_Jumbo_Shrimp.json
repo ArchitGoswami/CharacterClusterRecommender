@@ -1,7 +1,13 @@
 {
   "name": "Jumbo Shrimp",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OfficialCouple",
+    "NiceGuy",
+    "HeterosexualLifePartners",
+    "TheSmartGuy",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

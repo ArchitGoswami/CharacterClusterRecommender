@@ -1,7 +1,21 @@
 {
   "name": "Melinda Finster",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "SoapOperaDisease",
+    "LoveAtFirstSight",
+    "TragicKeepsake",
+    "HappilyMarried",
+    "UnseenNoMore",
+    "CaringGardener",
+    "DeceasedParentsAreTheBest",
+    "MoralGuardians",
+    "PosthumousCharacter",
+    "MissingMom",
+    "EarlyInstallmentWeirdness",
+    "AmbiguouslyAbsentParent",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

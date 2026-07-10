@@ -1,7 +1,18 @@
 {
   "name": "Principal Theodore \"Ted\" Franklin",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SadistTeacher",
+    "NiceGuy",
+    "OneOfTheKids",
+    "ReasonableAuthorityFigure",
+    "BunnyEarsLawyer",
+    "OOCIsSeriousBusiness",
+    "CrazyPrepared",
+    "TokenMinority",
+    "OnlySaneMan",
+    "Cloudcuckoolander"
+  ],
   "tropes_by_category": {}
 }

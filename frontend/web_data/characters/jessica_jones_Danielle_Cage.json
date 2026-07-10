@@ -1,7 +1,14 @@
 {
   "name": "Danielle Cage",
   "show": "Jessica Jones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "NearAndDearBabyNaming",
+    "LegoGenetics",
+    "AmbiguouslyGay",
+    "FlyingBrick",
+    "FutureBadass",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Joe Siry",
   "show": "Witchblade",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DaChief",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

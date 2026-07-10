@@ -1,7 +1,11 @@
 {
   "name": "Mr. Beetle",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheUnintelligible",
+    "AscendedExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

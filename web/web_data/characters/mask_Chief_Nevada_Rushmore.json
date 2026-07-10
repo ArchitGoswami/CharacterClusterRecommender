@@ -1,7 +1,9 @@
 {
   "name": "\"Chief\" Nevada Rushmore",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "SpontaneousWeaponCreation"
+  ],
   "tropes_by_category": {}
 }

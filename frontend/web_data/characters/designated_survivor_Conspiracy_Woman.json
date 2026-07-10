@@ -1,7 +1,25 @@
 {
   "name": "\"Conspiracy Woman\"",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "TheConspiracy",
+    "VillainousBreakdown",
+    "PerpetualSmiler",
+    "MilitaryBrat",
+    "IHaveYourWife",
+    "ManipulativeBastard",
+    "FiveRoundsRapid",
+    "IHaveManyNames",
+    "HeroKiller",
+    "KarmicDeath",
+    "MouthOfSauron",
+    "ISurrenderSuckers",
+    "TheHeavy",
+    "WouldHurtAChild",
+    "CoDragons",
+    "SmugSnake",
+    "MoleInCharge"
+  ],
   "tropes_by_category": {}
 }

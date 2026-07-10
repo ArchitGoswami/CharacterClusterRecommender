@@ -1,7 +1,23 @@
 {
   "name": "Spirit",
   "show": "Oban Star-Racers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DarkIsNotEvil",
+    "ShoutOut",
+    "BewareTheQuietOnes",
+    "NiceGuy",
+    "TheQuietOne",
+    "TheSpeechless",
+    "VoluntaryShapeshifting",
+    "MistakenForMurderer",
+    "WhiteMaskOfDoom",
+    "HiddenDepths",
+    "StarfishAlien",
+    "LivingShip",
+    "ShapeshiftingExcludesClothing",
+    "LightningBruiser",
+    "SingleTear"
+  ],
   "tropes_by_category": {}
 }

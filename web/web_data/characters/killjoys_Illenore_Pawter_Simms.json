@@ -1,7 +1,29 @@
 {
   "name": "Illenore Pawter Simms",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "FrontierDoctor",
+    "HospitalHottie",
+    "MeaningfulName",
+    "TheShrink",
+    "BlueBlood",
+    "ImmigrantPatriotism",
+    "VerbalBackspace",
+    "BadassBoast",
+    "BackAlleyDoctor",
+    "ImpoverishedPatrician",
+    "FunctionalAddict",
+    "AndIMustScream",
+    "OhMyGods",
+    "ScrewTheRulesIHaveConnections",
+    "GoGoEnslavement",
+    "TookALevelInBadass",
+    "TheMole",
+    "AffectionateNickname",
+    "ResolvedNoodleIncident",
+    "NoodleIncident",
+    "MindRape"
+  ],
   "tropes_by_category": {}
 }

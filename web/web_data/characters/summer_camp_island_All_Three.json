@@ -1,7 +1,19 @@
 {
   "name": "All Three",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ToiletHumor",
+    "RobeAndWizardHat",
+    "CheatersNeverProsper",
+    "EyeOfNewt",
+    "TimeStandsStill",
+    "ShapesAndSymbolsTropes",
+    "VoluntaryShapeshifting",
+    "NiceMeanAndInbetween",
+    "TheAgeless",
+    "BizarreBelching",
+    "TeensAreMonsters"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "The Head Detective",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheCasanova",
+    "Catchphrase",
+    "HandicappedBadass",
+    "WhoNeedsTheirWholeBody",
+    "SuicideAsComedy",
+    "DatingCatwoman"
+  ],
   "tropes_by_category": {}
 }

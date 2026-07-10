@@ -1,7 +1,25 @@
 {
   "name": "The Mirror",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "CuteOversizedSleeves",
+    "EmergencyImpersonation",
+    "TearsOfRemorse",
+    "TheUnmasking",
+    "CriminalDoppelganger",
+    "ILetYouWin",
+    "BecauseYouWereNiceToMe",
+    "Humanshifting",
+    "ItWasAGift",
+    "WingedHumanoid",
+    "IKnowYourTrueName",
+    "MyGodWhatHaveIDone",
+    "DeadPersonImpersonation",
+    "SingleWomanSeeksGoodMan",
+    "SignatureHeadgear",
+    "AttackReflector",
+    "ConfrontingYourImposter"
+  ],
   "tropes_by_category": {}
 }

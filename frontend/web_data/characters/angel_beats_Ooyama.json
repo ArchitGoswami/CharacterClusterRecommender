@@ -1,7 +1,25 @@
 {
   "name": "Ooyama",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "JackOfAllStats",
+    "TheNondescript",
+    "Catchphrase",
+    "ProneToTears",
+    "TaremeEyes",
+    "BalloonBelly",
+    "NiceGuy",
+    "TookALevelInBadass",
+    "ManipulativeBastard",
+    "TookALevelInJerkass",
+    "MemeticMutation",
+    "BigEater",
+    "FriendlySniper",
+    "TheGenericGuy",
+    "SchmuckBait",
+    "Cloudcuckoolander",
+    "MasterOfNone"
+  ],
   "tropes_by_category": {}
 }

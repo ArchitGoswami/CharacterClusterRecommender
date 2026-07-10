@@ -1,7 +1,27 @@
 {
   "name": "Kim and Karl",
   "show": "Moral Orel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "SickeningSweethearts",
+    "IHaveNoSon",
+    "OlderThanTheyLook",
+    "AbusiveParents",
+    "Jerkass",
+    "Manchild",
+    "ParentalNeglect",
+    "MoralSociopathy",
+    "PetTheDog",
+    "KarmaHoudini",
+    "HappilyMarried",
+    "LimitedWardrobe",
+    "LackOfEmpathy",
+    "EarlyInstallmentWeirdness",
+    "GirlOnGirlIsHot",
+    "Expy",
+    "CorruptedCharacterCopy",
+    "HairstyleInertia",
+    "PubescentBraces"
+  ],
   "tropes_by_category": {}
 }

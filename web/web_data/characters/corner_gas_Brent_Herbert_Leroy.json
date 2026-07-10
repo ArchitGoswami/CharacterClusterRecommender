@@ -1,7 +1,27 @@
 {
   "name": "Brent Herbert Leroy",
   "show": "Corner Gas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "MustHaveCaffeine",
+    "SevenDeadlySins",
+    "BigEater",
+    "GarageBand",
+    "DeadpanSnarker",
+    "GhostInTheMachine",
+    "HiddenDepths",
+    "ImagineSpot",
+    "TheAce",
+    "TheDanza",
+    "ActorSharedBackground",
+    "OnlySaneMan",
+    "CloudCuckoolander",
+    "SuperSenses",
+    "Geek",
+    "CelebrityParadox",
+    "LazyBum",
+    "TrademarkFavoriteFood",
+    "SelfDeprecation"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Happy Time Harry",
   "show": "Aqua Teen Hunger Force",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Jerkass",
+    "HorrifyingTheHorror",
+    "BreakHimByTalking",
+    "ICannotSelfTerminate",
+    "NoBodyLeftBehind",
+    "RunningGag",
+    "LegionOfDoom",
+    "TheEeyore",
+    "TheAlcoholic",
+    "OnlySaneMan",
+    "DrivenToSuicide",
+    "TheCynic",
+    "DeathSeeker"
+  ],
   "tropes_by_category": {}
 }

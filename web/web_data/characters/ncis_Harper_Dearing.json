@@ -1,7 +1,30 @@
 {
   "name": "Harper Dearing",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TragicVillain",
+    "FakingTheDead",
+    "WellIntentionedExtremist",
+    "CrazyPrepared",
+    "EvilIsPetty",
+    "NeverMyFault",
+    "TheChessmaster",
+    "TheBadGuyWins",
+    "RuleOfSymbolism",
+    "ItsAllAboutMe",
+    "RoaringRampageOfRevenge",
+    "SmallRoleBigImpact",
+    "HopelessWithTech",
+    "SpoiledByTheFormat",
+    "SuicideByCop",
+    "MisplacedRetribution",
+    "Irony",
+    "NotSoDifferentRemark",
+    "ItsPersonal",
+    "BumblingDad",
+    "NotSoWellIntentionedExtremist",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Jinny Hex",
   "show": "Young Justice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GayCowboy",
+    "AffirmativeActionLegacy",
+    "Foil",
+    "BadassNormal",
+    "LegacyCharacter"
+  ],
   "tropes_by_category": {}
 }

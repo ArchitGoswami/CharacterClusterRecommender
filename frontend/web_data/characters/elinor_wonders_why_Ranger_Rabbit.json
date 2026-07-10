@@ -1,7 +1,14 @@
 {
   "name": "Ranger Rabbit",
   "show": "Elinor Wonders Why",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "UnnamedParent",
+    "UniformityException",
+    "GoodParents",
+    "AlliterativeName",
+    "TomboyishPonytail",
+    "ColorMotifs"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Levvia",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ActionGirl",
+    "HeroicSacrifice",
+    "ScrewDestiny",
+    "SpeaksFluentAnimal",
+    "TheHeroDies",
+    "TheBeastmaster",
+    "FaceDeathWithDignity"
+  ],
   "tropes_by_category": {}
 }

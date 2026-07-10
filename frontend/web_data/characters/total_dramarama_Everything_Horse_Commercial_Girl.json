@@ -1,7 +1,14 @@
 {
   "name": "Everything Horse Commercial Girl",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "PinkMeansFeminine",
+    "PinkProductPloy",
+    "TheDitz",
+    "GirlishPigtails",
+    "AnatomyAnomaly",
+    "NoNameGiven"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Neal Schweiber",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "AttentionWhore",
+    "CultureBlind",
+    "LockedOutOfTheLoop",
+    "CallingTheOldManOut",
+    "CringeComedy",
+    "BigScrewedUpFamily",
+    "CasanovaWannabe",
+    "DeadpanSnarker",
+    "NotSoAboveItAll",
+    "Ventriloquism",
+    "JewishAndNerdy",
+    "PronouncingMyNameForYou",
+    "AllJewsAreCheapskates",
+    "DoggedNiceGuy",
+    "DemonicDummy",
+    "The80s",
+    "JewishSmartass",
+    "SadClown",
+    "ParentalIssues",
+    "The50s"
+  ],
   "tropes_by_category": {}
 }

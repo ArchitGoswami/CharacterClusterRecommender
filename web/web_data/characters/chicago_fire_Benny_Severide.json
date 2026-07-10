@@ -1,7 +1,16 @@
 {
   "name": "Benny Severide",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "RoaringRampageOfRevenge",
+    "TheCasanova",
+    "JerkWithAHeartOfGold",
+    "CharacterDeath",
+    "DisappearedDad",
+    "JerkAss",
+    "JerkAssHasAPoint",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

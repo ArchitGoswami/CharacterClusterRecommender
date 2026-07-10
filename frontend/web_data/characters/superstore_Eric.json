@@ -1,7 +1,12 @@
 {
   "name": "Eric",
   "show": "Superstore",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGuy",
+    "DiggingHimselfDeeper",
+    "UnderstandingBoyfriend",
+    "StraightGay"
+  ],
   "tropes_by_category": {}
 }

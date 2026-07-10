@@ -1,7 +1,16 @@
 {
   "name": "Paula",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "TemporaryBulkChange",
+    "WeightWoe",
+    "OutOfFocus",
+    "NiceGirl",
+    "AmicableExes",
+    "ParentsAsPeople",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

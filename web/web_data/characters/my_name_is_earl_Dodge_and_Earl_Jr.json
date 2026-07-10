@@ -1,7 +1,19 @@
 {
   "name": "Dodge and Earl Jr.",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TheDividual",
+    "DivergentCharacterEvolution",
+    "Jerkass",
+    "ChocolateBaby",
+    "ChildrenAreInnocent",
+    "Keet",
+    "ItsAllAboutMe",
+    "MoralityPet",
+    "InformedAttribute",
+    "InnocentlyInsensitive",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Cornelius",
   "show": "Babar",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CoolOldGuy",
+    "Catchphrase",
+    "HeterosexualLifePartners",
+    "BlindWithoutEm",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

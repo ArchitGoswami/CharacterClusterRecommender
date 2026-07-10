@@ -1,7 +1,15 @@
 {
   "name": "Manhunter",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DisappearedDad",
+    "OlderThanTheyLook",
+    "BadassNormal",
+    "SendInTheClones",
+    "SlaveMooks",
+    "GreatWhiteHunter",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

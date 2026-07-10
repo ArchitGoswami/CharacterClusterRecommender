@@ -1,7 +1,26 @@
 {
   "name": "Ben Hawthorne",
   "show": "Resident Alien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AdaptationalAttractiveness",
+    "AlienAbduction",
+    "NiceGuy",
+    "SubvertedTrope",
+    "TheMenInBlack",
+    "Manchild",
+    "WorldOfJerkass",
+    "HappilyMarried",
+    "AgeLift",
+    "SensitiveGuyAndManlyMan",
+    "HiddenDepths",
+    "EasilyElected",
+    "AmicableExes",
+    "PapaWolf",
+    "HenpeckedHusband",
+    "ExtremeDoormat",
+    "TrademarkFavoriteFood",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

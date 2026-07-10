@@ -1,7 +1,13 @@
 {
   "name": "Lexi Sterling",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BoundAndGagged",
+    "FieryRedhead",
+    "DrugsAreBad",
+    "TheRival",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Truman Oatley",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "BlackAndNerdy",
+    "LovableCoward",
+    "DorkInASweater",
+    "GreenEyedMonster",
+    "WhyDidItHaveToBeSnakes",
+    "TheSmartGuy",
+    "BookWorm"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Capt. Sam Pak",
   "show": "M*A*S*H",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "YiddishAsASecondLanguage",
+    "ThrowItIn",
+    "DeadpanSnarker",
+    "SpecialGuest"
+  ],
   "tropes_by_category": {}
 }

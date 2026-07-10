@@ -1,7 +1,21 @@
 {
   "name": "Victor K. \"Vic the Veep\" Neuman",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "IronicNickname",
+    "ReallyGetsAround",
+    "PuppetKing",
+    "TheDitz",
+    "Manchild",
+    "AlternateHistory",
+    "ObfuscatingStupidity",
+    "TakeThat",
+    "LethallyStupid",
+    "MikeNelsonDestroyerOfWorlds",
+    "OffWithHisHead",
+    "ExtremeLibido"
+  ],
   "tropes_by_category": {}
 }

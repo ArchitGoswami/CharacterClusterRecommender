@@ -1,7 +1,13 @@
 {
   "name": "Nurse Kirkman",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HospitalHottie",
+    "TheDanza",
+    "InUniverse",
+    "SchoolNurse",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

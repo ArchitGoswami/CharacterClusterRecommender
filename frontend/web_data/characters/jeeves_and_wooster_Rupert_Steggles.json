@@ -1,7 +1,12 @@
 {
   "name": "Rupert Steggles",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "KarmaHoudini",
+    "FourEyesZeroSoul",
+    "ManipulativeBastard",
+    "CityMouse"
+  ],
   "tropes_by_category": {}
 }

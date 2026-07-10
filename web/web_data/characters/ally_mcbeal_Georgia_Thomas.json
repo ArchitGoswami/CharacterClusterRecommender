@@ -1,7 +1,14 @@
 {
   "name": "Georgia Thomas",
   "show": "Ally McBeal",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WorkingWithTheEx",
+    "OnlySaneWoman",
+    "FromBadToWorse",
+    "NeverMyFault",
+    "PutOnABus",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

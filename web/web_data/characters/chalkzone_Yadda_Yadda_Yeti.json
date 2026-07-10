@@ -1,7 +1,14 @@
 {
   "name": "Yadda Yadda Yeti",
   "show": "ChalkZone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BabyTalk",
+    "TheDreaded",
+    "BigfootSasquatchAndYeti",
+    "BerserkButton",
+    "RampageFromANail",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

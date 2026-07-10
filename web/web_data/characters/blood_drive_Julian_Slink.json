@@ -1,7 +1,17 @@
 {
   "name": "Julian Slink",
   "show": "Blood Drive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "EvilIsHammy",
+    "EvilSoundsDeep",
+    "TheChessmaster",
+    "BewareTheSillyOnes",
+    "NoSell",
+    "HumanoidAbomination",
+    "RepulsiveRingmaster",
+    "HeelFaceRevolvingDoor",
+    "LeaningOnTheFourthWall"
+  ],
   "tropes_by_category": {}
 }

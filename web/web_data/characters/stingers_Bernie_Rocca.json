@@ -1,7 +1,13 @@
 {
   "name": "Bernie Rocca",
   "show": "Stingers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBusCameBack",
+    "PutOnTheBus",
+    "TookALevelInJerkass",
+    "SuddenlyBilingual",
+    "SwitchToEnglish"
+  ],
   "tropes_by_category": {}
 }

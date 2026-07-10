@@ -1,7 +1,13 @@
 {
   "name": "Shiori Sekine",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "IdiotHair",
+    "ShipperOnDeck",
+    "AffectionateNickname",
+    "UnreliableNarrator",
+    "ThePrankster"
+  ],
   "tropes_by_category": {}
 }

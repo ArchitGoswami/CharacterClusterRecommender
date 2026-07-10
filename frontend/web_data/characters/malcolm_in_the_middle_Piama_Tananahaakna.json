@@ -1,7 +1,30 @@
 {
   "name": "Piama Tananahaakna",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "Foil",
+    "BerserkButton",
+    "HilariouslyAbusiveChildhood",
+    "CallingTheOldManOut",
+    "EskimoLand",
+    "JerkWithAHeartOfGold",
+    "SubvertedTrope",
+    "TranquilFury",
+    "ParentalNeglect",
+    "ChildHater",
+    "DarkAndTroubledPast",
+    "PintsizedPowerhouse",
+    "MistakenForCheating",
+    "ViolentlyProtectiveGirlfriend",
+    "HappilyMarried",
+    "HairTriggerTemper",
+    "CharacterisationMarchesOn",
+    "ObnoxiousInLaws",
+    "BirdsOfAFeather",
+    "LikeParentLikeSpouse",
+    "FourthDateMarriage",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

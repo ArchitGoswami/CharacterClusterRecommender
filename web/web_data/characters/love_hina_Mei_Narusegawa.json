@@ -1,7 +1,14 @@
 {
   "name": "Mei Narusegawa",
   "show": "Love Hina",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CanonForeigner",
+    "ProductionForeshadowing",
+    "GirlishPigtails",
+    "ShipperWithAnAgenda",
+    "RelationshipSabotage",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

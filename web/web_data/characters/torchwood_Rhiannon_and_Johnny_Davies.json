@@ -1,7 +1,26 @@
 {
   "name": "Rhiannon and Johnny Davies",
   "show": "Torchwood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "ObnoxiousInLaws",
+    "TorchesAndPitchforks",
+    "TransparentCloset",
+    "PapaWolf",
+    "SleepsInTheNude",
+    "ManChild",
+    "SatelliteFamilyMember",
+    "DownplayedTrope",
+    "SuddenNameChange",
+    "FriendToAllChildren",
+    "LockedOutOfTheLoop",
+    "Muggle",
+    "WitchHunt",
+    "NakedPeopleAreFunny",
+    "Delinquent",
+    "CanonImmigrant",
+    "FatIdiot",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Simon Elder",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "AffablyEvil",
+    "UnwittingPawn",
+    "RagsToRiches",
+    "TheChessmaster",
+    "ArchEnemy",
+    "BigBad",
+    "Revenge",
+    "BatmanGambit",
+    "ManipulativeBastard",
+    "FemmeFatale",
+    "ItsPersonal",
+    "SelfMadeLie",
+    "ChronicBackstabbingDisorder",
+    "OlderHeroVsYoungerVillain",
+    "SmugSnake",
+    "CorruptCorporateExecutive",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Gared",
   "show": "Killjoys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "GentleGiant",
+    "ActionGirl",
+    "ThisIsGonnaSuck",
+    "TheBigGuy",
+    "DumbMuscle",
+    "ReluctantWarrior",
+    "TooDumbToLive",
+    "FriendToAllChildren",
+    "AffectionateNickname",
+    "TookALevelInKindness",
+    "BewareTheNiceOnes",
+    "TheBrute",
+    "TortureForFunAndInformation",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

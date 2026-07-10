@@ -1,7 +1,20 @@
 {
   "name": "Saito",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "RuggedScar",
+    "BFG",
+    "TheWorfEffect",
+    "DuringTheWar",
+    "DefeatMeansFriendship",
+    "ImprobableAimingSkills",
+    "PrivateMilitaryContractor",
+    "BigDamnHeroes",
+    "EyepatchOfPower",
+    "MeaningfulName",
+    "SniperDuel",
+    "EyeScream"
+  ],
   "tropes_by_category": {}
 }

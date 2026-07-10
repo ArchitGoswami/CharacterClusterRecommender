@@ -1,7 +1,21 @@
 {
   "name": "Bonnie Barstow",
   "show": "Knight Rider",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TeamMom",
+    "NotSoAboveItAll",
+    "Technobabble",
+    "BrainyBrunette",
+    "WhatHappenedToTheMouse",
+    "PutOnABus",
+    "OmniscientDatabase",
+    "MamaBear",
+    "Tsundere",
+    "BelligerentSexualTension",
+    "AlliterativeName",
+    "UnresolvedSexualTension",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

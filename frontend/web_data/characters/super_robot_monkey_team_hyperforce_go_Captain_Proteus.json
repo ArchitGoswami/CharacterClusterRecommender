@@ -1,7 +1,17 @@
 {
   "name": "Captain Proteus",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BrokenPedestal",
+    "EvilPlan",
+    "WaterTriggeredChange",
+    "Expy",
+    "Revenge",
+    "ManipulativeBastard",
+    "DevilInPlainSight",
+    "SeaMonster",
+    "FishPeople"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Flatpoint Students",
   "show": "Strangers with Candy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HorribleJudgeOfCharacter",
+    "TheDanza",
+    "UnluckyChildhoodFriend",
+    "EntendreFailure",
+    "NaiveEverygirl",
+    "OnlySaneMan",
+    "SickeninglySweetHearts",
+    "TeacherStudentRomance",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

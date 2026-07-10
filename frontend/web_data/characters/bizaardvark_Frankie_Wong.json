@@ -1,7 +1,12 @@
 {
   "name": "Frankie Wong",
   "show": "Bizaardvark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CoolBigSis",
+    "ImportantHaircut",
+    "JerkWithAHeartOfGold",
+    "MissingMom"
+  ],
   "tropes_by_category": {}
 }

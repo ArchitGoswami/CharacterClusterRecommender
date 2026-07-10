@@ -1,7 +1,17 @@
 {
   "name": "Gordon Hopewell",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheReveal",
+    "IWantMyBelovedToBeHappy",
+    "DyingMomentOfAwesome",
+    "AlcoholicParent",
+    "ReasonableAuthorityFigure",
+    "TookALevelInJerkass",
+    "BumblingDad",
+    "RetiredBadass",
+    "LetsGetDangerous"
+  ],
   "tropes_by_category": {}
 }

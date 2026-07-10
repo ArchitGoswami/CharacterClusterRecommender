@@ -1,7 +1,14 @@
 {
   "name": "Ice Poe",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "WouldHitAGirl",
+    "ToThePain",
+    "GentlemanThief",
+    "PaperTiger",
+    "BullyingADragon",
+    "WouldHarmASenior"
+  ],
   "tropes_by_category": {}
 }

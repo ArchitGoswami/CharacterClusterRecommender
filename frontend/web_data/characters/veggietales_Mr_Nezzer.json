@@ -1,7 +1,21 @@
 {
   "name": "Mr. Nezzer",
   "show": "VeggieTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "TheBusCameBack",
+    "JerkWithAHeartOfGold",
+    "TheLeader",
+    "Expy",
+    "BigBad",
+    "NotEvilJustMisunderstood",
+    "PutOnABus",
+    "WouldHurtAChild",
+    "MeanCharacterNiceActor",
+    "MeaningfulName",
+    "CorruptCorporateExecutive",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

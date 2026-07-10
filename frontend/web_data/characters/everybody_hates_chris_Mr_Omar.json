@@ -1,7 +1,17 @@
 {
   "name": "Mr. Omar",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "Catchphrase",
+    "ReallyGetsAround",
+    "LargeHam",
+    "ManipulativeBastard",
+    "ComfortingTheWidow",
+    "IntergenerationalFriendship",
+    "CharacterizationMarchesOn",
+    "AscendedExtra",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

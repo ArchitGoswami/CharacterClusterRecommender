@@ -1,7 +1,20 @@
 {
   "name": "Allison Blake",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheReliableOne",
+    "BabiesEverAfter",
+    "MsFanservice",
+    "NotSoAboveItAll",
+    "CartwrightCurse",
+    "Tsundere",
+    "ScienceHero",
+    "BelligerentSexualTension",
+    "NiceGirl",
+    "LampshadeHanging",
+    "UnresolvedSexualTension",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

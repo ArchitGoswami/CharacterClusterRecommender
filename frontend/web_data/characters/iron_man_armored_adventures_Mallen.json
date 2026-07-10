@@ -1,7 +1,30 @@
 {
   "name": "Mallen",
   "show": "Iron Man: Armored Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "SuperSpeed",
+    "TranshumanTreachery",
+    "NoSell",
+    "VomitIndiscretionShot",
+    "PsychoSerum",
+    "RedEyesTakeWarning",
+    "EmpoweredBadassNormal",
+    "EvilMakesYouUgly",
+    "FallenHero",
+    "BreathWeapon",
+    "AdaptationalHeroism",
+    "BlackEyesOfCrazy",
+    "AdaptationalContextChange",
+    "ShockAndAwe",
+    "SparedByTheAdaptation",
+    "SuperToughness",
+    "CurbStompBattle",
+    "PlayingWithFire",
+    "DrivenByEnvy",
+    "AxCrazy",
+    "PowerEchoes",
+    "BaldOfEvil"
+  ],
   "tropes_by_category": {}
 }

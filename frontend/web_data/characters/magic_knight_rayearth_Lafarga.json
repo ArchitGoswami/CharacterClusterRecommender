@@ -1,7 +1,28 @@
 {
   "name": "Lafarga",
   "show": "Magic Knight Rayearth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "HugeGuyTinyGirl",
+    "RazorWind",
+    "LiteralGenie",
+    "TheOnlyOneAllowedToDefeatYou",
+    "CelibateHero",
+    "MasterSwordsman",
+    "InconsistentSpelling",
+    "BadassNormal",
+    "DubNameChange",
+    "CharlesAtlasSuperpower",
+    "VehicularThemeNaming",
+    "PowerGlows",
+    "MyGodWhatHaveIDone",
+    "TheStoic",
+    "ExactWords",
+    "VillainousRescue",
+    "OfficialCouple",
+    "LaserGuidedTykebomb",
+    "BFS",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

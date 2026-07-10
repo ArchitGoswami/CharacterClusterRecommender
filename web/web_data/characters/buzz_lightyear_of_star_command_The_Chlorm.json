@@ -1,7 +1,15 @@
 {
   "name": "The Chlorm",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "AffablyEvil",
+    "DramaticallyMissingThePoint",
+    "ThemeNaming",
+    "TokenGoodTeammate",
+    "EvenEvilHasStandards",
+    "AboveGoodAndEvil",
+    "FantasticRacism"
+  ],
   "tropes_by_category": {}
 }

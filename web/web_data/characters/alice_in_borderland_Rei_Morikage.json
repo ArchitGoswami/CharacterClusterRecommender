@@ -1,7 +1,10 @@
 {
   "name": "Rei Morikage",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CanonForeigner",
+    "Otaku"
+  ],
   "tropes_by_category": {}
 }

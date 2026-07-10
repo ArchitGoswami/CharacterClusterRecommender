@@ -1,7 +1,10 @@
 {
   "name": "Johnathan",
   "show": "Puppy Dog Pals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OutOfFocus",
+    "RhymesOnADime"
+  ],
   "tropes_by_category": {}
 }

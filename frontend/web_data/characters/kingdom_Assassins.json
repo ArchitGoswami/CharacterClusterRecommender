@@ -1,7 +1,25 @@
 {
   "name": "Assassins",
   "show": "Kingdom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EmotionSuppression",
+    "DangerousForbiddenTechnique",
+    "SkilledAndStrong",
+    "WithGreatPowerComesGreatInsanity",
+    "DirtyCoward",
+    "ArchEnemy",
+    "BlowGun",
+    "AllWomenAreLustful",
+    "ArcVillainess",
+    "DeadlyGraduation",
+    "CoolBigSis",
+    "ArrogantKungFuGuy",
+    "PlayedWith",
+    "SillyRabbitCynicismIsForLosers",
+    "TheTalk",
+    "MadeOfIron",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

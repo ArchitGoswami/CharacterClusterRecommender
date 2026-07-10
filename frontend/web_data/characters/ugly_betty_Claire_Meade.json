@@ -1,7 +1,21 @@
 {
   "name": "Claire Meade",
   "show": "Ugly Betty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "CardboardPrison",
+    "RetCon",
+    "ShipperOnDeck",
+    "WrongfulAccusationInsurance",
+    "PetTheDog",
+    "LadyDrunk",
+    "MamaBear",
+    "TheAlcoholic",
+    "MoralityPet",
+    "ClearMyName",
+    "CoolOldLady",
+    "OpenMindedParent"
+  ],
   "tropes_by_category": {}
 }

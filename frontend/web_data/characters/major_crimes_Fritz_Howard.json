@@ -1,7 +1,18 @@
 {
   "name": "Fritz Howard",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "DaChief",
+    "AndStarring",
+    "FBIAgent",
+    "BerserkButton",
+    "TheTeetotaler",
+    "HappilyMarried",
+    "WorkingTheSameCase",
+    "TheAlcoholic",
+    "BewareTheNiceOnes",
+    "JurisdictionFriction"
+  ],
   "tropes_by_category": {}
 }

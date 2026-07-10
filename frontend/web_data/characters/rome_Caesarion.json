@@ -1,7 +1,26 @@
 {
   "name": "Caesarion",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "JabbaTableManners",
+    "BeethovenWasAnAlienSpy",
+    "BabyTrap",
+    "AGodAmI",
+    "AChildShallLeadThem",
+    "SpotTheImposter",
+    "HistoricalInJoke",
+    "SmallNameBigEgo",
+    "ParentalSubstitute",
+    "AppealToFlattery",
+    "KingIncognito",
+    "UnknownRival",
+    "BigEater",
+    "TellMeAboutMyFather",
+    "RoyalBrat",
+    "MyNameIsInigoMontoya",
+    "OnlyKnownByTheirNickname",
+    "MamasBabyPapasMaybe"
+  ],
   "tropes_by_category": {}
 }

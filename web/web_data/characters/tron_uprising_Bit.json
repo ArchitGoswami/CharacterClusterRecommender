@@ -1,7 +1,14 @@
 {
   "name": "Bit",
   "show": "Tron: Uprising",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SpikesOfDoom",
+    "CompanionCube",
+    "AlienGeometries",
+    "PokemonSpeak",
+    "RapidFireNo",
+    "SnarkyNonHumanSidekick"
+  ],
   "tropes_by_category": {}
 }

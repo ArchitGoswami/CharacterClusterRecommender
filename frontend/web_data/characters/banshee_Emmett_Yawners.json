@@ -1,7 +1,22 @@
 {
   "name": "Emmett Yawners",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "GentleGiant",
+    "DoomedMoralVictor",
+    "KilledOffForReal",
+    "ScaryBlackMan",
+    "MauveShirt",
+    "ReligiousBruiser",
+    "BewareTheNiceOnes",
+    "BreakTheCutie",
+    "PapaWolf",
+    "MalignedMixedMarriage",
+    "CantGetAwayWithNuthin",
+    "NoHoldsBarredBeatdown",
+    "TooGoodForThisSinfulEarth",
+    "UnstoppableRage"
+  ],
   "tropes_by_category": {}
 }

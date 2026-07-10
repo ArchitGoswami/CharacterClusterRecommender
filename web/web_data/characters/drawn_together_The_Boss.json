@@ -1,7 +1,22 @@
 {
   "name": "The Boss",
   "show": "Drawn Together",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TragicVillain",
+    "TheMovie",
+    "GreaterScopeVillain",
+    "Jerkass",
+    "BigBad",
+    "TheBadGuyWins",
+    "FacialHorror",
+    "ImpaledWithExtremePrejudice",
+    "TakingYouWithMe",
+    "TwoFaced",
+    "BadBoss",
+    "InUniverse",
+    "KnightOfCerebus",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

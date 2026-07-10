@@ -1,7 +1,27 @@
 {
   "name": "The Veggie Fables",
   "show": "Drawn Together",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "DarkParody",
+    "Panacea",
+    "InvisibleAnatomy",
+    "EveryoneHasStandards",
+    "DepravedKidsShowHost",
+    "InsaneEqualsViolent",
+    "VillainSong",
+    "SexIsEvilAndIAmHorny",
+    "MoodWhiplash",
+    "YankTheDogsChain",
+    "VoiceOfTheLegion",
+    "MyGodWhatHaveIDone",
+    "DrivenToSuicide",
+    "AnthropomorphicFood",
+    "HeelFaceTurn",
+    "AxCrazy",
+    "TheFundamentalist",
+    "PlayedForLaughs",
+    "WhiteGloves"
+  ],
   "tropes_by_category": {}
 }

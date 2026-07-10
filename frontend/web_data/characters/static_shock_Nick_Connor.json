@@ -1,7 +1,19 @@
 {
   "name": "Nick Connor",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DirtyCoward",
+    "Jerkass",
+    "LaserGuidedKarma",
+    "TheBully",
+    "Mundanger",
+    "OhCrap",
+    "HateSink",
+    "MyGodWhatHaveIDone",
+    "ForTheEvulz",
+    "LowerClassLout",
+    "KnightOfCerebus"
+  ],
   "tropes_by_category": {}
 }

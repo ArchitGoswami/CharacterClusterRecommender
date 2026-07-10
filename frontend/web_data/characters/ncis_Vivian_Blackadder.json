@@ -1,7 +1,14 @@
 {
   "name": "Vivian Blackadder",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "IronicName",
+    "ChuckCunninghamSyndrome",
+    "WeHardlyKnewYe",
+    "RevengeBeforeReason",
+    "FlatCharacter",
+    "GeorgeJetsonJobSecurity"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Kusumi",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "YouHaveFailedMe",
+    "EvilCounterpart",
+    "BigBad",
+    "CanonImmigrant"
+  ],
   "tropes_by_category": {}
 }

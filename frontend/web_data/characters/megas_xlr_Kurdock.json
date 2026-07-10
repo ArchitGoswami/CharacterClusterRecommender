@@ -1,7 +1,12 @@
 {
   "name": "Kurdock",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TwistedEchoCut",
+    "NiceJobBreakingItHero",
+    "MonsterOfTheWeek",
+    "DomedHometown"
+  ],
   "tropes_by_category": {}
 }

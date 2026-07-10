@@ -1,7 +1,23 @@
 {
   "name": "Ed Deline",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "BenevolentBoss",
+    "TheMentor",
+    "RetiredBadass",
+    "AFatherToHisMen",
+    "SternTeacher",
+    "HappilyMarried",
+    "ManipulativeBastard",
+    "PutOnABus",
+    "SecretTestOfCharacter",
+    "FieldPromotion",
+    "LikeASonToMe",
+    "PapaWolf",
+    "MysteriousPast",
+    "DarkAndTroubledPast",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

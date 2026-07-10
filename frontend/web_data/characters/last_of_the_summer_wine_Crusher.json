@@ -1,7 +1,13 @@
 {
   "name": "Crusher",
   "show": "Last of the Summer Wine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GentleGiant",
+    "SuspiciouslySimilarSubstitute",
+    "NonIndicativeName",
+    "EmbarrassingFirstName",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

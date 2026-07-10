@@ -1,7 +1,18 @@
 {
   "name": "Raetsel",
   "show": "Princess Tutu",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "LikeBrotherAndSister",
+    "MistakenForRomance",
+    "EarlyBirdCameo",
+    "CoolBigSis",
+    "SecondLove",
+    "LoveTriangle",
+    "MeaningfulName",
+    "DamselInDistress",
+    "HopelessSuitor"
+  ],
   "tropes_by_category": {}
 }

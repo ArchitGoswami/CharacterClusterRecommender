@@ -1,7 +1,14 @@
 {
   "name": "Soujiro Nichikado",
   "show": "Boys Over Flowers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "TheCasanova",
+    "ShipTease",
+    "HeterosexualLifePartners",
+    "DubNameChange",
+    "TheDutifulSon",
+    "RelationshipUpgrade"
+  ],
   "tropes_by_category": {}
 }

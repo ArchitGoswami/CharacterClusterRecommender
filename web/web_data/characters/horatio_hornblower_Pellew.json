@@ -1,7 +1,31 @@
 {
   "name": "Pellew",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "AFatherToHisMen",
+    "OfficerAndAGentleman",
+    "TheCaptain",
+    "DeadpanSnarker",
+    "HeroicBSOD",
+    "CompositeCharacter",
+    "TallDarkAndHandsome",
+    "MentorArchetype",
+    "OhCrap",
+    "ImprobableAimingSkills",
+    "HistoricalDomainCharacter",
+    "SecretTestOfCharacter",
+    "LikeASonToMe",
+    "SoProudOfYou",
+    "SinkOrSwimMentor",
+    "RousingSpeech",
+    "AscendedExtra",
+    "TallDarkAndSnarky",
+    "MrFanservice",
+    "TheChainsOfCommanding",
+    "ReasonableAuthorityFigure",
+    "ChewOutFakeOut",
+    "Lampshaded"
+  ],
   "tropes_by_category": {}
 }

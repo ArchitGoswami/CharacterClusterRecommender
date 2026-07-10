@@ -1,7 +1,24 @@
 {
   "name": "Juliet Van Heusen",
   "show": "Wizards of Waverly Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "FriendlyNeighborhoodVampires",
+    "LivingForeverIsAwesome",
+    "LoveInterest",
+    "MySpeciesDothProtestTooMuch",
+    "OffscreenBreakup",
+    "PutOnABusToHell",
+    "FridgeLogic",
+    "MayflyDecemberRomance",
+    "CuteBruiser",
+    "BadassAdorable",
+    "RapidAging",
+    "CuteMonsterGirl",
+    "MeaningfulName",
+    "Really700YearsOld",
+    "PlayedForLaughs",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Mike",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TakeThat",
+    "ArchangelMichael"
+  ],
   "tropes_by_category": {}
 }

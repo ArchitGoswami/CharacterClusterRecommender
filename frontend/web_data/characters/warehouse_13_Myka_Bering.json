@@ -1,7 +1,31 @@
 {
   "name": "Myka Bering",
   "show": "Warehouse 13",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "FailureKnight",
+    "EmbarrassingMiddleName",
+    "BadassBookworm",
+    "AgentScully",
+    "ActionGirl",
+    "BrainyBrunette",
+    "Omniglot",
+    "FriendlyEnemy",
+    "TenMinuteRetirement",
+    "MyGreatestFailure",
+    "ArbitrarySkepticism",
+    "LoveRedeems",
+    "MamaBear",
+    "ImprobableAimingSkills",
+    "WhyDidItHaveToBeSnakes",
+    "PopCulturalOsmosisFailure",
+    "SheCleansUpNicely",
+    "ItMakesSenseInContext",
+    "GenreSavvy",
+    "CoolBigSis",
+    "AgentMulder",
+    "InSeriesNickname",
+    "TrademarkFavoriteFood"
+  ],
   "tropes_by_category": {}
 }

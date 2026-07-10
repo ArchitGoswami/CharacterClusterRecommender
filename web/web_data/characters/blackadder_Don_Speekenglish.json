@@ -1,7 +1,14 @@
 {
   "name": "Don Speekenglish",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MistakenForGay",
+    "WhatTheHellIsThatAccent",
+    "PunnyName",
+    "CrazyPrepared",
+    "DashingHispanic",
+    "AbsurdlyDedicatedWorker"
+  ],
   "tropes_by_category": {}
 }

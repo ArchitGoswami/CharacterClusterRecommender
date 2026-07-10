@@ -1,7 +1,23 @@
 {
   "name": "Professor Honeycutt/The Fugitoid",
   "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AdaptationalLateAppearance",
+    "TheBusCameBack",
+    "AdaptationalSpeciesChange",
+    "Transplant",
+    "TheProfessor",
+    "TookALevelInBadass",
+    "JustAMachine",
+    "Portmanteau",
+    "HumanAlien",
+    "BrainUploading",
+    "BadassBookworm",
+    "TransformingMecha",
+    "CanonWelding",
+    "InstantAIJustAddWater",
+    "SpaceEpisode"
+  ],
   "tropes_by_category": {}
 }

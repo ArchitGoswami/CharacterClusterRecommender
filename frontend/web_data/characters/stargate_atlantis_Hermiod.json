@@ -1,7 +1,16 @@
 {
   "name": "Hermiod",
   "show": "Stargate Atlantis",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "ChuckCunninghamSyndrome",
+    "Jerkass",
+    "TheEngineer",
+    "InsufferableGenius",
+    "PardonMyKlingon",
+    "TeethClenchedTeamwork",
+    "ForeignLanguageTirade"
+  ],
   "tropes_by_category": {}
 }

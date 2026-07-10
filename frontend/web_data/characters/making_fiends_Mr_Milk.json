@@ -1,7 +1,21 @@
 {
   "name": "Mr. Milk",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "OlderThanTheyLook",
+    "PunnyName",
+    "ShrinkingViolet",
+    "NervousWreck",
+    "VirtuousCharacterCopy",
+    "TormentedTeacher",
+    "ToothyBird",
+    "CaptainOblivious",
+    "ExpressiveHair",
+    "HiddenDepths",
+    "VagueAge",
+    "YoungerThanTheyLook",
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

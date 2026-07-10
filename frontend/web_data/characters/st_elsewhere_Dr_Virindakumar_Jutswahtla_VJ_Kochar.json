@@ -1,7 +1,13 @@
 {
   "name": "Dr. Virindakumar Jutswahtla “VJ” Kochar",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ForeignExchangeStudent",
+    "RescueRomance",
+    "DemotedToExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

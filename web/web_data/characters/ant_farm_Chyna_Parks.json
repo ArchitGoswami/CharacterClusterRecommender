@@ -1,7 +1,28 @@
 {
   "name": "Chyna Parks",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "SitcomArchNemesis",
+    "SassyBlackGirl",
+    "TheCastShowOff",
+    "FoolishSiblingResponsibleSibling",
+    "NiceGirl",
+    "BigLittleSister",
+    "WomenAreWiser",
+    "NotSoAboveItAll",
+    "LampshadeHanging",
+    "OnlySaneWoman",
+    "TeamMom",
+    "IdolSinger",
+    "TheAce",
+    "GenkiGirl",
+    "DumbassTeenageSon",
+    "BlackAndNerdy",
+    "ShipperOnDeck",
+    "HeterosexualLifePartners",
+    "TomboyAndGirlyGirl",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

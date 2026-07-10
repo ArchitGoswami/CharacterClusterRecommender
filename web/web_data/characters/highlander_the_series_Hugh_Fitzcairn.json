@@ -1,7 +1,25 @@
 {
   "name": "Hugh Fitzcairn",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "TheCasanova",
+    "LastWords",
+    "AintTooProudToBeg",
+    "KilledOffForReal",
+    "UndeadTaxExemption",
+    "DistressedDude",
+    "SupremeChef",
+    "SuperSwimmingSkills",
+    "RichesToRags",
+    "RevengeByProxy",
+    "ThisIsSomethingHesGotToDoHimself",
+    "LadyKillerInLove",
+    "PosthumousCharacter",
+    "DefiantToTheEnd",
+    "FriendlyTarget",
+    "DieLaughing",
+    "NeverLearnedToRead"
+  ],
   "tropes_by_category": {}
 }

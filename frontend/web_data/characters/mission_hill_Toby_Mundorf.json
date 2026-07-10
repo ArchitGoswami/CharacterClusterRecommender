@@ -1,7 +1,14 @@
 {
   "name": "Toby Mundorf",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MyBelovedSmother",
+    "CreatorCameo",
+    "FatBestFriend",
+    "BewareTheNiceOnes",
+    "NerdyInhaler",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

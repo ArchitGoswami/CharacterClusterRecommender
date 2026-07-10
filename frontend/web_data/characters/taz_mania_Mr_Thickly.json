@@ -1,7 +1,12 @@
 {
   "name": "Mr. Thickly",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "KnowNothingKnowItAll",
+    "AnimatedActors",
+    "WhatExactlyIsHisJob",
+    "KangaroosRepresentAustralia"
+  ],
   "tropes_by_category": {}
 }

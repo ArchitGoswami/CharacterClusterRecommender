@@ -1,7 +1,10 @@
 {
   "name": "Ace \"Falcon\" Riker",
   "show": "M.A.S.K.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BattleBoomerang",
+    "VehicularSabotage"
+  ],
   "tropes_by_category": {}
 }

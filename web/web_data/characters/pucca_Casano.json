@@ -1,7 +1,11 @@
 {
   "name": "Casano",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PrettyBoy",
+    "HopelessSuitor",
+    "PunnyName"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Pitbull",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "LittlePeopleAreSurreal",
+    "GroinAttack",
+    "DepravedDwarf"
+  ],
   "tropes_by_category": {}
 }

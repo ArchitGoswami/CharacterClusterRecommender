@@ -1,7 +1,16 @@
 {
   "name": "Mimi",
   "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CloudCuckooLander",
+    "NiceJobBreakingItHero",
+    "GreenEyedMonster",
+    "TheLoad",
+    "BodySushi",
+    "DemotedToExtra",
+    "AmbiguouslyBi",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

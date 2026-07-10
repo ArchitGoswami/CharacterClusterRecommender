@@ -1,7 +1,21 @@
 {
   "name": "Trinity",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "OfficialCouple",
+    "TeenPregnancy",
+    "FormerTeenRebel",
+    "WiseBeyondTheirYears",
+    "Delinquents",
+    "DaddysGirl",
+    "CuteBruiser",
+    "UnwittingInstigatorOfDoom",
+    "MeaningfulName",
+    "LoveTriangle",
+    "OnlySaneMan",
+    "MoralityPet",
+    "MamasBabyPapasMaybe"
+  ],
   "tropes_by_category": {}
 }

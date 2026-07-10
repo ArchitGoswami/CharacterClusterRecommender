@@ -1,7 +1,23 @@
 {
   "name": "Princess Aska",
   "show": "Magic Knight Rayearth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "ScrewTheRulesIMakeThem",
+    "AChildShallLeadThem",
+    "RoyalWe",
+    "RoyalBrat",
+    "SummonMagic",
+    "ImprobableAge",
+    "DefeatMeansFriendship",
+    "NoblewomansLaugh",
+    "TalkingTheMonsterToDeath",
+    "CharacterDevelopment",
+    "ItsAllAboutMe",
+    "PowerStrainBlackout",
+    "BrattyHalfPint",
+    "ArtInitiatesLife",
+    "VehicularThemeNaming"
+  ],
   "tropes_by_category": {}
 }

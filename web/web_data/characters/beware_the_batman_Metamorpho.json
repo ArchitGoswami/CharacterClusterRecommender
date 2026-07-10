@@ -1,7 +1,26 @@
 {
   "name": "Metamorpho",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "HeelFaceTurn",
+    "TragicMonster",
+    "SecretRelationship",
+    "HulkSpeak",
+    "BreathWeapon",
+    "BladeBelowTheShoulder",
+    "TheJuggernaut",
+    "Revenge",
+    "TheNoseless",
+    "WoobieDestroyerOfWorlds",
+    "LoveHurts",
+    "MadeOfAir",
+    "NighInvulnerability",
+    "UnknownRival",
+    "LightningBruiser",
+    "ShapeshifterWeapon",
+    "DrivenToSuicide",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

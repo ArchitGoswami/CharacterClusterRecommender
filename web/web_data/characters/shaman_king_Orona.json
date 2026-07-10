@@ -1,7 +1,16 @@
 {
   "name": "Orona",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolOldGuy",
+    "TheBusCameBack",
+    "MentorArchetype",
+    "WalkingTheEarth",
+    "PungeonMaster",
+    "BloodFromTheMouth",
+    "PosthumousCharacter",
+    "BloodyHilarious"
+  ],
   "tropes_by_category": {}
 }

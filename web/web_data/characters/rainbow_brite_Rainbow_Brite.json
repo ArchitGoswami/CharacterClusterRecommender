@@ -1,7 +1,30 @@
 {
   "name": "Rainbow Brite",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "InnocentBlueEyes",
+    "TheChosenOne",
+    "SavvyGuyEnergeticGirl",
+    "Determinator",
+    "OnlyKnownByTheirNickname",
+    "MagicalGirl",
+    "TheLeader",
+    "ConvenientlyAnOrphan",
+    "ArtisticAge",
+    "GenkiGirl",
+    "TotallyRadical",
+    "RainbowManipulation",
+    "RideTheRainbow",
+    "MysteriousPast",
+    "HeroWithAUniqueName",
+    "RainbowMotif",
+    "HeartwarmingOrphan",
+    "HairOfGoldHeartOfGold",
+    "KidHero",
+    "PhraseCatcher",
+    "ParentalAbandonment",
+    "PluckyGirl"
+  ],
   "tropes_by_category": {}
 }

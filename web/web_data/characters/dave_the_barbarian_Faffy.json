@@ -1,7 +1,25 @@
 {
   "name": "Faffy",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "SuddenlyVoiced",
+    "ImpliedTrope",
+    "BreathWeapon",
+    "TeamPet",
+    "TheUnintelligible",
+    "GoneHorriblyRight",
+    "ElectiveUnintelligible",
+    "ObfuscatingStupidity",
+    "RidiculouslySmallWings",
+    "MetronomicManMashing",
+    "BewareTheNiceOnes",
+    "HiddenDepths",
+    "NonHumanSidekick",
+    "OurDragonsAreDifferent",
+    "PlayingWithFire",
+    "ShockAndAwe",
+    "GoodIsDumb"
+  ],
   "tropes_by_category": {}
 }

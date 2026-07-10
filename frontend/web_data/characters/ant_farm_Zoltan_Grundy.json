@@ -1,7 +1,12 @@
 {
   "name": "Zoltan Grundy",
   "show": "A.N.T Farm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "IntergenerationalFriendship",
+    "OddFriendship",
+    "Cloudcuckoolander",
+    "GoodCounterpart"
+  ],
   "tropes_by_category": {}
 }

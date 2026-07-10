@@ -1,7 +1,12 @@
 {
   "name": "Makiko Endou",
   "show": "Boys Over Flowers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BrokenBird",
+    "WhatHappenedToTheMouse",
+    "AdaptationExpansion",
+    "ShrinkingViolet"
+  ],
   "tropes_by_category": {}
 }

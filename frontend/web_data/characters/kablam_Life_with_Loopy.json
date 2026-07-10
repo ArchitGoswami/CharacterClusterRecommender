@@ -1,7 +1,25 @@
 {
   "name": "Life with Loopy",
   "show": "Kablam!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "LiteralMinded",
+    "WhoNamesTheirKidDude",
+    "AnnoyingYoungerSibling",
+    "SpikyHair",
+    "ShyBlueHairedGirl",
+    "CreepyChild",
+    "GirlishPigtails",
+    "LimitedWardrobe",
+    "ShowerScene",
+    "PrettyButterflies",
+    "SupportingProtagonist",
+    "CharacterNarrator",
+    "FriendToAllLivingThings",
+    "OnlyKnownByTheirNickname",
+    "Cloudcuckoolander",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

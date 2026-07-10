@@ -1,7 +1,10 @@
 {
   "name": "Harriet Parker",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ActionGirl",
+    "GenerationXerox"
+  ],
   "tropes_by_category": {}
 }

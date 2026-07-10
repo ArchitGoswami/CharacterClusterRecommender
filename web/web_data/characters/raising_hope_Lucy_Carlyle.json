@@ -1,7 +1,25 @@
 {
   "name": "Lucy Carlyle",
   "show": "Raising Hope",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EtherealWhiteDress",
+    "Prison",
+    "FateWorseThanDeath",
+    "Jerkass",
+    "Yandere",
+    "BigBad",
+    "DumbBlonde",
+    "EvenEvilHasLovedOnes",
+    "ItRunsInTheFamily",
+    "AxCrazy",
+    "StartOfDarkness",
+    "MurderIsTheBestSolution",
+    "HeelFaithTurn",
+    "PosthumousCharacter",
+    "SerialKiller",
+    "DepravedBisexual",
+    "NotQuiteDead"
+  ],
   "tropes_by_category": {}
 }

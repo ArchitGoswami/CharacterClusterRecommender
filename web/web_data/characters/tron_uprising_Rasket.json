@@ -1,7 +1,22 @@
 {
   "name": "Rasket",
   "show": "Tron: Uprising",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "GangOfHats",
+    "SlasherSmile",
+    "TooDumbToLive",
+    "DistressedDude",
+    "BritishStuffiness",
+    "AnArmAndALeg",
+    "WhatWereYouThinking",
+    "InHarmsWay",
+    "PronouncingMyNameForYou",
+    "ColdBloodedTorture",
+    "OptOut",
+    "DoingItForTheArt",
+    "LampshadeHanging",
+    "InsistentTerminology"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Aaron Bailey",
   "show": "Full House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "KnowNothingKnowItAll",
+    "Beat",
+    "Jerkass",
+    "SpoiledBrat",
+    "PetTheDog",
+    "TheBully",
+    "TheFriendNobodyLikes",
+    "VitriolicBestBuds",
+    "ItsAllAboutMe",
+    "BrattyHalfPint",
+    "MouthyKid"
+  ],
   "tropes_by_category": {}
 }

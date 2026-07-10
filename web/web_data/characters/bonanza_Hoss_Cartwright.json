@@ -1,7 +1,14 @@
 {
   "name": "Hoss Cartwright",
   "show": "Bonanza",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "GentleGiant",
+    "RunningGag",
+    "BigEater",
+    "BewareTheNiceOnes",
+    "LampshadeHanging",
+    "OnlyKnownByTheirNickname"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Van Gogh",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheDogBitesBack",
+    "RedheadsAreUncool",
+    "PoliticalOvercorrectness",
+    "ButtMonkey",
+    "HiddenDepths",
+    "SelfHarm",
+    "LastNameBasis",
+    "SocialCircleFiller"
+  ],
   "tropes_by_category": {}
 }

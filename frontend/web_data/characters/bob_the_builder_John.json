@@ -1,7 +1,10 @@
 {
   "name": "John",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OneShotCharacter",
+    "NoCelebritiesWereHarmed"
+  ],
   "tropes_by_category": {}
 }

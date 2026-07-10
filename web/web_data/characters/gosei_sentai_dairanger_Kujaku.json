@@ -1,7 +1,22 @@
 {
   "name": "Kujaku",
   "show": "Gosei Sentai Dairanger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "PeacockGirl",
+    "PowerOfLove",
+    "YourDaysAreNumbered",
+    "DistaffCounterpart",
+    "Expy",
+    "TookALevelInCynic",
+    "AllLovingHeroine",
+    "AntiHero",
+    "ShaggyDogStory",
+    "CharacterDevelopment",
+    "FaceDeathWithDignity",
+    "WeUsedToBeFriends",
+    "PoorCommunicationKills",
+    "AnimalStereotypes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Past Judges",
   "show": "MasterChef",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "TheBusCameBack",
+    "FormerlyFat",
+    "SmurfettePrinciple",
+    "MadLibsCatchphrase",
+    "TheMentor",
+    "ConstructiveCriticism",
+    "GratuitousSpanish",
+    "BigFun",
+    "GuestStarPartyMember",
+    "NiceGuy",
+    "AuthorAppeal",
+    "PutOnABus",
+    "BewareTheNiceOnes",
+    "TokenMinority",
+    "SweetTooth",
+    "AscendedExtra",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

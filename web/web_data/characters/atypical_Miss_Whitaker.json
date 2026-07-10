@@ -1,7 +1,12 @@
 {
   "name": "Miss Whitaker",
   "show": "Atypical",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "YouAreBetterThanYouThinkYouAre",
+    "NoNameGiven",
+    "ReasonableAuthorityFigure",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

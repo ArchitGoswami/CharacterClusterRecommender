@@ -1,7 +1,19 @@
 {
   "name": "Dactar",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HeelFaceTurn",
+    "BigBadDuumvirate",
+    "TerrorDactyl",
+    "Expy",
+    "DecoyAntagonist",
+    "Kaiju",
+    "GiantFlyer",
+    "MadScientist",
+    "YoungerThanTheyLook",
+    "ReallySevenHundredYearsOld",
+    "AllFlyersAreBirds"
+  ],
   "tropes_by_category": {}
 }

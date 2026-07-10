@@ -1,7 +1,11 @@
 {
   "name": "Jesse Cardoza",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "KilledOffForReal",
+    "WeHardlyKnewYe",
+    "FairCop"
+  ],
   "tropes_by_category": {}
 }

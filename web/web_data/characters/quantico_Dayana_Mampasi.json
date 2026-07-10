@@ -1,7 +1,16 @@
 {
   "name": "Dayana Mampasi",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ProneToTears",
+    "TheAtoner",
+    "JumpingOffTheSlipperySlope",
+    "LesCollaborateurs",
+    "ImNotHereToMakeFriends",
+    "WhyDidItHaveToBeSnakes",
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

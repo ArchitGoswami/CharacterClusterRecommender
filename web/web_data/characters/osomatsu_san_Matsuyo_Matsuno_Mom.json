@@ -1,7 +1,24 @@
 {
   "name": "Matsuyo Matsuno/Mom",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "CantStandThemCantLiveWithoutThem",
+    "IWantGrandkids",
+    "ChildhoodFriendRomance",
+    "PushoverParents",
+    "ScaryShinyGlasses",
+    "TookALevelInBadass",
+    "RepetitiveName",
+    "HappilyMarried",
+    "TranquilFury",
+    "TookALevelInJerkass",
+    "NEET",
+    "AlliterativeName",
+    "BewareTheNiceOnes",
+    "OnlyKnownByTheirNickname",
+    "InsultOfEndearment",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

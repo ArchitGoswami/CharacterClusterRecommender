@@ -1,7 +1,14 @@
 {
   "name": "Xixi",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Catchphrase",
+    "RunningGag",
+    "HardDrinkingPartyGirl",
+    "GenkiGirl",
+    "ItsAllAboutMe",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

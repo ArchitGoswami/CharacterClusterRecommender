@@ -1,7 +1,22 @@
 {
   "name": "Pops Racer (Daisuke Mifune)",
   "show": "Speed Racer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ActionDad",
+    "JerkWithAHeartOfGold",
+    "MyGreatestFailure",
+    "BadassDriver",
+    "TheEngineer",
+    "FantasyForbiddingFather",
+    "HappilyMarried",
+    "GoodParents",
+    "HongKongDub",
+    "MotorMouth",
+    "PapaWolf",
+    "RetiredBadass",
+    "HotBlooded",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

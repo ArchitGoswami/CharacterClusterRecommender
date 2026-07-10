@@ -1,7 +1,14 @@
 {
   "name": "Lil Magic",
   "show": "In Living Color",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Catchphrase",
+    "ThePollyanna",
+    "StageMom",
+    "HighHopesZeroTalent",
+    "PhraseCatcher",
+    "MotorMouth"
+  ],
   "tropes_by_category": {}
 }

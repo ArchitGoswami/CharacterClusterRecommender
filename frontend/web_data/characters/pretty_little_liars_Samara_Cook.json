@@ -1,7 +1,13 @@
 {
   "name": "Samara Cook",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SuspiciouslySimilarSubstitute",
+    "PutOnABus",
+    "PreppyName",
+    "RomanticFalseLead",
+    "SatelliteLoveInterest"
+  ],
   "tropes_by_category": {}
 }

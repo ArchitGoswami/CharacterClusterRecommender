@@ -1,7 +1,31 @@
 {
   "name": "Shunt (All Series)",
   "show": "Robot Wars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "BadassDecay",
+    "FusionDance",
+    "MundaneUtility",
+    "EpicFail",
+    "BerserkButton",
+    "NoSell",
+    "RammingAlwaysWorks",
+    "ExecutiveMeddling",
+    "ButtMonkey",
+    "BadassBack",
+    "BoringButPractical",
+    "TheBrute",
+    "LightningBruiser",
+    "TheBerserker",
+    "PowerfulPick",
+    "AchillesHeel",
+    "ShipTease",
+    "SwordSparks",
+    "FragileSpeedster",
+    "ConstructionVehicleRampage",
+    "EvenEvilHasStandards",
+    "OffWithHisHead",
+    "TookALevelInBadass"
+  ],
   "tropes_by_category": {}
 }

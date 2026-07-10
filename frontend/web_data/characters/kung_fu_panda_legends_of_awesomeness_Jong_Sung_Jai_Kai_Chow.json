@@ -1,7 +1,16 @@
 {
   "name": "Jong Sung Jai Kai Chow",
   "show": "Kung Fu Panda: Legends of Awesomeness",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AffablyEvil",
+    "CoolAndUnusualPunishment",
+    "MythologyGag",
+    "TheMafia",
+    "EvenEvilHasLovedOnes",
+    "UnhandThemVillain",
+    "VerbalTic",
+    "KarmaHoudiniWarranty"
+  ],
   "tropes_by_category": {}
 }

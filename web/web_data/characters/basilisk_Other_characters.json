@@ -1,7 +1,26 @@
 {
   "name": "Other characters",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "BodyHorror",
+    "ChildProdigy",
+    "VillainousBreakdown",
+    "PetTheDog",
+    "BigFancyHouse",
+    "TheDitz",
+    "GodSaveUsFromTheQueen",
+    "MamaBear",
+    "FeudalOverlord",
+    "CharacterDevelopment",
+    "LikeASonToMe",
+    "ParentalFavoritism",
+    "TheStoic",
+    "HistoricalVillainUpgrade",
+    "SmugSnake",
+    "OffingTheOffspring",
+    "AscendedExtra",
+    "TheWatcher"
+  ],
   "tropes_by_category": {}
 }

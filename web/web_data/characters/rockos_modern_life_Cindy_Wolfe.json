@@ -1,7 +1,10 @@
 {
   "name": "Cindy Wolfe",
   "show": "Rocko's Modern Life",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "OutOfFocus",
+    "TalkingWithSigns"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Jessica Beeker",
   "show": "The ZhuZhus",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "CoolCrown",
+    "RoseHairedSweetie",
+    "IdolSinger"
+  ],
   "tropes_by_category": {}
 }

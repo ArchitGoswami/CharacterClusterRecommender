@@ -1,7 +1,14 @@
 {
   "name": "Wheatley",
   "show": "Yellowstone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "TheMentor",
+    "AscendedExtra",
+    "CreatorCameo",
+    "TheFriendlyTexan",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Walter Sykes",
   "show": "Warehouse 13",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "EvilPlan",
+    "RoaringRampageOfRevenge",
+    "EvilCripple",
+    "YouHaveOutlivedYourUsefulness",
+    "PortalCut",
+    "BigBad",
+    "YouHaveFailedMe",
+    "YouHaveOutLivedYourUsefulness",
+    "CreepyChild",
+    "MyGodWhatHaveIDone",
+    "WoobieDestroyerOfWorlds",
+    "BadBoss",
+    "RedemptionEqualsDeath",
+    "ResetButton",
+    "EvilIsPetty",
+    "TheCorruption"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Wes Krulick",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "HeelFaceTurn",
+    "TheBusCameBack",
+    "ThePowerOfLove",
+    "AbortedArc",
+    "TheMole",
+    "MultipleChoicePast",
+    "PutOnABus",
+    "RealLifeWritesThePlot",
+    "AntiVillain",
+    "BackForTheFinale"
+  ],
   "tropes_by_category": {}
 }

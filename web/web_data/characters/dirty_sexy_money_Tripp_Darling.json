@@ -1,7 +1,23 @@
 {
   "name": "Tripp Darling",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CoolOldGuy",
+    "ThePatriarch",
+    "HonestCorporateExecutive",
+    "DownplayedTrope",
+    "ArchEnemy",
+    "ParentalSubstitute",
+    "ControlFreak",
+    "ManipulativeBastard",
+    "ParentalNeglect",
+    "EmasculatedCuckold",
+    "SleepingSingle",
+    "SternParentDotingParent",
+    "OlderHeroVsYoungerVillain",
+    "CorruptCorporateExecutive",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

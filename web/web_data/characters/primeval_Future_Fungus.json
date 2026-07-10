@@ -1,7 +1,13 @@
 {
   "name": "Future Fungus",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FeedItWithFire",
+    "BodyHorror",
+    "KillItWithFire",
+    "KillItWithIce",
+    "FesteringFungus"
+  ],
   "tropes_by_category": {}
 }

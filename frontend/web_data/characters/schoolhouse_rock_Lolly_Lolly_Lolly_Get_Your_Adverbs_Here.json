@@ -1,7 +1,9 @@
 {
   "name": "Lolly, Lolly, Lolly, Get Your Adverbs Here",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "RollerbladeGood"
+  ],
   "tropes_by_category": {}
 }

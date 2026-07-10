@@ -1,7 +1,19 @@
 {
   "name": "The Color Crew",
   "show": "Rainbow Brite",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "NonindicativeName",
+    "ColorfulThemeNaming",
+    "AdaptationalMundanity",
+    "ToylineExclusiveCharacter",
+    "FiveTokenBand",
+    "AdaptedOut",
+    "AmbiguouslyBrown",
+    "FlatCharacter",
+    "AnthropomorphicPersonification",
+    "BioluminescenceIsCool",
+    "MultinationalTeam"
+  ],
   "tropes_by_category": {}
 }

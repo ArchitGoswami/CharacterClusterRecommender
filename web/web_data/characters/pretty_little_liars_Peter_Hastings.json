@@ -1,7 +1,17 @@
 {
   "name": "Peter Hastings",
   "show": "Pretty Little Liars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WellDoneSonGuy",
+    "DarkSecret",
+    "NonIdleRich",
+    "LukeIAmYourFather",
+    "AmbiguouslyEvil",
+    "ThrowingTheFight",
+    "PapaWolf",
+    "InformedAttribute",
+    "AdaptationDyeJob"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Walter Powell",
   "show": "Charles in Charge",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "AndStarring",
+    "BrutalHonesty",
+    "DadTheVeteran",
+    "GrumpyOldMan"
+  ],
   "tropes_by_category": {}
 }

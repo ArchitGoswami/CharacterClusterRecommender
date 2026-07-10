@@ -1,7 +1,12 @@
 {
   "name": "Manure the Bear",
   "show": "Cow and Chicken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PerpetualFrowner",
+    "LivingToys",
+    "ADayInTheLimelight",
+    "SubvertedTrope"
+  ],
   "tropes_by_category": {}
 }

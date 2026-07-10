@@ -1,7 +1,10 @@
 {
   "name": "The Libra",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RememberTheNewGuy",
+    "LieDetector"
+  ],
   "tropes_by_category": {}
 }

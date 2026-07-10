@@ -1,7 +1,28 @@
 {
   "name": "Aunt Clara",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "GoodOldWays",
+    "PowerIncontinence",
+    "FriendToAllChildren",
+    "TokenGoodTeammate",
+    "AmbiguousSituation",
+    "StickyFingers",
+    "WhiteSheep",
+    "TruthInTelevision",
+    "CrouchingMoronHiddenBadass",
+    "IneptMage",
+    "TropeNamer",
+    "LimitedWardrobe",
+    "PutOnABus",
+    "ScatterbrainedSenior",
+    "ChuckCunninghamSyndrome",
+    "BeenThereShapedHistory",
+    "PorkyPigPronunciation",
+    "HistoricalRapSheet",
+    "NoodleIncident",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

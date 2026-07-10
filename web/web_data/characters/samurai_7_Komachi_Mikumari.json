@@ -1,7 +1,12 @@
 {
   "name": "Komachi Mikumari",
   "show": "Samurai 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PrecociousCrush",
+    "TokenMiniMoe",
+    "CuteButCacophonic",
+    "AffectionateNickname"
+  ],
   "tropes_by_category": {}
 }

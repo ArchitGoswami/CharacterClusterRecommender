@@ -1,7 +1,13 @@
 {
   "name": "Digeri Dingo",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "LaserGuidedKarma",
+    "PunnyName",
+    "GoneHorriblyRight",
+    "HiddenDepths",
+    "TheTrickster"
+  ],
   "tropes_by_category": {}
 }

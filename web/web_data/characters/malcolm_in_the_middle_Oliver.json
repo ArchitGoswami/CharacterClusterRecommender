@@ -1,7 +1,13 @@
 {
   "name": "Oliver",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MonsterOfTheWeek",
+    "ManiacMonkeys",
+    "KillerRabbit",
+    "ForTheEvulz",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

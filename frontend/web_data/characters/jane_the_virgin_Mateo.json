@@ -1,7 +1,16 @@
 {
   "name": "Mateo",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "NearAndDearBabyNaming",
+    "AttentionDeficitOohShiny",
+    "OverlyLongName",
+    "AffectionateNickname",
+    "DeadGuyJunior",
+    "DotingGrandparent",
+    "BrattyHalfPint",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

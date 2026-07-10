@@ -1,7 +1,15 @@
 {
   "name": "Sheena",
   "show": "K.C. Undercover",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PsychoForHire",
+    "InadvertentEntranceCue",
+    "ShiftingVoiceOfMadness",
+    "BigEntrance",
+    "AWolfInSheepsClothing",
+    "WalkingSpoiler",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

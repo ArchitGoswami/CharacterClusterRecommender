@@ -1,7 +1,15 @@
 {
   "name": "Jake Lorraine",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BabyTalk",
+    "AccidentalMisnaming",
+    "CanonForeigner",
+    "TheDiaperChange",
+    "InSeriesNickname",
+    "DubNameChange",
+    "BabySeeBabyDo"
+  ],
   "tropes_by_category": {}
 }

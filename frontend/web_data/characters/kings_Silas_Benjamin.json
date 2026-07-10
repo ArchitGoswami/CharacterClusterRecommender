@@ -1,7 +1,23 @@
 {
   "name": "Silas Benjamin",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CoolOldGuy",
+    "AffablyEvil",
+    "AbusiveDad",
+    "Narcissist",
+    "RageAgainstTheHeavens",
+    "GoodIsNotNice",
+    "CulturedBadass",
+    "ToughLove",
+    "RagsToRoyalty",
+    "BigEater",
+    "RoyalsWhoActuallyDoSomething",
+    "ItsAllAboutMe",
+    "Hypocrite",
+    "ModestRoyalty",
+    "PoliticallyIncorrectVillain"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Ellen Whiting",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "WorkingWithTheEx",
+    "ActionGirl",
+    "ClingyJealousGirl",
+    "FrameUp",
+    "JerkassToOne",
+    "InspectorJavert",
+    "InternalAffairs"
+  ],
   "tropes_by_category": {}
 }

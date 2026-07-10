@@ -1,7 +1,10 @@
 {
   "name": "Mason Lancer",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BigBad",
+    "CharacterDeath"
+  ],
   "tropes_by_category": {}
 }

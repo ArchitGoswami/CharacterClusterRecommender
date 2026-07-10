@@ -1,7 +1,15 @@
 {
   "name": "Niven",
   "show": "Space Chickens in Space",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ClingyJealousGirl",
+    "PrecociousCrush",
+    "TheRival",
+    "HiddenHeartOfGold",
+    "KidsAreCruel",
+    "IJustWantToBeLoved",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

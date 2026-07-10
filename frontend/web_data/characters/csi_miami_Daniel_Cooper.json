@@ -1,7 +1,12 @@
 {
   "name": "Daniel Cooper",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ResignedInDisgrace",
+    "TheResenter",
+    "TheAtoner",
+    "TheLabRat"
+  ],
   "tropes_by_category": {}
 }

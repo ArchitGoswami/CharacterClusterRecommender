@@ -1,7 +1,10 @@
 {
   "name": "Haylen Becall",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Elizabeth Lascelles",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "HellBentForLeather",
+    "HairOfGold",
+    "MySpeciesDothProtestTooMuch",
+    "NiceJobBreakingItHero",
+    "TheChessmaster",
+    "TimeMaster",
+    "DefectorFromDecadence",
+    "BloodMagic",
+    "OlderThanTheyLook",
+    "ShowingOffTheNewBody",
+    "GoodCounterpart",
+    "HotWitch",
+    "GlamourFailure",
+    "VainSorceress",
+    "ShadowArchetype",
+    "SupernaturallyYoungParent",
+    "SilverVixen"
+  ],
   "tropes_by_category": {}
 }

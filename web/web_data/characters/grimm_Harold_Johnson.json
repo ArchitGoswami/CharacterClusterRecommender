@@ -1,7 +1,11 @@
 {
   "name": "Harold Johnson",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "DirtyCoward",
+    "TheBigGuy",
+    "TooDumbToLive"
+  ],
   "tropes_by_category": {}
 }

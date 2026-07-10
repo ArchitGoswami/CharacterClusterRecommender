@@ -1,7 +1,23 @@
 {
   "name": "Lily Charles",
   "show": "Pushing Daisies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "MushroomSamba",
+    "AfraidOfClowns",
+    "DeadpanSnarker",
+    "SiblingYinYang",
+    "LadyDrunk",
+    "BigSisterInstinct",
+    "LockedOutOfTheLoop",
+    "MamaBear",
+    "OutlivingOnesOffspring",
+    "EyepatchOfPower",
+    "MySecretPregnancy",
+    "OrgasmicallyDelicious",
+    "PerpetualFrowner",
+    "CoolOldLady",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Ilan Bodnar",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BatmanGambit",
+    "SiblingRivalry"
+  ],
   "tropes_by_category": {}
 }

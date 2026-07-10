@@ -1,7 +1,13 @@
 {
   "name": "Tiffany",
   "show": "H2O: Just Add Water",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "TokenMinority",
+    "BetaBitch",
+    "HopelessSuitor",
+    "ThrowTheDogABone"
+  ],
   "tropes_by_category": {}
 }

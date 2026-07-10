@@ -1,7 +1,17 @@
 {
   "name": "Harry Hoo",
   "show": "Get Smart",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AffectionateParody",
+    "CluelessDetective",
+    "Expy",
+    "InconsistentSpelling",
+    "ConsistentClothingStyle",
+    "LimitedWardrobe",
+    "AlliterativeName",
+    "WhatTheHellIsThatAccent",
+    "YouNoTakeCandle"
+  ],
   "tropes_by_category": {}
 }

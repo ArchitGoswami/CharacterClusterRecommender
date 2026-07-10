@@ -1,7 +1,16 @@
 {
   "name": "Charlotte Pickles",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ShoutOut",
+    "GoodParents",
+    "AssholeVictim",
+    "PlasticBitch",
+    "NightmareFace",
+    "CharacterDevelopment",
+    "CorruptCorporateExecutive",
+    "JustTheWayYouAre"
+  ],
   "tropes_by_category": {}
 }

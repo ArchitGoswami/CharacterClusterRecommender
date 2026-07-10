@@ -1,7 +1,22 @@
 {
   "name": "Doc Hopper",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "IgnoredEpiphany",
+    "NearVillainVictory",
+    "StalkerWithoutACrush",
+    "IfICantHaveYou",
+    "BigBad",
+    "KarmaHoudini",
+    "MadScientist",
+    "HiddenDepths",
+    "NotGoodWithRejection",
+    "VileVillainSaccharineShow",
+    "ItsAllAboutMe",
+    "VillainExitStageLeft",
+    "KnightOfCerebus",
+    "FatSweatySouthernerInAWhiteSuit"
+  ],
   "tropes_by_category": {}
 }

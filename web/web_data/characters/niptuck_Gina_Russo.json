@@ -1,7 +1,22 @@
 {
   "name": "Gina Russo",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CatchPhrase",
+    "PromotionToOpeningTitles",
+    "BrokenBird",
+    "SexySecretary",
+    "NeverMyFault",
+    "Foil",
+    "TropaholicsAnonymous",
+    "SexGoddess",
+    "AccidentalMurder",
+    "TragicAIDSStory",
+    "OutWithABang",
+    "MoodSwinger",
+    "ReallyGetsAround",
+    "ExtremeLibido"
+  ],
   "tropes_by_category": {}
 }

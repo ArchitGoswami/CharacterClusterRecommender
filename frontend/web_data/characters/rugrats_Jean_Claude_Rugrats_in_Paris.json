@@ -1,7 +1,22 @@
 {
   "name": "Jean Claude (Rugrats in Paris)",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "FinalBoss",
+    "HumongousMecha",
+    "Jerkass",
+    "LaserGuidedKarma",
+    "ServileSnarker",
+    "HumiliationConga",
+    "NoNonsenseNemesis",
+    "WouldHurtAChild",
+    "SliceOfLife",
+    "AdaptedOut",
+    "OneSteveLimit",
+    "TheDragon",
+    "PsychopathicManchild",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

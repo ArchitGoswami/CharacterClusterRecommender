@@ -1,7 +1,26 @@
 {
   "name": "Molly Cunningham",
   "show": "TaleSpin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "GuileHero",
+    "EngineeredPublicConfession",
+    "DependingOnTheWriter",
+    "DisappearedDad",
+    "EvilDetectingBaby",
+    "TooDumbToLive",
+    "PingPongNaivete",
+    "WiseBeyondTheirYears",
+    "KiddyCoveralls",
+    "LittleMissSnarker",
+    "DamselOutOfDistress",
+    "OutOfFocus",
+    "DoorJudo",
+    "BrattyHalfPint",
+    "MoralityPet",
+    "SecondEpisodeIntroduction",
+    "CompanionCube",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

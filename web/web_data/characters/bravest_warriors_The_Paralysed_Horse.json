@@ -1,7 +1,28 @@
 {
   "name": "The Paralysed Horse",
   "show": "Bravest Warriors",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "PottyEmergency",
+    "PsychicPowers",
+    "HeroicSacrifice",
+    "MeaningfulEcho",
+    "TheWorfEffect",
+    "EldritchAbomination",
+    "BadassBoast",
+    "HandicappedBadass",
+    "UndyingLoyalty",
+    "AmplifiedAnimalAptitude",
+    "AndIMustScream",
+    "MindOverMatter",
+    "SealedEvilInADuel",
+    "FrozenFace",
+    "BigDamnHeroes",
+    "HumbleHero",
+    "GoMadFromTheRevelation",
+    "CaptainsLog",
+    "CoolHorse",
+    "ThePowerOfLove"
+  ],
   "tropes_by_category": {}
 }

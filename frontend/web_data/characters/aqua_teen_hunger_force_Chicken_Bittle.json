@@ -1,7 +1,16 @@
 {
   "name": "Chicken Bittle",
   "show": "Aqua Teen Hunger Force",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "KilledOffForReal",
+    "FusionDance",
+    "TooDumbToLive",
+    "OnlySaneByComparison",
+    "ForgottenFallenFriend",
+    "TheComicallySerious",
+    "WrongGenreSavvy",
+    "DeathByOriginStory"
+  ],
   "tropes_by_category": {}
 }

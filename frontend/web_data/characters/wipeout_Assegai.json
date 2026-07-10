@@ -1,7 +1,12 @@
 {
   "name": "Assegai",
   "show": "Wipeout",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "JackOfAllStats",
+    "FragileSpeedster",
+    "MeaningfulName",
+    "MultinationalTeam"
+  ],
   "tropes_by_category": {}
 }

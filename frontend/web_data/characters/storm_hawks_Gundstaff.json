@@ -1,7 +1,11 @@
 {
   "name": "Gundstaff",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HeelFaceTurn",
+    "CarryABigStick",
+    "HuskyRusskie"
+  ],
   "tropes_by_category": {}
 }

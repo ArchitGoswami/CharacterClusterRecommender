@@ -1,7 +1,15 @@
 {
   "name": "Mr. and Mrs. French",
   "show": "Mission Hill",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "MyBelovedSmother",
+    "LockedOutoftheLoop",
+    "CovertPervert",
+    "ValuesDissonance",
+    "TheBore",
+    "EntertaininglyWrong"
+  ],
   "tropes_by_category": {}
 }

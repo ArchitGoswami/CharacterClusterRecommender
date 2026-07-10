@@ -1,7 +1,12 @@
 {
   "name": "Michael Culhane",
   "show": "Dynasty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ServileSnarker",
+    "TheBusCameBack",
+    "TheCasanova",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

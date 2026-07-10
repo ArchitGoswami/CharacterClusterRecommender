@@ -1,7 +1,12 @@
 {
   "name": "Jackie",
   "show": "What We Do in the Shadows",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MamaBear",
+    "BeleagueredAssistant",
+    "VampireVannabe",
+    "TheRenfield"
+  ],
   "tropes_by_category": {}
 }

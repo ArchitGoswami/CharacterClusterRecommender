@@ -1,7 +1,10 @@
 {
   "name": "Jeff",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PetTheDog",
+    "DeadpanSnarker"
+  ],
   "tropes_by_category": {}
 }

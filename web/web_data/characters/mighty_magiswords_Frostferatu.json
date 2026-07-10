@@ -1,7 +1,14 @@
 {
   "name": "Frostferatu",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "EvenBadMenLoveTheirMamas",
+    "EvilIsHammy",
+    "WickedCultured",
+    "AnIcePerson",
+    "OurVampiresAreDifferent",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

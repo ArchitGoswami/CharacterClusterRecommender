@@ -1,7 +1,14 @@
 {
   "name": "Danielle Sullivan",
   "show": "Big Sky",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "RedOniBlueOni",
+    "ProudBeauty",
+    "BullyingADragon",
+    "InnocentBigot",
+    "PoliticallyIncorrectHero",
+    "BuxomBeautyStandard"
+  ],
   "tropes_by_category": {}
 }

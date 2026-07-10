@@ -1,7 +1,11 @@
 {
   "name": "Rilo",
   "show": "Tron: Uprising",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TooDumbToLive",
+    "WeHardlyKnewYe",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

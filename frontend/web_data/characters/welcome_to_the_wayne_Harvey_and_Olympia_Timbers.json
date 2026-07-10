@@ -1,7 +1,11 @@
 {
   "name": "Harvey and Olympia Timbers",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "OppositesAttract",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

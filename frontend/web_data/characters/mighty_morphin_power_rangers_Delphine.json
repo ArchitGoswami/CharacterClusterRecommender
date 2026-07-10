@@ -1,7 +1,15 @@
 {
   "name": "Delphine",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "TheLeader",
+    "OneOfTheBoys",
+    "TheSmurfettePrinciple",
+    "AgeLift",
+    "AdaptationPersonalityChange",
+    "MeaningfulName",
+    "UniformityException"
+  ],
   "tropes_by_category": {}
 }

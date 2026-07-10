@@ -1,7 +1,22 @@
 {
   "name": "Kisaragi Saemon",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "KissOfDeath",
+    "BigBrotherInstinct",
+    "ImpaledWithExtremePrejudice",
+    "EyesAlwaysShut",
+    "MasterOfDisguise",
+    "ManipulativeBastard",
+    "SmugSmiler",
+    "OhCrap",
+    "TinyGuyHugeGirl",
+    "AdaptationalNiceGuy",
+    "DeathByIrony",
+    "BewareTheNiceOnes",
+    "TheStoic",
+    "WouldntHitAGirl"
+  ],
   "tropes_by_category": {}
 }

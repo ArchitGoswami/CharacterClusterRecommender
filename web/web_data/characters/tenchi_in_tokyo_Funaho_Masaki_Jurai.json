@@ -1,7 +1,20 @@
 {
   "name": "Funaho Masaki Jurai",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "CarryABigStick",
+    "OnlySaneWoman",
+    "HimeCut",
+    "SiblingTeam",
+    "TheHighQueen",
+    "ReasonableAuthorityFigure",
+    "RagsToRoyalty",
+    "YamatoNadeshiko",
+    "DrunkenMaster",
+    "NoodleIncident",
+    "DefeatEqualsFriendship",
+    "BlueBlood"
+  ],
   "tropes_by_category": {}
 }

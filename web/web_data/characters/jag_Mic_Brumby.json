@@ -1,7 +1,16 @@
 {
   "name": "Mic Brumby",
   "show": "JAG",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FakeNationality",
+    "LoveAtFirstSight",
+    "AmoralAttorney",
+    "FridgeBrilliance",
+    "RomanticFalseLead",
+    "Hypocrite",
+    "AwesomeAussie",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

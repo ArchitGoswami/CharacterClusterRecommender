@@ -1,7 +1,13 @@
 {
   "name": "Zooli",
   "show": "Bubble Guppies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "AnimalLover",
+    "BirthdayEpisode",
+    "MeaningfulName",
+    "PrimAndProperBun",
+    "SixthRanger"
+  ],
   "tropes_by_category": {}
 }

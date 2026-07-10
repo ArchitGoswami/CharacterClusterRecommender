@@ -1,7 +1,21 @@
 {
   "name": "Aunt Oona",
   "show": "Family Matters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BlackAndNerdy",
+    "ChubbyChaser",
+    "BigBeautifulWoman",
+    "TheKlutz",
+    "ActorAllusion",
+    "RhymingNames",
+    "CelebrityParadox",
+    "SingingVoiceDissonance",
+    "ApologisesALot",
+    "HiddenDepths",
+    "StrongFamilyResemblance",
+    "DarkHorseVictory",
+    "SheCleansUpNicely"
+  ],
   "tropes_by_category": {}
 }

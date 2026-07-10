@@ -1,7 +1,17 @@
 {
   "name": "EldridgeMacElroy",
   "show": "Two and a Half Men",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ThoseTwoGuys",
+    "ChuckCunninghamSyndrome",
+    "Jerkass",
+    "LiteralMinded",
+    "ToxicFriendInfluence",
+    "DumbBlonde",
+    "SatelliteCharacter",
+    "PutOnABus",
+    "TheStoner"
+  ],
   "tropes_by_category": {}
 }

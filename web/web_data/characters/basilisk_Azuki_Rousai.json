@@ -1,7 +1,22 @@
 {
   "name": "Azuki Rousai",
   "show": "Basilisk",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CoolOldGuy",
+    "WouldHitAGirl",
+    "BreastAttack",
+    "Gonk",
+    "MundaneUtility",
+    "AnArmAndALeg",
+    "TheGrotesque",
+    "ExpressiveHair",
+    "AnimalMotifs",
+    "DeathByIrony",
+    "CruelAndUnusualDeath",
+    "EvilOldFolks",
+    "HypocriticalHumor",
+    "RubberMan"
+  ],
   "tropes_by_category": {}
 }

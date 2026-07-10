@@ -1,7 +1,15 @@
 {
   "name": "RC3",
   "show": "Knight Rider",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Sidekick",
+    "GadgeteerGenius",
+    "HeroicWannabe",
+    "TeenGenius",
+    "GreaseMonkey",
+    "TokenMinority",
+    "PluckyComicRelief"
+  ],
   "tropes_by_category": {}
 }

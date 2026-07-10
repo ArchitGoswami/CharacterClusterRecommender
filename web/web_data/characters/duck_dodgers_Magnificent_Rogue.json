@@ -1,7 +1,13 @@
 {
   "name": "Magnificent Rogue",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DeconstructedCharacterArchetype",
+    "LovableRogue",
+    "HumanAliens",
+    "ItsAllAboutMe",
+    "FaceOfAnAngelMindOfADemon"
+  ],
   "tropes_by_category": {}
 }

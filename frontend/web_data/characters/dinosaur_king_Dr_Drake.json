@@ -1,7 +1,12 @@
 {
   "name": "Dr. Drake",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CanonForeigner",
+    "IdenticalStranger",
+    "ADayInTheLimelight",
+    "UglyGuyHotWife"
+  ],
   "tropes_by_category": {}
 }

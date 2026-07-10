@@ -1,7 +1,9 @@
 {
   "name": "Quinn Shelby",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ReasonableAuthorityFigure"
+  ],
   "tropes_by_category": {}
 }

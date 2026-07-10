@@ -1,7 +1,21 @@
 {
   "name": "The Fmeks",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BewareTheSillyOnes",
+    "EvilCounterpartRace",
+    "TheNapoleon",
+    "PoliticallyIncorrectVillain",
+    "LilliputianWarriors",
+    "DepravedDwarf",
+    "VerbalTic",
+    "AlwaysChaoticEvil",
+    "ZergRush",
+    "FantasticRacism",
+    "ButtMonkey",
+    "EvilIsPetty",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

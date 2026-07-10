@@ -1,7 +1,28 @@
 {
   "name": "Mokona Modoki (Soel)",
   "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "PaletteSwap",
+    "FlockofWolves",
+    "InterdimensionalTravelDevice",
+    "BigEater",
+    "MeaningfulName",
+    "SweetTooth",
+    "ThirdPersonPerson",
+    "Leitmotif",
+    "TheEmpath",
+    "TheAlcoholic",
+    "TranslatorMicrobes",
+    "EyesAlwaysShut",
+    "OppositeSexClone",
+    "CloneJesus",
+    "TeleportersAndTransporters",
+    "RidiculouslyCuteCritter",
+    "SeriesMascot",
+    "FunSize",
+    "ShipperOnDeck",
+    "TheMaker"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Anubis",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BewareTheSillyOnes",
+    "AdaptationalVillainy",
+    "EveryoneHatesHades",
+    "NotSoHarmlessVillain"
+  ],
   "tropes_by_category": {}
 }

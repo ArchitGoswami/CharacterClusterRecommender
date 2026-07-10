@@ -1,7 +1,11 @@
 {
   "name": "Grampa Johnson",
   "show": "Dennis the Menace",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "CoolOldGuy",
+    "SitcomArchNemesis",
+    "DotingGrandparent"
+  ],
   "tropes_by_category": {}
 }

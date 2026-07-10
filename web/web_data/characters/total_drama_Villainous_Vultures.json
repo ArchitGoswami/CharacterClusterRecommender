@@ -1,7 +1,31 @@
 {
   "name": "Villainous Vultures",
   "show": "Total Drama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TreacherousAdviser",
+    "TokenGoodTeammate",
+    "NiceMeanAndInbetween",
+    "TheDragon",
+    "TheLeader",
+    "RuleOfSymbolism",
+    "HumanShield",
+    "SuperPoweredEvilSide",
+    "TheBrute",
+    "TokenMinority",
+    "TheLancer",
+    "VileVulture",
+    "EvilGenius",
+    "TheFriendNobodyLikes",
+    "SixthRanger",
+    "ExBigBad",
+    "DumbMuscle",
+    "BigBad",
+    "BigBadWannabe",
+    "AlliterativeName",
+    "ALighterShadeOfBlack",
+    "TheCorruptor",
+    "EqualOpportunityEvil"
+  ],
   "tropes_by_category": {}
 }

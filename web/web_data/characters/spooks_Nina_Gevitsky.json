@@ -1,7 +1,12 @@
 {
   "name": "Nina Gevitsky",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "HeelFaceTurn",
+    "OutlawCouple",
+    "MoralityPet",
+    "AffectionateNickname"
+  ],
   "tropes_by_category": {}
 }

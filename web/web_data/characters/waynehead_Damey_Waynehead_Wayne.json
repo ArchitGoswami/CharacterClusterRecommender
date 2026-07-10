@@ -1,7 +1,12 @@
 {
   "name": "Damey \"Waynehead\" Wayne",
   "show": "Waynehead",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NiceGuy",
+    "BerserkButton",
+    "TokenGoodTeammate",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Dorin",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ADogNamedDog",
+    "DisneyDeath",
+    "OlderThanTheyLook",
+    "LivingMacGuffin",
+    "FriendToAllLivingThings",
+    "FishOutOfTemporalWater"
+  ],
   "tropes_by_category": {}
 }

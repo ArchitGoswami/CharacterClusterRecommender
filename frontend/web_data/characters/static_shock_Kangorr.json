@@ -1,7 +1,21 @@
 {
   "name": "Kangorr",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "NearVillainVictory",
+    "Leitmotif",
+    "CanonForeigner",
+    "MisplacedAccent",
+    "RememberTheNewGuy",
+    "GiantFootOfStomping",
+    "NeverBareheaded",
+    "ExtremityExtremist",
+    "BroughtDownToNormal",
+    "InASingleBound",
+    "EvenEvilHasStandards",
+    "OnlySaneMan",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

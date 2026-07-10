@@ -1,7 +1,23 @@
 {
   "name": "Tina",
   "show": "Dilbert",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "EnragedByIdiocy",
+    "NoFourthWall",
+    "IncrediblyLameFun",
+    "NeverMyFault",
+    "ItMakesSenseInContext",
+    "Foil",
+    "OnlySaneMan",
+    "MegatonPunch",
+    "BlackBeadEyes",
+    "IndubitablyUninterestingIndividual",
+    "DumbassHasAPoint",
+    "InsistentTerminology",
+    "StrawFeminist",
+    "HairTriggerTemper",
+    "OfficeLady"
+  ],
   "tropes_by_category": {}
 }

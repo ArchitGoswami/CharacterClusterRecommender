@@ -1,7 +1,18 @@
 {
   "name": "Trucker Ted",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "MrExposition",
+    "NewhartPhonecall",
+    "ADayInTheLimelight",
+    "DrivesLikeCrazy",
+    "RunningGag",
+    "WeirdnessMagnet",
+    "DiabolusExMachina",
+    "AlliterativeName",
+    "DeusExMachina",
+    "GeorgeJetsonJobSecurity"
+  ],
   "tropes_by_category": {}
 }

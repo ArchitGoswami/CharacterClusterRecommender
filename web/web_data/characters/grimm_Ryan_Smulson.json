@@ -1,7 +1,21 @@
 {
   "name": "Ryan Smulson",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BrokenPedestal",
+    "MoralMyopia",
+    "DirtyCoward",
+    "Narcissist",
+    "VillainHasAPoint",
+    "LackOfEmpathy",
+    "MurderIsTheBestSolution",
+    "SerialKiller",
+    "Hypocrite",
+    "VillainWithGoodPublicity",
+    "BoomerangBigot",
+    "DeathSeeker",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

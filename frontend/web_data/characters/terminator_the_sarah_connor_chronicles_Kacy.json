@@ -1,7 +1,12 @@
 {
   "name": "Kacy",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FeminineWomenCanCook",
+    "DonutMessWithACop",
+    "LethalChef",
+    "HairOfGoldHeartOfGold"
+  ],
   "tropes_by_category": {}
 }

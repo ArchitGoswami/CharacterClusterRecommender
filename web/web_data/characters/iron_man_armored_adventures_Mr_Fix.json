@@ -1,7 +1,23 @@
 {
   "name": "Mr. Fix",
   "show": "Iron Man: Armored Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Cyborg",
+    "TheDogBitesBack",
+    "ArmsDealer",
+    "CharacterDeath",
+    "AndIMustScream",
+    "DemotedToDragon",
+    "FateWorseThanDeath",
+    "BigBad",
+    "GadgeteerGenius",
+    "BrainUploading",
+    "BatmanGambit",
+    "BaldOfEvil",
+    "ExplosiveLeash",
+    "BeardOfEvil",
+    "AdaptationNameChange"
+  ],
   "tropes_by_category": {}
 }

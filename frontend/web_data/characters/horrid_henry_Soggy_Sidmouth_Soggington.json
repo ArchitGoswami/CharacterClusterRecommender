@@ -1,7 +1,22 @@
 {
   "name": "Soggy Sidmouth Soggington",
   "show": "Horrid Henry",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TokenEvilTeammate",
+    "InsufferableImbecile",
+    "Catchphrase",
+    "ImproperlyParanoid",
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "WhatTheHellIsThatAccent",
+    "EvenEvilHasLovedOnes",
+    "ShipTease",
+    "TookALevelInJerkass",
+    "KarmicButtMonkey",
+    "Flanderization",
+    "JerkJock",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

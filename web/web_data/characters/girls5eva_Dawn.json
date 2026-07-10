@@ -1,7 +1,15 @@
 {
   "name": "Dawn",
   "show": "Girls5eva",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "OnlySaneWoman",
+    "Hypochondria",
+    "HappilyMarried",
+    "SexierAlterEgo",
+    "NiceGirl",
+    "FamilyVersusCareer",
+    "AudienceSurrogate"
+  ],
   "tropes_by_category": {}
 }

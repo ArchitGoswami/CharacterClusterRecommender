@@ -1,7 +1,15 @@
 {
   "name": "Aaron Jacobs",
   "show": "Sabrina, the Teenage Witch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "GracefulLoser",
+    "SuspiciouslySimilarSubstitute",
+    "FourthDateMarriage",
+    "DisposableFiance",
+    "Hypocrite",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

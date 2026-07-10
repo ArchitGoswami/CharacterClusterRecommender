@@ -1,7 +1,15 @@
 {
   "name": "Malvo",
   "show": "Everybody Hates Chris",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "KnowWhenToFoldThem",
+    "BullyTurnedBuddy",
+    "BigBad",
+    "BeingEvilSucks",
+    "BetaCouple",
+    "WouldHurtAChild",
+    "IntergenerationalFriendship"
+  ],
   "tropes_by_category": {}
 }

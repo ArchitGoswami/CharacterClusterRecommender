@@ -1,7 +1,22 @@
 {
   "name": "Professor Foo Foo",
   "show": "Chip 'n Dale Rescue Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeelFaceTurn",
+    "ShoutOut",
+    "ForcedIntoEvil",
+    "DirtyCoward",
+    "GadgeteerGenius",
+    "TooDumbToLive",
+    "NerdGlasses",
+    "MadScientist",
+    "MinionWithAnFInEvil",
+    "EvilGenius",
+    "SmartPeopleWearGlasses",
+    "TeleportSpam",
+    "WeUsedToBeFriends",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

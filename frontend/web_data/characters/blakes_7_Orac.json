@@ -1,7 +1,25 @@
 {
   "name": "Orac",
   "show": "Blake's 7",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "Catchphrase",
+    "MagicalComputer",
+    "ForgottenPhlebotinum",
+    "SiliconSnarker",
+    "RidiculouslyHumanRobot",
+    "JustAMachine",
+    "WhatHappenedToTheMouse",
+    "JerkWithAHeartOfJerk",
+    "SecondLawMyAss",
+    "InsufferableGenius",
+    "AIIsACrapshoot",
+    "MeaningfulName",
+    "SoleSurvivor",
+    "CuriosityKilledTheCast",
+    "PickYourHumanHalf",
+    "NominalHero",
+    "EverythingIsOnline"
+  ],
   "tropes_by_category": {}
 }

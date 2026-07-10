@@ -1,7 +1,13 @@
 {
   "name": "Nellie",
   "show": "Peep and the Big Wide World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TeamMom",
+    "EarlyInstallmentCharacterDesignDifference",
+    "BigFriendlyDog",
+    "DogsAreDumb",
+    "HeavySleeper"
+  ],
   "tropes_by_category": {}
 }

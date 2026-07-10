@@ -1,7 +1,22 @@
 {
   "name": "Kate Hawthorne",
   "show": "Resident Alien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ClingyJealousGirl",
+    "InLoveWithYourCarnage",
+    "HappilyMarried",
+    "FriendlessBackground",
+    "MamaBear",
+    "PassionateSportsGirl",
+    "PowerfulPeopleAreSubs",
+    "SurprisePregnancy",
+    "HiddenDepths",
+    "UnwittingInstigatorOfDoom",
+    "EmbarrassingRelativeTeacher",
+    "UrineTrouble",
+    "FamilyVersusCareer",
+    "TheMenInBlack"
+  ],
   "tropes_by_category": {}
 }

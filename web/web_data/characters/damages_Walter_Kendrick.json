@@ -1,7 +1,13 @@
 {
   "name": "Walter Kendrick",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BigBad",
+    "PutOnABus",
+    "RealLifeWritesThePlot",
+    "EvilerThanThou",
+    "EvilOldFolks"
+  ],
   "tropes_by_category": {}
 }

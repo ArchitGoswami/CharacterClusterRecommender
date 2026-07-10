@@ -1,7 +1,16 @@
 {
   "name": "Grady Ambrose Fletcher",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HappilyEverAfter",
+    "SmallRoleBigImpact",
+    "UnluckilyLucky",
+    "BornUnlucky",
+    "UnluckyEverydude",
+    "HappilyAdopted",
+    "Nephewism",
+    "TwiceShy"
+  ],
   "tropes_by_category": {}
 }

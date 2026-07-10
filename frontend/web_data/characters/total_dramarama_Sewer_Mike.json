@@ -1,7 +1,14 @@
 {
   "name": "Sewer Mike",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "HalfDressedCartoonAnimal",
+    "ArchEnemy",
+    "DisembodiedEyebrows",
+    "FriendlessBackground",
+    "SewerGator",
+    "CompanionCube"
+  ],
   "tropes_by_category": {}
 }

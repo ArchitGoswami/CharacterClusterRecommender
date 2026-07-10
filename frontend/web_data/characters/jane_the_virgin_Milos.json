@@ -1,7 +1,14 @@
 {
   "name": "Milos",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ArmsDealer",
+    "PsychoExBoyfriend",
+    "GrandRomanticGesture",
+    "FlowerMotifs",
+    "TheOneThatGotAway",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

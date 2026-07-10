@@ -1,7 +1,30 @@
 {
   "name": "Tchernobog",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TooSpicyForYogSothoth",
+    "TouchOfDeath",
+    "GoodCounterpart",
+    "AssholeVictim",
+    "Determinator",
+    "LegacyCharacter",
+    "MeaningfulName",
+    "AndNowForSomeoneCompletelyDifferent",
+    "BatmanGambit",
+    "DeathIsNotPermanent",
+    "GrandTheftMe",
+    "DarkIsNotEvil",
+    "RoaringRampageOfRevenge",
+    "PublicDomainCharacter",
+    "GoneHorriblyRight",
+    "LargeAndInCharge",
+    "LackOfEmpathy",
+    "DemBones",
+    "EyeBeams",
+    "BigBad",
+    "VillainBall",
+    "GodOfEvil"
+  ],
   "tropes_by_category": {}
 }

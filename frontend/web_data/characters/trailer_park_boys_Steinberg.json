@@ -1,7 +1,13 @@
 {
   "name": "Steinberg",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SirSwearsAlot",
+    "Slimeball",
+    "AmoralAttorney",
+    "VerbalTic",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

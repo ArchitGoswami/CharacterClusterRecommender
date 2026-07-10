@@ -1,7 +1,16 @@
 {
   "name": "Sonja Harper",
   "show": "Mama's Family",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "PutOnABus",
+    "TomboyWithAGirlyStreak",
+    "TotallyRadical",
+    "FlatCharacter",
+    "MissingMom",
+    "TomboyAndGirlyGirl",
+    "BrattyTeenageDaughter",
+    "HeadphonesEqualIsolation"
+  ],
   "tropes_by_category": {}
 }

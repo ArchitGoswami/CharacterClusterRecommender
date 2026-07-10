@@ -1,7 +1,14 @@
 {
   "name": "Coal",
   "show": "Trollz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DistaffCounterpart",
+    "TheKlutz",
+    "NotSoAboveItAll",
+    "NiceGuy",
+    "TakenForGranite",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

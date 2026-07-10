@@ -1,7 +1,12 @@
 {
   "name": "Nix",
   "show": "Ozark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DirtyCop",
+    "AffablyEvil",
+    "NoGoodDeedGoesUnpunished",
+    "ReasonableAuthorityFigure"
+  ],
   "tropes_by_category": {}
 }

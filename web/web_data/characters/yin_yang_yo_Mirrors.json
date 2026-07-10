@@ -1,7 +1,19 @@
 {
   "name": "Mirrors",
   "show": "Yin Yang Yo!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AffectionateParody",
+    "CuteLittleFangs",
+    "SomethingAboutARose",
+    "AmbiguouslyHuman",
+    "AnimeHair",
+    "CaptainObvious",
+    "PunnyName",
+    "AmazingTechnicolorPopulation",
+    "OutOfFocus",
+    "IKnowKarate",
+    "WalkingShirtlessScene"
+  ],
   "tropes_by_category": {}
 }

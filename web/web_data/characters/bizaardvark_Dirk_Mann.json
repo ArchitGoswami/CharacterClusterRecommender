@@ -1,7 +1,16 @@
 {
   "name": "Dirk Mann",
   "show": "Bizaardvark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ShowWithinAShow",
+    "BruiserWithASoftCenter",
+    "Catchphrase",
+    "BigBrotherMentor",
+    "TheDitz",
+    "DumbBlonde",
+    "PutOnABus",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

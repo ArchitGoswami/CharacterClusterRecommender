@@ -1,7 +1,11 @@
 {
   "name": "Becky Belding",
   "show": "Saved by the Bell",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ScreamingBirth",
+    "TheGhost",
+    "AlliterativeName"
+  ],
   "tropes_by_category": {}
 }

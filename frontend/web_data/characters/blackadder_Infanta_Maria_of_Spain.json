@@ -1,7 +1,21 @@
 {
   "name": "Infanta Maria of Spain",
   "show": "Blackadder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheDividual",
+    "LoveAtFirstSight",
+    "UncannyValleyMakeup",
+    "BeautyInversion",
+    "HowTheyTreatTheHelp",
+    "NoSenseOfPersonalSpace",
+    "SexIsViolence",
+    "Gonk",
+    "GetOut",
+    "FatBastard",
+    "LargeHam",
+    "AbhorrentAdmirer",
+    "ExtremeLibido"
+  ],
   "tropes_by_category": {}
 }

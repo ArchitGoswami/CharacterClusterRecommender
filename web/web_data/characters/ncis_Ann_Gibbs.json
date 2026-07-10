@@ -1,7 +1,21 @@
 {
   "name": "Ann Gibbs",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FieryRedhead",
+    "MyGreatestFailure",
+    "DyingAsYourself",
+    "DespairEventHorizon",
+    "DeadPersonConversation",
+    "DeceasedParentsAreTheBest",
+    "NeverGotToSayGoodbye",
+    "KarmicDeath",
+    "PosthumousCharacter",
+    "LethalDiagnosis",
+    "DrivenToSuicide",
+    "AbusiveParents",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

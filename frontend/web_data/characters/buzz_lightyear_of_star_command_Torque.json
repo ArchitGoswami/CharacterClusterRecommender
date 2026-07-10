@@ -1,7 +1,19 @@
 {
   "name": "Torque",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ExtraEyes",
+    "Expy",
+    "ExpendableClone",
+    "BrainwashingForTheGreaterGood",
+    "MultiArmedAndDangerous",
+    "HealingFactor",
+    "Badbutt",
+    "MesACrowd",
+    "BadassLongcoat",
+    "BadassBiker",
+    "ArsonMurderAndJaywalking"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Chainlink",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Blackmail",
+    "Jerkass",
+    "BlessedWithSuck",
+    "MadeOfIron",
+    "NoSell",
+    "GreenEyedMonster",
+    "SuperStrength",
+    "EntitledBastard",
+    "CombatTentacles",
+    "Greed",
+    "EvilFormerFriend"
+  ],
   "tropes_by_category": {}
 }

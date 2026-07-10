@@ -1,7 +1,13 @@
 {
   "name": "Whizzer",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FastTunneling",
+    "MeaningfulName",
+    "RedEyesTakeWarning",
+    "CuteMachines",
+    "GrapplingHookPistol"
+  ],
   "tropes_by_category": {}
 }

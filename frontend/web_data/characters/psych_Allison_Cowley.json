@@ -1,7 +1,24 @@
 {
   "name": "Allison Cowley",
   "show": "Psych",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "HeelFaceTurn",
+    "YouHaveOutlivedYourUsefulness",
+    "WorthyOpponent",
+    "TheApprentice",
+    "ArchEnemy",
+    "BigBad",
+    "ItsAllAboutMe",
+    "TheResenter",
+    "TheSociopath",
+    "DesignatedGirlFight",
+    "BadBoss",
+    "SmugSnake",
+    "DragonAscendant",
+    "BitchInSheepsClothing",
+    "FauxAffablyEvil",
+    "LaughablyEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "The Legend",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AmazonChaser",
+    "MrExposition",
+    "NoCelebritiesWereHarmed",
+    "RacistGrandma",
+    "MsFanservice",
+    "ArtificialLimbs",
+    "AnArmAndALeg",
+    "ItsPersonal",
+    "OffingTheOffspring",
+    "DatingCatwoman",
+    "KavorkaMan",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,28 @@
 {
   "name": "Dobusu (The Ugly Flower Fairy)",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "JustifiedTrope",
+    "Jerkass",
+    "Yandere",
+    "MagicalGirlfriend",
+    "RecurringExtra",
+    "GoneHorriblyWrong",
+    "HiddenDepths",
+    "HotGuyUglyWife",
+    "ClingyJealousGirl",
+    "HorribleJudgeOfCharacter",
+    "AndNowYouMustMarryMe",
+    "WetBlanketWife",
+    "Gonk",
+    "HairTriggerTemper",
+    "AbhorrentAdmirer",
+    "SuddenNameChange",
+    "ShotgunWedding",
+    "BeCarefulWhatYouWishFor",
+    "TookALevelInKindness",
+    "EvilCounterpart"
+  ],
   "tropes_by_category": {}
 }

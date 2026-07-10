@@ -1,7 +1,26 @@
 {
   "name": "Rebel Rouge",
   "show": "Sonic Prime",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "AlternativeSelfNameChange",
+    "BroodingBoyGentleGirl",
+    "AdaptationalNiceGirl",
+    "CrisisCatchAndCarry",
+    "DeadpanSnarker",
+    "LadyOfWar",
+    "MythologyGag",
+    "RedOniBlueOni",
+    "ScarfOfAsskicking",
+    "WhatTheHellHero",
+    "AdaptationalModesty",
+    "AdaptationPersonalityChange",
+    "BigDamnHeroes",
+    "CynicIdealistDuo",
+    "RebelLeader",
+    "BootsOfToughness",
+    "TookALevelInIdealism",
+    "KnightInSourArmor"
+  ],
   "tropes_by_category": {}
 }

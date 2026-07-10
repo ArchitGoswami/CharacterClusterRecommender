@@ -1,7 +1,30 @@
 {
   "name": "Mike Cannon",
   "show": "Las Vegas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "AlmightyJanitor",
+    "ChivalrousPervert",
+    "MonsterOfTheWeek",
+    "NiceGuy",
+    "BetaCouple",
+    "CommonalityConnection",
+    "BromanticFoil",
+    "DistractedByTheSexy",
+    "BestFriend",
+    "AccidentalMarriage",
+    "TokenBlackFriend",
+    "FanserviceExtra",
+    "BashBrothers",
+    "TheSmartGuy",
+    "HistoricalCharactersFictionalRelative",
+    "PutOnABus",
+    "ShipTease",
+    "TheGenericGuy",
+    "GadgeteerGenius",
+    "BlackAndNerdy",
+    "HeterosexualLifePartners",
+    "NoodleIncident"
+  ],
   "tropes_by_category": {}
 }

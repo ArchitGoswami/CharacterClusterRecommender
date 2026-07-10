@@ -1,7 +1,23 @@
 {
   "name": "Dak Jeebs",
   "show": "Men in Black: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "FusionDance",
+    "Revenge",
+    "PsychoForHire",
+    "AlienBlood",
+    "NotQuiteDead",
+    "HumanAliens",
+    "TooKinkyToTorture",
+    "HealingFactor",
+    "JokerImmunity",
+    "TheDragon",
+    "BaldOfEvil",
+    "DragonAscendant",
+    "EvilTwin",
+    "BigBrotherBully",
+    "CainAndAbel"
+  ],
   "tropes_by_category": {}
 }

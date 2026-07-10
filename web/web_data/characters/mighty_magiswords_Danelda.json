@@ -1,7 +1,10 @@
 {
   "name": "Danelda",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RascallyRabbit",
+    "BadassAdorable"
+  ],
   "tropes_by_category": {}
 }

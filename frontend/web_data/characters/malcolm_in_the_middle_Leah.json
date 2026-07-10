@@ -1,7 +1,15 @@
 {
   "name": "Leah",
   "show": "Malcolm in the Middle",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "DeadpanSnarker",
+    "FourthWallObserver",
+    "TeenGenius",
+    "FriendlessBackground",
+    "LikeParentLikeChild",
+    "InsufferableGenius",
+    "MissingMom"
+  ],
   "tropes_by_category": {}
 }

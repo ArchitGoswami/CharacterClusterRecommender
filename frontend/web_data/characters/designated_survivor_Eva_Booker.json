@@ -1,7 +1,12 @@
 {
   "name": "Eva Booker",
   "show": "Designated Survivor",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ArcVillain",
+    "NeverMessWithGranny",
+    "PutOnABus",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

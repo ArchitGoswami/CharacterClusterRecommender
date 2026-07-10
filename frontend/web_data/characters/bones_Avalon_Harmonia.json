@@ -1,7 +1,16 @@
 {
   "name": "Avalon Harmonia",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheSocialExpert",
+    "ShipperOnDeck",
+    "PolicePsychic",
+    "ISeeDeadPeople",
+    "CreepyGood",
+    "BerserkButton",
+    "MaybeMagicMaybeMundane",
+    "DeadLittleSister"
+  ],
   "tropes_by_category": {}
 }

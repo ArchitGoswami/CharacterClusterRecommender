@@ -1,7 +1,20 @@
 {
   "name": "Max Mayhem",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ClashingCousins",
+    "EnfantTerrible",
+    "PetTheDog",
+    "TheBully",
+    "AdaptationalJerkass",
+    "NamedByTheAdaptation",
+    "EvilGenius",
+    "RelatedInTheAdaptation",
+    "TimeShiftedActor",
+    "CardCarryingVillain",
+    "IneffectualSympatheticVillain",
+    "AdaptationalBadass"
+  ],
   "tropes_by_category": {}
 }

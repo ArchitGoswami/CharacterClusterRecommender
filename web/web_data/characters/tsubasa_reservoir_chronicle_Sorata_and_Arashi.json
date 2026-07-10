@@ -1,7 +1,18 @@
 {
   "name": "Sorata and Arashi",
   "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Exposition",
+    "HimeCut",
+    "TheIdiotFromOsaka",
+    "TheQuietOne",
+    "Miko",
+    "HappilyMarried",
+    "HandPuppet",
+    "DoubleStandardAbuseFemaleOnMale",
+    "SickeninglySweethearts",
+    "AntiquatedLinguistics"
+  ],
   "tropes_by_category": {}
 }

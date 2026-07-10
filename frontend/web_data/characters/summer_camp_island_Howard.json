@@ -1,7 +1,11 @@
 {
   "name": "Howard",
   "show": "Summer Camp Island",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HornedHumanoid",
+    "SmartPeopleWearGlasses",
+    "Lancer"
+  ],
   "tropes_by_category": {}
 }

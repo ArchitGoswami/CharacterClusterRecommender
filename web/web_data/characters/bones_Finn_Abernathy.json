@@ -1,7 +1,21 @@
 {
   "name": "Finn Abernathy",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheNicknamer",
+    "TeenGenius",
+    "SouthernFriedGenius",
+    "TookALevelInJerkass",
+    "ReformedCriminal",
+    "BigEater",
+    "VitriolicBestBuds",
+    "Squick",
+    "VictimOfTheWeek",
+    "NightmareFetishist",
+    "DarkAndTroubledPast",
+    "AbusiveParents",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

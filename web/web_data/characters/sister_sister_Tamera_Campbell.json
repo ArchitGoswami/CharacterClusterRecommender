@@ -1,7 +1,18 @@
 {
   "name": "Tamera Campbell",
   "show": "Sister, Sister",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "RedOniBlueOni",
+    "FoolishSiblingResponsibleSibling",
+    "BrattyTeenageDaughter",
+    "TheDitz",
+    "HappilyAdopted",
+    "PolarOppositeTwins",
+    "BrilliantButLazy",
+    "ItsAllAboutMe",
+    "BookDumb",
+    "LargeHam"
+  ],
   "tropes_by_category": {}
 }

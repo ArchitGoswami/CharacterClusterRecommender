@@ -1,7 +1,29 @@
 {
   "name": "Killer Croc",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "TragicVillain",
+    "ImAHumanitarian",
+    "SouthernGator",
+    "HoistByHisOwnPetard",
+    "FromNobodyToNightmare",
+    "FangsAreEvil",
+    "FreudianExcuse",
+    "AffablyEvil",
+    "AdaptationalJerkass",
+    "CompositeCharacter",
+    "NeverSmileAtACrocodile",
+    "WickedCultured",
+    "MightyGlacier",
+    "AchillesHeel",
+    "HalfHumanHybrid",
+    "BondVillainStupidity",
+    "GeniusBruiser",
+    "DumbMuscle",
+    "Expy",
+    "NotSoDifferentRemark",
+    "RaginCajun"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,23 @@
 {
   "name": "Cory Baxter",
   "show": "Raven's Home",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "Catchphrase",
+    "ChuckCunninghamSyndrome",
+    "AbhorrentAdmirer",
+    "JerkWithAHeartOfGold",
+    "MoneyFetish",
+    "PrecociousCrush",
+    "YoungEntrepreneur",
+    "AnnoyingYoungerSibling",
+    "SpinOff",
+    "Stock90sBadBoy",
+    "ParentalFavoritism",
+    "Y2K",
+    "ItsAllAboutMe",
+    "ButtMonkey",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Rachel Edwards",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PsychoStrings",
+    "TheUnseen",
+    "RichBitch",
+    "GoodParents"
+  ],
   "tropes_by_category": {}
 }

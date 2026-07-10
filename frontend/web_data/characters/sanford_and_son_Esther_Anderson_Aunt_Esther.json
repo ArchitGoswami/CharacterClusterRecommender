@@ -1,7 +1,17 @@
 {
   "name": "Esther Anderson/Aunt Esther",
   "show": "Sanford and Son",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SitcomArchNemesis",
+    "CatchPhrase",
+    "BigBrotherInstinct",
+    "WhenSheSmiles",
+    "DropInCharacter",
+    "BerserkButton",
+    "FormerTeenRebel",
+    "EnemyMine",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

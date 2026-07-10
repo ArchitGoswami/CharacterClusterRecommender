@@ -1,7 +1,28 @@
 {
   "name": "Eirene",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "SlaveLiberation",
+    "AcceptableBreaksFromReality",
+    "BettyAndVeronica",
+    "OnlyKnownByTheirNickname",
+    "BeautifulSlaveGirl",
+    "RescueRomance",
+    "CuteMute",
+    "StringingTheHopelessSuitorAlong",
+    "YouNoTakeCandle",
+    "WhatTheHellIsThatAccent",
+    "IHaveYouNowMyPretty",
+    "DeathByChildbirth",
+    "LongestPregnancyEver",
+    "QuestionableConsent",
+    "MoralityPet",
+    "UnstoppableRage",
+    "ScrewedByTheNetwork",
+    "DamselInDistress",
+    "SoBeautifulItsACurse",
+    "TheLostLenore"
+  ],
   "tropes_by_category": {}
 }

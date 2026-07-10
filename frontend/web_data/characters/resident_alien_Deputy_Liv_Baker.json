@@ -1,7 +1,26 @@
 {
   "name": "Deputy Liv Baker",
   "show": "Resident Alien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "TheDogBitesBack",
+    "GrewASpine",
+    "SherlockScan",
+    "HyperCompetentSidekick",
+    "TenMinuteRetirement",
+    "ShipperOnDeck",
+    "TheMenInBlack",
+    "DudeWheresMyRespect",
+    "ScrewThisImOuttaHere",
+    "ShrinkingViolet",
+    "ConspiracyTheorist",
+    "RageQuit",
+    "HiddenDepths",
+    "CassandraTruth",
+    "IntergenerationalFriendship",
+    "AccidentalTruth",
+    "ButtMonkey",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

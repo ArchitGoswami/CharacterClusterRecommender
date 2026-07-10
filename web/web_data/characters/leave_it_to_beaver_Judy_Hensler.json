@@ -1,7 +1,16 @@
 {
   "name": "Judy Hensler",
   "show": "Leave it to Beaver",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Jerkass",
+    "TheBully",
+    "KarmaHoudini",
+    "ShipTease",
+    "TeachersPet",
+    "TheStoolPigeon",
+    "BelligerentSexualTension",
+    "VocalDissonance"
+  ],
   "tropes_by_category": {}
 }

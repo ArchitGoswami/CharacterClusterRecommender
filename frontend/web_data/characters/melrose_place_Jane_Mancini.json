@@ -1,7 +1,17 @@
 {
   "name": "Jane Mancini",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SignificantWardrobeShift",
+    "Hypocrite",
+    "HeroicBSOD",
+    "HairOfGoldHeartOfGold",
+    "TheHeart",
+    "HappilyAdopted",
+    "FaceHeelTurn",
+    "NiceGirl",
+    "BettyAndVeronica"
+  ],
   "tropes_by_category": {}
 }

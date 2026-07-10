@@ -1,7 +1,22 @@
 {
   "name": "Amanda Woodward",
   "show": "Melrose Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ReallyGetsAround",
+    "AlphaBitch",
+    "WeUsedToBeFriends",
+    "LadyInAPowerSuit",
+    "FakeGuestStar",
+    "EveryoneLovesBlondes",
+    "DomesticAbuse",
+    "EarnYourHappyEnding",
+    "SerialSpouse",
+    "ParentalAbandonment",
+    "AbusiveParents",
+    "EveryoneHasStandards",
+    "BeautyIsNeverTarnished",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

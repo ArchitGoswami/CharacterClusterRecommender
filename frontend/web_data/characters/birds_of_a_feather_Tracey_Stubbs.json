@@ -1,7 +1,24 @@
 {
   "name": "Tracey Stubbs",
   "show": "Birds of a Feather",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "Malaproper",
+    "Housewife",
+    "PregnancyMakesYouCrazy",
+    "SleepingWithTheBoss",
+    "NewJobEpisode",
+    "FoolishSiblingResponsibleSibling",
+    "RichSiblingPoorSibling",
+    "BigFancyHouse",
+    "DumbBlonde",
+    "HappilyMarried",
+    "TookALevelInJerkass",
+    "IdenticalStranger",
+    "FatAndSkinny",
+    "NiceMeanAndInbetween",
+    "CharacterDevelopment",
+    "IWillWaitForYou"
+  ],
   "tropes_by_category": {}
 }

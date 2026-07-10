@@ -1,7 +1,28 @@
 {
   "name": "Little Twelvetoes",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "PrefersGoingBarefoot",
+    "LittleGreenMen",
+    "FloatingLimbs",
+    "AlternativeNumberSystem",
+    "Hammerspace",
+    "StealthInSpace",
+    "RoughOveralls",
+    "HatOfPower",
+    "FlyingSaucer",
+    "CreepyGood",
+    "EarthyBarefootCharacter",
+    "ExtraDigits",
+    "FirstContactFarmer",
+    "BarefootPoverty",
+    "AliensNeverInventedTheWheel",
+    "FluorescentFootprints",
+    "NeverBareheaded",
+    "SouthernFriedGenius",
+    "StarfishAliens",
+    "FarmBoy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Percy",
   "show": "Girls5eva",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "ExtremeDoormat"
+  ],
   "tropes_by_category": {}
 }

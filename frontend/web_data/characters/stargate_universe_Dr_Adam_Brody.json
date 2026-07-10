@@ -1,7 +1,13 @@
 {
   "name": "Dr. Adam Brody",
   "show": "Stargate Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ThoseTwoGuys",
+    "DeadpanSnarker",
+    "OnceDoneNeverForgotten",
+    "MilitaryMoonshiner",
+    "AscendedMeme"
+  ],
   "tropes_by_category": {}
 }

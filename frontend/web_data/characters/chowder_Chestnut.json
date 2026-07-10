@@ -1,7 +1,23 @@
 {
   "name": "Chestnut",
   "show": "Chowder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "WouldHitAGirl",
+    "JerkWithAHeartOfGold",
+    "PintSizedPowerhouse",
+    "DownplayedTrope",
+    "BerserkButton",
+    "BaritoneOfStrength",
+    "RhymesOnADime",
+    "IntergenerationalFriendship",
+    "InsistentTerminology",
+    "DisguisedInDrag",
+    "Greed",
+    "DarkHorseVictory",
+    "Cloudcuckoolander",
+    "EdibleThemeNaming",
+    "ThirdPersonPerson"
+  ],
   "tropes_by_category": {}
 }

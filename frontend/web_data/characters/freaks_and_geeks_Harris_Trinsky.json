@@ -1,7 +1,17 @@
 {
   "name": "Harris Trinsky",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MentorArchetype",
+    "WiseBeyondTheirYears",
+    "DungeonMaster",
+    "ZenSurvivor",
+    "NerdsAreSexy",
+    "TheSmartGuy",
+    "OlderAndWiser",
+    "AllPowerfulBystander",
+    "PleasePutSomeClothesOn"
+  ],
   "tropes_by_category": {}
 }

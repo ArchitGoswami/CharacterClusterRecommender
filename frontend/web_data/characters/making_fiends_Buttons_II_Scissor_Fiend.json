@@ -1,7 +1,13 @@
 {
   "name": "Buttons II (Scissor Fiend)",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DarkIsNotEvil",
+    "FeatheredFiend",
+    "Pun",
+    "BadPowersGoodPeople",
+    "PreciousPuppy"
+  ],
   "tropes_by_category": {}
 }

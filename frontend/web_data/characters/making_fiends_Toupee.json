@@ -1,7 +1,17 @@
 {
   "name": "Toupee",
   "show": "Making Fiends",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SuperNotDrowningSkills",
+    "Expy",
+    "SubvertedTrope",
+    "DisneyVillainDeath",
+    "CanonForeigner",
+    "DealWithTheDevil",
+    "KarmaHoudini",
+    "ManipulativeBastard",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

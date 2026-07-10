@@ -1,7 +1,13 @@
 {
   "name": "Ainsley Whitly",
   "show": "Prodigal Son",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "IntrepidReporter",
+    "ItRunsInTheFamily",
+    "FriendInThePress",
+    "DeconstructedTrope",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

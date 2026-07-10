@@ -1,7 +1,14 @@
 {
   "name": "Nicky and Alex Katsopolis",
   "show": "Fuller House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Fratbro",
+    "TheGhost",
+    "ClosetSublet",
+    "ManChild",
+    "TheDitz",
+    "TheCameo"
+  ],
   "tropes_by_category": {}
 }

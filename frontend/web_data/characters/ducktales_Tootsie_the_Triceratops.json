@@ -1,7 +1,14 @@
 {
   "name": "Tootsie the Triceratops",
   "show": "DuckTales",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigFriendlyDog",
+    "AllAnimalsAreDogs",
+    "RealLife",
+    "TimeTravel",
+    "AnachronismStew",
+    "TimeTravelersDinosaur"
+  ],
   "tropes_by_category": {}
 }

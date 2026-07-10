@@ -1,7 +1,21 @@
 {
   "name": "Richard \"Bingo\" Little",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "Catchphrase",
+    "Jerkass",
+    "InLoveWithLove",
+    "NeverMyFault",
+    "SerialRomeo",
+    "HappilyMarried",
+    "TheGamblingAddict",
+    "UpperClassTwit",
+    "SickeninglySweethearts",
+    "TakingAdvantageOfGenerosity",
+    "VitriolicBestBuds",
+    "ItsAllAboutMe",
+    "BreakoutCharacter"
+  ],
   "tropes_by_category": {}
 }

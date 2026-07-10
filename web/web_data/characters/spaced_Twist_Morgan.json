@@ -1,7 +1,20 @@
 {
   "name": "Twist Morgan",
   "show": "Spaced",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ThePiratesWhoDontDoAnything",
+    "AlphaBitch",
+    "ComplimentBackfire",
+    "DumbBlonde",
+    "BackhandedCompliment",
+    "FagHag",
+    "TheFashionista",
+    "LovableAlphaBitch",
+    "TomboyAndGirlyGirl",
+    "DemotedToExtra",
+    "InsistentTerminology",
+    "SheCleansUpNicely"
+  ],
   "tropes_by_category": {}
 }

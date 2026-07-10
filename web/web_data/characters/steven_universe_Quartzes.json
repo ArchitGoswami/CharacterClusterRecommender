@@ -1,7 +1,14 @@
 {
   "name": "Quartzes",
   "show": "Steven Universe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MusclesAreMeaningful",
+    "TheGhost",
+    "HeroicBuild",
+    "BigFun",
+    "SuperSoldier",
+    "WildHair"
+  ],
   "tropes_by_category": {}
 }

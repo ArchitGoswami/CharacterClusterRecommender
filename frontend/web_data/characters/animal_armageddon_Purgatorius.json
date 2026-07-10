@@ -1,7 +1,10 @@
 {
   "name": "Purgatorius",
   "show": "Animal Armageddon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "MeekMesozoicMammal",
+    "SoleSurvivor"
+  ],
   "tropes_by_category": {}
 }

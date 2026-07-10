@@ -1,7 +1,18 @@
 {
   "name": "Avery Barkley",
   "show": "Nashville",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "OddFriendship",
+    "TheRival",
+    "OldMaid",
+    "TheAce",
+    "TookALevelInKindness",
+    "LongHairedPrettyBoy",
+    "AmicableExes",
+    "PapaWolf",
+    "SmugSnake",
+    "CastingCouch"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Mantis",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "IJustWantToBeSpecial",
+    "TooKinkyToTorture",
+    "ButtMonkey",
+    "NoCelebritiesWereHarmed"
+  ],
   "tropes_by_category": {}
 }

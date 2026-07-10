@@ -1,7 +1,14 @@
 {
   "name": "Gordon Dean",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigBad",
+    "ManipulativeBastard",
+    "BigBadWannabe",
+    "BadBoss",
+    "TheStarscream",
+    "MindRape"
+  ],
   "tropes_by_category": {}
 }

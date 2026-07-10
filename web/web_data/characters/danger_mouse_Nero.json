@@ -1,7 +1,12 @@
 {
   "name": "Nero",
   "show": "Danger Mouse",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DemotedToExtra",
+    "RightHandCat",
+    "RidiculouslyCuteCritter",
+    "ADayInTheLimelight"
+  ],
   "tropes_by_category": {}
 }

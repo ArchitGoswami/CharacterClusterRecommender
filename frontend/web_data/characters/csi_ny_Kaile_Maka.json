@@ -1,7 +1,10 @@
 {
   "name": "Kaile Maka",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RememberTheNewGuy",
+    "WhatHappenedToTheMouse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,16 @@
 {
   "name": "Yukito",
   "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OfficialCouple",
+    "Seers",
+    "ChildhoodFriendRomance",
+    "ReligionIsMagic",
+    "PsychicPowers",
+    "MagicStaff",
+    "AlternateSelf",
+    "HighPriest"
+  ],
   "tropes_by_category": {}
 }

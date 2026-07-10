@@ -1,7 +1,16 @@
 {
   "name": "Natasha",
   "show": "Mom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "SuperGullible",
+    "Jerkass",
+    "NewJobEpisode",
+    "ProperlyParanoid",
+    "PutOnABus",
+    "TookALevelInKindness",
+    "CastingCouch",
+    "IOweYouMyLife"
+  ],
   "tropes_by_category": {}
 }

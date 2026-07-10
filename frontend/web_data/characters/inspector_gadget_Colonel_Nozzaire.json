@@ -1,7 +1,14 @@
 {
   "name": "Colonel Nozzaire",
   "show": "Inspector Gadget",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "CulturedWarrior",
+    "SequelNonEntity",
+    "TurnTheOtherCheek",
+    "KickedUpstairs",
+    "FrenchJerk"
+  ],
   "tropes_by_category": {}
 }

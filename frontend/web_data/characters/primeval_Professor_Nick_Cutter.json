@@ -1,7 +1,26 @@
 {
   "name": "Professor Nick Cutter",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "DeadpanSnarker",
+    "BatmanGrabsAGun",
+    "HeroicSacrifice",
+    "JerkWithAHeartOfGold",
+    "KilledOffForReal",
+    "BraveScot",
+    "ShellShockedVeteran",
+    "BerserkButton",
+    "CartwrightCurse",
+    "BadassBookworm",
+    "BunnyEarsLawyer",
+    "HonorBeforeReason",
+    "AntiHero",
+    "FatalFlaw",
+    "MyGodWhatHaveIDone",
+    "PermaStubble",
+    "TeamDad",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

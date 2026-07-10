@@ -1,7 +1,22 @@
 {
   "name": "Dr. Nathan Stark",
   "show": "Eureka",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "HeroicSacrifice",
+    "KilledOffForReal",
+    "TheSmartGuy",
+    "TheRival",
+    "MorallyAmbiguousDoctorate",
+    "MadScientist",
+    "InsufferableGenius",
+    "GoneHorriblyRight",
+    "MarriedToTheJob",
+    "BigBrotherWorship",
+    "ForScience",
+    "MeaningfulName",
+    "LoveTriangle",
+    "VitriolicBestBuds"
+  ],
   "tropes_by_category": {}
 }

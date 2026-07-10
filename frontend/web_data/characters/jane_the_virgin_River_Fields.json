@@ -1,7 +1,21 @@
 {
   "name": "River Fields",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BigOlEyebrows",
+    "Fingore",
+    "NotSoAboveItAll",
+    "WhoNamesTheirKidDude",
+    "WomanScorned",
+    "AdamWesting",
+    "SoapboxSadie",
+    "NoBrows",
+    "SerialSpouse",
+    "ItsAllAboutMe",
+    "IJustWantToBeLoved",
+    "ButtMonkey",
+    "FamilyThemeNaming"
+  ],
   "tropes_by_category": {}
 }

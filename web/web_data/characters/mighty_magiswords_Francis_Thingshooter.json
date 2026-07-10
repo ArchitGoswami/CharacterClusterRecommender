@@ -1,7 +1,12 @@
 {
   "name": "Francis Thingshooter",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "ReasonableAuthorityFigure",
+    "Catchphrase",
+    "PunnyName"
+  ],
   "tropes_by_category": {}
 }

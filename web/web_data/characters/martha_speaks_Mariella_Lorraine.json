@@ -1,7 +1,19 @@
 {
   "name": "Mariella Lorraine",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GratuitousSpanish",
+    "BirthdayEpisode",
+    "SupremeChef",
+    "NatureLover",
+    "HappilyMarried",
+    "CompressedVice",
+    "InvisibleParents",
+    "RaceLift",
+    "InSeriesNickname",
+    "NiceGirl",
+    "SharedFamilyQuirks"
+  ],
   "tropes_by_category": {}
 }

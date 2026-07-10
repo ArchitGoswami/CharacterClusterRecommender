@@ -1,7 +1,16 @@
 {
   "name": "TJ Botsford",
   "show": "WordGirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "PublicHaterPrivateFan",
+    "AnnoyingYoungerSibling",
+    "TheUnfavorite",
+    "UndyingLoyalty",
+    "LovesMyAlterEgo",
+    "VocalDissonance",
+    "Fanboy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,18 @@
 {
   "name": "Hoag",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Jerkass",
+    "AndIMustScream",
+    "InTheBlood",
+    "MyGodWhatHaveIDone",
+    "HiddenDepths",
+    "MadeASlave",
+    "ObstructiveBureaucrat",
+    "WouldHurtAChild",
+    "PapaWolf",
+    "JerkassHasAPoint"
+  ],
   "tropes_by_category": {}
 }

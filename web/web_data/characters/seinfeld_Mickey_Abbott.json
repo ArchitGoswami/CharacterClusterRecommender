@@ -1,7 +1,14 @@
 {
   "name": "Mickey Abbott",
   "show": "Seinfeld",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "CategoryTraitor",
+    "BerserkButton",
+    "VitriolicBestBuds",
+    "TheNapoleon",
+    "BigGuyLittleGuy",
+    "SerialSpouse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Niobe",
   "show": "Rome",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "AccidentalAdultery",
+    "Housewife",
+    "NouveauRiche",
+    "TheGloriousWarOfSisterlyRivalry",
+    "ArrangedMarriage",
+    "GorgeousPeriodDress",
+    "ViolentlyProtectiveGirlfriend",
+    "AloofBigBrother",
+    "MeaningfulName",
+    "OneSteveLimit",
+    "MamasBabyPapasMaybe",
+    "DrivenToSuicide",
+    "MarriedTooYoung",
+    "IChooseToStay"
+  ],
   "tropes_by_category": {}
 }

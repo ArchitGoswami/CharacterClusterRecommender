@@ -1,7 +1,14 @@
 {
   "name": "Martens",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "DeadpanSnarker",
+    "ReasonableAuthorityFigure",
+    "TokenGoodTeammate",
+    "PunchClockVillain",
+    "ObstructiveBureaucrat",
+    "InternalAffairs"
+  ],
   "tropes_by_category": {}
 }

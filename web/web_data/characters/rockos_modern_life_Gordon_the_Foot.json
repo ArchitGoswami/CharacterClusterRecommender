@@ -1,7 +1,12 @@
 {
   "name": "Gordon the Foot",
   "show": "Rocko's Modern Life",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "ThoseTwoGuys",
+    "NoCelebritiesWereHarmed",
+    "Catchphrase",
+    "RunningGag"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Steppenwolf",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "FourStarBadass",
+    "PromotedToLoveInterest",
+    "InformedAbility",
+    "BigBadWannabe",
+    "RelatedInTheAdaptation",
+    "TheStarscream",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

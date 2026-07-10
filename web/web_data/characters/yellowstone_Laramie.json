@@ -1,7 +1,14 @@
 {
   "name": "Laramie",
   "show": "Yellowstone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MayDecemberRomance",
+    "WorstAid",
+    "LoveTriangle",
+    "TheLadette",
+    "ExactWords",
+    "TheArtifact"
+  ],
   "tropes_by_category": {}
 }

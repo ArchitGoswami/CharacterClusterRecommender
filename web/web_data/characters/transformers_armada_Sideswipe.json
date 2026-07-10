@@ -1,7 +1,17 @@
 {
   "name": "Sideswipe",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "MythologyGag",
+    "DistressedDude",
+    "WordOfGod",
+    "HeroWorshipper",
+    "GeniusDitz",
+    "InNameOnly",
+    "DubNameChange",
+    "TheSmartGuy",
+    "NewMeat"
+  ],
   "tropes_by_category": {}
 }

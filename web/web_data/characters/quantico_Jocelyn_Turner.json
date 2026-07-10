@@ -1,7 +1,13 @@
 {
   "name": "Jocelyn Turner",
   "show": "Quantico",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HandicappedBadass",
+    "ItsPersonal",
+    "DontYouDarePityMe",
+    "MyGodWhatHaveIDone",
+    "SmugSuper"
+  ],
   "tropes_by_category": {}
 }

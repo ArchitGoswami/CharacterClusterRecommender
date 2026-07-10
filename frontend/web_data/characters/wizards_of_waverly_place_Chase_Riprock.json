@@ -1,7 +1,10 @@
 {
   "name": "Chase Riprock",
   "show": "Wizards of Waverly Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RomanticFalseLead",
+    "BadassNormal"
+  ],
   "tropes_by_category": {}
 }

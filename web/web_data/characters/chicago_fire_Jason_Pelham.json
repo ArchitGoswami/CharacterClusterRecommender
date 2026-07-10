@@ -1,7 +1,10 @@
 {
   "name": "Jason Pelham",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "MysteriousPast",
+    "PutOnABus"
+  ],
   "tropes_by_category": {}
 }

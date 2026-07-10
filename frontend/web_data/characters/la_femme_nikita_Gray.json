@@ -1,7 +1,13 @@
 {
   "name": "Gray",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TemporaryLoveInterest",
+    "NiceGuy",
+    "InnocentBystander",
+    "PutOnABus",
+    "DemotedToExtra"
+  ],
   "tropes_by_category": {}
 }

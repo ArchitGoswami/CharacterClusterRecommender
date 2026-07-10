@@ -1,7 +1,14 @@
 {
   "name": "Lucien Bolok",
   "show": "Space Goofs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Catchphrase",
+    "EarthShatteringKaboom",
+    "DeathByAdaptation",
+    "AnArmAndALeg",
+    "TheDragon",
+    "YourMom"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Jeremiah Trottman",
   "show": "Zoey 101",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "SchoolNewspaperNewsHound",
+    "KidAnova"
+  ],
   "tropes_by_category": {}
 }

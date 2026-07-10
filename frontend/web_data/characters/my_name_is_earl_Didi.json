@@ -1,7 +1,24 @@
 {
   "name": "Didi",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "EasilyForgiven",
+    "HeelFaceTurn",
+    "FieryRedhead",
+    "Yandere",
+    "RunningGag",
+    "BerserkButton",
+    "HandicappedBadass",
+    "AxCrazy",
+    "MemeticMutation",
+    "NotStayingForBreakfast",
+    "InformedFlaw",
+    "MinorFlawMajorBreakup",
+    "MetaCasting",
+    "RunningGagged",
+    "AgonyOfTheFeet",
+    "IfYouEverDoAnythingToHurtHer"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Major Sonia Sato",
   "show": "Earth 2",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ComicBookMoviesDontUseCodenames",
+    "MajorlyAwesome",
+    "BadassNormal"
+  ],
   "tropes_by_category": {}
 }

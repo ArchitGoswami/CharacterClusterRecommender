@@ -1,7 +1,10 @@
 {
   "name": "The Wave",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "RememberTheNewGuy",
+    "MakingASplash"
+  ],
   "tropes_by_category": {}
 }

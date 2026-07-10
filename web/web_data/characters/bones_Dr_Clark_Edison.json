@@ -1,7 +1,19 @@
 {
   "name": "Dr. Clark Edison",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "TooMuchInformation",
+    "BlackAndNerdy",
+    "MyGreatestFailure",
+    "ShipperOnDeck",
+    "NotSoAboveItAll",
+    "YouAreBetterThanYouThinkYouAre",
+    "StylisticSuck",
+    "NamedAfterSomeoneFamous",
+    "ShapedLikeItself",
+    "TheComicallySerious",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Plague Spawn",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "DoubleWeapon",
+    "PsychoProtoType",
+    "HumanoidAbomination",
+    "SkeletonsInTheCoatCloset",
+    "AxCrazy",
+    "SpikesOfVillainy",
+    "WingedHumanoid",
+    "FallenAngel",
+    "AncientEvil",
+    "HerosEvilPredecessor",
+    "RedAndBlackAndEvilAllOver",
+    "BornOfHeavenAndHell"
+  ],
   "tropes_by_category": {}
 }

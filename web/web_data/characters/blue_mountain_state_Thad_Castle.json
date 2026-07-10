@@ -1,7 +1,27 @@
 {
   "name": "Thad Castle",
   "show": "Blue Mountain State",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "ICallItVera",
+    "OnlyKnownByTheirNickname",
+    "EveryoneHasStandards",
+    "FreudianExcuse",
+    "JerkWithAHeartOfGold",
+    "BigBrotherInstinct",
+    "NoIndoorVoice",
+    "BunnyEarsLawyer",
+    "LargeAndInCharge",
+    "ScreamsLikeALittleGirl",
+    "SeriousBusiness",
+    "InsaneTrollLogic",
+    "MySisterIsOffLimits",
+    "LargeHam",
+    "Expy",
+    "MrFanservice",
+    "AxCrazy",
+    "PsychopathicManchild",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

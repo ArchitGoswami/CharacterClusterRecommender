@@ -1,7 +1,13 @@
 {
   "name": "Schoolhouse Rocky",
   "show": "Schoolhouse Rock!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheKlutz",
+    "ChestInsignia",
+    "SuperheroesWearTights",
+    "SuperheroesWearCapes",
+    "TransformationSequence"
+  ],
   "tropes_by_category": {}
 }

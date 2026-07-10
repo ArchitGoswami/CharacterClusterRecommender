@@ -1,7 +1,30 @@
 {
   "name": "Nell Jones",
   "show": "NCIS: Los Angeles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "AndTheAdventureContinues",
+    "NumberTwo",
+    "BelligerentSexualTension",
+    "Exposition",
+    "SubvertedTrope",
+    "GrandFinale",
+    "TheLadette",
+    "LampshadeHanging",
+    "DisarmDisassembleDestroy",
+    "SugarAndIcePersonality",
+    "TheBusCameBack",
+    "PutOnABus",
+    "TomboyAndGirlyGirl",
+    "BadassInDistress",
+    "YouAreInCommandNow",
+    "NeverBringAGunToAKnifeFight",
+    "HollywoodHacking",
+    "BewareTheNiceOnes",
+    "CharacterDevelopment",
+    "GirlyBruiser",
+    "UnresolvedSexualTension",
+    "Cincinnatus"
+  ],
   "tropes_by_category": {}
 }

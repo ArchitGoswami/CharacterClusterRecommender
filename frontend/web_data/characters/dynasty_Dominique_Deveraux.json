@@ -1,7 +1,25 @@
 {
   "name": "Dominique Deveraux",
   "show": "Dynasty",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "DeadpanSnarker",
+    "RagsToRiches",
+    "SnarkToSnarkCombat",
+    "YourSonAllAlong",
+    "LukeYouAreMyFather",
+    "TheRival",
+    "HalfSiblingAngst",
+    "NewOldFlame",
+    "PutOnABus",
+    "RichBitch",
+    "CatFight",
+    "AlliterativeName",
+    "CainAndAbel",
+    "TokenMinority",
+    "WhamLine",
+    "SassyBlackWoman",
+    "AwfulWeddedLife"
+  ],
   "tropes_by_category": {}
 }

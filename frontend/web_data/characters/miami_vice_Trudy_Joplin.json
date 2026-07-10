@@ -1,7 +1,30 @@
 {
   "name": "Trudy Joplin",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "BizarroEpisode",
+    "MsFanservice",
+    "BerserkButton",
+    "ActionFashionista",
+    "WhatTheHellHero",
+    "MindScrew",
+    "LetMeAtHim",
+    "MarriedToTheJob",
+    "ADayInTheLimelight",
+    "BeautyBreedsLaziness",
+    "StrappedToABomb",
+    "DirtyHarriet",
+    "MaleGaze",
+    "IfYoureSoEvilEatThisKitten",
+    "JustFriends",
+    "NoHoldsBarredBeatdown",
+    "AgonyOfTheFeet",
+    "SexForSolace",
+    "AffectionateNickname",
+    "CharacterDevelopment",
+    "GirlyBruiser",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

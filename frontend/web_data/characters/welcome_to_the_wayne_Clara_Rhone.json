@@ -1,7 +1,12 @@
 {
   "name": "Clara Rhone",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "MentorArchetype",
+    "CoolOldLady",
+    "ScaryLibrarian",
+    "NeverMessWithGranny"
+  ],
   "tropes_by_category": {}
 }

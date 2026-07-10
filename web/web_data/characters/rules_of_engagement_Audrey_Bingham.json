@@ -1,7 +1,18 @@
 {
   "name": "Audrey Bingham",
   "show": "Rules Of Engagement",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "FakePregnancy",
+    "MsFanservice",
+    "InformedAbility",
+    "RunningGag",
+    "MistakenForPregnant",
+    "HairOfGoldHeartOfGold",
+    "SoreLoser",
+    "LawOfInverseFertility",
+    "MyHovercraftIsFullOfEels",
+    "BuxomBeautyStandard"
+  ],
   "tropes_by_category": {}
 }

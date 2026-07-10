@@ -1,7 +1,10 @@
 {
   "name": "Haxx",
   "show": "Street Sharks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "BladeBelowTheShoulder",
+    "BewareMyStingerTail"
+  ],
   "tropes_by_category": {}
 }

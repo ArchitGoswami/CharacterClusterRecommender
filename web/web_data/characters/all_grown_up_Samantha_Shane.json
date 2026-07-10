@@ -1,7 +1,10 @@
 {
   "name": "Samantha Shane",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DroppedAfterThePilot",
+    "ExpositoryHairstyleChange"
+  ],
   "tropes_by_category": {}
 }

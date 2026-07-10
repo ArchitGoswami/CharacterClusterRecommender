@@ -1,7 +1,27 @@
 {
   "name": "Wickie",
   "show": "Girls5eva",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "AttentionWhore",
+    "Narcissist",
+    "InUniverse",
+    "ImmoralRealityShow",
+    "JerkWithAHeartOfGold",
+    "HarshTalentShowJudge",
+    "FallenOnHardTimesJob",
+    "PersonAsVerb",
+    "ItsAllAboutMe",
+    "SecretlyWealthy",
+    "HistoryWithCelebrity",
+    "BreakupBreakout",
+    "MockMillionaire",
+    "SmallNameBigEgo",
+    "ExactWords",
+    "LargeHam",
+    "TheDiva",
+    "RichesToRags",
+    "BadInfluencer"
+  ],
   "tropes_by_category": {}
 }

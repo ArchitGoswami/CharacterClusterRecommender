@@ -1,7 +1,11 @@
 {
   "name": "Big Brother",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "CatchPhrase",
+    "EvilHasABadSenseOfHumor",
+    "AntiHumor"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Blurr",
   "show": "Transformers: Armada",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "JerkWithAHeartOfGold",
+    "InNameOnly",
+    "AdaptationPersonalityChange",
+    "TookALevelInKindness",
+    "FlyingCar",
+    "DubNameChange",
+    "FantasticRacism",
+    "ColdSniper"
+  ],
   "tropes_by_category": {}
 }

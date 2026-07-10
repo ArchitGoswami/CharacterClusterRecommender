@@ -1,7 +1,22 @@
 {
   "name": "Sybil Fawlty",
   "show": "Fawlty Towers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "AnnoyingLaugh",
+    "OnlySaneWoman",
+    "Catchphrase",
+    "Jerkass",
+    "NotSoAboveItAll",
+    "TheTease",
+    "SexlessMarriage",
+    "BrilliantButLazy",
+    "HypocriticalHumor",
+    "Hypocrite",
+    "BeehiveHairdo",
+    "AwfulWeddedLife",
+    "HairTriggerTemper",
+    "GossipyHens"
+  ],
   "tropes_by_category": {}
 }

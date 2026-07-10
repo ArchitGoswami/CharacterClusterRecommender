@@ -1,7 +1,17 @@
 {
   "name": "Escobar Gallardo",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TattooedCrook",
+    "EnemyEatsYourLunch",
+    "EvenEvilHasStandards",
+    "CoitusUninterruptus",
+    "YouWouldntShootMe",
+    "VillainsNeverLie",
+    "RealLife",
+    "The80s",
+    "PedophiliaIsASpecialKindOfEvil"
+  ],
   "tropes_by_category": {}
 }

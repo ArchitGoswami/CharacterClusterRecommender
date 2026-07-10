@@ -1,7 +1,13 @@
 {
   "name": "Mont Blanc",
   "show": "Astro Boy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "GentleGiant",
+    "NatureLovingRobot",
+    "CurbStompBattle",
+    "DemotedToExtra",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

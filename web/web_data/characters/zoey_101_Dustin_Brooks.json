@@ -1,7 +1,24 @@
 {
   "name": "Dustin Brooks",
   "show": "Zoey 101",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "AdvertisedExtra",
+    "AloneAmongTheCouples",
+    "BookSmart",
+    "AnnoyingYoungerSibling",
+    "MasculineGirlFeminineBoy",
+    "BigSisterWorship",
+    "TagalongKid",
+    "TookALevelInJerkass",
+    "ComicallyMissingThePoint",
+    "TheLoad",
+    "RomanticFalseLead",
+    "ChildProdigy",
+    "OutOfFocus",
+    "WiseBeyondHisYears",
+    "BrattyHalfPint",
+    "TheArtifact"
+  ],
   "tropes_by_category": {}
 }

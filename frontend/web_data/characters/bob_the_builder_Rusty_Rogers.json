@@ -1,7 +1,12 @@
 {
   "name": "Rusty Rogers",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "Cowboy",
+    "MeaningfulName",
+    "AlliterativeName",
+    "MonochromePast"
+  ],
   "tropes_by_category": {}
 }

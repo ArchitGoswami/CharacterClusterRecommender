@@ -1,7 +1,13 @@
 {
   "name": "Alan Wells",
   "show": "Highlander: The Series",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "FairCop",
+    "NiceGuy",
+    "HappilyMarried",
+    "SacrificialLion",
+    "PoorCommunicationKills"
+  ],
   "tropes_by_category": {}
 }

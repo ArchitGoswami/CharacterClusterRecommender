@@ -1,7 +1,13 @@
 {
   "name": "The Ghosts",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MacheteMayhem",
+    "InTheHood",
+    "BatterUp",
+    "MeaningfulName",
+    "AmbiguousGender"
+  ],
   "tropes_by_category": {}
 }

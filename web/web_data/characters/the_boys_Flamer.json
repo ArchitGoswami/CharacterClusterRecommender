@@ -1,7 +1,11 @@
 {
   "name": "Flamer",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "StraightGay",
+    "BurnScarsBurningPowers",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

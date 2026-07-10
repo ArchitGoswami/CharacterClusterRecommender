@@ -1,7 +1,16 @@
 {
   "name": "Countess Josefina",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "HighClassCallGirl",
+    "DecompositeCharacter",
+    "TomboyAndGirlyGirl",
+    "SingleWomanSeeksGoodMan",
+    "ShirtlessScene",
+    "EatingTheEyeCandy",
+    "ImpoverishedPatrician",
+    "ActuallyPrettyFunny"
+  ],
   "tropes_by_category": {}
 }

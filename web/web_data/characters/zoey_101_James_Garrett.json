@@ -1,7 +1,20 @@
 {
   "name": "James Garrett",
   "show": "Zoey 101",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "ChickMagnet",
+    "AloneAmongTheCouples",
+    "IWantMyBelovedToBeHappy",
+    "NiceGuy",
+    "PrettyBoy",
+    "SuspiciouslySimilarSubstitute",
+    "TagalongKid",
+    "NewTransferStudent",
+    "RomanticFalseLead",
+    "TheGenericGuy",
+    "SatelliteLoveInterest",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

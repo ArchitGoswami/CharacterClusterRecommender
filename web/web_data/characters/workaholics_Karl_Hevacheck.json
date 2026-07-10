@@ -1,7 +1,19 @@
 {
   "name": "Karl Hevacheck",
   "show": "Workaholics",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SitcomArchNemesis",
+    "MommasBoy",
+    "NiceGuy",
+    "PrettyBoy",
+    "AcCENTUponTheWrongSylLABle",
+    "PrankGoneTooFar",
+    "ExtremeDoormat",
+    "StinkSnub",
+    "DeconstructedTrope",
+    "ActorInspiredElement",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

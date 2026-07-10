@@ -1,7 +1,17 @@
 {
   "name": "Lux Cassidy",
   "show": "Life Unexpected",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "HollywoodGenetics",
+    "Inverted",
+    "BrattyTeenageDaughter",
+    "HappilyAdopted",
+    "IdiotBall",
+    "MeaningfulName",
+    "Lampshades",
+    "BettyAndVeronica",
+    "WholePlotReference"
+  ],
   "tropes_by_category": {}
 }

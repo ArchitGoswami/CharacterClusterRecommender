@@ -1,7 +1,22 @@
 {
   "name": "Cassandra Ovechkin",
   "show": "Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DoubleReverseQuadrupleAgent",
+    "ActionGirl",
+    "FemmeFataleSpy",
+    "WorkingWithTheEx",
+    "TheMole",
+    "ActionMom",
+    "PutOnABus",
+    "HoneyTrap",
+    "MamaBear",
+    "FourthDateMarriage",
+    "DeathFakedForYou",
+    "AmicableExes",
+    "JumpedAtTheCall",
+    "CodeName"
+  ],
   "tropes_by_category": {}
 }

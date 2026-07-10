@@ -1,7 +1,19 @@
 {
   "name": "Tres Iqus",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RedOniBlueOni",
+    "Expy",
+    "MoreDakka",
+    "NoSocialSkills",
+    "TinMan",
+    "BodyguardCrush",
+    "TheSpock",
+    "UndyingLoyalty",
+    "ReligiousRobot",
+    "MachineMonotone",
+    "FakeDefector"
+  ],
   "tropes_by_category": {}
 }

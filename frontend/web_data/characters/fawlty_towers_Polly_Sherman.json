@@ -1,7 +1,21 @@
 {
   "name": "Polly Sherman",
   "show": "Fawlty Towers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "DeadpanSnarker",
+    "PressGanged",
+    "HypercompetentSidekick",
+    "OnlySaneEmployee",
+    "MsFanservice",
+    "RenaissanceMan",
+    "SourPrude",
+    "HiddenDepths",
+    "BewareTheNiceOnes",
+    "JackOfAllTrades",
+    "OnlySaneMan",
+    "IKnowKarate",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

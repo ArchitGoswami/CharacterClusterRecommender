@@ -1,7 +1,16 @@
 {
   "name": "Lynch",
   "show": "Home Movies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "OlderThanTheyLook",
+    "ReasonableAuthorityFigure",
+    "JustifiedTrope",
+    "VitriolicBestBuds",
+    "KindheartedCatLover",
+    "TheStoic",
+    "LastNameBasis",
+    "CrazyCatLady"
+  ],
   "tropes_by_category": {}
 }

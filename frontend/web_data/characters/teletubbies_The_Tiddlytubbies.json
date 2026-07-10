@@ -1,7 +1,21 @@
 {
   "name": "The Tiddlytubbies",
   "show": "Teletubbies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheDividual",
+    "TheLeader",
+    "SuperSpeed",
+    "RainbowMotif",
+    "ThemeSong",
+    "IconicItem",
+    "StillTheLeader",
+    "GenderEqualEnsemble",
+    "PokemonSpeak",
+    "ColourCodedCharacters",
+    "AmbiguouslyBrown",
+    "PinkGirlBlueBoy",
+    "Sleepyhead"
+  ],
   "tropes_by_category": {}
 }

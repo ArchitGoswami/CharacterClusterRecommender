@@ -1,7 +1,19 @@
 {
   "name": "Sherman and Doris",
   "show": "The Cuphead Show",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "GentleGiant",
+    "TheButcher",
+    "ClingyJealousGirl",
+    "HugeGuyTinyGirl",
+    "CanonForeigner",
+    "RecurringExtra",
+    "PerfectlyCromulentWord",
+    "NoIndoorVoice",
+    "HenpeckedHusband",
+    "MomentKiller",
+    "Workaholic"
+  ],
   "tropes_by_category": {}
 }

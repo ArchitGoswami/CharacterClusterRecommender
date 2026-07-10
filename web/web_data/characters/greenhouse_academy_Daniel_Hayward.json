@@ -1,7 +1,12 @@
 {
   "name": "Daniel Hayward",
   "show": "Greenhouse Academy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "IWantMyBelovedToBeHappy",
+    "JerkJock",
+    "DisappearedDad",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,27 @@
 {
   "name": "Blake Gripling",
   "show": "As Told by Ginger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "SitcomArchNemesis",
+    "FoolishSiblingResponsibleSibling",
+    "EmbarrassingMiddleName",
+    "OlderThanTheyLook",
+    "UpperClassTwit",
+    "SesquipedalianLoquaciousness",
+    "MaliciousMisnaming",
+    "ParentalSubstitute",
+    "SpoiledBrat",
+    "EarlyInstallmentCharacterDesignDifference",
+    "AmbiguouslyGay",
+    "LonelyRichKid",
+    "MommasBoy",
+    "NoSocialSkills",
+    "AnnoyingYoungerSibling",
+    "TheTonsillitisEpisode",
+    "ThePigpen",
+    "GeniusDitz",
+    "BitchInSheepsClothing"
+  ],
   "tropes_by_category": {}
 }

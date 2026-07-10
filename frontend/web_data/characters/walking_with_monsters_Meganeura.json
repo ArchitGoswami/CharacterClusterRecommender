@@ -1,7 +1,13 @@
 {
   "name": "Meganeura",
   "show": "Walking with Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "DreadfulDragonfly",
+    "GiantFlyer",
+    "AlwaysABiggerFish",
+    "DeathFromAbove",
+    "MisplacedWildlife"
+  ],
   "tropes_by_category": {}
 }

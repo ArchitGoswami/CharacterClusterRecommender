@@ -1,7 +1,11 @@
 {
   "name": "Interim District Attorney Ronald Miller",
   "show": "How to get away with murder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "PoorCommunicationKills",
+    "Subverted",
+    "AmoralAttorney"
+  ],
   "tropes_by_category": {}
 }

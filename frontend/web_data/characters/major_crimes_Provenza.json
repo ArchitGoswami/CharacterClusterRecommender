@@ -1,7 +1,27 @@
 {
   "name": "Provenza",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "BerserkButton",
+    "NumberTwo",
+    "DeadpanSnarker",
+    "JerkWithAHeartOfGold",
+    "NobleBigotWithABadge",
+    "UnsettlingGenderReveal",
+    "Jerkass",
+    "DuctTapeForEverything",
+    "PreemptiveShutUp",
+    "IconicItem",
+    "MarriedToTheJob",
+    "VitriolicBestBuds",
+    "WhereEverybodyKnowsYourFlame",
+    "EveryoneCallsHimBarkeep",
+    "IntergenerationalFriendship",
+    "SeenItAll",
+    "StopSayingThat",
+    "EmbarrassingFirstName",
+    "HeterosexualLifePartners"
+  ],
   "tropes_by_category": {}
 }

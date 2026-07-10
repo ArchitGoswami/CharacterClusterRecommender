@@ -3,10 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Character Cluster Recommender</title>
+    <title>Character Cluster Recommender | Archit Goswami</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Theme Toggle -->
+    <div class="theme-toggle-container">
+        <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
+            <span id="themeIcon">🌙</span>
+        </button>
+    </div>
+
     <div class="container">
         <header>
             <h1>🎭 Character Cluster Recommender</h1>
@@ -18,19 +25,18 @@
                 <input 
                     type="text" 
                     id="searchInput" 
-                    placeholder="Search by character name..." 
+                    placeholder="Search for characters or shows..." 
                     autocomplete="off"
                 >
                 <button id="searchButton">Search</button>
             </div>
-            <button id="modeToggle" class="mode-toggle">📺 Switch to Show Search</button>
         </div>
 
         <div id="results"></div>
     </div>
 
     <footer>
-        <p>Data sourced from TV Tropes | Built by Archit Goswami</p>
+        <p>Data sourced from TV Tropes | Built by <a href="https://architgoswami.github.io" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Archit Goswami</a></p>
     </footer>
 
     <script src="app.js"></script>

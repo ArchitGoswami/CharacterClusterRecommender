@@ -1,7 +1,22 @@
 {
   "name": "Guppy Gibson",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "Catchphrase",
+    "PrecociousCrush",
+    "SixthRanger",
+    "WhoNamesTheirKidDude",
+    "EarlyBirdCameo",
+    "BigDamnHeroes",
+    "BigBrotherWorship",
+    "AlliterativeName",
+    "AdorablyPrecociousChild",
+    "DirtyKid",
+    "ExtremeOmnivore",
+    "NakedPeopleAreFunny",
+    "Cloudcuckoolander",
+    "UncannyFamilyResemblance"
+  ],
   "tropes_by_category": {}
 }

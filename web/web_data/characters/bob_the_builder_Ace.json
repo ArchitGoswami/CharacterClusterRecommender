@@ -1,7 +1,14 @@
 {
   "name": "Ace",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ShowWithinAShow",
+    "Catchphrase",
+    "AbsurdPhobia",
+    "ResolvedNoodleIncident",
+    "NoodleIncident",
+    "ImageSong"
+  ],
   "tropes_by_category": {}
 }

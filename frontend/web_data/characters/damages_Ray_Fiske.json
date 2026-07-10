@@ -1,7 +1,26 @@
 {
   "name": "Ray Fiske",
   "show": "Damages",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "BrokenPedestal",
+    "LoveMakesYouCrazy",
+    "HeroesLoveDogs",
+    "SacrificialLion",
+    "IfItsYouItsOkay",
+    "GayngstInducedSuicide",
+    "SouthernGentleman",
+    "WorthyOpponent",
+    "AteHisGun",
+    "ArmoredClosetGay",
+    "IncompatibleOrientation",
+    "AmoralAttorney",
+    "StraightGay",
+    "FriendlyEnemy",
+    "AntiVillain",
+    "FaceHeelTurn",
+    "EvenEvilHasStandards",
+    "OnlySaneMan"
+  ],
   "tropes_by_category": {}
 }

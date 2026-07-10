@@ -1,7 +1,14 @@
 {
   "name": "Billy Raven",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrokenPedestal",
+    "ChuckCunninghamSyndrome",
+    "FamilyMan",
+    "SatelliteCharacter",
+    "HeroicSelfDeprecation",
+    "AllOfTheOtherReindeer"
+  ],
   "tropes_by_category": {}
 }

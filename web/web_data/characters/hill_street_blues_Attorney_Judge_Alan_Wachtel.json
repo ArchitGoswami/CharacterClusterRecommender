@@ -1,7 +1,9 @@
 {
   "name": "Attorney/Judge Alan Wachtel",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "WholesomeCrossdresser"
+  ],
   "tropes_by_category": {}
 }

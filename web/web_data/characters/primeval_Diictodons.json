@@ -1,7 +1,12 @@
 {
   "name": "Diictodons",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "UglyCute",
+    "UnwittingInstigatorOfDoom",
+    "FastTunneling",
+    "CutenessProximity"
+  ],
   "tropes_by_category": {}
 }

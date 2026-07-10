@@ -1,7 +1,13 @@
 {
   "name": "TroyMcKayand RoyMcKay",
   "show": "Euphoria",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ChuckCunninghamSyndrome",
+    "ThemeTwinNaming",
+    "AnnoyingYoungerSibling",
+    "TheStoner",
+    "AlwaysIdenticalTwins"
+  ],
   "tropes_by_category": {}
 }

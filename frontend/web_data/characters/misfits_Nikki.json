@@ -1,7 +1,15 @@
 {
   "name": "Nikki",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "IJustWantToBeNormal",
+    "KilledOffForReal",
+    "BlessedWithSuck",
+    "PowerIncontinence",
+    "DefrostingIceQueen",
+    "ForgottenFallenFriend",
+    "ArsonMurderAndJaywalking"
+  ],
   "tropes_by_category": {}
 }

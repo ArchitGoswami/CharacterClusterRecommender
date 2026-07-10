@@ -1,7 +1,12 @@
 {
   "name": "Melodie",
   "show": "Nate is Late",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "RunningGag",
+    "SouthernBelle",
+    "GagNose",
+    "AmbiguouslyHuman"
+  ],
   "tropes_by_category": {}
 }

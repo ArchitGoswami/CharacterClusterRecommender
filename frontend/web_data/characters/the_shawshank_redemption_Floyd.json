@@ -1,7 +1,16 @@
 {
   "name": "Floyd",
   "show": "The Shawshank Redemption",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "DeadpanSnarker",
+    "TheBigGuy",
+    "OralFixation",
+    "OOCIsSeriousBusiness",
+    "NumberTwo",
+    "HiddenDepths",
+    "TheStoic",
+    "PerpetualFrowner"
+  ],
   "tropes_by_category": {}
 }

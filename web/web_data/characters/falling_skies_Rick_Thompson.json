@@ -1,7 +1,12 @@
 {
   "name": "Rick Thompson",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "TakingTheBullet",
+    "TheBusCameBack",
+    "PutOnABus",
+    "HeelFaceDoorSlam"
+  ],
   "tropes_by_category": {}
 }

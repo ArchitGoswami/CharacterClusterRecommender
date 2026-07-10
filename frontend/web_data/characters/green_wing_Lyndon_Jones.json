@@ -1,7 +1,18 @@
 {
   "name": "Lyndon Jones",
   "show": "Green Wing",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ChickMagnet",
+    "DeadpanSnarker",
+    "BlackAndNerdy",
+    "OppositesAttract",
+    "HeteroSexualLifePartners",
+    "TheScapegoat",
+    "BewareTheNiceOnes",
+    "TokenMinority",
+    "OnlySaneMan",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

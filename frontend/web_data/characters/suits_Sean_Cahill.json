@@ -1,7 +1,12 @@
 {
   "name": "Sean Cahill",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AtLeastIAdmitIt",
+    "ReasonableAuthorityFigure",
+    "InspectorJavert",
+    "BigGood"
+  ],
   "tropes_by_category": {}
 }

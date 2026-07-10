@@ -1,7 +1,19 @@
 {
   "name": "Richard Spitz",
   "show": "Braceface",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ParentWithNewParamour",
+    "AngerBornOfWorry",
+    "VisitByDivorcedDad",
+    "AmazinglyEmbarrassingParents",
+    "TheRockStar",
+    "YoureNotMyFather",
+    "WhenYouComingHomeDad",
+    "GoodParents",
+    "AmicableExes",
+    "PapaWolf",
+    "ParentsAsPeople"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Morrie Kessler",
   "show": "Goodfellas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "Retirony",
+    "SurprisinglySuddenDeath",
+    "TooDumbToLive",
+    "KilledMidSentence",
+    "FiveSecondForeshadowing",
+    "InTheBack",
+    "Irony",
+    "BullyingADragon",
+    "MotorMouth",
+    "TheFriendNobodyLikes",
+    "HaveYouToldAnyoneElse",
+    "AdaptationalNameChange",
+    "HopeSpot",
+    "ChekhovsGun",
+    "MoralityPet",
+    "DodgyToupee"
+  ],
   "tropes_by_category": {}
 }

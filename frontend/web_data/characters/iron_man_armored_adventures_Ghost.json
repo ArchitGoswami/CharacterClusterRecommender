@@ -1,7 +1,31 @@
 {
   "name": "Ghost",
   "show": "Iron Man: Armored Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "Intangibility",
+    "MonsterOfTheWeek",
+    "OnlyInItForTheMoney",
+    "InTheHood",
+    "PunchClockVillain",
+    "Determinator",
+    "CrazyPrepared",
+    "InvisibilityCloak",
+    "DeadpanSnarker",
+    "SubvertedTrope",
+    "ScrewThisImOuttaHere",
+    "TheBadGuyWins",
+    "CombatPragmatist",
+    "InvincibleVillain",
+    "AdaptationalNiceGuy",
+    "SecretKeeper",
+    "KarmaHoudini",
+    "ChronicHeroSyndrome",
+    "ManipulativeBastard",
+    "AdaptationalBadass",
+    "AxCrazy",
+    "MagnificentBastard",
+    "VillainBall"
+  ],
   "tropes_by_category": {}
 }

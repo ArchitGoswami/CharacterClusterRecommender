@@ -1,7 +1,10 @@
 {
   "name": "James Hobert",
   "show": "Spin City",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "Flanderization",
+    "ChuckCunninghamSyndrome"
+  ],
   "tropes_by_category": {}
 }

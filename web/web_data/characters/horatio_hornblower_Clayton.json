@@ -1,7 +1,22 @@
 {
   "name": "Clayton",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "PercussivePrevention",
+    "NiceGuy",
+    "SorryThatImDying",
+    "TitleDrop",
+    "PluckyMiddie",
+    "LiquidCourage",
+    "ForgottenFallenFriend",
+    "BloodFromTheMouth",
+    "MoreExpendableThanYou",
+    "DeathIsDramatic",
+    "HopeSpot",
+    "NoNameGiven",
+    "TapOnTheHead",
+    "TooGoodForThisSinfulEarth"
+  ],
   "tropes_by_category": {}
 }

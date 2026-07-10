@@ -1,7 +1,13 @@
 {
   "name": "Evie",
   "show": "Birdgirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CreepyChild",
+    "HeartIsAnAwesomePower",
+    "PrecisionFStrike",
+    "CompanionCube",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

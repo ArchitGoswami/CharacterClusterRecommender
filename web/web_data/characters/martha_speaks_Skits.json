@@ -1,7 +1,22 @@
 {
   "name": "Skits",
   "show": "Martha Speaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CloudCuckooLander",
+    "AfraidOfNeedles",
+    "TheKlutz",
+    "FearOfThunder",
+    "HatesBaths",
+    "LikeBrotherAndSister",
+    "FilthyFun",
+    "LiteralMinded",
+    "BigFriendlyDog",
+    "GreenEyedMonster",
+    "BigEater",
+    "WhyDidItHaveToBeSnakes",
+    "FantasticRacism",
+    "UrineTrouble"
+  ],
   "tropes_by_category": {}
 }

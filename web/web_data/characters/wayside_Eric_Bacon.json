@@ -1,7 +1,11 @@
 {
   "name": "Eric Bacon",
   "show": "Wayside",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BigThinShortTrio",
+    "IJustWantToBeSpecial",
+    "AdaptationNameChange"
+  ],
   "tropes_by_category": {}
 }

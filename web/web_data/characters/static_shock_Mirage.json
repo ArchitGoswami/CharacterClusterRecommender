@@ -1,7 +1,21 @@
 {
   "name": "Mirage",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "HeelFaceTurn",
+    "IJustWantToBeNormal",
+    "TheDogBitesBack",
+    "LogicalWeakness",
+    "SubvertedTrope",
+    "DepartmentOfChildDisservices",
+    "MasterOfIllusion",
+    "PowerFloats",
+    "ChildrenAreInnocent",
+    "LightEmUp",
+    "ParentalAbandonment",
+    "CainAndAbel",
+    "NoNameGiven"
+  ],
   "tropes_by_category": {}
 }

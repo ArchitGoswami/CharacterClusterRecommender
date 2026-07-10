@@ -1,7 +1,12 @@
 {
   "name": "Rusty Bear",
   "show": "Little Bear",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "CoolUncle",
+    "BearyFriendly",
+    "BigLittleBrother",
+    "UnknownRelative"
+  ],
   "tropes_by_category": {}
 }

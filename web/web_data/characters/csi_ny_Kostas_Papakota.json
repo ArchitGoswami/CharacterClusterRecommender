@@ -1,7 +1,14 @@
 {
   "name": "Kostas Papakota",
   "show": "CSI: NY",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrokenPedestal",
+    "TakingTheBullet",
+    "DiedInYourArmsTonight",
+    "ReadingTeaLeaves",
+    "LastRequest",
+    "LukeIMightBeYourFather"
+  ],
   "tropes_by_category": {}
 }

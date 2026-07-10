@@ -1,7 +1,22 @@
 {
   "name": "Vince Teagues",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TheManBehindTheMan",
+    "SiblingYinYang",
+    "BigBrotherInstinct",
+    "MyGreatestFailure",
+    "CrouchingMoronHiddenBadass",
+    "CrypticBackgroundReference",
+    "WellIntentionedExtremist",
+    "VitriolicBestBuds",
+    "DrunkOnTheDarkSide",
+    "WhatKindOfLamePowerIsHeartAnyway",
+    "MagicalNativeAmerican",
+    "FullNameUltimatum",
+    "RetiredBadass",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

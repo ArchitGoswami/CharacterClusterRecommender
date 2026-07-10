@@ -1,7 +1,17 @@
 {
   "name": "Wren",
   "show": "Storm Hawks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "BoyfriendBlockingDad",
+    "AbnormalAmmo",
+    "AnimalThemeNaming",
+    "ImprovisedArmour",
+    "MiniatureSeniorCitizens",
+    "FrenchJerk",
+    "LargeHam",
+    "BlowYouAway"
+  ],
   "tropes_by_category": {}
 }

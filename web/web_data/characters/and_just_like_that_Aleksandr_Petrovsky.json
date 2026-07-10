@@ -1,7 +1,17 @@
 {
   "name": "Aleksandr Petrovsky",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "GentlemanSnarker",
+    "NeverMyFault",
+    "MayDecemberRomance",
+    "NoGuyWantsToBeChased",
+    "TookALevelInJerkass",
+    "RealMenCook",
+    "GrandRomanticGesture",
+    "SlobsVsSnobs",
+    "AmicableExes"
+  ],
   "tropes_by_category": {}
 }

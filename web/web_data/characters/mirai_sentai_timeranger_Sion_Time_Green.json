@@ -1,7 +1,14 @@
 {
   "name": "Sion/Time Green",
   "show": "Mirai Sentai Timeranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "MasculineGirlFeminineBoy",
+    "HumanAliens",
+    "LastOfHisKind",
+    "KidAppealCharacter",
+    "YouCantGoHomeAgain",
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

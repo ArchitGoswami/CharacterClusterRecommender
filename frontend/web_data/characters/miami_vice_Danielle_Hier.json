@@ -1,7 +1,16 @@
 {
   "name": "Danielle Hier",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "FemmeFataleSpy",
+    "GenderBlenderName",
+    "PsychoForHire",
+    "InterpolSpecialAgent",
+    "PunnyName",
+    "BaitAndSwitch",
+    "HeKnowsTooMuch",
+    "EveryoneLooksSexierIfFrench"
+  ],
   "tropes_by_category": {}
 }

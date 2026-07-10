@@ -1,7 +1,10 @@
 {
   "name": "The Aloha Pussycats",
   "show": "Happy Days",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NoNameGiven",
+    "HeadTurningBeauty"
+  ],
   "tropes_by_category": {}
 }

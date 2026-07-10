@@ -1,7 +1,11 @@
 {
   "name": "Rapture",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "KnightTemplar",
+    "MadScientist",
+    "TyrantTakesTheHelm"
+  ],
   "tropes_by_category": {}
 }

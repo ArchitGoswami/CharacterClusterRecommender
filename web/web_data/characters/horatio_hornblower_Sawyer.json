@@ -1,7 +1,28 @@
 {
   "name": "Sawyer",
   "show": "Horatio Hornblower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "CorporalPunishment",
+    "ConspiracyTheorist",
+    "AlasPoorVillain",
+    "LivingLegend",
+    "AdaptationalAngstUpgrade",
+    "DyingAsYourself",
+    "SelfFulfillingProphecy",
+    "TheParanoiac",
+    "DeathSeeker",
+    "BrokenPedestal",
+    "ShellShockedVeteran",
+    "IHatePastMe",
+    "LargeAndInCharge",
+    "AdaptationExpansion",
+    "FaceDeathWithDignity",
+    "ATasteOfTheLash",
+    "IWillPunishYourFriendForYourFailure",
+    "InsaneAdmiral",
+    "SanitySlippage",
+    "BloodKnight"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Professor Maezono",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ImmortalitySeeker",
+    "WhatHappenedToTheMouse",
+    "BrainUploading",
+    "MadScientist",
+    "BrainInAJar",
+    "ManipulativeBastard",
+    "FourEyesZeroSoul",
+    "DeadPersonImpersonation",
+    "DevilInPlainSight",
+    "CardCarryingVillain",
+    "UnreliableExpositor",
+    "BaldOfEvil",
+    "DefiedTrope",
+    "TheDisembodied"
+  ],
   "tropes_by_category": {}
 }

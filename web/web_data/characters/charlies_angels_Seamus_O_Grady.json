@@ -1,7 +1,18 @@
 {
   "name": "Seamus O' Grady",
   "show": "Charlie's Angels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "WouldHitAGirl",
+    "DisneyVillainDeath",
+    "PsychoExBoyfriend",
+    "ImpaledWithExtremePrejudice",
+    "BladeCatch",
+    "HateSink",
+    "KarmicDeath",
+    "ShirtlessScene",
+    "TheDragon",
+    "TattooedCrook"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Courtney",
   "show": "The Fosters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheVamp",
+    "MilhollandRelationshipMoment",
+    "MamaBear",
+    "AbsurdlyYouthfulMother",
+    "NiceGirl",
+    "SatelliteLoveInterest",
+    "ParentsAsPeople",
+    "InsecureLoveInterest",
+    "TheReasonYouSuckSpeech"
+  ],
   "tropes_by_category": {}
 }

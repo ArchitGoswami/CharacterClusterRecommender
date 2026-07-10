@@ -1,7 +1,14 @@
 {
   "name": "Allison Doren",
   "show": "Alias",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FaceStealer",
+    "KillAndReplace",
+    "DarkActionGirl",
+    "DeadPersonImpersonation",
+    "HealingFactor",
+    "EvilTwin"
+  ],
   "tropes_by_category": {}
 }

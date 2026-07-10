@@ -1,7 +1,17 @@
 {
   "name": "Happy Cat",
   "show": "Duck Dodgers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AmbiguouslyEvil",
+    "EvilLaugh",
+    "AmbiguouslySentientObject",
+    "RingRingCrunch",
+    "TakeThat",
+    "PlayedWith",
+    "LaughTrack",
+    "VocalDissonance",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

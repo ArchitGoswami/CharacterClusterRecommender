@@ -1,7 +1,21 @@
 {
   "name": "Persons from The country of Kutou",
   "show": "Fushigi Yuugi",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "TheEmperor",
+    "TheDogBitesBack",
+    "SexSlave",
+    "AintTooProudToBeg",
+    "LudicrousGibs",
+    "Foil",
+    "HotConsort",
+    "CoitusUninterruptus",
+    "UglyGuyHotWife",
+    "TheDragon",
+    "PedophiliaIsASpecialKindOfEvil",
+    "DepravedBisexual",
+    "HollywoodHomely"
+  ],
   "tropes_by_category": {}
 }

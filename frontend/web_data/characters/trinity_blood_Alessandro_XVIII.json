@@ -1,7 +1,19 @@
 {
   "name": "Alessandro XVIII",
   "show": "Trinity Blood",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "WildMassGuessing",
+    "ObviousRulePatch",
+    "PuppetKing",
+    "TwentyMinutesInTheFuture",
+    "JustAKid",
+    "ShrinkingViolet",
+    "ImprobableAge",
+    "ClassicalAntiHero",
+    "RealLife",
+    "YoungAndInCharge",
+    "AluminumChristmasTrees"
+  ],
   "tropes_by_category": {}
 }

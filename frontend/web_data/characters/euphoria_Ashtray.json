@@ -1,7 +1,23 @@
 {
   "name": "Ashtray",
   "show": "Euphoria",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "CharacterDeath",
+    "ExtremelyProtectiveChild",
+    "OhCrap",
+    "PromotedToOpeningTitles",
+    "FatalFlaw",
+    "OOCIsSeriousBusiness",
+    "DirtyKid",
+    "TriggerHappy",
+    "ParentalAbandonment",
+    "TheDragon",
+    "TroublingUnchildlikeBehavior",
+    "UnwittingInstigatorOfDoom",
+    "OnlyKnownByTheirNickname",
+    "PracticallyDifferentGenerations",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

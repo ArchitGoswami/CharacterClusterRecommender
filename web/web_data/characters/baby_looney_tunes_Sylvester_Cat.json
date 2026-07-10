@@ -1,7 +1,23 @@
 {
   "name": "Sylvester Cat",
   "show": "Baby Looney Tunes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "AttentionWhore",
+    "DeadpanSnarker",
+    "MommasBoy",
+    "NiceGuy",
+    "CatsAreSnarkers",
+    "LovableCoward",
+    "ShrinkingViolet",
+    "CompressedVice",
+    "CuteKitten",
+    "SensitiveGuyAndManlyMan",
+    "ExtremeDoormat",
+    "NeatFreak",
+    "ButtMonkey",
+    "CatsHateWater",
+    "SecurityBlanket"
+  ],
   "tropes_by_category": {}
 }

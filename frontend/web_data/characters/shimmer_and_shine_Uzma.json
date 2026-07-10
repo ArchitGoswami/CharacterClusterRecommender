@@ -1,7 +1,12 @@
 {
   "name": "Uzma",
   "show": "Shimmer and Shine",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "VilerNewVillain",
+    "ProngsOfPoseidon",
+    "ExcessiveEvilEyeshadow",
+    "ArcVillainess"
+  ],
   "tropes_by_category": {}
 }

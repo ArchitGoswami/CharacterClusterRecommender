@@ -1,7 +1,19 @@
 {
   "name": "Oboroguruma",
   "show": "Ninja Sentai Kakuranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "AffablyEvil",
+    "FauxAffablyEvil",
+    "HowTheMightyHaveFallen",
+    "HumanDisguise",
+    "PoweredByAForsakenChild",
+    "CameBackStrong",
+    "RageBreakingPoint",
+    "ItsPersonal",
+    "TearsOfJoy",
+    "ButtMonkey",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Buddy Boar",
   "show": "Taz-Mania",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "IMeantToDoThat",
+    "AdvertisedExtra",
+    "PrimaDonnaDirector",
+    "BerserkButton",
+    "PutOnABus",
+    "TheScrappy",
+    "KickedUpstairs",
+    "FlatCharacter",
+    "EveryoneHasStandards"
+  ],
   "tropes_by_category": {}
 }

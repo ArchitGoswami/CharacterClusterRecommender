@@ -1,7 +1,15 @@
 {
   "name": "Teddy Conrad",
   "show": "Nashville",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "PapaWolf",
+    "BerserkButton",
+    "TwoFirstNames",
+    "Hypocrite",
+    "SmugSnake",
+    "CorruptCorporateExecutive",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

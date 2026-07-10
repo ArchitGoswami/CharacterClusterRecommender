@@ -1,7 +1,10 @@
 {
   "name": "Alex Williams",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "DarkSecret",
+    "HappilyMarried"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Dr. Fisher",
   "show": "Reba",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "SitcomArchNemesis",
+    "IWantMyBelovedToBeHappy",
+    "Jerkass",
+    "PutOnABus",
+    "BadBoss",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,22 @@
 {
   "name": "Roley",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "TheReliableOne",
+    "Catchphrase",
+    "IAmNotWeasel",
+    "CharacterTics",
+    "ThePerfectionist",
+    "MellowFellow",
+    "YouDontLookLikeYou",
+    "AdaptationalPersonalityChange",
+    "ImageSong",
+    "PerpetualFrowner",
+    "DemotedToExtra",
+    "FriendToAllLivingThings",
+    "CharacterizationMarchesOn",
+    "ShesAManInJapan"
+  ],
   "tropes_by_category": {}
 }

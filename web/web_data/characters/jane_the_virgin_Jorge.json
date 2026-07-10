@@ -1,7 +1,11 @@
 {
   "name": "Jorge",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "NiceGuy",
+    "TheIllegal",
+    "DecemberDecemberRomance"
+  ],
   "tropes_by_category": {}
 }

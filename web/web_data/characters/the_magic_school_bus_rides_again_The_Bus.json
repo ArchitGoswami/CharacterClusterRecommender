@@ -1,7 +1,19 @@
 {
   "name": "The Bus",
   "show": "The Magic School Bus Rides Again",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "DisneyDeath",
+    "TheSpeechless",
+    "AnimateInanimateObject",
+    "ReliableRustbucket",
+    "TheStinger",
+    "TransformingMecha",
+    "DePower",
+    "MagicBus",
+    "DoAnythingRobot",
+    "SentientVehicle",
+    "CoolCar"
+  ],
   "tropes_by_category": {}
 }

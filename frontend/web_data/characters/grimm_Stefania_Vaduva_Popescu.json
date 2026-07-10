@@ -1,7 +1,16 @@
 {
   "name": "Stefania Vaduva Popescu",
   "show": "Grimm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "EvilSoundsDeep",
+    "TheChessmaster",
+    "KarmaHoudini",
+    "GodSaveUsFromTheQueen",
+    "Hypocrite",
+    "ManipulativeBitch",
+    "FauxAffablyEvil",
+    "PsychoticSmirk"
+  ],
   "tropes_by_category": {}
 }

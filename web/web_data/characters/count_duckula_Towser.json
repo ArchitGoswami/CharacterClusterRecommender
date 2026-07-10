@@ -1,7 +1,11 @@
 {
   "name": "Towser",
   "show": "Count Duckula",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheGhost",
+    "OffstageVillainy",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

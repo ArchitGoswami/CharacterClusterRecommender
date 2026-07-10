@@ -1,7 +1,25 @@
 {
   "name": "Donny Jones",
   "show": "My Name Is Earl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "EvenBadMenLoveTheirMamas",
+    "SassyBlackWoman",
+    "ClusterBleepBomb",
+    "EvenEvilHasStandards",
+    "TakeOurWordForIt",
+    "TheAtoner",
+    "NotMeThisTime",
+    "AxCrazy",
+    "PutOnABus",
+    "HeelFaithTurn",
+    "ThePeepingTom",
+    "WouldHurtAChild",
+    "EyeScream",
+    "TattooedCrook",
+    "ExactWords",
+    "CloudCuckoolander",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Billy Toughnut",
   "show": "Dragon Hunters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "LiterallyFallingInLove",
+    "HeroicBuild",
+    "TheUnfavorite",
+    "YoungerThanTheyLook",
+    "ConvenientlyAnOrphan"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Cymbeline Devlin",
   "show": "Bratz",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "FoolishSiblingResponsibleSibling",
+    "PrincessClassic",
+    "AffectionateNickname",
+    "MeaningfulName",
+    "RoyalBrat",
+    "BrattyTeenageDaughter"
+  ],
   "tropes_by_category": {}
 }

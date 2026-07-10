@@ -1,7 +1,13 @@
 {
   "name": "Gary Ewing",
   "show": "Dallas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheBusCameBack",
+    "Jerkass",
+    "RequiredSpinoffCrossover",
+    "TheUnfavorite",
+    "TheAlcoholic"
+  ],
   "tropes_by_category": {}
 }

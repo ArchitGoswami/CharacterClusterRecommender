@@ -1,7 +1,17 @@
 {
   "name": "Antagonists",
   "show": "Ghost Whisperer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CreepyCrows",
+    "Poltergeist",
+    "DarkIsEvil",
+    "EvilWearsBlack",
+    "AnimalMotifs",
+    "MeaningfulName",
+    "TheFaceless",
+    "EvilCounterpart",
+    "DarkMessiah"
+  ],
   "tropes_by_category": {}
 }

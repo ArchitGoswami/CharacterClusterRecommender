@@ -1,7 +1,13 @@
 {
   "name": "Johnny Fiama",
   "show": "Muppets Tonight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "MommasBoy",
+    "HeterosexualLifePartners",
+    "UST",
+    "MeaningfulName",
+    "DemotedToExtra"
+  ],
   "tropes_by_category": {}
 }

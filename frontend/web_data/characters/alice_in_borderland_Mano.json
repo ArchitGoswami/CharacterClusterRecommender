@@ -1,7 +1,17 @@
 {
   "name": "Mano",
   "show": "Alice In Borderland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AllThereInTheScript",
+    "CanonForeigner",
+    "TrailersAlwaysSpoil",
+    "TheNapoleon",
+    "OlderThanTheyLook",
+    "EvilGenius",
+    "AssholeVictim",
+    "TheDragon",
+    "WrongAssumption"
+  ],
   "tropes_by_category": {}
 }

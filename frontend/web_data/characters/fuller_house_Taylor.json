@@ -1,7 +1,13 @@
 {
   "name": "Taylor",
   "show": "Fuller House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "LikeFatherLikeSon",
+    "TheParentProducedProject",
+    "TheRival",
+    "TheFriendNobodyLikes",
+    "BrattyHalfPint"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "The Killer Bees",
   "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "BigThinShortTrio",
+    "HatedByAll",
+    "Jerkass",
+    "ToxicFriendInfluence",
+    "BigBad",
+    "CripplingOverspecialization",
+    "TheRival",
+    "JerkWithAHeartOfJerk",
+    "FalseFriend",
+    "InsufferableGenius",
+    "DickDastardlyStopsToCheat",
+    "GangOfBullies",
+    "EnemyMine",
+    "TwoGuysAndAGirl",
+    "CoDragons",
+    "OnlyKnownByTheirNickname",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

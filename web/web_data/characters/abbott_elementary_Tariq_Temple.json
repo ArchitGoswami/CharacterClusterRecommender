@@ -1,7 +1,28 @@
 {
   "name": "Tariq Temple",
   "show": "Abbott Elementary",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "Foil",
+    "FriendToAllChildren",
+    "DeconstructedTrope",
+    "DrugsAreBad",
+    "JerkWithAHeartOfGold",
+    "ManChild",
+    "StylisticSuck",
+    "HiddenDepths",
+    "PetTheDog",
+    "SmallNameBigEgo",
+    "GoshDangItToHeck",
+    "ParentingTheHusband",
+    "InnocentlyInsensitive",
+    "ChildhoodFriendRomance",
+    "SelfProclaimedInLaw",
+    "TookALevelInKindness",
+    "LazyBum",
+    "AlliterativeName",
+    "AmicableExes",
+    "PursueTheDreamJob"
+  ],
   "tropes_by_category": {}
 }

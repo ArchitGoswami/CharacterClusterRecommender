@@ -1,7 +1,14 @@
 {
   "name": "William Maynard",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ActorAllusion",
+    "KarmaHoudini",
+    "WhatHappenedToTheMouse",
+    "CoffinContraband",
+    "DesecratingTheDead",
+    "BadGuysDoTheDirtyWork"
+  ],
   "tropes_by_category": {}
 }

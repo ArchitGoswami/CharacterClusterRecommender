@@ -1,7 +1,28 @@
 {
   "name": "Earth Kingdom",
   "show": "Avatar: The Last Airbender",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "FantasyCounterpartCulture",
+    "VestigialEmpire",
+    "SleazyPolitician",
+    "TheCycleOfEmpires",
+    "FromNobodyToNightmare",
+    "TheGoodKingdom",
+    "KangarooCourt",
+    "WildWest",
+    "GhostTown",
+    "TheFederation",
+    "GodSaveUsFromTheQueen",
+    "PersonalityPowers",
+    "FourTemperamentEnsemble",
+    "SigilSpam",
+    "SecretPolice",
+    "GeneralRipper",
+    "WeAreStrugglingTogether",
+    "EvilChancellor",
+    "TheEmpire",
+    "ShadowGovernment"
+  ],
   "tropes_by_category": {}
 }

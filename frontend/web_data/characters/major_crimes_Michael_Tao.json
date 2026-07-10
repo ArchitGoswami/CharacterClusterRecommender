@@ -1,7 +1,21 @@
 {
   "name": "Michael Tao",
   "show": "Major Crimes",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "FakeNationality",
+    "ADayInTheLimelight",
+    "FakeGuestStar",
+    "OlderThanTheyLook",
+    "HappilyMarried",
+    "NonActionGuy",
+    "SesquipedalianLoquaciousness",
+    "ThatOneCase",
+    "TheSmartGuy",
+    "EncyclopaedicKnowledge",
+    "BlackSheep",
+    "AsianAndNerdy",
+    "SecretKeeper"
+  ],
   "tropes_by_category": {}
 }

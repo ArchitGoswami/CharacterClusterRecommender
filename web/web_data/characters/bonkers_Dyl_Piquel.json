@@ -1,7 +1,16 @@
 {
   "name": "Dyl Piquel",
   "show": "Bonkers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ADayInTheLimelight",
+    "PrettyInMink",
+    "HairOfGoldHeartOfGold",
+    "PunnyName",
+    "TrueBlueFemininity",
+    "UglyGuyHotWife",
+    "MamaBear",
+    "InSeriesNickname"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,30 @@
 {
   "name": "Rodney Charlton Trotter",
   "show": "Only Fools and Horses",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "EmbarrassingMiddleName",
+    "AuthorAvatar",
+    "TokenGoodTeammate",
+    "SoapboxSadie",
+    "BigLittleBrother",
+    "ButtMonkey",
+    "StraightMan",
+    "DeadpanSnarker",
+    "IdiotHero",
+    "LukeIAmYourFather",
+    "HeroicBSOD",
+    "NotSoAboveItAll",
+    "TheHeart",
+    "DumbassHasAPoint",
+    "DoggedNiceGuy",
+    "OnlySaneMan",
+    "MamasBabyPapasMaybe",
+    "BrainsAndBrawn",
+    "PhraseCatcher",
+    "CharacterDevelopment",
+    "Hypocrite",
+    "Subverted"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,21 @@
 {
   "name": "Danny Tanner",
   "show": "Fuller House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ParentWithNewParamour",
+    "DeadpanSnarker",
+    "UnclePennybags",
+    "FromBadToWorse",
+    "StatusQuoIsGod",
+    "NearDeathExperience",
+    "BeCarefulWhatYouWishFor",
+    "OOCIsSeriousBusiness",
+    "HollywoodMidLifeCrisis",
+    "AmicableExes",
+    "CreatureOfHabit",
+    "NeatFreak",
+    "MidlifeCrisisCar"
+  ],
   "tropes_by_category": {}
 }

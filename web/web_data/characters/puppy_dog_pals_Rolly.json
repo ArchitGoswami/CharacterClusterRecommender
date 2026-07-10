@@ -1,7 +1,13 @@
 {
   "name": "Rolly",
   "show": "Puppy Dog Pals",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TunnelKing",
+    "ProneToTears",
+    "OralFixation",
+    "Flanderization",
+    "StoutStrength"
+  ],
   "tropes_by_category": {}
 }

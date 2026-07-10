@@ -1,7 +1,21 @@
 {
   "name": "The Ginger and Boots",
   "show": "Letterkenny",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "ThoseTwoGuys",
+    "OnceDoneNeverForgotten",
+    "RunningGag",
+    "SunglassesAtNight",
+    "TheDreaded",
+    "ExtremeOmnisexual",
+    "GodzillaThreshold",
+    "TheVoiceless",
+    "PhraseCatcher",
+    "TheFriendNobodyLikes",
+    "FlatCharacter",
+    "BestialityIsDepraved",
+    "InsistentTerminology"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,30 @@
 {
   "name": "Ned Frischman",
   "show": "Dave the Barbarian",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "HoistByTheirOwnPetard",
+    "EvilNerd",
+    "HoistByHisOwnPetard",
+    "InUniverse",
+    "VillainWithGoodPublicity",
+    "TimeTravelForFunAndProfit",
+    "EvilPlan",
+    "OutsideContextProblem",
+    "TheStinger",
+    "AllOfTheOtherReindeer",
+    "NonActionBigBad",
+    "HumourDissonance",
+    "CurbStompBattle",
+    "GivingRadioToTheRomans",
+    "TwentyMinutesIntoThePast",
+    "LargeHam",
+    "StereotypicalNerd",
+    "EvilLaugh",
+    "WoobieDestroyerOfWorlds",
+    "TimeTravel",
+    "TechnologicallyAdvancedFoe",
+    "PlayedForLaughs"
+  ],
   "tropes_by_category": {}
 }

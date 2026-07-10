@@ -1,7 +1,22 @@
 {
   "name": "The Spung",
   "show": "Space Cases",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "ButForMeItWasTuesday",
+    "WaifProphet",
+    "ActorAllusion",
+    "LargeHam",
+    "GreenSkinnedSpaceBabe",
+    "InterspeciesRomance",
+    "NonMammalianMammaries",
+    "ExecutiveMeddling",
+    "TokenHeroicOrc",
+    "StarCrossedLovers",
+    "RebelliousPrincess",
+    "MadScientistsBeautifulDaughter",
+    "DemotedToExtra",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

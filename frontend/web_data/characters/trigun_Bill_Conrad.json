@@ -1,7 +1,13 @@
 {
   "name": "Bill Conrad",
   "show": "Trigun",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HumansAreBastards",
+    "TheMole",
+    "ImpaledWithExtremePrejudice",
+    "TheAtoner",
+    "ComicBookFantasyCasting"
+  ],
   "tropes_by_category": {}
 }

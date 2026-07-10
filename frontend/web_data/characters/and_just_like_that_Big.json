@@ -1,7 +1,11 @@
 {
   "name": "Big",
   "show": "And Just Like That",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "TheMovie",
+    "NoNameGiven",
+    "NotSoStoic"
+  ],
   "tropes_by_category": {}
 }

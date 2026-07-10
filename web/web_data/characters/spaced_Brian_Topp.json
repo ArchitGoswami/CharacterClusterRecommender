@@ -1,7 +1,23 @@
 {
   "name": "Brian Topp",
   "show": "Spaced",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "MadArtist",
+    "StalkerWithACrush",
+    "Inuniverse",
+    "LampshadedTrope",
+    "NoSocialSkills",
+    "HairstyleInertia",
+    "InvokedTrope",
+    "ThrowItIn",
+    "CreatorBreakdown",
+    "TrueArtIsAngsty",
+    "ArtReflectsPersonality",
+    "AmbiguouslyGay",
+    "MistakenForProfound",
+    "GagPenis",
+    "MakesJustAsMuchSenseInContext"
+  ],
   "tropes_by_category": {}
 }

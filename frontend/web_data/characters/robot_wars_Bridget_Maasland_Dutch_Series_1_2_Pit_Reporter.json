@@ -1,7 +1,11 @@
 {
   "name": "Bridget Maasland (Dutch Series 1- 2 Pit Reporter)",
   "show": "Robot Wars",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BoyishShortHair",
+    "MsFanservice",
+    "GenkiGirl"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Dr. Jason Burr",
   "show": "Beware the Batman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AmazonChaser",
+    "EmptyShell",
+    "ManChild",
+    "AdaptationalHeroism",
+    "BodyguardCrush",
+    "TheMole",
+    "SmartPeopleWearGlasses",
+    "EvilGenius",
+    "NotThatKindOfDoctor",
+    "InNameOnly",
+    "DemonicPossession",
+    "AbhorrentAdmirer"
+  ],
   "tropes_by_category": {}
 }

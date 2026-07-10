@@ -1,7 +1,18 @@
 {
   "name": "Suzuki Sato and Tanaka Watanabe",
   "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "TheManBehindTheMan",
+    "TalkToTheFist",
+    "StockForeignName",
+    "ManipulativeBastard",
+    "MrSmith",
+    "HateSink",
+    "LackOfEmpathy",
+    "ButNotTooForeign",
+    "HeKnowsTooMuch",
+    "FromCamouflageToCriminal"
+  ],
   "tropes_by_category": {}
 }

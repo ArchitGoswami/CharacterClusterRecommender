@@ -1,7 +1,16 @@
 {
   "name": "Vico",
   "show": "The Fosters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "ScrewTheRulesIHaveConnections",
+    "NeverMyFault",
+    "KarmaHoudini",
+    "BigBad",
+    "TheBully",
+    "KickTheDog",
+    "TheCorruptor",
+    "JerkJock"
+  ],
   "tropes_by_category": {}
 }

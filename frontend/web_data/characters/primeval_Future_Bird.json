@@ -1,7 +1,20 @@
 {
   "name": "Future Bird",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "LooseCanon",
+    "BigBad",
+    "MoreThanMindControl",
+    "FeatheredFiend",
+    "ItCanThink",
+    "CleverCrows",
+    "MultipurposeTongue",
+    "RiddleForTheAges",
+    "EvilSmellsBad",
+    "BadBoss",
+    "AllMythsAreTrue",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

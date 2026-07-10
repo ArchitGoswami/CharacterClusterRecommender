@@ -1,7 +1,12 @@
 {
   "name": "Florence Hufnagel",
   "show": "St. Elsewhere",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PetTheDog",
+    "ScrewPolitenessImASenior",
+    "JerkAss",
+    "ShoutOut"
+  ],
   "tropes_by_category": {}
 }

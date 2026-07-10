@@ -1,7 +1,16 @@
 {
   "name": "Walter",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolOldGuy",
+    "TheEngineer",
+    "OldRetainer",
+    "NonActionGuy",
+    "RetiredBadass",
+    "SailorsPonytail",
+    "AscendedExtra",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

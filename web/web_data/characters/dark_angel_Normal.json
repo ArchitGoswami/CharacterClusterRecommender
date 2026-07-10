@@ -1,7 +1,22 @@
 {
   "name": "Normal",
   "show": "Dark Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "DeliveryGuy",
+    "BrokenPedestal",
+    "DeadpanSnarker",
+    "Jerkass",
+    "HatesMySecretIdentity",
+    "MrFanservice",
+    "HeelRealization",
+    "NerdGlasses",
+    "HostageSituation",
+    "HiddenDepths",
+    "NamedAfterSomebodyFamous",
+    "BadBoss",
+    "AmbiguouslyBi",
+    "FantasticRacism"
+  ],
   "tropes_by_category": {}
 }

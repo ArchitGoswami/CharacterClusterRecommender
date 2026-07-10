@@ -1,7 +1,28 @@
 {
   "name": "Chirp",
   "show": "Peep and the Big Wide World",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "BerserkButton",
+    "GenderFlip",
+    "ADogNamedPerro",
+    "ButtMonkey",
+    "DeadpanSnarker",
+    "WomenAreWiser",
+    "DubNameChange",
+    "TheDeterminator",
+    "FieryRedhead",
+    "OnlySaneWoman",
+    "MasculineGirlFeminineBoy",
+    "ArmlessBiped",
+    "WhyDidItHaveToBeSnakes",
+    "TuftOfHeadFur",
+    "HairTriggerTemper",
+    "TheSmartGirl",
+    "NonStandardCharacterDesign",
+    "TomboyishVoice",
+    "BewareTheNiceOnes",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

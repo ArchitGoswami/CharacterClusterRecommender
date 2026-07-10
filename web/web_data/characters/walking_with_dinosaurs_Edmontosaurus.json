@@ -1,7 +1,10 @@
 {
   "name": "Edmontosaurus",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "GentleGiant",
+    "SocialOrnithopod"
+  ],
   "tropes_by_category": {}
 }

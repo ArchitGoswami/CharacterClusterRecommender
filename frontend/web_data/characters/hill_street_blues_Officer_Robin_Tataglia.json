@@ -1,7 +1,12 @@
 {
   "name": "Officer Robin Tataglia",
   "show": "Hill Street Blues",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BoyishShortHair",
+    "ActionGirl",
+    "ShiksaGoddess",
+    "NiceJewishBoy"
+  ],
   "tropes_by_category": {}
 }

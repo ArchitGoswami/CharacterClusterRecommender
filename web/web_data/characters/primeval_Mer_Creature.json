@@ -1,7 +1,18 @@
 {
   "name": "Mer Creature",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "Foreshadowing",
+    "ThereIsNoKillLikeOverkill",
+    "GracefulInTheirElement",
+    "KillerGorilla",
+    "FormerlySapientSpecies",
+    "FridgeHorror",
+    "GrandfatherParadox",
+    "ColorCodedForYourConvenience",
+    "TapOnTheHead",
+    "OminousLatinChanting"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Tim Speedle",
   "show": "CSI: Miami",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "KilledOffForReal",
+    "Jerkass",
+    "ConvenientMisfire",
+    "EveryoneCallsHimBarkeep",
+    "TemptingFate"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Maggie Collins",
   "show": "Leverage",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "AmicablyDivorced",
+    "HorribleJudgeOfCharacter",
+    "VaporWear",
+    "SixthRanger",
+    "HotLibrarian",
+    "SpottingTheThread",
+    "HoneyTrap",
+    "AntiHero",
+    "UST",
+    "PlayedWith",
+    "EvilCostumeSwitch",
+    "InsistentTerminology"
+  ],
   "tropes_by_category": {}
 }

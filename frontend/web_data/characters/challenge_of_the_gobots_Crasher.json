@@ -1,7 +1,19 @@
 {
   "name": "Crasher",
   "show": "Challenge of the GoBots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "Expy",
+    "ShockwaveStomp",
+    "DarkActionGirl",
+    "EvilLaugh",
+    "AxCrazy",
+    "CardCarryingVillain",
+    "TheHyena",
+    "CoDragons",
+    "VillainousFriendship",
+    "BreakoutCharacter",
+    "VillainousCrush"
+  ],
   "tropes_by_category": {}
 }

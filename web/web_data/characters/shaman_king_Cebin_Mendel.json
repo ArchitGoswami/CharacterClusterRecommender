@@ -1,7 +1,12 @@
 {
   "name": "Cebin Mendel",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PetTheDog",
+    "UndyingLoyalty",
+    "FacialHorror",
+    "PsychoSupporter"
+  ],
   "tropes_by_category": {}
 }

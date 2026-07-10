@@ -1,7 +1,15 @@
 {
   "name": "Carl Brain and Carl Jr.",
   "show": "Aqua Teen Hunger Force",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EvilSoundsDeep",
+    "VehicularSabotage",
+    "TheUnintelligible",
+    "PaperThinDisguise",
+    "BrainTheft",
+    "CharacterOverlap",
+    "DidNotThinkThisThrough"
+  ],
   "tropes_by_category": {}
 }

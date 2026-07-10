@@ -1,7 +1,20 @@
 {
   "name": "Ambassador",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SmallRoleBigImpact",
+    "AffablyEvil",
+    "AssInAmbassador",
+    "GiantMook",
+    "BigCreepyCrawlies",
+    "AchillesHeel",
+    "MiniMecha",
+    "ShootTheMessenger",
+    "WhatHappenedToTheMouse",
+    "WeaksauceWeakness",
+    "AggressiveNegotiations",
+    "HealingFactor"
+  ],
   "tropes_by_category": {}
 }

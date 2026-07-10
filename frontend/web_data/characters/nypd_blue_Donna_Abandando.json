@@ -1,7 +1,14 @@
 {
   "name": "Donna Abandando",
   "show": "NYPD Blue",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "UglyGuyHotWife",
+    "ConsummateProfessional",
+    "TheGloriousWarOfSisterlyRivalry",
+    "CharacterizationMarchesOn",
+    "InformedAttractiveness",
+    "PromotionToOpeningTitles"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Timo",
   "show": "All Hail King Julien",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "Expy",
+    "BunglingInventor",
+    "JewishAndNerdy",
+    "EarlyBirdCameo",
+    "TheSmartGuy",
+    "InsistentTerminology",
+    "GadgeteerGenius"
+  ],
   "tropes_by_category": {}
 }

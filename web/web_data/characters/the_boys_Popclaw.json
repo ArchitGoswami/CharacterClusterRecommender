@@ -1,7 +1,15 @@
 {
   "name": "Popclaw",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ButchLesbian",
+    "TheSmurfettePrinciple",
+    "WolverineWannabe",
+    "GenderFlip",
+    "SelfHarm",
+    "WolverineClaws",
+    "AlternateCompanyEquivalent"
+  ],
   "tropes_by_category": {}
 }

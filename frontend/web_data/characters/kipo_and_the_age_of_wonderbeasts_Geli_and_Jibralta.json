@@ -1,7 +1,17 @@
 {
   "name": "Geli and Jibralta",
   "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BatOutOfHell",
+    "RedOniBlueOni",
+    "MadEye",
+    "TheXenophile",
+    "Pun",
+    "AgentMulder",
+    "TinfoilHat",
+    "OneShotCharacter",
+    "PlotIrrelevantVillain"
+  ],
   "tropes_by_category": {}
 }

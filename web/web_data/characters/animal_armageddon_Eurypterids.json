@@ -1,7 +1,11 @@
 {
   "name": "Eurypterids",
   "show": "Animal Armageddon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ScaryScorpions",
+    "DragonAscendant",
+    "BigCreepyCrawlies"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,29 @@
 {
   "name": "Lamarr Bone",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "CheatersNeverProsper",
+    "SternTeacher",
+    "MeaningfulName",
+    "HoistByHisOwnPetard",
+    "EveryoneHasStandards",
+    "JadedWashout",
+    "JerkWithAHeartOfGold",
+    "ZeroPercentApprovalRating",
+    "SadistTeacher",
+    "RulesLawyer",
+    "FauxHorrific",
+    "DubNameChange",
+    "LawfulStupid",
+    "TheBusCameBack",
+    "PetTheDog",
+    "ObstructiveBureaucrat",
+    "Supervillain",
+    "NostalgiaFilter",
+    "HonorBeforeReason",
+    "DeanBitterman"
+  ],
   "tropes_by_category": {}
 }

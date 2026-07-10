@@ -1,7 +1,11 @@
 {
   "name": "Blake Gallo",
   "show": "Chicago Fire",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ItsPersonal",
+    "DarkAndTroubledPast",
+    "SoleSurvivor"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "The Mole King",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WorthlessYellowRocks",
+    "CloudCuckooLander",
+    "BewareTheSillyOnes",
+    "BigBad",
+    "Manchild",
+    "ReasonableAuthorityFigure",
+    "MoleMen",
+    "ItsAllAboutMe",
+    "HairTriggerTemper"
+  ],
   "tropes_by_category": {}
 }

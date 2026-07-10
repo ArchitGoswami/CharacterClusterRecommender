@@ -1,7 +1,12 @@
 {
   "name": "Bobo",
   "show": "Johnny Bravo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DemotedToExtra",
+    "ChuckCunninghamSyndrome",
+    "TheUnintelligible",
+    "CoolMask"
+  ],
   "tropes_by_category": {}
 }

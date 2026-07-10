@@ -1,7 +1,26 @@
 {
   "name": "Flynn Jones",
   "show": "Shake It Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "OddFriendship",
+    "Catchphrase",
+    "Expy",
+    "FoolishSiblingResponsibleSibling",
+    "AnnoyingYoungerSibling",
+    "TagalongKid",
+    "WiseBeyondTheirYears",
+    "AffectionateNickname",
+    "SensitiveGuyAndManlyMan",
+    "FridgeBrilliance",
+    "BrilliantButLazy",
+    "IntergenerationalFriendship",
+    "AdorablyPrecociousChild",
+    "LittleBoySeeksBigGirl",
+    "FourTemperamentEnsemble",
+    "CharacterizationMarchesOn",
+    "TrademarkFavoriteFood",
+    "ThePrankster"
+  ],
   "tropes_by_category": {}
 }

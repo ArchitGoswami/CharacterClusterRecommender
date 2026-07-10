@@ -1,7 +1,19 @@
 {
   "name": "Dr. Mogg",
   "show": "My Life as a Teenage Robot",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SitcomArchNemesis",
+    "ShoddyKnockoffProduct",
+    "JerkWithAHeartOfGold",
+    "PetTheDog",
+    "MadScientist",
+    "GoodParents",
+    "AmazingTechnicolorPopulation",
+    "PunnyName",
+    "LoveObstructingParents",
+    "GreenAndMean",
+    "BeardOfEvil"
+  ],
   "tropes_by_category": {}
 }

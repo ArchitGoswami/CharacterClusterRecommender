@@ -1,7 +1,21 @@
 {
   "name": "Yuusaku Hayakawa/Mega Silver",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "CoolOldGuy",
+    "MonsterOfTheWeek",
+    "MrFanservice",
+    "SwissArmyWeapon",
+    "CoolSword",
+    "FinishingMove",
+    "BunnyEarsLawyer",
+    "WeaksauceWeakness",
+    "DeusExitMachina",
+    "BigDamnHeroes",
+    "SixthRanger",
+    "RayGun",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

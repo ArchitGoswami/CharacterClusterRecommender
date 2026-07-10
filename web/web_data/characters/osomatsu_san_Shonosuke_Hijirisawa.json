@@ -1,7 +1,18 @@
 {
   "name": "Shonosuke Hijirisawa",
   "show": "Osomatsu-san",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "GodInHumanForm",
+    "MythologyGag",
+    "RecurringExtra",
+    "DarkhorseVictory",
+    "MassiveNumberedSiblings",
+    "NamedByTheAdaptation",
+    "BitCharacter",
+    "MegatonPunch",
+    "HonestAxe",
+    "ReplacementGoldfish"
+  ],
   "tropes_by_category": {}
 }

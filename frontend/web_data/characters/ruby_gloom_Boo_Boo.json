@@ -1,7 +1,16 @@
 {
   "name": "Boo Boo",
   "show": "Ruby Gloom",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "RidiculouslyCuteCritter",
+    "NightmareFuelStationAttendant",
+    "NightmareRetardant",
+    "BerserkButton",
+    "InvisibleToNormals",
+    "OurGhostsAreDifferent",
+    "ThePrankster"
+  ],
   "tropes_by_category": {}
 }

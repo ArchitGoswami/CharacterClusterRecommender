@@ -1,7 +1,13 @@
 {
   "name": "Cammy",
   "show": "Scryed",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "OfficialCouple",
+    "LockedOutOfTheLoop",
+    "IdenticalStranger",
+    "NiceGirl",
+    "SatelliteLoveInterest"
+  ],
   "tropes_by_category": {}
 }

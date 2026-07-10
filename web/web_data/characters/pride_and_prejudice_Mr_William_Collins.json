@@ -1,7 +1,31 @@
 {
   "name": "Mr William Collins",
   "show": "Pride and Prejudice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "IgnoredEpiphany",
+    "Foil",
+    "ProfessionalButtKisser",
+    "SesquipedalianLoquaciousness",
+    "JerkWithAHeartOfGold",
+    "TheDitz",
+    "SmugSnake",
+    "Pride",
+    "EntitledToHaveYou",
+    "SnarkKnight",
+    "ProfuseThanking",
+    "HappilyMarried",
+    "RomanticFalseLead",
+    "TheFriendNobodyLikes",
+    "TheBore",
+    "RejectionAffection",
+    "LastNameBasis",
+    "SettleForSibling",
+    "BabiesEverAfter",
+    "BirdsOfAFeather",
+    "ReasonYouSuckSpeech",
+    "OOCIsSeriousBusiness",
+    "Hypocrite"
+  ],
   "tropes_by_category": {}
 }

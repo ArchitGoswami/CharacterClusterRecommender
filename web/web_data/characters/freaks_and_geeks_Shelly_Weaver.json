@@ -1,7 +1,17 @@
 {
   "name": "Shelly Weaver",
   "show": "Freaks and Geeks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "BreakTheHaughty",
+    "TeenPregnancy",
+    "TheRival",
+    "BlatantLies",
+    "CondescendingCompassion",
+    "AcademicAlphaBitch",
+    "HolierThanThou",
+    "SmugSnake",
+    "GossipyHens"
+  ],
   "tropes_by_category": {}
 }

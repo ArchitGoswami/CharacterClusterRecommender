@@ -1,7 +1,30 @@
 {
   "name": "Sakuya Kumashiro",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TearJerker",
+    "ReallyDeadMontage",
+    "RavenHairIvorySkin",
+    "DamselInDistress",
+    "OrdinaryHighSchoolStudent",
+    "TroubledFetalPosition",
+    "HeroicSacrifice",
+    "HeroicBSOD",
+    "CanonForeigner",
+    "ClingyJealousGirl",
+    "LoveInterest",
+    "DyingMomentOfAwesome",
+    "ThirdOptionLoveInterest",
+    "DieForOurShip",
+    "TheAce",
+    "ProperTightsWithASkirt",
+    "UnwantedHarem",
+    "RousingSpeech",
+    "AlasPoorScrappy",
+    "TomatoInTheMirror",
+    "SatelliteLoveInterest",
+    "LotusEaterMachine"
+  ],
   "tropes_by_category": {}
 }

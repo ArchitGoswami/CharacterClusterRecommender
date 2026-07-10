@@ -1,7 +1,24 @@
 {
   "name": "Charles \"Charlie\" Townsend",
   "show": "Charlie's Angels",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "ChickMagnet",
+    "TheVoice",
+    "CharacterDeath",
+    "NiceGuy",
+    "AFatherToHisMen",
+    "MysteriousEmployer",
+    "UnseenNoMore",
+    "BigGood",
+    "OnlyOneName",
+    "SecondaryCharacterTitle",
+    "Determinator",
+    "GirlOfTheWeek",
+    "DoubleEntendre",
+    "MagneticHero",
+    "RetiredBadass",
+    "HeWhoMustNotBeSeen"
+  ],
   "tropes_by_category": {}
 }

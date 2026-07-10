@@ -1,7 +1,15 @@
 {
   "name": "Sly Lovegren",
   "show": "Dallas",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "EasilyForgiven",
+    "UnreliableNarrator",
+    "ScrewThisImOuttaHere",
+    "UndyingLoyalty",
+    "FakingTheDead",
+    "TemptingFate",
+    "MoralityPet"
+  ],
   "tropes_by_category": {}
 }

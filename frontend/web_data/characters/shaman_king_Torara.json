@@ -1,7 +1,10 @@
 {
   "name": "Torara",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "MakingASplash",
+    "ShrinkingViolet"
+  ],
   "tropes_by_category": {}
 }

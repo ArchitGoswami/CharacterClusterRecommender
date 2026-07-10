@@ -1,7 +1,12 @@
 {
   "name": "Pearl Wallace",
   "show": "iCarly",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SatelliteLoveInterest",
+    "Cloudcuckoolander",
+    "BewareTheNiceOnes",
+    "NiceGirl"
+  ],
   "tropes_by_category": {}
 }

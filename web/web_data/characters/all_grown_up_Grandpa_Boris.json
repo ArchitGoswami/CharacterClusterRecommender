@@ -1,7 +1,16 @@
 {
   "name": "Grandpa Boris",
   "show": "All Grown Up",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "CoolOldGuy",
+    "OpposedMentors",
+    "ArtEvolution",
+    "AlterKocker",
+    "GoofyPrintUnderwear",
+    "JewsLoveToArgue",
+    "GenerationXerox",
+    "ScrewPolitenessImASenior"
+  ],
   "tropes_by_category": {}
 }

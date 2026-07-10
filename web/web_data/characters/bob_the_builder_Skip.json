@@ -1,7 +1,11 @@
 {
   "name": "Skip",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "MirrorCharacter",
+    "ALizardNamedLiz",
+    "DubNameChange"
+  ],
   "tropes_by_category": {}
 }

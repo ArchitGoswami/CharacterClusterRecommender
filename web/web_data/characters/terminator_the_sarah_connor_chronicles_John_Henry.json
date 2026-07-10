@@ -1,7 +1,13 @@
 {
   "name": "John Henry",
   "show": "Terminator: The Sarah Connor Chronicles",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "BasementDweller",
+    "GoodCounterpart",
+    "AIIsACrapshoot",
+    "CainAndAbel",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

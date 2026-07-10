@@ -1,7 +1,16 @@
 {
   "name": "Special Agent Chris Pacci",
   "show": "NCIS",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "PlotArmor",
+    "MauveShirt",
+    "ForgottenFallenFriend",
+    "PosthumousCharacter",
+    "Averted",
+    "HeKnowsTooMuch",
+    "Flashback",
+    "SacrificialLamb"
+  ],
   "tropes_by_category": {}
 }

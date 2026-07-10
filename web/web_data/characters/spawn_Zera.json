@@ -1,7 +1,22 @@
 {
   "name": "Zera",
   "show": "Spawn",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "KilledOffForReal",
+    "MyMasterRightOrWrong",
+    "CelestialParagonsAndArchangels",
+    "SycophanticServant",
+    "SealedEvilInACan",
+    "AxCrazy",
+    "OffWithHerHead",
+    "AscendedDemon",
+    "CompleteImmortality",
+    "TheBeastmaster",
+    "TheDragon",
+    "LightIsNotGood",
+    "DemonicPossession",
+    "KnightTemplar"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Bunny Fletcher",
   "show": "Chicago PD",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RightForTheWrongReasons",
+    "DirtyCop",
+    "UngratefulBastard",
+    "NeverMyFault",
+    "BitchInSheepsClothing",
+    "ConsummateLiar",
+    "WoundedGazelleGambit",
+    "TheLoad",
+    "JerkassHasAPoint",
+    "AbusiveParents",
+    "BlackWidow"
+  ],
   "tropes_by_category": {}
 }

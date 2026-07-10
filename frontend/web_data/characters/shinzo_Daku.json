@@ -1,7 +1,15 @@
 {
   "name": "Daku",
   "show": "Shinzo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ThunderBeetle",
+    "Invisibility",
+    "TinTyrant",
+    "EnergyWeapon",
+    "GoldenSuperMode",
+    "DubNameChange",
+    "BadBoss"
+  ],
   "tropes_by_category": {}
 }

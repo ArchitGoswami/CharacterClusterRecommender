@@ -1,7 +1,9 @@
 {
   "name": "Coach Salmons",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "DarkAndTroubledPast"
+  ],
   "tropes_by_category": {}
 }

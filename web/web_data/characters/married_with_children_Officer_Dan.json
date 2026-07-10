@@ -1,7 +1,13 @@
 {
   "name": "Officer Dan",
   "show": "Married with Children",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeelFaceTurn",
+    "DeadpanSnarker",
+    "EveryoneCallsHimBarkeep",
+    "PoliceAreUseless",
+    "CorruptCop"
+  ],
   "tropes_by_category": {}
 }

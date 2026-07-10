@@ -1,7 +1,19 @@
 {
   "name": "Chontra",
   "show": "Mummies Alive",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "HotTeacher",
+    "DistaffCounterpart",
+    "TeacherStudentRomance",
+    "CuteWitch",
+    "WomanScorned",
+    "HotWitch",
+    "ScrewTheRulesImBeautiful",
+    "SurpassedTheTeacher",
+    "ScrewTheRulesIHaveSupernaturalPowers",
+    "HypnoticEyes",
+    "DatingCatwoman"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,24 @@
 {
   "name": "Gordon Wyatt",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "CoolOldGuy",
+    "TheBusCameBack",
+    "OddFriendship",
+    "TheShrink",
+    "SherlockScan",
+    "InformedAbility",
+    "NiceGuy",
+    "SupremeChef",
+    "StealthPun",
+    "BerserkButton",
+    "PutOnABus",
+    "OldMaster",
+    "HiddenDepths",
+    "HisNameReallyIsBarkeep",
+    "TheFoodie",
+    "AmbiguouslyBi"
+  ],
   "tropes_by_category": {}
 }

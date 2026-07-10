@@ -1,7 +1,31 @@
 {
   "name": "Kiyone Makibi",
   "show": "Tenchi in Tokyo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "PromotedToLoveInterest",
+    "AdaptationalRomanceDowngrade",
+    "LongevityTreatment",
+    "PlatonicLifePartners",
+    "BurgerFool",
+    "CloudcuckoolandersMinder",
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "CanonForeigner",
+    "CurtainsMatchTheWindow",
+    "JerkWithAHeartOfJerk",
+    "TookALevelInDumbass",
+    "BokeAndTsukkomiRoutine",
+    "TheCameo",
+    "OnlySaneWoman",
+    "TheAce",
+    "SuperToughness",
+    "TheNotLoveInterest",
+    "Flanderization",
+    "CanonImmigrant",
+    "FairCop",
+    "SuperStrength",
+    "HaremNanny"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Sheila Summers",
   "show": "Bewitched",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AlphaBitch",
+    "LaserGuidedKarma",
+    "ArrangedMarriage",
+    "KickTheDog",
+    "HumiliationConga",
+    "ItsACostumePartyISwear",
+    "AlliterativeName",
+    "RichBitch",
+    "HairstyleMalfunction"
+  ],
   "tropes_by_category": {}
 }

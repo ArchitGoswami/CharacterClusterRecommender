@@ -1,7 +1,18 @@
 {
   "name": "Zane Willis",
   "show": "K.C. Undercover",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "ArchnemesisDad",
+    "ArchEnemy",
+    "RevengeBeforeReason",
+    "BigBadFriend",
+    "ArcVillain",
+    "NotGoodWithRejection",
+    "SmugSnake",
+    "KnightOfCerebus",
+    "RankUp",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

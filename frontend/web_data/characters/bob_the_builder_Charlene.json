@@ -1,7 +1,10 @@
 {
   "name": "Charlene",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "NoFullNameGiven",
+    "AwesomeAussie"
+  ],
   "tropes_by_category": {}
 }

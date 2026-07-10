@@ -1,7 +1,24 @@
 {
   "name": "Kevin Bingham",
   "show": "Chicago PD",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 16,
+  "tropes": [
+    "CurseCutShort",
+    "ShutUpHannibal",
+    "AintTooProudToBeg",
+    "WouldHitAGirl",
+    "ChekhovsGunman",
+    "TooDumbToLive",
+    "DigYourOwnGrave",
+    "WordOfGod",
+    "NoSell",
+    "AssholeVictim",
+    "AxCrazy",
+    "DomesticAbuser",
+    "OneSteveLimit",
+    "PrecisionFStrike",
+    "TheCorruptor",
+    "Sadist"
+  ],
   "tropes_by_category": {}
 }

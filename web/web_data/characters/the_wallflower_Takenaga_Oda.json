@@ -1,7 +1,19 @@
 {
   "name": "Takenaga Oda",
   "show": "The Wallflower",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SugarAndIcePersonality",
+    "LonelyRichKid",
+    "DefrostingIceKing",
+    "EmotionallyTongueTied",
+    "SavvyGuyEnergeticGirl",
+    "BrainyBrunette",
+    "BetaCouple",
+    "InsufferableGenius",
+    "SickeninglySweethearts",
+    "TheSmartGuy",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

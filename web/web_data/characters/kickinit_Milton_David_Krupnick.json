@@ -1,7 +1,31 @@
 {
   "name": "Milton David Krupnick",
   "show": "Kickin'it",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "ShorterMeansSmarter",
+    "HumongousMecha",
+    "LethalChef",
+    "BadassBookworm",
+    "GeekPhysiques",
+    "UnsportsmanlikeGloating",
+    "ButtMonkey",
+    "ThePilot",
+    "TheSmartGuy",
+    "TruthInTelevision",
+    "SmartPeopleBuildRobots",
+    "DependingOnTheWriter",
+    "RealMenWearPink",
+    "Inverted",
+    "MasculineGirlFeminineBoy",
+    "SensitiveGuyAndManlyMan",
+    "ProudToBeAGeek",
+    "MinoredInAsskicking",
+    "Catchphrase",
+    "BirdsOfAFeather",
+    "TeenGenius",
+    "AmbiguouslyJewish",
+    "CharacterDevelopment"
+  ],
   "tropes_by_category": {}
 }

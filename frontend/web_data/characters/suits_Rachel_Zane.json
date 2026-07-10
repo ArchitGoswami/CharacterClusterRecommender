@@ -1,7 +1,30 @@
 {
   "name": "Rachel Zane",
   "show": "Suits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "AlmightyJanitor",
+    "MsFanservice",
+    "PlatonicLifePartners",
+    "HelloAttorney",
+    "GirlNextDoor",
+    "BookDumb",
+    "WellDoneSonGuy",
+    "BrainyBrunette",
+    "ThePerfectionist",
+    "FemmeFatale",
+    "RealLifeWritesThePlot",
+    "InsecureLoveInterest",
+    "TwoFirstNames",
+    "MoralityPet",
+    "HyperCompetentSidekick",
+    "SheCleansUpNicely",
+    "OfficeRomance",
+    "NonIdleRich",
+    "Deconstructed",
+    "SingleWomanSeeksGoodMan",
+    "NiceGirl",
+    "OvershadowedByAwesome"
+  ],
   "tropes_by_category": {}
 }

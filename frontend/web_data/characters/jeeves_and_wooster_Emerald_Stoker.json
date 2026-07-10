@@ -1,7 +1,13 @@
 {
   "name": "Emerald Stoker",
   "show": "Jeeves and Wooster",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "SupremeChef",
+    "RememberTheNewGuy",
+    "ViolentlyProtectiveGirlfriend",
+    "GirlNextDoor",
+    "LastGirlWins"
+  ],
   "tropes_by_category": {}
 }

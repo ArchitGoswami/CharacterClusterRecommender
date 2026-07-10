@@ -1,7 +1,17 @@
 {
   "name": "Richard Montlaur",
   "show": "Ted Lasso",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "RunningGag",
+    "LanguageBarrier",
+    "HasAType",
+    "PatrioticFervor",
+    "HiddenDepths",
+    "FrenchJerk",
+    "OutOfFocus",
+    "ReallyGetsAround",
+    "EveryoneLooksSexierIfFrench"
+  ],
   "tropes_by_category": {}
 }

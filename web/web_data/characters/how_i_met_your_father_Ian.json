@@ -1,7 +1,10 @@
 {
   "name": "Ian",
   "show": "How I Met Your Father",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "TheBusCameBack",
+    "RomanticFalseLead"
+  ],
   "tropes_by_category": {}
 }

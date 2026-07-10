@@ -1,7 +1,14 @@
 {
   "name": "Harry",
   "show": "Bear in the Big Blue House",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AlliterativeFamily",
+    "FurryReminder",
+    "FunnyAnimal",
+    "MassiveNumberedSiblings",
+    "ArtisticLicenseOrnithology",
+    "MyInstinctsAreShowing"
+  ],
   "tropes_by_category": {}
 }

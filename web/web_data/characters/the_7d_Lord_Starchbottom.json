@@ -1,7 +1,23 @@
 {
   "name": "Lord Starchbottom",
   "show": "The 7D",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "NoCelebritiesWereHarmed",
+    "GagNose",
+    "ConfessionCam",
+    "LovableCoward",
+    "StraightMan",
+    "NervousWreck",
+    "OnlySaneMan",
+    "BeleagueredAssistant",
+    "HypocriticalHumor",
+    "FakeAristocrat",
+    "LineOfSightName",
+    "WhyDidItHaveToBeSnakes",
+    "BettyAndVeronica",
+    "RedheadInGreen",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

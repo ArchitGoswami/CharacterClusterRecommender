@@ -1,7 +1,12 @@
 {
   "name": "Paul Stadler",
   "show": "Grey's Anatomy",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AssholeVictim",
+    "HateSink",
+    "HoistByHisOwnPetard",
+    "DomesticAbuse"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,19 @@
 {
   "name": "Phil Funnie",
   "show": "Doug",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "StartMyOwn",
+    "AmazinglyEmbarrassingParents",
+    "HappilyMarried",
+    "GoodParents",
+    "BumblingDad",
+    "ActualPacifist",
+    "RidiculouslyAverageGuy",
+    "HiddenDepths",
+    "Standard50sFather",
+    "OnlySaneMan",
+    "CameraFiend"
+  ],
   "tropes_by_category": {}
 }

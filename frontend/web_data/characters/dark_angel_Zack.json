@@ -1,7 +1,18 @@
 {
   "name": "Zack",
   "show": "Dark Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "NeuroVault",
+    "BigBrotherInstinct",
+    "FakeMemories",
+    "AndIMustScream",
+    "NotBloodSiblings",
+    "PutOnABus",
+    "TimeshiftedActor",
+    "BigDamnHeroes",
+    "KnightTemplarBigBrother",
+    "BrainwashedAndCrazy"
+  ],
   "tropes_by_category": {}
 }

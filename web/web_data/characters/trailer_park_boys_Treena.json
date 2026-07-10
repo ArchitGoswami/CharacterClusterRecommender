@@ -1,7 +1,16 @@
 {
   "name": "Treena",
   "show": "Trailer Park Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheMole",
+    "SuspiciouslySimilarSubstitute",
+    "WhatHappenedToTheMouse",
+    "WhatTheHellHero",
+    "HeroWorship",
+    "JerkAss",
+    "MoralityPet",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

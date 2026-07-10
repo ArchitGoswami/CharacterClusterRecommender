@@ -1,7 +1,13 @@
 {
   "name": "Little Red Train",
   "show": "Little Einsteins",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "PintSizedPowerhouse",
+    "RedIsHeroic",
+    "TheSpeechless",
+    "ContinuityCameo",
+    "CoolTrain"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "Cissy and Dolly Godfrey",
   "show": "Dad's Army",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "OldMaid",
+    "AdaptedOut",
+    "ScatterbrainedSenior",
+    "LittleOldLadyInvestigates",
+    "CoolOldLady",
+    "Cloudcuckoolander",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

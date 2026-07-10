@@ -1,7 +1,28 @@
 {
   "name": "The Female (of the Species)",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 20,
+  "tropes": [
+    "TheSilentBob",
+    "SociopathicHero",
+    "BornUnlucky",
+    "HatesBeingTouched",
+    "SweetTooth",
+    "AbusiveParents",
+    "KilledOffForReal",
+    "LittleMissBadass",
+    "LightningBruiser",
+    "AsianAirhead",
+    "TearOffYourFace",
+    "HorrifyingTheHorror",
+    "PsychoForHire",
+    "ExcrementStatement",
+    "PintSizedPowerhouse",
+    "ScrewThisImOutOfHere",
+    "CuteAndPsycho",
+    "BecauseYouWereNiceToMe",
+    "AxCrazy",
+    "SacrificedBasicSkillForAwesomeTraining"
+  ],
   "tropes_by_category": {}
 }

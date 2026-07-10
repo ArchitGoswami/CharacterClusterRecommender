@@ -1,7 +1,12 @@
 {
   "name": "Adrian",
   "show": "La Femme Nikita",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AmnesiacsAreInnocent",
+    "BusCrash",
+    "FakingAmnesia",
+    "AntiVillain"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,10 @@
 {
   "name": "Raj Paresh",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PlayedForLaughs",
+    "UnsettlingGenderReveal"
+  ],
   "tropes_by_category": {}
 }

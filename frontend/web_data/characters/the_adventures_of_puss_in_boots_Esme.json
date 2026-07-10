@@ -1,7 +1,11 @@
 {
   "name": "Esme",
   "show": "The Adventures of Puss in Boots",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ChildrenAreInnocent",
+    "TroublingUnchildlikeBehavior",
+    "BewareTheNiceOnes"
+  ],
   "tropes_by_category": {}
 }

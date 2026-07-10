@@ -1,7 +1,17 @@
 {
   "name": "Laura (Loa)",
   "show": "Dinosaur King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SuperScream",
+    "BrotherSisterTeam",
+    "BerserkButton",
+    "SignatureMon",
+    "PunnyName",
+    "DaddysLittleVillain",
+    "OcularGushers",
+    "BerserkerTears",
+    "BlowYouAway"
+  ],
   "tropes_by_category": {}
 }

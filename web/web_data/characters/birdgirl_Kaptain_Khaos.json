@@ -1,7 +1,12 @@
 {
   "name": "Kaptain Khaos",
   "show": "Birdgirl",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AffablyEvil",
+    "PaperThinDisguise",
+    "HistoryRepeats",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

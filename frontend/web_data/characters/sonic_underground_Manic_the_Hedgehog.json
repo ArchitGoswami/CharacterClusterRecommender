@@ -1,7 +1,30 @@
 {
   "name": "Manic the Hedgehog",
   "show": "Sonic Underground",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "NonindicativeName",
+    "SuperSpeed",
+    "AnimeHair",
+    "SurferDude",
+    "LovableRogue",
+    "TheArtfulDodger",
+    "DespairEventHorizon",
+    "BadassNormal",
+    "StickyFingers",
+    "BadassAdorable",
+    "IsTheAnswerToThisQuestionYes",
+    "DrivesLikeCrazy",
+    "TotallyRadical",
+    "MrViceGuy",
+    "HeroicFatigue",
+    "ToughSpikesAndStuds",
+    "DumbAndDrummer",
+    "DishingOutDirt",
+    "SuperStrength",
+    "BewareTheNiceOnes",
+    "DudeInDistress",
+    "HoverBoard"
+  ],
   "tropes_by_category": {}
 }

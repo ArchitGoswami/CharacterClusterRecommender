@@ -1,7 +1,15 @@
 {
   "name": "Abigail Paine",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "ActionGirl",
+    "DrillSergeantNasty",
+    "LovableJock",
+    "ReusedCharacterDesign",
+    "InSeriesNickname",
+    "JerkJock",
+    "HotBlooded"
+  ],
   "tropes_by_category": {}
 }

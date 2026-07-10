@@ -1,7 +1,13 @@
 {
   "name": "Eddie Fairbanks",
   "show": "Two of a Kind",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "CasanovaWannabe",
+    "ChuckCunninghamSyndrome",
+    "DropInCharacter",
+    "SensitiveGuyAndManlyMan",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Dinah Doll",
   "show": "Noddy's Toyland Adventures",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "GirlinessUpgrade",
+    "AdorablyPrecociousChild",
+    "CoolHorse",
+    "ADayInTheLimelight",
+    "TwinTails",
+    "CanonForeigner",
+    "TomboyAndGirlyGirl",
+    "ReasonableAuthorityFigure",
+    "AgeLift",
+    "KiddyCoveralls",
+    "TomboyWithAGirlyStreak",
+    "TokenMinority",
+    "NiceGirl",
+    "VagueAge",
+    "VocalDissonance",
+    "RoughOveralls",
+    "CanonImmigrant"
+  ],
   "tropes_by_category": {}
 }

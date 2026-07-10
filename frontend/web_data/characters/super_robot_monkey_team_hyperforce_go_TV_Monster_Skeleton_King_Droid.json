@@ -1,7 +1,22 @@
 {
   "name": "TV Monster/Skeleton King Droid",
   "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "EnergyBall",
+    "ArmCannon",
+    "GatlingGood",
+    "EliteMook",
+    "StayingAlive",
+    "DarkIsEvil",
+    "TVHeadRobot",
+    "DavidVersusGoliath",
+    "MouthOfSauron",
+    "TheBrute",
+    "LightningGun",
+    "LightIsNotGood",
+    "NighInvulnerable",
+    "ImplacableMan"
+  ],
   "tropes_by_category": {}
 }

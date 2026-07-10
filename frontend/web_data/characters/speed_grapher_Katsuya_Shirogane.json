@@ -1,7 +1,22 @@
 {
   "name": "Katsuya Shirogane",
   "show": "Speed Grapher",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "CatchPhrase",
+    "StarterVillain",
+    "MadnessMantra",
+    "DanceBattler",
+    "CreepyBallet",
+    "AxCrazy",
+    "KickTheDog",
+    "FormFittingWardrobe",
+    "RubberMan",
+    "SissyVillain",
+    "HoistByHisOwnPetard",
+    "SmugSnake",
+    "SensualSpandex",
+    "OffWithHisHead"
+  ],
   "tropes_by_category": {}
 }

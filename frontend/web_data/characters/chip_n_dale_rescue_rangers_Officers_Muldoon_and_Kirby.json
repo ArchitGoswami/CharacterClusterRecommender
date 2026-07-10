@@ -1,7 +1,16 @@
 {
   "name": "Officers Muldoon and Kirby",
   "show": "Chip 'n Dale Rescue Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "EyeObscuringHat",
+    "MinorityPoliceOfficer",
+    "GoofyBuckteeth",
+    "EconomyCast",
+    "StacheOfDuty",
+    "DonutMessWithACop",
+    "LastNameBasis"
+  ],
   "tropes_by_category": {}
 }

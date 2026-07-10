@@ -1,7 +1,9 @@
 {
   "name": "Big the Cat",
   "show": "Sonic Prime",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

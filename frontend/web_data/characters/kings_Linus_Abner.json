@@ -1,7 +1,10 @@
 {
   "name": "Linus Abner",
   "show": "Kings",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "GeneralRipper",
+    "RewardedAsATraitorDeserves"
+  ],
   "tropes_by_category": {}
 }

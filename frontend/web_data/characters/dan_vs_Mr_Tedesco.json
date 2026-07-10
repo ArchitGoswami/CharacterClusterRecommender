@@ -1,7 +1,21 @@
 {
   "name": "Mr. Tedesco",
   "show": "Dan Vs.",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BoundAndGagged",
+    "Jerkass",
+    "AdultsAreUseless",
+    "MightMakesRight",
+    "LaserGuidedKarma",
+    "TheBully",
+    "SocialDarwinist",
+    "GoneHorriblyRight",
+    "NiceJobFixingItVillain",
+    "WouldHurtAChild",
+    "BilingualBonus",
+    "BrainsEvilBrawnGood",
+    "WilliamTelling"
+  ],
   "tropes_by_category": {}
 }

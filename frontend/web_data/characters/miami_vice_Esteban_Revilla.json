@@ -1,7 +1,14 @@
 {
   "name": "Esteban Revilla",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ScrewThisImOutOfHere",
+    "Expy",
+    "LaserGuidedKarma",
+    "TheMole",
+    "FatalFlaw",
+    "CrazyPrepared"
+  ],
   "tropes_by_category": {}
 }

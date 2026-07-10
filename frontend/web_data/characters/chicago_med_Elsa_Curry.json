@@ -1,7 +1,14 @@
 {
   "name": "Elsa Curry",
   "show": "Chicago Med",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "ScrewTheRulesImDoingWhatsRight",
+    "OddFriendship",
+    "JerkWithAHeartOfGold",
+    "TheSpock",
+    "PutOnABus",
+    "TheSmartGuy"
+  ],
   "tropes_by_category": {}
 }

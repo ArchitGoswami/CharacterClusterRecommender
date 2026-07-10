@@ -1,7 +1,10 @@
 {
   "name": "Betty Sandstone",
   "show": "Stoked",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "PunnyName",
+    "PinkMeansFeminine"
+  ],
   "tropes_by_category": {}
 }

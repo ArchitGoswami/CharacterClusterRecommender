@@ -1,7 +1,17 @@
 {
   "name": "Garrett Randall",
   "show": "Yellowstone",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheManBehindTheMan",
+    "Blackmail",
+    "WellDoneSonGuy",
+    "SuicideByCop",
+    "ItsPersonal",
+    "SoProudOfYou",
+    "MetaphoricallyTrue",
+    "WalkingSpoiler",
+    "IDidWhatIHadToDo"
+  ],
   "tropes_by_category": {}
 }

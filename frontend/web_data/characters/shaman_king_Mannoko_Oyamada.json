@@ -1,7 +1,12 @@
 {
   "name": "Mannoko Oyamada",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "AnnoyingYoungerSibling",
+    "StrongFamilyResemblance",
+    "PintSizedKid",
+    "ChildProdigy"
+  ],
   "tropes_by_category": {}
 }

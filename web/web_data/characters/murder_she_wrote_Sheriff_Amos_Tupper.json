@@ -1,7 +1,17 @@
 {
   "name": "Sheriff Amos Tupper",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "FlawlessToken",
+    "PutOnTheBus",
+    "TenMinuteRetirement",
+    "ReasonableAuthorityFigure",
+    "SmarterThanYouLook",
+    "PoliceAreUseless",
+    "PoliticallyIncorrectHero",
+    "ThinkingTic",
+    "ThirdWheel"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Professor Kubota",
   "show": "Denji Sentai Megaranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "CoolOldGuy",
+    "MissionControl",
+    "Mentors",
+    "ADayInTheLimelight",
+    "TheChooserOfTheOne",
+    "CarFu",
+    "ItsAllMyFault",
+    "BigDamnHeroes",
+    "WeUsedToBeFriends"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Catherine \"Charlie\" De Marco",
   "show": "Graceland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BrokenBird",
+    "ProperlyParanoid",
+    "MyGreatestFailure",
+    "DeceasedFallGuyGambit"
+  ],
   "tropes_by_category": {}
 }

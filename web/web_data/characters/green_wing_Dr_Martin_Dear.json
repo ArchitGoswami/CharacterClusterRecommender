@@ -1,7 +1,30 @@
 {
   "name": "Dr. Martin Dear",
   "show": "Green Wing",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "VerbalTic",
+    "HilariouslyAbusiveChildhood",
+    "ButtMonkey",
+    "CasanovaWannabe",
+    "LiteralMinded",
+    "ExtremeDoormat",
+    "GagPenis",
+    "TheDogBitesBack",
+    "DoggedNiceGuy",
+    "DisappearedDad",
+    "TheDitherer",
+    "AnnoyingYoungerSibling",
+    "NoSocialSkills",
+    "SensitiveGuyAndManlyMan",
+    "EmbarrassingNickname",
+    "StrongFamilyResemblance",
+    "BumblingSidekick",
+    "InnocentlyInsensitive",
+    "SitcomCharacterArchetypes",
+    "HeterosexualLifePartners",
+    "Squick",
+    "ClarkKentOutfit"
+  ],
   "tropes_by_category": {}
 }

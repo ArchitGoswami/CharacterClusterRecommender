@@ -1,7 +1,18 @@
 {
   "name": "Agent Ames",
   "show": "Dark Angel",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "IronicName",
+    "BigBad",
+    "AncientConspiracy",
+    "EvenEvilHasLovedOnes",
+    "AntagonisticOffspring",
+    "SentIntoHiding",
+    "CainAndAbel",
+    "SmugSnake",
+    "FantasticRacism",
+    "ContrastingSequelAntagonist"
+  ],
   "tropes_by_category": {}
 }

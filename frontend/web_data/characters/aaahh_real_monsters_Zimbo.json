@@ -1,7 +1,22 @@
 {
   "name": "Zimbo",
   "show": "Aaahh!!! Real Monsters",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "CoolAndUnusualPunishment",
+    "Jerkass",
+    "NiceMeanAndInBetween",
+    "LaserGuidedKarma",
+    "ProfessionalButtKisser",
+    "TheInformant",
+    "TheNapoleon",
+    "TheStoolPigeon",
+    "TranslatorBuddy",
+    "GreenAndMean",
+    "ForTheEvulz",
+    "LightIsNotGood",
+    "VillainousFriendship"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,9 @@
 {
   "name": "Assistant Director Walt Merrick",
   "show": "Numb3rs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "OneShotCharacter"
+  ],
   "tropes_by_category": {}
 }

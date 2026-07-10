@@ -1,7 +1,17 @@
 {
   "name": "Stuart St. John",
   "show": "Taken",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "SuddenSequelHeelSyndrome",
+    "BigBad",
+    "WhatHappenedToTheMouse",
+    "TookALevelInJerkass",
+    "BetterToDieThanBeKilled",
+    "YouDontLookLikeYou",
+    "FaceHeelTurn",
+    "AscendedExtra",
+    "IronicEcho"
+  ],
   "tropes_by_category": {}
 }

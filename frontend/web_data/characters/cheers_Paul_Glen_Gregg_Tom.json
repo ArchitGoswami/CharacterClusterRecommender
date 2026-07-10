@@ -1,7 +1,21 @@
 {
   "name": "Paul/Glen/Gregg/Tom",
   "show": "Cheers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "YourApprovalFillsMeWithShame",
+    "ChubbyChaser",
+    "RunningGag",
+    "FakeGuestStar",
+    "ButtMonkey",
+    "TheDanza",
+    "HiddenDepths",
+    "OneSteveLimit",
+    "StrawLoser",
+    "LampshadeHanging",
+    "PlayedForLaughs",
+    "AscendedExtra",
+    "KavorkaMan"
+  ],
   "tropes_by_category": {}
 }

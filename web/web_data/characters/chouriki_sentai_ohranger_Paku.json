@@ -1,7 +1,10 @@
 {
   "name": "Paku",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "ReptilesAreAbhorrent",
+    "SatelliteCharacter"
+  ],
   "tropes_by_category": {}
 }

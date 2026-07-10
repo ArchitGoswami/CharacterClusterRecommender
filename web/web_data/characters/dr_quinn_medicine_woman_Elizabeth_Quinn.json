@@ -1,7 +1,12 @@
 {
   "name": "Elizabeth Quinn",
   "show": "Dr. Quinn, Medicine Woman",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BookEnds",
+    "SoProudOfYou",
+    "FantasyForbiddingParent",
+    "OutlivingOnesOffspring"
+  ],
   "tropes_by_category": {}
 }

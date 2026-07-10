@@ -1,7 +1,23 @@
 {
   "name": "Nola Lyons",
   "show": "Dirty Sexy Money",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "DeadpanSnarker",
+    "ForcedIntoEvil",
+    "LoveInterest",
+    "TheMole",
+    "TheRival",
+    "BigSisterInstinct",
+    "HighPoweredCareerWoman",
+    "FemmeFatale",
+    "MarriedToTheJob",
+    "PlayedWith",
+    "NumberTwo",
+    "InLoveWithTheMark",
+    "HelloAttorney",
+    "TheDeterminator",
+    "IronLady"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Professor Donaldson",
   "show": "Jane the Virgin",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "StrawFeminist",
+    "StraightGay",
+    "DefrostingIceQueen",
+    "TheMentor"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,25 @@
 {
   "name": "Little Green Men",
   "show": "Buzz Lightyear of Star Command",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "MissionControl",
+    "ExtraEyes",
+    "CowardlyLion",
+    "ProudIndustriousRace",
+    "ChristmasElves",
+    "SweetTooth",
+    "ZigZaggedTrope",
+    "AchievementsInIgnorance",
+    "ParodyProductPlacement",
+    "EvenNerdsHaveStandards",
+    "FunWithAcronyms",
+    "LittleGreenMen",
+    "OOCIsSeriousBusiness",
+    "HiveMind",
+    "DittoAliens",
+    "AdaptationNameChange",
+    "DependingOnTheWriter"
+  ],
   "tropes_by_category": {}
 }

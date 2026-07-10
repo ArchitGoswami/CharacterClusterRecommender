@@ -1,7 +1,17 @@
 {
   "name": "Angus",
   "show": "Elsbeth",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AccentInterest",
+    "LoveInterest",
+    "OffscreenBreakup",
+    "WordOfGod",
+    "LongDistanceRelationship",
+    "RedheadsAreRavishing",
+    "GirlsLikeMusicians",
+    "FiremenAreHot",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

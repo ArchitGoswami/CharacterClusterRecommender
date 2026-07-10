@@ -1,7 +1,16 @@
 {
   "name": "Tanya",
   "show": "Misfits",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "Yandere",
+    "CharacterTics",
+    "TimeStandsStill",
+    "JumpingOffTheSlipperySlope",
+    "DeathByFallingOver",
+    "DisproportionateRetribution",
+    "PersonalityPowers",
+    "FreudianExcuse"
+  ],
   "tropes_by_category": {}
 }

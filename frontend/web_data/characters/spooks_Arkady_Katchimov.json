@@ -1,7 +1,12 @@
 {
   "name": "Arkady Katchimov",
   "show": "Spooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EvilCounterpart",
+    "WeHaveReserves",
+    "PrisonerExchange",
+    "TheChessmaster"
+  ],
   "tropes_by_category": {}
 }

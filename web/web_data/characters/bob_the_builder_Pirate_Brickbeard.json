@@ -1,7 +1,11 @@
 {
   "name": "Pirate Brickbeard",
   "show": "Bob the Builder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "GoldColoredSuperiority",
+    "CaptainColorbeard",
+    "RealAfterAll"
+  ],
   "tropes_by_category": {}
 }

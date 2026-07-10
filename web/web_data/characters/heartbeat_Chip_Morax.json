@@ -1,7 +1,19 @@
 {
   "name": "Chip Morax",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "BossRemix",
+    "TheRedMage",
+    "WhenSheSmiles",
+    "Leitmotif",
+    "EyesOutOfSight",
+    "KnowWhenToFoldEm",
+    "DishingOutDirt",
+    "TheUnfought",
+    "Really700YearsOld",
+    "DualWielding",
+    "CharacterClassSystem"
+  ],
   "tropes_by_category": {}
 }

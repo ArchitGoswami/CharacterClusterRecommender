@@ -1,7 +1,25 @@
 {
   "name": "The Eraser",
   "show": "Super Why!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "GoodFeelsGood",
+    "AffablyEvil",
+    "EvilIsHammy",
+    "HeelFaceTurn",
+    "ProneToTears",
+    "HelpImStuck",
+    "EvilLaugh",
+    "KarmaHoudini",
+    "Manchild",
+    "AmazingTechnicolorPopulation",
+    "MyGodWhatHaveIDone",
+    "RubberMan",
+    "Flight",
+    "StupidEvil",
+    "BroughtToYouByTheLetterS",
+    "DidntThinkThisThrough",
+    "ForTheEvulz"
+  ],
   "tropes_by_category": {}
 }

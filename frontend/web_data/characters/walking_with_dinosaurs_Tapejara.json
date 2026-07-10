@@ -1,7 +1,17 @@
 {
   "name": "Tapejara",
   "show": "Walking with Dinosaurs",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "NoisyNature",
+    "PaletteSwap",
+    "GiantFlyer",
+    "BizarreSexualDimorphism",
+    "ArtisticLicensePaleontology",
+    "CompositeCharacter",
+    "AnachronismStew",
+    "MisplacedWildlife",
+    "HeroOfAnotherStory"
+  ],
   "tropes_by_category": {}
 }

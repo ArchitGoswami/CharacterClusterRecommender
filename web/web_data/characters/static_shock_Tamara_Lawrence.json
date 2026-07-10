@@ -1,7 +1,19 @@
 {
   "name": "Tamara Lawrence",
   "show": "Static Shock",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "SamusIsAGirl",
+    "EvilSoundsDeep",
+    "DistaffCounterpart",
+    "NeverMyFault",
+    "FrameUp",
+    "HulkingOut",
+    "WeaksauceWeakness",
+    "CoolShades",
+    "BackForTheFinale",
+    "TheCameo",
+    "EvilIsPetty"
+  ],
   "tropes_by_category": {}
 }

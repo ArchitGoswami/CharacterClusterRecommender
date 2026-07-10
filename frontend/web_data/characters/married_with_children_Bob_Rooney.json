@@ -1,7 +1,12 @@
 {
   "name": "Bob Rooney",
   "show": "Married with Children",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "FullNameBasis",
+    "FatBastard",
+    "DoomItYourself",
+    "DirtyOldMan"
+  ],
   "tropes_by_category": {}
 }

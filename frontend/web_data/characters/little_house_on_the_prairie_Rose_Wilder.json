@@ -1,7 +1,14 @@
 {
   "name": "Rose Wilder",
   "show": "Little House on the Prairie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BrainyBrunette",
+    "TheSmartGirl",
+    "LastOfHerKind",
+    "RealLife",
+    "GenerationXerox",
+    "ChildProdigy"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Jake Malinak",
   "show": "Becker",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheCasanova",
+    "DeadpanSnarker",
+    "OddFriendship",
+    "SnarkToSnarkCombat",
+    "Jerkass",
+    "BlindPeopleWearSunglasses",
+    "BlindBlackGuy",
+    "SadistShow",
+    "FourTemperamentEnsemble"
+  ],
   "tropes_by_category": {}
 }

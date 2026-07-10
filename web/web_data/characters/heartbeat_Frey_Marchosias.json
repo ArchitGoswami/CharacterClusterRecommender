@@ -1,7 +1,12 @@
 {
   "name": "Frey Marchosias",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "PredatorPreyFriendship",
+    "CastingAShadow",
+    "MyGreatestFailure",
+    "PredatorTurnedProtector"
+  ],
   "tropes_by_category": {}
 }

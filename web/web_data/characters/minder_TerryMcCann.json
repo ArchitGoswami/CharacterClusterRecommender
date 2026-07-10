@@ -1,7 +1,21 @@
 {
   "name": "TerryMcCann",
   "show": "Minder",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "BruiserWithASoftCenter",
+    "DumbMuscle",
+    "FeelingTheirAge",
+    "TheConscience",
+    "CommitmentIssues",
+    "OnlySaneMan",
+    "PutOnABus",
+    "ReformedCriminal",
+    "StreetSmart",
+    "BookDumb",
+    "GoodOldFisticuffs",
+    "ButtMonkey",
+    "GeniusBruiser"
+  ],
   "tropes_by_category": {}
 }

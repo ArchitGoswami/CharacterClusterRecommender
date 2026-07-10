@@ -1,7 +1,14 @@
 {
   "name": "Muriel Stacy",
   "show": "Anne With an E",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Schoolmarm",
+    "BirdsOfAFeather",
+    "OfCorsetHurts",
+    "SpiritedYoungLady",
+    "Downplayed",
+    "RealWomenDontWearDresses"
+  ],
   "tropes_by_category": {}
 }

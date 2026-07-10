@@ -1,7 +1,13 @@
 {
   "name": "Ms. Duck",
   "show": "Skunk Fu!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "ADogNamedDog",
+    "NeverMessWithGranny",
+    "BewareTheNiceOnes",
+    "PaperFanOfDoom",
+    "CoolOldLady"
+  ],
   "tropes_by_category": {}
 }

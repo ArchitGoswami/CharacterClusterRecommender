@@ -1,7 +1,20 @@
 {
   "name": "Dean",
   "show": "Hollyoaks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "SettleForSibling",
+    "TheCasanova",
+    "HeroicSacrifice",
+    "EstrangedSoapFamily",
+    "IfItsYouItsOkay",
+    "PleaseDontLeaveMe",
+    "PutOnABus",
+    "DomesticAbuse",
+    "BetterToDieThanBeKilled",
+    "RidingIntoTheSunset",
+    "ParentalAbandonment",
+    "TooGoodForThisSinfulEarth"
+  ],
   "tropes_by_category": {}
 }

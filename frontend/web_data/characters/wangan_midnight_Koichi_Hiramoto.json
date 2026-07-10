@@ -1,7 +1,10 @@
 {
   "name": "Koichi Hiramoto",
   "show": "Wangan Midnight",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "HeelRealization",
+    "EarnYourHappyEnding"
+  ],
   "tropes_by_category": {}
 }

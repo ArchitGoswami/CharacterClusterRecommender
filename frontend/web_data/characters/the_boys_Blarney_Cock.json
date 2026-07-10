@@ -1,7 +1,25 @@
 {
   "name": "Blarney Cock",
   "show": "The Boys",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "ThoseTwoGuys",
+    "CameBackWrong",
+    "NWordPrivileges",
+    "AtrociousAlias",
+    "ImpaledWithExtremePrejudice",
+    "FurnaceBodyDisposal",
+    "FightingIrish",
+    "HeterosexualLifePartners",
+    "AccidentalMurder",
+    "BestialityIsDepraved",
+    "EvilRedhead",
+    "PoliticallyIncorrectHero",
+    "AssShove",
+    "TheScapegoat",
+    "SecretLegacy",
+    "NeckSnap",
+    "BackFromTheDead"
+  ],
   "tropes_by_category": {}
 }

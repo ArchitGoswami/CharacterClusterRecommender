@@ -1,7 +1,18 @@
 {
   "name": "Lee Pyron",
   "show": "Shaman King",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 10,
+  "tropes": [
+    "WouldHitAGirl",
+    "BodyguardCrush",
+    "OurZombiesAreDifferent",
+    "TurnTheOtherCheek",
+    "BruceLeeClone",
+    "UndeathlyPallor",
+    "LightningBruiser",
+    "ChineseVampire",
+    "UnstoppableRage",
+    "MartialPacifist"
+  ],
   "tropes_by_category": {}
 }

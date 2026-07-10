@@ -1,7 +1,25 @@
 {
   "name": "Frida Kahlo",
   "show": "Clone High",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "OfficialCouple",
+    "RedeemingReplacement",
+    "FanservicePack",
+    "ClassPrincess",
+    "ProgressivelyPrettier",
+    "GirlsWithMoustaches",
+    "ThirdOptionLoveInterest",
+    "NiceGirl",
+    "GibberishOfLove",
+    "MellowFellow",
+    "DrearyHalfLiddedEyes",
+    "Butterface",
+    "ShipTease",
+    "MoralityPet",
+    "BigOlUnibrow",
+    "AmbiguouslyBi",
+    "AscendedExtra"
+  ],
   "tropes_by_category": {}
 }

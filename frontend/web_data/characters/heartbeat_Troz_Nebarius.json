@@ -1,7 +1,26 @@
 {
   "name": "Troz Nebarius",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 18,
+  "tropes": [
+    "Cerberus",
+    "BigOlEyebrows",
+    "DarkIsNotEvil",
+    "CastingAShadow",
+    "DumbMuscle",
+    "TheBigGuy",
+    "FurryReminder",
+    "Leitmotif",
+    "BigFriendlyDog",
+    "OlderThanTheyLook",
+    "TheNoseKnows",
+    "PunnyName",
+    "PowerFist",
+    "MailmanVsDog",
+    "MultipleHeadCase",
+    "KnightInShiningArmor",
+    "BossRemix",
+    "CharacterClassSystem"
+  ],
   "tropes_by_category": {}
 }

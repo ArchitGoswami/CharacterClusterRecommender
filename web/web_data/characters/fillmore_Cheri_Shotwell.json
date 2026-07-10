@@ -1,7 +1,17 @@
 {
   "name": "Cheri Shotwell",
   "show": "Fillmore!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "PerpetualSmiler",
+    "AmbiguouslyRelated",
+    "TheGlomp",
+    "PunnyName",
+    "StepfordSmiler",
+    "HypocriticalHumor",
+    "LovableAlphaBitch",
+    "HiddenDepths",
+    "TallDarkAndHandsome"
+  ],
   "tropes_by_category": {}
 }

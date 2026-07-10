@@ -1,7 +1,12 @@
 {
   "name": "Steve Jackson",
   "show": "Fish Hooks",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BigManOnCampus",
+    "ChickMagnet",
+    "NiceGuy",
+    "TheAce"
+  ],
   "tropes_by_category": {}
 }

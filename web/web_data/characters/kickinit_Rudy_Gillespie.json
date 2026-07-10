@@ -1,7 +1,14 @@
 {
   "name": "Rudy Gillespie",
   "show": "Kickin'it",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "JerkWithAHeartOfGold",
+    "BewareTheSillyOnes",
+    "CrouchingMoronHiddenBadass",
+    "TheNapoleon",
+    "SensitiveGuyAndManlyMan",
+    "ParentalSubstitute"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,13 @@
 {
   "name": "Prince Bulldont Jr.",
   "show": "Chouriki Sentai Ohranger",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "HeelFaceTurn",
+    "ChildrenAreInnocent",
+    "HappilyAdopted",
+    "DeadGuyJunior",
+    "WalkingSpoiler"
+  ],
   "tropes_by_category": {}
 }

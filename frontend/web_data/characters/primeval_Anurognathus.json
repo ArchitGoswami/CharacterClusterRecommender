@@ -1,7 +1,17 @@
 {
   "name": "Anurognathus",
   "show": "Primeval",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheSwarm",
+    "ShoutOut",
+    "PiranhaProblem",
+    "TerrorDactyl",
+    "EatenAlive",
+    "KillItWithFire",
+    "ArtisticLicensePaleontology",
+    "InformedSpecies",
+    "ZergRush"
+  ],
   "tropes_by_category": {}
 }

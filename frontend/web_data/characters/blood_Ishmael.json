@@ -1,7 +1,16 @@
 {
   "name": "Ishmael",
   "show": "Blood+",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "AffablyEvil",
+    "CharacterTics",
+    "TokenGoodTeammate",
+    "DeathIsNotPermanent",
+    "SquishyWizard",
+    "LegacyCharacter",
+    "BaldOfEvil",
+    "BadassLongcoat"
+  ],
   "tropes_by_category": {}
 }

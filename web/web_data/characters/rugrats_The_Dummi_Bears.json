@@ -1,7 +1,13 @@
 {
   "name": "The Dummi Bears",
   "show": "Rugrats",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 5,
+  "tropes": [
+    "TheMovie",
+    "Expy",
+    "Leitmotif",
+    "ThePollyanna",
+    "BearyFriendly"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,15 @@
 {
   "name": "The Vet",
   "show": "Back at the Barnyard",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "InexplicablyIdenticalIndividuals",
+    "ConspicuousGloves",
+    "CreepyPhysical",
+    "MisterStrangenoun",
+    "MorallyAmbiguousDoctorate",
+    "YouDontLookLikeYou",
+    "ObliviouslyEvil"
+  ],
   "tropes_by_category": {}
 }

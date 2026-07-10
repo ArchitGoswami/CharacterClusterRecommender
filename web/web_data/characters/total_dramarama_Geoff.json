@@ -1,7 +1,11 @@
 {
   "name": "Geoff",
   "show": "Total DramaRama",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "InnocentBystander",
+    "TheCameo",
+    "AdaptationalModesty"
+  ],
   "tropes_by_category": {}
 }

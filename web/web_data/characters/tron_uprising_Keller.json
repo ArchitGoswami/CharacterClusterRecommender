@@ -1,7 +1,21 @@
 {
   "name": "Keller",
   "show": "Tron: Uprising",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "GenderBender",
+    "DeadpanSnarker",
+    "NoPlansNoPrototypeNoBackUp",
+    "PetTheDog",
+    "MauveShirt",
+    "ReluctantMadScientist",
+    "NotSoStoic",
+    "MadScientist",
+    "ShootTheShaggyDog",
+    "GlamourFailure",
+    "AntiVillain",
+    "TheStoic",
+    "YouHaveFailedMe"
+  ],
   "tropes_by_category": {}
 }

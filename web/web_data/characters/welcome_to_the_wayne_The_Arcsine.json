@@ -1,7 +1,16 @@
 {
   "name": "The Arcsine",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "LoveInterest",
+    "BarrierMaiden",
+    "EmergentHuman",
+    "BroughtDownToNormal",
+    "BadassAdorable",
+    "RapidAging",
+    "AmbiguouslyBrown",
+    "BestFriend"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Albert \"Al\" Harris",
   "show": "Roseanne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "BusCrash",
+    "CerebusRetcon",
+    "TheGhost",
+    "AbusiveParents"
+  ],
   "tropes_by_category": {}
 }

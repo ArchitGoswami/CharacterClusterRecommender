@@ -1,7 +1,17 @@
 {
   "name": "Dr. Kadar",
   "show": "Falling Skies",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheSmartGuy",
+    "Hikikomori",
+    "AttentionDeficitOhShiny",
+    "BunnyEarsLawyer",
+    "MajorInjuryUnderreaction",
+    "OutlivingOnesOffspring",
+    "DyingSpeech",
+    "FaceDeathWithDignity",
+    "CynicismCatalyst"
+  ],
   "tropes_by_category": {}
 }

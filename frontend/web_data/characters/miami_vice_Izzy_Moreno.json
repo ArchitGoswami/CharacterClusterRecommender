@@ -1,7 +1,27 @@
 {
   "name": "Izzy Moreno",
   "show": "Miami Vice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "ImmoralJournalist",
+    "TheMerch",
+    "EveryoneHasStandards",
+    "LovableRogue",
+    "RefugeInAudacity",
+    "HiddenDepths",
+    "TheMalaproper",
+    "ADayInTheLimelight",
+    "ChekhovsGunman",
+    "RunningGag",
+    "SmallNameBigEgo",
+    "TheInformant",
+    "AscendedExtra",
+    "ClipShow",
+    "ManlyTears",
+    "CitizenshipMarriage",
+    "TookALevelInKindness",
+    "CharacterDevelopment",
+    "RunningGags"
+  ],
   "tropes_by_category": {}
 }

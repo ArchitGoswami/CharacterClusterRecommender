@@ -1,7 +1,30 @@
 {
   "name": "Gloomius Maximus",
   "show": "Rolie Polie Olie",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 22,
+  "tropes": [
+    "TragicVillain",
+    "VillainDecay",
+    "BerserkButton",
+    "FromNobodyToNightmare",
+    "EvilIsPetty",
+    "FreudianExcuse",
+    "SurroundedByIdiots",
+    "BladeBelowTheShoulder",
+    "SeadogPegLeg",
+    "TheDreaded",
+    "NinjaPirateZombieRobot",
+    "ToothStrip",
+    "HotBlooded",
+    "HookHand",
+    "BlackBeadEyes",
+    "Gonk",
+    "HeelFaceTurn",
+    "BenevolentBoss",
+    "BigBad",
+    "BecauseYouWereNiceToMe",
+    "NonStandardCharacterDesign",
+    "SpacePirate"
+  ],
   "tropes_by_category": {}
 }

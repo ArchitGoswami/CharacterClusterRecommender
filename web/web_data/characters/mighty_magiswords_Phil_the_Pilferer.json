@@ -1,7 +1,20 @@
 {
   "name": "Phil the Pilferer",
   "show": "Mighty Magiswords",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheCasanova",
+    "LatinLover",
+    "Catchphrase",
+    "NoCelebritiesWereHarmed",
+    "Jerkass",
+    "KarmaHoudini",
+    "TheBadGuyWins",
+    "VerbalTic",
+    "StealthHiBye",
+    "HypocriticalHumor",
+    "HoistByHisOwnPetard",
+    "ThirdPersonPerson"
+  ],
   "tropes_by_category": {}
 }

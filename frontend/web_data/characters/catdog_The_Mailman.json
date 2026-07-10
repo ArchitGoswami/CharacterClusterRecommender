@@ -1,7 +1,23 @@
 {
   "name": "\"The Mailman\"",
   "show": "CatDog",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 15,
+  "tropes": [
+    "FormerlyFat",
+    "SlasherSmile",
+    "UnstoppableMailman",
+    "Jerkass",
+    "SuperSpeed",
+    "VillainousBreakdown",
+    "ArchEnemy",
+    "BigBad",
+    "SmugSmiler",
+    "LizardFolk",
+    "VillainousGoldTooth",
+    "BaldOfEvil",
+    "SmugSnake",
+    "NoNameGiven",
+    "SchoolyardBullyAllGrownUp"
+  ],
   "tropes_by_category": {}
 }

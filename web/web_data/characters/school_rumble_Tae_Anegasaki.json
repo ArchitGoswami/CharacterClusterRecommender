@@ -1,7 +1,15 @@
 {
   "name": "Tae Anegasaki",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "HotForStudent",
+    "SchoolClubAdvisor",
+    "HospitalHottie",
+    "ShipperOnDeck",
+    "ThirdOptionLoveInterest",
+    "EmbarrassingNickname",
+    "SchoolNurse"
+  ],
   "tropes_by_category": {}
 }

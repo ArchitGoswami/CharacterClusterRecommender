@@ -1,7 +1,20 @@
 {
   "name": "Vanessa 'Van' Keefer",
   "show": "Atlanta",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "WomenAreWiser",
+    "FiveFingerDiscount",
+    "ADayInTheLimelight",
+    "CoolTeacher",
+    "NotSoAboveItAll",
+    "TheSmurfettePrinciple",
+    "ActorAllusion",
+    "CommutingOnABus",
+    "TookALevelInJerkass",
+    "CloserToEarth",
+    "TwoferTokenMinority",
+    "CantGetAwayWithNuthin"
+  ],
   "tropes_by_category": {}
 }

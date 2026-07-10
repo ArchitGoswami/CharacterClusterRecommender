@@ -1,7 +1,16 @@
 {
   "name": "Yuuki Tachibana",
   "show": "Cardcaptor Sakura",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheReveal",
+    "DisappearedDad",
+    "CurtainsMatchTheWindow",
+    "Bifauxnen",
+    "CompressedHair",
+    "Tomboy",
+    "DaddysGirl",
+    "DubNameChange"
+  ],
   "tropes_by_category": {}
 }

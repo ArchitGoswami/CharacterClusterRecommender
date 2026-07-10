@@ -1,7 +1,11 @@
 {
   "name": "Zheng Dantalion",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HumanDisguise",
+    "OptionalBoss",
+    "DishingOutDirt"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,20 @@
 {
   "name": "Verbena \"Pepper\" Salter",
   "show": "Jane and the Dragon",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "FeminineWomenCanCook",
+    "IWantGrandkids",
+    "TeamMom",
+    "StealthPun",
+    "WordOfGod",
+    "ThePollyanna",
+    "SweetBaker",
+    "RavenHairIvorySkin",
+    "BewareTheNiceOnes",
+    "TomboyAndGirlyGirl",
+    "TrademarkFavoriteFood",
+    "CheerfulChild"
+  ],
   "tropes_by_category": {}
 }

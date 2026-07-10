@@ -1,7 +1,12 @@
 {
   "name": "Jim Racine",
   "show": "Banshee",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "SmokingIsCool",
+    "DroppedABridgeOnHim",
+    "TheAtoner",
+    "DoNotDoThisCoolThing"
+  ],
   "tropes_by_category": {}
 }

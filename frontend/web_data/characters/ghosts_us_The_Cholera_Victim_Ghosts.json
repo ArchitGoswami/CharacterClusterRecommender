@@ -1,7 +1,16 @@
 {
   "name": "The Cholera Victim Ghosts",
   "show": "Ghosts US",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "TheDogBitesBack",
+    "DeathBasedGhostPowers",
+    "NiceGuy",
+    "SmarterThanYouLook",
+    "CargoCult",
+    "CreepyBasement",
+    "TheGenericGuy",
+    "DidYouThinkICantFeel"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,17 @@
 {
   "name": "Croatoan",
   "show": "Haven",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "AffablyEvil",
+    "VoiceOfTheLegion",
+    "AmbiguouslyHuman",
+    "MadScientist",
+    "EvenEvilHasLovedOnes",
+    "SealedEvilInACan",
+    "WellIntentionedExtremist",
+    "HeroKiller",
+    "TimeAbyss"
+  ],
   "tropes_by_category": {}
 }

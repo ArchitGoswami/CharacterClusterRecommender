@@ -1,7 +1,14 @@
 {
   "name": "Victor Hesse",
   "show": "Hawaii Five-0",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "BigBad",
+    "EvenEvilHasLovedOnes",
+    "AllForNothing",
+    "ItsPersonal",
+    "DiscOneFinalBoss",
+    "YouHaveFailedMe"
+  ],
   "tropes_by_category": {}
 }

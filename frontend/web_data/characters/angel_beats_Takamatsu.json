@@ -1,7 +1,25 @@
 {
   "name": "Takamatsu",
   "show": "Angel Beats!",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 17,
+  "tropes": [
+    "FitnessNut",
+    "DumbMuscle",
+    "ShamelessFanserviceGuy",
+    "Hunk",
+    "SubvertedTrope",
+    "MrFanservice",
+    "DumberThanTheyLook",
+    "SmartPeopleWearGlasses",
+    "UnexplainedRecovery",
+    "HiddenDepths",
+    "ShirtlessScene",
+    "SacrificialLion",
+    "TheSmartGuy",
+    "ClarkKentOutfit",
+    "LargeHam",
+    "MadLibsCatchPhrase",
+    "StoicSpectacles"
+  ],
   "tropes_by_category": {}
 }

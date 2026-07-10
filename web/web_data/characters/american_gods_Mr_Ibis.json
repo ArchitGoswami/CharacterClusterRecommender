@@ -1,7 +1,14 @@
 {
   "name": "Mr. Ibis",
   "show": "American Gods",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Psychopomp",
+    "SesquipedalianLoquaciousness",
+    "AmbiguouslyBrown",
+    "DontFearTheReaper",
+    "TheSmartGuy",
+    "LouisCypher"
+  ],
   "tropes_by_category": {}
 }

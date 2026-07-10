@@ -1,7 +1,15 @@
 {
   "name": "Corcus",
   "show": "Mighty Morphin Power Rangers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 7,
+  "tropes": [
+    "BewareTheQuietOnes",
+    "TheBabyOfTheBunch",
+    "TheQuietOne",
+    "NotSoStoic",
+    "TheSpock",
+    "AdaptationPersonalityChange",
+    "WordOfStPaul"
+  ],
   "tropes_by_category": {}
 }

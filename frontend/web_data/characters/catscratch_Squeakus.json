@@ -1,7 +1,11 @@
 {
   "name": "Squeakus",
   "show": "Catscratch",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "ArchNemesis",
+    "TheDreaded",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

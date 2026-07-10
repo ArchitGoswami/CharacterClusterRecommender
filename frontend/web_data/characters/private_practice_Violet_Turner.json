@@ -1,7 +1,19 @@
 {
   "name": "Violet Turner",
   "show": "Private Practice",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "RapeAsBackstory",
+    "SucksAtDancing",
+    "CommonalityConnection",
+    "AloneWithThePsycho",
+    "ExperimentedInCollege",
+    "MissingMom",
+    "NiceGirl",
+    "PlatonicLifePartners",
+    "TheConfidant",
+    "TheShrink",
+    "TeacherStudentRomance"
+  ],
   "tropes_by_category": {}
 }

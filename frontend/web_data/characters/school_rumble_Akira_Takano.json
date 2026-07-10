@@ -1,7 +1,31 @@
 {
   "name": "Akira Takano",
   "show": "School Rumble",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 23,
+  "tropes": [
+    "TsurimeEyes",
+    "BrokenAce",
+    "EmotionlessGirl",
+    "CameraFiend",
+    "Stoic",
+    "ActionGirl",
+    "DeadpanSnarker",
+    "TheChessmaster",
+    "BrutalHonesty",
+    "Bifauxnen",
+    "TheGadfly",
+    "SugarAndIcePersonality",
+    "BoyishShortHair",
+    "SchoolSwimsuit",
+    "WhenSheSmiles",
+    "TheComicallySerious",
+    "TheStoic",
+    "InsaneTrollLogic",
+    "CosplayOtakuGirl",
+    "MissionImpossibleCableDrop",
+    "ForgivingTheAccidentalPervert",
+    "SacredFirstKiss",
+    "GenreSavvy"
+  ],
   "tropes_by_category": {}
 }

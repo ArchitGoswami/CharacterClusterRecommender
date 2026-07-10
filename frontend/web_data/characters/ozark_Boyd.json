@@ -1,7 +1,11 @@
 {
   "name": "Boyd",
   "show": "Ozark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "HighVoltageDeath",
+    "HiddenDepths",
+    "SatelliteCharacter"
+  ],
   "tropes_by_category": {}
 }

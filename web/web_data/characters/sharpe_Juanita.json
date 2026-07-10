@@ -1,7 +1,20 @@
 {
   "name": "Juanita",
   "show": "Sharpe",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 12,
+  "tropes": [
+    "TheDogBitesBack",
+    "DiesDifferentlyInAdaptation",
+    "AppleOfDiscord",
+    "GunsAkimbo",
+    "GuttedLikeAFish",
+    "CompressedHair",
+    "DarkMistress",
+    "RebelLeader",
+    "SheKnowsTooMuch",
+    "TheDragon",
+    "EvilCounterpart",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

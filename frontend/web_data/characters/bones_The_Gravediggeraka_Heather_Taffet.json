@@ -1,7 +1,19 @@
 {
   "name": "The Gravediggeraka: Heather Taffet",
   "show": "Bones",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "YourHeadAsplode",
+    "SamusIsAGirl",
+    "VillainousBSOD",
+    "AmoralAttorney",
+    "AssholeVictim",
+    "HeroKiller",
+    "WouldHurtAChild",
+    "CriminalMindGames",
+    "EvilRedhead",
+    "BreakThemByTalking",
+    "SerialKiller"
+  ],
   "tropes_by_category": {}
 }

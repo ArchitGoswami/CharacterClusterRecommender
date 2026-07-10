@@ -1,7 +1,16 @@
 {
   "name": "Jay Weldon",
   "show": "Dennis the Menace",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 8,
+  "tropes": [
+    "BigGuyLittleGuy",
+    "CanonForeigner",
+    "RedGreenContrast",
+    "SuspiciouslySimilarSubstitute",
+    "TokenBlackFriend",
+    "UnfortunateCharacterDesign",
+    "TheVoiceless",
+    "CasualSportsJersey"
+  ],
   "tropes_by_category": {}
 }

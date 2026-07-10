@@ -1,7 +1,17 @@
 {
   "name": "Proteus",
   "show": "Penny Dreadful",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "WeHardlyKnewYe",
+    "MythologyGag",
+    "MyGreatestFailure",
+    "SurprisinglySuddenDeath",
+    "NiceGuy",
+    "NonIndicativeName",
+    "MeaningfulName",
+    "HalfTheManHeUsedToBe",
+    "DecoyProtagonist"
+  ],
   "tropes_by_category": {}
 }

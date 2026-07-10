@@ -1,7 +1,14 @@
 {
   "name": "Dean Moriarty",
   "show": "Wizards of Waverly Place",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "AllGirlsWantBadBoys",
+    "ShoutOut",
+    "LoveInterest",
+    "SensitiveGuyAndManlyMan",
+    "BadButt",
+    "MoralityChain"
+  ],
   "tropes_by_category": {}
 }

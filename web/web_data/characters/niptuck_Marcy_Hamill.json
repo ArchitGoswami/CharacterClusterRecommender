@@ -1,7 +1,9 @@
 {
   "name": "Marcy Hamill",
   "show": "Nip/Tuck",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "RedemptionEqualsDeath"
+  ],
   "tropes_by_category": {}
 }

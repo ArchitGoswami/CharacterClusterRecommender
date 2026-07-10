@@ -1,7 +1,17 @@
 {
   "name": "Duma",
   "show": "Lucifer",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "TheSilentBob",
+    "NiceGuy",
+    "GodzillaThreshold",
+    "TokenGoodTeammate",
+    "BigDamnHeroes",
+    "HolierThanThou",
+    "InnocentFlowerGirl",
+    "CanonImmigrant",
+    "CuteMute"
+  ],
   "tropes_by_category": {}
 }

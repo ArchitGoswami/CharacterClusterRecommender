@@ -1,7 +1,17 @@
 {
   "name": "Jeremiah Bello",
   "show": "Graceland",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 9,
+  "tropes": [
+    "LeaveNoWitnesses",
+    "ScaryBlackMan",
+    "ItsAllAboutMe",
+    "KickTheDog",
+    "LackOfEmpathy",
+    "TortureTechnician",
+    "RuthlessForeignGangsters",
+    "EyeScream",
+    "FauxAffablyEvil"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Jeff Greene",
   "show": "Curb Your Enthusiasm",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "Catchphrase",
+    "JerkWithAHeartOfGold",
+    "Jerkass",
+    "CelebrityResemblance",
+    "HenpeckedHusband",
+    "KavorkaMan"
+  ],
   "tropes_by_category": {}
 }

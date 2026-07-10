@@ -1,7 +1,29 @@
 {
   "name": "Rex Kimaris",
   "show": "Heartbeat",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 21,
+  "tropes": [
+    "MorphicResonance",
+    "WildHair",
+    "TheBard",
+    "Leitmotif",
+    "GoodParents",
+    "ShockAndAwe",
+    "PointOfNoReturn",
+    "RebelliousPrincess",
+    "JiveTurkey",
+    "TheBusCameBack",
+    "RaisedAsAHost",
+    "DanceBattler",
+    "FragileSpeedster",
+    "StepfordSmiler",
+    "CuteLittleFangs",
+    "IronicName",
+    "TomboyishName",
+    "OurManticoresAreSpinier",
+    "TomboyPrincess",
+    "BossRemix",
+    "CharacterClassSystem"
+  ],
   "tropes_by_category": {}
 }

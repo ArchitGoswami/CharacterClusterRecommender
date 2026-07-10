@@ -1,7 +1,9 @@
 {
   "name": "Robert Butler",
   "show": "Murder She Wrote",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 1,
+  "tropes": [
+    "DaChief"
+  ],
   "tropes_by_category": {}
 }

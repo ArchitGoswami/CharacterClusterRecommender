@@ -1,7 +1,19 @@
 {
   "name": "Build Team",
   "show": "Transformers: Robots in Disguise",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 11,
+  "tropes": [
+    "ThisIsADrill",
+    "NiceGuy",
+    "LostInTranslation",
+    "DubPersonalityChange",
+    "KidHero",
+    "ItsPersonal",
+    "InNameOnly",
+    "DubNameChange",
+    "OnlySaneMan",
+    "BloodKnight",
+    "CombiningMecha"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,12 @@
 {
   "name": "Desponda",
   "show": "VR Troopers",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "DemotedToExtra",
+    "BigBad",
+    "RememberTheNewGuy",
+    "HumiliationConga"
+  ],
   "tropes_by_category": {}
 }

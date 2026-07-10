@@ -1,7 +1,12 @@
 {
   "name": "Gideon Pryke",
   "show": "Jonathan Creek",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 4,
+  "tropes": [
+    "EurekaMoment",
+    "InspectorLestrade",
+    "BigDamnHeroes",
+    "AchievementsInIgnorance"
+  ],
   "tropes_by_category": {}
 }

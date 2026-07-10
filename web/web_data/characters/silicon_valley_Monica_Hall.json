@@ -1,7 +1,22 @@
 {
   "name": "Monica Hall",
   "show": "Silicon Valley",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "OddFriendship",
+    "WomenAreWiser",
+    "AbortedArc",
+    "TheSmurfettePrinciple",
+    "SpringtimeForHitler",
+    "TomboyAndGirlyGirl",
+    "MustHaveNicotine",
+    "ShipTease",
+    "JerkAss",
+    "NiceGirl",
+    "OnlySaneMan",
+    "SixthRanger",
+    "CigaretteOfAnxiety",
+    "ReassignedToAntarctica"
+  ],
   "tropes_by_category": {}
 }

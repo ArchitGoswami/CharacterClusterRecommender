@@ -1,7 +1,11 @@
 {
   "name": "Cal",
   "show": "Megas XLR",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "NoHeroDiscount",
+    "UnusuallyUninterestingSight",
+    "OneShotCharacter"
+  ],
   "tropes_by_category": {}
 }

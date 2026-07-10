@@ -1,7 +1,27 @@
 {
   "name": "Orton Mahlson/Dr. Hankry Zone",
   "show": "Milo Murphy's Law",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 19,
+  "tropes": [
+    "FakeBrit",
+    "Pun",
+    "InUniverse",
+    "BadBadActing",
+    "BadassLongcoat",
+    "ArsonMurderAndJaywalking",
+    "SignificantAnagram",
+    "StylisticSuck",
+    "AncientRome",
+    "RummageSaleReject",
+    "VisualPun",
+    "NinjaPirateZombieRobot",
+    "PungeonMaster",
+    "TheFutureIsShocking",
+    "RealLifeWritesThePlot",
+    "LivingMacGuffin",
+    "TheFuture",
+    "DescendedCreator",
+    "DoctorWhomage"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,11 @@
 {
   "name": "Zulya",
   "show": "Lobo",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 3,
+  "tropes": [
+    "BitchInSheepsClothing",
+    "NavelWindow",
+    "HumanAliens"
+  ],
   "tropes_by_category": {}
 }

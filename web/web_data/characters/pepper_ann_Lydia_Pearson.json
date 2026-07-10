@@ -1,7 +1,21 @@
 {
   "name": "Lydia Pearson",
   "show": "Pepper Ann",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 13,
+  "tropes": [
+    "AmazinglyEmbarrassingParents",
+    "BigBeautifulWoman",
+    "AmicablyDivorced",
+    "LargeHam",
+    "GoodParents",
+    "GenkiGirl",
+    "MamaBear",
+    "TheFashionista",
+    "GenerationXerox",
+    "GlamorousSingleMother",
+    "StrongFamilyResemblance",
+    "JewishMother",
+    "FamilyThemeNaming"
+  ],
   "tropes_by_category": {}
 }

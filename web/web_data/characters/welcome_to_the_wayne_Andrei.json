@@ -1,7 +1,22 @@
 {
   "name": "Andrei",
   "show": "Welcome to the Wayne",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 14,
+  "tropes": [
+    "FishOutOfWater",
+    "DangerousForbiddenTechnique",
+    "TheChosenOne",
+    "FriendlyNeighborhoodVampire",
+    "NiceGuy",
+    "AbsurdPhobia",
+    "PutOnABus",
+    "LastOfHisKind",
+    "OurVampiresAreDifferent",
+    "ShakingTheRump",
+    "SuperStrength",
+    "AccidentalKidnapping",
+    "IdentityAmnesia",
+    "MysteriousPast"
+  ],
   "tropes_by_category": {}
 }

@@ -1,7 +1,14 @@
 {
   "name": "Ssoso",
   "show": "Pucca",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 6,
+  "tropes": [
+    "IceCreamKoan",
+    "EyesAlwaysShut",
+    "BlindWithoutEm",
+    "YouDontLookLikeYou",
+    "DemotedToExtra",
+    "ButtMonkey"
+  ],
   "tropes_by_category": {}
 }

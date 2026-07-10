@@ -1,7 +1,10 @@
 {
   "name": "Frank Jr.",
   "show": "Ozark",
-  "trope_count": 0,
-  "tropes": [],
+  "trope_count": 2,
+  "tropes": [
+    "CripplingCastration",
+    "WouldHitAGirl"
+  ],
   "tropes_by_category": {}
 }
