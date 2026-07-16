@@ -1,5 +1,8 @@
 // app.js - Character Cluster Recommender
 
+// Base URL for data files
+const BASE_URL = 'https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data';
+
 // Global state
 let indexData = null;
 let currentCharacter = null;
@@ -40,12 +43,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Load the index data
 async function loadIndex() {
     try {
-        const response = await fetch('https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/index.json');
+        const response = await fetch(`${BASE_URL}/index.json`);
         indexData = await response.json();
         console.log('Character data loaded:', indexData);
     } catch (error) {
         console.error('Error loading index:', error);
-        showError('Failed to load character database. Please ensure https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/index.json exists.');
+        showError('Failed to load character database. Please try again later.');
     }
 }
 
@@ -350,9 +353,14 @@ function findBestMatch(query, options) {
 // Load character details from JSON file
 async function loadCharacterDetails(characterName, characterId) {
     try {
-        const fileName = findCharacterFile(characterName, characterId);
+        const fileName = `${characterId}.json`;
         console.log('Loading character file:', fileName);
-        const response = await fetch(`https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/characters/${fileName}`);
+        const response = await fetch(`${BASE_URL}/characters/${fileName}`);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        
         const characterData = await response.json();
         
         currentCharacter = characterData;
@@ -362,23 +370,6 @@ async function loadCharacterDetails(characterName, characterId) {
         console.error('Error loading character:', error);
         showError(`Failed to load character details for "${characterName}"`);
     }
-}
-
-// Find character file name - must match prepare_web_data.py logic exactly
-function findCharacterFile(characterName, characterId) {
-    // This must match the Python script's logic:
-    // safe_char_name = re.sub(r'[^a-zA-Z0-9]', '_', char_name)
-    // safe_char_name = re.sub(r'_+', '_', safe_char_name).lower()[:50]
-    // filename = f"{char_id}_{safe_char_name}.json"
-    
-    const safeName = characterName
-        .replace(/[^a-zA-Z0-9]/g, '_')  // Replace non-alphanumeric with underscore
-        .replace(/_+/g, '_')             // Replace multiple underscores with single
-        .replace(/^_|_$/g, '')           // Remove leading/trailing underscores
-        .toLowerCase()
-        .substring(0, 50);
-    
-    return `${characterId}_${safeName}.json`;
 }
 
 // Display character details
@@ -458,8 +449,8 @@ async function findSimilarCharacters(targetCharacter) {
         if (successful >= maxSuccessful) break;
 
         try {
-            const fileName = findCharacterFile(charName, charInfo.id);
-            const response = await fetch(`https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data/characters/${fileName}`);
+            const fileName = `${charInfo.id}.json`;
+            const response = await fetch(`${BASE_URL}/characters/${fileName}`);
             
             if (!response.ok) {
                 // File not found, skip silently
