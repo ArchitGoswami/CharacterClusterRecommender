@@ -1,0 +1,12 @@
+{
+  "name": "Hood",
+  "show": "Horatio Hornblower",
+  "trope_count": 4,
+  "tropes": [
+    "HistoricalDomainCharacter",
+    "ArmchairMilitary",
+    "BlueBlood",
+    "ReasonableAuthorityFigure"
+  ],
+  "tropes_by_category": {}
+}

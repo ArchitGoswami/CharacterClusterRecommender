@@ -1,0 +1,11 @@
+{
+  "name": "Trix",
+  "show": "Bob the Builder",
+  "trope_count": 3,
+  "tropes": [
+    "MirrorCharacter",
+    "Catchphrase",
+    "DubNameChange"
+  ],
+  "tropes_by_category": {}
+}
