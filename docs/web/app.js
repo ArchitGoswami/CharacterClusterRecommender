@@ -1,7 +1,7 @@
 // app.js - Character Cluster Recommender
 
 // Base URL for data files
-const BASE_URL = 'https://architgoswami.github.io/CharacterClusterRecommender/docs/web/web_data';
+const BASE_URL = 'web_data';
 
 // Global state
 let indexData = null;
