@@ -1,0 +1,15 @@
+{
+  "name": "42",
+  "show": "Buzz Lightyear of Star Command",
+  "trope_count": 7,
+  "tropes": [
+    "SuddenlyVoiced",
+    "GrandFinale",
+    "LastEpisodeNewCharacter",
+    "GirlOfTheWeek",
+    "BenevolentAI",
+    "JustFriends",
+    "SpaceshipGirl"
+  ],
+  "tropes_by_category": {}
+}

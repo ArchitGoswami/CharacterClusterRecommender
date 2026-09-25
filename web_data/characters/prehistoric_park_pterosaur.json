@@ -1,0 +1,13 @@
+{
+  "name": "Pterosaur",
+  "show": "Prehistoric Park",
+  "trope_count": 5,
+  "tropes": [
+    "PaletteSwap",
+    "GiantFlyer",
+    "AnimalsNotToScale",
+    "NoNameGiven",
+    "AnachronismStew"
+  ],
+  "tropes_by_category": {}
+}

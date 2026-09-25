@@ -1,0 +1,29 @@
+{
+  "name": "Uncle Leo",
+  "show": "Seinfeld",
+  "trope_count": 21,
+  "tropes": [
+    "RunningGag",
+    "TheBore",
+    "Catchphrase",
+    "EvilEyebrows",
+    "CharacterizationMarchesOn",
+    "LargeHam",
+    "NoSenseOfPersonalSpace",
+    "ItMakesSenseInContext",
+    "NoIndoorVoice",
+    "TheGhost",
+    "ThoseWackyNazis",
+    "EverythingIsRacist",
+    "OnlyOneName",
+    "ScrewPolitenessImASenior",
+    "FiveFingerDiscount",
+    "AlterKocker",
+    "KnuckleTattoos",
+    "OverEnthusiasticParents",
+    "PhraseCatcher",
+    "NoodleIncident",
+    "SiblingYinYang"
+  ],
+  "tropes_by_category": {}
+}

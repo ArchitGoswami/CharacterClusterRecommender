@@ -1,0 +1,16 @@
+{
+  "name": "The Peacekeeper",
+  "show": "Astro Boy",
+  "trope_count": 8,
+  "tropes": [
+    "TheAssimilator",
+    "ArmCannon",
+    "PresidentEvil",
+    "FinalBoss",
+    "StupidEvil",
+    "AIIsACrapshoot",
+    "FlatCharacter",
+    "AttackDrone"
+  ],
+  "tropes_by_category": {}
+}

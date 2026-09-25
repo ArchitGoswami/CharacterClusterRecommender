@@ -1,0 +1,16 @@
+{
+  "name": "Dolores",
+  "show": "Seinfeld",
+  "trope_count": 8,
+  "tropes": [
+    "AccentDepundent",
+    "TheBusCameBack",
+    "InUniverse",
+    "InSeriesNickname",
+    "GirlOfTheWeek",
+    "LateArrivalSpoiler",
+    "LeastRhymableWord",
+    "LoveInterest"
+  ],
+  "tropes_by_category": {}
+}

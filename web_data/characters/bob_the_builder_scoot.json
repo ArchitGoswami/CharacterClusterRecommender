@@ -1,0 +1,12 @@
+{
+  "name": "Scoot",
+  "show": "Bob the Builder",
+  "trope_count": 4,
+  "tropes": [
+    "OneShotCharacter",
+    "Catchphrase",
+    "MeaningfulName",
+    "AlliterativeName"
+  ],
+  "tropes_by_category": {}
+}

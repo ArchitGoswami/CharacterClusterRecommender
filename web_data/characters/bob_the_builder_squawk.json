@@ -1,0 +1,16 @@
+{
+  "name": "Squawk",
+  "show": "Bob the Builder",
+  "trope_count": 8,
+  "tropes": [
+    "AmplifiedAnimalAptitude",
+    "ADogNamedDog",
+    "UnpleasantAnimalCounterpart",
+    "JerkassToOne",
+    "TheHunterBecomesTheHunted",
+    "MixedAnimalSpeciesTeam",
+    "AnimalNemesis",
+    "SmartAnimalAverageHuman"
+  ],
+  "tropes_by_category": {}
+}
