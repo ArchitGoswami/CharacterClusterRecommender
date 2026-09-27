@@ -1,17 +1,1 @@
-{
-  "name": "Chip Chambers",
-  "show": "iCarly",
-  "trope_count": 9,
-  "tropes": [
-    "BigBrotherInstinct",
-    "EnfantTerrible",
-    "Jerkass",
-    "CousinOliver",
-    "HateSink",
-    "TheSociopath",
-    "Sadist",
-    "FauxAffablyEvil",
-    "LaughablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chip Chambers", "show": "iCarly", "trope_count": 9, "tropes": ["BigBrotherInstinct", "EnfantTerrible", "Jerkass", "CousinOliver", "HateSink", "TheSociopath", "Sadist", "FauxAffablyEvil", "LaughablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Deborah Leevil", "show": "Boondocks,The", "id": "boondocksthe_deborah_leevil", "similarity": 0.1724, "shared_tropes": 5}, {"name": "The Kraken", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_the_kraken", "similarity": 0.1667, "shared_tropes": 4}, {"name": "The Minions of Aku", "show": "Samurai Jack", "id": "samurai_jack_the_minions_of_aku", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Thomas (the son of Death)", "show": "Regular Show", "id": "regular_show_thomas_the_son_of_death", "similarity": 0.1562, "shared_tropes": 5}, {"name": "Troy Walsh", "show": "Stranger Things", "id": "stranger_things_troy_walsh", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Humphrey", "show": "Orange Is the New Black", "id": "orange_is_the_new_black_humphrey", "similarity": 0.1515, "shared_tropes": 5}, {"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.1429, "shared_tropes": 6}, {"name": "Chuck Chambers", "show": "iCarly", "id": "icarly_chuck_chambers", "similarity": 0.1389, "shared_tropes": 5}]}

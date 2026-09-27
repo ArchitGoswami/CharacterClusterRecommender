@@ -1,12 +1,1 @@
-{
-  "name": "Denise",
-  "show": "Muppets Tonight",
-  "trope_count": 4,
-  "tropes": [
-    "EarlyInstallmentCharacterDesignDifference",
-    "RomanticFalseLead",
-    "SouthernFriedGenius",
-    "AgeGapRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Denise", "show": "Muppets Tonight", "trope_count": 4, "tropes": ["EarlyInstallmentCharacterDesignDifference", "RomanticFalseLead", "SouthernFriedGenius", "AgeGapRomance"], "tropes_by_category": {}, "similar": [{"name": "Denise", "show": "Muppets,The", "id": "muppetsthe_denise", "similarity": 1.0, "shared_tropes": 4}]}

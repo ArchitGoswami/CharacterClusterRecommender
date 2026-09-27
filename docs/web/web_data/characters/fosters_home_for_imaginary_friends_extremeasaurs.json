@@ -1,18 +1,1 @@
-{
-  "name": "Extremeasaurs",
-  "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 10,
-  "tropes": [
-    "NoYou",
-    "ShoutOut",
-    "WeHardlyKnewYe",
-    "DumbMuscle",
-    "SeriesContinuityError",
-    "LameComeback",
-    "SealedEvilInACan",
-    "TokenHeroicOrc",
-    "AlwaysChaoticEvil",
-    "TeensAreMonsters"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Extremeasaurs", "show": "Foster's Home for Imaginary Friends", "trope_count": 10, "tropes": ["NoYou", "ShoutOut", "WeHardlyKnewYe", "DumbMuscle", "SeriesContinuityError", "LameComeback", "SealedEvilInACan", "TokenHeroicOrc", "AlwaysChaoticEvil", "TeensAreMonsters"], "tropes_by_category": {}, "similar": [{"name": "Pizza", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_pizza", "similarity": 0.25, "shared_tropes": 4}]}

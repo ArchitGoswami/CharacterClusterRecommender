@@ -1,13 +1,1 @@
-{
-  "name": "Whizzer",
-  "show": "Bob the Builder",
-  "trope_count": 5,
-  "tropes": [
-    "FastTunneling",
-    "MeaningfulName",
-    "RedEyesTakeWarning",
-    "CuteMachines",
-    "GrapplingHookPistol"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Whizzer", "show": "Bob the Builder", "trope_count": 5, "tropes": ["FastTunneling", "MeaningfulName", "RedEyesTakeWarning", "CuteMachines", "GrapplingHookPistol"], "tropes_by_category": {}, "similar": []}

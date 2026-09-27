@@ -1,18 +1,1 @@
-{
-  "name": "Joe \"Johnny\" Tuturro",
-  "show": "Graceland",
-  "trope_count": 10,
-  "tropes": [
-    "WouldHitAGirl",
-    "ChivalrousPervert",
-    "MsFanservice",
-    "TheHeart",
-    "LadykillerInLove",
-    "UndyingLoyalty",
-    "HumanShield",
-    "BoisterousBruiser",
-    "ButtMonkey",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joe \"Johnny\" Tuturro", "show": "Graceland", "trope_count": 10, "tropes": ["WouldHitAGirl", "ChivalrousPervert", "MsFanservice", "TheHeart", "LadykillerInLove", "UndyingLoyalty", "HumanShield", "BoisterousBruiser", "ButtMonkey", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "André Harris", "show": "Victorious", "id": "victorious_andr_harris", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Dan Fielding", "show": "Night Court", "id": "night_court_dan_fielding", "similarity": 0.069, "shared_tropes": 4}, {"name": "Rudy", "show": "Misfits", "id": "misfits_rudy", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Sheldon", "show": "My Life as a Teenage Robot", "id": "my_life_as_a_teenage_robot_sheldon", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Patrick Colasour", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_patrick_colasour", "similarity": 0.05, "shared_tropes": 4}, {"name": "Games and Guidebooks", "show": "Dungeons & Dragons", "id": "dungeons_and_dragons_games_and_guidebooks", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Debra Morgan", "show": "Dexter", "id": "dexter_debra_morgan", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Schmidt", "show": "New Girl", "id": "new_girl_schmidt", "similarity": 0.0417, "shared_tropes": 4}]}

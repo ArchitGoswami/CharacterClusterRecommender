@@ -1,14 +1,1 @@
-{
-  "name": "Claire Feeble",
-  "show": "Stressed Eric",
-  "trope_count": 6,
-  "tropes": [
-    "Catchphrase",
-    "GirlishPigtails",
-    "MeaningfulName",
-    "NiceGirl",
-    "ButtMonkey",
-    "DeliberatelyCuteChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Claire Feeble", "show": "Stressed Eric", "trope_count": 6, "tropes": ["Catchphrase", "GirlishPigtails", "MeaningfulName", "NiceGirl", "ButtMonkey", "DeliberatelyCuteChild"], "tropes_by_category": {}, "similar": [{"name": "Cream the Rabbit & Cheese", "show": "Sonic X", "id": "sonic_x_cream_the_rabbit_cheese", "similarity": 0.08, "shared_tropes": 4}]}

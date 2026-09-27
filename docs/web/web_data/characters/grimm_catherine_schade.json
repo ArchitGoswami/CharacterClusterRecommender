@@ -1,18 +1,1 @@
-{
-  "name": "Catherine Schade",
-  "show": "Grimm",
-  "trope_count": 10,
-  "tropes": [
-    "EvilMatriarch",
-    "EyelessFace",
-    "StageMom",
-    "HotWitch",
-    "SlashedThroat",
-    "FemmeFatale",
-    "TheDragon",
-    "BitchInSheepsClothing",
-    "EvilIsPetty",
-    "GameFace"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Catherine Schade", "show": "Grimm", "trope_count": 10, "tropes": ["EvilMatriarch", "EyelessFace", "StageMom", "HotWitch", "SlashedThroat", "FemmeFatale", "TheDragon", "BitchInSheepsClothing", "EvilIsPetty", "GameFace"], "tropes_by_category": {}, "similar": [{"name": "Petra", "show": "Jane the Virgin", "id": "jane_the_virgin_petra", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Adalind Schade", "show": "Grimm", "id": "grimm_adalind_schade", "similarity": 0.0795, "shared_tropes": 7}, {"name": "Hermione Lodge", "show": "Riverdale", "id": "riverdale_hermione_lodge", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Destiny", "show": "X-Men", "id": "x_men_destiny", "similarity": 0.0506, "shared_tropes": 4}]}

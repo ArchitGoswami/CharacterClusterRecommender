@@ -1,15 +1,1 @@
-{
-  "name": "Reggie Sawyer",
-  "show": "Salem's Lot",
-  "trope_count": 7,
-  "tropes": [
-    "AssholeVictim",
-    "HateSink",
-    "DomesticAbuser",
-    "KarmicDeath",
-    "TheBabyTrap",
-    "RapeIsASpecialKindOfEvil",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Reggie Sawyer", "show": "Salem's Lot", "trope_count": 7, "tropes": ["AssholeVictim", "HateSink", "DomesticAbuser", "KarmicDeath", "TheBabyTrap", "RapeIsASpecialKindOfEvil", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Vladimir Laitanan", "show": "24", "id": "24_vladimir_laitanan", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Cossutius", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_cossutius", "similarity": 0.2273, "shared_tropes": 5}, {"name": "Armando \"Armadillo\" Quintero", "show": "Shield,The", "id": "shieldthe_armando_armadillo_quintero", "similarity": 0.1429, "shared_tropes": 5}, {"name": "Franklin", "show": "True Blood", "id": "true_blood_franklin", "similarity": 0.1429, "shared_tropes": 4}, {"name": "The Governor", "show": "Love, Death & Robots", "id": "love_death_and_robots_the_governor", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Chester Campbell", "show": "Peaky Blinders", "id": "peaky_blinders_chester_campbell", "similarity": 0.1, "shared_tropes": 4}, {"name": "Jeffrey Fecalman", "show": "Family Guy", "id": "family_guy_jeffrey_fecalman", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Myranda", "show": "Game of Thrones", "id": "game_of_thrones_myranda", "similarity": 0.0893, "shared_tropes": 5}]}

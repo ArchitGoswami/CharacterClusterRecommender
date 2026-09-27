@@ -18,19 +18,20 @@
       "name": "Peep",
       "media_title": "Peep and the Big Wide World",
       "tropes": [
-        "CloudcuckooLander",
-        "RidiculouslyCuteCritter",
-        "AttentionDeficitOohShiny",
-        "NiceGuy",
+        "TheHeart",
+        "ChildrenAreInnocent",
         "ArmlessBiped",
         "MasculineGirlFeminineBoy",
+        "SincerityMode",
+        "RidiculouslyCuteCritter",
+        "AttentionDeficitOohShiny",
+        "ExtremeDoormat",
+        "CheerfulChild",
         "HairOfGoldHeartOfGold",
-        "ChildrenAreInnocent",
         "NoObjectPermanence",
         "TheCutie",
-        "SincerityMode",
-        "ExtremeDoormat",
-        "CheerfulChild"
+        "CloudcuckooLander",
+        "NiceGuy"
       ],
       "description": "Armless Biped: He isn't drawn with wings. Attention Deficit... Ooh, Shiny!: Justified since he's a baby. Children Are Innocent: He's the youngest and most naive of the cast. Cheerful Child: There's not a lot that can get him down. Cloudcuckoo Lander: He can be spacey. Nowhere near the level of Quack and/or Beaver Boy, though.",
       "source": "tvtropes"
@@ -67,44 +68,48 @@
       "name": "Quack",
       "media_title": "Peep and the Big Wide World",
       "tropes": [
-        "AttentionWhore",
-        "CloudcuckooLander",
-        "VerbalTic",
-        "JerkWithAHeartOfGold",
-        "FeatherFingers",
-        "BlatantLies",
-        "VagueAge",
-        "SmugSnake",
-        "JerkassHasAPoint",
         "AmazingTechnicolorWildlife",
-        "SmallNameBigEgo",
-        "ArmlessBiped",
-        "AccessoryWearingCartoonAnimal",
-        "SemiaquaticSpeciesSailor",
         "FantasticRacism",
         "LargeHam",
-        "KnowNothingKnowItAll",
+        "SmugSnake",
+        "HairTriggerTemper",
+        "FeatherFingers",
+        "AttentionWhore",
+        "SmallNameBigEgo",
+        "ArmlessBiped",
         "TooDumbToLive",
-        "PenguinsAreDucks"
+        "CloudcuckooLander",
+        "JerkWithAHeartOfGold",
+        "SemiaquaticSpeciesSailor",
+        "PenguinsAreDucks",
+        "KnowNothingKnowItAll",
+        "BlatantLies",
+        "VagueAge",
+        "AccessoryWearingCartoonAnimal",
+        "RedOniBlueOni",
+        "VerbalTic",
+        "JerkassHasAPoint",
+        "SensitiveGuyAndManlyMan"
       ],
-      "description": "Accessory-Wearing Cartoon Animal: He wears a sailor hat and is the only one of the main characters to wear any clothes at all. Amazing Technicolor Wildlife: An indigo duck. Armless Biped: Like Peep, he has no wings and uses his feet almost as if they wereFeather Fingers. Attention Whore: At one point he throws a party just because he wants attention. Blatant Lies: In the episode when he tells Chirp and Peep a story, he said the ducks in his family were many colors, and that ducks are considered sacred. It's pretty obvious he was fibbing about the second part.",
+      "description": "Accessory-Wearing Cartoon Animal: He wears a sailor hat and is the only one of the main characters to wear any clothes at all. Amazing Technicolor Wildlife: An indigo duck. Armless Biped: Like Peep, he has no wings and uses his feet almost as if they wereFeather Fingers. Attention Whore: At one point, he throws a party just because he wants attention. Blatant Lies: In the episode when he tells Chirp and Peep a story, he said the ducks in his family were many colors, and that ducks are considered sacred. It's pretty obvious he was fibbing about the second part.",
       "source": "tvtropes"
     },
     {
       "name": "Beaver Boy",
       "media_title": "Peep and the Big Wide World",
       "tropes": [
-        "JerkWithAHeartOfGold",
-        "TheNicknamer",
-        "FurryReminder",
-        "TheDitz",
-        "TrademarkFavoriteFood",
-        "FatBestFriend",
-        "ExtremeOmnivore",
+        "BigEater",
         "FatIdiot",
-        "KindheartedSimpleton"
+        "TheDitz",
+        "FurryReminder",
+        "KindheartedSimpleton",
+        "TheNicknamer",
+        "TrademarkFavoriteFood",
+        "JerkWithAHeartOfGold",
+        "SensitiveGuyAndManlyMan",
+        "FatBestFriend"
       ],
-      "description": "The Ditz: Even by this show's standards. The narrator lampshades this in one episode. Extreme Omnivore: He likes to eat sticks. Fat Idiot: Size-wise, when he's with the main trio, he's the fat one and he's not really bright, being more naive than Peep is. Furry Reminder: He's usually chewing on trees or anything wooden, which is probably because his teeth won't stop growing. Kindhearted Simpleton: Not the brightest, but is well-meaning, even more so thanQuack.",
+      "description": "Big Eater: Albeitly, rodents have fast metabolisms, so, of course, Beaver Boy would have to eat more to compensate, although, much of the \"eating\" is probably more aboutchewing. That said, however, there are times this gets deconstructed, as, inAn Inconvenient Tooth Part 1, he all but chewed down an entire orchard of cherry trees, to which Chirp harshly reminds him (and Quack) that cherry orchards don't grow back as quickly. The Ditz: Even by this show's standards. The narrator lampshades this in one episode. Fat Idiot: Size-wise, when he's with the main trio, he's the fat one and he's not really bright, being more naive than Peep is. Furry Reminder: He's usually chewing on trees or anything wooden, which is probably because his teeth won't stop growing. Kindhearted Simpleton: Not the brightest, but is well-meaning, even more so thanQuack.",
       "source": "tvtropes"
     },
     {
@@ -125,18 +130,19 @@
       "name": "Tom",
       "media_title": "Peep and the Big Wide World",
       "tropes": [
-        "EnfantTerrible",
-        "CuteIsEvil",
-        "BigBad",
         "JerkWithAHeartOfJerk",
-        "ManipulativeBastard",
+        "EnfantTerrible",
         "CatsAreMean",
+        "BigBad",
+        "ChuckCunninghamSyndrome",
+        "FauxAffablyEvil",
         "CuteKitten",
         "MetaphoricallyTrue",
         "BitchInSheepsClothing",
-        "FauxAffablyEvil"
+        "CuteIsEvil",
+        "ManipulativeBastard"
       ],
-      "description": "Big Bad: The closest thing to one in the series, anyway. Whenever he shows up, you know he'll be causing all of the trouble for the birds in that episode. Bitch in Sheep's Clothing: SeeManipulative Bastard. Cats Are Mean: Manipulative, troublemaking, wants to eat the birds, etc. Cute Is Evil: Downplayed on the evil part, but is more than willing to cause problems for those he does not like. Cute Kitten: But don't be fooled.",
+      "description": "Big Bad: The closest thing to one in the series, anyway. Whenever he shows up, you know he'll be causing all of the trouble for the birds in that episode. Bitch in Sheep's Clothing: SeeManipulative Bastard. Cats Are Mean: Manipulative, troublemaking, wants to eat the birds, etc. Chuck Cunningham Syndrome: Hasn't appeared again at all since \"Reflection Affection\". Cute Is Evil: Downplayed on the evil part, but is more than willing to cause problems for those he does not like.",
       "source": "tvtropes"
     },
     {
@@ -182,7 +188,20 @@
       ],
       "description": "The Faceless: The most we see of them are their hands and feet. The closest we get to seeing them full is where we see a dad and his daughter's silhouettes in a pet store (see?◊).",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Peep and the Big Wide World",
+      "tropes": [
+        "ChromaticArrangement",
+        "BewareTheNiceOnes",
+        "NiceMeanAndInBetween",
+        "JerkWithAHeartOfGold",
+        "SensitiveGuyAndManlyMan"
+      ],
+      "description": "Chromatic Arrangement: We have Chirp as the Red bird, Peep as the Yellow baby chick and Quack as the Indigo (close to blue) duck. Nice, Mean, and In-Between: Downplayed. Peep is the \"nice\" due to being a baby chick with no short temper as the most innocent of the trio. Quack is the \"mean\" being often snooty and rude at times, butstill loves his two friends dearly. Chirp is the \"in-between\"; while not mean at all, she alsodoesn't put up with Quack's shenanigans. Sensitive Guy and Manly Man: Peep is the sweet and curious Sensitive Guy, while Quack is the cocky and boastful Manly Man.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 11
+  "character_count": 12
 }

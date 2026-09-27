@@ -1,18 +1,1 @@
-{
-  "name": "The Narrator",
-  "show": "Arrested Development",
-  "trope_count": 10,
-  "tropes": [
-    "BerserkButton",
-    "LampshadedTrope",
-    "ActorAllusion",
-    "AuthorAppeal",
-    "LemonyNarrator",
-    "CelebrityParadox",
-    "OOCIsSeriousBusiness",
-    "EveryoneHasStandards",
-    "SelfDeprecation",
-    "ShowWithinAShow"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Narrator", "show": "Arrested Development", "trope_count": 10, "tropes": ["BerserkButton", "LampshadedTrope", "ActorAllusion", "AuthorAppeal", "LemonyNarrator", "CelebrityParadox", "OOCIsSeriousBusiness", "EveryoneHasStandards", "SelfDeprecation", "ShowWithinAShow"], "tropes_by_category": {}, "similar": [{"name": "Frank Barone", "show": "Everybody Loves Raymond", "id": "everybody_loves_raymond_frank_barone", "similarity": 0.0755, "shared_tropes": 4}]}

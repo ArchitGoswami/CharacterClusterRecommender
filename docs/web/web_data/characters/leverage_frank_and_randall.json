@@ -1,16 +1,1 @@
-{
-  "name": "Frank and Randall",
-  "show": "Leverage",
-  "trope_count": 8,
-  "tropes": [
-    "AffablyEvil",
-    "ThisIsGonnaSuck",
-    "FriendlyRival",
-    "KnowWhenToFoldEm",
-    "OvershadowedByAwesome",
-    "MercyLead",
-    "NoodleIncident",
-    "CoDragons"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Frank and Randall", "show": "Leverage", "trope_count": 8, "tropes": ["AffablyEvil", "ThisIsGonnaSuck", "FriendlyRival", "KnowWhenToFoldEm", "OvershadowedByAwesome", "MercyLead", "NoodleIncident", "CoDragons"], "tropes_by_category": {}, "similar": [{"name": "\"Little\" Carmine Lupertazzi Jr.", "show": "Sopranos,The", "id": "sopranosthe_little_carmine_lupertazzi_jr", "similarity": 0.0769, "shared_tropes": 4}, {"name": "\"Little\" Carmine Lupertazzi Jr.", "show": "The Sopranos", "id": "the_sopranos_little_carmine_lupertazzi_jr", "similarity": 0.0769, "shared_tropes": 4}]}

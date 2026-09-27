@@ -63,23 +63,27 @@
       "media_title": "Silverwing",
       "tropes": [
         "BlindSeer",
-        "DisabilitySuperpower"
+        "DisabilitySuperpower",
+        "Downplayed",
+        "AlbinosAreFreaks"
       ],
-      "description": "Keeper of the Spire - a blind, albino bat living in a city cathedral. He helps Shade and Marina on their journey. Blind Seer: He can see the past, present, and future in faint echoes. Disability Superpower: Despite being a blind albino, he can hear everything, even stars.",
+      "description": "The Keeper of the Spire - a blind, albino bat living in a city cathedral. He helps Shade and Marina on their journey. Albinos Are Freaks:Downplayed. He's a mysterious loner with mystical powers, and Shade finds him very strange when he first meets him. However, Zephyr is friendly towards the heroes and his help proves to be invaluable to them. Blind Seer: He can see the past, present, and future in faint echoes. Disability Superpower: Despite being a blind albino, he can hear everything, even stars.",
       "source": "tvtropes"
     },
     {
       "name": "Goth",
       "media_title": "Silverwing",
       "tropes": [
-        "AristocratsAreEvil",
         "EvilIsBigger",
+        "RedAndBlackAndEvilAllOver",
         "ImAHumanitarian",
-        "ManipulativeBastard",
+        "BigBad",
+        "AristocratsAreEvil",
         "HoistByHisOwnPetard",
-        "GeniusBruiser"
+        "GeniusBruiser",
+        "ManipulativeBastard"
       ],
-      "description": "The trilogy's villain, a hulking cannibal bat who drives his kingdom-slash-cult to resurrect the dark god Cama Zotz. Aristocrats Are Evil: He's prince of the Vampyrum Spectrumand later king when his father dies. Evil Is Bigger: Being a spectral bat, the largest bat in the Americas, he towers over the protagonists. Genius Bruiser: Goth's a big bat. But, he's a skilled manipulator who's virtually unkillable. Hoist by His Own Petard: Wearing all the metal bands he took off the banded bats as trophies causes him to be struck by lightning.He survives, albeit severely weakened.",
+      "description": "The trilogy's villain, a hulking cannibal bat who drives his kingdom-slash-cult to resurrect the dark god Cama Zotz. Aristocrats Are Evil: He's prince of the Vampyrum Spectrumand later king when his father dies. Evil Is Bigger: Being a spectral bat, the largest bat in the Americas, he towers over the protagonists. Genius Bruiser: Goth's a big bat, but he's also a skilled manipulator who's virtually unkillable. Hoist by His Own Petard: Wearing all the metal bands he took off the banded bats as trophies causes him to be struck by lightning.He survives, albeit severely weakened.",
       "source": "tvtropes"
     },
     {
@@ -134,7 +138,36 @@
       ],
       "description": "A large Vampyrum Spectrum who does the bidding of Cama Zotz. Large and in Charge: She's the Chief Builder directly under Cama Zotz. It's noted that she's even larger than Goth. More Deadly Than the Male: Cama Zotz himself says that Phoenix is Goth's equal in every way, but more relentless.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Frieda",
+      "media_title": "Silverwing",
+      "tropes": [
+        "MrsExposition"
+      ],
+      "description": "The chief elder of the Silverwing colony. Mrs. Exposition: Early on in the first book, Frieda tells Shade the backstory about the war between the birds and beasts, to explain why bats aren't allowed to see the sun.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ariel",
+      "media_title": "Silverwing",
+      "tropes": [
+        "StrongFamilyResemblance"
+      ],
+      "description": "Strong Family Resemblance: In the graphic novel, she has a similar shape (a rounded body, short neck, and spiky tufts of head fur) and colours to her son. Her main distinguishing characteristics are her fur being greenish-grey, and the white spot on her forehead.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Remus",
+      "media_title": "Silverwing",
+      "tropes": [
+        "BodyHorror",
+        "AdiposeRex",
+        "ScrewThisImOuttaHere"
+      ],
+      "description": "The overly paranoid prince of the rats and younger brother of Romulus. Adipose Rex: He's very big, very fat, and rather unhygienic. Body Horror: In the graphic novel, he's affected with mange. Screw This, I'm Outta Here: Becomes so paranoid of being poisoned and overthrown that he flees his own kingdom.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 12
+  "character_count": 15
 }

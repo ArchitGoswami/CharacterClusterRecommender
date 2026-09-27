@@ -1,15 +1,1 @@
-{
-  "name": "Henry Dobson",
-  "show": "House",
-  "trope_count": 7,
-  "tropes": [
-    "CoolOldGuy",
-    "BirdsOfAFeather",
-    "PhonyDegree",
-    "DeconstructedTrope",
-    "LiarRevealed",
-    "DidntThinkThisThrough",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Henry Dobson", "show": "House", "trope_count": 7, "tropes": ["CoolOldGuy", "BirdsOfAFeather", "PhonyDegree", "DeconstructedTrope", "LiarRevealed", "DidntThinkThisThrough", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Frank Barone", "show": "Everybody Loves Raymond", "id": "everybody_loves_raymond_frank_barone", "similarity": 0.08, "shared_tropes": 4}, {"name": "Other characters", "show": "Jetsons,The", "id": "jetsonsthe_other_characters", "similarity": 0.0563, "shared_tropes": 4}]}

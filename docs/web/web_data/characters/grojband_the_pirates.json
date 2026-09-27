@@ -1,16 +1,1 @@
-{
-  "name": "The Pirates",
-  "show": "Grojband",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "AffablyEvil",
-    "SkyPirate",
-    "FriendlyPirate",
-    "CaptainColorbeard",
-    "Pirate",
-    "APirate400YearsTooLate",
-    "ComedicUnderwearExposure"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Pirates", "show": "Grojband", "trope_count": 8, "tropes": ["HeelFaceTurn", "AffablyEvil", "SkyPirate", "FriendlyPirate", "CaptainColorbeard", "Pirate", "APirate400YearsTooLate", "ComedicUnderwearExposure"], "tropes_by_category": {}, "similar": [{"name": "Burger-Beard the Pirate", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_burger_beard_the_pirate", "similarity": 0.1905, "shared_tropes": 4}]}

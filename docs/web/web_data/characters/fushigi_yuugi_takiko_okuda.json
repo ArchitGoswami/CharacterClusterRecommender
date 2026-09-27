@@ -1,18 +1,1 @@
-{
-  "name": "Takiko Okuda",
-  "show": "Fushigi Yuugi",
-  "trope_count": 10,
-  "tropes": [
-    "HiddenEyes",
-    "SailorFuku",
-    "TheRoaring20s",
-    "KimonoIsTraditional",
-    "MurderSuicide",
-    "JustifiedTrope",
-    "PosthumousCharacter",
-    "OffingTheOffspring",
-    "LongHairIsFeminine",
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Takiko Okuda", "show": "Fushigi Yuugi", "trope_count": 10, "tropes": ["HiddenEyes", "SailorFuku", "TheRoaring20s", "KimonoIsTraditional", "MurderSuicide", "JustifiedTrope", "PosthumousCharacter", "OffingTheOffspring", "LongHairIsFeminine", "HeroOfAnotherStory"], "tropes_by_category": {}, "similar": [{"name": "Suzuno Osugi", "show": "Fushigi Yuugi", "id": "fushigi_yuugi_suzuno_osugi", "similarity": 0.2353, "shared_tropes": 4}, {"name": "From the \"real\" universe", "show": "Fushigi Yuugi", "id": "fushigi_yuugi_from_the_real_universe", "similarity": 0.0822, "shared_tropes": 6}]}

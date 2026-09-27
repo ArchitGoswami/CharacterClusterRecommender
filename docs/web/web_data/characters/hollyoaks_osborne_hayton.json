@@ -1,16 +1,1 @@
-{
-  "name": "Osborne (Hayton)",
-  "show": "Hollyoaks",
-  "trope_count": 8,
-  "tropes": [
-    "TeenPregnancy",
-    "WithFriendsLikeThese",
-    "FriendToAllChildren",
-    "MamaBear",
-    "HollywoodHealing",
-    "DeadGuyJunior",
-    "DrivenToSuicide",
-    "TeacherStudentRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Osborne (Hayton)", "show": "Hollyoaks", "trope_count": 8, "tropes": ["TeenPregnancy", "WithFriendsLikeThese", "FriendToAllChildren", "MamaBear", "HollywoodHealing", "DeadGuyJunior", "DrivenToSuicide", "TeacherStudentRomance"], "tropes_by_category": {}, "similar": [{"name": "Haley Bob James", "show": "One Tree Hill", "id": "one_tree_hill_haley_bob_james", "similarity": 0.046, "shared_tropes": 4}, {"name": "Kyoko Honda", "show": "Fruits Basket", "id": "fruits_basket_kyoko_honda", "similarity": 0.0412, "shared_tropes": 4}]}

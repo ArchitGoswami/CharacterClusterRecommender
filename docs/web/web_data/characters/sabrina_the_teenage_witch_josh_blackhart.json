@@ -1,16 +1,1 @@
-{
-  "name": "Josh Blackhart",
-  "show": "Sabrina, the Teenage Witch",
-  "trope_count": 8,
-  "tropes": [
-    "DoggedNiceGuy",
-    "LoveInterest",
-    "JerkWithAHeartOfGold",
-    "CrazyJealousGuy",
-    "PutOnABus",
-    "UnrequitedLoveSwitcheroo",
-    "SecondLove",
-    "BettyAndVeronica"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Josh Blackhart", "show": "Sabrina, the Teenage Witch", "trope_count": 8, "tropes": ["DoggedNiceGuy", "LoveInterest", "JerkWithAHeartOfGold", "CrazyJealousGuy", "PutOnABus", "UnrequitedLoveSwitcheroo", "SecondLove", "BettyAndVeronica"], "tropes_by_category": {}, "similar": [{"name": "Logan Huntzberger", "show": "Gilmore Girls", "id": "gilmore_girls_logan_huntzberger", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Jackie Cook", "show": "Veronica Mars", "id": "veronica_mars_jackie_cook", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Greg Serrano", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_greg_serrano", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Jimmy Pesto Jr.", "show": "Bob's Burgers", "id": "bobs_burgers_jimmy_pesto_jr", "similarity": 0.0694, "shared_tropes": 5}, {"name": "Jess Mariano", "show": "Gilmore Girls", "id": "gilmore_girls_jess_mariano", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Cloudy Jay \"CJ\"", "show": "Regular Show", "id": "regular_show_cloudy_jay_cj", "similarity": 0.05, "shared_tropes": 4}, {"name": "Logan Echolls", "show": "Veronica Mars", "id": "veronica_mars_logan_echolls", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Ross", "show": "Friends", "id": "friends_ross", "similarity": 0.0412, "shared_tropes": 4}]}

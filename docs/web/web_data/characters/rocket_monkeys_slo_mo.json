@@ -1,15 +1,1 @@
-{
-  "name": "Slo-Mo",
-  "show": "Rocket Monkeys",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "WomenAreWiser",
-    "EvenEvilHasLovedOnes",
-    "AbductionIsLove",
-    "Fembot",
-    "TheDragon",
-    "DatingCatwoman"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Slo-Mo", "show": "Rocket Monkeys", "trope_count": 7, "tropes": ["DeadpanSnarker", "WomenAreWiser", "EvenEvilHasLovedOnes", "AbductionIsLove", "Fembot", "TheDragon", "DatingCatwoman"], "tropes_by_category": {}, "similar": [{"name": "Beetle IV/Lady Beetle", "show": "Spider-Man", "id": "spider_man_beetle_iv_lady_beetle", "similarity": 0.1379, "shared_tropes": 4}]}

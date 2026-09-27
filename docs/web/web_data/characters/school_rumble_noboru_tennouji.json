@@ -1,17 +1,1 @@
-{
-  "name": "Noboru Tennouji",
-  "show": "School Rumble",
-  "trope_count": 9,
-  "tropes": [
-    "Expy",
-    "HeroicBSOD",
-    "TeamRocketWins",
-    "YourSizeMayVary",
-    "UglyGuysHotDaughter",
-    "WorfHadTheFlu",
-    "TheBrute",
-    "Gonk",
-    "BaldOfEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Noboru Tennouji", "show": "School Rumble", "trope_count": 9, "tropes": ["Expy", "HeroicBSOD", "TeamRocketWins", "YourSizeMayVary", "UglyGuysHotDaughter", "WorfHadTheFlu", "TheBrute", "Gonk", "BaldOfEvil"], "tropes_by_category": {}, "similar": [{"name": "Uzu Sanageyama", "show": "Kill la Kill", "id": "kill_la_kill_uzu_sanageyama", "similarity": 0.0364, "shared_tropes": 4}]}

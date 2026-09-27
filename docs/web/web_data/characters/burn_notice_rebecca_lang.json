@@ -1,15 +1,1 @@
-{
-  "name": "Rebecca Lang",
-  "show": "Burn Notice",
-  "trope_count": 7,
-  "tropes": [
-    "Blackmail",
-    "HeelFaceTurn",
-    "ScrewThisImOuttaHere",
-    "DarkActionGirl",
-    "SympathyForTheHero",
-    "TheDragon",
-    "VillainExitStageLeft"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rebecca Lang", "show": "Burn Notice", "trope_count": 7, "tropes": ["Blackmail", "HeelFaceTurn", "ScrewThisImOuttaHere", "DarkActionGirl", "SympathyForTheHero", "TheDragon", "VillainExitStageLeft"], "tropes_by_category": {}, "similar": [{"name": "Lady Clay/Clayface IV (Sondra Fuller)", "show": "Batman", "id": "batman_lady_clay_clayface_iv_sondra_fuller", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Lady Clay/Clayface IV (Sondra Fuller)", "show": "Batman, The", "id": "batman_the_lady_clay_clayface_iv_sondra_fuller", "similarity": 0.1111, "shared_tropes": 4}, {"name": "The Pack", "show": "Gargoyles", "id": "gargoyles_the_pack", "similarity": 0.04, "shared_tropes": 4}, {"name": "Airachnid", "show": "Transformers Prime", "id": "transformers_prime_airachnid", "similarity": 0.0351, "shared_tropes": 4}]}

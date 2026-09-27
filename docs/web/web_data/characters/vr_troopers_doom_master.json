@@ -1,13 +1,1 @@
-{
-  "name": "Doom Master",
-  "show": "VR Troopers",
-  "trope_count": 5,
-  "tropes": [
-    "EvilBrit",
-    "LargeHam",
-    "BlackKnight",
-    "TheBrute",
-    "RedAndBlackAndEvilAllOver"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doom Master", "show": "VR Troopers", "trope_count": 5, "tropes": ["EvilBrit", "LargeHam", "BlackKnight", "TheBrute", "RedAndBlackAndEvilAllOver"], "tropes_by_category": {}, "similar": []}

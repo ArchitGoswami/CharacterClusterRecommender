@@ -1,18 +1,1 @@
-{
-  "name": "Andrew",
-  "show": "Home Movies",
-  "trope_count": 10,
-  "tropes": [
-    "ParentWithNewParamour",
-    "VisitByDivorcedDad",
-    "DisappearedDad",
-    "NiceGuy",
-    "MayDecemberRomance",
-    "NotNowKiddo",
-    "ParentalAbandonment",
-    "AmicableExes",
-    "NoAccountingForTaste",
-    "Workaholic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Andrew", "show": "Home Movies", "trope_count": 10, "tropes": ["ParentWithNewParamour", "VisitByDivorcedDad", "DisappearedDad", "NiceGuy", "MayDecemberRomance", "NotNowKiddo", "ParentalAbandonment", "AmicableExes", "NoAccountingForTaste", "Workaholic"], "tropes_by_category": {}, "similar": [{"name": "Jerome Whittaker Sr.", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_jerome_whittaker_sr", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Matt Donovan", "show": "The Vampire Diaries", "id": "the_vampire_diaries_matt_donovan", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Jess Mariano", "show": "Gilmore Girls", "id": "gilmore_girls_jess_mariano", "similarity": 0.0526, "shared_tropes": 4}]}

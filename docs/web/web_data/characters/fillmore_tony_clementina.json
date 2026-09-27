@@ -1,18 +1,1 @@
-{
-  "name": "Tony Clementina",
-  "show": "Fillmore!",
-  "trope_count": 10,
-  "tropes": [
-    "IAmWhatIAm",
-    "CutLexLuthorACheck",
-    "DumbMuscle",
-    "PrimalFear",
-    "ConMan",
-    "TakingTheHeat",
-    "FameThroughInfamy",
-    "GetRichQuickScheme",
-    "TrademarkFavoriteFood",
-    "CigarChomper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tony Clementina", "show": "Fillmore!", "trope_count": 10, "tropes": ["IAmWhatIAm", "CutLexLuthorACheck", "DumbMuscle", "PrimalFear", "ConMan", "TakingTheHeat", "FameThroughInfamy", "GetRichQuickScheme", "TrademarkFavoriteFood", "CigarChomper"], "tropes_by_category": {}, "similar": []}

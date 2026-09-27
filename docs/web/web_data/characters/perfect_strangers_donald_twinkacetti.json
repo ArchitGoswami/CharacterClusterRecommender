@@ -1,16 +1,1 @@
-{
-  "name": "Donald Twinkacetti",
-  "show": "Perfect Strangers",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "MoneyFetish",
-    "PutOnABus",
-    "JerkAss",
-    "BadBoss",
-    "Hypocrite",
-    "HenpeckedHusband",
-    "LastNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Donald Twinkacetti", "show": "Perfect Strangers", "trope_count": 8, "tropes": ["DeadpanSnarker", "MoneyFetish", "PutOnABus", "JerkAss", "BadBoss", "Hypocrite", "HenpeckedHusband", "LastNameBasis"], "tropes_by_category": {}, "similar": [{"name": "Sam Gorpley", "show": "Perfect Strangers", "id": "perfect_strangers_sam_gorpley", "similarity": 0.3636, "shared_tropes": 4}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0476, "shared_tropes": 5}, {"name": "Michael Kelso", "show": "That '70s Show", "id": "that_70s_show_michael_kelso", "similarity": 0.046, "shared_tropes": 4}, {"name": "Cyril Sneer", "show": "Raccoons, The", "id": "raccoons_the_cyril_sneer", "similarity": 0.044, "shared_tropes": 4}, {"name": "C.C. Babcock", "show": "Nanny, The", "id": "nanny_the_c_c_babcock", "similarity": 0.0412, "shared_tropes": 4}, {"name": "The Brockmans", "show": "Outnumbered", "id": "outnumbered_the_brockmans", "similarity": 0.0351, "shared_tropes": 4}]}

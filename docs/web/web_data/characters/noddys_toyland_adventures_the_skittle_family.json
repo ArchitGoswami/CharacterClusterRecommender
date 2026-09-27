@@ -1,16 +1,1 @@
-{
-  "name": "The Skittle Family",
-  "show": "Noddy's Toyland Adventures",
-  "trope_count": 8,
-  "tropes": [
-    "ADayInTheLimelight",
-    "AdaptedOut",
-    "AccentAdaptation",
-    "Keet",
-    "VocalDissonance",
-    "BrattyHalfPint",
-    "TheHyena",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Skittle Family", "show": "Noddy's Toyland Adventures", "trope_count": 8, "tropes": ["ADayInTheLimelight", "AdaptedOut", "AccentAdaptation", "Keet", "VocalDissonance", "BrattyHalfPint", "TheHyena", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Sly and Gobbo", "show": "Noddy's Toyland Adventures", "id": "noddys_toyland_adventures_sly_and_gobbo", "similarity": 0.0943, "shared_tropes": 5}, {"name": "In General", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_in_general", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.037, "shared_tropes": 4}]}

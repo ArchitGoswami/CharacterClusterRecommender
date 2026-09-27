@@ -1,17 +1,1 @@
-{
-  "name": "Julian Slink",
-  "show": "Blood Drive",
-  "trope_count": 9,
-  "tropes": [
-    "EvilIsHammy",
-    "EvilSoundsDeep",
-    "TheChessmaster",
-    "BewareTheSillyOnes",
-    "NoSell",
-    "HumanoidAbomination",
-    "RepulsiveRingmaster",
-    "HeelFaceRevolvingDoor",
-    "LeaningOnTheFourthWall"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Julian Slink", "show": "Blood Drive", "trope_count": 9, "tropes": ["EvilIsHammy", "EvilSoundsDeep", "TheChessmaster", "BewareTheSillyOnes", "NoSell", "HumanoidAbomination", "RepulsiveRingmaster", "HeelFaceRevolvingDoor", "LeaningOnTheFourthWall"], "tropes_by_category": {}, "similar": [{"name": "D. D. Drosselmeyer", "show": "Princess Tutu", "id": "princess_tutu_d_d_drosselmeyer", "similarity": 0.058, "shared_tropes": 4}]}

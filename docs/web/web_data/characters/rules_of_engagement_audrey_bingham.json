@@ -1,18 +1,1 @@
-{
-  "name": "Audrey Bingham",
-  "show": "Rules Of Engagement",
-  "trope_count": 10,
-  "tropes": [
-    "FakePregnancy",
-    "MsFanservice",
-    "InformedAbility",
-    "RunningGag",
-    "MistakenForPregnant",
-    "HairOfGoldHeartOfGold",
-    "SoreLoser",
-    "LawOfInverseFertility",
-    "MyHovercraftIsFullOfEels",
-    "BuxomBeautyStandard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Audrey Bingham", "show": "Rules Of Engagement", "trope_count": 10, "tropes": ["FakePregnancy", "MsFanservice", "InformedAbility", "RunningGag", "MistakenForPregnant", "HairOfGoldHeartOfGold", "SoreLoser", "LawOfInverseFertility", "MyHovercraftIsFullOfEels", "BuxomBeautyStandard"], "tropes_by_category": {}, "similar": [{"name": "Melody", "show": "Josie and the Pussycats", "id": "josie_and_the_pussycats_melody", "similarity": 0.093, "shared_tropes": 4}, {"name": "Dr. Lisa Cuddy", "show": "House", "id": "house_dr_lisa_cuddy", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Kiria", "show": "Fairy Tail", "id": "fairy_tail_kiria", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Mai Kujaku (Mai Valentine)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_mai_kujaku_mai_valentine", "similarity": 0.0354, "shared_tropes": 4}]}

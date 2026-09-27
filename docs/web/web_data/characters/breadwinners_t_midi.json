@@ -1,14 +1,1 @@
-{
-  "name": "T-Midi",
-  "show": "Breadwinners",
-  "trope_count": 6,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "MasculineGirlFeminineBoy",
-    "VitriolicBestBuds",
-    "RichBastard",
-    "MamasBoy",
-    "AbusiveParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "T-Midi", "show": "Breadwinners", "trope_count": 8, "tropes": ["VitriolicBestBuds", "MasculineGirlFeminineBoy", "Catchphrase", "MamasBoy", "RichBastard", "AwLookTheyReallyDoLoveEachOther", "AbusiveParents", "JerkWithAHeartOfGold"], "tropes_by_category": {}, "similar": [{"name": "Lois", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_lois", "similarity": 0.0562, "shared_tropes": 5}, {"name": "Karen Walker", "show": "Will & Grace", "id": "will_and_grace_karen_walker", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Vanessa Doofenshmirtz", "show": "Phineas and Ferb", "id": "phineas_and_ferb_vanessa_doofenshmirtz", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Mac", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_mac", "similarity": 0.037, "shared_tropes": 4}]}

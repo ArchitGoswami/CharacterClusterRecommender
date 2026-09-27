@@ -1,12 +1,1 @@
-{
-  "name": "Glory Guy",
-  "show": "League of Super Evil",
-  "trope_count": 4,
-  "tropes": [
-    "CreateYourOwnVillain",
-    "BrattyHalfPint",
-    "Jerkass",
-    "BigGood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Glory Guy", "show": "League of Super Evil", "trope_count": 4, "tropes": ["CreateYourOwnVillain", "BrattyHalfPint", "Jerkass", "BigGood"], "tropes_by_category": {}, "similar": [{"name": "Professor Utonium", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_professor_utonium", "similarity": 0.0482, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Henry Parker",
-  "show": "Dawson's Creek",
-  "trope_count": 6,
-  "tropes": [
-    "OffscreenBreakup",
-    "LoveInterest",
-    "PutOnABus",
-    "NaiveNewcomer",
-    "DearJohnLetter",
-    "AgeGapRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Henry Parker", "show": "Dawson's Creek", "trope_count": 6, "tropes": ["OffscreenBreakup", "LoveInterest", "PutOnABus", "NaiveNewcomer", "DearJohnLetter", "AgeGapRomance"], "tropes_by_category": {}, "similar": []}

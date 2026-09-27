@@ -1,11 +1,1 @@
-{
-  "name": "Lovey",
-  "show": "VeggieTales",
-  "trope_count": 3,
-  "tropes": [
-    "OfficialCouple",
-    "WordOfGod",
-    "ChuckCunninghamSyndrome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lovey", "show": "VeggieTales", "trope_count": 3, "tropes": ["OfficialCouple", "WordOfGod", "ChuckCunninghamSyndrome"], "tropes_by_category": {}, "similar": []}

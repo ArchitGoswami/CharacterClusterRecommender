@@ -1,16 +1,1 @@
-{
-  "name": "Lapis Lazulis",
-  "show": "Steven Universe",
-  "trope_count": 8,
-  "tropes": [
-    "IronicName",
-    "LogicalWeakness",
-    "HostileTerraforming",
-    "MakingASplash",
-    "WaterIsBlue",
-    "PersonOfMassDestruction",
-    "Flight",
-    "WorldsStrongestMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lapis Lazulis", "show": "Steven Universe", "trope_count": 8, "tropes": ["IronicName", "LogicalWeakness", "HostileTerraforming", "MakingASplash", "WaterIsBlue", "PersonOfMassDestruction", "Flight", "WorldsStrongestMan"], "tropes_by_category": {}, "similar": [{"name": "Malachite", "show": "Steven Universe", "id": "steven_universe_malachite", "similarity": 0.0455, "shared_tropes": 4}]}

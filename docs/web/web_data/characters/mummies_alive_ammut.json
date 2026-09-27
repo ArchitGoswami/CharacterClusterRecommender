@@ -1,10 +1,1 @@
-{
-  "name": "Ammut",
-  "show": "Mummies Alive",
-  "trope_count": 2,
-  "tropes": [
-    "MixAndMatchCritter",
-    "AdaptationalVillainy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ammut", "show": "Mummies Alive", "trope_count": 3, "tropes": ["GenderFlip", "AdaptationalVillainy", "MixAndMatchCritter"], "tropes_by_category": {}, "similar": []}

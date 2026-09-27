@@ -1,18 +1,1 @@
-{
-  "name": "Butt-ler",
-  "show": "Pac-Man and the Ghostly Adventures",
-  "trope_count": 10,
-  "tropes": [
-    "AffablyEvil",
-    "EmbarrassingLastName",
-    "IdenticalTwinIDTag",
-    "CanonForeigner",
-    "PetTheDog",
-    "BecauseYouWereNiceToMe",
-    "UndeadServant",
-    "MundaneMadeAwesome",
-    "UnfortunateNames",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Butt-ler", "show": "Pac-Man and the Ghostly Adventures", "trope_count": 10, "tropes": ["AffablyEvil", "EmbarrassingLastName", "IdenticalTwinIDTag", "CanonForeigner", "PetTheDog", "BecauseYouWereNiceToMe", "UndeadServant", "MundaneMadeAwesome", "UnfortunateNames", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Dr. Buttocks", "show": "Pac-Man and the Ghostly Adventures", "id": "pac_man_and_the_ghostly_adventures_dr_buttocks", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Murphy", "show": "100,The", "id": "100the_murphy", "similarity": 0.069, "shared_tropes": 4}, {"name": "Starscream Clones", "show": "Transformers Animated", "id": "transformers_animated_starscream_clones", "similarity": 0.0476, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Esteban",
-  "show": "Jane the Virgin",
-  "trope_count": 8,
-  "tropes": [
-    "BirdsOfAFeather",
-    "ShrineToSelf",
-    "PetTheDog",
-    "Foil",
-    "TheRival",
-    "ItsAllAboutMe",
-    "MoralityPet",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Esteban", "show": "Jane the Virgin", "trope_count": 8, "tropes": ["BirdsOfAFeather", "ShrineToSelf", "PetTheDog", "Foil", "TheRival", "ItsAllAboutMe", "MoralityPet", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Jesse St. James", "show": "Glee", "id": "glee_jesse_st_james", "similarity": 0.0658, "shared_tropes": 5}, {"name": "Ser Davos Seaworth", "show": "Game of Thrones", "id": "game_of_thrones_ser_davos_seaworth", "similarity": 0.0352, "shared_tropes": 5}]}

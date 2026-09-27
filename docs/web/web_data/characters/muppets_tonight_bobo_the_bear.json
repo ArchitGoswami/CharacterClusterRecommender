@@ -1,16 +1,1 @@
-{
-  "name": "Bobo the Bear",
-  "show": "Muppets Tonight",
-  "trope_count": 8,
-  "tropes": [
-    "ThoseTwoGuys",
-    "MinionWithAnFInEvil",
-    "DadTheVeteran",
-    "BearyFriendly",
-    "DemotedToExtra",
-    "AscendedExtra",
-    "BreakoutCharacter",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bobo the Bear", "show": "Muppets Tonight", "trope_count": 8, "tropes": ["ThoseTwoGuys", "MinionWithAnFInEvil", "DadTheVeteran", "BearyFriendly", "DemotedToExtra", "AscendedExtra", "BreakoutCharacter", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Bobo the Bear", "show": "Muppets,The", "id": "muppetsthe_bobo_the_bear", "similarity": 1.0, "shared_tropes": 8}, {"name": "Pepe the King Prawn", "show": "Muppets Tonight", "id": "muppets_tonight_pepe_the_king_prawn", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Pepe the King Prawn", "show": "Muppets,The", "id": "muppetsthe_pepe_the_king_prawn", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Booster Gold", "show": "Justice League", "id": "justice_league_booster_gold", "similarity": 0.125, "shared_tropes": 4}, {"name": "Booster Gold", "show": "Justice League Unlimited", "id": "justice_league_unlimited_booster_gold", "similarity": 0.125, "shared_tropes": 4}, {"name": "Gonzo the Great", "show": "Muppet Show,The", "id": "muppet_showthe_gonzo_the_great", "similarity": 0.058, "shared_tropes": 4}, {"name": "Ryuji Otogi (Duke Devlin)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_ryuji_otogi_duke_devlin", "similarity": 0.0563, "shared_tropes": 4}]}

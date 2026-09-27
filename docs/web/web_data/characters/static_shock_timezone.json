@@ -1,17 +1,1 @@
-{
-  "name": "Timezone",
-  "show": "Static Shock",
-  "trope_count": 9,
-  "tropes": [
-    "IJustWantToBeNormal",
-    "TimeMaster",
-    "NoManShouldHaveThisPower",
-    "UnrelatedInTheAdaptation",
-    "IdiotBall",
-    "AdaptationalBadass",
-    "SixthRanger",
-    "AdaptationNameChange",
-    "RetGone"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Timezone", "show": "Static Shock", "trope_count": 10, "tropes": ["IJustWantToBeNormal", "NoManShouldHaveThisPower", "TimeMaster", "RetGone", "IdiotBall", "AdaptationNameChange", "SixthRanger", "AdaptationalBadass", "UnrelatedInTheAdaptation", "NonMemberInTheAdaptation"], "tropes_by_category": {}, "similar": []}

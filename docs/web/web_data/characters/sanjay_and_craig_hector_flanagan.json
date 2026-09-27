@@ -1,16 +1,1 @@
-{
-  "name": "Hector Flanagan",
-  "show": "Sanjay and Craig",
-  "trope_count": 8,
-  "tropes": [
-    "ForcefulKiss",
-    "Expy",
-    "TheBigGuy",
-    "FatBestFriend",
-    "FatIdiot",
-    "HeterosexualLifePartners",
-    "EyepatchOfPower",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hector Flanagan", "show": "Sanjay and Craig", "trope_count": 8, "tropes": ["ForcefulKiss", "Expy", "TheBigGuy", "FatBestFriend", "FatIdiot", "HeterosexualLifePartners", "EyepatchOfPower", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Harold", "show": "Bunnicula", "id": "bunnicula_harold", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Milo", "show": "Fish Hooks", "id": "fish_hooks_milo", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Barney Gumble", "show": "Simpsons,The", "id": "simpsonsthe_barney_gumble", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Barney Gumble", "show": "The Simpsons", "id": "the_simpsons_barney_gumble", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Heffer Wolfe", "show": "Rocko's Modern Life", "id": "rockos_modern_life_heffer_wolfe", "similarity": 0.0526, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Brian Kelton",
-  "show": "Chicago PD",
-  "trope_count": 5,
-  "tropes": [
-    "DirtyCop",
-    "BigBad",
-    "AmbitionIsEvil",
-    "DeathByIrony",
-    "PyrrhicVictory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Brian Kelton", "show": "Chicago PD", "trope_count": 5, "tropes": ["DirtyCop", "BigBad", "AmbitionIsEvil", "DeathByIrony", "PyrrhicVictory"], "tropes_by_category": {}, "similar": [{"name": "Sozin", "show": "Avatar: The Last Airbender", "id": "avatar_the_last_airbender_sozin", "similarity": 0.0392, "shared_tropes": 4}]}

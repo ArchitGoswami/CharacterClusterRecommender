@@ -1,16 +1,1 @@
-{
-  "name": "Mark Jennings",
-  "show": "Dynasty",
-  "trope_count": 8,
-  "tropes": [
-    "KilledOffForReal",
-    "NearRapeExperience",
-    "StarterMarriage",
-    "BettyAndVeronica",
-    "OopsIForgotIWasMarried",
-    "TheCharmer",
-    "MiddleNameBasis",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mark Jennings", "show": "Dynasty", "trope_count": 8, "tropes": ["KilledOffForReal", "NearRapeExperience", "StarterMarriage", "BettyAndVeronica", "OopsIForgotIWasMarried", "TheCharmer", "MiddleNameBasis", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "Games and Guidebooks", "show": "Dungeons & Dragons", "id": "dungeons_and_dragons_games_and_guidebooks", "similarity": 0.0482, "shared_tropes": 4}]}

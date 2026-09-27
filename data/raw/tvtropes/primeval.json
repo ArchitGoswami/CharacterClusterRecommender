@@ -129,17 +129,18 @@
       "name": "Stephen Hart",
       "media_title": "Primeval",
       "tropes": [
+        "ConflictBall",
+        "HorribleJudgeOfCharacter",
+        "SenselessSacrifice",
+        "TheMasquerade",
         "HeroicSacrifice",
         "BigBrotherInstinct",
+        "DeadpanSnarker",
+        "ThePeterPrinciple",
         "TheBigGuy",
-        "ConflictBall",
-        "TheMasquerade",
-        "HorribleJudgeOfCharacter",
-        "SourSupporter",
-        "SenselessSacrifice",
-        "ThePeterPrinciple"
+        "SourSupporter"
       ],
-      "description": "Cutter's TA. Served as the show's resident badass for the first season. Big Brother Instinct: To Connor, often being encouraging when Cutter's distracted. He's notably the most sympathetic of the team to Connor over his muddled feelings for Abby. The Big Guy: For the first two seasons. An expert tracker and ace marksman in addition to being the tallest of the main cast, he served as the team's principle muscle. Conflict Ball: In season 2, if there's an excuse to disagree and butt heads with Cutter, he grabs it and runs a mile. While some of this is due to their disagreements on if they should be maintainingThe Masquerade, the Mer creatures episode has Stephen rejects Cutter's hunch they need to expand their search area for pretty much no reason other than \"Cutter suggested it\", evenafterAbby is taken by one of the creatures while helping Cutter search beyond the Canal's limits, thus proving Cutter's theory correct. When its made clear that they've swept the canal and still not found anything, he insists they just sweep itagain, and its only by luck that he notices an opening out of the canal that leads to the creature's lair (arriving long after Cutter and Connor had). Heroic Sacrifice:He sacrifices himself to prevent a small army of creatures (including a horde of Future Predators) from escaping.",
+      "description": "Cutter's TA. Served as the show's resident badass for the first season. Deadpan Snarker: He has a few moments of showing his incredulity and distaste in roundabout verbal ways. Big Brother Instinct: To Connor, often being encouraging when Cutter's distracted. He's notably the most sympathetic of the team to Connor over his muddled feelings for Abby. The Big Guy: For the first two seasons. An expert tracker and ace marksman in addition to being the tallest of the main cast, he served as the team's principle muscle. Conflict Ball: In season 2, if there's an excuse to disagree and butt heads with Cutter, he grabs it and runs a mile. While some of this is due to their disagreements on if they should be maintainingThe Masquerade, the Mer creatures episode has Stephen rejects Cutter's hunch they need to expand their search area for pretty much no reason other than \"Cutter suggested it\", evenafterAbby is taken by one of the creatures while helping Cutter search beyond the Canal's limits, thus proving Cutter's theory correct. When its made clear that they've swept the canal and still not found anything, he insists they just sweep itagain, and its only by luck that he notices an opening out of the canal that leads to the creature's lair (arriving long after Cutter and Connor had).",
       "source": "tvtropes"
     },
     {
@@ -231,18 +232,23 @@
       "name": "Sarah Page",
       "media_title": "Primeval",
       "tropes": [
-        "ADayInTheLimelight",
-        "KilledOffscreen",
-        "PoliticallyCorrectHistory",
-        "StayInTheKitchen",
         "GirlyGirl",
+        "ADayInTheLimelight",
+        "ConfirmationBias",
+        "BigBad",
+        "TheSmartGuy",
         "AesopAmnesia",
         "TwoferTokenMinority",
-        "TomboyAndGirlyGirl",
+        "BadassBookworm",
+        "StayInTheKitchen",
+        "PoliticallyCorrectHistory",
+        "ShutUpHannibal",
+        "KilledOffscreen",
+        "EvilPlan",
         "WhyDidItHaveToBeSnakes",
-        "TheSmartGuy"
+        "TomboyAndGirlyGirl"
       ],
-      "description": "An archaeologist who joins the group in Season 3, with the idea of tracking monsters through history. Aesop Amnesia: She complains in 3.7 that she is never allowed to participate in missions. She got over the trauma of what happened in 3.6 pretty quickly. A Day in the Limelight: Often in the background, she's much more active in episode 3.7, taking a trip into the past to find out vital information on their mystery knight. Killed Offscreen: Ends Season 3 claiming to have an idea. Season 4 reveals that it involvedrescue missions to save Connor, Abby and Danny. The last of these missions resulted in Sarah being killed by a Future Predator whilst trapped in a car. Politically Correct History: Played with. The boy she meets in the Middle Ages does ask first if she's a witch and then if she's from the Holy Land, obviously not used to seeing a mixed race woman before. And the former was not so much because she wasn't white and more because she was an unarmed peasant woman who was not apparently eaten by the 'dragon' despite being outside the sanctity of the church.",
+      "description": "An archaeologist who joins the group in Season 3, with the idea of tracking monsters through history. Aesop Amnesia: She complains in 3.7 that she is never allowed to participate in missions. She got over the trauma of what happened in 3.6 pretty quickly. A Day in the Limelight: Often in the background, she's much more active in episode 3.7, taking a trip into the past to find out vital information on their mystery knight. Badass Bookworm: The novelFire and Watershows her conducting some of her most complicated research yet while also surviving both anomaly and mercenary attacks on her work station and giving theBig BadaShut Up, Hannibal!moment about how much hisEvil Plandepends onConfirmation Bias. Killed Offscreen: Ends Season 3 claiming to have an idea. Season 4 reveals that it involvedrescue missions to save Connor, Abby and Danny. The last of these missions resulted in Sarah being killed by a Future Predator whilst trapped in a car.",
       "source": "tvtropes"
     },
     {
@@ -631,40 +637,41 @@
       "name": "Future Predator",
       "media_title": "Primeval",
       "tropes": [
-        "IntroducedSpeciesCalamity",
-        "LogicalWeakness",
-        "SuperSpeed",
-        "ConservationOfNinjutsu",
+        "BigBadEnsemble",
+        "EvilIsNotAToy",
+        "MythArc",
+        "KnightOfCerebus",
         "EvilVersusEvil",
+        "AxCrazy",
+        "TheGreys",
+        "HeroKiller",
+        "MascotMook",
         "AmbiguousSituation",
-        "SenseImpairedMonster",
+        "LogicalWeakness",
+        "BioweaponBeast",
+        "BlindBats",
+        "AllMythsAreTrue",
         "Implied",
         "TheHeavy",
-        "TheGreys",
-        "BlindBats",
-        "MascotMook",
+        "SenseImpairedMonster",
         "BadFuture",
-        "HeroKiller",
-        "ArcVillain",
-        "EvilIsNotAToy",
-        "KillerRabbit",
-        "UpgradeVsPrototypeFight",
-        "KnightOfCerebus",
-        "BioweaponBeast",
-        "WordOfGod",
-        "BigBadEnsemble",
         "FragileSpeedster",
-        "MamaBear",
-        "StableTimeLoop",
-        "SuperSoldier",
         "BatOutOfHell",
-        "DemotedToDragon",
+        "MamaBear",
+        "ArcVillain",
+        "SuperSpeed",
+        "WordOfGod",
         "BigBad",
-        "AxCrazy",
-        "MythArc",
+        "UpgradeVsPrototypeFight",
+        "KillerRabbit",
+        "ConservationOfNinjutsu",
+        "DemotedToDragon",
+        "SuperSoldier",
+        "IntroducedSpeciesCalamity",
+        "StableTimeLoop",
         "EliteMooks"
       ],
-      "description": "Mysterious predators from the future and Primeval's closest thing to a main creature antagonist. The circumstances of their evolution are unclear, although they're believed to be derived from bats in some manner. A mutated variety appears in Series 5. Ambiguous Situation: Their origins. It's strongly implied in Season 1 they're a natural evolution (Helen even says she's seen them in their natural habitat), but Season 3 implies they're genetically engineered from the corpses of their own future selves. Possibly deliberate, as the series has the future repeatedly change from oneBad Futureto the next. Ax-Crazy: They act rather vicious and unhinged. Bat Out of Hell: It's commented that they either evolved from bats orwere created using bat DNA. Big Bad: They're the closest the series has to an overarching villain, being a vicious predatory species of future creature that causes the most amount of death whenever they show up in the present. While they may occasionally beDemoted to Dragonor forced toshare the season with a human antagonist, they will always outlast said humans and become the final villain of the season. They're also the overall villains of the series'Myth Arc, as theBad Futurethey are native to is a constant reminder of what would happen if the ARC fails its mission.",
+      "description": "Mysterious predators from the future and Primeval's closest thing to a main creature antagonist. The circumstances of their evolution are unclear, although they're believed to be derived from bats in some manner. A mutated variety appears in Series 5. All Myths Are True: Because many creatures that come through the anomalies are implied or shown to be responsible folklore and legends, many fans have speculated the Future Predator may be the origin of the Chupacabra. Ambiguous Situation: Their origins. It's strongly implied in Season 1 they're a natural evolution (Helen even says she's seen them in their natural habitat), but Season 3 implies they're genetically engineered from the corpses of their own future selves. Possibly deliberate, as the series has the future repeatedly change from oneBad Futureto the next. Ax-Crazy: They act rather vicious and unhinged. Bat Out of Hell: It's commented that they either evolved from bats orwere created using bat DNA.",
       "source": "tvtropes"
     },
     {
@@ -719,18 +726,20 @@
       "name": "Mer Creature",
       "media_title": "Primeval",
       "tropes": [
+        "BigFatFuture",
         "Foreshadowing",
-        "ThereIsNoKillLikeOverkill",
-        "GracefulInTheirElement",
-        "KillerGorilla",
-        "FormerlySapientSpecies",
         "FridgeHorror",
         "GrandfatherParadox",
-        "ColorCodedForYourConvenience",
+        "ShoutOut",
+        "KillerGorilla",
+        "GracefulInTheirElement",
+        "ThereIsNoKillLikeOverkill",
         "TapOnTheHead",
-        "OminousLatinChanting"
+        "FormerlySapientSpecies",
+        "OminousLatinChanting",
+        "ColorCodedForYourConvenience"
       ],
-      "description": "Seal-like primates from the future. It's half-jokingly speculated that they're descended from humans. Color-Coded for Your Convenience: The smaller Mer have green skin, whilst the dominant Merqueen has red skin, seemingly to indicate that it is the dominant one. Foreshadowing: Assuming Cutter was right about these monsters being posthumans at the end of the episode, there's some giveaways leading up to it that would back up his claims.Their underwater hunting calls sound likesomething you would expect from a church choir.They intentionally use sewers as hideout and don't kill their human prey right away. If they're still vaguely sapient, they might have some basic understanding whatkilling off the wrong human at the wrong time would do to their race... Their underwater hunting calls sound likesomething you would expect from a church choir. They intentionally use sewers as hideout and don't kill their human prey right away. If they're still vaguely sapient, they might have some basic understanding whatkilling off the wrong human at the wrong time would do to their race...",
+      "description": "Seal-like primates from the future. It's half-jokingly speculated that they're descended from humans. Big, Fat Future: Assuming that the Mer are indeed posthumans, the result of humanity retreating to the water has turned them into blubbery, seal-like creatures. Unlike most instances of this trope, this future obesity version of humanity has become fierce predators capable of effectively hunting down any prey that are in the water. Color-Coded for Your Convenience: The smaller Mer have green skin, whilst the dominant Merqueen has red skin, seemingly to indicate that it is the dominant one. Foreshadowing: Assuming Cutter was right about these monsters being posthumans at the end of the episode, there's some giveaways leading up to it that would back up his claims.Their underwater hunting calls sound likesomething you would expect from a church choir.They intentionally use sewers as hideout and don't kill their human prey right away. If they're still vaguely sapient, they might have some basic understanding whatkilling off the wrong human at the wrong time would do to their race... Their underwater hunting calls sound likesomething you would expect from a church choir.",
       "source": "tvtropes"
     },
     {
@@ -806,14 +815,15 @@
       "media_title": "Primeval",
       "tropes": [
         "Foreshadowing",
-        "GripingAboutGremlins",
         "Invisibility",
-        "ItCanThink",
-        "WouldHurtAChild",
+        "DoingInTheWizard",
+        "GripingAboutGremlins",
         "OurGoblinsAreDifferent",
-        "DoingInTheWizard"
+        "AllMythsAreTrue",
+        "ItCanThink",
+        "WouldHurtAChild"
       ],
-      "description": "A primate-like creature from the future that can turn-near invisible by changing the color of its skin. Doing In the Wizard: It's clearly meant to be the source of legends about ghosts and house goblins, though rather than a magical creature with supernatural abilities, its simply a future animal with an evolved camouflage ability. Foreshadowing: Despite its vicious appearance, it's not a man-eater, neither harming Abby when she was knocked out in the house, and while it attacks the team and kills the real estate agent who had entered the house, this appears to be defensive territorial kills rather than for food. In fact, when Emily talks about keeping it from killing anything by feeding it, she specifically calls out she's protecting the pets, indicating it has no desire to eat people.Which makes Patrick's survival a lot more believable. Griping About Gremlins: Aside from looking like one, it's implied to be the source of legends about them, and similar creatures like the Hopkinsville Goblins. Invisibility: It's capable of this by changing the color of its skin like a chameleon.",
+      "description": "A primate-like creature from the future that can turn-near invisible by changing the color of its skin. All Myths Are True: Since some anomaly creatures are responsible for cryptozoological legends and folklore, it is theorized by some fans to be the origins of small, violent humanoids such as gremlins. Doing In the Wizard: It's clearly meant to be the source of legends about ghosts and house goblins, though rather than a magical creature with supernatural abilities, its simply a future animal with an evolved camouflage ability. Foreshadowing: Despite its vicious appearance, it's not a man-eater, neither harming Abby when she was knocked out in the house, and while it attacks the team and kills the real estate agent who had entered the house, this appears to be defensive territorial kills rather than for food. In fact, when Emily talks about keeping it from killing anything by feeding it, she specifically calls out she's protecting the pets, indicating it has no desire to eat people.Which makes Patrick's survival a lot more believable. Griping About Gremlins: Aside from looking like one, it's implied to be the source of legends about them, and similar creatures like the Hopkinsville Goblins.",
       "source": "tvtropes"
     },
     {
@@ -949,9 +959,10 @@
       "tropes": [
         "FantasticFaunaCounterpart",
         "RaptorAttack",
+        "AllMythsAreTrue",
         "ArtisticLicensePaleontology"
       ],
-      "description": "A bizarre species of raptor from the Cretaceous that adapted to an arboreal lifestyle. A couple of them followed Emily Merchant and Ethan Dobrowski into the present. Artistic License – Paleontology: While many dromaeosaurs had surprisingly flexible tails due to lacking ossified tendons, having a prehensile tail is incredibly unlikely. Fantastic Fauna Counterpart: This is a raptor that fills the niche of tree-dwelling monkeys, such as howler monkeys and spider monkeys. It even has a prehensile tail! Raptor Attack: Scaly, humansized, hyperaggressive, it checks off all the marks.",
+      "description": "A bizarre species of raptor from the Cretaceous that adapted to an arboreal lifestyle. A couple of them followed Emily Merchant and Ethan Dobrowski into the present. All Myths Are True: It is possible, given its green coloration and humanoid proportions, that a Tree Creeper was responsible for the legend of the Lizard Man of Scape Ore Swamp. Artistic License – Paleontology: While many dromaeosaurs had surprisingly flexible tails due to lacking ossified tendons, having a prehensile tail is incredibly unlikely. Fantastic Fauna Counterpart: This is a raptor that fills the niche of tree-dwelling monkeys, such as howler monkeys and spider monkeys. It even has a prehensile tail! Raptor Attack: Scaly, humansized, hyperaggressive, it checks off all the marks.",
       "source": "tvtropes"
     },
     {
@@ -968,9 +979,10 @@
       "name": "Labyrinthodont",
       "media_title": "Primeval",
       "tropes": [
+        "AllMythsAreTrue",
         "ArtisticLicensePaleontology"
       ],
-      "description": "A large species of amphibian from the late Devonian. Decades before the start of the show, two of them came through an anomaly and terrorized a seaside village, giving rise to the legend of the \"Witchfield Worm\". Artistic License – Paleontology: It seems to be based uponCrassigyrinus, which had limbs so small that it probably couldn'twalk. So how this one moves on land is a mystery.",
+      "description": "A large species of amphibian from the late Devonian. Decades before the start of the show, two of them came through an anomaly and terrorized a seaside village, giving rise to the legend of the \"Witchfield Worm\". All Myths Are True: It was responsible for a local legend known as the \"Witchfield Worm.\" Artistic License – Paleontology: It seems to be based uponCrassigyrinus, which had limbs so small that it probably couldn'twalk. So how this one moves on land is a mystery.",
       "source": "tvtropes"
     },
     {
@@ -1093,7 +1105,59 @@
       ],
       "description": "Mercy Kill: Cutter does this to a dying youngIguanodonlost on Guns Island. No Name Given: OnlyIguanodon,PolacanthusandNeovenatorare properly identified.Nondescript sauropods appear. Could be one of the fragmentary Wealden taxa likeEucamerotusorOrnithopsis.A turkey-sized theropod with a small head is shown, possibly meant to be the putative compsognathidAristosuchusor perhaps the basal ornithomimosaurPelecanimimus(known from contemporary strata in Iberia).A badger-like mammal is shown scavenging a newly bornIguanodon, possibly meant to be aGobiconodon.\"Sail-crested\" pterosaurs appear, obviously referring to tapejarids. Might beTapejara/Tupandactylus(based on its appearance in \"Giant of the Skies\"). Ironically, we have named several tapejarids from the Early Cretaceous of Europe since 2007, most notablyEuropejarafrom Spain.Unnamed dromaeosaurs appear as theFinal Boss, described as being 3 feet tall. They might have been meant to be the highly fragmentaryOrnithodesmus(the real animal was only the size of a small coyote). Ironically, its description matches the (also very fragmentary)Vectiraptor, which is known from the Wessex Formation but was described many years later. Nondescript sauropods appear. Could be one of the fragmentary Wealden taxa likeEucamerotusorOrnithopsis. A turkey-sized theropod with a small head is shown, possibly meant to be the putative compsognathidAristosuchusor perhaps the basal ornithomimosaurPelecanimimus(known from contemporary strata in Iberia). A badger-like mammal is shown scavenging a newly bornIguanodon, possibly meant to be aGobiconodon.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Captain Tom Ryan",
+      "media_title": "Primeval",
+      "tropes": [
+        "JerkWithAHeartOfGold",
+        "TheWorldsExpertOnGettingKilled",
+        "TriggerHappy"
+      ],
+      "description": "Jerk with a Heart of Gold: He is aloof andTrigger-Happybut does often listen to or protect the team. Trigger-Happy: He usually feels shooting the dinosaurs should be considered a lot earlier than it is. The World's Expert (on Getting Killed): Despite being the trained soldier, he tends to either miss out on or be rendered useless early on in fights with the anomalies,which turns fatal during a clash with a Future Predator at the end of season 1.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gideon",
+      "media_title": "Primeval",
+      "tropes": [
+        "CreepyGood",
+        "YourDaysAreNumbered",
+        "BadFuture"
+      ],
+      "description": "Creepy Good: He lurks behind the scenes and cautions distrust against the ARC team but is just trying to uncover the information to stop aBad Futureand isn't advocating murder to do it. Your Days Are Numbered: Either cancer or a disease from a sterilized world he spent time on leave him with only months to live.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Tom and Duncan",
+      "media_title": "Primeval",
+      "tropes": [
+        "TheBusCameBack",
+        "FightingFromTheInside",
+        "ConspiracyTheorist",
+        "DyingMomentOfAwesome",
+        "BigFun",
+        "FieryRedhead",
+        "DisposableVagrant",
+        "NonActionGuy",
+        "LovableCoward",
+        "TookALevelInBadass"
+      ],
+      "description": "Big Fun: Chubby Duncan is the more mellow of the pair. The Bus Came Back: After 1.4, Duncan vanishes until 4.2 Conspiracy Theorist: They think the anamolies are a government experiment and shadow Connor while trying to learn more. Fiery Redhead: Tom is the angry leader and his hair looks reddish in some light. Took a Level in Badass: They are goofy, obsessiveNon Action Guysearly on but Tom gets aFighting from the InsideDying Moment of Awesomeagainst parasites, while Duncan turns out to be an impressive investigator who tracks down an overlooked dinosaur with a bigDisposable Vagrantbodycount (although he is stilltoo frightened to actually help fight it).",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mick Harper and Katherine Kavanaugh",
+      "media_title": "Primeval",
+      "tropes": [
+        "IntrepidReporter",
+        "DaEditor",
+        "HotScoop",
+        "HeelFaceDoorSlam"
+      ],
+      "description": "Da Editor: Katherine has high standards of proof and nearly fires Mick for not meeting them, while caring too much about the story once it does appear. Intrepid Reporter: They pursue the dinosaur sightings with a lot of ingenuity and determination, although Mick also obstructs the people out to stop the disaster a few times to clear the way to evidence and seem a bit preoccupied with personal enrichment even after two of their team are killed. Heel–Face Door-Slam: Mick finally is ready to quit chasing the story when the two of them presumably die accidentally back up through an anomaly while moving away from aGiganotosaurusthat then charges in after them. Hot Scoop: They are fairly attractive media professionals.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 65
+  "character_count": 69
 }

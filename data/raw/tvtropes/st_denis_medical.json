@@ -115,7 +115,50 @@
       ],
       "description": "An emergency physician who's seen it all. Jade-Colored Glasses: Ron's been a doctor for too long to be optimistic about much and Joyce's relentless cheeriness and bold ideas don't do much to brighten his mood. However, he still tirelessly plugs along, treating patients to the utmost. Married to the Job: Ron admits that his dedication to emergency medicine has wreaked havoc on his personal life and that his job is pretty much all he has going for him. He sees the same thing slowly happening to Alex and cautions her to make time for her family.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Chaplain Steve",
+      "media_title": "St. Denis Medical",
+      "tropes": [
+        "Jerkass",
+        "WillTheyOrWontThey",
+        "HateSink"
+      ],
+      "description": "St. Denis's not-so-holy chaplain. Hate Sink: The target of viewers' disdain in season 2 specifically, as he becomes an obstacle in Matt and Serena'sWill They or Won't They?arc. Jerkass: Especially to Matt after he questions Steve's qualifications and Bible knowledge.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Tim",
+      "media_title": "St. Denis Medical",
+      "tropes": [
+        "FamilyMan"
+      ],
+      "description": "Alex's patient and nerdy husband. Family Man: Takes up a good chunk of parenting duties due to Alex's workload being much more intensive than his.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Keith",
+      "media_title": "St. Denis Medical",
+      "tropes": [
+        "HiddenDepths",
+        "UnfortunateNames",
+        "HappilyMarried",
+        "ExtremeDoormat",
+        "ArsonMurderAndJaywalking",
+        "ButtMonkey"
+      ],
+      "description": "A nurse on the ER floor that usually gets roped into various antics. Butt-Monkey: Settles into this beginning in season 2, though he takes it in stride. He's usually the object of ridicule at work, even by kinder characters like Alex. Extreme Doormat: Lets everyone in the ER walk all over him, but it doesn't seem to bother him all too much. Happily Married: Seems to have the best home life in all of St. Denis: has a loving family, a hefty savings account, and gets an average of9.5 hours of sleep every night. Hidden Depths: He has a love of poetry and his extremely frugal lifestyle has allowed him and his wife to have millions saved away for their retirement.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Sanderson",
+      "media_title": "St. Denis Medical",
+      "tropes": [
+        "ManChild"
+      ],
+      "description": "Joyce's longtime partner. Manchild: Has a Norse and Viking obsession, completely lacking in emotional intelligence, and hopelessly dependent on Joyce.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 8
+  "character_count": 12
 }

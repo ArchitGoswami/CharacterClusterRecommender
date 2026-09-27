@@ -1,13 +1,1 @@
-{
-  "name": "Thomas Grace",
-  "show": "Alias",
-  "trope_count": 5,
-  "tropes": [
-    "HeroicSacrifice",
-    "SuspiciouslySimilarSubstitute",
-    "CombatPragmatist",
-    "AntiHero",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thomas Grace", "show": "Alias", "trope_count": 5, "tropes": ["HeroicSacrifice", "SuspiciouslySimilarSubstitute", "CombatPragmatist", "AntiHero", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": [{"name": "Ensign (later, Lieutenant) Ro Laren", "show": "Star Trek", "id": "star_trek_ensign_later_lieutenant_ro_laren", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Billie Jenkins", "show": "Charmed", "id": "charmed_billie_jenkins", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Methos", "show": "Highlander: The Series", "id": "highlander_the_series_methos", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Phoenix Ikki", "show": "Saint Seiya", "id": "saint_seiya_phoenix_ikki", "similarity": 0.037, "shared_tropes": 4}, {"name": "Shadow the Hedgehog", "show": "Sonic X", "id": "sonic_x_shadow_the_hedgehog", "similarity": 0.0357, "shared_tropes": 4}, {"name": "Major/Colonel Kira Nerys", "show": "Star Trek", "id": "star_trek_major_colonel_kira_nerys", "similarity": 0.0354, "shared_tropes": 4}, {"name": "Major/Colonel Kira Nerys", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_major_colonel_kira_nerys", "similarity": 0.0354, "shared_tropes": 4}]}

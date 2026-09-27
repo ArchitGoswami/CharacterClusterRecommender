@@ -1,12 +1,1 @@
-{
-  "name": "Bug Bite",
-  "show": "Challenge of the GoBots",
-  "trope_count": 4,
-  "tropes": [
-    "TheDragon",
-    "AdaptationalHeroism",
-    "AscendedExtra",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bug Bite", "show": "Challenge of the GoBots", "trope_count": 4, "tropes": ["TheDragon", "AdaptationalHeroism", "AscendedExtra", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Tala", "show": "Justice League", "id": "justice_league_tala", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Tala", "show": "Justice League Unlimited", "id": "justice_league_unlimited_tala", "similarity": 0.0851, "shared_tropes": 4}]}

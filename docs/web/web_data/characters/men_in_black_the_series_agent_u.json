@@ -1,16 +1,1 @@
-{
-  "name": "Agent U",
-  "show": "Men in Black: The Series",
-  "trope_count": 8,
-  "tropes": [
-    "GoofySuit",
-    "RunningGag",
-    "ProfessionalButtKisser",
-    "HateSink",
-    "WhosOnFirst",
-    "FlatCharacter",
-    "YesMan",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Agent U", "show": "Men in Black: The Series", "trope_count": 8, "tropes": ["GoofySuit", "RunningGag", "ProfessionalButtKisser", "HateSink", "WhosOnFirst", "FlatCharacter", "YesMan", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "The Baldrick Lineage", "show": "Blackadder", "id": "blackadder_the_baldrick_lineage", "similarity": 0.0676, "shared_tropes": 5}, {"name": "Sgt./Captain Amy Santiago", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sgt_captain_amy_santiago", "similarity": 0.0373, "shared_tropes": 5}, {"name": "WillMcKenzie", "show": "Inbetweeners, The", "id": "inbetweeners_the_willmckenzie", "similarity": 0.0354, "shared_tropes": 4}]}

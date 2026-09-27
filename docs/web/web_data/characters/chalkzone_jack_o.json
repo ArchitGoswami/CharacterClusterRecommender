@@ -1,17 +1,1 @@
-{
-  "name": "Jack-O",
-  "show": "ChalkZone",
-  "trope_count": 9,
-  "tropes": [
-    "AffablyEvil",
-    "PumpkinPerson",
-    "VillainLoveSong",
-    "DemBones",
-    "VocalEvolution",
-    "DisproportionateRetribution",
-    "FourthDateMarriage",
-    "LeanAndMean",
-    "CaptainErsatz"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jack-O", "show": "ChalkZone", "trope_count": 9, "tropes": ["AffablyEvil", "PumpkinPerson", "VillainLoveSong", "DemBones", "VocalEvolution", "DisproportionateRetribution", "FourthDateMarriage", "LeanAndMean", "CaptainErsatz"], "tropes_by_category": {}, "similar": [{"name": "Red Death", "show": "Venture Bros., The", "id": "venture_bros_the_red_death", "similarity": 0.0388, "shared_tropes": 4}]}

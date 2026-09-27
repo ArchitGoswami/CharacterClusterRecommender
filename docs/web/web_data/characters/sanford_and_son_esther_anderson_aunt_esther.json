@@ -1,17 +1,1 @@
-{
-  "name": "Esther Anderson/Aunt Esther",
-  "show": "Sanford and Son",
-  "trope_count": 9,
-  "tropes": [
-    "SitcomArchNemesis",
-    "CatchPhrase",
-    "BigBrotherInstinct",
-    "WhenSheSmiles",
-    "DropInCharacter",
-    "BerserkButton",
-    "FormerTeenRebel",
-    "EnemyMine",
-    "BreakoutCharacter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Esther Anderson/Aunt Esther", "show": "Sanford and Son", "trope_count": 9, "tropes": ["SitcomArchNemesis", "CatchPhrase", "BigBrotherInstinct", "WhenSheSmiles", "DropInCharacter", "BerserkButton", "FormerTeenRebel", "EnemyMine", "BreakoutCharacter"], "tropes_by_category": {}, "similar": [{"name": "Shoresy", "show": "Letterkenny", "id": "letterkenny_shoresy", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Principal Prickly", "show": "Recess", "id": "recess_principal_prickly", "similarity": 0.0741, "shared_tropes": 4}, {"name": "The Janitor", "show": "Scrubs", "id": "scrubs_the_janitor", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Sue Sylvester", "show": "Glee", "id": "glee_sue_sylvester", "similarity": 0.0388, "shared_tropes": 5}]}

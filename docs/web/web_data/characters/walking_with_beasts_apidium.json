@@ -1,16 +1,1 @@
-{
-  "name": "Apidium",
-  "show": "Walking with Beasts",
-  "trope_count": 8,
-  "tropes": [
-    "LeParkour",
-    "AnachronisticAnimal",
-    "StockSoundEffects",
-    "HazardousWater",
-    "NonIndicativeName",
-    "SloMo",
-    "NoNameGiven",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Apidium", "show": "Walking with Beasts", "trope_count": 8, "tropes": ["LeParkour", "AnachronisticAnimal", "StockSoundEffects", "HazardousWater", "NonIndicativeName", "SloMo", "NoNameGiven", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Hyaenodon", "show": "Walking with Beasts", "id": "walking_with_beasts_hyaenodon", "similarity": 0.1905, "shared_tropes": 4}]}

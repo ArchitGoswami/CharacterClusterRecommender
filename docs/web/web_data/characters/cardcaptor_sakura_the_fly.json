@@ -1,13 +1,1 @@
-{
-  "name": "The Fly",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 5,
-  "tropes": [
-    "AdaptationalVillainy",
-    "PowerGivesYouWings",
-    "GiantFlyer",
-    "AndroclesLion",
-    "SizeShifter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Fly", "show": "Cardcaptor Sakura", "trope_count": 6, "tropes": ["PowerGivesYouWings", "AdaptationalVillainy", "GiantFlyer", "SizeShifter", "AndroclesLion", "FlyingBroomstick"], "tropes_by_category": {}, "similar": []}

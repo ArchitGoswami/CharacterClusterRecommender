@@ -1,16 +1,1 @@
-{
-  "name": "Loni",
-  "show": "Home Movies",
-  "trope_count": 8,
-  "tropes": [
-    "OfficialCouple",
-    "ProneToTears",
-    "RedheadsAreUncool",
-    "OddCouple",
-    "ShrinkingViolet",
-    "OnlyOneName",
-    "EarlyBirdCameo",
-    "TheCutie"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Loni", "show": "Home Movies", "trope_count": 8, "tropes": ["OfficialCouple", "ProneToTears", "RedheadsAreUncool", "OddCouple", "ShrinkingViolet", "OnlyOneName", "EarlyBirdCameo", "TheCutie"], "tropes_by_category": {}, "similar": [{"name": "KarenMcCormick", "show": "South Park", "id": "south_park_karenmccormick", "similarity": 0.1111, "shared_tropes": 4}]}

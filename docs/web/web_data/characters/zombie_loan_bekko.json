@@ -1,10 +1,1 @@
-{
-  "name": "Bekko",
-  "show": "Zombie Loan",
-  "trope_count": 2,
-  "tropes": [
-    "MissionControl",
-    "ScaryShinyGlasses"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bekko", "show": "Zombie Loan", "trope_count": 2, "tropes": ["MissionControl", "ScaryShinyGlasses"], "tropes_by_category": {}, "similar": []}

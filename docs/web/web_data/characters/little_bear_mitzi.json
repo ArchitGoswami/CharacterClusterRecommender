@@ -1,17 +1,1 @@
-{
-  "name": "Mitzi",
-  "show": "Little Bear",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "OddNameOut",
-    "ADogNamedDog",
-    "PutOnABus",
-    "InformedSpecies",
-    "TomboyAndGirlyGirl",
-    "DemotedToExtra",
-    "SixthRanger",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mitzi", "show": "Little Bear", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "OddNameOut", "ADogNamedDog", "PutOnABus", "InformedSpecies", "TomboyAndGirlyGirl", "DemotedToExtra", "SixthRanger", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Meiling Li", "show": "Cardcaptor Sakura", "id": "cardcaptor_sakura_meiling_li", "similarity": 0.05, "shared_tropes": 4}, {"name": "Dr. Bernadette Rostenkowski-Wolowitz", "show": "The Big Bang Theory", "id": "the_big_bang_theory_dr_bernadette_rostenkowski_wolowitz", "similarity": 0.0408, "shared_tropes": 4}]}

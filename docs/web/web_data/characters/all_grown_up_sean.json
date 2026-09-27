@@ -1,12 +1,1 @@
-{
-  "name": "Sean",
-  "show": "All Grown Up",
-  "trope_count": 4,
-  "tropes": [
-    "ThoseTwoGuys",
-    "TheDitz",
-    "Jerkass",
-    "TheSlacker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sean", "show": "All Grown Up", "trope_count": 4, "tropes": ["ThoseTwoGuys", "TheDitz", "Jerkass", "TheSlacker"], "tropes_by_category": {}, "similar": [{"name": "Jake Harper", "show": "Two and a Half Men", "id": "two_and_a_half_men_jake_harper", "similarity": 0.0833, "shared_tropes": 4}]}

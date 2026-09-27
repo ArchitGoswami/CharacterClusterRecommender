@@ -143,45 +143,46 @@
       "name": "Screech Powers",
       "media_title": "Saved by the Bell",
       "tropes": [
-        "BookSmart",
-        "LovableNerd",
-        "NiceGuy",
+        "DoggedNiceGuy",
         "BerserkButton",
-        "TheMillstone",
+        "DopeSlap",
+        "RunningGag",
+        "ForgottenBirthday",
+        "AllOfTheOtherReindeer",
         "OnlyKnownByTheirNickname",
-        "GeekPhysiques",
-        "ButtMonkey",
-        "DitzyGenius",
-        "PluckyComicRelief",
-        "BrutalHonesty",
-        "ForgotFlandersCouldDoThat",
-        "GrandFinale",
+        "Flanderization",
         "TookALevelInDumbass",
+        "KiddieKid",
+        "NoSocialSkills",
+        "PluckyComicRelief",
+        "ComicallyMissingThePoint",
+        "StalkerWithACrush",
         "JerkassBall",
+        "AbhorrentAdmirer",
+        "DependingOnTheWriter",
+        "TheFriendNobodyLikes",
+        "Fanboy",
+        "ForgotFlandersCouldDoThat",
+        "BookSmart",
         "HiddenDepths",
+        "GeekPhysiques",
+        "SmartPeoplePlayChess",
+        "KarmaHoudini",
+        "ButtMonkey",
+        "NiceGuy",
+        "SeriousBusiness",
+        "GrandFinale",
+        "JustFriends",
+        "TheMillstone",
+        "TeenGenius",
         "TheSmartGuy",
         "SmartPeopleBuildRobots",
-        "StalkerWithACrush",
-        "DoggedNiceGuy",
-        "RunningGag",
-        "NoSocialSkills",
-        "KarmaHoudini",
-        "SensitiveGuyAndManlyMan",
-        "AllOfTheOtherReindeer",
-        "TheFriendNobodyLikes",
-        "SeriousBusiness",
-        "ForgottenBirthday",
-        "Flanderization",
-        "RejectionAffection",
-        "JustFriends",
-        "DopeSlap",
-        "KiddieKid",
-        "AbhorrentAdmirer",
+        "DitzyGenius",
+        "LovableNerd",
         "OddFriendship",
-        "SmartPeoplePlayChess",
-        "TeenGenius",
-        "ComicallyMissingThePoint",
-        "Fanboy"
+        "BrutalHonesty",
+        "SensitiveGuyAndManlyMan",
+        "RejectionAffection"
       ],
       "description": "Abhorrent Admirer: Towards Lisa, sometimes verging onStalker with a Crush(played strictly for comedy). All of the Other Reindeer: Screech is this for the rest of the gang. According to Dustin Diamond, Screech's actor, this is also the source of a lot of his disdain for the rest of the cast. Berserk Button: He doesn't take it well when his friends forget to celebrate his birthday. Book Smart: Since he's a stereotypical nerd, he's even better at academics than Jessie. However, he lacks common sense outside of school. Brutal Honesty: Often does this.",
       "source": "tvtropes"
@@ -706,7 +707,263 @@
       ],
       "description": "The Ghost: For most of the series. Mr. Belding constantly talked about her, but we never actually met her until an episode during senior year. Screaming Birth: Gave birth in an elevator.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Scott Erickson",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "VitriolicBestBuds",
+        "BlatantLies",
+        "HeelRealization",
+        "BetterAsFriends",
+        "BigManOnCampus",
+        "HighSchoolHustler",
+        "TookALevelInKindness",
+        "ShipTease",
+        "ChuckCunninghamSyndrome",
+        "Expy",
+        "NewTransferStudent",
+        "BreakingTheFourthWall",
+        "JerkWithAHeartOfGold",
+        "VillainProtagonist",
+        "MadLibsCatchPhrase"
+      ],
+      "description": "Better as Friends: He eventually gives up chasing Lindsay and turns his attention to other girls, much improving his relationship with the rest of the gang. Breaking the Fourth Wall: Scott follows in Zack Morris' footsteps as the lead character who was aware of and interacted with the audience. Chuck Cunningham Syndrome: Scott vanishes without explanation between Season 1 and Season 2. Expy: In both personality and role as the main character Scott strongly resembles Zack Morris. However he also draws a little from Slater in being the brand new student and outsider who is trying to make his mark in school. Heel Realization: In 'Homecoming King' Scott has managed to wrangle a date with Lindsay with Tommy D's reluctant acquiescence (Lindsay's mother disapproves of Tommy D and wants her to date other boys.) Scott is fully prepared to make a move to kiss Lindsay but, remembering Tommy D's trust in him, Scott feels too guilty to go through with it and stops going after her.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Barton 'Weasel' Wyzell",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "DoggedNiceGuy",
+        "OnlyKnownByTheirNickname",
+        "ChuckCunninghamSyndrome",
+        "AcademicAthlete",
+        "PlatonicLifePartners",
+        "Flanderization",
+        "Expy"
+      ],
+      "description": "Academic Athlete: Amazingly enough, Weasel turns out to be a great football player (specifically as a kicker.) Chuck Cunningham Syndrome: Weasel vanishes without explanation between Season 1 and Season 2. Dogged Nice Guy: Weasel has a long standing and hopeless crush on Megan. Expy: Weasel is very much the new 'Screech', albeit the pre-Flanderizationversion of Screech rather than the more buffoonish version he later turned into. He has an embarrassing nickname, an unrequited crush on the beautiful fashionista in the group and has nerdy interests. Only Known by Their Nickname: Almost universally addressed by his nickname 'Weasel', with only teachers and his lifelong friend Lindsay using his real name.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Vicki Needleman",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "DoggedNiceGirl",
+        "ChuckCunninghamSyndrome",
+        "DumbBlonde",
+        "PunnyName",
+        "DownplayedTrope",
+        "Hypochondria"
+      ],
+      "description": "Chuck Cunningham Syndrome: Vicki vanishes without explanation between Season 1 and Season 2. Dogged Nice Girl: Vicki is hopelessly in love with Scott who likes her as a friend but is definitely not into her in that way, partly because he finds her neuroses irritating and partly because she comes on very strong. Dumb Blonde: Adownplayedversion. Vicki is blonde and while not exactly dumb is kind of out there in her thinking thanks to her neurotic personality and poor social skills. Hypochondria: Vicki has a vast list of allergies most of which/all of which seem to exist only in her mind. In 'George Washington Kissed Here' Scott even tries to fend off her advances by claiming to have a made up disease - though it turns out her fondness for Scott trumps even her normally crippling health phobias and she gets the school nurse to give her a shot so she can stick near him. Punny Name: 'Needleman' is prone to allergies and health neuroses and talks about them constantly.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lindsay Warner",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "PutOnABus",
+        "PlatonicLifePartners",
+        "LoveTriangle",
+        "Expy",
+        "MadLibsCatchPhrase"
+      ],
+      "description": "Expy: To Kelly. Pretty, popular, bubbly, wholesome, in aLove Trianglewith the schemer and the jock. Mad Libs Catch Phrase: In Seasons 1 and 2, Lindsay often says, \"Isn't Tommy sweet / cute when he's ___?\" She invariably hugs Tom when she says it. Platonic Life-Partners: With Weasel. They have a similar lifelong bond to Zack and Jessie in Season 1. Put on a Bus: After season 3, transferring to another school.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Megan Jones",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "GoGetterGirl",
+        "TokenMinority",
+        "Expy",
+        "ChuckCunninghamSyndrome"
+      ],
+      "description": "Chuck Cunningham Syndrome: Disappears after season 2 without any explanation. Expy: To both Jessie, being very smart and an overachiever, and Lisa, as theToken Minorityand the target of the nerd's unrequited love. Go-Getter Girl: As the Jessie character type, she is the school's driven over-achiever. Token Minority: Just like Lisa, the only black girl of the main cast.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Thomas 'Tommy D' De Luca",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "PutOnABus",
+        "TookALevelInKindness",
+        "CharacterizationMarchesOn",
+        "TookALevelInDumbass",
+        "Expy",
+        "DumbJock"
+      ],
+      "description": "Characterization Marches On: As anExpyof Slater in Season 1, he's not above threatening violence on whoever did him wrong. Then heTook a Level in Kindnessin Season 2, where his tendency for violent retribution is all but gone. In Season 3 heTook a Level in Dumbassbefore he'sPut on a Busfor the rest of the series' run (Season 4 onward). Dumb Jock: The star quarterback of the football team but not very bright. Expy: An unusual example in that Tommy D actually resembles theoriginaldesign of 'Slater' as an Italian-American 'greaser' more than he does the version of Slater that eventually made it to screen, which ended up being heavily influenced by Mario Lopez's acting style and charisma.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Rachel Meyers",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "EveryoneLovesBlondes",
+        "PutOnABus",
+        "TheFashionista",
+        "HollywoodToneDeaf",
+        "RevolvingDoorCasting",
+        "SatelliteLoveInterest",
+        "PromotionToOpeningTitles",
+        "OneDegreeOfSeparation"
+      ],
+      "description": "Everyone Loves Blondes: A blonde and popular cheerleader. The Fashionista: The resident fashion-obsessed shopaholic. Hollywood Tone-Deaf: In the Season 4 episode \"Vote Screech\". Oddly, she'snotthis in the Season 2 episode \"Tommy the Tenor\". One Degree of Separation: In a show known forRevolving Door CastingRachel is the only student character to linknearlyall the other main characters. In her Season 1 episode ('Swap Meet') she dates Scott and at least indirectly interacts with Vicki and Weasel. From Season 2 through the end of Season 4 she interacts with everyone and even after she leaves, Liz is explicitly contrasted and compared with her. Only Tony who arrives long after she left has no link at all to Rachel and only Mr. Belding has more links overall (Screech interacts with everyone but is still behind Rachel as he only arrived after Scott, Vicki and Weasel were gone.) Promotion to Opening Titles: ASatellite Love Interestto Scott in season 1, promoted to regular in Season 2 when she was brought back to replace Vicki.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Brian Keller",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "DoggedNiceGuy",
+        "HollywoodToneDeaf",
+        "ChuckCunninghamSyndrome"
+      ],
+      "description": "Chuck Cunningham Syndrome: Disappears after season 2 without explanation or further mention. Dogged Nice Guy: Brian has a crush on Rachel early on in Season 2, to the point that impressing Rachel in the hope of getting her to fall in love with him is the ulterior motive behind many of his schemes. Hollywood Tone-Deaf: Shown in the episode \"Tommy the Tenor\".",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Bobby Wilson",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "DoggedNiceGuy",
+        "RememberTheNewGuy",
+        "ChuckCunninghamSyndrome",
+        "TokenMinority",
+        "NewTransferStudent"
+      ],
+      "description": "Chuck Cunningham Syndrome: He, like Brian, disappears after season 2 without explanation or further mention. Dogged Nice Guy: Throughout Season 2, Bobby tries, without much success, to date Megan. Remember the New Guy?: Just like his disappearance, even his first appearance in season 2 is never explained. He's not aNew Transfer Student, he was apparently always there. Token Minority: He is the only black guy of the core characters in Season 2, though Megan is also theToken Minorityof the girls.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "R.J. \"Hollywood\" Collins",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "LastNameBasis",
+        "ChuckCunninghamSyndrome",
+        "EmbarrassingMiddleName",
+        "EmbarrassingFirstName",
+        "TokenMinority",
+        "OnlyKnownByInitials"
+      ],
+      "description": "Chuck Cunningham Syndrome: Disappears after season 3 without explanation or further mention. Embarrassing First Name/Embarrassing Middle Name: R.J. stands for \"Ronald Joseph\". He prefers beingOnly Known by Initials, though. Only Known by Initials: Just likeA.C. Slater. UnlikeSlater, however, he's addressed as \"R.J.\" instead. Token Minority: The only black guy of the core characters in Season 3.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ryan Parker",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "PutOnABusToHell",
+        "HighSchoolHustler",
+        "PutOnABus",
+        "InUniverse",
+        "SuspiciouslySimilarSubstitute",
+        "KidAnova",
+        "Expy",
+        "LampshadeHanging",
+        "BettyAndVeronica"
+      ],
+      "description": "Betty and Veronica: The Veronica to Nicky's Betty for Liz's Archie in season 5. He wins. Expy: A blondeKid-anovaand sort of schemer like Zack Morris from the original series. High-School Hustler: Like Zack. It's evenmentionedIn-Universeearly in season 3 by Maria, due to her having been with Ryan longer as fellow classmates and, therefore, more privy to his tendency to scheme for what he wants. That said, most of his schemes end up failing, for one reason or another. Kid-anova: Again, just like Zack. He dated Lindsay (season 3), Rachel (season 4), and Liz (season 5). Put on a Bus: After season 5. Also a mild example ofPut on a Bus to Hell, since in the season 6 premiere his girlfriend Liz is not sad at all about his departure. At some point she pretends to be sad in front of her friends, then she throws away Ryan's picture while happily hanging out with another boy.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Maria Lopez",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "SpicyLatina",
+        "NamedAfterSomebodyFamous",
+        "FoolishSiblingResponsibleSibling",
+        "ItsAllAboutMe",
+        "WellDoneDaughterGirl",
+        "OfficialCouple",
+        "LovableAlphaBitch",
+        "IconicSequelCharacter",
+        "GoGetterGirl"
+      ],
+      "description": "Foolish Sibling, Responsible Sibling: The Responsible to Tino's Foolish. As revealed in \"Her Brother's Keeper\", her brother Tino can't do anything without her help. Go-Getter Girl: Shares this with Katie. Both are ambitious and involved in many school activities. Iconic Sequel Character: Maria is arguably the best knownNew Classstudent and the one appearing in the most episodes (104 out of 143 total) but she didn't appear until the start of Season 3. It's All About Me: She can be very self-absorbed at times. Thankfully she's called out on it. Lovable Alpha Bitch: She's popular, and somewhat snarky and selfish, but still overall a good person.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cornelius \"Eric\" Little",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "LovableJock",
+        "RememberTheNewGuy",
+        "OnlyKnownByTheirNickname",
+        "EmbarrassingFirstName",
+        "AcademicAthlete",
+        "TokenMinority",
+        "TheAce"
+      ],
+      "description": "Academic Athlete: A football player and a good student. Being also a charming musician, he can qualify asThe Ace. Embarrassing First Name: His real name Cornelius. Lovable Jock: A star athlete and very friendly most of the time. Only Known by Their Nickname: It's revealed in \"Guess Who's Running the Max\" that Eric is just a nickname. He has anEmbarrassing First Name(Cornelius) which he would rather keep to himself out of the knowledge of others. Remember the New Guy?: Introduced this way in season 4.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Nicky Farina",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "OfficialCouple",
+        "TheGenericGuy",
+        "BigApplesauce",
+        "SickeninglySweethearts",
+        "LoveInterest",
+        "HollywoodToneDeaf",
+        "SatelliteLoveInterest",
+        "BettyAndVeronica"
+      ],
+      "description": "Betty and Veronica: The Betty to Ryan's Veronica for Liz's Archie in season 5. He loses. Big Applesauce: He comes from New York and after graduation he's planning to go there again to study at the New York University. The Generic Guy: He lasted four seasons buthas no notable characteristics and is only defined by the girl he's dating (or the girl he's interested in) at the moment. Hollywood Tone-Deaf: Shown in the Season 6 episode \"The Young and the Sleepless\". That said, his singing skill is more decent in the Season 4 episode \"Renaissance Faire\". Official Couple: With Katie, his mainLove Interest, though he also dated Maria for a while.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Katie Peterson",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "RememberTheNewGuy",
+        "GoGetterGirl",
+        "AmicableExes",
+        "PassionateSportsGirl",
+        "SickeninglySweethearts",
+        "NiceGirl",
+        "AcademicAthlete",
+        "LoveInterest",
+        "TheAce",
+        "GirlNextDoor",
+        "OfficialCouple",
+        "TheGloriousWarOfSisterlyRivalry"
+      ],
+      "description": "Academic Athlete: She is a swimmer, but also likes poetry and is an editor of the school newspaper. Girl Next Door: While quite popular, she's mostly an ordinary and responsibleNice Girl. Go-Getter Girl: Shares this with Maria. Both are ambitious and involved in many school activities. The Glorious War of Sisterly Rivalry: \"Big Sister Blues\" focuses on her older sister Robin beingThe Aceand Katie's jealousy. Official Couple: With Nicky, her mainLove Interest. They becomeAmicable Exesfor a period but eventually they start dating again.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Liz Miller",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "NaiveNewcomer",
+        "PutOnABus",
+        "PassionateSportsGirl",
+        "DudeMagnet",
+        "AcademicAthlete",
+        "ContrastingReplacementCharacter",
+        "LoveInterest"
+      ],
+      "description": "Academic Athlete: APassionate Sports Girlwho is also quite smart and planning to go to Stanford in the final episode. Contrasting Replacement Character: She replaces Rachel (in the group and as Ryan'sLove Interest) but, as lampshaded in-universe, she's her opposite: Rachel was a popular, confident shopaholic, Liz is insecure and is more interested in sports than fashion. Dude Magnet: Ends up attracting both stepbrothers Ryan and Nicky unwittingly. And after Ryan isPut on a Bus, she immediately finds another boyfriend (who doesn't last long though). Naïve Newcomer: A bit sheltered when she first joins the group in season 5, but eventually gets better. Passionate Sports Girl: A dedicated swimmer.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Tony Dillon",
+      "media_title": "Saved by the Bell",
+      "tropes": [
+        "OfficialCouple",
+        "TroubledButCute",
+        "NewOldFlame"
+      ],
+      "description": "New Old Flame: Introduced in season 6 as a former boyfriend of Maria who ditched her at the prom a few years ago. Official Couple: With Maria, but they break up near the end. Troubled, but Cute: He has issues, at least initially, and is described as \"cute\" in-universe.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 34
+  "character_count": 51
 }

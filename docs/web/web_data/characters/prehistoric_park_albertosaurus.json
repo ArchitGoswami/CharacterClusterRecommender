@@ -1,18 +1,1 @@
-{
-  "name": "Albertosaurus",
-  "show": "Prehistoric Park",
-  "trope_count": 10,
-  "tropes": [
-    "PaletteSwap",
-    "TheWorfEffect",
-    "TheDreaded",
-    "ArtisticLicensePaleontology",
-    "UndergroundMonkey",
-    "TerrifyingTyrannosaur",
-    "ScienceMarchesOn",
-    "InformedAttribute",
-    "AnachronismStew",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Albertosaurus", "show": "Prehistoric Park", "trope_count": 10, "tropes": ["PaletteSwap", "TheWorfEffect", "TheDreaded", "ArtisticLicensePaleontology", "UndergroundMonkey", "TerrifyingTyrannosaur", "ScienceMarchesOn", "InformedAttribute", "AnachronismStew", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Tapejara", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_tapejara", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Quetzalcoatlus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_quetzalcoatlus", "similarity": 0.25, "shared_tropes": 5}, {"name": "Plateosaurus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_plateosaurus", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Anurognathus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_anurognathus", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Polar Allosaur", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_polar_allosaur", "similarity": 0.2, "shared_tropes": 4}, {"name": "Eustreptospondylus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_eustreptospondylus", "similarity": 0.1923, "shared_tropes": 5}, {"name": "Coelophysis", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_coelophysis", "similarity": 0.1515, "shared_tropes": 5}, {"name": "Basilosaurus", "show": "Walking with Beasts", "id": "walking_with_beasts_basilosaurus", "similarity": 0.1026, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Spencer Walsh",
-  "show": "Good Luck Charlie",
-  "trope_count": 9,
-  "tropes": [
-    "OfficialCouple",
-    "MyGreatestFailure",
-    "Jerkass",
-    "MistakenForCheating",
-    "DumbJock",
-    "CharacterDevelopment",
-    "SatelliteLoveInterest",
-    "Subverted",
-    "DidNotGetTheGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Spencer Walsh", "show": "Good Luck Charlie", "trope_count": 9, "tropes": ["OfficialCouple", "MyGreatestFailure", "Jerkass", "MistakenForCheating", "DumbJock", "CharacterDevelopment", "SatelliteLoveInterest", "Subverted", "DidNotGetTheGirl"], "tropes_by_category": {}, "similar": [{"name": "Ryan Newman", "show": "Wilfred", "id": "wilfred_ryan_newman", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Walter O'Brien", "show": "Scorpion", "id": "scorpion_walter_o_brien", "similarity": 0.093, "shared_tropes": 4}, {"name": "Beck Oliver", "show": "Victorious", "id": "victorious_beck_oliver", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Main Cast", "show": "Harper's Island", "id": "harpers_island_main_cast", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Damien", "show": "Total Drama", "id": "total_drama_damien", "similarity": 0.044, "shared_tropes": 4}, {"name": "Hiyori Kashiwazaka / Kuro / Lux", "show": "Sword Art Online", "id": "sword_art_online_hiyori_kashiwazaka_kuro_lux", "similarity": 0.04, "shared_tropes": 4}, {"name": "Craig Tucker", "show": "South Park", "id": "south_park_craig_tucker", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Sai", "show": "Naruto", "id": "naruto_sai", "similarity": 0.0388, "shared_tropes": 4}]}

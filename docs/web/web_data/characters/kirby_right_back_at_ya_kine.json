@@ -1,18 +1,1 @@
-{
-  "name": "Kine",
-  "show": "Kirby: Right Back at Ya!",
-  "trope_count": 10,
-  "tropes": [
-    "AdaptationalWimp",
-    "DoggedNiceGuy",
-    "OxygenatedUnderwaterBubbles",
-    "Pun",
-    "BinomiumRidiculus",
-    "InterspeciesRomance",
-    "DubSpeciesChange",
-    "AdaptationalPersonalityChange",
-    "CivilizedAnimal",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kine", "show": "Kirby: Right Back at Ya!", "trope_count": 19, "tropes": ["DoggedNiceGuy", "PredatorPreyFriendship", "UndyingLoyalty", "AnimalAttractedToHuman", "Determinator", "InterspeciesRomance", "DubSpeciesChange", "OxygenatedUnderwaterBubbles", "AbhorrentAdmirer", "Pun", "PetTheDog", "HopelessSuitor", "ButtMonkey", "CivilizedAnimal", "NiceGuy", "TalkingAnimal", "AdaptationalPersonalityChange", "BinomiumRidiculus", "AdaptationalWimp"], "tropes_by_category": {}, "similar": [{"name": "Arwin Hawkhauser", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_arwin_hawkhauser", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Ceviché", "show": "Chowder", "id": "chowder_cevich", "similarity": 0.1389, "shared_tropes": 5}, {"name": "Ernesto \"Ernie\" Cardenas", "show": "George Lopez", "id": "george_lopez_ernesto_ernie_cardenas", "similarity": 0.1282, "shared_tropes": 5}, {"name": "Herb Pichon / Hervé Pichon", "show": "Code Lyoko", "id": "code_lyoko_herb_pichon_herv_pichon", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Squit", "show": "Animaniacs", "id": "animaniacs_squit", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Bollo", "show": "Mighty Boosh, The", "id": "mighty_boosh_the_bollo", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Sheldon", "show": "My Life as a Teenage Robot", "id": "my_life_as_a_teenage_robot_sheldon", "similarity": 0.0921, "shared_tropes": 7}, {"name": "Much", "show": "Robin Hood", "id": "robin_hood_much", "similarity": 0.0889, "shared_tropes": 4}]}

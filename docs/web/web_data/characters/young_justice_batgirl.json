@@ -1,12 +1,1 @@
-{
-  "name": "Batgirl",
-  "show": "Young Justice",
-  "trope_count": 4,
-  "tropes": [
-    "EscapeArtist",
-    "BetterAsFriends",
-    "HeterosexualLifePartners",
-    "LikeBrotherAndSister"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Batgirl", "show": "Young Justice", "trope_count": 4, "tropes": ["EscapeArtist", "BetterAsFriends", "HeterosexualLifePartners", "LikeBrotherAndSister"], "tropes_by_category": {}, "similar": []}

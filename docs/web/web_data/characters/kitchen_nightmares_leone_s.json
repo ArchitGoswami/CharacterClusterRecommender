@@ -1,17 +1,1 @@
-{
-  "name": "Leone's",
-  "show": "Kitchen Nightmares",
-  "trope_count": 9,
-  "tropes": [
-    "EstablishingCharacterMoment",
-    "HypercompetentSidekick",
-    "BrutalHonesty",
-    "MrFanservice",
-    "TheMillstone",
-    "DownerEnding",
-    "TheWoobie",
-    "DumbassHasAPoint",
-    "CoolOldLady"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Leone's", "show": "Kitchen Nightmares", "trope_count": 9, "tropes": ["EstablishingCharacterMoment", "HypercompetentSidekick", "BrutalHonesty", "MrFanservice", "TheMillstone", "DownerEnding", "TheWoobie", "DumbassHasAPoint", "CoolOldLady"], "tropes_by_category": {}, "similar": [{"name": "Leone's", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_leone_s", "similarity": 1.0, "shared_tropes": 9}]}

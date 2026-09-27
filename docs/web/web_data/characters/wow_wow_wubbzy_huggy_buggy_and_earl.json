@@ -1,16 +1,1 @@
-{
-  "name": "Huggy, Buggy, and Earl",
-  "show": "Wow! Wow! Wubbzy!",
-  "trope_count": 8,
-  "tropes": [
-    "ThoseTwoGuys",
-    "RhymeThemeNaming",
-    "OddNameOut",
-    "SatelliteCharacter",
-    "ColorCodedCharacters",
-    "TwoGuysAndAGirl",
-    "VagueAge",
-    "DubNameChange"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Huggy, Buggy, and Earl", "show": "Wow! Wow! Wubbzy!", "trope_count": 8, "tropes": ["ThoseTwoGuys", "RhymeThemeNaming", "OddNameOut", "SatelliteCharacter", "ColorCodedCharacters", "TwoGuysAndAGirl", "VagueAge", "DubNameChange"], "tropes_by_category": {}, "similar": [{"name": "Rod and Todd Flanders", "show": "Simpsons,The", "id": "simpsonsthe_rod_and_todd_flanders", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Rod and Todd Flanders", "show": "The Simpsons", "id": "the_simpsons_rod_and_todd_flanders", "similarity": 0.0714, "shared_tropes": 4}]}

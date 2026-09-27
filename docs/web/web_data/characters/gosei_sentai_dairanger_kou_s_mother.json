@@ -1,16 +1,1 @@
-{
-  "name": "Kou's mother",
-  "show": "Gosei Sentai Dairanger",
-  "trope_count": 8,
-  "tropes": [
-    "NiceJobBreakingItHero",
-    "SadisticChoice",
-    "HorribleJudgeOfCharacter",
-    "LivingMacGuffin",
-    "DamselInDistress",
-    "NoNameGiven",
-    "LargeHam",
-    "IDidWhatIHadToDo"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kou's mother", "show": "Gosei Sentai Dairanger", "trope_count": 8, "tropes": ["NiceJobBreakingItHero", "SadisticChoice", "HorribleJudgeOfCharacter", "LivingMacGuffin", "DamselInDistress", "NoNameGiven", "LargeHam", "IDidWhatIHadToDo"], "tropes_by_category": {}, "similar": [{"name": "Amy Rose", "show": "Sonic Boom", "id": "sonic_boom_amy_rose", "similarity": 0.0449, "shared_tropes": 4}]}

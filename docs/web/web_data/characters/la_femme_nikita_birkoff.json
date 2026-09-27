@@ -1,17 +1,1 @@
-{
-  "name": "Birkoff",
-  "show": "La Femme Nikita",
-  "trope_count": 9,
-  "tropes": [
-    "MissionControl",
-    "HeroicSacrifice",
-    "UndyingLoyalty",
-    "NonActionGuy",
-    "TechnoWizard",
-    "SeparatedAtBirth",
-    "CommunicationsOfficer",
-    "AscendedExtra",
-    "CannotTalkToWomen"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Birkoff", "show": "La Femme Nikita", "trope_count": 9, "tropes": ["MissionControl", "HeroicSacrifice", "UndyingLoyalty", "NonActionGuy", "TechnoWizard", "SeparatedAtBirth", "CommunicationsOfficer", "AscendedExtra", "CannotTalkToWomen"], "tropes_by_category": {}, "similar": [{"name": "Jason", "show": "La Femme Nikita", "id": "la_femme_nikita_jason", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Birkhoff", "show": "Nikita", "id": "nikita_birkhoff", "similarity": 0.087, "shared_tropes": 4}]}

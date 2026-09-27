@@ -1,15 +1,1 @@
-{
-  "name": "Thaddeus Ross",
-  "show": "Iron Man: Armored Adventures",
-  "trope_count": 7,
-  "tropes": [
-    "DirtyCoward",
-    "Jerkass",
-    "AdaptationalVillainy",
-    "BullyingADragon",
-    "WellIntentionedExtremist",
-    "GeneralRipper",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thaddeus Ross", "show": "Iron Man: Armored Adventures", "trope_count": 7, "tropes": ["DirtyCoward", "Jerkass", "AdaptationalVillainy", "BullyingADragon", "WellIntentionedExtremist", "GeneralRipper", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Gabara", "show": "Godzilla", "id": "godzilla_gabara", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Diesel  10", "show": "Thomas & Friends", "id": "thomas_and_friends_diesel_10", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Arlo", "show": "Justified", "id": "justified_arlo", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Main Characters", "show": "Marvelous Misadventures of Flapjack, The", "id": "marvelous_misadventures_of_flapjack_the_main_characters", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Gaston", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_gaston", "similarity": 0.0404, "shared_tropes": 4}]}

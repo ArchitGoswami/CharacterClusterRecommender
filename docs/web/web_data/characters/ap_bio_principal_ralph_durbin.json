@@ -1,14 +1,1 @@
-{
-  "name": "Principal Ralph Durbin",
-  "show": "AP Bio",
-  "trope_count": 6,
-  "tropes": [
-    "AdultsAreUseless",
-    "LovableCoward",
-    "HenpeckedHusband",
-    "ExtremeDoormat",
-    "FatIdiot",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Principal Ralph Durbin", "show": "AP Bio", "trope_count": 6, "tropes": ["AdultsAreUseless", "LovableCoward", "HenpeckedHusband", "ExtremeDoormat", "FatIdiot", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Earl Snead Sinclair", "show": "Dinosaurs", "id": "dinosaurs_earl_snead_sinclair", "similarity": 0.0976, "shared_tropes": 4}]}

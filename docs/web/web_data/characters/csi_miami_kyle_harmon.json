@@ -1,16 +1,1 @@
-{
-  "name": "Kyle Harmon",
-  "show": "CSI: Miami",
-  "trope_count": 8,
-  "tropes": [
-    "LikeFatherUnlikeSon",
-    "ForcedIntoEvil",
-    "GoodLookingPrivates",
-    "NiceGuy",
-    "HairOfGoldHeartOfGold",
-    "ParentalAbandonment",
-    "TheStoic",
-    "ImportantHaircut"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kyle Harmon", "show": "CSI: Miami", "trope_count": 8, "tropes": ["LikeFatherUnlikeSon", "ForcedIntoEvil", "GoodLookingPrivates", "NiceGuy", "HairOfGoldHeartOfGold", "ParentalAbandonment", "TheStoic", "ImportantHaircut"], "tropes_by_category": {}, "similar": [{"name": "\"Woody\" Boyd", "show": "Cheers", "id": "cheers_woody_boyd", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Ryan Atwood", "show": "O.C., The", "id": "oc_the_ryan_atwood", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Brandon \"Bran\" Stark", "show": "Game of Thrones", "id": "game_of_thrones_brandon_bran_stark", "similarity": 0.037, "shared_tropes": 4}]}

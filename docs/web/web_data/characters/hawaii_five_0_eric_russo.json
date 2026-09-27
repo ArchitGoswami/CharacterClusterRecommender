@@ -1,16 +1,1 @@
-{
-  "name": "Eric Russo",
-  "show": "Hawaii Five-0",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "TookALevelInBadass",
-    "ManChild",
-    "HiddenDepths",
-    "LampshadeHanging",
-    "DumbassHasAPoint",
-    "ButtMonkey",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eric Russo", "show": "Hawaii Five-0", "trope_count": 8, "tropes": ["DeadpanSnarker", "TookALevelInBadass", "ManChild", "HiddenDepths", "LampshadeHanging", "DumbassHasAPoint", "ButtMonkey", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Richard Henry \"Hank\" Yarbo", "show": "Corner Gas", "id": "corner_gas_richard_henry_hank_yarbo", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Jake Morgendorffer", "show": "Daria", "id": "daria_jake_morgendorffer", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Mickey Doyle", "show": "Boardwalk Empire", "id": "boardwalk_empire_mickey_doyle", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Jeff Smith (né Fischer)", "show": "American Dad", "id": "american_dad_jeff_smith_n_fischer", "similarity": 0.0923, "shared_tropes": 6}, {"name": "Eric Matthews", "show": "Boy Meets World", "id": "boy_meets_world_eric_matthews", "similarity": 0.0893, "shared_tropes": 5}, {"name": "Jeremy", "show": "Peep Show", "id": "peep_show_jeremy", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Sizemore", "show": "Westworld", "id": "westworld_sizemore", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Daniel Wormald", "show": "Breaking Bad", "id": "breaking_bad_daniel_wormald", "similarity": 0.0769, "shared_tropes": 5}]}

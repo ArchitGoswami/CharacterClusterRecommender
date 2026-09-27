@@ -1,17 +1,1 @@
-{
-  "name": "Kenzo Harper",
-  "show": "My Family",
-  "trope_count": 9,
-  "tropes": [
-    "StillSucksThumb",
-    "YoureNotMyMother",
-    "SoapOperaRapidAgingSyndrome",
-    "HatesTheirParent",
-    "LittleMissSnarker",
-    "BadassAdorable",
-    "ChildProdigy",
-    "PromotionToOpeningTitles",
-    "SecurityBlanket"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kenzo Harper", "show": "My Family", "trope_count": 9, "tropes": ["StillSucksThumb", "YoureNotMyMother", "SoapOperaRapidAgingSyndrome", "HatesTheirParent", "LittleMissSnarker", "BadassAdorable", "ChildProdigy", "PromotionToOpeningTitles", "SecurityBlanket"], "tropes_by_category": {}, "similar": [{"name": "Michael Harper", "show": "My Family", "id": "my_family_michael_harper", "similarity": 0.2632, "shared_tropes": 5}, {"name": "Joanie Cunningham", "show": "Happy Days", "id": "happy_days_joanie_cunningham", "similarity": 0.0597, "shared_tropes": 4}]}

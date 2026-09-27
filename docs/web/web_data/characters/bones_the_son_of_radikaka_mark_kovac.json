@@ -1,17 +1,1 @@
-{
-  "name": "The Son of Radikaka: Mark Kovac",
-  "show": "Bones",
-  "trope_count": 9,
-  "tropes": [
-    "TooGoodToBeTrue",
-    "BrotherSisterTeam",
-    "VillainHasAPoint",
-    "RevengeByProxy",
-    "WouldHurtAChild",
-    "ArcVillain",
-    "ColdBloodedTorture",
-    "OutOfFocus",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Son of Radikaka: Mark Kovac", "show": "Bones", "trope_count": 9, "tropes": ["TooGoodToBeTrue", "BrotherSisterTeam", "VillainHasAPoint", "RevengeByProxy", "WouldHurtAChild", "ArcVillain", "ColdBloodedTorture", "OutOfFocus", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Shikimi Kamura / Mutasina", "show": "Sword Art Online", "id": "sword_art_online_shikimi_kamura_mutasina", "similarity": 0.1053, "shared_tropes": 4}, {"name": "John Curtis (The Replicator/The BAU Stalker)", "show": "Criminal Minds", "id": "criminal_minds_john_curtis_the_replicator_the_bau_stalker", "similarity": 0.0597, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Mr(s). Kipling",
-  "show": "Jessie",
-  "trope_count": 7,
-  "tropes": [
-    "ReptilesAreAbhorrent",
-    "SamusIsAGirl",
-    "ActionPet",
-    "RunningGag",
-    "YourTomcatIsPregnant",
-    "CrosscastRole",
-    "TeamPet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr(s). Kipling", "show": "Jessie", "trope_count": 7, "tropes": ["ReptilesAreAbhorrent", "SamusIsAGirl", "ActionPet", "RunningGag", "YourTomcatIsPregnant", "CrosscastRole", "TeamPet"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Ayase/Time Blue",
-  "show": "Mirai Sentai Timeranger",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "YourDaysAreNumbered",
-    "TheLancer",
-    "DelicateAndSickly",
-    "TheEeyore",
-    "EarnYourHappyEnding",
-    "VitriolicBestBuds",
-    "TheHero",
-    "DeathSeeker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ayase/Time Blue", "show": "Mirai Sentai Timeranger", "trope_count": 9, "tropes": ["DeadpanSnarker", "YourDaysAreNumbered", "TheLancer", "DelicateAndSickly", "TheEeyore", "EarnYourHappyEnding", "VitriolicBestBuds", "TheHero", "DeathSeeker"], "tropes_by_category": {}, "similar": [{"name": "Dr. Remy \"Thirteen\" Hadley", "show": "House", "id": "house_dr_remy_thirteen_hadley", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Lt. Dan Taylor", "show": "Forrest Gump", "id": "forrest_gump_lt_dan_taylor", "similarity": 0.0926, "shared_tropes": 5}, {"name": "Andy Sipowicz", "show": "NYPD Blue", "id": "nypd_blue_andy_sipowicz", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Holland \"Dutch\" Wagenbach", "show": "Shield,The", "id": "shieldthe_holland_dutch_wagenbach", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Steven Hyde", "show": "That '70s Show", "id": "that_70s_show_steven_hyde", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Jet Black", "show": "Cowboy Bebop", "id": "cowboy_bebop_jet_black", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Jennifer Ann \"Moze\" Mosely", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_jennifer_ann_moze_mosely", "similarity": 0.0426, "shared_tropes": 4}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Nix",
-  "show": "Ozark",
-  "trope_count": 4,
-  "tropes": [
-    "DirtyCop",
-    "AffablyEvil",
-    "NoGoodDeedGoesUnpunished",
-    "ReasonableAuthorityFigure"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nix", "show": "Ozark", "trope_count": 4, "tropes": ["DirtyCop", "AffablyEvil", "NoGoodDeedGoesUnpunished", "ReasonableAuthorityFigure"], "tropes_by_category": {}, "similar": [{"name": "Nix", "show": "Oz", "id": "oz_nix", "similarity": 1.0, "shared_tropes": 4}]}

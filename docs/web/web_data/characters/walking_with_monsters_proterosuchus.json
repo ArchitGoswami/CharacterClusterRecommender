@@ -1,18 +1,1 @@
-{
-  "name": "Proterosuchus",
-  "show": "Walking with Monsters",
-  "trope_count": 10,
-  "tropes": [
-    "FantasticFaunaCounterpart",
-    "BloodIsSquickerInWater",
-    "AllThereInTheManual",
-    "ImagineSpot",
-    "HazardousWater",
-    "ArtisticLicensePaleontology",
-    "AlwaysABiggerFish",
-    "CompositeCharacter",
-    "NeverSmileAtACrocodile",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Proterosuchus", "show": "Walking with Monsters", "trope_count": 10, "tropes": ["FantasticFaunaCounterpart", "BloodIsSquickerInWater", "AllThereInTheManual", "ImagineSpot", "HazardousWater", "ArtisticLicensePaleontology", "AlwaysABiggerFish", "CompositeCharacter", "NeverSmileAtACrocodile", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Euparkeria", "show": "Walking with Monsters", "id": "walking_with_monsters_euparkeria", "similarity": 0.25, "shared_tropes": 4}, {"name": "Hyneria", "show": "Walking with Monsters", "id": "walking_with_monsters_hyneria", "similarity": 0.2105, "shared_tropes": 4}, {"name": "In General", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_in_general", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Liopleurodon", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_liopleurodon", "similarity": 0.1154, "shared_tropes": 6}, {"name": "Basilosaurus", "show": "Walking with Beasts", "id": "walking_with_beasts_basilosaurus", "similarity": 0.1026, "shared_tropes": 4}]}

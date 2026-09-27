@@ -1,18 +1,1 @@
-{
-  "name": "Mrs. Stinson",
-  "show": "Doug",
-  "trope_count": 10,
-  "tropes": [
-    "Expy",
-    "BirdsOfAFeather",
-    "LethalChef",
-    "BabysitterFromHell",
-    "BatmanGambit",
-    "PollyWantsAMicrophone",
-    "IndubitablyUninterestingIndividual",
-    "Hypocrite",
-    "InnocentlyInsensitive",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Stinson", "show": "Doug", "trope_count": 10, "tropes": ["Expy", "BirdsOfAFeather", "LethalChef", "BabysitterFromHell", "BatmanGambit", "PollyWantsAMicrophone", "IndubitablyUninterestingIndividual", "Hypocrite", "InnocentlyInsensitive", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Callie", "show": "The Fosters", "id": "the_fosters_callie", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Eddie Brock", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_eddie_brock", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Gerald Broflovski", "show": "South Park", "id": "south_park_gerald_broflovski", "similarity": 0.0367, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Lucy Carmichael",
-  "show": "Rugrats",
-  "trope_count": 7,
-  "tropes": [
-    "DotingParent",
-    "BrainyBrunette",
-    "SupremeChef",
-    "IvyLeagueForEveryone",
-    "HappilyMarried",
-    "GoodParents",
-    "TheAce"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lucy Carmichael", "show": "Rugrats", "trope_count": 7, "tropes": ["DotingParent", "BrainyBrunette", "SupremeChef", "IvyLeagueForEveryone", "HappilyMarried", "GoodParents", "TheAce"], "tropes_by_category": {}, "similar": [{"name": "James Possible", "show": "Kim Possible", "id": "kim_possible_james_possible", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Garry \"Jerry\" Gergich", "show": "Parks and Recreation", "id": "parks_and_recreation_garry_jerry_gergich", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.0367, "shared_tropes": 4}]}

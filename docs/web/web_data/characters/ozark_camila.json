@@ -1,18 +1,1 @@
-{
-  "name": "Camila",
-  "show": "Ozark",
-  "trope_count": 10,
-  "tropes": [
-    "TheQueenpin",
-    "FinalBoss",
-    "TheDogWasTheMastermind",
-    "TheBadGuyWins",
-    "TheUnfettered",
-    "MamaBear",
-    "HeroKiller",
-    "PsychopathicManchild",
-    "TheStoic",
-    "TheSociopath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Camila", "show": "Ozark", "trope_count": 10, "tropes": ["TheQueenpin", "FinalBoss", "TheDogWasTheMastermind", "TheBadGuyWins", "TheUnfettered", "MamaBear", "HeroKiller", "PsychopathicManchild", "TheStoic", "TheSociopath"], "tropes_by_category": {}, "similar": [{"name": "Camila", "show": "Oz", "id": "oz_camila", "similarity": 1.0, "shared_tropes": 10}, {"name": "Kano", "show": "Texhnolyze", "id": "texhnolyze_kano", "similarity": 0.1071, "shared_tropes": 6}, {"name": "Antonius Kalas", "show": "Highlander: The Series", "id": "highlander_the_series_antonius_kalas", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Hazanko", "show": "Outlaw Star", "id": "outlaw_star_hazanko", "similarity": 0.04, "shared_tropes": 4}]}

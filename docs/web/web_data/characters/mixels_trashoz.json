@@ -1,16 +1,1 @@
-{
-  "name": "Trashoz",
-  "show": "Mixels",
-  "trope_count": 8,
-  "tropes": [
-    "AttentionWhore",
-    "AttentionDeficitOohShiny",
-    "TheQuietOne",
-    "PunnyName",
-    "Cyclops",
-    "ExtremeOmnivore",
-    "ColorCodedForYourConvenience",
-    "StomachOfHolding"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Trashoz", "show": "Mixels", "trope_count": 8, "tropes": ["AttentionWhore", "AttentionDeficitOohShiny", "TheQuietOne", "PunnyName", "Cyclops", "ExtremeOmnivore", "ColorCodedForYourConvenience", "StomachOfHolding"], "tropes_by_category": {}, "similar": [{"name": "Munchos", "show": "Mixels", "id": "mixels_munchos", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Glowkies", "show": "Mixels", "id": "mixels_glowkies", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Fang Gang", "show": "Mixels", "id": "mixels_fang_gang", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Wiztastics", "show": "Mixels", "id": "mixels_wiztastics", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Glorp Corp", "show": "Mixels", "id": "mixels_glorp_corp", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Cragsters", "show": "Mixels", "id": "mixels_cragsters", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Frosticons", "show": "Mixels", "id": "mixels_frosticons", "similarity": 0.08, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Mr. Woodward",
-  "show": "Malcolm in the Middle",
-  "trope_count": 10,
-  "tropes": [
-    "InstantlyProvenWrong",
-    "TragicVillain",
-    "BullyHunter",
-    "BracesOfOrthodonticOverkill",
-    "LaserGuidedKarma",
-    "ThenLetMeBeEvil",
-    "TeachersUnfavoriteStudent",
-    "FreudianExcuseIsNoExcuse",
-    "DarkAndTroubledPast",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Woodward", "show": "Malcolm in the Middle", "trope_count": 10, "tropes": ["InstantlyProvenWrong", "TragicVillain", "BullyHunter", "BracesOfOrthodonticOverkill", "LaserGuidedKarma", "ThenLetMeBeEvil", "TeachersUnfavoriteStudent", "FreudianExcuseIsNoExcuse", "DarkAndTroubledPast", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Diesel", "show": "Thomas & Friends", "id": "thomas_and_friends_diesel", "similarity": 0.0505, "shared_tropes": 5}, {"name": "Eddie Brock", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_eddie_brock", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Arthur Mitchell, (AKA:\"The Trinity Killer\")", "show": "Dexter", "id": "dexter_arthur_mitchell_aka_the_trinity_killer", "similarity": 0.0417, "shared_tropes": 4}]}

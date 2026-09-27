@@ -1,17 +1,1 @@
-{
-  "name": "CalvinMcCullough",
-  "show": "Alias",
-  "trope_count": 9,
-  "tropes": [
-    "DirtyCoward",
-    "Jerkass",
-    "TheDreaded",
-    "SarcasmMode",
-    "TheUnfettered",
-    "ManBehindTheMan",
-    "ActionSurvivor",
-    "TortureTechnician",
-    "MindRape"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "CalvinMcCullough", "show": "Alias", "trope_count": 9, "tropes": ["DirtyCoward", "Jerkass", "TheDreaded", "SarcasmMode", "TheUnfettered", "ManBehindTheMan", "ActionSurvivor", "TortureTechnician", "MindRape"], "tropes_by_category": {}, "similar": [{"name": "The Dominator", "show": "Samurai Jack", "id": "samurai_jack_the_dominator", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Airachnid", "show": "Transformers Prime", "id": "transformers_prime_airachnid", "similarity": 0.0526, "shared_tropes": 6}, {"name": "Shockwave", "show": "Transformers Prime", "id": "transformers_prime_shockwave", "similarity": 0.0367, "shared_tropes": 4}, {"name": "The Team", "show": "Alphas", "id": "alphas_the_team", "similarity": 0.0355, "shared_tropes": 5}, {"name": "Prince John", "show": "Robin Hood", "id": "robin_hood_prince_john", "similarity": 0.0354, "shared_tropes": 4}]}

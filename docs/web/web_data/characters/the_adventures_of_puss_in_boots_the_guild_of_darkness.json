@@ -1,16 +1,1 @@
-{
-  "name": "The Guild of Darkness",
-  "show": "The Adventures of Puss in Boots",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "TheJinx",
-    "Kamehamehadoken",
-    "FloweryElizabethanEnglish",
-    "HonoraryTrueCompanion",
-    "OnlySaneMan",
-    "TheAloner",
-    "CloudCuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Guild of Darkness", "show": "The Adventures of Puss in Boots", "trope_count": 10, "tropes": ["HonoraryTrueCompanion", "CloudCuckoolander", "TheAloner", "TheJinx", "OnlySaneMan", "AllGaysLoveTheater", "DeadpanSnarker", "FloweryElizabethanEnglish", "Kamehamehadoken", "AmbiguouslyBi"], "tropes_by_category": {}, "similar": [{"name": "Mark", "show": "Peep Show", "id": "peep_show_mark", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Waylon Smithers, Jr.", "show": "Simpsons,The", "id": "simpsonsthe_waylon_smithers_jr", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Waylon Smithers, Jr.", "show": "The Simpsons", "id": "the_simpsons_waylon_smithers_jr", "similarity": 0.0426, "shared_tropes": 4}]}

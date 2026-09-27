@@ -1,16 +1,1 @@
-{
-  "name": "Dr. Roxanne Turner",
-  "show": "St. Elsewhere",
-  "trope_count": 8,
-  "tropes": [
-    "TheBusCameBack",
-    "ButNowIMustGo",
-    "WhatTheHellHero",
-    "TranquilFury",
-    "DeepSouth",
-    "TookALevelInJerkass",
-    "PutOnABus",
-    "ItsPersonal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Roxanne Turner", "show": "St. Elsewhere", "trope_count": 8, "tropes": ["TheBusCameBack", "ButNowIMustGo", "WhatTheHellHero", "TranquilFury", "DeepSouth", "TookALevelInJerkass", "PutOnABus", "ItsPersonal"], "tropes_by_category": {}, "similar": [{"name": "Emily Prentiss", "show": "Criminal Minds", "id": "criminal_minds_emily_prentiss", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Kim Burgess", "show": "Chicago PD", "id": "chicago_pd_kim_burgess", "similarity": 0.0526, "shared_tropes": 4}, {"name": "A.D.A Rafael Barba", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_a_d_a_rafael_barba", "similarity": 0.051, "shared_tropes": 5}, {"name": "Wheeljack", "show": "Transformers Prime", "id": "transformers_prime_wheeljack", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Epsilon", "show": "Red vs Blue", "id": "red_vs_blue_epsilon", "similarity": 0.0481, "shared_tropes": 5}, {"name": "Det. Nick Amaro", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_det_nick_amaro", "similarity": 0.043, "shared_tropes": 4}, {"name": "Garmadon", "show": "Ninjago", "id": "ninjago_garmadon", "similarity": 0.0407, "shared_tropes": 5}]}

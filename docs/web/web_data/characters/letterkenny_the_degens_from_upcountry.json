@@ -1,18 +1,1 @@
-{
-  "name": "The Degens From Upcountry",
-  "show": "Letterkenny",
-  "trope_count": 10,
-  "tropes": [
-    "NeverMyFault",
-    "TheCorrupter",
-    "ConflictKiller",
-    "Foil",
-    "TheFarmerAndTheViper",
-    "KickTheDog",
-    "AlwaysChaoticEvil",
-    "EvenEvilHasStandards",
-    "EvilCounterpart",
-    "PoliticallyIncorrectVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Degens From Upcountry", "show": "Letterkenny", "trope_count": 10, "tropes": ["NeverMyFault", "TheCorrupter", "ConflictKiller", "Foil", "TheFarmerAndTheViper", "KickTheDog", "AlwaysChaoticEvil", "EvenEvilHasStandards", "EvilCounterpart", "PoliticallyIncorrectVillain"], "tropes_by_category": {}, "similar": [{"name": "Daryl", "show": "Justified", "id": "justified_daryl", "similarity": 0.0735, "shared_tropes": 5}, {"name": "Johnny Boy Soprano", "show": "Sopranos,The", "id": "sopranosthe_johnny_boy_soprano", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Johnny Boy Soprano", "show": "The Sopranos", "id": "the_sopranos_johnny_boy_soprano", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Rand Ridley", "show": "Inside Job", "id": "inside_job_rand_ridley", "similarity": 0.0504, "shared_tropes": 6}, {"name": "Bo", "show": "Justified", "id": "justified_bo", "similarity": 0.0492, "shared_tropes": 6}, {"name": "Jackie Aprile Jr.", "show": "Sopranos,The", "id": "sopranosthe_jackie_aprile_jr", "similarity": 0.0467, "shared_tropes": 5}, {"name": "Jackie Aprile Jr.", "show": "The Sopranos", "id": "the_sopranos_jackie_aprile_jr", "similarity": 0.0467, "shared_tropes": 5}, {"name": "Valerie Gray", "show": "Danny Phantom", "id": "danny_phantom_valerie_gray", "similarity": 0.046, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Rubella",
-  "show": "Making Fiends",
-  "trope_count": 10,
-  "tropes": [
-    "DumbMuscle",
-    "HulkSpeak",
-    "ArtificialHuman",
-    "WhatHappenedToTheMouse",
-    "GirlishPigtails",
-    "AdaptedOut",
-    "TheBrute",
-    "BigOlUnibrow",
-    "ExtremeOmnivore",
-    "DiseasedName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rubella", "show": "Making Fiends", "trope_count": 10, "tropes": ["DumbMuscle", "HulkSpeak", "ArtificialHuman", "WhatHappenedToTheMouse", "GirlishPigtails", "AdaptedOut", "TheBrute", "BigOlUnibrow", "ExtremeOmnivore", "DiseasedName"], "tropes_by_category": {}, "similar": [{"name": "Red", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_red", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Bill's Henchmaniacs", "show": "Gravity Falls", "id": "gravity_falls_bill_s_henchmaniacs", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Gluttony", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_gluttony", "similarity": 0.043, "shared_tropes": 4}]}

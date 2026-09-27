@@ -1,15 +1,1 @@
-{
-  "name": "O’Shon",
-  "show": "Abbott Elementary",
-  "trope_count": 7,
-  "tropes": [
-    "ScrewTheRulesImDoingWhatsRight",
-    "IncrediblyLameFun",
-    "NiceGuy",
-    "SavvyGuyEnergeticGirl",
-    "ShipTease",
-    "TechnoWizard",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "O’Shon", "show": "Abbott Elementary", "trope_count": 9, "tropes": ["ChickMagnet", "IncrediblyLameFun", "ShipTease", "SecretKeeper", "EvenTheGuysWantHim", "NiceGuy", "ScrewTheRulesImDoingWhatsRight", "SavvyGuyEnergeticGirl", "TechnoWizard"], "tropes_by_category": {}, "similar": [{"name": "Francis \"KG\" Leibowitz-Jenkins", "show": "Proud Family, The", "id": "proud_family_the_francis_kg_leibowitz_jenkins", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Will Halstead", "show": "Chicago Med", "id": "chicago_med_will_halstead", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Arnold Perlstein", "show": "Magic School Bus, The", "id": "magic_school_bus_the_arnold_perlstein", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Arnold Perlstein", "show": "The Magic School Bus Rides Again", "id": "the_magic_school_bus_rides_again_arnold_perlstein", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Arthur P. \"Spud\" Spudinski", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_arthur_p_spud_spudinski", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Ryan Atwood", "show": "O.C., The", "id": "oc_the_ryan_atwood", "similarity": 0.0541, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "King of Diamonds",
-  "show": "Alice In Borderland",
-  "trope_count": 6,
-  "tropes": [
-    "HeroicSuicide",
-    "WorthyOpponent",
-    "TheMole",
-    "FingerTenting",
-    "CommonalityConnection",
-    "FaceDeathWithDignity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "King of Diamonds", "show": "Alice In Borderland", "trope_count": 6, "tropes": ["HeroicSuicide", "WorthyOpponent", "TheMole", "FingerTenting", "CommonalityConnection", "FaceDeathWithDignity"], "tropes_by_category": {}, "similar": []}

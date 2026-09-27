@@ -1,14 +1,1 @@
-{
-  "name": "Mr. Rabbit",
-  "show": "Elinor Wonders Why",
-  "trope_count": 6,
-  "tropes": [
-    "UnnamedParent",
-    "GoodParents",
-    "ObliquelyObfuscatedOccupation",
-    "ExhaustedEyeBags",
-    "TalkingInYourSleep",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Rabbit", "show": "Elinor Wonders Why", "trope_count": 6, "tropes": ["UnnamedParent", "GoodParents", "ObliquelyObfuscatedOccupation", "ExhaustedEyeBags", "TalkingInYourSleep", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": []}

@@ -1,16 +1,1 @@
-{
-  "name": "Dr. Jeremy Franklin",
-  "show": "Stargate Universe",
-  "trope_count": 8,
-  "tropes": [
-    "SpiritAdvisor",
-    "HeroicSacrifice",
-    "WhatTheHellHero",
-    "BrainUploading",
-    "AscendedToAHigherPlaneOfExistence",
-    "IdiotBall",
-    "TheWoobie",
-    "DeathSeeker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Jeremy Franklin", "show": "Stargate Universe", "trope_count": 8, "tropes": ["SpiritAdvisor", "HeroicSacrifice", "WhatTheHellHero", "BrainUploading", "AscendedToAHigherPlaneOfExistence", "IdiotBall", "TheWoobie", "DeathSeeker"], "tropes_by_category": {}, "similar": [{"name": "Jughead Jones", "show": "Riverdale", "id": "riverdale_jughead_jones", "similarity": 0.0426, "shared_tropes": 4}]}

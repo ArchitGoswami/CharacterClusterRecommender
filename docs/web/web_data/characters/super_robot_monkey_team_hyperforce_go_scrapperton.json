@@ -1,17 +1,1 @@
-{
-  "name": "Scrapperton",
-  "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 9,
-  "tropes": [
-    "WasOnceAMan",
-    "Catchphrase",
-    "FullConversionCyborg",
-    "VerbalTic",
-    "SerialProstheses",
-    "CardCarryingVillain",
-    "CyberneticsEatYourSoul",
-    "EvenEvilHasStandards",
-    "CompanionCube"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Scrapperton", "show": "Super Robot Monkey Team Hyperforce Go!", "trope_count": 9, "tropes": ["WasOnceAMan", "Catchphrase", "FullConversionCyborg", "VerbalTic", "SerialProstheses", "CardCarryingVillain", "CyberneticsEatYourSoul", "EvenEvilHasStandards", "CompanionCube"], "tropes_by_category": {}, "similar": [{"name": "Freaky Fred", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_freaky_fred", "similarity": 0.0851, "shared_tropes": 4}]}

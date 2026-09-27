@@ -1,9 +1,1 @@
-{
-  "name": "Curtis",
-  "show": "Bob the Builder",
-  "trope_count": 1,
-  "tropes": [
-    "BirthdayEpisode"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Curtis", "show": "Bob the Builder", "trope_count": 1, "tropes": ["BirthdayEpisode"], "tropes_by_category": {}, "similar": []}

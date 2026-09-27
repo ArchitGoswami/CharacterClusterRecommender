@@ -94,7 +94,7 @@ function setupEventListeners() {
             hideSuggestions();
             
             // Load and display the character
-            await searchCharacter(randomChar.name);
+            await searchCharacterById(randomChar.id);
         });
     }
 
@@ -133,57 +133,53 @@ function showSuggestions(e) {
     displaySuggestions(suggestions);
 }
 
+function characterList() {
+    if (!indexData || !indexData.characters) return [];
+    if (Array.isArray(indexData.characters)) return indexData.characters;
+    return Object.entries(indexData.characters).map(([name, info]) => ({
+        name,
+        show: info.show,
+        trope_count: info.trope_count,
+        id: info.id
+    }));
+}
+
+function matchScore(query, name) {
+    const q = query.toLowerCase().trim();
+    const n = (name || '').toLowerCase();
+    if (!q || !n) return 0;
+    if (n === q) return 1000;
+    if (n.startsWith(q)) return 800;
+    if (n.includes(q)) return 600;
+    const words = q.split(/\s+/).filter(Boolean);
+    const hits = words.filter(word => n.includes(word)).length;
+    if (!hits) return 0;
+    return Math.round((hits / words.length) * 400);
+}
+
 // Get unified suggestions (both characters and shows)
 function getUnifiedSuggestions(query) {
-    const suggestions = [];
-    const maxResults = 10;
+    const characters = characterList()
+        .map(char => ({
+            type: 'character',
+            name: char.name,
+            show: char.show,
+            tropeCount: char.trope_count,
+            id: char.id,
+            score: matchScore(query, char.name)
+        }))
+        .filter(item => item.score > 0);
 
-    // Search characters
-    Object.keys(indexData.characters).forEach(charName => {
-        if (suggestions.length >= maxResults) return;
-        
-        if (charName.toLowerCase().includes(query)) {
-            const charInfo = indexData.characters[charName];
-            suggestions.push({
-                type: 'character',
-                name: charName,
-                show: charInfo.show,
-                tropeCount: charInfo.trope_count,
-                id: charInfo.id
-            });
-        }
-    });
+    const shows = Object.keys(indexData.shows || {}).map(showName => ({
+        type: 'show',
+        name: showName,
+        charCount: indexData.shows[showName].length,
+        score: matchScore(query, showName)
+    })).filter(item => item.score > 0);
 
-    // Search shows
-    Object.keys(indexData.shows).forEach(showName => {
-        if (suggestions.length >= maxResults) return;
-        
-        if (showName.toLowerCase().includes(query)) {
-            const charCount = indexData.shows[showName].length;
-            suggestions.push({
-                type: 'show',
-                name: showName,
-                charCount: charCount
-            });
-        }
-    });
-
-    // Sort: exact matches first, then by relevance
-    suggestions.sort((a, b) => {
-        const aExact = a.name.toLowerCase() === query;
-        const bExact = b.name.toLowerCase() === query;
-        if (aExact && !bExact) return -1;
-        if (!aExact && bExact) return 1;
-        
-        const aStarts = a.name.toLowerCase().startsWith(query);
-        const bStarts = b.name.toLowerCase().startsWith(query);
-        if (aStarts && !bStarts) return -1;
-        if (!aStarts && bStarts) return 1;
-        
-        return a.name.localeCompare(b.name);
-    });
-
-    return suggestions.slice(0, maxResults);
+    return [...characters, ...shows]
+        .sort((a, b) => b.score - a.score || a.name.localeCompare(b.name))
+        .slice(0, 8);
 }
 
 // Display suggestions dropdown
@@ -205,7 +201,7 @@ function displaySuggestions(suggestions) {
     dropdown.innerHTML = suggestions.map(item => {
         if (item.type === 'character') {
             return `
-                <div class="suggestion-item" data-type="character" data-name="${escapeAttr(item.name)}">
+                <div class="suggestion-item" data-type="character" data-id="${escapeAttr(item.id)}" data-name="${escapeAttr(item.name)}">
                     <div class="suggestion-icon">👤</div>
                     <div class="suggestion-content">
                         <div class="suggestion-name">${escapeHtml(item.name)}</div>
@@ -238,7 +234,7 @@ function displaySuggestions(suggestions) {
             hideSuggestions();
             
             if (type === 'character') {
-                await searchCharacter(name);
+                await searchCharacterById(item.dataset.id);
             } else {
                 await searchShow(name);
             }
@@ -252,16 +248,9 @@ function getRandomCharacter() {
         return null;
     }
     
-    const characterNames = Object.keys(indexData.characters);
-    const randomIndex = Math.floor(Math.random() * characterNames.length);
-    const randomName = characterNames[randomIndex];
-    const characterData = indexData.characters[randomName];
-    
-    return {
-        name: randomName,
-        show: characterData.show,
-        id: characterData.id
-    };
+    const characters = characterList();
+    if (!characters.length) return null;
+    return characters[Math.floor(Math.random() * characters.length)];
 }
 
 // Hide suggestions
@@ -283,36 +272,79 @@ async function performSearch() {
     hideSuggestions();
     showLoading();
 
-    // Try to find as character first
-    const characterName = findBestMatch(query, Object.keys(indexData.characters));
-    if (characterName) {
-        await searchCharacter(characterName);
+    const exactCharacters = characterList().filter(char => char.name.toLowerCase() === query.toLowerCase());
+    if (exactCharacters.length > 1) {
+        displayCharacterChoices(exactCharacters);
         return;
     }
 
-    // If not found, try as show
-    const showName = findBestMatch(query, Object.keys(indexData.shows));
-    if (showName) {
-        await searchShow(showName);
+    const matches = getUnifiedSuggestions(query);
+    if (!matches.length) {
+        showError(`"${query}" not found. Try searching for a different character or show.`);
         return;
     }
 
-    showError(`"${query}" not found. Try searching for a different character or show.`);
+    const best = matches[0];
+    if (best.type === 'character') {
+        await searchCharacterById(best.id);
+        return;
+    }
+    await searchShow(best.name);
+}
+
+function displayCharacterChoices(characters) {
+    const resultsDiv = document.getElementById('results');
+    let html = `
+        <div class="show-header">
+            <h2>${escapeHtml(characters[0].name)}</h2>
+            <p>${characters.length} matching characters</p>
+        </div>
+        <div class="show-characters-grid">
+    `;
+    characters.forEach(char => {
+        html += `
+            <div class="character-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
+                <h4>${escapeHtml(char.name)}</h4>
+                <p class="show-name">${escapeHtml(char.show)}</p>
+                <p class="trope-count">${char.trope_count} tropes</p>
+            </div>
+        `;
+    });
+    html += '</div>';
+    resultsDiv.innerHTML = html;
+    resultsDiv.style.display = 'block';
+}
+
+async function searchCharacterById(id) {
+    const char = characterList().find(item => item.id === id);
+    if (!char) {
+        showError('Character not found. Try searching for a different character.');
+        return;
+    }
+    await loadCharacterDetails(char.name, char.id);
 }
 
 // Search for a character
 async function searchCharacter(query) {
-    const characterName = typeof query === 'string' ? 
-        findBestMatch(query, Object.keys(indexData.characters)) : query;
-    
-    if (!characterName) {
+    const matches = characterList()
+        .map(char => ({ char, score: matchScore(query, char.name) }))
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score || b.char.trope_count - a.char.trope_count);
+
+    if (!matches.length) {
         showError(`Character "${query}" not found. Try searching for a different character.`);
         return;
     }
 
-    console.log('Found character:', characterName);
-    const charInfo = indexData.characters[characterName];
-    await loadCharacterDetails(characterName, charInfo.id);
+    const exact = matches.filter(item => item.score === 1000);
+    if (exact.length > 1) {
+        displayCharacterChoices(exact.map(item => item.char));
+        return;
+    }
+
+    const chosen = matches[0].char;
+    console.log('Found character:', chosen.name, chosen.show);
+    await loadCharacterDetails(chosen.name, chosen.id);
 }
 
 // Search for a show
@@ -434,6 +466,18 @@ function createTropeLink(trope) {
 
 // Find similar characters using Jaccard similarity
 async function findSimilarCharacters(targetCharacter) {
+    if (targetCharacter.similar && targetCharacter.similar.length) {
+        displaySimilarCharacters(targetCharacter.similar.map(item => ({
+            name: item.name,
+            show: item.show,
+            id: item.id,
+            similarity: item.similarity,
+            sharedTropes: item.shared_tropes,
+            tropeCount: item.trope_count
+        })));
+        return;
+    }
+
     const targetTropes = new Set(targetCharacter.tropes);
     const similarities = [];
 
@@ -443,8 +487,9 @@ async function findSimilarCharacters(targetCharacter) {
     const maxSuccessful = 100; // But only process 100 successfully
 
     // Calculate similarity with other characters
-    for (const [charName, charInfo] of Object.entries(indexData.characters)) {
-        if (charName === targetCharacter.name) continue;
+    for (const charInfo of characterList()) {
+        const charName = charInfo.name;
+        if (charInfo.id === targetCharacter.id || charName === targetCharacter.name) continue;
         if (processed++ >= maxToProcess) break;
         if (successful >= maxSuccessful) break;
 
@@ -467,6 +512,7 @@ async function findSimilarCharacters(targetCharacter) {
                 similarities.push({
                     name: charName,
                     show: charInfo.show,
+                    id: charInfo.id,
                     similarity: similarity,
                     sharedTropes: intersection(targetTropes, otherTropes).size,
                     tropeCount: charInfo.trope_count
@@ -523,7 +569,7 @@ function displaySimilarCharacters(similarChars) {
         const percentage = (char.similarity * 100).toFixed(1);
         const safeName = escapeAttr(char.name);
         html += `
-            <div class="character-card similar-card" onclick="searchCharacterByName('${safeName}')">
+            <div class="character-card similar-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
                 <h4>${escapeHtml(char.name)}</h4>
                 <p class="show-name">${escapeHtml(char.show)}</p>
                 <div class="similarity-bar">
@@ -567,7 +613,7 @@ function displayShowCharacters(showName, characters) {
     characters.forEach(char => {
         const safeName = escapeAttr(char.name);
         html += `
-            <div class="character-card" onclick="searchCharacterByName('${safeName}')">
+            <div class="character-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
                 <h4>${escapeHtml(char.name)}</h4>
                 <p class="trope-count">${char.trope_count} tropes</p>
             </div>

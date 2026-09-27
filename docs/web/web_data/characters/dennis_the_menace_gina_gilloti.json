@@ -1,16 +1,1 @@
-{
-  "name": "Gina Gilloti",
-  "show": "Dennis the Menace",
-  "trope_count": 8,
-  "tropes": [
-    "ShoutOut",
-    "TwoGirlsToATeam",
-    "OneHeadTaller",
-    "BerserkButton",
-    "TenderTomboyishnessFoulFemininity",
-    "IResembleThatRemark",
-    "AlliterativeName",
-    "TomboyAndGirlyGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gina Gilloti", "show": "Dennis the Menace", "trope_count": 8, "tropes": ["ShoutOut", "TwoGirlsToATeam", "OneHeadTaller", "BerserkButton", "TenderTomboyishnessFoulFemininity", "IResembleThatRemark", "AlliterativeName", "TomboyAndGirlyGirl"], "tropes_by_category": {}, "similar": [{"name": "Margaret Wade", "show": "Dennis the Menace", "id": "dennis_the_menace_margaret_wade", "similarity": 0.2, "shared_tropes": 4}]}

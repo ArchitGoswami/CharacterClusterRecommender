@@ -1,15 +1,1 @@
-{
-  "name": "Eleanor Waldorf",
-  "show": "Gossip Girl",
-  "trope_count": 7,
-  "tropes": [
-    "EstablishingCharacterMoment",
-    "ActorSwap",
-    "HandsOffParenting",
-    "HappilyMarried",
-    "TookALevelInKindness",
-    "TheFashionista",
-    "ManipulativeBitch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eleanor Waldorf", "show": "Gossip Girl", "trope_count": 7, "tropes": ["EstablishingCharacterMoment", "ActorSwap", "HandsOffParenting", "HappilyMarried", "TookALevelInKindness", "TheFashionista", "ManipulativeBitch"], "tropes_by_category": {}, "similar": [{"name": "Brooke Penelope Davis", "show": "One Tree Hill", "id": "one_tree_hill_brooke_penelope_davis", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Lady Mary Talbot", "show": "Downton Abbey", "id": "downton_abbey_lady_mary_talbot", "similarity": 0.0354, "shared_tropes": 4}]}

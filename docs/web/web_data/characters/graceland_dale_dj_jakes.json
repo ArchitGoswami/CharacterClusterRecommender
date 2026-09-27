@@ -1,16 +1,1 @@
-{
-  "name": "Dale \"DJ\" Jakes",
-  "show": "Graceland",
-  "trope_count": 8,
-  "tropes": [
-    "DefrostingIceKing",
-    "BrutalHonesty",
-    "SourSupporter",
-    "TheAlcoholic",
-    "HiddenDepths",
-    "TellMeAboutMyFather",
-    "TheStoic",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dale \"DJ\" Jakes", "show": "Graceland", "trope_count": 8, "tropes": ["DefrostingIceKing", "BrutalHonesty", "SourSupporter", "TheAlcoholic", "HiddenDepths", "TellMeAboutMyFather", "TheStoic", "SecretKeeper"], "tropes_by_category": {}, "similar": [{"name": "Kimball Cho", "show": "Mentalist, The", "id": "mentalist_the_kimball_cho", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Sai", "show": "Naruto", "id": "naruto_sai", "similarity": 0.0392, "shared_tropes": 4}]}

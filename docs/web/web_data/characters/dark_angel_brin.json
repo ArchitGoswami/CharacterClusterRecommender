@@ -1,17 +1,1 @@
-{
-  "name": "Brin",
-  "show": "Dark Angel",
-  "trope_count": 9,
-  "tropes": [
-    "UnwittingPawn",
-    "LockedInAFreezer",
-    "IDontWantToDie",
-    "WhatHappenedToTheMouse",
-    "WeakWilled",
-    "ConsummateProfessional",
-    "RapidAging",
-    "FaceHeelTurn",
-    "TheDragon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Brin", "show": "Dark Angel", "trope_count": 9, "tropes": ["UnwittingPawn", "LockedInAFreezer", "IDontWantToDie", "WhatHappenedToTheMouse", "WeakWilled", "ConsummateProfessional", "RapidAging", "FaceHeelTurn", "TheDragon"], "tropes_by_category": {}, "similar": []}

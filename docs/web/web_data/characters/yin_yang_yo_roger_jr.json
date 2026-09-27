@@ -1,15 +1,1 @@
-{
-  "name": "Roger Jr.",
-  "show": "Yin Yang Yo!",
-  "trope_count": 7,
-  "tropes": [
-    "BreathWeapon",
-    "SensitiveGuyAndManlyMan",
-    "SuperStrength",
-    "FriendlyEnemy",
-    "AmbiguouslyGay",
-    "VitriolicBestBuds",
-    "HiddenHeartOfGold"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Roger Jr.", "show": "Yin Yang Yo!", "trope_count": 7, "tropes": ["BreathWeapon", "SensitiveGuyAndManlyMan", "SuperStrength", "FriendlyEnemy", "AmbiguouslyGay", "VitriolicBestBuds", "HiddenHeartOfGold"], "tropes_by_category": {}, "similar": [{"name": "Baljeet Tjinder", "show": "Phineas and Ferb", "id": "phineas_and_ferb_baljeet_tjinder", "similarity": 0.0548, "shared_tropes": 4}]}

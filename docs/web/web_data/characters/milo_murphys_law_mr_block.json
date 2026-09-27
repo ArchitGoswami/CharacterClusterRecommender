@@ -1,15 +1,1 @@
-{
-  "name": "Mr. Block",
-  "show": "Milo Murphy's Law",
-  "trope_count": 7,
-  "tropes": [
-    "DaChief",
-    "PetTheDog",
-    "TrademarkFavoriteFood",
-    "InspectorJavert",
-    "MeanBoss",
-    "TimePolice",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Block", "show": "Milo Murphy's Law", "trope_count": 7, "tropes": ["DaChief", "PetTheDog", "TrademarkFavoriteFood", "InspectorJavert", "MeanBoss", "TimePolice", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Ervin H. Burrell", "show": "The Wire", "id": "the_wire_ervin_h_burrell", "similarity": 0.1, "shared_tropes": 4}, {"name": "Ervin H. Burrell", "show": "Wire, The", "id": "wire_the_ervin_h_burrell", "similarity": 0.1, "shared_tropes": 4}, {"name": "William \"Bill\" Rawls", "show": "The Wire", "id": "the_wire_william_bill_rawls", "similarity": 0.0784, "shared_tropes": 4}, {"name": "William \"Bill\" Rawls", "show": "Wire, The", "id": "wire_the_william_bill_rawls", "similarity": 0.0784, "shared_tropes": 4}, {"name": "J. Jonah Jameson", "show": "Spider-Man", "id": "spider_man_j_jonah_jameson", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0381, "shared_tropes": 4}]}

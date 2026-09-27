@@ -1,15 +1,1 @@
-{
-  "name": "The Power",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 7,
-  "tropes": [
-    "PintSizedPowerhouse",
-    "BreakTheHaughty",
-    "LittleMissBadass",
-    "CuteBruiser",
-    "BadassAdorable",
-    "SuperStrength",
-    "TutuFancy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Power", "show": "Cardcaptor Sakura", "trope_count": 7, "tropes": ["PintSizedPowerhouse", "BreakTheHaughty", "LittleMissBadass", "CuteBruiser", "BadassAdorable", "SuperStrength", "TutuFancy"], "tropes_by_category": {}, "similar": [{"name": "Principality of Sealand — Peter Kirkland", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_principality_of_sealand_peter_kirkland", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Spinelli", "show": "Recess", "id": "recess_spinelli", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Cameron", "show": "Terminator: The Sarah Connor Chronicles", "id": "terminator_the_sarah_connor_chronicles_cameron", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Omi", "show": "Xiaolin Showdown", "id": "xiaolin_showdown_omi", "similarity": 0.0417, "shared_tropes": 4}, {"name": "In General", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_in_general", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Kanade Tachibana / Angel", "show": "Angel Beats!", "id": "angel_beats_kanade_tachibana_angel", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Anais Errrrrr Watterson", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_anais_errrrrr_watterson", "similarity": 0.0354, "shared_tropes": 4}]}

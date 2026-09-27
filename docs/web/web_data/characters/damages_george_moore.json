@@ -1,15 +1,1 @@
-{
-  "name": "George Moore",
-  "show": "Damages",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "OnlySaneByComparison",
-    "BadBoss",
-    "SincerityMode",
-    "CorruptCorporateExecutive",
-    "FauxAffablyEvil",
-    "LaughablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "George Moore", "show": "Damages", "trope_count": 7, "tropes": ["DeadpanSnarker", "OnlySaneByComparison", "BadBoss", "SincerityMode", "CorruptCorporateExecutive", "FauxAffablyEvil", "LaughablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Milton Midas", "show": "Raccoons, The", "id": "raccoons_the_milton_midas", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Russ Cargill", "show": "Simpsons,The", "id": "simpsonsthe_russ_cargill", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Russ Cargill", "show": "The Simpsons", "id": "the_simpsons_russ_cargill", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Mickey Mouse", "show": "South Park", "id": "south_park_mickey_mouse", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Mom", "show": "Futurama", "id": "futurama_mom", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Calvin Fischoeder", "show": "Bob's Burgers", "id": "bobs_burgers_calvin_fischoeder", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Bradley P. \"B.P.\" Richfield", "show": "Dinosaurs", "id": "dinosaurs_bradley_p_b_p_richfield", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Cyril Sneer", "show": "Raccoons, The", "id": "raccoons_the_cyril_sneer", "similarity": 0.0444, "shared_tropes": 4}]}

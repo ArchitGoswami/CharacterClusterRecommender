@@ -1,17 +1,1 @@
-{
-  "name": "Dan Jenkins",
-  "show": "Yellowstone",
-  "trope_count": 9,
-  "tropes": [
-    "LastStand",
-    "TheFixer",
-    "VillainDecay",
-    "ArchEnemy",
-    "SoreLoser",
-    "EmasculatedCuckold",
-    "EnemyMine",
-    "EvenEvilHasStandards",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dan Jenkins", "show": "Yellowstone", "trope_count": 9, "tropes": ["LastStand", "TheFixer", "VillainDecay", "ArchEnemy", "SoreLoser", "EmasculatedCuckold", "EnemyMine", "EvenEvilHasStandards", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Zs'Skayr", "show": "Ben 10", "id": "ben_10_zs_skayr", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Dr. Ivo \"Eggman\" Robotnik", "show": "Sonic X", "id": "sonic_x_dr_ivo_eggman_robotnik", "similarity": 0.046, "shared_tropes": 4}, {"name": "Jimmy Pesto Sr.", "show": "Bob's Burgers", "id": "bobs_burgers_jimmy_pesto_sr", "similarity": 0.0435, "shared_tropes": 4}, {"name": "King Dedede", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_king_dedede", "similarity": 0.0352, "shared_tropes": 5}]}

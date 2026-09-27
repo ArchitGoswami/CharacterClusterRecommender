@@ -1,15 +1,1 @@
-{
-  "name": "Inferno",
-  "show": "G.I. Joe Extreme",
-  "trope_count": 7,
-  "tropes": [
-    "EvilHasABadSenseOfHumor",
-    "ChuckCunninghamSyndrome",
-    "MadBomber",
-    "AcePilot",
-    "PsychopathicManchild",
-    "MeaningfulName",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Inferno", "show": "G.I. Joe Extreme", "trope_count": 7, "tropes": ["EvilHasABadSenseOfHumor", "ChuckCunninghamSyndrome", "MadBomber", "AcePilot", "PsychopathicManchild", "MeaningfulName", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Inferno", "show": "G.I. Joe", "id": "gi_joe_inferno", "similarity": 1.0, "shared_tropes": 7}]}

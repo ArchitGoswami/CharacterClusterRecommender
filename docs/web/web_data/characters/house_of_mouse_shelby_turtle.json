@@ -1,16 +1,1 @@
-{
-  "name": "Shelby Turtle",
-  "show": "House of Mouse",
-  "trope_count": 8,
-  "tropes": [
-    "BadlyBatteredBabysitter",
-    "PerformanceAnxiety",
-    "SignatureLaugh",
-    "RemovableShell",
-    "SuspiciouslySimilarSubstitute",
-    "BiggerOnTheInside",
-    "MassiveNumberedSiblings",
-    "BrattyHalfPint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Shelby Turtle", "show": "House of Mouse", "trope_count": 8, "tropes": ["BadlyBatteredBabysitter", "PerformanceAnxiety", "SignatureLaugh", "RemovableShell", "SuspiciouslySimilarSubstitute", "BiggerOnTheInside", "MassiveNumberedSiblings", "BrattyHalfPint"], "tropes_by_category": {}, "similar": [{"name": "Mrs. Turtle", "show": "House of Mouse", "id": "house_of_mouse_mrs_turtle", "similarity": 0.3333, "shared_tropes": 4}]}

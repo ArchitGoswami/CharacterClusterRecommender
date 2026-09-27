@@ -1,16 +1,1 @@
-{
-  "name": "Ally, Geoffrey, and Michael Barone",
-  "show": "Everybody Loves Raymond",
-  "trope_count": 8,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "MortonsFork",
-    "SatelliteCharacter",
-    "DeconstructedTrope",
-    "CoolBigSis",
-    "AlwaysIdenticalTwins",
-    "MoralityPet",
-    "CharacterizationMarchesOn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ally, Geoffrey, and Michael Barone", "show": "Everybody Loves Raymond", "trope_count": 8, "tropes": ["SmallRoleBigImpact", "MortonsFork", "SatelliteCharacter", "DeconstructedTrope", "CoolBigSis", "AlwaysIdenticalTwins", "MoralityPet", "CharacterizationMarchesOn"], "tropes_by_category": {}, "similar": [{"name": "Nazz", "show": "Ed, Edd n Eddy", "id": "ed_edd_n_eddy_nazz", "similarity": 0.0354, "shared_tropes": 4}]}

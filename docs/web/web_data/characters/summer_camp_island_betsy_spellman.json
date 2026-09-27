@@ -1,16 +1,1 @@
-{
-  "name": "Betsy Spellman",
-  "show": "Summer Camp Island",
-  "trope_count": 8,
-  "tropes": [
-    "NotSoAboveItAll",
-    "DownplayedTrope",
-    "TokenGoodTeammate",
-    "CoolBigSis",
-    "TheFriendNobodyLikes",
-    "NiceGal",
-    "OurWerewolvesAreDifferent",
-    "Bookworm"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Betsy Spellman", "show": "Summer Camp Island", "trope_count": 8, "tropes": ["NotSoAboveItAll", "DownplayedTrope", "TokenGoodTeammate", "CoolBigSis", "TheFriendNobodyLikes", "NiceGal", "OurWerewolvesAreDifferent", "Bookworm"], "tropes_by_category": {}, "similar": [{"name": "Jazz Fenton", "show": "Danny Phantom", "id": "danny_phantom_jazz_fenton", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Blossom", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_blossom", "similarity": 0.0412, "shared_tropes": 4}]}

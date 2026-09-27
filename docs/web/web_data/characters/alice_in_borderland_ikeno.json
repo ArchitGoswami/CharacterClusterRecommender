@@ -1,18 +1,1 @@
-{
-  "name": "Ikeno",
-  "show": "Alice In Borderland",
-  "trope_count": 10,
-  "tropes": [
-    "DiesWideOpen",
-    "Jerkass",
-    "CanonForeigner",
-    "NotSoStoic",
-    "AssholeVictim",
-    "NotAfraidToDie",
-    "HeroKiller",
-    "KarmicDeath",
-    "YouHaveGotToBeKiddingMe",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ikeno", "show": "Alice In Borderland", "trope_count": 10, "tropes": ["DiesWideOpen", "Jerkass", "CanonForeigner", "NotSoStoic", "AssholeVictim", "NotAfraidToDie", "HeroKiller", "KarmicDeath", "YouHaveGotToBeKiddingMe", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Tullius", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_tullius", "similarity": 0.1724, "shared_tropes": 5}, {"name": "Y 462", "show": "Death Note", "id": "death_note_y_462", "similarity": 0.1515, "shared_tropes": 5}, {"name": "Kenny", "show": "Breaking Bad", "id": "breaking_bad_kenny", "similarity": 0.1282, "shared_tropes": 5}, {"name": "Minor Antagonists", "show": "Big O", "id": "big_o_minor_antagonists", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Whiterose", "show": "Mr. Robot", "id": "mr_robot_whiterose", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Locke", "show": "Game of Thrones", "id": "game_of_thrones_locke", "similarity": 0.0806, "shared_tropes": 5}, {"name": "Diethard Ried", "show": "Code Geass", "id": "code_geass_diethard_ried", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Tiberius Licinius Crassus", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_tiberius_licinius_crassus", "similarity": 0.0741, "shared_tropes": 4}]}

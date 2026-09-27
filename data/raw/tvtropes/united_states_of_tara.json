@@ -103,7 +103,21 @@
       ],
       "description": "First Girl Wins:Gender-Inverted Tropein his relationship with Charmaine.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Charmaine",
+      "media_title": "United States of Tara",
+      "tropes": [
+        "TheUnfavourite",
+        "CharacterDevelopment",
+        "ItsAllAboutMe",
+        "DeadpanSnarker",
+        "JerkWithAHeartOfGold",
+        "JerkAss"
+      ],
+      "description": "Character Development Deadpan Snarker: One of the biggest of the series. It's All About Me: Especially in Season 1, she gets better. JerkassJerk with a Heart of Gold Jerk with a Heart of Gold",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 7
+  "character_count": 8
 }

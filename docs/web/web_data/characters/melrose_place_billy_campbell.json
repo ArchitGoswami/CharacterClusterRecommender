@@ -1,16 +1,1 @@
-{
-  "name": "Billy Campbell",
-  "show": "Melrose Place",
-  "trope_count": 8,
-  "tropes": [
-    "GrewASpine",
-    "PutOnABus",
-    "EarnYourHappyEnding",
-    "LivingEmotionalCrutch",
-    "StarCrossedLovers",
-    "BrokenAce",
-    "OnlyKnownByTheirNickname",
-    "TallDarkAndHandsome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Billy Campbell", "show": "Melrose Place", "trope_count": 8, "tropes": ["GrewASpine", "PutOnABus", "EarnYourHappyEnding", "LivingEmotionalCrutch", "StarCrossedLovers", "BrokenAce", "OnlyKnownByTheirNickname", "TallDarkAndHandsome"], "tropes_by_category": {}, "similar": [{"name": "Anew Returner", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_anew_returner", "similarity": 0.0645, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Panellists first appearing in series C",
-  "show": "QI",
-  "trope_count": 7,
-  "tropes": [
-    "SitcomArchNemesis",
-    "TheBusCameBack",
-    "DeadpanSnarker",
-    "PutOnABus",
-    "Troll",
-    "RantComedy",
-    "TheSmartGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Panellists first appearing in series C", "show": "QI", "trope_count": 7, "tropes": ["SitcomArchNemesis", "TheBusCameBack", "DeadpanSnarker", "PutOnABus", "Troll", "RantComedy", "TheSmartGuy"], "tropes_by_category": {}, "similar": [{"name": "UK Side", "show": "Whose Line Is It Anyway?", "id": "whose_line_is_it_anyway_uk_side", "similarity": 0.0455, "shared_tropes": 5}, {"name": "Martian Manhunter", "show": "Justice League", "id": "justice_league_martian_manhunter", "similarity": 0.0407, "shared_tropes": 5}, {"name": "Martian Manhunter", "show": "Justice League Unlimited", "id": "justice_league_unlimited_martian_manhunter", "similarity": 0.0407, "shared_tropes": 5}, {"name": "Brandon \"Bran\" Stark", "show": "Game of Thrones", "id": "game_of_thrones_brandon_bran_stark", "similarity": 0.0374, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "The Gruesome Twosome (Drivers of the Creepy Coupe)",
-  "show": "Wacky Races",
-  "trope_count": 10,
-  "tropes": [
-    "BigGuyLittleGuy",
-    "DarkIsNotEvil",
-    "LorreLookalike",
-    "WickedWitch",
-    "EyesOutOfSight",
-    "BiggerOnTheInside",
-    "KarloffKopy",
-    "FrankensteinsMonster",
-    "CaptainErsatz",
-    "MonsterMash"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Gruesome Twosome (Drivers of the Creepy Coupe)", "show": "Wacky Races", "trope_count": 11, "tropes": ["CaptainErsatz", "BigGuyLittleGuy", "LorreLookalike", "FrankensteinsMonster", "KarloffKopy", "EyesOutOfSight", "MonsterMash", "WickedWitch", "DaywalkingVampire", "DarkIsNotEvil", "BiggerOnTheInside"], "tropes_by_category": {}, "similar": [{"name": "The Gruesome Twosome", "show": "Wacky Races", "id": "wacky_races_the_gruesome_twosome", "similarity": 0.2632, "shared_tropes": 5}]}

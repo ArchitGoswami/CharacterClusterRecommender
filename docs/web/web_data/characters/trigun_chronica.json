@@ -1,14 +1,1 @@
-{
-  "name": "Chronica",
-  "show": "Trigun",
-  "trope_count": 6,
-  "tropes": [
-    "NotSoStoic",
-    "FlashStep",
-    "RestrainingBolt",
-    "BigDamnHeroes",
-    "SuperweaponSurprise",
-    "TheStoic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chronica", "show": "Trigun", "trope_count": 6, "tropes": ["NotSoStoic", "FlashStep", "RestrainingBolt", "BigDamnHeroes", "SuperweaponSurprise", "TheStoic"], "tropes_by_category": {}, "similar": [{"name": "Adrian Fahrenheit Tepes (Alucard)", "show": "Castlevania", "id": "castlevania_adrian_fahrenheit_tepes_alucard", "similarity": 0.0354, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Tony Ciccolini",
-  "show": "Jessie",
-  "trope_count": 8,
-  "tropes": [
-    "OfficialCouple",
-    "TheReliableOne",
-    "DoggedNiceGuy",
-    "LoveInterest",
-    "TheDitz",
-    "CrazyJealousGuy",
-    "SatelliteLoveInterest",
-    "KnowsAGuyWhoKnowsAGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tony Ciccolini", "show": "Jessie", "trope_count": 8, "tropes": ["OfficialCouple", "TheReliableOne", "DoggedNiceGuy", "LoveInterest", "TheDitz", "CrazyJealousGuy", "SatelliteLoveInterest", "KnowsAGuyWhoKnowsAGuy"], "tropes_by_category": {}, "similar": [{"name": "Maxwell Smart/Agent  86", "show": "Get Smart", "id": "get_smart_maxwell_smart_agent_86", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Roberto \"Bobby\" Alejandro Martínez-Millán Luis Santiago, Jr.", "show": "Casagrandes, The", "id": "casagrandes_the_roberto_bobby_alejandro_mart_nez_mill_n_luis_santi", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Roberto \"Bobby\" Alejandro Martínez-Millán Luis Santiago, Jr.", "show": "Loud House, The", "id": "loud_house_the_roberto_bobby_alejandro_mart_nez_mill_n_luis_santi", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Elfo", "show": "Disenchantment", "id": "disenchantment_elfo", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Dr. Leonard Hofstadter", "show": "The Big Bang Theory", "id": "the_big_bang_theory_dr_leonard_hofstadter", "similarity": 0.0351, "shared_tropes": 4}]}

@@ -1,11 +1,1 @@
-{
-  "name": "Bald Pickpocket",
-  "show": "Hill Street Blues",
-  "trope_count": 3,
-  "tropes": [
-    "IHaveManyNames",
-    "EvenBadMenLoveTheirMamas",
-    "KilledOffForReal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bald Pickpocket", "show": "Hill Street Blues", "trope_count": 3, "tropes": ["IHaveManyNames", "EvenBadMenLoveTheirMamas", "KilledOffForReal"], "tropes_by_category": {}, "similar": []}

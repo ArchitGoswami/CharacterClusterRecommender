@@ -1,17 +1,1 @@
-{
-  "name": "Exile",
-  "show": "Road Rovers",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "Catchphrase",
-    "EyeBeams",
-    "AnIcePerson",
-    "MotherRussiaMakesYouStrong",
-    "HuskyRusskie",
-    "BoisterousBruiser",
-    "AmbiguouslyGay",
-    "GeniusBruiser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Exile", "show": "Road Rovers", "trope_count": 9, "tropes": ["DeadpanSnarker", "Catchphrase", "EyeBeams", "AnIcePerson", "MotherRussiaMakesYouStrong", "HuskyRusskie", "BoisterousBruiser", "AmbiguouslyGay", "GeniusBruiser"], "tropes_by_category": {}, "similar": [{"name": "Mr. Marion Moseby", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_mr_marion_moseby", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Sylvia", "show": "Wander Over Yonder", "id": "wander_over_yonder_sylvia", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Human Characters", "show": "Pee-wee's Playhouse", "id": "pee_wees_playhouse_human_characters", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Etta Candy", "show": "Wonder Woman", "id": "wonder_woman_etta_candy", "similarity": 0.04, "shared_tropes": 4}]}

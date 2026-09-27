@@ -1,16 +1,1 @@
-{
-  "name": "Jonathan Cole",
-  "show": "NCIS",
-  "trope_count": 8,
-  "tropes": [
-    "ThrillSeeker",
-    "NobleDemon",
-    "Touche",
-    "YourPrincessIsInAnotherCastle",
-    "GracefulLoser",
-    "TheBadGuyWins",
-    "VillainRespect",
-    "RedemptionEqualsDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jonathan Cole", "show": "NCIS", "trope_count": 8, "tropes": ["ThrillSeeker", "NobleDemon", "Touche", "YourPrincessIsInAnotherCastle", "GracefulLoser", "TheBadGuyWins", "VillainRespect", "RedemptionEqualsDeath"], "tropes_by_category": {}, "similar": []}

@@ -1,16 +1,1 @@
-{
-  "name": "Sebastian",
-  "show": "Josie and the Pussycats",
-  "trope_count": 8,
-  "tropes": [
-    "AdaptationalWimp",
-    "JerkWithAHeartOfGold",
-    "Expy",
-    "Reincarnation",
-    "CatsAreMean",
-    "AdaptedOut",
-    "UncattyResemblance",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sebastian", "show": "Josie and the Pussycats", "trope_count": 8, "tropes": ["AdaptationalWimp", "JerkWithAHeartOfGold", "Expy", "Reincarnation", "CatsAreMean", "AdaptedOut", "UncattyResemblance", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Rei's Grandfather", "show": "Sailor Moon", "id": "sailor_moon_rei_s_grandfather", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Salem Saberhagen", "show": "Sabrina, the Teenage Witch", "id": "sabrina_the_teenage_witch_salem_saberhagen", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Kaito Tenjou (Kite Tenjo)", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_kaito_tenjou_kite_tenjo", "similarity": 0.0506, "shared_tropes": 4}]}

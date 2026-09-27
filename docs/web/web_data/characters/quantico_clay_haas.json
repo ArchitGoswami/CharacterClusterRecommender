@@ -1,17 +1,1 @@
-{
-  "name": "Clay Haas",
-  "show": "Quantico",
-  "trope_count": 9,
-  "tropes": [
-    "SiblingYinYang",
-    "BigBrotherInstinct",
-    "TheLeader",
-    "FoolishSiblingResponsibleSibling",
-    "AnnoyingYoungerSibling",
-    "AloofOlderBrother",
-    "Nepotism",
-    "UnresolvedSexualTension",
-    "SiblingTriangle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Clay Haas", "show": "Quantico", "trope_count": 9, "tropes": ["SiblingYinYang", "BigBrotherInstinct", "TheLeader", "FoolishSiblingResponsibleSibling", "AnnoyingYoungerSibling", "AloofOlderBrother", "Nepotism", "UnresolvedSexualTension", "SiblingTriangle"], "tropes_by_category": {}, "similar": [{"name": "Richie Cunningham", "show": "Happy Days", "id": "happy_days_richie_cunningham", "similarity": 0.0769, "shared_tropes": 4}, {"name": "In General", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_in_general", "similarity": 0.0357, "shared_tropes": 4}]}

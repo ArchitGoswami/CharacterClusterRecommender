@@ -1,17 +1,1 @@
-{
-  "name": "Tamao Kikunoi",
-  "show": "The Wallflower",
-  "trope_count": 9,
-  "tropes": [
-    "LoveAtFirstSight",
-    "PerfectlyArrangedMarriage",
-    "FormalCharactersUseKeigo",
-    "HairOfGoldHeartOfGold",
-    "Ojou",
-    "LadykillerInLove",
-    "YamatoNadeshiko",
-    "NiceGirl",
-    "LoveHurts"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tamao Kikunoi", "show": "The Wallflower", "trope_count": 9, "tropes": ["LoveAtFirstSight", "PerfectlyArrangedMarriage", "FormalCharactersUseKeigo", "HairOfGoldHeartOfGold", "Ojou", "LadykillerInLove", "YamatoNadeshiko", "NiceGirl", "LoveHurts"], "tropes_by_category": {}, "similar": [{"name": "Elizabeth \"Lizzy\" Midford", "show": "Black Butler", "id": "black_butler_elizabeth_lizzy_midford", "similarity": 0.0597, "shared_tropes": 4}]}

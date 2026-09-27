@@ -1,14 +1,1 @@
-{
-  "name": "Nerds",
-  "show": "Frisky Dingo",
-  "trope_count": 6,
-  "tropes": [
-    "CharacterDeath",
-    "MacGuffin",
-    "DoNotCallMePaul",
-    "PunnyName",
-    "IJustShotMarvinInTheFace",
-    "MacGuffinGuardian"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nerds", "show": "Frisky Dingo", "trope_count": 6, "tropes": ["CharacterDeath", "MacGuffin", "DoNotCallMePaul", "PunnyName", "IJustShotMarvinInTheFace", "MacGuffinGuardian"], "tropes_by_category": {}, "similar": []}

@@ -1,13 +1,1 @@
-{
-  "name": "Commander Rene",
-  "show": "Miami Vice",
-  "trope_count": 5,
-  "tropes": [
-    "Jerkass",
-    "WhatTheHellHero",
-    "IdiotBall",
-    "ObstructiveBureaucrat",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Commander Rene", "show": "Miami Vice", "trope_count": 5, "tropes": ["Jerkass", "WhatTheHellHero", "IdiotBall", "ObstructiveBureaucrat", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Dustin Henderson", "show": "Stranger Things", "id": "stranger_things_dustin_henderson", "similarity": 0.0354, "shared_tropes": 4}]}

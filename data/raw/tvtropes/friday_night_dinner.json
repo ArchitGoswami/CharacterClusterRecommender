@@ -79,28 +79,30 @@
       "name": "Jonny \"Pissface\" Goodman",
       "media_title": "Friday Night Dinner",
       "tropes": [
-        "DeadpanSnarker",
-        "Catchphrase",
         "SitcomCharacterArchetypes",
         "TheUnfavourite",
+        "OnceAnEpisode",
+        "OnlyKnownByTheirNickname",
+        "DeadpanSnarker",
         "SiblingRivalry",
-        "OnceAnEpisode"
+        "Catchphrase"
       ],
-      "description": "Catchphrase: \"Alright Pusface!\" toward Adam. Deadpan Snarker: Frequently trades blows with Adam in this regard, though in Jonny's case, it's most used when frustrated at someone's antics. Once an Episode: Jonny frequently takes some squirty cream out of the cupboard to put in his mouth (see above), and Jackie almost always tells him off for it. Sibling Rivalry: With Adam, and frequently tries to pull pranks on him, like putting salt in his water or giving him spaghetti as a christmas present. Sitcom Character Archetypes: Since he's a bit more brash than his older brother, he's The Bully.",
+      "description": "Catchphrase: \"Alright Pusface!\" toward Adam. Deadpan Snarker: Frequently trades blows with Adam in this regard, though in Jonny's case, it's most used when frustrated at someone's antics. Once an Episode: Jonny frequently takes some squirty cream out of the cupboard to put in his mouth (see above), and Jackie almost always tells him off for it. Only Known by Their Nickname: He's sometimes referred to by his real name, 'Jonathon', but is often called 'Jonny'. Sibling Rivalry: With Adam, and frequently tries to pull pranks on him, like putting salt in his water or giving him spaghetti as a Christmas present.",
       "source": "tvtropes"
     },
     {
       "name": "Cynthia \"Horrible Grandma\" Goodman",
       "media_title": "Friday Night Dinner",
       "tropes": [
-        "LaserGuidedKarma",
-        "KarmaHoudini",
-        "HateSink",
         "EmbarrassingNickname",
+        "KarmaHoudini",
         "ScrewPolitenessImASenior",
-        "AbusiveParents"
+        "TookALevelInJerkass",
+        "AbusiveParents",
+        "LaserGuidedKarma",
+        "HateSink"
       ],
-      "description": "Abusive Parents: Anytime Cynthia is on-screen, she can’t go a single appearance without mistreating her son Martin, even admitting to have found him \"bearable\" before he met Jackie. Embarrassing Nickname: Cynthia is known as \"Horrible Grandma\" because she's...well.. horrible to everyone, often picking apart everything she see's for no reason other than because she can. Even her own son, Martin, isn't good enough for her.In \"Dad's Birthday\", she mentions that she is quite aware of this nickname, though as they all point out, her behaviour is the reason why, and she's never tried to change it.. Hate Sink: Cynthia is called \"Horrible Grandma\", and is loathed by everyone. She insults their looks, deliberately damages their things, and keeps pointing out flaws that either don't exist, or are exaggerated, such as Jackie making tea \"badly\" because it was too hot. Even as early as Series 2's \"Christmas\", the rest of the Goodman family say they're waiting for her death.They don't seem hugely bothered when it actually happens, as Martin's tears of sorrow very quickly turn into tears of joy. Karma Houdini: She manages to get out of trouble with the police after deliberately smashing a cabinet in a hairdresser's, and then forces Martin to pay the damages. Although perhaps it'sLaser-Guided Karmawhen shefinally dies of a sudden heart attack in series 6. Screw Politeness, I'm a Senior!: She's an old woman and is horrible to everyone she meets.",
+      "description": "Abusive Parents: Anytime Cynthia is on-screen, she can’t go a single appearance without mistreating her son Martin, even admitting to have found him \"bearable\" before he met Jackie. Embarrassing Nickname: Cynthia is known as \"Horrible Grandma\" because she's...well… horrible to everyone, often picking apart everything she see's for no reason other than because she can. Even her own son, Martin, isn't good enough for her.In \"Dad's Birthday\", she mentions that she is quite aware of this nickname, though as they all point out, her behaviour is the reason why, and she's never tried to change it.. Hate Sink: Cynthia is called \"Horrible Grandma\", and is loathed by everyone. She insults their looks, deliberately damages their things, and keeps pointing out flaws that either don't exist, or are exaggerated, such as Jackie making tea \"badly\" because it was too hot. Even as early as Series 2's \"Christmas\", the rest of the Goodman family say they're waiting for her death.They don't seem hugely bothered when it actually happens, as Martin's tears of sorrow very quickly turn into tears of joy. Karma Houdini: She manages to get out of trouble with the police after deliberately smashing a cabinet in a hairdresser's, and then forces Martin to pay the damages. Although perhaps it'sLaser-Guided Karmawhen shefinally dies of a sudden heart attack in series 6. Screw Politeness, I'm a Senior!: She's an old woman and is horrible to everyone she meets.",
       "source": "tvtropes"
     },
     {
@@ -207,10 +209,12 @@
       "name": "Sheila \"Bitchface\" Bloom",
       "media_title": "Friday Night Dinner",
       "tropes": [
+        "InSeriesNickname",
         "OneShotCharacter",
+        "ItsAllAboutMe",
         "RunningGag"
       ],
-      "description": "One-Shot Character: Only appears in \"The Mercedes\". Running Gag: She won’t stop going on about her Mercedes.",
+      "description": "In-Series Nickname: Her name is 'Sheila Bloom', though the Goodman family refer to her as 'Bitchface'. It's All About Me: When it comes to her Mercedes, Sheila is shown to often prioritise it over anyone else. She tells Adam after almost running him over that her car would cost considerably more to fix than his possible injury, Jackie is annoyed that she kept going on about her \"stupid Mercedes\" than the fact she's crippled, and when recalling a story of when her own mother died, she kept going on about how the Mercedes is a \"very fast car\" and that she died in it. One-Shot Character: Only appears in \"The Mercedes\". Running Gag: She won’t stop going on about her Mercedes.",
       "source": "tvtropes"
     },
     {
@@ -223,7 +227,18 @@
       ],
       "description": "Bitch in Sheep's Clothing:Despite his awful jokes and irritating blinking, he comes across as a caring and helpful bloke when he believes Martin’s lie about Jackie’s mother dying. Then after Tony left, the family discover some things missing from the house and Martin suddenly remembers that Tony was a thief that stole from everyone. One-Shot Character: Only appears in \"The Two Tonys\". One-Steve Limit: He is one of two Tonys that Martin knew back in University. To Martin’s dismay, he ends up inviting the Tony that he hates.",
       "source": "tvtropes"
+    },
+    {
+      "name": "The Wrong Tony",
+      "media_title": "Friday Night Dinner",
+      "tropes": [
+        "OneShotCharacter",
+        "OneSteveLimit",
+        "BitchInSheepsClothing"
+      ],
+      "description": "Bitch in Sheep's Clothing:Despite his awful jokes and irritating blinking, he comes across as a caring and helpful bloke when he believes Martin’s lie about Jackie’s mother dying. Then after Tony left, the family discover some things missing from the house and Martin suddenly remembers that Tony was a thief that stole from everyone. One-Shot Character: Only appears in \"The Two Tonys\". One-Steve Limit: He is one of two Tonys that Martin knew back in University. To Martin’s dismay, he ends up inviting the Tony that he hates.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 16
+  "character_count": 17
 }

@@ -1,17 +1,1 @@
-{
-  "name": "Alan Eppes",
-  "show": "Numb3rs",
-  "trope_count": 9,
-  "tropes": [
-    "IWantGrandkids",
-    "AmazinglyEmbarrassingParents",
-    "QuittingToBecomeACaregiver",
-    "FormerTeenRebel",
-    "ThisLooksLikeAJobForAquaman",
-    "GoodParents",
-    "TheEveryman",
-    "TeamDad",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alan Eppes", "show": "Numb3rs", "trope_count": 9, "tropes": ["IWantGrandkids", "AmazinglyEmbarrassingParents", "QuittingToBecomeACaregiver", "FormerTeenRebel", "ThisLooksLikeAJobForAquaman", "GoodParents", "TheEveryman", "TeamDad", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Sheriff Noah Stilinski", "show": "Teen Wolf", "id": "teen_wolf_sheriff_noah_stilinski", "similarity": 0.125, "shared_tropes": 4}, {"name": "Kurenai Yuhi", "show": "Naruto", "id": "naruto_kurenai_yuhi", "similarity": 0.122, "shared_tropes": 5}, {"name": "Fred Andrews", "show": "Riverdale", "id": "riverdale_fred_andrews", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Mary Cooper", "show": "The Big Bang Theory", "id": "the_big_bang_theory_mary_cooper", "similarity": 0.069, "shared_tropes": 4}, {"name": "Joyce Byers", "show": "Stranger Things", "id": "stranger_things_joyce_byers", "similarity": 0.05, "shared_tropes": 4}, {"name": "Professor Utonium", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_professor_utonium", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Goofy Goof", "show": "Goof Troop", "id": "goof_troop_goofy_goof", "similarity": 0.0354, "shared_tropes": 4}]}

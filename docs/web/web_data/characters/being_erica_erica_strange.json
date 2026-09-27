@@ -1,16 +1,1 @@
-{
-  "name": "Erica Strange",
-  "show": "Being Erica",
-  "trope_count": 8,
-  "tropes": [
-    "WatchingTroyBurn",
-    "BrainyBrunette",
-    "GenkiGirl",
-    "TheAce",
-    "AmbiguouslyJewish",
-    "PlotAllergy",
-    "TraumaCongaLine",
-    "BrokenAce"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Erica Strange", "show": "Being Erica", "trope_count": 8, "tropes": ["WatchingTroyBurn", "BrainyBrunette", "GenkiGirl", "TheAce", "AmbiguouslyJewish", "PlotAllergy", "TraumaCongaLine", "BrokenAce"], "tropes_by_category": {}, "similar": [{"name": "Lorelai Leigh \"Rory\" Gilmore", "show": "Gilmore Girls", "id": "gilmore_girls_lorelai_leigh_rory_gilmore", "similarity": 0.0412, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Bruno",
-  "show": "Misfits",
-  "trope_count": 7,
-  "tropes": [
-    "ShoutOut",
-    "HumanityEnsues",
-    "NiceGuy",
-    "DeathlyUnmasking",
-    "TheMindIsAPlaythingOfTheBody",
-    "DoesNotKnowHisOwnStrength",
-    "ThisWasHisTrueForm"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bruno", "show": "Misfits", "trope_count": 7, "tropes": ["ShoutOut", "HumanityEnsues", "NiceGuy", "DeathlyUnmasking", "TheMindIsAPlaythingOfTheBody", "DoesNotKnowHisOwnStrength", "ThisWasHisTrueForm"], "tropes_by_category": {}, "similar": []}

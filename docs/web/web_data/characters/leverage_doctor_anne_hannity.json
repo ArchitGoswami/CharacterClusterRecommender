@@ -1,16 +1,1 @@
-{
-  "name": "Doctor Anne Hannity",
-  "show": "Leverage",
-  "trope_count": 8,
-  "tropes": [
-    "EvilPlan",
-    "AxeCrazy",
-    "BigBad",
-    "MadScientist",
-    "OnlyInItForTheMoney",
-    "LackOfEmpathy",
-    "TheSociopath",
-    "SmugSnake"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doctor Anne Hannity", "show": "Leverage", "trope_count": 8, "tropes": ["EvilPlan", "AxeCrazy", "BigBad", "MadScientist", "OnlyInItForTheMoney", "LackOfEmpathy", "TheSociopath", "SmugSnake"], "tropes_by_category": {}, "similar": [{"name": "Dr. Anne Hannity", "show": "Leverage", "id": "leverage_dr_anne_hannity", "similarity": 1.0, "shared_tropes": 8}, {"name": "Larry Bitterman", "show": "American Horror Stories", "id": "american_horror_stories_larry_bitterman", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Michael Ridley", "show": "Mentalist, The", "id": "mentalist_the_michael_ridley", "similarity": 0.16, "shared_tropes": 4}, {"name": "The Van", "show": "Cowboy Bebop", "id": "cowboy_bebop_the_van", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Haruna Niekawa", "show": "Durarara!!", "id": "durarara_haruna_niekawa", "similarity": 0.1, "shared_tropes": 4}, {"name": "Lloyd Asplund", "show": "Code Geass", "id": "code_geass_lloyd_asplund", "similarity": 0.1, "shared_tropes": 4}, {"name": "Maurice Levy", "show": "The Wire", "id": "the_wire_maurice_levy", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Maurice Levy", "show": "Wire, The", "id": "wire_the_maurice_levy", "similarity": 0.0976, "shared_tropes": 4}]}

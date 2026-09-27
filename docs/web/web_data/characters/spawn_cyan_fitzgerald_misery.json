@@ -1,17 +1,1 @@
-{
-  "name": "Cyan Fitzgerald/Misery",
-  "show": "Spawn",
-  "trope_count": 9,
-  "tropes": [
-    "TroubledChild",
-    "ActionGirl",
-    "SuperEmpowering",
-    "SuperpoweredAlterEgo",
-    "ChildrenAreInnocent",
-    "FutureBadass",
-    "DemonicPossession",
-    "MoralityPet",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cyan Fitzgerald/Misery", "show": "Spawn", "trope_count": 9, "tropes": ["TroubledChild", "ActionGirl", "SuperEmpowering", "SuperpoweredAlterEgo", "ChildrenAreInnocent", "FutureBadass", "DemonicPossession", "MoralityPet", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "James Lucas \"Jamie\" Scott", "show": "One Tree Hill", "id": "one_tree_hill_james_lucas_jamie_scott", "similarity": 0.1143, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Percival \"Percy\" Rooney III",
-  "show": "VR Troopers",
-  "trope_count": 6,
-  "tropes": [
-    "Expy",
-    "SmallNameBigEgo",
-    "TheRival",
-    "TheAce",
-    "Nepotism",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Percival \"Percy\" Rooney III", "show": "VR Troopers", "trope_count": 6, "tropes": ["Expy", "SmallNameBigEgo", "TheRival", "TheAce", "Nepotism", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Elliot Decker", "show": "Milo Murphy's Law", "id": "milo_murphys_law_elliot_decker", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Season  19", "show": "Simpsons,The", "id": "simpsonsthe_season_19", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Season  19", "show": "The Simpsons", "id": "the_simpsons_season_19", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Father Ted", "show": "Father Ted", "id": "father_ted_father_ted", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Carlton Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_carlton_banks", "similarity": 0.0543, "shared_tropes": 5}, {"name": "Season  15", "show": "Hell's Kitchen", "id": "hells_kitchen_season_15", "similarity": 0.0413, "shared_tropes": 5}, {"name": "Shingo Sawatari (Sylvio Sawatari)", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_shingo_sawatari_sylvio_sawatari", "similarity": 0.0376, "shared_tropes": 5}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Trina",
-  "show": "ChalkZone",
-  "trope_count": 5,
-  "tropes": [
-    "ArtsyBeret",
-    "TwoferTokenMinority",
-    "BewareTheNiceOnes",
-    "NiceGirl",
-    "SatelliteLoveInterest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Trina", "show": "ChalkZone", "trope_count": 5, "tropes": ["ArtsyBeret", "TwoferTokenMinority", "BewareTheNiceOnes", "NiceGirl", "SatelliteLoveInterest"], "tropes_by_category": {}, "similar": [{"name": "Isabella Garcia-Shapiro", "show": "Phineas and Ferb", "id": "phineas_and_ferb_isabella_garcia_shapiro", "similarity": 0.0392, "shared_tropes": 4}]}

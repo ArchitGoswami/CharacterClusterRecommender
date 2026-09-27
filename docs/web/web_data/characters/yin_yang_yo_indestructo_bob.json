@@ -1,14 +1,1 @@
-{
-  "name": "Indestructo-Bob",
-  "show": "Yin Yang Yo!",
-  "trope_count": 6,
-  "tropes": [
-    "AffablyEvil",
-    "DumbMuscle",
-    "PunnyName",
-    "NighInvulnerability",
-    "TheBrute",
-    "ThirdPersonPerson"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Indestructo-Bob", "show": "Yin Yang Yo!", "trope_count": 6, "tropes": ["AffablyEvil", "DumbMuscle", "PunnyName", "NighInvulnerability", "TheBrute", "ThirdPersonPerson"], "tropes_by_category": {}, "similar": [{"name": "Sergey Volkov", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_sergey_volkov", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Other specters", "show": "Saint Seiya", "id": "saint_seiya_other_specters", "similarity": 0.0374, "shared_tropes": 4}, {"name": "Jadow", "show": "Viewtiful Joe", "id": "viewtiful_joe_jadow", "similarity": 0.0354, "shared_tropes": 4}]}

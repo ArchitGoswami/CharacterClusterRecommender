@@ -1,18 +1,1 @@
-{
-  "name": "Jake Hart",
-  "show": "Reba",
-  "trope_count": 10,
-  "tropes": [
-    "BlondeBrunetteRedhead",
-    "ChristmasEpisode",
-    "HollywoodGenetics",
-    "DreadfulMusician",
-    "CrouchingMoronHiddenBadass",
-    "EarlyInstallmentCharacterDesignDifference",
-    "TookALevelInJerkass",
-    "OutOfFocus",
-    "InTouchWithHisFeminineSide",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jake Hart", "show": "Reba", "trope_count": 10, "tropes": ["BlondeBrunetteRedhead", "ChristmasEpisode", "HollywoodGenetics", "DreadfulMusician", "CrouchingMoronHiddenBadass", "EarlyInstallmentCharacterDesignDifference", "TookALevelInJerkass", "OutOfFocus", "InTouchWithHisFeminineSide", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Main Characters", "show": "Marvelous Misadventures of Flapjack, The", "id": "marvelous_misadventures_of_flapjack_the_main_characters", "similarity": 0.0449, "shared_tropes": 4}, {"name": "London Tipton", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_london_tipton", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Chris Griffin", "show": "Family Guy", "id": "family_guy_chris_griffin", "similarity": 0.0381, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Jess Parker",
-  "show": "Primeval",
-  "trope_count": 8,
-  "tropes": [
-    "SnarkToSnarkCombat",
-    "TeenGenius",
-    "BunnyEarsLawyer",
-    "OhCrap",
-    "OOCIsSeriousBusiness",
-    "LikeASonToMe",
-    "BewareTheNiceOnes",
-    "WhyDidItHaveToBeSnakes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jess Parker", "show": "Primeval", "trope_count": 8, "tropes": ["SnarkToSnarkCombat", "TeenGenius", "BunnyEarsLawyer", "OhCrap", "OOCIsSeriousBusiness", "LikeASonToMe", "BewareTheNiceOnes", "WhyDidItHaveToBeSnakes"], "tropes_by_category": {}, "similar": [{"name": "Charlie Young, Personal Aide to the President", "show": "West Wing, The", "id": "west_wing_the_charlie_young_personal_aide_to_the_president", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Phillip \"Phil\" Dunphy", "show": "Modern Family", "id": "modern_family_phillip_phil_dunphy", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Yuuko Ichihara", "show": "xxx HOLiC", "id": "xxx_holic_yuuko_ichihara", "similarity": 0.046, "shared_tropes": 4}, {"name": "Impulse I/ Kid Flash II / The Flash IV", "show": "Flash, The", "id": "flash_the_impulse_i_kid_flash_ii_the_flash_iv", "similarity": 0.04, "shared_tropes": 5}, {"name": "Impulse I/ Kid Flash II / The Flash IV", "show": "Justice League Unlimited", "id": "justice_league_unlimited_impulse_i_kid_flash_ii_the_flash_iv", "similarity": 0.04, "shared_tropes": 5}, {"name": "Impulse I/ Kid Flash II / The Flash IV", "show": "The Flash", "id": "the_flash_impulse_i_kid_flash_ii_the_flash_iv", "similarity": 0.04, "shared_tropes": 5}, {"name": "Jed Bartlet, President of the United States", "show": "West Wing, The", "id": "west_wing_the_jed_bartlet_president_of_the_united_states", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Philip Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_philip_banks", "similarity": 0.0377, "shared_tropes": 4}]}

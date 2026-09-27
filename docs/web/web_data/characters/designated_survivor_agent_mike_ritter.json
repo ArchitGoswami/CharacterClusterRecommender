@@ -1,15 +1,1 @@
-{
-  "name": "Agent Mike Ritter",
-  "show": "Designated Survivor",
-  "trope_count": 7,
-  "tropes": [
-    "TakingTheBullet",
-    "DeadpanSnarker",
-    "ChuckCunninghamSyndrome",
-    "TheBigGuy",
-    "ScaryBlackMan",
-    "VitriolicBestBuds",
-    "RetiredBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Agent Mike Ritter", "show": "Designated Survivor", "trope_count": 7, "tropes": ["TakingTheBullet", "DeadpanSnarker", "ChuckCunninghamSyndrome", "TheBigGuy", "ScaryBlackMan", "VitriolicBestBuds", "RetiredBadass"], "tropes_by_category": {}, "similar": [{"name": "Derek Morgan", "show": "Criminal Minds", "id": "criminal_minds_derek_morgan", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Sam", "show": "Burn Notice", "id": "burn_notice_sam", "similarity": 0.0597, "shared_tropes": 4}]}

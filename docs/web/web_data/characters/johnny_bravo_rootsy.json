@@ -1,16 +1,1 @@
-{
-  "name": "Rootsy",
-  "show": "Johnny Bravo",
-  "trope_count": 8,
-  "tropes": [
-    "AccidentalMarriage",
-    "SpeechImpededLoveInterest",
-    "GirlOfTheWeek",
-    "AllAmazonsWantHercules",
-    "TheOneThatGotAway",
-    "OnlyKnownByTheirNickname",
-    "TheChiefsDaughter",
-    "BaitAndSwitch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rootsy", "show": "Johnny Bravo", "trope_count": 8, "tropes": ["AccidentalMarriage", "SpeechImpededLoveInterest", "GirlOfTheWeek", "AllAmazonsWantHercules", "TheOneThatGotAway", "OnlyKnownByTheirNickname", "TheChiefsDaughter", "BaitAndSwitch"], "tropes_by_category": {}, "similar": []}

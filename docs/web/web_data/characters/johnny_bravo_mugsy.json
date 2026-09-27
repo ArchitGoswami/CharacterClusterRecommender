@@ -1,11 +1,1 @@
-{
-  "name": "Mugsy",
-  "show": "Johnny Bravo",
-  "trope_count": 3,
-  "tropes": [
-    "VagueAge",
-    "EyeObscuringHat",
-    "UnmanlySecret"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mugsy", "show": "Johnny Bravo", "trope_count": 3, "tropes": ["VagueAge", "EyeObscuringHat", "UnmanlySecret"], "tropes_by_category": {}, "similar": []}

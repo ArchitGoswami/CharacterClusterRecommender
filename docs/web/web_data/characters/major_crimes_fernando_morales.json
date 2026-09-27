@@ -1,15 +1,1 @@
-{
-  "name": "Fernando Morales",
-  "show": "Major Crimes",
-  "trope_count": 7,
-  "tropes": [
-    "MrExposition",
-    "DeadpanSnarker",
-    "BlackSheep",
-    "TwoferTokenMinority",
-    "HiddenDepths",
-    "TheCoroner",
-    "PromotionToOpeningTitles"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fernando Morales", "show": "Major Crimes", "trope_count": 7, "tropes": ["MrExposition", "DeadpanSnarker", "BlackSheep", "TwoferTokenMinority", "HiddenDepths", "TheCoroner", "PromotionToOpeningTitles"], "tropes_by_category": {}, "similar": [{"name": "Fernando Morales", "show": "Closer, The", "id": "closer_the_fernando_morales", "similarity": 1.0, "shared_tropes": 7}, {"name": "Dr. George Huang", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_dr_george_huang", "similarity": 0.087, "shared_tropes": 4}]}

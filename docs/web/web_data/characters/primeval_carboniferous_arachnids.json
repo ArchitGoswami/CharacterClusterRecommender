@@ -1,14 +1,1 @@
-{
-  "name": "Carboniferous Arachnids",
-  "show": "Primeval",
-  "trope_count": 6,
-  "tropes": [
-    "GiantSpiders",
-    "RedHerring",
-    "BigCreepyCrawlies",
-    "MamaBear",
-    "CartoonCreature",
-    "AnimalsNotToScale"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carboniferous Arachnids", "show": "Primeval", "trope_count": 6, "tropes": ["GiantSpiders", "RedHerring", "BigCreepyCrawlies", "MamaBear", "CartoonCreature", "AnimalsNotToScale"], "tropes_by_category": {}, "similar": []}

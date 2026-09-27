@@ -1,18 +1,1 @@
-{
-  "name": "Dad",
-  "show": "Fleabag",
-  "trope_count": 10,
-  "tropes": [
-    "UnnamedParent",
-    "EmotionallyTongueTied",
-    "RunningGag",
-    "UselessBystanderParent",
-    "HasAType",
-    "BumblingDad",
-    "AgeGapRomance",
-    "HenpeckedHusband",
-    "NoAccountingForTaste",
-    "JerkassWoobie"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dad", "show": "Fleabag", "trope_count": 10, "tropes": ["UnnamedParent", "EmotionallyTongueTied", "RunningGag", "UselessBystanderParent", "HasAType", "BumblingDad", "AgeGapRomance", "HenpeckedHusband", "NoAccountingForTaste", "JerkassWoobie"], "tropes_by_category": {}, "similar": []}

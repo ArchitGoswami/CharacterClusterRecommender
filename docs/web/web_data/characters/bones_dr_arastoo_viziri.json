@@ -1,16 +1,1 @@
-{
-  "name": "Dr. Arastoo Viziri",
-  "show": "Bones",
-  "trope_count": 8,
-  "tropes": [
-    "BigBrotherInstinct",
-    "NiceGuy",
-    "Tsundere",
-    "HumiliationConga",
-    "AccentSlipUp",
-    "SurpassedTheTeacher",
-    "Fauxreigner",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Arastoo Viziri", "show": "Bones", "trope_count": 8, "tropes": ["BigBrotherInstinct", "NiceGuy", "Tsundere", "HumiliationConga", "AccentSlipUp", "SurpassedTheTeacher", "Fauxreigner", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "The Frenchman", "show": "Boys, The", "id": "boys_the_the_frenchman", "similarity": 0.1176, "shared_tropes": 4}, {"name": "The Frenchman", "show": "The Boys", "id": "the_boys_the_frenchman", "similarity": 0.1176, "shared_tropes": 4}]}

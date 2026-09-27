@@ -1,17 +1,1 @@
-{
-  "name": "Jack Rabbit",
-  "show": "T.U.F.F. Puppy",
-  "trope_count": 9,
-  "tropes": [
-    "EvilFormerFriend",
-    "FallenHero",
-    "SpeciesSurname",
-    "TuxedoAndMartini",
-    "PunnyName",
-    "TheNameIsBondJamesBond",
-    "BarefootCartoonAnimal",
-    "BondGunBarrel",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jack Rabbit", "show": "T.U.F.F. Puppy", "trope_count": 9, "tropes": ["EvilFormerFriend", "FallenHero", "SpeciesSurname", "TuxedoAndMartini", "PunnyName", "TheNameIsBondJamesBond", "BarefootCartoonAnimal", "BondGunBarrel", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": []}

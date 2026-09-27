@@ -1,14 +1,1 @@
-{
-  "name": "Sgt. Spencer",
-  "show": "Stargate Universe",
-  "trope_count": 6,
-  "tropes": [
-    "Jerkass",
-    "AddledAddict",
-    "AssholeVictim",
-    "TheMillstone",
-    "ItsAllAboutMe",
-    "DrivenToSuicide"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sgt. Spencer", "show": "Stargate Universe", "trope_count": 6, "tropes": ["Jerkass", "AddledAddict", "AssholeVictim", "TheMillstone", "ItsAllAboutMe", "DrivenToSuicide"], "tropes_by_category": {}, "similar": [{"name": "John Dutton", "show": "Yellowstone", "id": "yellowstone_john_dutton", "similarity": 0.0676, "shared_tropes": 5}]}

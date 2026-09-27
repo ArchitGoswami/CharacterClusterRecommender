@@ -1,17 +1,1 @@
-{
-  "name": "Flatpoint Students",
-  "show": "Strangers with Candy",
-  "trope_count": 9,
-  "tropes": [
-    "HorribleJudgeOfCharacter",
-    "TheDanza",
-    "UnluckyChildhoodFriend",
-    "EntendreFailure",
-    "NaiveEverygirl",
-    "OnlySaneMan",
-    "SickeninglySweetHearts",
-    "TeacherStudentRomance",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Flatpoint Students", "show": "Strangers with Candy", "trope_count": 9, "tropes": ["HorribleJudgeOfCharacter", "TheDanza", "UnluckyChildhoodFriend", "EntendreFailure", "NaiveEverygirl", "OnlySaneMan", "SickeninglySweetHearts", "TeacherStudentRomance", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Simon Cooper", "show": "Inbetweeners, The", "id": "inbetweeners_the_simon_cooper", "similarity": 0.0417, "shared_tropes": 4}]}

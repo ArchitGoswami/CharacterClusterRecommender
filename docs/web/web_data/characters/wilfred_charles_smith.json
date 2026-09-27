@@ -1,14 +1,1 @@
-{
-  "name": "Charles Smith",
-  "show": "Wilfred",
-  "trope_count": 6,
-  "tropes": [
-    "DaddyHadAGoodReasonForAbandoningYou",
-    "TheReveal",
-    "LukeYouAreMyFather",
-    "LastEpisodeNewCharacter",
-    "ItRunsInTheFamily",
-    "WalkingSpoiler"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charles Smith", "show": "Wilfred", "trope_count": 6, "tropes": ["DaddyHadAGoodReasonForAbandoningYou", "TheReveal", "LukeYouAreMyFather", "LastEpisodeNewCharacter", "ItRunsInTheFamily", "WalkingSpoiler"], "tropes_by_category": {}, "similar": [{"name": "Hollyhock", "show": "BoJack Horseman", "id": "bojack_horseman_hollyhock", "similarity": 0.043, "shared_tropes": 4}]}

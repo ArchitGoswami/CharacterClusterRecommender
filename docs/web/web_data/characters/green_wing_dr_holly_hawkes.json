@@ -1,18 +1,1 @@
-{
-  "name": "Dr. Holly Hawkes",
-  "show": "Green Wing",
-  "trope_count": 10,
-  "tropes": [
-    "TheGhost",
-    "BabyTrap",
-    "TooDumbToLive",
-    "ImplausibleDeniability",
-    "BlatantLies",
-    "RomanticFalseLead",
-    "NoSenseOfPersonalSpace",
-    "ManipulativeBitch",
-    "BitchInSheepsClothing",
-    "MamasBabyPapasMaybe"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Holly Hawkes", "show": "Green Wing", "trope_count": 10, "tropes": ["TheGhost", "BabyTrap", "TooDumbToLive", "ImplausibleDeniability", "BlatantLies", "RomanticFalseLead", "NoSenseOfPersonalSpace", "ManipulativeBitch", "BitchInSheepsClothing", "MamasBabyPapasMaybe"], "tropes_by_category": {}, "similar": [{"name": "Daniel Wormald", "show": "Breaking Bad", "id": "breaking_bad_daniel_wormald", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Vito Spatafore", "show": "Sopranos,The", "id": "sopranosthe_vito_spatafore", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Vito Spatafore", "show": "The Sopranos", "id": "the_sopranos_vito_spatafore", "similarity": 0.0482, "shared_tropes": 4}]}

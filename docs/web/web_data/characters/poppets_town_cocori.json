@@ -1,18 +1,1 @@
-{
-  "name": "Cocori",
-  "show": "Poppets Town",
-  "trope_count": 10,
-  "tropes": [
-    "CatchPhrase",
-    "CountryCousin",
-    "DownplayedTrope",
-    "SupremeChef",
-    "AccessoryWearingCartoonAnimal",
-    "GenkiGirl",
-    "GardenOfLove",
-    "TheCutie",
-    "NiceGirl",
-    "BlueIsHeroic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cocori", "show": "Poppets Town", "trope_count": 12, "tropes": ["GenkiGirl", "DownplayedTrope", "GardenOfLove", "NiceGirl", "BlueIsHeroic", "SupremeChef", "TheCutie", "Catchphrase", "AccessoryWearingCartoonAnimal", "CountryCousin", "WindUpKey", "CatchPhrase"], "tropes_by_category": {}, "similar": [{"name": "Patty", "show": "Poppets Town", "id": "poppets_town_patty", "similarity": 0.2222, "shared_tropes": 6}, {"name": "Po", "show": "Teletubbies", "id": "teletubbies_po", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Charlotte", "show": "Making Fiends", "id": "making_fiends_charlotte", "similarity": 0.0833, "shared_tropes": 5}, {"name": "Protagonists", "show": "Butterbean's Cafe", "id": "butterbeans_cafe_protagonists", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Lucy Mann", "show": "Ben 10", "id": "ben_10_lucy_mann", "similarity": 0.08, "shared_tropes": 4}, {"name": "Unikitty", "show": "Unikitty!", "id": "unikitty_unikitty", "similarity": 0.0746, "shared_tropes": 5}, {"name": "Riley Matthews", "show": "Girl Meets World", "id": "girl_meets_world_riley_matthews", "similarity": 0.069, "shared_tropes": 4}, {"name": "Summer Roberts", "show": "O.C., The", "id": "oc_the_summer_roberts", "similarity": 0.069, "shared_tropes": 4}]}

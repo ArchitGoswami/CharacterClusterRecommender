@@ -1,17 +1,1 @@
-{
-  "name": "Sword Master",
-  "show": "Afro Samurai",
-  "trope_count": 9,
-  "tropes": [
-    "MasterSwordsman",
-    "ILetYouWin",
-    "CombatPragmatist",
-    "SingleStrokeBattle",
-    "OldMaster",
-    "SecretTestOfCharacter",
-    "TurnTheOtherCheek",
-    "TheStoic",
-    "MadeOfIron"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sword Master", "show": "Afro Samurai", "trope_count": 9, "tropes": ["MasterSwordsman", "ILetYouWin", "CombatPragmatist", "SingleStrokeBattle", "OldMaster", "SecretTestOfCharacter", "TurnTheOtherCheek", "TheStoic", "MadeOfIron"], "tropes_by_category": {}, "similar": [{"name": "Selene", "show": "Fairy Tail", "id": "fairy_tail_selene", "similarity": 0.0374, "shared_tropes": 4}]}

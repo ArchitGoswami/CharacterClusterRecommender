@@ -1,11 +1,1 @@
-{
-  "name": "The Maze",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 3,
-  "tropes": [
-    "MobileMaze",
-    "CheatersNeverProsper",
-    "TheMaze"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Maze", "show": "Cardcaptor Sakura", "trope_count": 3, "tropes": ["MobileMaze", "CheatersNeverProsper", "TheMaze"], "tropes_by_category": {}, "similar": []}

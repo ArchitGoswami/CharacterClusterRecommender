@@ -1,15 +1,1 @@
-{
-  "name": "Woody",
-  "show": "Crossing Jordan",
-  "trope_count": 7,
-  "tropes": [
-    "DrugsAreBad",
-    "TheBigGuy",
-    "FairCop",
-    "FoolishSiblingResponsibleSibling",
-    "BerserkButton",
-    "NaiveNewcomer",
-    "PunctuatedForEmphasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Woody", "show": "Crossing Jordan", "trope_count": 7, "tropes": ["DrugsAreBad", "TheBigGuy", "FairCop", "FoolishSiblingResponsibleSibling", "BerserkButton", "NaiveNewcomer", "PunctuatedForEmphasis"], "tropes_by_category": {}, "similar": [{"name": "D'avin Jaqobis", "show": "Killjoys", "id": "killjoys_d_avin_jaqobis", "similarity": 0.087, "shared_tropes": 4}]}

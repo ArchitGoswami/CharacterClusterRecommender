@@ -1,17 +1,1 @@
-{
-  "name": "Petra",
-  "show": "Braceface",
-  "trope_count": 9,
-  "tropes": [
-    "EvilBrit",
-    "HatedByAll",
-    "GirlPosse",
-    "KarmaHoudini",
-    "PreppyName",
-    "TheFashionista",
-    "WhamLine",
-    "ForTheEvulz",
-    "AlwaysSomeoneBetter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Petra", "show": "Braceface", "trope_count": 9, "tropes": ["EvilBrit", "HatedByAll", "GirlPosse", "KarmaHoudini", "PreppyName", "TheFashionista", "WhamLine", "ForTheEvulz", "AlwaysSomeoneBetter"], "tropes_by_category": {}, "similar": [{"name": "Clemelia Bloodsworth", "show": "BoJack Horseman", "id": "bojack_horseman_clemelia_bloodsworth", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Blair Waldorf", "show": "Gossip Girl", "id": "gossip_girl_blair_waldorf", "similarity": 0.058, "shared_tropes": 4}]}

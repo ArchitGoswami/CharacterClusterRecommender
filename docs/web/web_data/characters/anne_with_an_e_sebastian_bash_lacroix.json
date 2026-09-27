@@ -1,18 +1,1 @@
-{
-  "name": "Sebastian \"Bash\" Lacroix",
-  "show": "Anne With an E",
-  "trope_count": 10,
-  "tropes": [
-    "FishOutOfWater",
-    "ShipperOnDeck",
-    "CanonForeigner",
-    "HappilyMarried",
-    "GoodParents",
-    "EmbarrassingFirstName",
-    "WorstAid",
-    "FourthDateMarriage",
-    "IntergenerationalFriendship",
-    "TheToothHurts"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sebastian \"Bash\" Lacroix", "show": "Anne With an E", "trope_count": 10, "tropes": ["FishOutOfWater", "ShipperOnDeck", "CanonForeigner", "HappilyMarried", "GoodParents", "EmbarrassingFirstName", "WorstAid", "FourthDateMarriage", "IntergenerationalFriendship", "TheToothHurts"], "tropes_by_category": {}, "similar": [{"name": "Alba", "show": "Jane the Virgin", "id": "jane_the_virgin_alba", "similarity": 0.125, "shared_tropes": 4}, {"name": "Martha Kent", "show": "Smallville", "id": "smallville_martha_kent", "similarity": 0.1081, "shared_tropes": 4}]}

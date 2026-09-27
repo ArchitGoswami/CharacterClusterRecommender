@@ -1,17 +1,1 @@
-{
-  "name": "Rose Benjamin",
-  "show": "Kings",
-  "trope_count": 9,
-  "tropes": [
-    "TheChessmaster",
-    "PoliticallyIncorrectVillain",
-    "TheCynic",
-    "MamaBear",
-    "ObfuscatingStupidity",
-    "DisproportionateRetribution",
-    "Hypocrite",
-    "BitchInSheepsClothing",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rose Benjamin", "show": "Kings", "trope_count": 9, "tropes": ["TheChessmaster", "PoliticallyIncorrectVillain", "TheCynic", "MamaBear", "ObfuscatingStupidity", "DisproportionateRetribution", "Hypocrite", "BitchInSheepsClothing", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Marie Barone", "show": "Everybody Loves Raymond", "id": "everybody_loves_raymond_marie_barone", "similarity": 0.08, "shared_tropes": 4}, {"name": "Cy", "show": "Deadwood", "id": "deadwood_cy", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Wendy", "show": "Oz", "id": "oz_wendy", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Wendy", "show": "Ozark", "id": "ozark_wendy", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Rodrigo Borgia / Pope Alexander VI", "show": "Borgias, The", "id": "borgias_the_rodrigo_borgia_pope_alexander_vi", "similarity": 0.0741, "shared_tropes": 4}, {"name": "The Countess", "show": "American Horror Story", "id": "american_horror_story_the_countess", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Sheila Broflovski", "show": "South Park", "id": "south_park_sheila_broflovski", "similarity": 0.044, "shared_tropes": 4}, {"name": "Marshall Eriksen", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_marshall_eriksen", "similarity": 0.0417, "shared_tropes": 4}]}

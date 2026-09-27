@@ -1,15 +1,1 @@
-{
-  "name": "Cliff Hanger",
-  "show": "Between the Lions",
-  "trope_count": 7,
-  "tropes": [
-    "Catchphrase",
-    "DumbMuscle",
-    "PunnyName",
-    "VictoryIsBoring",
-    "YankTheDogsChain",
-    "ButtMonkey",
-    "LiteralCliffHanger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cliff Hanger", "show": "Between the Lions", "trope_count": 7, "tropes": ["Catchphrase", "DumbMuscle", "PunnyName", "VictoryIsBoring", "YankTheDogsChain", "ButtMonkey", "LiteralCliffHanger"], "tropes_by_category": {}, "similar": [{"name": "Kif Kroker", "show": "Futurama", "id": "futurama_kif_kroker", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Margaret \"Maggie\" Pesky", "show": "Buzz on Maggie, The", "id": "buzz_on_maggie_the_margaret_maggie_pesky", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Yugo", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_yugo", "similarity": 0.0381, "shared_tropes": 4}, {"name": "Adebisi", "show": "Oz", "id": "oz_adebisi", "similarity": 0.0351, "shared_tropes": 4}]}

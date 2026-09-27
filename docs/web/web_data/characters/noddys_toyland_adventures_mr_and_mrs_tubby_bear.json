@@ -1,18 +1,1 @@
-{
-  "name": "Mr. and Mrs. Tubby Bear",
-  "show": "Noddy's Toyland Adventures",
-  "trope_count": 10,
-  "tropes": [
-    "ChuckCunninghamSyndrome",
-    "HalfDressedCartoonAnimal",
-    "SpoiledBrat",
-    "BerserkButton",
-    "FatAndProud",
-    "HappilyMarried",
-    "ReasonableAuthorityFigure",
-    "BearyFriendly",
-    "ParentsAsPeople",
-    "WalkingShirtlessScene"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. and Mrs. Tubby Bear", "show": "Noddy's Toyland Adventures", "trope_count": 10, "tropes": ["ChuckCunninghamSyndrome", "HalfDressedCartoonAnimal", "SpoiledBrat", "BerserkButton", "FatAndProud", "HappilyMarried", "ReasonableAuthorityFigure", "BearyFriendly", "ParentsAsPeople", "WalkingShirtlessScene"], "tropes_by_category": {}, "similar": [{"name": "Trudy Proud", "show": "Proud Family, The", "id": "proud_family_the_trudy_proud", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Blanche Devereaux", "show": "Golden Girls, The", "id": "golden_girls_the_blanche_devereaux", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Skips", "show": "Regular Show", "id": "regular_show_skips", "similarity": 0.0396, "shared_tropes": 4}]}

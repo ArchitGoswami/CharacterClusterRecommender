@@ -1,16 +1,1 @@
-{
-  "name": "Captain Cap",
-  "show": "Poppets Town",
-  "trope_count": 8,
-  "tropes": [
-    "CoolOldGuy",
-    "ReplacementScrappy",
-    "BigFun",
-    "ByronicHero",
-    "PlotAllergy",
-    "AlliterativeName",
-    "BlueIsHeroic",
-    "TheFriendsWhoNeverHang"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Captain Cap", "show": "Poppets Town", "trope_count": 11, "tropes": ["PlotAllergy", "CoolOldGuy", "ByronicHero", "FriendlyWar", "BlueIsHeroic", "TheFriendsWhoNeverHang", "LoyalAnimalCompanion", "AlliterativeName", "TheStoryteller", "ReplacementScrappy", "CatchPhrase"], "tropes_by_category": {}, "similar": []}

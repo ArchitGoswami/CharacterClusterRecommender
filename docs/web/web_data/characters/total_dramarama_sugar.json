@@ -1,15 +1,1 @@
-{
-  "name": "Sugar",
-  "show": "Total DramaRama",
-  "trope_count": 7,
-  "tropes": [
-    "AttentionWhore",
-    "NoCelebritiesWereHarmed",
-    "AdaptationalNiceGirl",
-    "GirlyGirlWithATomboyStreak",
-    "NaiveNewcomer",
-    "AdaptationPersonalityChange",
-    "AdaptationalCurves"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sugar", "show": "Total DramaRama", "trope_count": 7, "tropes": ["AttentionWhore", "NoCelebritiesWereHarmed", "AdaptationalNiceGirl", "GirlyGirlWithATomboyStreak", "NaiveNewcomer", "AdaptationPersonalityChange", "AdaptationalCurves"], "tropes_by_category": {}, "similar": []}

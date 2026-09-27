@@ -1,14 +1,1 @@
-{
-  "name": "Zippy",
-  "show": "T.U.F.F. Puppy",
-  "trope_count": 6,
-  "tropes": [
-    "InstantlyProvenWrong",
-    "ThePollyanna",
-    "MinionWithAnFInEvil",
-    "EvilGenius",
-    "NiceGirl",
-    "SmartBall"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zippy", "show": "T.U.F.F. Puppy", "trope_count": 6, "tropes": ["InstantlyProvenWrong", "ThePollyanna", "MinionWithAnFInEvil", "EvilGenius", "NiceGirl", "SmartBall"], "tropes_by_category": {}, "similar": [{"name": "Donna Smoak", "show": "Arrow", "id": "arrow_donna_smoak", "similarity": 0.1, "shared_tropes": 4}]}

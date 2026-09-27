@@ -1,18 +1,1 @@
-{
-  "name": "Dave and Ping-Pong",
-  "show": "Camp Lazlo",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "IdenticalTwinIDTag",
-    "ADayInTheLimelight",
-    "SiblingTeam",
-    "FoolishSiblingResponsibleSibling",
-    "YourSizeMayVary",
-    "SchoolNewspaperNewshound",
-    "JerkassBall",
-    "InformedSpecies",
-    "SingleMindedTwins"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dave and Ping-Pong", "show": "Camp Lazlo", "trope_count": 10, "tropes": ["DeadpanSnarker", "IdenticalTwinIDTag", "ADayInTheLimelight", "SiblingTeam", "FoolishSiblingResponsibleSibling", "YourSizeMayVary", "SchoolNewspaperNewshound", "JerkassBall", "InformedSpecies", "SingleMindedTwins"], "tropes_by_category": {}, "similar": [{"name": "Chip and Skip", "show": "Camp Lazlo", "id": "camp_lazlo_chip_and_skip", "similarity": 0.16, "shared_tropes": 4}, {"name": "Jim and Tim Possible", "show": "Kim Possible", "id": "kim_possible_jim_and_tim_possible", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Sherri and Terri Mackleberry", "show": "Simpsons,The", "id": "simpsonsthe_sherri_and_terri_mackleberry", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Sherri and Terri Mackleberry", "show": "The Simpsons", "id": "the_simpsons_sherri_and_terri_mackleberry", "similarity": 0.0816, "shared_tropes": 4}, {"name": "The Fat Controller / Sir Topham Hatt", "show": "Thomas & Friends", "id": "thomas_and_friends_the_fat_controller_sir_topham_hatt", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Bandit (Dad)", "show": "Bluey", "id": "bluey_bandit_dad", "similarity": 0.05, "shared_tropes": 4}, {"name": "Arthur Timothy Read", "show": "Arthur", "id": "arthur_arthur_timothy_read", "similarity": 0.0471, "shared_tropes": 4}]}

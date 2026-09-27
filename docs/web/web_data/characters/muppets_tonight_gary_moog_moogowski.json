@@ -1,14 +1,1 @@
-{
-  "name": "Gary \"Moog\" Moogowski",
-  "show": "Muppets Tonight",
-  "trope_count": 6,
-  "tropes": [
-    "GRatedDrug",
-    "OppositesAttract",
-    "EndearinglyDorky",
-    "MeaningfulName",
-    "OnlySaneMan",
-    "CloudCuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gary \"Moog\" Moogowski", "show": "Muppets Tonight", "trope_count": 6, "tropes": ["GRatedDrug", "OppositesAttract", "EndearinglyDorky", "MeaningfulName", "OnlySaneMan", "CloudCuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Gary \"Moog\" Moogowski", "show": "Muppets,The", "id": "muppetsthe_gary_moog_moogowski", "similarity": 1.0, "shared_tropes": 6}]}

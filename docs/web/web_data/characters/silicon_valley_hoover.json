@@ -1,17 +1,1 @@
-{
-  "name": "Hoover",
-  "show": "Silicon Valley",
-  "trope_count": 9,
-  "tropes": [
-    "AffablyEvil",
-    "EvilCounterpart",
-    "TheDitz",
-    "BaldOfAuthority",
-    "BlindObedience",
-    "UndyingLoyalty",
-    "TheDragon",
-    "CoDragons",
-    "VillainousRescue"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hoover", "show": "Silicon Valley", "trope_count": 9, "tropes": ["AffablyEvil", "EvilCounterpart", "TheDitz", "BaldOfAuthority", "BlindObedience", "UndyingLoyalty", "TheDragon", "CoDragons", "VillainousRescue"], "tropes_by_category": {}, "similar": [{"name": "Greta", "show": "Kipo and the Age of Wonderbeasts", "id": "kipo_and_the_age_of_wonderbeasts_greta", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Hack and Slash", "show": "ReBoot", "id": "reboot_hack_and_slash", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Jadow", "show": "Viewtiful Joe", "id": "viewtiful_joe_jadow", "similarity": 0.0526, "shared_tropes": 6}, {"name": "The Baldrick Lineage", "show": "Blackadder", "id": "blackadder_the_baldrick_lineage", "similarity": 0.0526, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Fantastico",
-  "show": "The Boys",
-  "trope_count": 6,
-  "tropes": [
-    "Expy",
-    "InvisibleStreaker",
-    "TheFantasticFaux",
-    "ADickInName",
-    "BitchInSheepsClothing",
-    "TheWormThatWalks"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fantastico", "show": "The Boys", "trope_count": 6, "tropes": ["Expy", "InvisibleStreaker", "TheFantasticFaux", "ADickInName", "BitchInSheepsClothing", "TheWormThatWalks"], "tropes_by_category": {}, "similar": [{"name": "Fantastico", "show": "Boys, The", "id": "boys_the_fantastico", "similarity": 1.0, "shared_tropes": 6}]}

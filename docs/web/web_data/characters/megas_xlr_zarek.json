@@ -1,16 +1,1 @@
-{
-  "name": "Zarek",
-  "show": "Megas XLR",
-  "trope_count": 8,
-  "tropes": [
-    "NearVillainVictory",
-    "WeWillMeetAgain",
-    "Expy",
-    "MonsterOfTheWeek",
-    "HorrifyingTheHorror",
-    "NoOneCouldSurviveThat",
-    "KneelBeforeZod",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zarek", "show": "Megas XLR", "trope_count": 8, "tropes": ["NearVillainVictory", "WeWillMeetAgain", "Expy", "MonsterOfTheWeek", "HorrifyingTheHorror", "NoOneCouldSurviveThat", "KneelBeforeZod", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Cooper's Doppelganger/Mr. C/The Double", "show": "Twin Peaks", "id": "twin_peaks_cooper_s_doppelganger_mr_c_the_double", "similarity": 0.0417, "shared_tropes": 4}]}

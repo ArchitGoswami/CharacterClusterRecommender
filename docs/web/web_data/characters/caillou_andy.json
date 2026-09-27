@@ -1,14 +1,1 @@
-{
-  "name": "Andy",
-  "show": "Caillou",
-  "trope_count": 6,
-  "tropes": [
-    "SugarAndIcePersonality",
-    "TheBusCameBack",
-    "DefrostingIceKing",
-    "NoSocialSkills",
-    "UnexpectedCharacter",
-    "OnlyOneName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Andy", "show": "Caillou", "trope_count": 6, "tropes": ["SugarAndIcePersonality", "TheBusCameBack", "DefrostingIceKing", "NoSocialSkills", "UnexpectedCharacter", "OnlyOneName"], "tropes_by_category": {}, "similar": [{"name": "Sai", "show": "Naruto", "id": "naruto_sai", "similarity": 0.04, "shared_tropes": 4}]}

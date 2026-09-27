@@ -1,16 +1,1 @@
-{
-  "name": "The Ingrid Twins",
-  "show": "CatDog",
-  "trope_count": 8,
-  "tropes": [
-    "SiblingYinYang",
-    "DeadpanSnarker",
-    "OppositesAttract",
-    "SexyScandinavian",
-    "GenkiGirl",
-    "ShipTease",
-    "AlwaysIdenticalTwins",
-    "Keet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Ingrid Twins", "show": "CatDog", "trope_count": 8, "tropes": ["SiblingYinYang", "DeadpanSnarker", "OppositesAttract", "SexyScandinavian", "GenkiGirl", "ShipTease", "AlwaysIdenticalTwins", "Keet"], "tropes_by_category": {}, "similar": [{"name": "Ben Wyatt", "show": "Parks and Recreation", "id": "parks_and_recreation_ben_wyatt", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Milo Danger Murphy", "show": "Milo Murphy's Law", "id": "milo_murphys_law_milo_danger_murphy", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Tyler Sisters", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_tyler_sisters", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Wanda Pierce", "show": "BoJack Horseman", "id": "bojack_horseman_wanda_pierce", "similarity": 0.0392, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Elfax",
-  "show": "Nate is Late",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "Technopath",
-    "BigBad",
-    "RobotMaid",
-    "Determinator",
-    "AIIsACrapshoot",
-    "CrazyPrepared",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elfax", "show": "Nate is Late", "trope_count": 8, "tropes": ["HeelFaceTurn", "Technopath", "BigBad", "RobotMaid", "Determinator", "AIIsACrapshoot", "CrazyPrepared", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "XANA", "show": "Code Lyoko", "id": "code_lyoko_xana", "similarity": 0.0431, "shared_tropes": 5}, {"name": "Brainiac", "show": "Superman: The Animated Series", "id": "superman_the_animated_series_brainiac", "similarity": 0.043, "shared_tropes": 4}]}

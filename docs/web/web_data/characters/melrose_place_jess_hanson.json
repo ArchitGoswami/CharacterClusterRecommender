@@ -1,16 +1,1 @@
-{
-  "name": "Jess Hanson",
-  "show": "Melrose Place",
-  "trope_count": 8,
-  "tropes": [
-    "NeverMyFault",
-    "TheResenter",
-    "GreenEyedMonster",
-    "DomesticAbuse",
-    "HateSink",
-    "RailingKill",
-    "CainAndAbel",
-    "ArsonMurderAndJaywalking"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jess Hanson", "show": "Melrose Place", "trope_count": 8, "tropes": ["NeverMyFault", "TheResenter", "GreenEyedMonster", "DomesticAbuse", "HateSink", "RailingKill", "CainAndAbel", "ArsonMurderAndJaywalking"], "tropes_by_category": {}, "similar": [{"name": "Hugo Habercore", "show": "Bob's Burgers", "id": "bobs_burgers_hugo_habercore", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Lord Betrayus", "show": "Pac-Man and the Ghostly Adventures", "id": "pac_man_and_the_ghostly_adventures_lord_betrayus", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Prometheus Black/Meltdown", "show": "Transformers Animated", "id": "transformers_animated_prometheus_black_meltdown", "similarity": 0.0563, "shared_tropes": 4}, {"name": "The Thousand", "show": "Spider-Man", "id": "spider_man_the_thousand", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Mizuki", "show": "Naruto", "id": "naruto_mizuki", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Angela", "show": "Mr. Robot", "id": "mr_robot_angela", "similarity": 0.0427, "shared_tropes": 5}, {"name": "Ren Sohma", "show": "Fruits Basket", "id": "fruits_basket_ren_sohma", "similarity": 0.0381, "shared_tropes": 4}]}

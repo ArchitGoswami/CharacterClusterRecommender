@@ -1,14 +1,1 @@
-{
-  "name": "Lashawn",
-  "show": "In Living Color",
-  "trope_count": 6,
-  "tropes": [
-    "DeadpanSnarker",
-    "SurroundedByIdiots",
-    "Jerkass",
-    "NewJobAsThePlotDemands",
-    "SassyBlackWoman",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lashawn", "show": "In Living Color", "trope_count": 6, "tropes": ["DeadpanSnarker", "SurroundedByIdiots", "Jerkass", "NewJobAsThePlotDemands", "SassyBlackWoman", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Frylock", "show": "Aqua Teen Hunger Force", "id": "aqua_teen_hunger_force_frylock", "similarity": 0.044, "shared_tropes": 4}, {"name": "Janja", "show": "Lion Guard, The", "id": "lion_guard_the_janja", "similarity": 0.0417, "shared_tropes": 4}, {"name": "The Shredder", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_the_shredder", "similarity": 0.0412, "shared_tropes": 4}]}

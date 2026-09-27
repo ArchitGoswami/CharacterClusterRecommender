@@ -1,15 +1,1 @@
-{
-  "name": "Samantha Carter",
-  "show": "Stargate Atlantis",
-  "trope_count": 7,
-  "tropes": [
-    "OmnidisciplinaryScientist",
-    "GracefulLoser",
-    "Transplant",
-    "AFatherToHisMen",
-    "BadassBookworm",
-    "TheKirk",
-    "ColonelBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Samantha Carter", "show": "Stargate Atlantis", "trope_count": 7, "tropes": ["OmnidisciplinaryScientist", "GracefulLoser", "Transplant", "AFatherToHisMen", "BadassBookworm", "TheKirk", "ColonelBadass"], "tropes_by_category": {}, "similar": []}

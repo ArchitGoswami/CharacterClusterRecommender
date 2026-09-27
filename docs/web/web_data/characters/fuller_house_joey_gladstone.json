@@ -1,15 +1,1 @@
-{
-  "name": "Joey Gladstone",
-  "show": "Fuller House",
-  "trope_count": 7,
-  "tropes": [
-    "LikeFatherLikeSon",
-    "NiceJobBreakingItHero",
-    "CoolUncle",
-    "ManChild",
-    "RememberTheNewGuy",
-    "CompanionCube",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joey Gladstone", "show": "Fuller House", "trope_count": 7, "tropes": ["LikeFatherLikeSon", "NiceJobBreakingItHero", "CoolUncle", "ManChild", "RememberTheNewGuy", "CompanionCube", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Charlie Harper", "show": "Two and a Half Men", "id": "two_and_a_half_men_charlie_harper", "similarity": 0.0351, "shared_tropes": 4}]}

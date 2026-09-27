@@ -1,17 +1,1 @@
-{
-  "name": "Blurr",
-  "show": "Transformers: Armada",
-  "trope_count": 9,
-  "tropes": [
-    "ChuckCunninghamSyndrome",
-    "JerkWithAHeartOfGold",
-    "InNameOnly",
-    "AdaptationPersonalityChange",
-    "TookALevelInKindness",
-    "FlyingCar",
-    "DubNameChange",
-    "FantasticRacism",
-    "ColdSniper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Blurr", "show": "Transformers: Armada", "trope_count": 9, "tropes": ["ChuckCunninghamSyndrome", "JerkWithAHeartOfGold", "InNameOnly", "AdaptationPersonalityChange", "TookALevelInKindness", "FlyingCar", "DubNameChange", "FantasticRacism", "ColdSniper"], "tropes_by_category": {}, "similar": [{"name": "Ryuji Otogi (Duke Devlin)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_ryuji_otogi_duke_devlin", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Edo Phoenix (Aster Phoenix)", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_edo_phoenix_aster_phoenix", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Diesel  10", "show": "Thomas & Friends", "id": "thomas_and_friends_diesel_10", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Rene Ramirez / Wild Dog", "show": "Arrow", "id": "arrow_rene_ramirez_wild_dog", "similarity": 0.044, "shared_tropes": 4}]}

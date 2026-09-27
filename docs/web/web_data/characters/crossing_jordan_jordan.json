@@ -1,18 +1,1 @@
-{
-  "name": "Jordan",
-  "show": "Crossing Jordan",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "MistakenForGay",
-    "MsFanservice",
-    "MommyIssues",
-    "BrainyBrunette",
-    "NoSocialSkills",
-    "CowboyCop",
-    "ClearMyName",
-    "AloofDarkHairedGirl",
-    "TheCoroner"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jordan", "show": "Crossing Jordan", "trope_count": 10, "tropes": ["DeadpanSnarker", "MistakenForGay", "MsFanservice", "MommyIssues", "BrainyBrunette", "NoSocialSkills", "CowboyCop", "ClearMyName", "AloofDarkHairedGirl", "TheCoroner"], "tropes_by_category": {}, "similar": [{"name": "Ingrid Third", "show": "Fillmore!", "id": "fillmore_ingrid_third", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Madison Lee", "show": "Charlie's Angels", "id": "charlies_angels_madison_lee", "similarity": 0.087, "shared_tropes": 4}, {"name": "Dr. Lisa Cuddy", "show": "House", "id": "house_dr_lisa_cuddy", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Liz Lemon", "show": "30 Rock", "id": "30_rock_liz_lemon", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Blair Waldorf", "show": "Gossip Girl", "id": "gossip_girl_blair_waldorf", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Talisa Maegyr", "show": "Game of Thrones", "id": "game_of_thrones_talisa_maegyr", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Kitty Katswell", "show": "T.U.F.F. Puppy", "id": "tuff_puppy_kitty_katswell", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Veronica Lodge", "show": "Riverdale", "id": "riverdale_veronica_lodge", "similarity": 0.0404, "shared_tropes": 4}]}

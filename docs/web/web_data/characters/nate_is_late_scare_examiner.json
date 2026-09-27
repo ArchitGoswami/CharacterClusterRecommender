@@ -1,18 +1,1 @@
-{
-  "name": "Scare Examiner",
-  "show": "Nate is Late",
-  "trope_count": 10,
-  "tropes": [
-    "OneWingedAngel",
-    "NotSoAboveItAll",
-    "BigBad",
-    "BerserkButton",
-    "NoNameGiven",
-    "OurVampiresAreDifferent",
-    "WouldHurtAChild",
-    "VampireVords",
-    "DidntSeeThatComing",
-    "GhostlyGlide"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Scare Examiner", "show": "Nate is Late", "trope_count": 10, "tropes": ["OneWingedAngel", "NotSoAboveItAll", "BigBad", "BerserkButton", "NoNameGiven", "OurVampiresAreDifferent", "WouldHurtAChild", "VampireVords", "DidntSeeThatComing", "GhostlyGlide"], "tropes_by_category": {}, "similar": [{"name": "Malware", "show": "Ben 10", "id": "ben_10_malware", "similarity": 0.0407, "shared_tropes": 5}, {"name": "The Mind Flayer", "show": "Stranger Things", "id": "stranger_things_the_mind_flayer", "similarity": 0.0403, "shared_tropes": 6}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Birnbaum Quadruplets",
-  "show": "The Cuphead Show",
-  "trope_count": 9,
-  "tropes": [
-    "AlliterativeFamily",
-    "VileVulture",
-    "CanonForeigner",
-    "HoistByTheirOwnPetard",
-    "LaserGuidedKarma",
-    "SiblingsInCrime",
-    "SealedEvilInACan",
-    "MouthyBird",
-    "AddedAlliterativeAppeal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Birnbaum Quadruplets", "show": "The Cuphead Show", "trope_count": 10, "tropes": ["AlliterativeFamily", "VileVulture", "AddedAlliterativeAppeal", "MouthyBird", "CanonForeigner", "SealedEvilInACan", "AndIMustScream", "HoistByTheirOwnPetard", "SiblingsInCrime", "LaserGuidedKarma"], "tropes_by_category": {}, "similar": []}

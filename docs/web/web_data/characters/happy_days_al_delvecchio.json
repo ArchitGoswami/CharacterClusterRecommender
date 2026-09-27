@@ -1,16 +1,1 @@
-{
-  "name": "Al Delvecchio",
-  "show": "Happy Days",
-  "trope_count": 8,
-  "tropes": [
-    "CatchPhrase",
-    "UnderNewManagement",
-    "ExtremeDoormat",
-    "IconicSequelCharacter",
-    "PutOnABus",
-    "TeamDad",
-    "BackForTheFinale",
-    "PromotionToOpeningTitles"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Al Delvecchio", "show": "Happy Days", "trope_count": 8, "tropes": ["CatchPhrase", "UnderNewManagement", "ExtremeDoormat", "IconicSequelCharacter", "PutOnABus", "TeamDad", "BackForTheFinale", "PromotionToOpeningTitles"], "tropes_by_category": {}, "similar": [{"name": "Andrea \"Andie\"McPhee", "show": "Dawson's Creek", "id": "dawsons_creek_andrea_andie_mcphee", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Chris Traeger", "show": "Parks and Recreation", "id": "parks_and_recreation_chris_traeger", "similarity": 0.0571, "shared_tropes": 4}]}

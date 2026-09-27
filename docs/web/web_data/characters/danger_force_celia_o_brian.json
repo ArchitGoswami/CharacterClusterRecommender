@@ -1,16 +1,1 @@
-{
-  "name": "Celia O'Brian",
-  "show": "Danger Force",
-  "trope_count": 8,
-  "tropes": [
-    "DownplayedTrope",
-    "TheDitz",
-    "DumbBlonde",
-    "TrophyWife",
-    "HasAType",
-    "JerkAss",
-    "RichBitch",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Celia O'Brian", "show": "Danger Force", "trope_count": 8, "tropes": ["DownplayedTrope", "TheDitz", "DumbBlonde", "TrophyWife", "HasAType", "JerkAss", "RichBitch", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "Skwisgaar Skwigelf", "show": "Metalocalypse", "id": "metalocalypse_skwisgaar_skwigelf", "similarity": 0.0381, "shared_tropes": 4}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Janine",
-  "show": "The Boys",
-  "trope_count": 4,
-  "tropes": [
-    "BrattyTeenageDaughter",
-    "YoungerThanTheyLook",
-    "TroublingUnchildlikeBehavior",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Janine", "show": "The Boys", "trope_count": 4, "tropes": ["BrattyTeenageDaughter", "YoungerThanTheyLook", "TroublingUnchildlikeBehavior", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Janine", "show": "Boys, The", "id": "boys_the_janine", "similarity": 1.0, "shared_tropes": 4}]}

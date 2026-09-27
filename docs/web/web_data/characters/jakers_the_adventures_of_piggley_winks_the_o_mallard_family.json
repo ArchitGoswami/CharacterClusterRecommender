@@ -1,14 +1,1 @@
-{
-  "name": "The O'Mallard Family",
-  "show": "Jakers! The Adventures of Piggley Winks",
-  "trope_count": 6,
-  "tropes": [
-    "OnlySaneWoman",
-    "DeadpanSnarker",
-    "TheSmartGirl",
-    "WellDoneDaughterGirl",
-    "AmbiguouslyAbsentParent",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The O'Mallard Family", "show": "Jakers! The Adventures of Piggley Winks", "trope_count": 6, "tropes": ["OnlySaneWoman", "DeadpanSnarker", "TheSmartGirl", "WellDoneDaughterGirl", "AmbiguouslyAbsentParent", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Samantha \"Sam\" Simpson", "show": "Totally Spies!", "id": "totally_spies_samantha_sam_simpson", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Donna Pinciotti", "show": "That '70s Show", "id": "that_70s_show_donna_pinciotti", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Tiff (Fumu)", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_tiff_fumu", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Velma Dinkley", "show": "Scooby-Doo", "id": "scooby_doo_velma_dinkley", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Anais Errrrrr Watterson", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_anais_errrrrr_watterson", "similarity": 0.0357, "shared_tropes": 4}]}

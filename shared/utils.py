@@ -40,6 +40,9 @@ def fetch_page(url: str, delay: float = CRAWL_DELAY) -> Optional[str]:
     for attempt in range(MAX_RETRIES):
         try:
             response = requests.get(url, headers=headers, timeout=TIMEOUT)
+            if response.status_code == 404:
+                logger.info(f"Not found: {url}")
+                return None
             response.raise_for_status()
             return response.text
         except requests.RequestException as e:

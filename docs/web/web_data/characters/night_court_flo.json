@@ -1,17 +1,1 @@
-{
-  "name": "Flo",
-  "show": "Night Court",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "BrutalHonesty",
-    "SuspiciouslySimilarSubstitute",
-    "TheDanza",
-    "ComicallyMissingThePoint",
-    "AllBikersAreHellsAngels",
-    "LampshadeHanging",
-    "ScrewPolitenessImASenior",
-    "TheCharacterDiedWithHer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Flo", "show": "Night Court", "trope_count": 9, "tropes": ["DeadpanSnarker", "BrutalHonesty", "SuspiciouslySimilarSubstitute", "TheDanza", "ComicallyMissingThePoint", "AllBikersAreHellsAngels", "LampshadeHanging", "ScrewPolitenessImASenior", "TheCharacterDiedWithHer"], "tropes_by_category": {}, "similar": [{"name": "Gene Belcher", "show": "Bob's Burgers", "id": "bobs_burgers_gene_belcher", "similarity": 0.0417, "shared_tropes": 4}]}

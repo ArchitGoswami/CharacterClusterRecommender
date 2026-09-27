@@ -1,18 +1,1 @@
-{
-  "name": "Marie Curie",
-  "show": "Clone High",
-  "trope_count": 10,
-  "tropes": [
-    "GentleGiant",
-    "CameBackWrong",
-    "BodyHorror",
-    "PinkIsFeminine",
-    "DownplayedTrope",
-    "BetaCouple",
-    "HiddenDepths",
-    "VocalDissonance",
-    "NiceMeanAndInBetween",
-    "DemotedToExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Marie Curie", "show": "Clone High", "trope_count": 10, "tropes": ["GentleGiant", "CameBackWrong", "BodyHorror", "PinkIsFeminine", "DownplayedTrope", "BetaCouple", "HiddenDepths", "VocalDissonance", "NiceMeanAndInBetween", "DemotedToExtra"], "tropes_by_category": {}, "similar": [{"name": "All three", "show": "We Bare Bears", "id": "we_bare_bears_all_three", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Breakdown", "show": "Transformers Prime", "id": "transformers_prime_breakdown", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Katie Killjoy", "show": "Hazbin Hotel", "id": "hazbin_hotel_katie_killjoy", "similarity": 0.0455, "shared_tropes": 4}, {"name": "DJ", "show": "Total Drama", "id": "total_drama_dj", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Lucy L. Loud", "show": "Loud House, The", "id": "loud_house_the_lucy_l_loud", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Jo", "show": "Total Drama", "id": "total_drama_jo", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Skips", "show": "Regular Show", "id": "regular_show_skips", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Cole", "show": "Ninjago", "id": "ninjago_cole", "similarity": 0.0367, "shared_tropes": 4}]}

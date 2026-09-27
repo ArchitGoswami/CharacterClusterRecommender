@@ -1,15 +1,1 @@
-{
-  "name": "Edgar \"Kill Moves\" Devereaux",
-  "show": "Everybody Hates Chris",
-  "trope_count": 7,
-  "tropes": [
-    "StatusQuoIsGod",
-    "SuddenNameChange",
-    "EveryoneCallsHimBarkeep",
-    "CrazyHomelessPeople",
-    "HiddenDepths",
-    "RichesToRags",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Edgar \"Kill Moves\" Devereaux", "show": "Everybody Hates Chris", "trope_count": 7, "tropes": ["StatusQuoIsGod", "SuddenNameChange", "EveryoneCallsHimBarkeep", "CrazyHomelessPeople", "HiddenDepths", "RichesToRags", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "The Janitor", "show": "Scrubs", "id": "scrubs_the_janitor", "similarity": 0.0417, "shared_tropes": 4}]}

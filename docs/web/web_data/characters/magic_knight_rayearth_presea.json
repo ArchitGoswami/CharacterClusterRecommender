@@ -1,18 +1,1 @@
-{
-  "name": "Presea",
-  "show": "Magic Knight Rayearth",
-  "trope_count": 10,
-  "tropes": [
-    "VehicularThemeNaming",
-    "CoolAndUnusualPunishment",
-    "DeathByAdaptation",
-    "BunnyEarsLawyer",
-    "SchrodingersCast",
-    "UltimateBlacksmith",
-    "SacrificialLamb",
-    "LeotardOfPower",
-    "AdaptationalBadass",
-    "OnlyTheChosenMayWield"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Presea", "show": "Magic Knight Rayearth", "trope_count": 10, "tropes": ["VehicularThemeNaming", "CoolAndUnusualPunishment", "DeathByAdaptation", "BunnyEarsLawyer", "SchrodingersCast", "UltimateBlacksmith", "SacrificialLamb", "LeotardOfPower", "AdaptationalBadass", "OnlyTheChosenMayWield"], "tropes_by_category": {}, "similar": []}

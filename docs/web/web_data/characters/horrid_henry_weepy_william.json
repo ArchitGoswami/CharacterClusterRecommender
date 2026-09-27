@@ -1,18 +1,1 @@
-{
-  "name": "Weepy William",
-  "show": "Horrid Henry",
-  "trope_count": 10,
-  "tropes": [
-    "IronicName",
-    "ProneToTears",
-    "NiceGuy",
-    "HideYourLesbians",
-    "LovableCoward",
-    "AmbiguouslyGay",
-    "TheCutie",
-    "PottyFailure",
-    "BreakTheCutie",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Weepy William", "show": "Horrid Henry", "trope_count": 10, "tropes": ["IronicName", "ProneToTears", "NiceGuy", "HideYourLesbians", "LovableCoward", "AmbiguouslyGay", "TheCutie", "PottyFailure", "BreakTheCutie", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Anxious Andrew", "show": "Horrid Henry", "id": "horrid_henry_anxious_andrew", "similarity": 0.5714, "shared_tropes": 8}, {"name": "Stacy Rowe", "show": "Daria", "id": "daria_stacy_rowe", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Evil Jax", "show": "Amazing Digital Circus, The", "id": "amazing_digital_circus_the_evil_jax", "similarity": 0.119, "shared_tropes": 5}, {"name": "Manta Oyamada", "show": "Shaman King", "id": "shaman_king_manta_oyamada", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Eugene", "show": "Hey Arnold!", "id": "hey_arnold_eugene", "similarity": 0.093, "shared_tropes": 4}, {"name": "Brick", "show": "Total Drama", "id": "total_drama_brick", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Cody", "show": "Total DramaRama", "id": "total_dramarama_cody", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Percy the Small Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_percy_the_small_engine", "similarity": 0.0833, "shared_tropes": 5}]}

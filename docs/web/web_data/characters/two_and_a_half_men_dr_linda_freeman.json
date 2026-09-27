@@ -1,12 +1,1 @@
-{
-  "name": "Dr. Linda Freeman",
-  "show": "Two and a Half Men",
-  "trope_count": 4,
-  "tropes": [
-    "OnlySaneMan",
-    "DeadpanSnarker",
-    "AmbiguouslyBi",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Linda Freeman", "show": "Two and a Half Men", "trope_count": 4, "tropes": ["OnlySaneMan", "DeadpanSnarker", "AmbiguouslyBi", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": []}

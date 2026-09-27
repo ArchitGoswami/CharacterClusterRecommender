@@ -1,16 +1,1 @@
-{
-  "name": "Dolores",
-  "show": "Seinfeld",
-  "trope_count": 8,
-  "tropes": [
-    "AccentDepundent",
-    "TheBusCameBack",
-    "InUniverse",
-    "InSeriesNickname",
-    "GirlOfTheWeek",
-    "LateArrivalSpoiler",
-    "LeastRhymableWord",
-    "LoveInterest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dolores", "show": "Seinfeld", "trope_count": 8, "tropes": ["AccentDepundent", "TheBusCameBack", "InUniverse", "InSeriesNickname", "GirlOfTheWeek", "LateArrivalSpoiler", "LeastRhymableWord", "LoveInterest"], "tropes_by_category": {}, "similar": [{"name": "P.I.X.A.L./The 2nd Samurai X", "show": "Ninjago", "id": "ninjago_p_i_x_a_l_the_2nd_samurai_x", "similarity": 0.1333, "shared_tropes": 4}]}

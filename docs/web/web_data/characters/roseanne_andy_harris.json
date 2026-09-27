@@ -1,12 +1,1 @@
-{
-  "name": "Andy Harris",
-  "show": "Roseanne",
-  "trope_count": 4,
-  "tropes": [
-    "WhatHappenedToTheMouse",
-    "GenerationXerox",
-    "CampStraight",
-    "AMistakeIsBorn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Andy Harris", "show": "Roseanne", "trope_count": 4, "tropes": ["WhatHappenedToTheMouse", "GenerationXerox", "CampStraight", "AMistakeIsBorn"], "tropes_by_category": {}, "similar": [{"name": "Andy Harris", "show": "Conners, The", "id": "conners_the_andy_harris", "similarity": 1.0, "shared_tropes": 4}]}

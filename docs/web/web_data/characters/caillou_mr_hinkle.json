@@ -1,13 +1,1 @@
-{
-  "name": "Mr. Hinkle",
-  "show": "Caillou",
-  "trope_count": 5,
-  "tropes": [
-    "CoolOldGuy",
-    "ChuckCunninghamSyndrome",
-    "NiceGuy",
-    "IntergenerationalFriendship",
-    "LastNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Hinkle", "show": "Caillou", "trope_count": 5, "tropes": ["CoolOldGuy", "ChuckCunninghamSyndrome", "NiceGuy", "IntergenerationalFriendship", "LastNameBasis"], "tropes_by_category": {}, "similar": [{"name": "Chojiro Tokumatsu", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_chojiro_tokumatsu", "similarity": 0.08, "shared_tropes": 4}]}

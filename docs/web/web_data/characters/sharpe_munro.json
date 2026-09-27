@@ -1,18 +1,1 @@
-{
-  "name": "Munro",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "ChuckCunninghamSyndrome",
-    "AnythingButThat",
-    "CanonForeigner",
-    "DreadfulMusician",
-    "EvilLaugh",
-    "EarWorm",
-    "ManipulativeBastard",
-    "TeethClenchedTeamwork",
-    "Troll"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Munro", "show": "Sharpe", "trope_count": 10, "tropes": ["DeadpanSnarker", "ChuckCunninghamSyndrome", "AnythingButThat", "CanonForeigner", "DreadfulMusician", "EvilLaugh", "EarWorm", "ManipulativeBastard", "TeethClenchedTeamwork", "Troll"], "tropes_by_category": {}, "similar": [{"name": "Mr. Chang", "show": "Black Lagoon", "id": "black_lagoon_mr_chang", "similarity": 0.0471, "shared_tropes": 4}, {"name": "The Shredder", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_the_shredder", "similarity": 0.0396, "shared_tropes": 4}]}

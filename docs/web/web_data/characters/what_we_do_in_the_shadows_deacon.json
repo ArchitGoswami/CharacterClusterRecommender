@@ -1,16 +1,1 @@
-{
-  "name": "Deacon",
-  "show": "What We Do in the Shadows",
-  "trope_count": 8,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "Ghostapo",
-    "Jerkass",
-    "RetiredMonster",
-    "LazyBum",
-    "BadBoss",
-    "WouldntHurtAChild",
-    "TheCameo"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Deacon", "show": "What We Do in the Shadows", "trope_count": 8, "tropes": ["JerkWithAHeartOfGold", "Ghostapo", "Jerkass", "RetiredMonster", "LazyBum", "BadBoss", "WouldntHurtAChild", "TheCameo"], "tropes_by_category": {}, "similar": [{"name": "Robert", "show": "Cleveland Show, The", "id": "cleveland_show_the_robert", "similarity": 0.1905, "shared_tropes": 4}, {"name": "The Alpha", "show": "Red vs Blue", "id": "red_vs_blue_the_alpha", "similarity": 0.0532, "shared_tropes": 5}]}

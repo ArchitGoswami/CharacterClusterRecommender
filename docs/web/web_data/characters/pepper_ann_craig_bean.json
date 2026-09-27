@@ -1,13 +1,1 @@
-{
-  "name": "Craig Bean",
-  "show": "Pepper Ann",
-  "trope_count": 5,
-  "tropes": [
-    "OfficialCouple",
-    "NiceGuy",
-    "ShipTease",
-    "CoolShades",
-    "MadLibsCatchPhrase"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Craig Bean", "show": "Pepper Ann", "trope_count": 5, "tropes": ["OfficialCouple", "NiceGuy", "ShipTease", "CoolShades", "MadLibsCatchPhrase"], "tropes_by_category": {}, "similar": [{"name": "Cyclops", "show": "X-Men: Evolution", "id": "x_men_evolution_cyclops", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Arthur Timothy Read", "show": "Arthur", "id": "arthur_arthur_timothy_read", "similarity": 0.05, "shared_tropes": 4}]}

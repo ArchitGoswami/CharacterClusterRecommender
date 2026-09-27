@@ -1,17 +1,1 @@
-{
-  "name": "The Dark Ones",
-  "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 9,
-  "tropes": [
-    "TheManBehindTheMan",
-    "DeathWorld",
-    "TheCorrupter",
-    "EldritchAbomination",
-    "GreaterScopeVillain",
-    "BigRedDevil",
-    "BrightIsNotGood",
-    "TheLegionsOfHell",
-    "GodOfEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Dark Ones", "show": "Super Robot Monkey Team Hyperforce Go!", "trope_count": 9, "tropes": ["TheManBehindTheMan", "DeathWorld", "TheCorrupter", "EldritchAbomination", "GreaterScopeVillain", "BigRedDevil", "BrightIsNotGood", "TheLegionsOfHell", "GodOfEvil"], "tropes_by_category": {}, "similar": [{"name": "Chaos", "show": "Castlevania", "id": "castlevania_chaos", "similarity": 0.16, "shared_tropes": 4}, {"name": "Chthon", "show": "WandaVision", "id": "wandavision_chthon", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Trigon the Terrible", "show": "Teen Titans", "id": "teen_titans_trigon_the_terrible", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Dahak", "show": "Hercules: The Legendary Journeys", "id": "hercules_the_legendary_journeys_dahak", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Sigma", "show": "Red vs Blue", "id": "red_vs_blue_sigma", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Shuma-Gorath", "show": "WandaVision", "id": "wandavision_shuma_gorath", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Zorc Necrophades", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_zorc_necrophades", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Invictus", "show": "Final Space", "id": "final_space_invictus", "similarity": 0.0439, "shared_tropes": 5}]}

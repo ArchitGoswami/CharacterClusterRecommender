@@ -161,17 +161,19 @@
       "name": "Paris (Parapara)",
       "media_title": "Dinosaur King",
       "tropes": [
-        "GentleGiant",
-        "SummonBiggerFish",
-        "FourLegsGoodTwoLegsBetter",
-        "MakeSomeNoise",
-        "WhiteMagicianGirl",
-        "GreenThumb",
         "CuteButCacophonic",
+        "WhiteMagicianGirl",
+        "FourLegsGoodTwoLegsBetter",
+        "SocialOrnithopod",
+        "MakeSomeNoise",
+        "GlassCannon",
         "CharacterTic",
-        "GlassCannon"
+        "AquaticHadrosaurs",
+        "GreenThumb",
+        "SummonBiggerFish",
+        "GentleGiant"
       ],
-      "description": "A Parasaurolophus and Zoe's dinosaur partner through the story. Loves to sing and dance like her master. Character Tic: She likes to sing at all times (independently if it sounds good or not), a reference to the sounds the real Parasaurolophus made with its crest. Cute, but Cacophonic: Her singing usually can get annoying if she’s left unchecked. Four Legs Good, Two Legs Better: She is normally quadrupedal like the real Parasaurolophus was believed to have been, but she sometimes moves on two legs to move faster. Gentle Giant: She's the biggest dinosaur of the D-Team, but she's generally sweet and peaceful (though still a competent fighter).",
+      "description": "A Parasaurolophus and Zoe's dinosaur partner through the story. Loves to sing and dance like her master. Aquatic Hadrosaurs: Paris can sometimes be seen enjoying swimming in water. Character Tic: She likes to sing at all times (independently if it sounds good or not), a reference to the sounds the real Parasaurolophus made with its crest. Cute, but Cacophonic: Her singing usually can get annoying if she’s left unchecked. Four Legs Good, Two Legs Better: She is normally quadrupedal like the real Parasaurolophus was believed to have been, but she sometimes moves on two legs to move faster.",
       "source": "tvtropes"
     },
     {
@@ -237,23 +239,24 @@
       "name": "Zander (Noratty)",
       "media_title": "Dinosaur King",
       "tropes": [
-        "ManiacTongue",
-        "AdaptationalAttractiveness",
-        "SunglassesAtNight",
-        "AdaptationalVillainy",
-        "AdaptationalIntelligence",
-        "EvilLaugh",
-        "MadScientist",
-        "PunnyName",
-        "SignatureMon",
         "SmugSmiler",
-        "HeroKiller",
-        "HiddenDepths",
         "PlayingWithFire",
-        "LeanAndMean",
+        "HiddenDepths",
+        "HeroKiller",
+        "SignatureMon",
+        "VillainousCrush",
+        "AdaptationalIntelligence",
+        "AdaptationalVillainy",
+        "YoungerThanTheyLook",
         "ButtMonkey",
+        "PunnyName",
+        "MadScientist",
+        "SunglassesAtNight",
         "ThisCannotBe",
-        "VillainousCrush"
+        "LeanAndMean",
+        "EvilLaugh",
+        "AdaptationalAttractiveness",
+        "ManiacTongue"
       ],
       "description": "A member of the Alpha Trio. Very absent-minded and often comes with plans that tend to go very wrong. Has a crush on Zoe's sister Reese. Adaptational Attractiveness: The DS version makes several tweaks to his appearance that makes him more conventionally attractive; he is given a more defined and chiseled face, his hair line is sleeker, his sunglasses are more fashionable and his upturned collar is more prominent. Adaptational Intelligence: His anime counterpart is a moron and aButt-Monkey. His DS version, however, is shown to be much smarter and well versed in chemistry. Adaptational Villainy: In the DS game, he's more nefarious and cruel than his anime counterpart, at some point even stating he's creating a chemical so strong the people from the Gobi Village will never wake up from it. Evil Laugh: Loves to cackle maliciously in the DS game.",
       "source": "tvtropes"
@@ -388,21 +391,23 @@
       "name": "Tank (Saika)",
       "media_title": "Dinosaur King",
       "tropes": [
-        "RedemptionDemotion",
-        "HerbivoresAreFriendly",
-        "FlippingHelpless",
-        "TheSmurfettePrinciple",
-        "BeTheBall",
-        "ArtisticLicensePaleontology",
-        "DishingOutDirt",
         "NobodyHereButUsStatues",
+        "ActionGirl",
+        "RedemptionDemotion",
+        "PintSizedPowerhouse",
+        "BeTheBall",
+        "ElementalBarrier",
+        "HerbivoresAreFriendly",
+        "DishingOutDirt",
+        "FlippingHelpless",
+        "ArtisticLicensePaleontology",
+        "TheSmurfettePrinciple",
         "TertiarySexualCharacteristics",
-        "MeaningfulName",
         "TokenMinority",
         "ToughArmoredDinosaur",
-        "ElementalBarrier"
+        "MeaningfulName"
       ],
-      "description": "A Saichania who started out as a wild dinosaur activated in a museum in London only to be used as another dinosaur to fight for the Alpha Gang. Artistic License – Paleontology: Tank is much taller and wider than the real Saichania. She also possesses very pointy spikes across her body, even though a Saichania like her would have more rounded osteoderms covering her body. Be the Ball: In her chibi form, Tank can move herself around by curling her body into a ball like an armadillo. Dishing Out Dirt: As a thyreophoran, she uses earth-based movements. Elemental Barrier: Tank uses the move card Earth Barrier to slam into the ground so chunks of earth will be forced into the air and fuse into a protective glowing shield. Despite its effectiveness against Daspletosaurus's attack, this move card was only used once.",
+      "description": "A Saichania who started as a wild dinosaur activated in a museum in London, only to be used as another dinosaur to fight for the Alpha Gang. Action Girl: Tank is a female Saichania who is one of the Alpha Gang's main dinosaurs. Artistic License – Paleontology: Tank is much taller and wider than the real Saichania. She also possesses very pointy spikes across her body, even though a Saichania like her would have more rounded osteoderms covering her body. Be the Ball: In her chibi form, Tank can move herself around by curling her body into a ball like an armadillo. Dishing Out Dirt: As a thyreophoran, she uses earth-based movements.",
       "source": "tvtropes"
     },
     {
@@ -487,13 +492,6 @@
         "Irony"
       ],
       "description": "The third and last of the Space Pirates to appear, also the only female of the group. Very beautiful, but with a wicked heart. She's the most competent of the trio. Acrophobic Bird: Despite having wings and flying rather high above the ground, Shear is apparently afraid of heights. This could be interpreted as Shear simply being afraid of falling from great heights though. Battle Boomerang: Her main weapon is a sharp-edged crescent boomerang she uses both for offense and retrieve objects. Dark Action Girl: Unlike other villains from the anime, she actually gets involved in a fight against Foolscap in the 64th episode after believing to be a kunoichi following the loss of her memories. Easy Amnesia: In the Ancient Japan arc, she loses her memories after being slammed into a tree by her own Gojirasaurus (thrown by Ace) and is taken by a kunoichi quartet serving Shingen Takeda. They make her believe she's one of them and joins them, fighting against her former allies and the D-Team through the arc. She recovers her memories after a similar process (involving one of her Deinonychus) and returns to the Space Pirates with the White Cosmos Stone.",
-      "source": "tvtropes"
-    },
-    {
-      "name": "Seth (Nopis)",
-      "media_title": "Dinosaur King",
-      "tropes": [],
-      "description": "A former member of the Alpha Gang, joins the Space Pirates after being defeated at the end of the first season. For more information, see his entries in theAlpha Gangfolder.",
       "source": "tvtropes"
     },
     {
@@ -955,7 +953,62 @@
       ],
       "description": "Gold-Colored Superiority: All the Secret dinosaurs have bright gold cards and are considerably more powerful than most average unaltered dinosaurs. Light 'em Up: Though not all Secret dinosaurs are associated with light, they are represented by a rainbow, their cards are activated with light and their attacks tend to have some light power associated to them. Rainbow Motif: Unlike other dinosaurs, they are associated with the rainbow instead of a single color, as seen in their symbol and their attacks. Headbutting Pachy: While Pachycephalosaurus never butts heads with another Pachy, his dome is the main source of his power, which he uses to ram things with. Heroic RRoD: It's not defeated in battle, but rather he turns back into a card from exhaustion after using its remaining energies to pull one last attack to the sun.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Dinosaur King",
+      "tropes": [
+        "TerrifyingTyrannosaur",
+        "VilerNewVillain",
+        "TheAce",
+        "KnightOfCerebus",
+        "WingedHumanoid",
+        "TeethClenchedTeamwork",
+        "OddlySmallOrganization",
+        "AliensAreBastards",
+        "ArsonMurderAndJaywalking",
+        "TemperCeratops",
+        "FlatCharacter",
+        "InstantArmor",
+        "WhatHappenedToTheMouse",
+        "TheHeavy",
+        "TooPowerfulToLive",
+        "PointyEars",
+        "TerribleTrio",
+        "AndIMustScream",
+        "MysteriousPast",
+        "AmazingTechnicolorPopulation",
+        "SignatureMon",
+        "BigBad",
+        "ChromaticArrangement",
+        "ToughArmoredDinosaur",
+        "SpacePirates",
+        "TheStoic"
+      ],
+      "description": "Aliens Are Bastards: A group of humanoid extraterrestrials that want to conquer space and time with the power of the Cosmos Stones. Amazing Technicolor Population: Among other characteristics, to show they aren't humans, they have non-human skin color. Spectre is green, Gabbro red and Foolscap blue, while Shear's skin is unnaturally white. And I Must Scream: At the end of the second season, they all survive the collision between the Dark Pterosaur and the combination of the Backlander fused with the Pterosaur's power, but end confined to a pod of their ship, forever condemned to spend the eternity drifting through the space, and, worse of all,listening to Spectre's singing. Chromatic Arrangement: Gabbro, Foolscap and Shear. Each one is associated with one of the primary colors; Gabbro with red (red skin, hair and wings), Foolscap with blue (blue hair and wings) and Shear with yellow (yellow bow and wings). This is not random, as each represents one of the colors of the Rock-Paper-Scissors signs that theDinosaur Kingarcade uses (Gabbro-Rock-Red, Foolscap-Paper-Blue, Shear-Scissors-Yellow). Additionally, each one of their signature dinosaurs belongs to the sign they symbolize (Gigas-Rock, Armatus-Paper, Maximus-Yellow). Flat Character: Contrary to the rest of the main dinosaurs (includingBrontikens),Gigas,ArmatusandMaximusbarely display any personality and are basically used as glorified weapons by their owners.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gōma",
+      "media_title": "Dinosaur King",
+      "tropes": [
+        "WingedHumanoid",
+        "BlackEyesOfCrazy",
+        "OverlordJr",
+        "GoldColoredSuperiority",
+        "HotBlooded",
+        "TrueFinalBoss",
+        "VictoryFakeout",
+        "ArrogantKungFuGuy",
+        "ShadowArchetype",
+        "PowerGlows",
+        "AlternateContinuity",
+        "MeaningfulName",
+        "NoExportForYou"
+      ],
+      "description": "Arrogant Dinosaur Tamer Guy: His only MO seems to be to crush the D-Team to prove that he's the strongest in the universe. Black Eyes of Crazy: Runs in the family. Gold-Colored Superiority: Wears more gold than any of the other Space Pirates. He's the strongest of them.Definatelyapplies to his Eocarcharia after activating Spectral Armor Omega. Meaningful Name: From the Japanese \"gōman,\" meaningarrogant, and \"mago,\" meaninggrandchild. Goma with a shorter \"o\" sound also means \"sesame seed,\" which the white in his hair resembles. Overlord Jr.: Spectre's grandson, and just as evil.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 39
+  "character_count": 40
 }

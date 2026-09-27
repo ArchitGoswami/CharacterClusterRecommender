@@ -1,12 +1,1 @@
-{
-  "name": "Belinda",
-  "show": "Fleabag",
-  "trope_count": 4,
-  "tropes": [
-    "HonestCorporateExecutive",
-    "YoureNotMyType",
-    "AmbiguouslyBi",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Belinda", "show": "Fleabag", "trope_count": 4, "tropes": ["HonestCorporateExecutive", "YoureNotMyType", "AmbiguouslyBi", "NiceGirl"], "tropes_by_category": {}, "similar": []}

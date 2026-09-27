@@ -1,16 +1,1 @@
-{
-  "name": "Hissy",
-  "show": "Puppy Dog Pals",
-  "trope_count": 8,
-  "tropes": [
-    "OnlySaneWoman",
-    "JerkWithAHeartOfGold",
-    "AmazingTechnicolorWildlife",
-    "CatsAreSnarkers",
-    "CoolBigSis",
-    "OutOfFocus",
-    "TuftOfHeadFur",
-    "CatsHateWater"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hissy", "show": "Puppy Dog Pals", "trope_count": 8, "tropes": ["OnlySaneWoman", "JerkWithAHeartOfGold", "AmazingTechnicolorWildlife", "CatsAreSnarkers", "CoolBigSis", "OutOfFocus", "TuftOfHeadFur", "CatsHateWater"], "tropes_by_category": {}, "similar": [{"name": "Emily the Stirling Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_emily_the_stirling_engine", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Luna", "show": "Sailor Moon", "id": "sailor_moon_luna", "similarity": 0.0471, "shared_tropes": 4}]}

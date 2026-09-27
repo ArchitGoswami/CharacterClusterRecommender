@@ -1,17 +1,1 @@
-{
-  "name": "Bose O'Brian/ Brain Storm",
-  "show": "Danger Force",
-  "trope_count": 9,
-  "tropes": [
-    "ChickMagnet",
-    "MindOverMatter",
-    "TheDitz",
-    "ShipTease",
-    "ColorCodedCharacters",
-    "PowerStereotypeFlip",
-    "LongHairedPrettyBoy",
-    "FourTemperamentEnsemble",
-    "SheIsNotMyGirlfriend"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bose O'Brian/ Brain Storm", "show": "Danger Force", "trope_count": 9, "tropes": ["ChickMagnet", "MindOverMatter", "TheDitz", "ShipTease", "ColorCodedCharacters", "PowerStereotypeFlip", "LongHairedPrettyBoy", "FourTemperamentEnsemble", "SheIsNotMyGirlfriend"], "tropes_by_category": {}, "similar": [{"name": "Robin I / Nightwing", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_robin_i_nightwing", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Michael Kelso", "show": "That '70s Show", "id": "that_70s_show_michael_kelso", "similarity": 0.0455, "shared_tropes": 4}]}

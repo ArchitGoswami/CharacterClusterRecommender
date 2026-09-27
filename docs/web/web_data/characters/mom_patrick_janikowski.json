@@ -1,14 +1,1 @@
-{
-  "name": "Patrick Janikowski",
-  "show": "Mom",
-  "trope_count": 6,
-  "tropes": [
-    "AwLookTheyReallyDoLoveEachOther",
-    "Jerkass",
-    "ReplacementFlatCharacter",
-    "GreenEyedMonster",
-    "Hypocrite",
-    "WeUsedToBeFriends"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Patrick Janikowski", "show": "Mom", "trope_count": 6, "tropes": ["AwLookTheyReallyDoLoveEachOther", "Jerkass", "ReplacementFlatCharacter", "GreenEyedMonster", "Hypocrite", "WeUsedToBeFriends"], "tropes_by_category": {}, "similar": [{"name": "Flash Thompson", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_flash_thompson", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Lois", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_lois", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Patty and Selma Bouvier", "show": "Simpsons,The", "id": "simpsonsthe_patty_and_selma_bouvier", "similarity": 0.043, "shared_tropes": 4}, {"name": "Patty and Selma Bouvier", "show": "The Simpsons", "id": "the_simpsons_patty_and_selma_bouvier", "similarity": 0.043, "shared_tropes": 4}, {"name": "South Dakota", "show": "Red vs Blue", "id": "red_vs_blue_south_dakota", "similarity": 0.0412, "shared_tropes": 4}]}

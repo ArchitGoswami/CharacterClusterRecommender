@@ -1,14 +1,1 @@
-{
-  "name": "Lieutenant Pearson",
-  "show": "Miami Vice",
-  "trope_count": 6,
-  "tropes": [
-    "Jerkass",
-    "KarmaHoudini",
-    "UnderestimatingBadassery",
-    "IdiotBall",
-    "ActuallyPrettyFunny",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lieutenant Pearson", "show": "Miami Vice", "trope_count": 6, "tropes": ["Jerkass", "KarmaHoudini", "UnderestimatingBadassery", "IdiotBall", "ActuallyPrettyFunny", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Jimmy \"The Gent\" Conway", "show": "Goodfellas", "id": "goodfellas_jimmy_the_gent_conway", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Nozel Silva", "show": "Black Clover", "id": "black_clover_nozel_silva", "similarity": 0.0482, "shared_tropes": 4}]}

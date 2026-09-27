@@ -1,15 +1,1 @@
-{
-  "name": "Tess Harding",
-  "show": "Roswell",
-  "trope_count": 7,
-  "tropes": [
-    "ReincarnationRomance",
-    "KilledOffForReal",
-    "MasterOfIllusion",
-    "DudeMagnet",
-    "HandsOffParenting",
-    "EveryoneLovesBlondes",
-    "NewTransferStudent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tess Harding", "show": "Roswell", "trope_count": 7, "tropes": ["ReincarnationRomance", "KilledOffForReal", "MasterOfIllusion", "DudeMagnet", "HandsOffParenting", "EveryoneLovesBlondes", "NewTransferStudent"], "tropes_by_category": {}, "similar": [{"name": "Jennifer \"Jen\" Lindley", "show": "Dawson's Creek", "id": "dawsons_creek_jennifer_jen_lindley", "similarity": 0.087, "shared_tropes": 4}]}

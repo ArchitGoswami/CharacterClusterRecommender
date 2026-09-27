@@ -1,14 +1,1 @@
-{
-  "name": "Al Large",
-  "show": "Doc Martin",
-  "trope_count": 6,
-  "tropes": [
-    "RunningGag",
-    "FatAndSkinny",
-    "OnlySaneMan",
-    "FatIdiot",
-    "StraightMan",
-    "MamasBabyPapasMaybe"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Al Large", "show": "Doc Martin", "trope_count": 6, "tropes": ["RunningGag", "FatAndSkinny", "OnlySaneMan", "FatIdiot", "StraightMan", "MamasBabyPapasMaybe"], "tropes_by_category": {}, "similar": [{"name": "Jerry Seinfeld", "show": "Seinfeld", "id": "seinfeld_jerry_seinfeld", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Muriel Bagge", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_muriel_bagge", "similarity": 0.0455, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Cappuccino",
-  "show": "Kipo and the Age of Wonderbeasts",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "HeelRealization",
-    "RuleOfThree",
-    "KnowledgeBroker",
-    "LargeAndInCharge",
-    "WouldHurtAChild",
-    "FantasticRacism",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cappuccino", "show": "Kipo and the Age of Wonderbeasts", "trope_count": 8, "tropes": ["HeelFaceTurn", "HeelRealization", "RuleOfThree", "KnowledgeBroker", "LargeAndInCharge", "WouldHurtAChild", "FantasticRacism", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Valerie Gray", "show": "Danny Phantom", "id": "danny_phantom_valerie_gray", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Scarlemagne", "show": "Kipo and the Age of Wonderbeasts", "id": "kipo_and_the_age_of_wonderbeasts_scarlemagne", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Jet", "show": "Avatar: The Last Airbender", "id": "avatar_the_last_airbender_jet", "similarity": 0.0367, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Chaz Finster",
-  "show": "All Grown Up",
-  "trope_count": 10,
-  "tropes": [
-    "AmusingInjuries",
-    "NerdGlasses",
-    "HappilyMarried",
-    "ButtMonkey",
-    "UglyGuyHotWife",
-    "BumblingDad",
-    "TheLadette",
-    "DemotedToExtra",
-    "AscendedExtra",
-    "CrackOhMyBack"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chaz Finster", "show": "All Grown Up", "trope_count": 10, "tropes": ["AmusingInjuries", "NerdGlasses", "HappilyMarried", "ButtMonkey", "UglyGuyHotWife", "BumblingDad", "TheLadette", "DemotedToExtra", "AscendedExtra", "CrackOhMyBack"], "tropes_by_category": {}, "similar": [{"name": "Walter Nichols", "show": "Drake & Josh", "id": "drake_and_josh_walter_nichols", "similarity": 0.2, "shared_tropes": 5}, {"name": "Audrey Parker-Nichols", "show": "Drake & Josh", "id": "drake_and_josh_audrey_parker_nichols", "similarity": 0.1923, "shared_tropes": 5}, {"name": "Willie Tanner", "show": "ALF", "id": "alf_willie_tanner", "similarity": 0.1923, "shared_tropes": 5}, {"name": "James Lafayette Jr.", "show": "Moon Girl & Devil Dinosaur", "id": "moon_girl_and_devil_dinosaur_james_lafayette_jr", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Jacob", "show": "Trailer Park Boys", "id": "trailer_park_boys_jacob", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Lucky Piquel", "show": "Bonkers", "id": "bonkers_lucky_piquel", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Donnie Hendrix", "show": "Orphan Black", "id": "orphan_black_donnie_hendrix", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Charles \"Chas\" Finster", "show": "Rugrats", "id": "rugrats_charles_chas_finster", "similarity": 0.0984, "shared_tropes": 6}]}

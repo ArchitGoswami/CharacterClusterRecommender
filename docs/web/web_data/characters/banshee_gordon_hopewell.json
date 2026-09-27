@@ -1,17 +1,1 @@
-{
-  "name": "Gordon Hopewell",
-  "show": "Banshee",
-  "trope_count": 9,
-  "tropes": [
-    "TheReveal",
-    "IWantMyBelovedToBeHappy",
-    "DyingMomentOfAwesome",
-    "AlcoholicParent",
-    "ReasonableAuthorityFigure",
-    "TookALevelInJerkass",
-    "BumblingDad",
-    "RetiredBadass",
-    "LetsGetDangerous"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gordon Hopewell", "show": "Banshee", "trope_count": 9, "tropes": ["TheReveal", "IWantMyBelovedToBeHappy", "DyingMomentOfAwesome", "AlcoholicParent", "ReasonableAuthorityFigure", "TookALevelInJerkass", "BumblingDad", "RetiredBadass", "LetsGetDangerous"], "tropes_by_category": {}, "similar": [{"name": "Death / Shinigami", "show": "Soul Eater", "id": "soul_eater_death_shinigami", "similarity": 0.0506, "shared_tropes": 4}]}

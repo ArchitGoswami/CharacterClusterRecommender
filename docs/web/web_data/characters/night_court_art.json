@@ -1,12 +1,1 @@
-{
-  "name": "Art",
-  "show": "Night Court",
-  "trope_count": 4,
-  "tropes": [
-    "MrFixit",
-    "BerserkButton",
-    "ADayInTheLimelight",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Art", "show": "Night Court", "trope_count": 4, "tropes": ["MrFixit", "BerserkButton", "ADayInTheLimelight", "ButtMonkey"], "tropes_by_category": {}, "similar": []}

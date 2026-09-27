@@ -1,17 +1,1 @@
-{
-  "name": "Bobby Ewing",
-  "show": "Dallas",
-  "trope_count": 9,
-  "tropes": [
-    "ImpliedDeathThreat",
-    "Retcon",
-    "PetTheDog",
-    "MrFanservice",
-    "HappilyMarried",
-    "ActionHero",
-    "HiddenDepths",
-    "BewareTheNiceOnes",
-    "EightiesHair"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bobby Ewing", "show": "Dallas", "trope_count": 9, "tropes": ["ImpliedDeathThreat", "Retcon", "PetTheDog", "MrFanservice", "HappilyMarried", "ActionHero", "HiddenDepths", "BewareTheNiceOnes", "EightiesHair"], "tropes_by_category": {}, "similar": [{"name": "Barry Allen", "show": "Flash, The", "id": "flash_the_barry_allen", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Barry Allen", "show": "The Flash", "id": "the_flash_barry_allen", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Human Characters", "show": "Pee-wee's Playhouse", "id": "pee_wees_playhouse_human_characters", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Noriaki Kakyoin", "show": "JoJo's Bizarre Adventure", "id": "jojos_bizarre_adventure_noriaki_kakyoin", "similarity": 0.0382, "shared_tropes": 5}, {"name": "The Huntsman (Huntsmaster)", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_the_huntsman_huntsmaster", "similarity": 0.037, "shared_tropes": 4}, {"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.036, "shared_tropes": 4}]}

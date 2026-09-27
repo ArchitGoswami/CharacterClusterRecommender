@@ -1,18 +1,1 @@
-{
-  "name": "Lazy Linda",
-  "show": "Horrid Henry",
-  "trope_count": 10,
-  "tropes": [
-    "AsleepInClass",
-    "OnlySaneWoman",
-    "NotSoAboveItAll",
-    "BrainyBrunette",
-    "LikeIsLikeAComma",
-    "MessyHair",
-    "BrilliantButLazy",
-    "LazyBum",
-    "SingleMindedTwins",
-    "ValleyGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lazy Linda", "show": "Horrid Henry", "trope_count": 10, "tropes": ["AsleepInClass", "OnlySaneWoman", "NotSoAboveItAll", "BrainyBrunette", "LikeIsLikeAComma", "MessyHair", "BrilliantButLazy", "LazyBum", "SingleMindedTwins", "ValleyGirl"], "tropes_by_category": {}, "similar": [{"name": "Daria Morgendorffer", "show": "Daria", "id": "daria_daria_morgendorffer", "similarity": 0.0374, "shared_tropes": 4}]}

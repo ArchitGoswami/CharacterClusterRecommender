@@ -1,11 +1,1 @@
-{
-  "name": "Winkle",
-  "show": "Nate is Late",
-  "trope_count": 3,
-  "tropes": [
-    "TiredOfRunning",
-    "NiceJobBreakingItHero",
-    "CowardlyLion"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Winkle", "show": "Nate is Late", "trope_count": 3, "tropes": ["TiredOfRunning", "NiceJobBreakingItHero", "CowardlyLion"], "tropes_by_category": {}, "similar": []}

@@ -1,13 +1,1 @@
-{
-  "name": "Mr Morris",
-  "show": "Friday Night Dinner",
-  "trope_count": 5,
-  "tropes": [
-    "HatedByAll",
-    "NeverMyFault",
-    "GrumpyOldMan",
-    "LetsYouAndHimFight",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr Morris", "show": "Friday Night Dinner", "trope_count": 5, "tropes": ["HatedByAll", "NeverMyFault", "GrumpyOldMan", "LetsYouAndHimFight", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": []}

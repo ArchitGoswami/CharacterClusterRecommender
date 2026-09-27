@@ -1,14 +1,1 @@
-{
-  "name": "Lord Skurgg",
-  "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 6,
-  "tropes": [
-    "HeelFaceTurn",
-    "EvilOverlord",
-    "AssholeVictim",
-    "SpikesOfVillainy",
-    "HoistByHisOwnPetard",
-    "RedEyesTakeWarning"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lord Skurgg", "show": "Super Robot Monkey Team Hyperforce Go!", "trope_count": 6, "tropes": ["HeelFaceTurn", "EvilOverlord", "AssholeVictim", "SpikesOfVillainy", "HoistByHisOwnPetard", "RedEyesTakeWarning"], "tropes_by_category": {}, "similar": [{"name": "\"Mayhem\"", "show": "Transformers, The", "id": "transformers_the_mayhem", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Gigan", "show": "Godzilla", "id": "godzilla_gigan", "similarity": 0.0354, "shared_tropes": 4}]}

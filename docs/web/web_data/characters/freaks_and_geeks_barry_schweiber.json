@@ -1,16 +1,1 @@
-{
-  "name": "Barry Schweiber",
-  "show": "Freaks and Geeks",
-  "trope_count": 8,
-  "tropes": [
-    "TemporaryLoveInterest",
-    "TheCasanova",
-    "DeadpanSnarker",
-    "YiddishAsASecondLanguage",
-    "BigBrotherMentor",
-    "ConspiracyTheorist",
-    "NiceJewishBoy",
-    "CoolBigBro"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Barry Schweiber", "show": "Freaks and Geeks", "trope_count": 8, "tropes": ["TemporaryLoveInterest", "TheCasanova", "DeadpanSnarker", "YiddishAsASecondLanguage", "BigBrotherMentor", "ConspiracyTheorist", "NiceJewishBoy", "CoolBigBro"], "tropes_by_category": {}, "similar": [{"name": "Beck Oliver", "show": "Victorious", "id": "victorious_beck_oliver", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Sprx", "show": "Super Robot Monkey Team Hyperforce Go!", "id": "super_robot_monkey_team_hyperforce_go_sprx", "similarity": 0.037, "shared_tropes": 4}, {"name": "\" 62 Truck\"/The Crew", "show": "Rescue Me", "id": "rescue_me_62_truck_the_crew", "similarity": 0.0351, "shared_tropes": 4}]}

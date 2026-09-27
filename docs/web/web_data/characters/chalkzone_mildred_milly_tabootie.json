@@ -1,14 +1,1 @@
-{
-  "name": "Mildred \"Milly\" Tabootie",
-  "show": "ChalkZone",
-  "trope_count": 6,
-  "tropes": [
-    "WomenAreWiser",
-    "Catchphrase",
-    "ChildhoodFriendRomance",
-    "ChubbyMamaSkinnyPapa",
-    "HappilyMarried",
-    "GoodParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mildred \"Milly\" Tabootie", "show": "ChalkZone", "trope_count": 6, "tropes": ["WomenAreWiser", "Catchphrase", "ChildhoodFriendRomance", "ChubbyMamaSkinnyPapa", "HappilyMarried", "GoodParents"], "tropes_by_category": {}, "similar": [{"name": "Joseph Walter \"Joe\" Tabootie", "show": "ChalkZone", "id": "chalkzone_joseph_walter_joe_tabootie", "similarity": 0.3333, "shared_tropes": 4}, {"name": "Pebbles Flintstone-Rubble", "show": "Flintstones,The", "id": "flintstonesthe_pebbles_flintstone_rubble", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Peggy Hill", "show": "King of the Hill", "id": "king_of_the_hill_peggy_hill", "similarity": 0.0426, "shared_tropes": 4}]}

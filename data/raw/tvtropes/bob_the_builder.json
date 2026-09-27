@@ -42,55 +42,62 @@
       "name": "Bob the Builder",
       "media_title": "Bob the Builder",
       "tropes": [
-        "TheKlutz",
-        "NiceGuy",
-        "LethalChef",
-        "BrokenTears",
+        "ICantDance",
         "OnlyOneName",
-        "AllLovingHero",
+        "ShipTease",
+        "DreadfulMusician",
+        "GenerationXerox",
+        "OfficialCouple",
+        "BrokenTears",
+        "AlliterativeName",
+        "AffectionateNickname",
+        "CurtainsMatchTheWindow",
+        "PrimaryColorChampion",
+        "OOCIsSeriousBusiness",
+        "BenevolentBoss",
+        "LethalChef",
+        "HopelessWithTech",
+        "BrainyBrunette",
+        "Catchphrase",
         "MarriedToTheJob",
         "ImageSong",
         "DubNameChange",
-        "RoughOveralls",
-        "TeamDad",
-        "HopelessWithTech",
-        "DreadfulMusician",
-        "RoundedCharacter",
-        "ShipTease",
-        "GenerationXerox",
+        "TrademarkFavoriteFood",
+        "NiceGuy",
         "StrongFamilyResemblance",
-        "ICantDance",
-        "PapaWolf",
-        "OfficialCouple",
-        "Catchphrase",
-        "BenevolentBoss",
-        "DayInTheLife",
-        "AffectionateNickname",
         "MrFixIt",
-        "OOCIsSeriousBusiness",
-        "AlliterativeName",
-        "TrademarkFavoriteFood"
+        "RoughOveralls",
+        "AllLovingHero",
+        "DayInTheLife",
+        "RoundedCharacter",
+        "TheKlutz",
+        "TeamDad",
+        "PapaWolf"
       ],
-      "description": "Affectionate Nickname: His parents call him \"Bobby\". Alliterative Name:Bob theBuilder. All-Loving Hero: He's very kind and loving to everyone around him, even his machines, whom he cares for greatly. Broken Tears: During the Christmas special. After a long day of doing chores for the mayor, Bob finds out his brother Tom *won’t* be visiting him for Christmas and has a moment of genuine sadness. Catchphrase:“Right team, can we fix it?” in the stop-motion series.In the 2015 reboot, this is altered to “Can we build it?”.“Morning, team!” in Ready, Steady, Build!.",
+      "description": "Affectionate Nickname: His parents call him \"Bobby\". Alliterative Name:Bob theBuilder. All-Loving Hero: He's very kind and loving to everyone around him, even his machines, whom he cares for greatly. Brainy Brunette: He has brown hair and is smart and intelligent. Broken Tears: During the Christmas special. After a long day of doing chores for the mayor, Bob finds out his brother Tomwon’tbe visiting him for Christmas and has a moment of genuine sadness.",
       "source": "tvtropes"
     },
     {
       "name": "Wendy",
       "media_title": "Bob the Builder",
       "tropes": [
-        "Catchphrase",
-        "TeamMom",
-        "CostumeEvolution",
-        "TomboyAndGirlyGirl",
-        "HairOfGoldHeartOfGold",
+        "TomboyishPonytail",
         "TomboyWithAGirlyStreak",
         "MrFixIt",
+        "CostumeEvolution",
+        "AmbiguouslyAbsentParent",
         "ImageSong",
+        "Tomboy",
+        "Tuckerization",
+        "HairOfGoldHeartOfGold",
+        "DubNameChange",
+        "CharacterizationMarchesOn",
         "ImpliedLoveInterest",
-        "TomboyishPonytail",
-        "CharacterizationMarchesOn"
+        "TeamMom",
+        "Catchphrase",
+        "TomboyAndGirlyGirl"
       ],
-      "description": "Catchphrase: “Okay team, you heard Bob: let's get to work!” in the reboot. Characterization Marches On: Wendy wasn't a builder originally, acting solely as Bob's secretary. Starting in the second series, she was shown doing construction work with Bob and the machines, with her secretary role being discarded as the season went on. Costume Evolution: She wore a green checkered suit jacket, a short-sleeved light blue shirt, white scarf and red skirt in the first series and early in the second, reflecting her initial secretary role. In \"Lofty to the Rescue\" she trades in her skirt for blue jeans and midway through Series 2 discards the jacket and scarf as she becomes a builder, with her shirt being long-sleeved starting in \"Tea Set Travis\" (which has her old jacket being recycled). From Series 3 on her shirt becomes green and she only wears her formal outfit on days off or special occasions until it's phased out in Series 6. Hair of Gold, Heart of Gold: She has blonde hair and is very loving. Image Song:\"Blonde Haired Gal in a Hard Hat\"for the classic series and for Project: Build It,\"Hey Wendy\"and“Picking Up The Pieces”. Ready, Steady, Build! made a short US dubnotehttps://www.youtube.com/watch?v=u18K_eYL3hQof the latter song.",
+      "description": "Ambiguously Absent Parent: It is unknown if her parents are still alive or make an appearance. Catchphrase: “Okay, team, you heard Bob! Let's get to work!” in the reboot. Characterization Marches On: Wendy wasn't a builder originally, acting solely as Bob's secretary. Starting in the second series, she was shown doing construction work with Bob and the machines, with her secretary role being discarded as the season went on. Costume Evolution: She wore a green checkered suit jacket, a short-sleeved light blue shirt, white scarf and red skirt in the first series and early in the second, reflecting her initial secretary role. In \"Lofty to the Rescue\" she trades in her skirt for blue jeans and midway through Series 2 discards the jacket and scarf as she becomes a builder, with her shirt being long-sleeved starting in \"Tea Set Travis\" (which has her old jacket being recycled). From Series 3 on her shirt becomes green and she only wears her formal outfit on days off or special occasions until it's phased out in Series 6. Dub Name Change: In France, her name is Zoé",
       "source": "tvtropes"
     },
     {
@@ -140,21 +147,22 @@
       "name": "Lofty",
       "media_title": "Bob the Builder",
       "tropes": [
-        "OddReactionOut",
-        "ShesAManInJapan",
-        "Catchphrase",
-        "CowardlySidekick",
-        "EekAMouse",
-        "StumblingInTheNewForm",
-        "LovableCoward",
-        "ShrinkingViolet",
         "HiddenDepths",
-        "AdaptationalPersonalityChange",
-        "CryingCritters",
+        "ShrinkingViolet",
+        "MasterOfNone",
         "ImageSong",
-        "WhyDidItHaveToBeSnakes",
+        "EekAMouse",
+        "ShesAManInJapan",
         "BlueIsHeroic",
-        "MasterOfNone"
+        "CryingCritters",
+        "StumblingInTheNewForm",
+        "AdaptationalPersonalityChange",
+        "CowardlySidekick",
+        "OddReactionOut",
+        "Catchphrase",
+        "GentleGiant",
+        "LovableCoward",
+        "WhyDidItHaveToBeSnakes"
       ],
       "description": "Adaptational Personality Change: In the 2015 reboot, he is much more confident, sarcastic, and somewhat bossy. Blue Is Heroic: Painted blue, and has saved the day on multiple occasions. Catchphrase:\"Uh, yeah, I think so!\" in the original.\"It's a good job done.\" in the reboot. \"Uh, yeah, I think so!\" in the original. \"It's a good job done.\" in the reboot.",
       "source": "tvtropes"
@@ -163,20 +171,23 @@
       "name": "Roley",
       "media_title": "Bob the Builder",
       "tropes": [
-        "TheReliableOne",
-        "Catchphrase",
-        "IAmNotWeasel",
-        "CharacterTics",
-        "ThePerfectionist",
-        "MellowFellow",
-        "YouDontLookLikeYou",
-        "AdaptationalPersonalityChange",
-        "ImageSong",
-        "PerpetualFrowner",
-        "DemotedToExtra",
         "FriendToAllLivingThings",
+        "HiddenDepths",
+        "IAmNotWeasel",
+        "PerpetualFrowner",
+        "YouDontLookLikeYou",
+        "ImageSong",
+        "DemotedToExtra",
+        "OpenMouthInsertFoot",
+        "SpeaksFluentAnimal",
+        "ShesAManInJapan",
         "CharacterizationMarchesOn",
-        "ShesAManInJapan"
+        "TheReliableOne",
+        "AdaptationalPersonalityChange",
+        "CharacterTics",
+        "Catchphrase",
+        "ThePerfectionist",
+        "MellowFellow"
       ],
       "description": "Adaptational Personality Change: In the 2015 reboot, he is a huge perfectionist. Catchphrase:\"Rock and roll!\" in the original.“The tarmac is flat!” in the reboot. \"Rock and roll!\" in the original. “The tarmac is flat!” in the reboot. Characterization Marches On: In the early episodes, Roley was more chilled and easy-going.",
       "source": "tvtropes"
@@ -185,18 +196,19 @@
       "name": "Dizzy",
       "media_title": "Bob the Builder",
       "tropes": [
-        "ShesAManInJapan",
-        "Catchphrase",
-        "TheBabyOfTheBunch",
-        "TheSmurfettePrinciple",
-        "CommonalityConnection",
-        "GenkiGirl",
         "KidAppealCharacter",
-        "TheCutie",
+        "PluckyComicRelief",
+        "GenkiGirl",
         "ImageSong",
         "DemotedToExtra",
-        "PluckyComicRelief",
-        "CheerfulChild"
+        "VibrantOrange",
+        "CheerfulChild",
+        "ShesAManInJapan",
+        "TheBabyOfTheBunch",
+        "TheCutie",
+        "TheSmurfettePrinciple",
+        "Catchphrase",
+        "CommonalityConnection"
       ],
       "description": "The Baby of the Bunch: She's the youngest of the Can-Do Crew. Catchphrase:“I can mix it!” and “Brilliant!” in the original.“Pour to perfection!” in the reboot. “I can mix it!” and “Brilliant!” in the original. “Pour to perfection!” in the reboot. Commonality Connection: She and Roley are good friends because they both like music.",
       "source": "tvtropes"
@@ -205,18 +217,19 @@
       "name": "Pilchard",
       "media_title": "Bob the Builder",
       "tropes": [
-        "PredatorPreyFriendship",
         "AmazingTechnicolorWildlife",
-        "ActionPet",
-        "AmplifiedAnimalAptitude",
-        "SpoiledBrat",
-        "PawprintStamping",
-        "PetContestEpisode",
-        "CatsAreMean",
+        "PredatorPreyFriendship",
         "AMouseNamedMozzarella",
-        "UnderestimatingIntelligence",
+        "PawprintStamping",
         "ImageSong",
-        "TeamPet"
+        "CatsAreMean",
+        "ActionPet",
+        "TeamPet",
+        "ShesAManInJapan",
+        "SpoiledBrat",
+        "UnderestimatingIntelligence",
+        "AmplifiedAnimalAptitude",
+        "PetContestEpisode"
       ],
       "description": "Action Pet: On occasion, goes above and beyond the responsibilities of a simple house cat. A notable example is during “Pilchard’s Pets,” when she helps herd all of the freed animals in the new petting zoo. Amazing Technicolor Wildlife: Pilchard is a blue cat. Amplified Animal Aptitude: With a few notable exceptions, she is usually able to communicate her needs and emotions with Bob and the crew. Cats Are Mean: Downplayed, Pilchard can sometimes get up to mischief, but she never deliberately tries to interfere with Bob & the team. Image Song:Find That Cat",
       "source": "tvtropes"
@@ -754,10 +767,11 @@
       "name": "Mr. Adams",
       "media_title": "Bob the Builder",
       "tropes": [
+        "OneShotCharacter",
         "NoFullNameGiven",
-        "OneShotCharacter"
+        "ArcVillain"
       ],
-      "description": "Arc Villian: Of \"Bob's Big Plan\". Unlike most examples, he doesn't act antagonistic towards Bob at any point in the special. One-Shot Character: Only appears in “Bob’s Big Plan”, theProject: Build Itera's pilot episode.",
+      "description": "Arc Villain: Of \"Bob's Big Plan\". Unlike most examples, he doesn't act antagonistic towards Bob at any point in the special. One-Shot Character: Only appears in “Bob’s Big Plan”, theProject: Build Itera's pilot episode.",
       "source": "tvtropes"
     },
     {
@@ -1022,9 +1036,10 @@
       "name": "Dodger",
       "media_title": "Bob the Builder",
       "tropes": [
-        "Catchphrase"
+        "Catchphrase",
+        "FurPatternNaming"
       ],
-      "description": "Catchphrase: “Dodger delivers!”",
+      "description": "Catchphrase: “Dodger delivers!” Fur Pattern Naming: His name and blue and white livery are possibly references to the Los Angeles Dodgers, an AmericanMajor League Baseball teamwhose colors are blue and white.",
       "source": "tvtropes"
     },
     {
@@ -1201,14 +1216,16 @@
       "name": "The Spring City Rockets",
       "media_title": "Bob the Builder",
       "tropes": [
-        "SucksAtDancing",
-        "ShouldntWeBeInSchoolRightNow",
         "KidAppealCharacter",
+        "SucksAtDancing",
+        "BlondeBrunetteRedhead",
+        "RedheadInGreen",
+        "ShouldntWeBeInSchoolRightNow",
         "RetroRocket",
-        "TotallyRadical",
-        "FreeRangeChildren"
+        "FreeRangeChildren",
+        "TotallyRadical"
       ],
-      "description": "Free-Range Children: While sometimes they do have Betsy with them to provide adult supervision, they’ve still been seen by themselves a lot more than they really ought to be. Kid-Appeal Character: Their main purpose for existing in the show. Retro Rocket: A teal-colored one is their group logo. Shouldn't We Be in School Right Now?: They always seem to be out and about in Spring City regardless of the time of day, despite the fact that theyhavebeen established as being students of Spring City Elementary. Sucks at Dancing: Brandon is shown to have this problem in “Ballroom Blitz”, although he still participates in the group’s street dance act for camaraderie reasons.",
+      "description": "Blonde, Brunette, Redhead: JJ (blond hair), Brandon (brown hair), Saffi (black hair), and Mila (red hair). Free-Range Children: While sometimes they do have Betsy with them to provide adult supervision, they’ve still been seen by themselves a lot more than they really ought to be. Redhead in Green: Mila, with red hair and green eyes wearing a green shirt. Kid-Appeal Character: Their main purpose for existing in the show. Retro Rocket: A teal-colored one is their group logo.",
       "source": "tvtropes"
     },
     {
@@ -1285,14 +1302,15 @@
       "name": "Dash Lightning",
       "media_title": "Bob the Builder",
       "tropes": [
-        "ShowWithinAShow",
-        "Catchphrase",
-        "TheKnightsWhoSaySquee",
+        "FakeAmerican",
         "AwesomeMcCoolname",
+        "ShowWithinAShow",
+        "TwinkleSmile",
         "EarlyBirdCameo",
-        "TwinkleSmile"
+        "Catchphrase",
+        "TheKnightsWhoSaySquee"
       ],
-      "description": "Awesome McCoolname:Dash Lightning. Catchphrase: All of his movies have him saying “With a zoom! Boom! Lightning… strikes twice!” at at least one point. Early-Bird Cameo: He doesn’t properly debut until “Star Struck Muck”, but the giant TV screen from “Rockets Under The Stars” briefly plays a scene from one of his movies when Bob tests it. The Knights Who Say \"Squee!\": As it turns out, hereallyloves anything to do about building, so he squees over Bob’s gang about as much as they squee over him. Show Within a Show: He’s starred in such classics asCretaceous Park: Megadino AttackandShark 2: The Return Of Bruce.",
+      "description": "Awesome McCoolname:Dash Lightning. Catchphrase: All of his movies have him saying “With a zoom! Boom! Lightning… strikes twice!” at at least one point. Early-Bird Cameo: He doesn’t properly debut until “Star Struck Muck”, but the giant TV screen from “Rockets Under The Stars” briefly plays a scene from one of his movies when Bob tests it. Fake American: Dash’s actor, Steve Kynman, voiced him with an American accent. The Knights Who Say \"Squee!\": As it turns out, hereallyloves anything to do about building, so he squees over Bob’s gang about as much as they squee over him.",
       "source": "tvtropes"
     },
     {
@@ -1300,42 +1318,46 @@
       "media_title": "Bob the Builder",
       "tropes": [
         "OmnidisciplinaryScientist",
-        "BirthdayEpisode",
-        "StevenUlyssesPerhero",
         "LabcoatOfScienceAndMedicine",
+        "BirthdayEpisode",
+        "BlueMeansSmartOne",
+        "TokenMinority",
+        "BrainyBrunette",
         "AlliterativeName",
-        "TokenMinority"
+        "MeaningfulName"
       ],
-      "description": "Alliterative Name:MeiMoon. Birthday Episode: “A Message From Space” takes place on the birthday of her and her twin sister Lin. Labcoat of Science and Medicine: She wears one, despite astronomy not really being the sort of scientific discipline to require a labcoat. Omnidisciplinary Scientist: She works at an observatory, so sheshouldbe an astronomer… except her debut episode has her launching a rocket into space (rocketetry has more in common withengineeringthan astronomy), and “Jet Powered Scoop” has Bob build her a scientific test facility that has little, if anything, to do with outer space. Steven Ulysses Perhero: She’s a space scientist with the surname “Moon”.",
+      "description": "Alliterative Name:MeiMoon. Birthday Episode: “A Message From Space” takes place on the birthday of her and her twin sister Lin. Blue Means Smart One: She's a rocket scientist who wears a light blue shirt under her white lab coat. Brainy Brunette: Has black hair and is smart and intelligent. Labcoat of Science and Medicine: She wears one, despite astronomy not really being the sort of scientific discipline to require a labcoat.",
       "source": "tvtropes"
     },
     {
       "name": "Lin Moon",
       "media_title": "Bob the Builder",
       "tropes": [
-        "BirthdayEpisode",
-        "GenderBlenderName",
-        "RememberTheNewGuy",
-        "StevenUlyssesPerhero",
-        "LabcoatOfScienceAndMedicine",
         "AlwaysIdenticalTwins",
-        "OneShotCharacter"
+        "OneShotCharacter",
+        "LabcoatOfScienceAndMedicine",
+        "RememberTheNewGuy",
+        "BirthdayEpisode",
+        "TokenMinority",
+        "GenderBlenderName",
+        "MeaningfulName"
       ],
-      "description": "Always Identical Twins: In this caseliterallyidentical, as the animators just copy-pasted Mei’s character model to make her. Including Mei’sLabcoat of Science and Medicine, although they tried to hide that by only showing her head. Birthday Episode: She and Mei have a birthday video chat in “A Message From Space”. Gender-Blender Name: While the writers of the show did know that “Lin” was a genuine Chinese name, they failed to realize that it was amalename. Oopsie. One-Shot Character: Only appears on Mei’s video screen in “A Message From Space”. Remember the New Guy?: While her not physically appearing before on the show is excusable due to, you know, beingin space, that doesn’t explain why Mei never brought her up to anyone before the events of “A Message From Space”.",
+      "description": "Always Identical Twins: In this caseliterallyidentical, as the animators just copy-pasted Mei’s character model to make her. Including Mei’sLabcoat of Science and Medicine, although they tried to hide that by only showing her head. Birthday Episode: She and Mei have a birthday video chat in “A Message From Space”. Gender-Blender Name: While the writers of the show knew that “Lin” was a genuine Chinese name, they failed to realize that it was amalename. Oopsie. Meaningful Name: She’s an astronaut with the surname “Moon”. One-Shot Character: Only appears on Mei’s video screen in “A Message From Space”.",
       "source": "tvtropes"
     },
     {
       "name": "Conrad",
       "media_title": "Bob the Builder",
       "tropes": [
+        "MetaphorIsMyMiddleName",
+        "VileVillainSaccharineShow",
+        "BigBad",
         "LiteralMinded",
         "BitchInSheepsClothing",
-        "BigBad",
-        "VileVillainSaccharineShow",
-        "FatBastard",
-        "MetaphorIsMyMiddleName"
+        "GreenAndMean",
+        "FatBastard"
       ],
-      "description": "Big Bad: OfMega Machines: The Movieand, for that matter, the first actual villain in the series. Bitch in Sheep's Clothing: He spends most ofMega Machinespretending to be nice, helpful, and not at all angry that Bob got the building contract over him, when, in reality, he controls his Mega Machine crew with yelling and threats of the the scrap heap, and he sabotages the dam- risking the flooding and destruction of Spring City- just to get back at Bob. Fat Bastard: He’s the first villain of the show, and he has a noticeable gut. \"Metaphor\" Is My Middle Name: While trying to ingratiate himself to Bob he says thatConrad: “Helpful” is my middle name.Muck:That’s a funny name. Vile Villain, Saccharine Show: For a children's series featuring live machines hereallystands out as being the vilest, as he started a flood so he could ruin Bob's good name andthreatens to scrap his machines if they don't do his bidding.",
+      "description": "Big Bad: OfMega Machines: The Movieand, for that matter, the first actual villain in the series. Bitch in Sheep's Clothing: He spends most ofMega Machinespretending to be nice, helpful, and not at all angry that Bob got the building contract over him, when, in reality, he controls his Mega Machine crew with yelling and threats of the the scrap heap, and he sabotages the dam- risking the flooding and destruction of Spring City- just to get back at Bob. Fat Bastard: He’s the first villain of the show, and he has a noticeable gut. Green and Mean: Wears a green jumper and helmet, and is the villain in the show. \"Metaphor\" Is My Middle Name: While trying to ingratiate himself to Bob he says thatConrad: “Helpful” is my middle name.Muck:That’s a funny name.",
       "source": "tvtropes"
     },
     {
@@ -1536,7 +1558,17 @@
       ],
       "description": "Cute Machines: Oh, so much. He’s even able to cute Muck into taking him out to a build despite Wendy having told Muck not to do that exact thing. Fast Tunneling: That little drill on his front somehow allows him to move through the ground as fast as he dashes around on top of it, despite the amount of material he’d need to move in order to do that. Grappling-Hook Pistol: He has a grappling hook (and all the dubious physics that comes with it) built into him, as if his tunneling ability didn’t make him hard enough to catch already. Meaningful Name: His name is derived either from his speed or from the sound his motors make. Red Eyes, Take Warning: Subverted in “Talking Loud And Clear”- Lofty sees that his eyes are lit up red and assumes that it must mean something bad, but it turns out that they just glow red when he’s charging (and, presumably, turn green once his battery fills up).",
       "source": "tvtropes"
+    },
+    {
+      "name": "Roland Sweep",
+      "media_title": "Bob the Builder",
+      "tropes": [
+        "PoorCommunicationKills",
+        "NewJobAsThePlotDemands"
+      ],
+      "description": "New Job as the Plot Demands: He works at a warehouse, directing the destinations of shipping containers… but he also owns a grocery store in “Ace’s Dynamite Movie”. Poor Communication Kills: In “The Dash Lightning Experience”, he tells Muck that the props for the titular ride are in the container “on the end”, and fails to specify which end. Of course, this leads to Muck and Lofty taking the wrong container.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 125
+  "character_count": 126
 }

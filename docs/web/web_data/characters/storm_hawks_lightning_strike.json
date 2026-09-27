@@ -1,14 +1,1 @@
-{
-  "name": "Lightning Strike",
-  "show": "Storm Hawks",
-  "trope_count": 6,
-  "tropes": [
-    "DisneyVillainDeath",
-    "LuckilyMyShieldWillProtectMe",
-    "PosthumousCharacter",
-    "StrongFamilyResemblance",
-    "BlueIsHeroic",
-    "HeroesPreferSwords"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lightning Strike", "show": "Storm Hawks", "trope_count": 6, "tropes": ["DisneyVillainDeath", "LuckilyMyShieldWillProtectMe", "PosthumousCharacter", "StrongFamilyResemblance", "BlueIsHeroic", "HeroesPreferSwords"], "tropes_by_category": {}, "similar": []}

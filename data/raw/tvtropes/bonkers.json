@@ -322,26 +322,27 @@
       "name": "The Collector",
       "media_title": "Bonkers",
       "tropes": [
-        "SlasherSmile",
+        "VileVillainSaccharineShow",
+        "HairRaisingHare",
+        "BiggerOnTheInside",
+        "KnightOfCerebus",
+        "NerdInEvilsHelmet",
         "MadnessMantra",
+        "MixAndMatchCritters",
+        "SanitySlippage",
+        "Expy",
         "HoistByHisOwnPetard",
         "RedEyesTakeWarning",
-        "DraggedOffToHell",
-        "NerdInEvilsHelmet",
-        "HairRaisingHare",
-        "KnightOfCerebus",
-        "VillainousBreakdown",
         "AndIMustScream",
-        "VileVillainSaccharineShow",
-        "IdentityBreakdown",
-        "Expy",
-        "FreakOut",
-        "LoonyFan",
-        "Chuunibyou",
-        "BiggerOnTheInside",
         "BeCarefulWhatYouWishFor",
-        "SanitySlippage",
-        "BadBoss"
+        "IdentityBreakdown",
+        "DraggedOffToHell",
+        "VillainousBreakdown",
+        "SlasherSmile",
+        "LoonyFan",
+        "FreakOut",
+        "BadBoss",
+        "Chuunibyou"
       ],
       "description": "The antagonist of the show's two-part pilot \"Going Bonkers\". He has Toons kidnappedand put into suspended animation. Bad Boss: He regularly threatens his Toon lackey, Mr. Doodles, with sharing the fate he gives to the Toons he \"collects.\" Be Careful What You Wish For:As he's insistent that he is a Toon rather than a human, he falls into the Prop Box, an item made for containing Toons. Chuunibyou:The Collector actuallybelieveshe's a Toon, and being forced to see his own actual (human) face results in anIdentity BreakdownandFreak Out. Dragged Off to Hell: Downplayed.While suffering aFreak Out, he falls into the Prop Box. Said Prop Box isBigger on the Inside, full of a reddish haze and lined with evil, sneering cartoon faces that are all laughing evilly even as he plummets into the void. Bonkers, however, assures Lucky that he'll be just fine and can be safely delivered into police custody....inside the now locked up box.",
       "source": "tvtropes"
@@ -361,7 +362,39 @@
       ],
       "description": "An elephant who wants to fly. He's a recurring villain in the Miranda episodes. Abnormal Ammo: In \"Of Mice And Menace\" he wields a machine gun that shoots peanuts...unsalted peanuts. Berserk Button: The mere mention of the word \"Dumbo\" is enough to irritate him, since he's not as good at flying as him. However,this seems to have been abandonedby the time of his second appearance in \"Casa Bonkers\". Brooklyn Rage: He certainly has the accent and attitude of a stereotypical New York gangster, which is quite evident in his debut episode. Continuity Snarl: In \"Of Mice And Menace\", he's shown to be able to fly with his ears but not too high and not very good at it, hence his envy of Dumbo to the point of Dumbo's name being aBerserk Buttonfor him. But in \"Casa Bonkers\", he wants the Circle Beanie because he's unable to fly at all and he even says he \"always wanted to be able to fly, like Dumbo!\"",
       "source": "tvtropes"
+    },
+    {
+      "name": "The Louse",
+      "media_title": "Bonkers",
+      "tropes": [
+        "ExtremeOmnivore",
+        "HiddenDepths",
+        "MonsterOfTheWeek",
+        "ArsonMurderAndJaywalking",
+        "SimpletonVoice",
+        "Jerkass",
+        "HeelFaceTurn",
+        "WhatHaveIDone",
+        "Catchphrase"
+      ],
+      "description": "An incorrigible toon criminal who is assigned to Bonkers and Lucky to be the first in a reform program promoted by Chief Kanifky. Arson, Murder, and Jaywalking: Among a long list of crimes attributed to him, Kanifky cites \"Disturbance of the peace, destruction of city property and a few cities, and toe-nail clipping in a no-clipping zone\". Catchphrase: \"Ain't I a louse?\" followed or preceded by a breathless laugh. Extreme Omnivore: He loves to eat various non-edible things such as statues, furniture, and cars, just to name a few. Hilariously, when Bonkers and Lucky take him to a restaurant, he shows no interest in real food and instead tries to eat a nearby poodle. Hidden Depths: Despite his unruly and rude behavior, Louse is surprisingly clever enough towrite a very detailed bait book on \"How to reform a toon that can't be reformed\", andas seen after hisHeel–Face Turn, he can speak quite eloquently instead of using his usualSimpleton Voice.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "T.J. Finger",
+      "media_title": "Bonkers",
+      "tropes": [
+        "BrokenPedestal",
+        "MonsterOfTheWeek",
+        "LeftStuckAfterAttack",
+        "FingerPokeOfDoom",
+        "Badass",
+        "WalkingSpoiler",
+        "DeadlyDodging"
+      ],
+      "description": "The star of Bonkers' favorite cop show that joined him and Lucky to get a closer look at what a real police officer's job is like. In reality, it was a way to avoid raising suspicions about his involvement in the recent mysterious attacks against notorious TV critic Charles Quibble, whose numerous negative reviews were threatening the cancellation of his program. Badass: Despite the obvious special effects shown in his fictional show Cop Squad, in \"real life\" he still manages to perform some impressive feats with just one finger, such as splitting Lucky's table in half with a karate chop and during the episode's climax, when Bonkers prepares to fight him, T.J. simply flicks the bobcat sending he flying across the television station studio and incapacitating he. Broken Pedestal: Bonkers used to idolize him as a role model for police officers, even if fictional, and even spent a good part of the time investigating the attacks against TV critic Charles Quibble adopting the approach that T.J. uses on his show and dressing like him, but after his true intentions were revealed, Bonkers was so disappointed that he was willing to confront and bring him to justice on his own. Finger Poke of Doom: His entire characterization revolves around this, best demonstrated in the climax described above. Left Stuck After Attack: This is how he is defeated.While attempting a frontal attack against Lucky, he performs aDeadly Dodgingto the side (complete with a little \"ole\"), causing T.J.'s finger to get stuck in the coin slot of a vending machine, allowing for his capture. To add insult to injury, he is taken into custody with his finger still stuck in said machine.Lucky:Didn't anyone ever tell you? It's not polite to point.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 16
+  "character_count": 18
 }

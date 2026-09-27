@@ -1,15 +1,1 @@
-{
-  "name": "Bank Manager",
-  "show": "Fleabag",
-  "trope_count": 7,
-  "tropes": [
-    "OddFriendship",
-    "NiceGuy",
-    "TheAtoner",
-    "EarnYourHappyEnding",
-    "TookALevelInKindness",
-    "HiddenDepths",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bank Manager", "show": "Fleabag", "trope_count": 7, "tropes": ["OddFriendship", "NiceGuy", "TheAtoner", "EarnYourHappyEnding", "TookALevelInKindness", "HiddenDepths", "NoNameGiven"], "tropes_by_category": {}, "similar": [{"name": "Justin Foley", "show": "Thirteen Reasons Why", "id": "thirteen_reasons_why_justin_foley", "similarity": 0.0909, "shared_tropes": 5}, {"name": "Porky Pig", "show": "Looney Tunes Show, The", "id": "looney_tunes_show_the_porky_pig", "similarity": 0.058, "shared_tropes": 4}, {"name": "Raimundo Pedrosa", "show": "Xiaolin Showdown", "id": "xiaolin_showdown_raimundo_pedrosa", "similarity": 0.05, "shared_tropes": 4}, {"name": "Beecher", "show": "Oz", "id": "oz_beecher", "similarity": 0.0442, "shared_tropes": 5}, {"name": "Globgor the Prince of Darkness", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_globgor_the_prince_of_darkness", "similarity": 0.044, "shared_tropes": 4}]}

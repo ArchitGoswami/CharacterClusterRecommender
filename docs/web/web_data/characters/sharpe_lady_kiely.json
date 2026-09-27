@@ -1,16 +1,1 @@
-{
-  "name": "Lady Kiely",
-  "show": "Sharpe",
-  "trope_count": 8,
-  "tropes": [
-    "GrievousBottleyHarm",
-    "DefiantCaptive",
-    "CanonForeigner",
-    "IHaveYourWife",
-    "OutlivingOnesOffspring",
-    "SilkHidingSteel",
-    "ImperiledInPregnancy",
-    "StraightMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lady Kiely", "show": "Sharpe", "trope_count": 9, "tropes": ["StraightMan", "DefiantCaptive", "GrievousBottleyHarm", "AintTooProudToBeg", "CanonForeigner", "OutlivingOnesOffspring", "SilkHidingSteel", "ImperiledInPregnancy", "IHaveYourWife"], "tropes_by_category": {}, "similar": []}

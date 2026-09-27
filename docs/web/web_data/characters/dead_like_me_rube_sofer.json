@@ -1,16 +1,1 @@
-{
-  "name": "Rube Sofer",
-  "show": "Dead Like Me",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "JerkWithAHeartOfGold",
-    "TheLeader",
-    "BigEater",
-    "PerpetualFrowner",
-    "CelestialBureaucracy",
-    "TeamDad",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rube Sofer", "show": "Dead Like Me", "trope_count": 8, "tropes": ["DeadpanSnarker", "JerkWithAHeartOfGold", "TheLeader", "BigEater", "PerpetualFrowner", "CelestialBureaucracy", "TeamDad", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": [{"name": "Grumpy", "show": "The 7D", "id": "the_7d_grumpy", "similarity": 0.1471, "shared_tropes": 5}, {"name": "Bear", "show": "Bear in the Big Blue House", "id": "bear_in_the_big_blue_house_bear", "similarity": 0.129, "shared_tropes": 4}, {"name": "Buster Bunny", "show": "Tiny Toon Adventures", "id": "tiny_toon_adventures_buster_bunny", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Electroids", "show": "Mixels", "id": "mixels_electroids", "similarity": 0.0755, "shared_tropes": 4}, {"name": "John Casey", "show": "Chuck", "id": "chuck_john_casey", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Carson", "show": "Downton Abbey", "id": "downton_abbey_carson", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Butt-Head", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_butt_head", "similarity": 0.0606, "shared_tropes": 4}, {"name": "David Rossi", "show": "Criminal Minds", "id": "criminal_minds_david_rossi", "similarity": 0.0548, "shared_tropes": 4}]}

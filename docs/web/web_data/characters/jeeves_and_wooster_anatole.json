@@ -1,13 +1,1 @@
-{
-  "name": "Anatole",
-  "show": "Jeeves and Wooster",
-  "trope_count": 5,
-  "tropes": [
-    "SupremeChef",
-    "AngryChef",
-    "LivingMacGuffin",
-    "FrenchCuisineIsHaughty",
-    "ZanyScheme"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Anatole", "show": "Jeeves and Wooster", "trope_count": 5, "tropes": ["SupremeChef", "AngryChef", "LivingMacGuffin", "FrenchCuisineIsHaughty", "ZanyScheme"], "tropes_by_category": {}, "similar": []}

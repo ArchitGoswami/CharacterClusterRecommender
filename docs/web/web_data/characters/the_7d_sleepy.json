@@ -1,18 +1,1 @@
-{
-  "name": "Sleepy",
-  "show": "The 7D",
-  "trope_count": 10,
-  "tropes": [
-    "BenevolentBoss",
-    "ADayInTheLimelight",
-    "ReallyFondOfSleeping",
-    "Sleepwalking",
-    "ComicallyMissingThePoint",
-    "SeniorSleepCycle",
-    "BlueIsHeroic",
-    "Cloudcuckoolander",
-    "CompanionCube",
-    "Sleepyhead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sleepy", "show": "The 7D", "trope_count": 10, "tropes": ["BenevolentBoss", "ADayInTheLimelight", "ReallyFondOfSleeping", "Sleepwalking", "ComicallyMissingThePoint", "SeniorSleepCycle", "BlueIsHeroic", "Cloudcuckoolander", "CompanionCube", "Sleepyhead"], "tropes_by_category": {}, "similar": [{"name": "Cat", "show": "Red Dwarf", "id": "red_dwarf_cat", "similarity": 0.037, "shared_tropes": 4}]}

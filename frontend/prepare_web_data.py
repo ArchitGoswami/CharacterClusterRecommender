@@ -1,184 +1,167 @@
 import json
-import os
 import re
 from pathlib import Path
 from collections import defaultdict
 
-def load_character_index():
-    """Load the character index."""
-    with open('character_index.json', 'r', encoding='utf-8') as f:
-        return json.load(f)
+SKIP_NAMES = {
+    "open/close all folders",
+    "general",
+    "tropes",
+    "characters",
+    "spoiler",
+    "ymmv",
+}
 
-def load_raw_character_data(show_file):
-    """Load raw character data from tvtropes JSON file."""
-    raw_path = Path('../data/raw/tvtropes') / show_file
-    with open(raw_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
 
 def create_safe_filename(name):
-    """Create a safe filename from a character name - always lowercase."""
-    # Replace apostrophes and special characters with underscores
-    safe_name = re.sub(r'[^a-zA-Z0-9]', '_', name)
-    # Collapse multiple underscores
-    safe_name = re.sub(r'_+', '_', safe_name)
-    # Strip leading/trailing underscores, limit length, and LOWERCASE
-    safe_name = safe_name.strip('_')[:50].lower()
-    return safe_name
+    """Create a safe lowercase filename fragment from a character name."""
+    safe_name = re.sub(r"[^a-zA-Z0-9]", "_", name)
+    safe_name = re.sub(r"_+", "_", safe_name)
+    return safe_name.strip("_")[:50].lower()
 
-def process_characters():
-    """Process all characters and create web-friendly data files."""
-    print("Loading character index...")
-    index = load_character_index()
-    
-    # Create output directory
-    output_dir = Path('web_data')
-    chars_dir = output_dir / 'characters'
-    output_dir.mkdir(exist_ok=True)
-    chars_dir.mkdir(exist_ok=True)
-    
-    # Clear existing character files to avoid stale data
-    for old_file in chars_dir.glob('*.json'):
-        old_file.unlink()
-    print("Cleared old character files")
-    
-    # Create simplified index
-    web_index = {
-        'characters': {},
-        'shows': defaultdict(list)
-    }
-    
-    # Track created files to avoid duplicates
-    created_files = set()
-    
-    # Process each character
-    char_count = 0
-    skipped_count = 0
-    duplicate_count = 0
-    
-    for char_name, char_list in index['characters'].items():
-        if not char_list:
-            continue
-            
-        # Take first entry (handles multi-show characters)
-        char_info = char_list[0]
-        show_name = char_info['media_title']
-        source_file = char_info['source_file']
-        
-        # Load raw character data
+
+def load_show_characters(raw_dir):
+    """Load every character from the TV Tropes crawl, including repeat names."""
+    records = []
+    for path in sorted(raw_dir.glob("*.json")):
         try:
-            raw_data = load_raw_character_data(source_file)
-        except FileNotFoundError:
-            print(f"Warning: Source file not found for {char_name}: {source_file}")
-            skipped_count += 1
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            print(f"Warning: skipping unreadable file {path.name}")
             continue
-        
-        # Find character in raw data
-        char_data = None
-        for character in raw_data.get('characters', []):
-            if character.get('name') == char_name:
-                char_data = character
-                break
-            if character.get('name', '').lower() == char_name.lower():
-                char_data = character
-                break
-        
-        if not char_data:
-            for character in raw_data.get('characters', []):
-                if char_name.lower() in character.get('name', '').lower():
-                    char_data = character
-                    break
-        
-        if not char_data:
-            print(f"Warning: Character not found in raw data: {char_name} in {source_file}")
-            skipped_count += 1
-            continue
-        
-        tropes = char_data.get('tropes', [])
-        
-        if not tropes:
-            skipped_count += 1
-            continue
-        
-        tropes_by_category = {}
-        
-        # Get show ID (filename without extension) - already lowercase
-        show_id = source_file.replace('.json', '')
-        
-        # Create safe character name - always lowercase
-        safe_char_name = create_safe_filename(char_name)
 
-        # Full character ID - all lowercase
-        char_id = f"{show_id}_{safe_char_name}"
-        char_filename = f"{char_id}.json"
-        
-        # Check for duplicate filenames
-        if char_filename in created_files:
+        show_name = data.get("media_title") or path.stem
+        show_id = path.stem
+        for character in data.get("characters") or []:
+            name = (character.get("name") or "").strip()
+            if (
+                not name
+                or len(name) > 80
+                or name.lower() in SKIP_NAMES
+                or re.fullmatch(r"[A-Z](?:\s*[-–—]\s*[A-Z])?", name)
+            ):
+                continue
+            tropes = list(dict.fromkeys(character.get("tropes") or []))
+            records.append({
+                "name": name,
+                "show": show_name,
+                "show_id": show_id,
+                "tropes": tropes,
+            })
+    return records
+
+
+def assign_ids(records):
+    """Give every character a unique file id, even when names collide."""
+    used = set()
+    for record in records:
+        safe_name = create_safe_filename(record["name"]) or "character"
+        char_id = f"{record['show_id']}_{safe_name}"
+        if char_id in used:
             suffix = 2
-            while f"{char_id}_{suffix}.json" in created_files:
+            while f"{char_id}_{suffix}" in used:
                 suffix += 1
             char_id = f"{char_id}_{suffix}"
-            char_filename = f"{char_id}.json"
-            duplicate_count += 1
+        used.add(char_id)
+        record["id"] = char_id
 
-        created_files.add(char_filename)
 
-        # Save individual character file
-        char_file_data = {
-            'name': char_name,
-            'show': show_name,
-            'trope_count': len(tropes),
-            'tropes': tropes,
-            'tropes_by_category': tropes_by_category
+def precompute_similar(records, limit=8):
+    """Rank similar characters from tropes that are shared but not universal."""
+    inverted = defaultdict(list)
+    for index, record in enumerate(records):
+        record["similar"] = []
+        record["trope_set"] = set(record["tropes"])
+        for trope in record["trope_set"]:
+            inverted[trope].append(index)
+
+    # Very common tropes create huge candidate lists and weak matches.
+    useful = {trope: indexes for trope, indexes in inverted.items() if 1 < len(indexes) <= 1000}
+    print(f"Using {len(useful)} distinctive tropes for similarity", flush=True)
+
+    for index, record in enumerate(records):
+        if len(record["trope_set"]) < 2:
+            continue
+        shared_counts = defaultdict(int)
+        for trope in record["trope_set"]:
+            for other_index in useful.get(trope, ()):
+                if other_index != index:
+                    shared_counts[other_index] += 1
+        if len(shared_counts) > 800:
+            shared_counts = dict(sorted(shared_counts.items(), key=lambda item: -item[1])[:800])
+
+        target = record["trope_set"]
+        ranked = []
+        for other_index, shared in shared_counts.items():
+            if shared < 2:
+                continue
+            other = records[other_index]
+            shared_all = len(target & other["trope_set"])
+            union = len(target | other["trope_set"])
+            similarity = shared_all / union if union else 0
+            if shared_all < 4 or similarity < 0.035:
+                continue
+            ranked.append({
+                "name": other["name"],
+                "show": other["show"],
+                "id": other["id"],
+                "similarity": round(similarity, 4),
+                "shared_tropes": shared_all,
+            })
+        ranked.sort(key=lambda item: (-item["similarity"], -item["shared_tropes"], item["name"]))
+        record["similar"] = ranked[:limit]
+        if index and index % 2000 == 0:
+            print(f"Scored similarity for {index} characters...", flush=True)
+
+
+def process_characters():
+    """Write the web index and one JSON file per character."""
+    raw_dir = Path(__file__).resolve().parent.parent / "data" / "raw" / "tvtropes"
+    output_dir = Path(__file__).resolve().parent.parent / "docs" / "web" / "web_data"
+    chars_dir = output_dir / "characters"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    chars_dir.mkdir(exist_ok=True)
+
+    print(f"Reading shows from {raw_dir}")
+    records = load_show_characters(raw_dir)
+    assign_ids(records)
+    print(f"Loaded {len(records)} characters from {len(list(raw_dir.glob('*.json')))} shows")
+    precompute_similar(records)
+
+    for old_file in chars_dir.glob("*.json"):
+        old_file.unlink()
+    print("Cleared old character files")
+
+    web_index = {"characters": [], "shows": defaultdict(list)}
+    for record in records:
+        char_file = {
+            "name": record["name"],
+            "show": record["show"],
+            "trope_count": len(record["tropes"]),
+            "tropes": record["tropes"],
+            "tropes_by_category": {},
+            "similar": record["similar"],
         }
+        with open(chars_dir / f"{record['id']}.json", "w", encoding="utf-8") as handle:
+            json.dump(char_file, handle, ensure_ascii=False)
 
-        char_file_path = chars_dir / char_filename
-        with open(char_file_path, 'w', encoding='utf-8') as f:
-            json.dump(char_file_data, f, indent=2, ensure_ascii=False)
-
-        # Add to web index - ID is lowercase to match filename
-        web_index['characters'][char_name] = {
-            'show': show_name,
-            'trope_count': len(tropes),
-            'id': char_id
+        summary = {
+            "name": record["name"],
+            "show": record["show"],
+            "trope_count": len(record["tropes"]),
+            "id": record["id"],
         }
+        web_index["characters"].append(summary)
+        web_index["shows"][record["show"]].append(summary)
 
-        web_index['shows'][show_name].append({
-            'name': char_name,
-            'trope_count': len(tropes),
-            'id': char_id
-        })
-        
-        char_count += 1
-        if char_count % 100 == 0:
-            print(f"Processed {char_count} characters...")
-    
-    # Convert defaultdict to regular dict for JSON
-    web_index['shows'] = dict(web_index['shows'])
-    
-    # Save web index
-    index_path = output_dir / 'index.json'
-    with open(index_path, 'w', encoding='utf-8') as f:
-        json.dump(web_index, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n{'='*50}")
-    print(f"Processing complete!")
-    print(f"{'='*50}")
-    print(f"Total characters processed: {char_count}")
-    print(f"Characters skipped: {skipped_count}")
-    print(f"Duplicate names handled: {duplicate_count}")
-    print(f"Total shows: {len(web_index['shows'])}")
-    print(f"Files created in: {output_dir}")
-    
-    # Verify
-    actual_files = len(list(chars_dir.glob('*.json')))
-    index_count = len(web_index['characters'])
-    print(f"\nVerification:")
-    print(f"  Character files created: {actual_files}")
-    print(f"  Characters in index: {index_count}")
-    if actual_files == index_count:
-        print(f"  ✓ Counts match!")
-    else:
-        print(f"  ✗ WARNING: Counts don't match!")
+    web_index["shows"] = dict(web_index["shows"])
+    with open(output_dir / "index.json", "w", encoding="utf-8") as handle:
+        json.dump(web_index, handle, ensure_ascii=False)
 
-if __name__ == '__main__':
+    print(f"Characters: {len(records)}")
+    print(f"Shows: {len(web_index['shows'])}")
+    print(f"Wrote {output_dir}")
+
+
+if __name__ == "__main__":
     process_characters()

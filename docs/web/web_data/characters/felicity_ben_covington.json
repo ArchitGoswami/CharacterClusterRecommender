@@ -1,15 +1,1 @@
-{
-  "name": "Ben Covington",
-  "show": "Felicity",
-  "trope_count": 7,
-  "tropes": [
-    "BigManOnCampus",
-    "ChickMagnet",
-    "OddFriendship",
-    "BroodingBoyGentleGirl",
-    "BookDumb",
-    "TheCharmer",
-    "WorkingOutTheirEmotions"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ben Covington", "show": "Felicity", "trope_count": 7, "tropes": ["BigManOnCampus", "ChickMagnet", "OddFriendship", "BroodingBoyGentleGirl", "BookDumb", "TheCharmer", "WorkingOutTheirEmotions"], "tropes_by_category": {}, "similar": [{"name": "Jeremy Darling", "show": "Dirty Sexy Money", "id": "dirty_sexy_money_jeremy_darling", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Lee Su-hyeok", "show": "All Of Us Are Dead", "id": "all_of_us_are_dead_lee_su_hyeok", "similarity": 0.0909, "shared_tropes": 5}, {"name": "Nick Dean", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_nick_dean", "similarity": 0.0816, "shared_tropes": 4}, {"name": "T.J.", "show": "Recess", "id": "recess_t_j", "similarity": 0.0495, "shared_tropes": 5}, {"name": "Nick", "show": "New Girl", "id": "new_girl_nick", "similarity": 0.0354, "shared_tropes": 4}]}

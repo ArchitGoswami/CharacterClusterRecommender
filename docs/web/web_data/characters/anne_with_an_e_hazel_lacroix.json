@@ -1,15 +1,1 @@
-{
-  "name": "Hazel Lacroix",
-  "show": "Anne With an E",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "ImproperlyParanoid",
-    "InsistentAppellation",
-    "TookALevelInKindness",
-    "ParentsAsPeople",
-    "FreudianExcuse",
-    "TheLostLenore"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hazel Lacroix", "show": "Anne With an E", "trope_count": 7, "tropes": ["DeadpanSnarker", "ImproperlyParanoid", "InsistentAppellation", "TookALevelInKindness", "ParentsAsPeople", "FreudianExcuse", "TheLostLenore"], "tropes_by_category": {}, "similar": [{"name": "Eric Duckman", "show": "Duckman", "id": "duckman_eric_duckman", "similarity": 0.0444, "shared_tropes": 4}]}

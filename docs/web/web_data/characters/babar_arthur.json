@@ -1,14 +1,1 @@
-{
-  "name": "Arthur",
-  "show": "Babar",
-  "trope_count": 6,
-  "tropes": [
-    "AnimalGenderBender",
-    "CoolUncle",
-    "LimitedWardrobe",
-    "FatBestFriend",
-    "UnwittingInstigatorOfDoom",
-    "ThePrankster"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Arthur", "show": "Babar", "trope_count": 6, "tropes": ["AnimalGenderBender", "CoolUncle", "LimitedWardrobe", "FatBestFriend", "UnwittingInstigatorOfDoom", "ThePrankster"], "tropes_by_category": {}, "similar": []}

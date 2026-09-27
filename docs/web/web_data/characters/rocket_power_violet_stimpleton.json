@@ -1,17 +1,1 @@
-{
-  "name": "Violet Stimpleton",
-  "show": "Rocket Power",
-  "trope_count": 9,
-  "tropes": [
-    "HeroicBSOD",
-    "LethalChef",
-    "ThePollyanna",
-    "HappilyMarried",
-    "OOCIsSeriousBusiness",
-    "MoralityPet",
-    "NiceGirl",
-    "IntergenerationalFriendship",
-    "CoolOldLady"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Violet Stimpleton", "show": "Rocket Power", "trope_count": 12, "tropes": ["MoralityPet", "OOCIsSeriousBusiness", "MetaphorIsMyMiddleName", "LethalChef", "ThePollyanna", "HappilyMarried", "NiceGirl", "IntergenerationalFriendship", "ShouldersUpNudity", "HeroicBSOD", "CoolOldLady", "SkinnyDipping"], "tropes_by_category": {}, "similar": [{"name": "Lillian", "show": "Unbreakable Kimmy Schmidt", "id": "unbreakable_kimmy_schmidt_lillian", "similarity": 0.1429, "shared_tropes": 5}, {"name": "Jocelyn Schitt", "show": "Schitts Creek", "id": "schitts_creek_jocelyn_schitt", "similarity": 0.129, "shared_tropes": 4}, {"name": "Yoko", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_yoko", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Aunt May", "show": "Spider-Man", "id": "spider_man_aunt_may", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Col. Sherman Potter", "show": "M*A*S*H", "id": "mash_col_sherman_potter", "similarity": 0.069, "shared_tropes": 4}, {"name": "Bert Raccoon", "show": "Raccoons, The", "id": "raccoons_the_bert_raccoon", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Linda Park", "show": "Flash, The", "id": "flash_the_linda_park", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Linda Park", "show": "The Flash", "id": "the_flash_linda_park", "similarity": 0.0645, "shared_tropes": 4}]}

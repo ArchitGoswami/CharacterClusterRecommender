@@ -1,16 +1,1 @@
-{
-  "name": "Rachel \"Raquel\" Turner",
-  "show": "Only Fools and Horses",
-  "trope_count": 8,
-  "tropes": [
-    "TeamMom",
-    "WordOfGod",
-    "HookerWithAHeartOfGold",
-    "StripperCopConfusion",
-    "FawltyTowersPlot",
-    "ReplacementGoldfish",
-    "OnlySaneMan",
-    "StrawFeminist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rachel \"Raquel\" Turner", "show": "Only Fools and Horses", "trope_count": 8, "tropes": ["TeamMom", "WordOfGod", "HookerWithAHeartOfGold", "StripperCopConfusion", "FawltyTowersPlot", "ReplacementGoldfish", "OnlySaneMan", "StrawFeminist"], "tropes_by_category": {}, "similar": [{"name": "Mira", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_mira", "similarity": 0.0476, "shared_tropes": 4}]}

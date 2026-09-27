@@ -1,17 +1,1 @@
-{
-  "name": "Nigel",
-  "show": "Crossing Jordan",
-  "trope_count": 9,
-  "tropes": [
-    "OmnidisciplinaryScientist",
-    "DeadpanSnarker",
-    "TheSmartGuy",
-    "EnhanceButton",
-    "BelligerentSexualTension",
-    "AmbiguouslyGay",
-    "PerkyGoth",
-    "AscendedExtra",
-    "TheLabRat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nigel", "show": "Crossing Jordan", "trope_count": 9, "tropes": ["OmnidisciplinaryScientist", "DeadpanSnarker", "TheSmartGuy", "EnhanceButton", "BelligerentSexualTension", "AmbiguouslyGay", "PerkyGoth", "AscendedExtra", "TheLabRat"], "tropes_by_category": {}, "similar": [{"name": "Lucius Fox", "show": "The Dark Knight", "id": "the_dark_knight_lucius_fox", "similarity": 0.125, "shared_tropes": 4}, {"name": "UK Side", "show": "Whose Line Is It Anyway?", "id": "whose_line_is_it_anyway_uk_side", "similarity": 0.0354, "shared_tropes": 4}]}

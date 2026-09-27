@@ -1,17 +1,1 @@
-{
-  "name": "Nadia Santos",
-  "show": "Alias",
-  "trope_count": 9,
-  "tropes": [
-    "HeelFaceTurn",
-    "SealedInsideAPersonShapedCan",
-    "ActionGirl",
-    "KilledOffForReal",
-    "SpiritAdvisor",
-    "WaifProphet",
-    "MadScientistsBeautifulDaughter",
-    "LongLostRelative",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nadia Santos", "show": "Alias", "trope_count": 9, "tropes": ["HeelFaceTurn", "SealedInsideAPersonShapedCan", "ActionGirl", "KilledOffForReal", "SpiritAdvisor", "WaifProphet", "MadScientistsBeautifulDaughter", "LongLostRelative", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Anna Milton", "show": "Supernatural", "id": "supernatural_anna_milton", "similarity": 0.0431, "shared_tropes": 5}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Genie",
-  "show": "Nate is Late",
-  "trope_count": 5,
-  "tropes": [
-    "NeverMyFault",
-    "AndIMustScream",
-    "JackassGenie",
-    "ExactWords",
-    "IJustWantToBeFree"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Genie", "show": "Nate is Late", "trope_count": 5, "tropes": ["NeverMyFault", "AndIMustScream", "JackassGenie", "ExactWords", "IJustWantToBeFree"], "tropes_by_category": {}, "similar": [{"name": "Fahim", "show": "Nate is Late", "id": "nate_is_late_fahim", "similarity": 1.0, "shared_tropes": 5}]}

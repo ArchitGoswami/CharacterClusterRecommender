@@ -1,17 +1,1 @@
-{
-  "name": "Paul Le Mere",
-  "show": "NCIS",
-  "trope_count": 9,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "ManipulativeBastard",
-    "HateSink",
-    "NoNonsenseNemesis",
-    "KarmicDeath",
-    "BigDamnHeroes",
-    "SerialKiller",
-    "ProfessionalKiller",
-    "FromCamouflageToCriminal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paul Le Mere", "show": "NCIS", "trope_count": 9, "tropes": ["SmallRoleBigImpact", "ManipulativeBastard", "HateSink", "NoNonsenseNemesis", "KarmicDeath", "BigDamnHeroes", "SerialKiller", "ProfessionalKiller", "FromCamouflageToCriminal"], "tropes_by_category": {}, "similar": [{"name": "James Panzer", "show": "Mentalist, The", "id": "mentalist_the_james_panzer", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Roland Daggett", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_roland_daggett", "similarity": 0.1, "shared_tropes": 4}, {"name": "Raios Antonious and Humbert Zizek", "show": "Sword Art Online", "id": "sword_art_online_raios_antonious_and_humbert_zizek", "similarity": 0.0649, "shared_tropes": 5}, {"name": "Dag", "show": "Back at the Barnyard", "id": "back_at_the_barnyard_dag", "similarity": 0.044, "shared_tropes": 4}, {"name": "Lydia Rodarte-Quayle", "show": "Breaking Bad", "id": "breaking_bad_lydia_rodarte_quayle", "similarity": 0.0426, "shared_tropes": 4}]}

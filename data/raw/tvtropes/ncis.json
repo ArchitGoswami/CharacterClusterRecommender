@@ -22,14 +22,15 @@
       "media_title": "NCIS",
       "tropes": [
         "TheBusCameBack",
-        "BusCrash",
-        "ReasonableAuthorityFigure",
-        "CowboyCop",
         "PutOnABus",
         "BoomHeadshot",
-        "BackForTheDead"
+        "ReasonableAuthorityFigure",
+        "CowboyCop",
+        "BackForTheDead",
+        "DaChief",
+        "BusCrash"
       ],
-      "description": "Boom, Headshot!: Took a bullet to the back of the cranium and was later found dead in his study. The Bus Came Back: Shows up in \"Chasing Ghosts\" to tell Vance what Ziva has been up to, as well as trying to keep them from hunting down Ilan Bodnar. Bus Crash: Is killed in Season 13 by a vengeful ex-MI6agent, although it's actually recurring character CIA agent Kort covering his tracks. Back for the Dead: In season 13's \"Return to Sender\". Though played with slightly, as his bus had been putting in one episode per season appearances for a couple of seasons at that point, so his death wasn't telegraphed by just suddenly reappearing for that episode. Reasonable Authority Figure: Is very understanding and tolerating of Gibbs'Cowboy Coptendencies.",
+      "description": "NCIS's first director. Boom, Headshot!: Took a bullet to the back of the cranium and was later found dead in his study. The Bus Came Back: Shows up in \"Chasing Ghosts\" to tell Vance what Ziva has been up to, as well as trying to keep them from hunting down Ilan Bodnar. Bus Crash: Is killed in Season 13 by a vengeful ex-MI6agent, although it's actually recurring character CIA agent Kort covering his tracks. Back for the Dead: In season 13's \"Return to Sender\". Though played with slightly, as his bus had been putting in one episode per season appearances for a couple of seasons at that point, so his death wasn't telegraphed by just suddenly reappearing for that episode.",
       "source": "tvtropes"
     },
     {
@@ -364,39 +365,40 @@
       "name": "FBI Agent Tobias C. Fornell",
       "media_title": "NCIS",
       "tropes": [
-        "AlwaysGetsHisMan",
-        "GenderFlip",
-        "BigEater",
-        "PerpSweating",
-        "BrokenAce",
-        "TheThingThatWouldNotLeave",
-        "HeroOfAnotherStory",
-        "AloofAlly",
-        "DeathGlare",
-        "DespairEventHorizon",
-        "HarbingerOfImpendingDoom",
-        "TranquilFury",
-        "VitriolicBestBuds",
         "TraumaCongaLine",
-        "LongRunner",
-        "FBIAgent",
-        "CommutingOnABus",
-        "PutOnABus",
-        "OutlivingOnesOffspring",
-        "MaybeMagicMaybeMundane",
-        "PapaWolf",
+        "AloofAlly",
         "TheMissusAndTheEx",
         "MourningApparition",
-        "TheRival",
-        "UnexplainedRecovery",
-        "FriendlyRivalry",
         "HeterosexualLifePartners",
-        "ShotInTheAss",
+        "CommutingOnABus",
+        "PerpSweating",
+        "PutOnABus",
+        "FBIAgent",
+        "GenderFlip",
+        "OutlivingOnesOffspring",
+        "LongRunner",
         "TheConfidant",
+        "BrokenAce",
+        "BigEater",
+        "MaybeMagicMaybeMundane",
+        "DeathGlare",
+        "TheRival",
+        "TranquilFury",
+        "TheThingThatWouldNotLeave",
+        "PrivateInvestigator",
+        "HarbingerOfImpendingDoom",
+        "DespairEventHorizon",
+        "ShotInTheAss",
         "LikeAnOldMarriedCouple",
-        "TheLostLenore"
+        "VitriolicBestBuds",
+        "FriendlyRivalry",
+        "HeroOfAnotherStory",
+        "TheLostLenore",
+        "UnexplainedRecovery",
+        "PapaWolf",
+        "AlwaysGetsHisMan"
       ],
-      "description": "Gibbs’s best friend and NCIS’ regular ally who used to be an FBI Agent until he unceremoniously got fired in season 15 and later becoming a private investigator. Aloof Ally: Though he does always want to help if he can even when he is likely breaking rules to do so. Even when he is technically an antagonist, he still wants what's best for Gibbs and his team. Always Gets His Man: Much like Gibbs, both are famed in story for this. Big Eater: Half of his lines during his guest appearance onNCIS: New Orleansis him telling Pride which restaurants he wants to visit and the list of dishes he intends to eat at each one.When his supervisor summons him to exposit information to Franks and Wheeler inOriginsepisode \"Incognito\", he walks to their table with his plate in his hand. His supervisor tells him to swallow his food first. When his supervisor summons him to exposit information to Franks and Wheeler inOriginsepisode \"Incognito\", he walks to their table with his plate in his hand. His supervisor tells him to swallow his food first.",
+      "description": "Gibbs's best friend and NCIS' regular ally who used to be an FBI Agent until he unceremoniously got fired in season 15 and later becoming a private investigator. Aloof Ally: Though he does always want to help if he can even when he is likely breaking rules to do so. Even when he is technically an antagonist, he still wants what's best for Gibbs and his team. Always Gets His Man: Much like Gibbs, both are famed in story for this. Big Eater: Half of his lines during his guest appearance onNCIS: New Orleansis him telling Pride which restaurants he wants to visit and the list of dishes he intends to eat at each one.When his supervisor summons him to exposit information to Franks and Wheeler inOriginsepisode \"Incognito\", he walks to their table with his plate in his hand. His supervisor tells him to swallow his food first. When his supervisor summons him to exposit information to Franks and Wheeler inOriginsepisode \"Incognito\", he walks to their table with his plate in his hand. His supervisor tells him to swallow his food first.",
       "source": "tvtropes"
     },
     {
@@ -671,18 +673,19 @@
       "name": "Jonas Cobb, The Port-to-Port Killer",
       "media_title": "NCIS",
       "tropes": [
-        "Tykebomb",
-        "SanitySlippage",
-        "BeingTorturedMakesYouEvil",
-        "GainingTheWillToKill",
-        "DisneyVillainDeath",
-        "LastSecondChance",
         "GoneHorriblyRight",
-        "HeroKiller",
-        "TrainingFromHell",
         "SerialKiller",
+        "SanitySlippage",
+        "HeroKiller",
+        "BloodLust",
+        "GainingTheWillToKill",
+        "Tykebomb",
+        "LastSecondChance",
+        "TrainingFromHell",
         "DiscOneFinalBoss",
-        "BloodLust"
+        "DisneyVillainDeath",
+        "BeingTorturedMakesYouEvil",
+        "TerrifyingTransient"
       ],
       "description": "Being Tortured Makes You Evil: He was trained to weather any kind of suffering, but his psyche broke under the immense toll his training placed on him. His first successful assassination awakened an innateBloodlustand he went rogue. Disc-One Final Boss: His demise does not cast out the danger the NCIS operatives are facing. Rather, his murder of an agent with a secret access-granting microchip inside of them kick-starts a second conflict that threatens the organization all over again. Disney Villain Death: Shot before he could act first and crashed out of a window several stories onto the roof of a car below, caving the vehicle in and leaving Jonas unquestionably dead if the bullets hadn't already finished the job. Gone Horribly Right: He was trained to be a remorseless assassin, and that's exactly what he became. And then he decided to commit a few non-sanctioned assassinations... Hero Killer: He killed Mike Franks.",
       "source": "tvtropes"
@@ -1216,7 +1219,51 @@
       ],
       "description": "A murderer serving three consecutive life sentences for murdering three people in his home, which turns out to beMcGee's current apartment. Abhorrent Admirer: He becomes rather attached toMcGeewhen he discoversMcGeeis the one renting his old apartment, where he put in carved floor molding, nice hardwood floors...and where he carved up three people with an electric saw.McGeeis understandably freaked out by this. Affably Evil: He's a deeply disturbed psychopath who hacked up three men in his apartment, but he's surprisingly mellow and pleasant when you talk to him, aura of creepiness notwithstanding. Blood Is the New Black: When the agents are discussing Triff's crimes, they mention that the cops found him drenched head-to-toe in his victims' blood, to the point where he looked \"like Satan\". Creepy Monotone: He speaks like this a lot, especially when the subject of his murders comes up.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Former DOJ Inspector General and NCIS Deputy Director Gabriel Laroche",
+      "media_title": "NCIS",
+      "tropes": [
+        "GoodAllAlong",
+        "SmugSnake",
+        "TheMole",
+        "CorruptBureaucrat",
+        "TheFriendNobodyLikes",
+        "HateSink"
+      ],
+      "description": "Former DOJ Inspector General and now former NCIS deputy director who's always suspected as a mole since his first appearance in Season 22. Corrupt Bureaucrat: Averted. He was made to look like one to gain a cartel's trust. The Friend Nobody Likes: Not exactly a friend per se but not even the team especiallyMcGeeseems to like him, although since heturned out to be good, it seems all the tension has thawed out. Good All Along: Turns out to be this. After the initial tension, he leaves his Deputy Director post and shakes hands withMcGee, wishing him well. Eight months prior, he's approached by the DOD to make the appearance of a mole by invoking an identity leak, with said identity being that of Torres. Hate Sink: As mentioned above, no one, especiallyMcGee, likes him. Understandable considering he is a mole. It eventually thawed out since we found out he's undercover for eight months until the Season 22 finale “Nexus” and he left NCIS in amicable terms.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Orli Elbaz",
+      "media_title": "NCIS",
+      "tropes": [
+        "ManipulativeBitch",
+        "SmallRoleBigImpact",
+        "BadassIsraeli",
+        "SleepingTheirWayToTheTop"
+      ],
+      "description": "Badass Israeli: She climbs to the top job in Mossad in a male-dominated country and government, and shows that she's more than capable of holding her own. She's a fairly good glimpse of what Ziva might be in a few more years. Manipulative Bitch: She intends to get Bodnar her way and is not shy about using NCIS and Homeland Security to achieve that. When her ploy fails, Vance convinces Morrow and Gibbs that there's little point in trying to punish Orli for it - while also making clear that it's thelasttime she will get away with such shenanigans. Sleeping Their Way to the Top: Ziva always thought this was what Orli was doing when she seduced Eli, but seeing how doggedly Orli conducts the hunt for Eli's killer, she admits she might have been wrong, and that Orli genuinely loved Eli. Small Role, Big Impact: Ziva confides that Orli's affair with Eli was the reason her parents' marriage failed, and she has always thought that if it had not been for Orli, she would have turned out a completely different person. Tony solemnly says that if that's true, then he owes Orli a great big \"thank you.\"",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wayne Rogers",
+      "media_title": "NCIS",
+      "tropes": [
+        "BullyingTheDragon",
+        "KarmicDeath",
+        "MultipleGunshotDeath",
+        "AssholeVictim",
+        "TargetedToHurtTheHero",
+        "WhamEpisode",
+        "NearVillainVictory",
+        "CorruptBureaucrat",
+        "ArchEnemy",
+        "HateSink"
+      ],
+      "description": "Former Army CID director who’s involved in the arms smuggling and corruption operation alongside the former head of the Nexus cartel, former Deputy Attorney General and his Army CID agent. Arch-Enemy: Is this to the entire NCIS and the MCRT team but is especially this to Parker. Asshole Victim: As a corrupt and unrepentant arms dealer responsible forNCIS Director Leon Vance's murderwho intends to continue his crimes while in Witness Protection and even threatening to come after Parker and his sister and the rest of the MCRT team, Wayne Rogers iskilled en-route to WITSEC by a sniper shot - courtesy of Leroy Jethro Gibbs. Bullying the Dragon: Not only did he unashamedly admitted to Parker that he intends to wreak havoc in WITSEC, but told himstraight to his facehe’ll hunt down him, his team and even his sister Harriet.He quickly found out that’s a reallyBADidea to threaten them, as he ended up getting killed by a sniper, presumablyGibbs, with the implication Parker assisted him. Corrupt Bureaucrat: Uses his position to smuggles arms and do heinous acts.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 74
+  "character_count": 77
 }

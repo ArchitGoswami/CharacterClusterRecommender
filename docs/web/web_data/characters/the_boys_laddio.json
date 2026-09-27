@@ -1,15 +1,1 @@
-{
-  "name": "Laddio",
-  "show": "The Boys",
-  "trope_count": 7,
-  "tropes": [
-    "TheDitz",
-    "TheHerosJourney",
-    "KidSidekick",
-    "BatmanParody",
-    "InnocentFanserviceGuy",
-    "LegacyCharacter",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Laddio", "show": "The Boys", "trope_count": 7, "tropes": ["TheDitz", "TheHerosJourney", "KidSidekick", "BatmanParody", "InnocentFanserviceGuy", "LegacyCharacter", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Laddio", "show": "Boys, The", "id": "boys_the_laddio", "similarity": 1.0, "shared_tropes": 7}]}

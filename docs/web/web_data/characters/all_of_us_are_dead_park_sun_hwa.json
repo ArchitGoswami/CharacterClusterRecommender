@@ -1,13 +1,1 @@
-{
-  "name": "Park Sun-Hwa",
-  "show": "All Of Us Are Dead",
-  "trope_count": 5,
-  "tropes": [
-    "HeroicSacrifice",
-    "OnlySaneEmployee",
-    "CoolTeacher",
-    "SternTeacher",
-    "ReasonableAuthorityFigure"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Park Sun-Hwa", "show": "All Of Us Are Dead", "trope_count": 6, "tropes": ["SternTeacher", "HeroicSacrifice", "OnlySaneEmployee", "ReasonableAuthorityFigure", "CoolTeacher", "AllForNothing"], "tropes_by_category": {}, "similar": [{"name": "Nigel Ratburn", "show": "Arthur", "id": "arthur_nigel_ratburn", "similarity": 0.0952, "shared_tropes": 4}]}

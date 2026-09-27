@@ -1,15 +1,1 @@
-{
-  "name": "Pache",
-  "show": "Muppets Tonight",
-  "trope_count": 7,
-  "tropes": [
-    "PretentiousPronunciation",
-    "BigBad",
-    "ManipulativeBastard",
-    "PutOnABus",
-    "HateSink",
-    "VillainExitStageLeft",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pache", "show": "Muppets Tonight", "trope_count": 7, "tropes": ["PretentiousPronunciation", "BigBad", "ManipulativeBastard", "PutOnABus", "HateSink", "VillainExitStageLeft", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Pache", "show": "Muppets,The", "id": "muppetsthe_pache", "similarity": 1.0, "shared_tropes": 7}]}

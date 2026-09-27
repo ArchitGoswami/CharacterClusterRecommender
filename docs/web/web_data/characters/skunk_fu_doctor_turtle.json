@@ -1,11 +1,1 @@
-{
-  "name": "Doctor Turtle",
-  "show": "Skunk Fu!",
-  "trope_count": 3,
-  "tropes": [
-    "TheMedic",
-    "ADogNamedDog",
-    "BewareTheNiceOnes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doctor Turtle", "show": "Skunk Fu!", "trope_count": 3, "tropes": ["TheMedic", "ADogNamedDog", "BewareTheNiceOnes"], "tropes_by_category": {}, "similar": []}

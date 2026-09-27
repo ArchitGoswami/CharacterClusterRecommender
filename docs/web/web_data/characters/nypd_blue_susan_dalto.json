@@ -1,15 +1,1 @@
-{
-  "name": "Susan Dalto",
-  "show": "NYPD Blue",
-  "trope_count": 7,
-  "tropes": [
-    "SkewedPriorities",
-    "ZeroPercentApprovalRating",
-    "SmallNameBigEgo",
-    "PutOnABus",
-    "ObstructiveBureaucrat",
-    "TwoferTokenMinority",
-    "InUniverse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Susan Dalto", "show": "NYPD Blue", "trope_count": 7, "tropes": ["SkewedPriorities", "ZeroPercentApprovalRating", "SmallNameBigEgo", "PutOnABus", "ObstructiveBureaucrat", "TwoferTokenMinority", "InUniverse"], "tropes_by_category": {}, "similar": [{"name": "Principal W. Seymour Skinner", "show": "Simpsons,The", "id": "simpsonsthe_principal_w_seymour_skinner", "similarity": 0.0357, "shared_tropes": 4}, {"name": "Principal W. Seymour Skinner", "show": "The Simpsons", "id": "the_simpsons_principal_w_seymour_skinner", "similarity": 0.0357, "shared_tropes": 4}]}

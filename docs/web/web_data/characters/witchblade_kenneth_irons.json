@@ -1,17 +1,1 @@
-{
-  "name": "Kenneth Irons",
-  "show": "Witchblade",
-  "trope_count": 9,
-  "tropes": [
-    "EmpoweredBadassNormal",
-    "DisneyVillainDeath",
-    "BigBad",
-    "BadassNormal",
-    "Really700YearsOld",
-    "Fiction500",
-    "CorruptCorporateExecutive",
-    "Immortality",
-    "DatingCatwoman"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kenneth Irons", "show": "Witchblade", "trope_count": 9, "tropes": ["EmpoweredBadassNormal", "DisneyVillainDeath", "BigBad", "BadassNormal", "Really700YearsOld", "Fiction500", "CorruptCorporateExecutive", "Immortality", "DatingCatwoman"], "tropes_by_category": {}, "similar": [{"name": "Gerald Irons", "show": "Witchblade", "id": "witchblade_gerald_irons", "similarity": 0.5385, "shared_tropes": 7}, {"name": "Dan Halen", "show": "Squidbillies", "id": "squidbillies_dan_halen", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Macbeth Mac Findlaech", "show": "Gargoyles", "id": "gargoyles_macbeth_mac_findlaech", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Silico", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_silico", "similarity": 0.0426, "shared_tropes": 4}]}

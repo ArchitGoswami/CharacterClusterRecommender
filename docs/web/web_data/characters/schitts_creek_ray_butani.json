@@ -1,16 +1,1 @@
-{
-  "name": "Ray Butani",
-  "show": "Schitts Creek",
-  "trope_count": 8,
-  "tropes": [
-    "ShadyRealEstateAgent",
-    "NewJobAsThePlotDemands",
-    "HiddenDepths",
-    "JackOfAllTrades",
-    "RoommateDrama",
-    "InnocentlyInsensitive",
-    "ComicallyMissingThePoint",
-    "ChristmasEpisode"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ray Butani", "show": "Schitts Creek", "trope_count": 8, "tropes": ["ShadyRealEstateAgent", "NewJobAsThePlotDemands", "HiddenDepths", "JackOfAllTrades", "RoommateDrama", "InnocentlyInsensitive", "ComicallyMissingThePoint", "ChristmasEpisode"], "tropes_by_category": {}, "similar": [{"name": "London Tipton", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_london_tipton", "similarity": 0.0412, "shared_tropes": 4}]}

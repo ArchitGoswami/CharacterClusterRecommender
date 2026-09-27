@@ -1,15 +1,1 @@
-{
-  "name": "Luke",
-  "show": "Mom",
-  "trope_count": 7,
-  "tropes": [
-    "TheBusCameBack",
-    "DirtyCoward",
-    "KindheartedSimpleton",
-    "MrFanservice",
-    "PutOnABus",
-    "CharacterDevelopment",
-    "Irony"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Luke", "show": "Mom", "trope_count": 7, "tropes": ["TheBusCameBack", "DirtyCoward", "KindheartedSimpleton", "MrFanservice", "PutOnABus", "CharacterDevelopment", "Irony"], "tropes_by_category": {}, "similar": []}

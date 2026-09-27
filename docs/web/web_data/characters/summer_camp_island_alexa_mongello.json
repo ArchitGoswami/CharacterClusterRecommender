@@ -1,13 +1,1 @@
-{
-  "name": "Alexa Mongello",
-  "show": "Summer Camp Island",
-  "trope_count": 5,
-  "tropes": [
-    "TomboyAndGirlyGirl",
-    "Tomboy",
-    "TomboyWithAGirlyStreak",
-    "TomboyishBaseballCap",
-    "TomboyishPonytail"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alexa Mongello", "show": "Summer Camp Island", "trope_count": 5, "tropes": ["TomboyAndGirlyGirl", "Tomboy", "TomboyWithAGirlyStreak", "TomboyishBaseballCap", "TomboyishPonytail"], "tropes_by_category": {}, "similar": [{"name": "Wendy", "show": "Bob the Builder", "id": "bob_the_builder_wendy", "similarity": 0.25, "shared_tropes": 4}, {"name": "Wilhelmina Dagmar \"W.D.\" Merkle", "show": "Arthur", "id": "arthur_wilhelmina_dagmar_w_d_merkle", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Margo Roberts", "show": "Loud House, The", "id": "loud_house_the_margo_roberts", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Ronalda \"Ronnie\" Anne Santiago", "show": "Casagrandes, The", "id": "casagrandes_the_ronalda_ronnie_anne_santiago", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Ronalda \"Ronnie\" Anne Santiago", "show": "Loud House, The", "id": "loud_house_the_ronalda_ronnie_anne_santiago", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Lana L. Loud", "show": "Loud House, The", "id": "loud_house_the_lana_l_loud", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Sam Manson", "show": "Danny Phantom", "id": "danny_phantom_sam_manson", "similarity": 0.044, "shared_tropes": 4}]}

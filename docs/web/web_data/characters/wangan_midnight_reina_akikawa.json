@@ -1,15 +1,1 @@
-{
-  "name": "Reina Akikawa",
-  "show": "Wangan Midnight",
-  "trope_count": 7,
-  "tropes": [
-    "PreFinalBoss",
-    "TookALevelInBadass",
-    "MightyGlacier",
-    "TheRival",
-    "AdaptationPersonalityChange",
-    "YouDontLookLikeYou",
-    "CurbStompBattle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Reina Akikawa", "show": "Wangan Midnight", "trope_count": 7, "tropes": ["PreFinalBoss", "TookALevelInBadass", "MightyGlacier", "TheRival", "AdaptationPersonalityChange", "YouDontLookLikeYou", "CurbStompBattle"], "tropes_by_category": {}, "similar": [{"name": "Brainstorm", "show": "Ben 10", "id": "ben_10_brainstorm", "similarity": 0.125, "shared_tropes": 4}, {"name": "Series  7 (2003-2004)", "show": "Mock the Week", "id": "mock_the_week_series_7_2003_2004", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Series  7 (2003-2004)", "show": "Robot Wars", "id": "robot_wars_series_7_2003_2004", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Breakdown", "show": "Transformers Prime", "id": "transformers_prime_breakdown", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Series  10 (2017)", "show": "Mock the Week", "id": "mock_the_week_series_10_2017", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Series  10 (2017)", "show": "Robot Wars", "id": "robot_wars_series_10_2017", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Recurring Teams & Robots", "show": "Robot Wars", "id": "robot_wars_recurring_teams_robots", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Series  2", "show": "Robot Wars", "id": "robot_wars_series_2", "similarity": 0.0381, "shared_tropes": 4}]}

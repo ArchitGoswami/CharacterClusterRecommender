@@ -1,14 +1,1 @@
-{
-  "name": "Mr. Kim",
-  "show": "Clone High",
-  "trope_count": 6,
-  "tropes": [
-    "StatusQuoIsGod",
-    "GoodParents",
-    "InkSuitActor",
-    "WellIntentionedExtremist",
-    "SoUnfunnyItsFunny",
-    "OpenMindedParent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Kim", "show": "Clone High", "trope_count": 6, "tropes": ["StatusQuoIsGod", "GoodParents", "InkSuitActor", "WellIntentionedExtremist", "SoUnfunnyItsFunny", "OpenMindedParent"], "tropes_by_category": {}, "similar": []}

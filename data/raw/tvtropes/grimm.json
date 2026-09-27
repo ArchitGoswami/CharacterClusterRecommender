@@ -322,12 +322,14 @@
       "name": "Joe",
       "media_title": "Grimm",
       "tropes": [
-        "AssholeVictim",
-        "DirtyCoward",
         "DidntThinkThisThrough",
-        "OnlyOneName"
+        "DirtyCoward",
+        "OnlyOneName",
+        "CatsAreMean",
+        "AssholeVictim",
+        "HateSink"
       ],
-      "description": "Asshole Victim: While he doesn't die, Nick arrests him and considering everything he did, he's going to prison for a long time, more likely 30 or more years. Didn't Think This Through: Even if he did succeed in getting Alicia back, he would have a lot of charges with domestic abuse, assaulting a police officer, breaking and entering, and attempted murder, especially since Nick is a Grimm and can overpower him since Joe is a coward and Juliette was able to easily get the upper hand. Dirty Coward: Abuses Alicia and tries to kill Nick and Juliette but after learning that Nick is a Grimm, he immediately begs Nick not to kill him and says that he never wanted to hurt Alicia, but Nick and Juliette aren't buying it. Only One Name: The audience never learns his last name as everyone only refers to him as Joe.",
+      "description": "Asshole Victim: While he doesn't die, Nick arrests him and considering everything he did, he's going to prison for a long time, more likely 30 or more years. Cats Are Mean: A klaustreich who's a domestic abuser. Didn't Think This Through: Even if he did succeed in getting Alicia back, he would have a lot of charges with domestic abuse, assaulting a police officer, breaking and entering, and attempted murder, especially since Nick is a Grimm and can overpower him since Joe is a coward and Juliette was able to easily get the upper hand. Dirty Coward: Abuses Alicia and tries to kill Nick and Juliette but after learning that Nick is a Grimm, he immediately begs Nick not to kill him and says that he never wanted to hurt Alicia, but Nick and Juliette aren't buying it. Hate Sink: A cowardly abusive husband whose main role is to show Juliette's mettle against a Wesen now that she's in the know about what Nick does as a Grimm.",
       "source": "tvtropes"
     },
     {
@@ -445,14 +447,15 @@
       "name": "Charlie Riken",
       "media_title": "Grimm",
       "tropes": [
-        "DirtyCoward",
         "ImpaledWithExtremePrejudice",
+        "DirtyCoward",
+        "CrazyPrepared",
         "AssholeVictim",
         "JudgeJuryAndExecutioner",
-        "ArcVillain",
-        "CruelAndUnusualDeath"
+        "CruelAndUnusualDeath",
+        "ArcVillain"
       ],
-      "description": "Arc Villain: Of the Wesenrein arc as he is the leader of the cult and has threatened Monroe and Rosalee lives over their marriage for half of season four. Asshole Victim: Giving how he had many people kidnapped and then sentenced to death and attempting to do the same to Monroe, it was so satisfying seeing him die by Monroe and Rosalee's hands. Cruel and Unusual Death: Those judged guilty by the Wesenrein areImpaled with Extreme Prejudicethen burned alive. Dirty Coward: When Nick and the others arrive at the park and stop the tribunal, Riken immediately runs for the hills. Judge, Jury, and Executioner: He's the grandmaster who delivers the verdict on whether the victim lives or dies.",
+      "description": "Arc Villain: Of the Wesenrein arc as he is the leader of the cult and has threatened Monroe and Rosalee lives over their marriage for half of season four. Asshole Victim: Giving how he had many people kidnapped and then sentenced to death and attempting to do the same to Monroe, it was so satisfying seeing him die by Monroe and Rosalee's hands. Crazy-Prepared: With an emphasis oncrazy. While his underlings prepare the stake Monroe is meant to be impaled on, Charlie brandishes a pistol and tells Monroe that he'll shoot the latter if he tries to escape again. Not tokillhim, mind you, just to incapacitate him; Charlie has every intention of making sure Monroe is alive enough to feel hisCruel and Unusual Death. Cruel and Unusual Death: Those judged guilty by the Wesenrein areImpaled with Extreme Prejudicethen burned alive. Dirty Coward: When Nick and the others arrive at the park and stop the tribunal, Riken immediately runs for the hills.",
       "source": "tvtropes"
     },
     {
@@ -961,7 +964,1840 @@
       ],
       "description": "Reasonable Authority Figure: While she's initially upset about Nick and Hank reopening a death penalty case tied to her campaign, she does call the governor to delay the execution when they call her claiming to have new evidence. She's also willing to let Hank and Nick talk to the press rather than capitalize on it herself (although they let her do it anyway).",
       "source": "tvtropes"
+    },
+    {
+      "name": "Nick Burkhardt",
+      "media_title": "Grimm",
+      "tropes": [
+        "WildCard",
+        "CharacterDevelopment",
+        "DanceBattler",
+        "HesBack",
+        "NotQuiteHuman",
+        "LosingYourHead",
+        "AxCrazy",
+        "IJustWantToBeNormal",
+        "NervesOfSteel",
+        "HotBlooded",
+        "CameBackWrong",
+        "DownplayedTrope",
+        "TookALevelInBadass",
+        "HiredToHuntYourself",
+        "TerrorHero",
+        "CareerAproposEmpowering",
+        "TrueSight",
+        "TranquilFury",
+        "EeriePaleSkinnedBrunette",
+        "DeadpanSnarker",
+        "ParentalAbandonment",
+        "OurOgresAreHungrier",
+        "VillainKiller",
+        "InvisibleToNormals",
+        "UnderestimatingBadassery",
+        "LightningBruiser",
+        "TheChosenOne",
+        "TheStoic",
+        "ScarilyCompetentTracker",
+        "BackToBackBadasses",
+        "TallDarkAndHandsome",
+        "KnightTemplar",
+        "SuperSenses",
+        "BroughtDownToNormal",
+        "BigBrotherMentor",
+        "IcyGrayEyes",
+        "CowardiceCallout",
+        "TrueCompanions",
+        "BeingGoodSucks",
+        "LanternJawOfJustice",
+        "FridgeBrilliance",
+        "HeartbrokenBadass",
+        "VanHelsingHateCrimes",
+        "WouldHitAGirl",
+        "ProudWarriorRaceGuy",
+        "LaserGuidedAmnesia",
+        "YouKilledMyFather",
+        "RavenHairIvorySkin",
+        "EmpoweredBadassNormal",
+        "UndyingLoyalty",
+        "BadassNormal",
+        "HeroesPreferSwords",
+        "AssassinOutclassin",
+        "AmnesiacLover",
+        "AdaptiveAbility",
+        "TheHero",
+        "BewareTheNiceOnes",
+        "ToBeLawfulOrGood",
+        "PermaStubble",
+        "MercyKill",
+        "InUniverse",
+        "RiseFromYourGrave",
+        "HeWhoFightsMonsters",
+        "TheDreaded",
+        "TheScapegoat",
+        "BroughtDownToBadass",
+        "WeirdnessMagnet",
+        "BrainwashedAndCrazy",
+        "ActionHero",
+        "HowDoIShotWeb",
+        "SuperStrength",
+        "GoodIsNotSoft",
+        "PapaWolf",
+        "ActionDad",
+        "AndThenJohnWasAZombie",
+        "OneManArmy",
+        "BadassBoast",
+        "UnderstandingBoyfriend",
+        "WeakToMagic",
+        "RoaringRampageOfRevenge",
+        "NamesToRunAwayFromReallyFast",
+        "GoMadFromTheRevelation",
+        "ConsummateLiar",
+        "CombatPragmatist",
+        "TechnicallyLivingZombie",
+        "NoSell",
+        "LastOfHisKind",
+        "ParentalSubstitute",
+        "FairCop",
+        "DiscardAndDraw",
+        "TheMasquerade",
+        "SuperReflexes",
+        "NiceGuy",
+        "TheBigGuy",
+        "YouHaveToBelieveMe",
+        "WhatMeasureIsANonHuman",
+        "AntiHero",
+        "NaiveNewcomer",
+        "TheWatson",
+        "PowersInTheFirstEpisode",
+        "ChoiceOfTwoWeapons"
+      ],
+      "description": "Action Dad: Following his son being born. Action Hero: He's a Grimm so it pretty much comes with the territory. As of the end of Season 5, he's personally responsible for the deaths of 56 people. Adaptive Ability: He's been disabled multiple times and each experience left him with new abilities.His temporary blindness resulted in him developing a heightened sense of hearing as well as the ability to accurately sense people and objects around him.His experience as a zombie made him stronger and more resilient than the average Grimmnotewho are already physically superior to average humansand gave his metabolism the involuntary ability to slow down and speed up as his body requires, meaning that physical exertion doesn't tire him like it used to. The last ability occasionally slows down his metabolism to the point where others think he's dead, however. His temporary blindness resulted in him developing a heightened sense of hearing as well as the ability to accurately sense people and objects around him. His experience as a zombie made him stronger and more resilient than the average Grimmnotewho are already physically superior to average humansand gave his metabolism the involuntary ability to slow down and speed up as his body requires, meaning that physical exertion doesn't tire him like it used to. The last ability occasionally slows down his metabolism to the point where others think he's dead, however.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Hank Griffin",
+      "media_title": "Grimm",
+      "tropes": [
+        "UndyingLoyalty",
+        "BadassNormal",
+        "TearJerker",
+        "HeroicBSOD",
+        "Foil",
+        "CowboyCop",
+        "WeirdnessCensor",
+        "MuggleBestFriend",
+        "NoSell",
+        "LoveMakesYouDumb",
+        "BreakTheBadass",
+        "GameFace",
+        "TookALevelInBadass",
+        "WhyDidItHaveToBeSnakes",
+        "CartwrightCurse",
+        "SanitySlippage",
+        "BrainwashedAndCrazy",
+        "BrokenMasquerade",
+        "TokenHuman",
+        "AntiHero",
+        "ShotgunsAreJustBetter",
+        "HeroicWillpower",
+        "DatingCatwoman",
+        "DistressedDude",
+        "TheLancer"
+      ],
+      "description": "Anti-Hero: Has some elements of this, such as the parts listed underCowboy Cop. Badass Normal: Unlike Nick, Monroe, or any of the Wesen threats they face, Hank is just an ordinary cop with a mean right hook and excellent aim. This is enough for him. Brainwashed and Crazy: Hank falls victim to thisthanks to evil mind control cookies from Adalind. Break the Badass/Sanity Slippage: After the events in \"Big Feet\", Hank is(well,was)clearly starting to go off the deep end with paranoia. Broken Masquerade:Finally finds out the truth in \"Bad Moon Rising\" after several weeks of thinking he's going crazy. It very nearly doesn't go well, but he fortunately gets through it without blowing his goddaughter's head off in a panic when he sees herGame Face. He's much happier for knowing.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Monroe",
+      "media_title": "Grimm",
+      "tropes": [
+        "UnskilledButStrong",
+        "BerserkButton",
+        "MrExposition",
+        "UndyingLoyalty",
+        "BackToBackBadasses",
+        "OnlyOneName",
+        "HeroicNeutral",
+        "GenreSavvy",
+        "BigBrotherMentor",
+        "BewareTheNiceOnes",
+        "RoaringRampageOfRevenge",
+        "MonstersAnonymous",
+        "Hypocrite",
+        "FriendToAllChildren",
+        "DarkAndTroubledPast",
+        "WaistCoatOfStyle",
+        "AlwaysSaveTheGirl",
+        "RetiredMonster",
+        "BadBadActing",
+        "BadassBookworm",
+        "BrainyBrunette",
+        "HypercompetentSidekick",
+        "TotallyRadical",
+        "LampshadeHanging",
+        "MotorMouth",
+        "MoreDakka",
+        "ChronicHeroSyndrome",
+        "ScrewTheRulesImDoingWhatsRight",
+        "GameFace",
+        "NonIdleRich",
+        "SerialKiller",
+        "NeutralNoLonger",
+        "INeedAFreakingDrink",
+        "ElegantClassicalMusician",
+        "WolfMan",
+        "InformedAbility",
+        "ChristmasEnthusiast",
+        "VegetarianVampire",
+        "TranquilFury",
+        "CulturedBadass",
+        "OneHeadTaller",
+        "BetaCouple",
+        "DeadpanSnarker",
+        "WonderfulWerewolf",
+        "GeniusBruiser",
+        "TheAtoner",
+        "CaptainObvious",
+        "NiceGuy",
+        "TheBigGuy",
+        "TheBigBadWolf",
+        "EveryManHasHisPrice",
+        "BattleCouple",
+        "RedEyesTakeWarning",
+        "AntiHero",
+        "CurbStompBattle",
+        "MrFanservice",
+        "TheNoseKnows",
+        "EvilChef",
+        "FalselyReformedVillain",
+        "GibberingGenius",
+        "RelationshipUpgrade",
+        "GoodIsNotSoft",
+        "BirdsOfAFeather",
+        "WhiteSheep",
+        "PapaWolf",
+        "KnightInSourArmor",
+        "NonHumanSidekick"
+      ],
+      "description": "Always Save the Girl: Almost goes into this territory in \"Cat and Mouse\" when Rosalee is in danger. They're not even dating, god help everyone should we see this guy in full blown love.Comes close again in \"This Kiss\" where he gets pissed at a hexenbiest 'haggling' Rosalee down by 50 bucks on some expensive item. She even notes that \"It's very sweet.\"We finally get to see what he'll do to defend Rosalee while in full blown love in \"One Angry Fuchsbau\".Mr. Zeigevolk, meet shelf. Comes close again in \"This Kiss\" where he gets pissed at a hexenbiest 'haggling' Rosalee down by 50 bucks on some expensive item. She even notes that \"It's very sweet.\" We finally get to see what he'll do to defend Rosalee while in full blown love in \"One Angry Fuchsbau\".Mr. Zeigevolk, meet shelf. Anti-Hero: Monroe's undoubtedly a nice guy, but he's not above going into his more savage and ruthless side, when the need is there. The Atoner: He has done some very \"Big Bad Wolf\" things in his past that he isn't proud of, and seeks to be a better man than he was.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Juliette Silverton",
+      "media_title": "Grimm",
+      "tropes": [
+        "ProperlyParanoid",
+        "CharacterDeath",
+        "ThisIsGonnaSuck",
+        "InnocentlyInsensitive",
+        "NervesOfSteel",
+        "NeverASelfMadeWoman",
+        "EvilWearsBlack",
+        "TookALevelInBadass",
+        "RapidFireNo",
+        "TranquilFury",
+        "EvilFeelsGood",
+        "ThereIsNoCure",
+        "DeadpanSnarker",
+        "PowerIncontinence",
+        "FriendToAllLivingThings",
+        "HorribleJudgeOfCharacter",
+        "WomenAreWiser",
+        "DomesticAbuse",
+        "DamselInDistress",
+        "TookALevelInJerkass",
+        "WithGreatPowerComesGreatInsanity",
+        "ActionSurvivor",
+        "NeverMyFault",
+        "ItMakesSenseInContext",
+        "BigBadSlippage",
+        "FaceHeelTurn",
+        "InTheBack",
+        "ForcedTransformation",
+        "WithUsOrAgainstUs",
+        "LockedOutOfTheLoop",
+        "BloodMagic",
+        "INeedAFreakingDrink",
+        "KindlyVet",
+        "FauxAffablyEvil",
+        "SubvertedTrope",
+        "Narcissist",
+        "ImprobableAimingSkills",
+        "EvenEvilHasStandards",
+        "LaserGuidedAmnesia",
+        "SatelliteLoveInterest",
+        "FormerTeenRebel",
+        "EmpoweredBadassNormal",
+        "Humanshifting",
+        "YouGoGirl",
+        "ScienceHero",
+        "BadassNormal",
+        "CoolBigSis",
+        "StoryBreakerPower",
+        "AmnesiacLover",
+        "LoveInterest",
+        "ThatManIsDead",
+        "HeelFaceTurn",
+        "TheCastShowOff",
+        "MagicalLand",
+        "GroinAttack",
+        "InUniverse",
+        "HypercompetentSidekick",
+        "EstablishingCharacterMoment",
+        "ContinuityLockout",
+        "HiddenDepths",
+        "WeirdnessMagnet",
+        "ReadingsAreOffTheScale",
+        "MeaningfulName",
+        "EvilSorcerer",
+        "DestructoNookie",
+        "ILoveTheDead",
+        "FalseSoulmate",
+        "FryingPanOfDoom",
+        "UnderstandingBoyfriend",
+        "BackFromTheDead",
+        "WalkingSpoiler",
+        "Hypocrite",
+        "CombatPragmatist",
+        "SuicideByCop",
+        "PsychoExGirlfriend",
+        "NoSell",
+        "CallBack",
+        "ImprovisedWeapon",
+        "OhCrap",
+        "GuiltComplex",
+        "BloodFromTheMouth",
+        "DealWithTheDevil",
+        "EmotionlessGirl"
+      ],
+      "description": "Action Survivor: She got her moment of this in \"Game Ogre\", that has sincedevelopedinto a full-on character trait.Until she becomes a Hexenbeist. Amnesiac Lover:Interestingly, she doesn't abandon Nick, and they still like each other, so this may be one of the more benign versions of this trope. She later recovers. Back from the Dead:She returns in the final scene in \"Wesen Nacht\", now working in Hadrian's Wall under her new alter ego Eve. Badass Normal: Starting to show signs of this (taking on the ogre, being clear-headed enough to take down the details of the car that was watching the house, not letting Nick treat her like aDamsel in Distress, etc). She kicked the ass of a Klaustreich more or less by her self.With her turn into a Hexenbiest, she is anEmpowered Badass Normal. Big Bad Slippage:When she becomes a Hexenbiest, her morality breaks down and starts fights, sets the trailer where Nick keeps his journals on fire, and conspires with several villains.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Captain Sean Renard",
+      "media_title": "Grimm",
+      "tropes": [
+        "WildCard",
+        "StiffUpperLip",
+        "AmbiguouslyEvil",
+        "MagnificentBastard",
+        "Pride",
+        "NervesOfSteel",
+        "Omniglot",
+        "ChronicBackstabbingDisorder",
+        "TwoFaced",
+        "KickTheDog",
+        "HalfHumanHybrid",
+        "DownplayedTrope",
+        "HeroicBastard",
+        "DemonicPossession",
+        "EvenEvilHasLovedOnes",
+        "TranquilFury",
+        "DeadpanSnarker",
+        "EarAche",
+        "TheCharmer",
+        "MrFanservice",
+        "EvilCounterpart",
+        "NecessarilyEvil",
+        "PragmaticVillainy",
+        "MurderBallad",
+        "MoleInCharge",
+        "FantasticFoxes",
+        "SensitiveGuyAndManlyMan",
+        "RoyalBlood",
+        "WarriorPrince",
+        "TheTrickster",
+        "TallDarkAndHandsome",
+        "BroughtDownToNormal",
+        "FaceHeelTurn",
+        "TheDragon",
+        "MageSpecies",
+        "NonIndicativeName",
+        "ImpoverishedPatrician",
+        "NonIdleRich",
+        "FauxAffablyEvil",
+        "Narcissist",
+        "TunelessSongOfMadness",
+        "DidntThinkThisThrough",
+        "CunningLikeAFox",
+        "DoubleReverseQuadrupleAgent",
+        "EvenEvilHasStandards",
+        "SelfMadeMan",
+        "TokenEvilTeammate",
+        "EvenBadMenLoveTheirMamas",
+        "GetawayDriver",
+        "TheCastShowOff",
+        "TheDreaded",
+        "HypercompetentSidekick",
+        "Deuteragonist",
+        "TheGoodCaptain",
+        "AntiVillain",
+        "InsistentTerminology",
+        "CulturedBadass",
+        "MirrorMatch",
+        "RoyalBastard",
+        "AffablyEvil",
+        "MeaningfulName",
+        "DaChief",
+        "AllForNothing",
+        "EvilSorcerer",
+        "YouNeedToGetLaid",
+        "BadassLongcoat",
+        "BigBad",
+        "BodyHorror",
+        "LargeAndInCharge",
+        "ManipulativeBastard",
+        "BastardBastard",
+        "BackFromTheDead",
+        "TheMole",
+        "LoveFatherLoveSon",
+        "KangarooCourt",
+        "Hypocrite",
+        "QuipToBlack",
+        "AFatherToHisMen",
+        "TheManBehindTheMan",
+        "WorfHadTheFlu",
+        "ReasonableAuthorityFigure",
+        "OpportunisticBastard",
+        "TheCaptain",
+        "NobleDemon",
+        "PetTheDog",
+        "FairCop",
+        "UnscrupulousHero",
+        "IDidWhatIHadToDo",
+        "TheStarscream",
+        "NoPartyGiven",
+        "ArcVillain",
+        "GreaterScopeVillain",
+        "AntiHero",
+        "VillainousBreakdown",
+        "RoyalsWhoActuallyDoSomething",
+        "NightmareFace",
+        "ALighterShadeOfGrey"
+      ],
+      "description": "Affably Evil: Despite the fact that Woosley has a gun to his head, Renard is quite cordial with him. This is one of several examples of him being a stern but fair figure. He's also heavily involved in the Wesen underworld and frequently works to thwart Nick. All for Nothing: After betraying Nick and the rest for Black Claw, he got his position as mayor but lost it after Nick outsmarts him and now no one trusts him anymore especially since he's the reason Meisner is dead, and Hadrian's Wall being destroyed. Ambiguously Evil: Seemed like a clear-cutBig Badat first, but his actual role is becoming more ambiguous as time goes on. Anti-Hero:As of \"Nameless\", it is confirmed that he is working with the resistance to try to keep the royal families from reasserting their aristocratic control over society instead of democratic controls of modernity. Anti-Villain:Renard protects Nick, even though he is putting himself at risk to do so, but was looking to take the key entrusted to Nick by Aunt Marie.Heactuallydidobtain the key in \"Face Off\", but ended up giving it back to Nick.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Drew Wu",
+      "media_title": "Grimm",
+      "tropes": [
+        "GenreSavvy",
+        "CharacterizationMarchesOn",
+        "HeroicBSOD",
+        "GoMadFromTheRevelation",
+        "UnluckyChildhoodFriend",
+        "StatusQuoIsGod",
+        "LastNameBasis",
+        "AsianAndNerdy",
+        "HorrorHunger",
+        "LampshadeHanging",
+        "CameBackWrong",
+        "ExtremeOmnivore",
+        "ThrowTheDogABone",
+        "ButtMonkey",
+        "BrokenMasquerade",
+        "DeadpanSnarker",
+        "HollywoodHealing",
+        "LuckyRabbitsFoot",
+        "TheSmartGuy",
+        "SecretKeeper",
+        "BodyHorror",
+        "AndThenJohnWasAZombie"
+      ],
+      "description": "And Then John Was a Zombie:He gets a scratch from a werewolf in \"Lycanthropia\" and naturally, things start to develop from there. Asian and Nerdy:Lampshaded.Nick:Can you see who he texted?Wu:Of course I can; I'm Asian.It's later revealed that his hobbies include video games and solving puzzles, though he admits he's relatively rusty at the latter.He's also apparently enthusiastic when it comes tolearning about the Wesen world, and mentions at one point that hecould stay in the trailer for hours. It's later revealed that his hobbies include video games and solving puzzles, though he admits he's relatively rusty at the latter. He's also apparently enthusiastic when it comes tolearning about the Wesen world, and mentions at one point that hecould stay in the trailer for hours. Body Horror: He suffers from this in \"Island of Dreams\" thanks to eating an evil witch cookie not meant for him. Unlike other examples of this where the victim is cured,Hollywood Healingis not in play. Not only does he have to sleep off the trauma, but he also has a mess of open sores on his face from it.And for the next two episodes he is eating anything he gets his hands on, from his carpet, couch foam, to paperclips and chap-stick.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Rosalee Calvert",
+      "media_title": "Grimm",
+      "tropes": [
+        "MrExposition",
+        "FormerTeenRebel",
+        "ViolentlyProtectiveGirlfriend",
+        "YouGoGirl",
+        "CuteMonsterGirl",
+        "DefrostingIceQueen",
+        "BigBrotherWorship",
+        "TheSmartGirl",
+        "BewareTheNiceOnes",
+        "TheHero",
+        "NervesOfSteel",
+        "GuileHero",
+        "DarkAndTroubledPast",
+        "PutOnABus",
+        "TheMedic",
+        "TheLancer",
+        "BadassBookworm",
+        "BrainyBrunette",
+        "HypercompetentSidekick",
+        "ShutUpHannibal",
+        "DownplayedTrope",
+        "GameFace",
+        "DynamicEntry",
+        "INeedAFreakingDrink",
+        "WhenSheSmiles",
+        "TheMasquerade",
+        "SugarAndIcePersonality",
+        "FoxyVixen",
+        "ReactionShot",
+        "WonderfulWerewolf",
+        "RealLifeWritesThePlot",
+        "TheStoic",
+        "BattleCouple",
+        "LikeBrotherAndSister",
+        "RelationshipUpgrade",
+        "BadassAdorable",
+        "BrokenBird",
+        "BirdsOfAFeather",
+        "TheStrategist",
+        "HideYourPregnancy",
+        "FantasticFoxes",
+        "EmotionlessGirl",
+        "InconsistentSpelling"
+      ],
+      "description": "A fuchsbau who first appears in \"Island of Dreams\" after her brother Freddy is killed, and takes over his apothecary. She ends up helping save Sgt. Wu's life after he eats special cookies intended to make Hank fall in love with Adalind. Rosalee and Monroe are obviously developing a romantic relationship, albeit quietly. Badass Bookworm: When her brother's murderers return to get their score not only was she able to injure one of them but she was also able to lock them up in the apothecary before running away. Likewise, in \"Cat and Mouse\" when she's grabbed from behind, she elbows her attacker and throws him to the ground to buy time to run to safety. Heck, whenNick's Mom jumps Monroe, she joins Nick in trying to keep the two from killing each other by physically interposing herself between them. Let's reiterate. In a fight between a blutbad and a Grimm, she's jumping in between the two. There's a reason you don't mess withThe Smart Girl. Badass Adorable: Able to handle herself and is a credible threat, while remaining cute and loveable. Battle Couple: With Monroe. When push comes to shove, they have each other's back and will fight well together. Beware the Nice Ones: Rosalee is by any standard a very nice person, being very sweet and caring. Doesn't mean she can't join in with the darker parts of Nick's job.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Adalind Schade",
+      "media_title": "Grimm",
+      "tropes": [
+        "UnskilledButStrong",
+        "CharacterDevelopment",
+        "SmugSnake",
+        "PutOnABus",
+        "TookALevelInKindness",
+        "MoralEventHorizon",
+        "NeverASelfMadeWoman",
+        "FreudianExcuse",
+        "StepfordSmiler",
+        "LastGirlWins",
+        "ExpressDelivery",
+        "RedemptionPromotion",
+        "DeadpanSnarker",
+        "ManipulativeBitch",
+        "BeCarefulWhatYouWishFor",
+        "TakenForGranite",
+        "AlwaysChaoticEvil",
+        "DoesThisRemindYouOfAnything",
+        "FirstGirlWins",
+        "LaserGuidedKarma",
+        "SingleWomanSeeksGoodMan",
+        "ActionGirl",
+        "WhosYourDaddy",
+        "DefiledForever",
+        "IdiotBall",
+        "SecondLove",
+        "SympathyForTheDevil",
+        "BroughtDownToNormal",
+        "BitchInSheepsClothing",
+        "DarkMagicalGirl",
+        "NothingIsScarier",
+        "TheDragon",
+        "TheChessmaster",
+        "FemmeFatale",
+        "BedTrick",
+        "BloodMagic",
+        "BreakTheHaughty",
+        "AmoralAttorney",
+        "NiceJobFixingItVillain",
+        "DidntThinkThisThrough",
+        "CurbStompBattle",
+        "CreateYourOwnVillain",
+        "LoveMartyr",
+        "DragonInChief",
+        "StupidEvil",
+        "YouKilledMyFather",
+        "EyelessFace",
+        "NotSoHarmlessVillain",
+        "UndyingLoyalty",
+        "ShipTease",
+        "MistreatmentInducedBetrayal",
+        "HeelFaceTurn",
+        "AllWitchesHaveCats",
+        "HotWitch",
+        "GirlFriday",
+        "AbusiveParents",
+        "TheBusCameBack",
+        "SaveTheVillain",
+        "AntiVillain",
+        "EvilIsPetty",
+        "MamaBear",
+        "MeaningfulName",
+        "TheGhost",
+        "WomanScorned",
+        "UsedToBeASweetKid",
+        "HelloAttorney",
+        "BodyHorror",
+        "LoveMakesYouEvil",
+        "LivingMacGuffin",
+        "ThatPoorCat",
+        "StageMom",
+        "MorningSickness",
+        "UnwittingInstigatorOfDoom",
+        "CuteAndPsycho",
+        "IHatePastMe",
+        "TheBaroness",
+        "EnemyMine",
+        "OhCrap",
+        "PetTheDog",
+        "DarkActionGirl",
+        "WoundedGazelleGambit",
+        "MsFanservice",
+        "DawsonCasting",
+        "YouHaveOutlivedYourUsefulness",
+        "NightmareFace"
+      ],
+      "description": "A Hexenbiest who worked for Renard at the start of the series. She lost her Hexenbiest powers early in the series but eventually regained them. She was a recurring antagonist of Nick's. Action Girl: With her Hexenbiest powers and enhanced strength, she was able to kill a huge thug and even fight Nick for a short while (but was still completely beaten). However, after beingBrought Down to Normal, she seemed to have no combat skills. Her morality began shifting around in Seasons 3 and 4when she eventually regained her powers and one of the first things she did was save Meisner's life by killing a Verrat agent with them. The birth of Diana around the same time triggered herMama Bearinstincts, and she constantly wavered around the moral totem until she finally chose a sidewhen she had her second child. Anti-Villain: Had anabusive momto whom shewas fiercely devotedand was aLove Martyrto Renard. They actually used her as a pawn and were probably sleeping together,with the mother encouraging her daughter to pursue Renard in order to advance in her own agendas. Add that to the fact that Grimms are usually very dangerous to all Wesen, and that most of the villainous things she did were ordered by others or in reaction tobeing wronged herself, and you have anAnti-Villain. She initially became pregnant in order tosell the child to astill unspecified fateso she could get her powers back. However, she grew to love and bond with her daughter, and it seemed that her newMama Beartraits would pull her further intoAnti-Villainterritory. And indeed it did, in a very unique way. Her daughter was taken from her by the Resistance, facilitated by Renard, Nick, and the other protagonists. Unaware of this, she believed the Royals had her. She contacted them to get her back, and they manipulated her by telling her that they would, but that she had to do something for them. Said something was disguising herself as Juliette, effectively raping Nick while disguised to strip his Grimm powers. Al",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Grimm",
+      "media_title": "Grimm",
+      "tropes": [
+        "AdaptiveAbility",
+        "NotQuiteHuman",
+        "BadassFamily",
+        "BeethovenWasAnAlienSpy",
+        "OffWithHisHead",
+        "YouAreTheTranslatedForeignWord",
+        "NoSell",
+        "MoreDeadlyThanTheMale",
+        "HorrifyingTheHorror",
+        "HunterOfMonsters",
+        "TheDreaded",
+        "SherlockScan",
+        "DownplayedTrope",
+        "ByTheEyesOfTheBlind",
+        "BlackEyesOfEvil",
+        "TrueSight",
+        "EeriePaleSkinnedBrunette",
+        "BizarreHumanBiology",
+        "HoistByHisOwnPetard",
+        "RequiredSecondaryPowers",
+        "DisabilitySuperpower",
+        "HollywoodVoodoo",
+        "SuperStrength",
+        "EmpoweredBadassNormal"
+      ],
+      "description": "A subset of humans with the unique power to see Wesen for what they truly are. They've existed as long as Wesen have been around and aren't limited to one ethnic groupnoteNick's books mention Japanese hunters with similar abilities, but the ones seen on the show are Germanic in origin and are named after, as well as descended from,The Brothers Grimm. Adaptive Ability: It appears their powers work something like this, as after losing his sight Nick gained super hearing and the ability to sense the location of people and objects around him. And after being poisoned by Cracher-Mortel Venom, he gained incredible strength, durability and stamina, as well as the involuntary ability to slow his metabolism to the point where others think he's dead. Badass Family: Technically all Grimms are related somewhere along the lines, and they are a race of Badasses, that have been hunting and battling Wesen for thousands of years. All but the very strongest of Wesen fear them, and even they either admire or hate them. Beethoven Was an Alien Spy:Rudyard KiplingandArthur Conan Doylewere both Grimms. Ironically, the Brothers Grimm—their namesake—were Kehrseite (though they were part of the bloodline). Bizarre Human Biology: The reason why some wesen tacticsdon't work very wellagainst them, includingCracher-Mortel poison, and somebackfire.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kehrseite",
+      "media_title": "Grimm",
+      "tropes": [
+        "GoMadFromTheRevelation",
+        "Muggles",
+        "YouAreTheTranslatedForeignWord",
+        "MostWritersAreHuman"
+      ],
+      "description": "Normal humans who remain unaware, but frequently the victims, of the dangers of the Wesen world that reside in the shadows. Comes from the German word meaning \"Reverse Side\". Go Mad from the Revelation: It's not so much that Kehrseite can't accept the otherworldly nature of Wesen, its more that most can't contemplate it especially when coming face-to-face with a fully Woged Wesen. Muggles: Normal humans, unaware of the Wesen world, and lack the ability to see a Wesen unless fully Woged...and very often its abadthing if they are. You Are the Translated Foreign Word: ConsideringMost Writers Are Human.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kehrseite-Schlich-Kennen",
+      "media_title": "Grimm",
+      "tropes": [
+        "GoMadFromTheRevelation",
+        "BadassNormal",
+        "SecretSecretKeeper",
+        "SecretKeeper",
+        "InterspeciesRomance",
+        "MalignedMixedMarriage"
+      ],
+      "description": "Normal humans, just like Kehrseite, but they are in on the masquerade. Badass Normal: The Wesen world is dangerous and most have be incredibly strong and cunning to survive, or at have the protection of a Wesen. Hell since most KehrseiteGo Mad from the Revelationwhen confronted with the existence of Wesen, they are this by virtue of mental fortitude. Interspecies Romance: One of them, Kimber, was in a relationship with a Wesen but its not mentioned if it's treated as aMaligned Mixed Marriagelike relationships between different Wesen species are. Secret-Keeper: They're in the know about the existence of Wesen and some like Hank and Wu help to find ways to keep to maintain its secrecy. Doubles asSecret Secret-Keepersince unlike with other Wesen or Grimms, one doesn't know if a normal person is a Kehrseite or a Kehrseite-Schlich-Kennen until told which often invokes shock.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kehrseite-Genträger",
+      "media_title": "Grimm",
+      "tropes": [
+        "SuperpowerfulGenetics",
+        "GratuitousGerman",
+        "RecessiveSuperGenes"
+      ],
+      "description": "Normal humans who carry dormant Wesen genes. The traits of their offspring can often be shocking. Recessive Super Genes: A Kehrseite-Genträger is basically a normal human with Wesen genetics and has no baring on the child unless its with another Wesen. Superpowerful Genetics: In \"Stories We Tell Our Young\" Nick and Hank get a primer in wesen genetics from Monroe and Rosalee but theGratuitous Germanobfuscates much of the meaning. Basically, same-type wesen-wesen pairings always produce wesen children. Wesen-human pairings have a 50% chance of producing a wesen child unless the human carries wesen genes (kehrseite-genträger), in which case it's always wesen. Pairings of different wesen types produce a special kind of offspring, which Monroe and Rosalee are very vague about. The term they use,vorherrscher, implies that it's a matter of dominant genetic expression of traits.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Golem",
+      "media_title": "Grimm",
+      "tropes": [
+        "KnightTemplar"
+      ],
+      "description": "Knight Templar: They will brutally slay anyone perceived as a threat to the one they are to protect.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Grausen",
+      "media_title": "Grimm",
+      "tropes": [
+        "WouldHurtAChild",
+        "SuperStrongChild"
+      ],
+      "description": "Super-Strong Child: One effect of the condition is the child can gain incredible levels of strength. Would Hurt a Child: Whenever a case surfaces, the Wesen Council takes quick and decisive action to make the victim \"disappear\". Since Grausen-afflicted children who are allowed to grow up become terrifying psychopaths, it's easy to understand why they take such a hard line. However, when Alexander, a panther-like Pflichttreue who loyally serves the Council, is sent to deal with one such case, it's very clear that he doesn't want to harm a nine-year-old boy.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kinoshimobe and Jubokko",
+      "media_title": "Grimm",
+      "tropes": [
+        "Treants",
+        "GaiasVengeance",
+        "WhenTreesAttack"
+      ],
+      "description": "Gaia's Vengeance: Kinoshimobe only kill poachers and polluters and feed their bodies to Jubokko trees. However, they do not distiguish between accidental and purposeful pollution and will also kill someone with a leaky car. Treants: Kinoshimobe are sentient trees that could fit in withEntsif they were a bit taller. When Trees Attack: They kill people with vines and then absorb them into the Jubokko, with their faces appearing on the bark.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "La Llorona",
+      "media_title": "Grimm",
+      "tropes": [
+        "DecoyDamsel",
+        "OurGhostsAreDifferent",
+        "SerialKiller"
+      ],
+      "description": "Decoy Damsel: One method to separate parents from children is to appear to be drowning and calling for help. The parents will rush to help her, not paying attention to the child, giving her an opening to vanish and reappear near the child and walk away. Our Ghosts Are Different: She has the ability to vanish and appear at will. She also just vanished when Nick was struggling with her when midnight of Halloween ended. Serial Killer: She will take people's children and drown them every Halloween.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mishipeshu",
+      "media_title": "Grimm",
+      "tropes": [
+        "OurSpiritsAreDifferent",
+        "YouKilledMyFather",
+        "TheBadGuyWins",
+        "GuardianEntity"
+      ],
+      "description": "The Bad Guy Wins: In the same vein as the El Cucuy, they are not inherently evil, but they are also one of the few in the series who succeeded in their goals in the end. Guardian Entity: They act as these for individuals on vision quests when summoned. Our Spirits Are Different: The Mishipeshu are Native American spirits in the series; they are animals counterpart to the Thunderbird in actual Native American folklore. You Killed My Father: Their motive for the killings: to avenge the death of Simon George's father.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Volcanalis",
+      "media_title": "Grimm",
+      "tropes": [
+        "ScarilyCompetentTracker",
+        "ImplacableMan",
+        "HistoricalRapSheet",
+        "Greed",
+        "LogicalWeakness",
+        "LivingLava",
+        "DishingOutDirt"
+      ],
+      "description": "A wrathful demon drawn to volcanoes. Dishing Out Dirt: Has the power to navigate underground, move through earth as if it were air, and is able to trigger earthquakes and volcanic eruptions if suitably enraged. Greed: Volcanalis was renowned for its incredible greed: anyone who took the rocks from the volcano's base, which it considered its property, it would hunt down and kill. If enough were taken, it would cause the Volcano to erupt, killing everyone. Historical Rap Sheet: Was responsible for Mount Vesuvius erupting and the destruction of Pompeii. Implacable Man: Due to its nature it's near impossible to stop, anything that gets in its way will just burn, bullets just melt upon impact, and it can travel through sheer rock with ease.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Zerstörer",
+      "media_title": "Grimm",
+      "tropes": [
+        "EvilSorcerer",
+        "SilentAntagonist",
+        "TerminatorImpersonator",
+        "TimeAbyss",
+        "HeroKiller",
+        "ImpaledWithExtremePrejudice",
+        "Really700YearsOld",
+        "ImplacableMan",
+        "RedAndBlackAndEvilAllOver",
+        "BigBad",
+        "TheDevil",
+        "FinalBoss",
+        "GlowingEyesOfDoom",
+        "HoistByHisOwnPetard",
+        "HeroicBSOD",
+        "UrbanFantasy",
+        "MeaningfulName"
+      ],
+      "description": "Possibly a Wesen, possibly a demon from another plane of existence. The final antagonist in the series. Big Bad: Of the final season. The Devil: Very strongly implied to be either the literal one or the inspiration for it. Evil Sorcerer: Has a strong array of powers coming from his staff, including emitting shockwaves. Final Boss: The Zerstorer is the very final enemy fought by Nick in the series, and is theBig Badin the final three episodes of the show.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Alpe",
+      "media_title": "Grimm",
+      "tropes": [
+        "ViciousCycle",
+        "BreathWeapon",
+        "SleepParalysisCreature"
+      ],
+      "description": "Wesen who feed off the melatonin of sleepers. Breath Weapon: Before feeding, they exhale a green gas that paralyses their victim. Sleep Paralysis Creature: They feed by sitting on top of people as they sleep, chemically paralysing them and draining their melatonin. They're the in-universe explanation for sleep paralysis and the image in the Grimm diaries strongly resembles Henry Fuseli's 1781 painting, The Nightmare, which depicts the condition. Vicious Cycle: As they're drawn towards the heaviest sleepers to feed on, they tend to target the same person night after night, because they're exhausted from previous feedings and more melatonin is available.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Anubis",
+      "media_title": "Grimm",
+      "tropes": [
+        "DeityOfHumanOrigin",
+        "DueToTheDead",
+        "LikeAGodToMe",
+        "AncientEgypt"
+      ],
+      "description": "Jackal-like Wesen, once worshiped as Egyptian gods. Deity of Human Origin: It was believed that if someone was buried with an Anubis, they too would become a god, and so they were hunted a lot inAncient Egypt. Due to the Dead: TheBeati Paolihunt their mummified remains so they can give them proper burial. Egyptian Mythology: Have a place in it, hence the name of their first episode, \"Once We Were Gods\". Apparently Ammit, Bastet, Khepri, and Tefnut are also wesen. Like a God to Me: Were worshiped as the god(s?) of mummification in the time ofAncient Egypt. This didn't work out as well for them as could be expected, but theyareprotective of the dead and death-related artifacts.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Aswang",
+      "media_title": "Grimm",
+      "tropes": [
+        "MultipurposeTongue",
+        "OverlyLongTongue",
+        "EvilMatriarch",
+        "HorrorHunger",
+        "TheDreaded",
+        "ImperiledInPregnancy",
+        "AmazingTechnicolorPopulation",
+        "EatsBabies"
+      ],
+      "description": "Ghoul-like Wesen from the Philippines. Amazing Technicolor Population: When they woge, their skin turns purple. The Dreaded: Treated as the equivalent of boogiemen in Filipino folklore, they very much live up to their reputation. It's acknowledged by Monroe that even among Wesen Aswang are considered terrifying, to the point they're concerned that if Wu learns he truly saw one, he might permanently go insane. Eats Babies: They eat the embryo of their grandchild in order to extend their lifespan. If they don't, they are implied to die within a month or so of its birth. Evil Matriarch: A female Aswang may surely seem this to her pregnant daughter-in-law.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ataktos Fuse",
+      "media_title": "Grimm",
+      "tropes": [
+        "LongLived",
+        "Really700YearsOld",
+        "SerialKiller"
+      ],
+      "description": "Long-Lived: They never age as long as they consume protein. Really 700 Years Old: William Stillman, aa 189 year-old Ataktos Fuse, only appeared to be in this thirties. Serial Killer: Any one which lives past the average lifespan is this by default, having killed and eaten quite a few people.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Balam",
+      "media_title": "Grimm",
+      "tropes": [
+        "CatFolk"
+      ],
+      "description": "Cat Folk: They're jaguar-like Wesen.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Bauerschwein",
+      "media_title": "Grimm",
+      "tropes": [
+        "BrainyPig",
+        "FantasticRacism",
+        "CoveredInMud",
+        "PolicePig",
+        "FromNobodyToNightmare"
+      ],
+      "description": "Pig-like Wesen. They are natural enemies of Blutbaden, alaThe Three Little Pigs. Brainy Pig: All the Bauerschwein featured in the show are intelligent, especially when it comes to getting payback on Blutbaden. Their jobs range fromdetectivesto chefs, and they do them well. Covered in Mud: Known for taking mud baths to help themselves think. Fantastic Racism: Have long been the victims of violence by Blutbaden, with their major appearances in the show involving them retaliating. From Nobody to Nightmare: This is certainly how the Blutbaden see them. They were traditionally hunted for sport, but both of their two main appearances have been about them turning the tables on their oppressors.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Blutbaden",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "WeDidntStartTheFuhrer",
+        "LeeroyJenkins",
+        "TheScapegoat",
+        "FantasticRacism",
+        "TheNoseKnows",
+        "WolfMan",
+        "AnimalStereotypes",
+        "PuttingOnTheReich",
+        "ThickerThanWater",
+        "OurWerewolvesAreDifferent",
+        "AdaptationalSpeciesChange",
+        "TheDreaded",
+        "RedEyesTakeWarning",
+        "FlayedAlive",
+        "NobleWolf",
+        "AchillesHeel",
+        "SavageWolves"
+      ],
+      "description": "Wolf-like Wesen, related to werewolf myths. Natural enemies of Bauerschwein alaThe Three Little Pigs. Achilles' Heel: They have a point on their backs that temporarily stuns them when struck. Adaptational Species Change: One of the Grimm diary entries regarding the Blutbaden contains quotes from the Grimm fairy tale \"The Robber Bridegroom.\" This would suggest that the robbers in the story were actually Blutbaden in this universe. Animal Stereotypes: Of wolves. Powerful, frightening and explicitly loyal and protective of their own. The Dreaded: As one of the most dangerous of all Wesen, Blutbad are feared by multiple other wesen, and themselves only fear the strongest and most dangerous.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Coyotl",
+      "media_title": "Grimm",
+      "tropes": [
+        "DirtyCoward"
+      ],
+      "description": "Canine Wesen that resemble coyotes. Dirty Coward: They tend to run in terror from Grimms. Number Symbolism: They force their women to undergo a fertility ritual on their 17th birthdays, due to their believe that 17 is associated with immortality, meaning any bloodlines they would sire would be long lasting.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cracher-Mortel",
+      "media_title": "Grimm",
+      "tropes": [
+        "SpikesOfDoom",
+        "AnimalMotifs",
+        "TechnicallyLivingZombie",
+        "BreathWeapon",
+        "WickedCultured",
+        "FishPeople",
+        "NightOfTheLivingMooks",
+        "HollywoodVoodoo"
+      ],
+      "description": "Pufferfish-like Wesen. Their poison can make zombie-like slaves out of their victims. Animal Motifs: Very aggressive pufferfish. Breath Weapon: Their spit which is a poison that causes a death-like trance in its victims for a few days before they regain consciousness. Afterwards, they go through four stages, starting with uncontrollable rage, then being feral but completely under the control of a Carcher-Mortel that infected them, before finally dying. Fish People: When woged, they resemble pufferfish. Hollywood Voodoo: What they're associated with, having inspired a lot of it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cupiditias",
+      "media_title": "Grimm",
+      "tropes": [
+        "BestServedCold",
+        "LovePotion"
+      ],
+      "description": "Best Served Cold: They're very vengeful creatures and can wait and prepare for a long time. Love Potion: Their saliva is a key ingredient for love potion.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Daemonfeuer",
+      "media_title": "Grimm",
+      "tropes": [
+        "ProudWarriorRaceGuy",
+        "PlayingWithFire",
+        "DragonHoard",
+        "DraconicHumanoid",
+        "DragonsPreferPrincesses",
+        "ImAHumanitarian",
+        "DamselInDistress",
+        "BreathWeapon",
+        "OurDragonsAreDifferent",
+        "WorthyOpponent"
+      ],
+      "description": "Breath Weapon: They apparently do this by vaporizing the fat in their stomachs into an acetate vapor,vomitingthat vapor into the air, then igniting it through static electricity. Draconic Humanoid: When woged. Dragon Hoard: A race of treasure mongers, in the olden days they used to steal gold and silver. However, in the present, several have adapted their tastes to a love of copper. Dragons Prefer Princesses: Invoked by Ariel. She kidnaps Juliette to be theDamsel in Distressso her father can fight Nick in an epic battle for the princess, and die with glory.Its likewise implied their species has been doing his for centuries, and this is the root of the stories. Its likewise implied their species has been doing his for centuries, and this is the root of the stories.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dickfellig",
+      "media_title": "Grimm",
+      "tropes": [
+        "RedEyesTakeWarning"
+      ],
+      "description": "Rhinoceros-like Wesen. Red Eyes, Take Warning: In the comics, their eyes glow red.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Drang-Zorn",
+      "media_title": "Grimm",
+      "tropes": [
+        "UnstablePoweredChild",
+        "CardCarryingVillain",
+        "UnstoppableRage",
+        "HairTriggerTemper",
+        "PapaWolf",
+        "MamaBear"
+      ],
+      "description": "Card-Carrying Villain: this entire species seems to fit this bill in the story. Given every Drang-Zorn has been varying levels of this trope. From the youngest being a 14 year old, to a former Wesen council member who was a member of Black Claw. And the latter proceeded to murder the entire council. This is likely due to their nature mentioned below with their tempers. Hair-Trigger Temper: They have a very short temper.Especiallywhen going through puberty. It is likely why they feel constrained and wish to revolt against Kershite society as most humans have better control of their emotions. Mama Bear: Along withPapa Wolf. They are very protective of their young. Unstable Powered Child: If one woges prematurely (they're supposed to go through it at 13, the one we see gets it at 9), they have a vicious streak with an inability to control their anger that results in the need to keep them isolated from others. Unstoppable Rage: It gets worse in puberty, to the point that the parents have to take the kid away to a secret place to train them how to control it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Eisbiber",
+      "media_title": "Grimm",
+      "tropes": [
+        "GadgeteerGenius",
+        "BusyBeaver",
+        "LovableCoward",
+        "DirtyCoward"
+      ],
+      "description": "Busy Beaver: Pretty much every Eisbiber we see is a proud laborer. For instance, Bud is a mechanic and his wife is a phenomenal cook who can crank out sweets in no time. Gadgeteer Genius: They tend to enjoy tinkering. Lovable Coward: As a whole, the species prefers to hide and not draw conflict onto themselves. In \"Leave It To Beavers\" Bud implied that he considered themDirty Cowardsfor refusing to help Nick when one of them witnessed a Hässlich murdering one of their own, wanting to keep their heads down rather than risk upsetting the status quo.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "El Cucuy",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeneathNotice",
+        "SuperStrength",
+        "AntiHero",
+        "SuperSenses"
+      ],
+      "description": "A boogeyman Wesen who punishes wrongdoers. Anti-Hero: El Cucuy punishes wrong-doers... by murdering them. Beneath Notice: Their among the few Wesen species who've managed to evade detection by the Grimms across the millennia. Nick can't find any mention of them in the diaries. Super-Senses: Super hearing to be exact. Super-Strength: Considering when woged an 80 year old Cucuy is able to casually overpower a guy in maybe his 30s or 40s.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "El Cuegle",
+      "media_title": "Grimm",
+      "tropes": [
+        "Seers",
+        "NotEvilJustMisunderstood",
+        "IDidWhatIHadToDo",
+        "TragicMonster",
+        "MultiArmedAndDangerous",
+        "EatsBabies",
+        "ThirdEye"
+      ],
+      "description": "An infamous, yetmisunderstoodmonster-like wesen. Eats Babies: Their infamous for doing so, although they only do it because they have agonizing visions of those babies committing horrible crimes as adults. I Did What I Had to Do: They don't take pride or joy in their killings, but see them as necessary. Multi-Armed and Dangerous: When woged, they have three arms. Seers: They can see things that haven't happened yet, and not good things.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Excandesco",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "PlayingWithFire",
+        "WhileRomeBurns",
+        "ThePhoenix",
+        "KillItWithFire",
+        "WreathedInFlames"
+      ],
+      "description": "Phoenix/fire demon-like Wesen that commonly commit arson. Beethoven Was an Alien Spy:Nerohired one totorch Rometo kill Christians. Kill It with Fire: A common trait is their willingness to do this, sometimes becoming professional arsonists. The Phoenix: The basis for this. Playing with Fire: By way of theirWreathed in Flameswoged appearance.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Folterseele",
+      "media_title": "Grimm",
+      "tropes": [
+        "ReflexiveResponse",
+        "WoobieSpecies",
+        "ChildByRape",
+        "FrogMen",
+        "ThrowTheDogABone",
+        "PoisonousPerson",
+        "TarnishingTheirOwnBeauty",
+        "OneGenderRace",
+        "LivingAphrodisiac"
+      ],
+      "description": "A poison-frog Wesen species who only woge in response to sexual threats. Child by Rape: Many, if not all of them, given their pheromones and how touching them is poisonous. Frog Men: Or frog women. They're humanoid Wesen with frog heads. Living Aphrodisiac: A negative, unwilling example. They tend to be attractive, and also vent out hormones which make them seem more so. This causes them to be frequent victims of rape, and to accidentally poison people who are drawn to and touch them under any circumstances. One-Gender Race: Possibly, as only three female Folterseele (all members of the same family) appear in the episode.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Fuchsbau",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheNoseKnows",
+        "CunningLikeAFox",
+        "AnimalStereotypes",
+        "CuteMonsterGirl",
+        "FantasticFoxes"
+      ],
+      "description": "Animal Stereotypes: Of foxes.Known as liars and often deals with shady business. Cute Monster Girl: The females are adorable when woged. Fantastic Foxes: They're based on foxes. The Nose Knows: As a canine species, they have a heightened sense of smell.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Fuchsteufelwild",
+      "media_title": "Grimm",
+      "tropes": [
+        "BerserkButton",
+        "SmallNameBigEgo",
+        "UnfortunateNames",
+        "PointyEars",
+        "SmugSnake",
+        "FourFingeredHands",
+        "FragileSpeedster",
+        "OurGoblinsAreDifferent",
+        "SignificantAnagram",
+        "SinisterSchnoz",
+        "AcidAttack",
+        "AmazingTechnicolorPopulation",
+        "SoreLoser"
+      ],
+      "description": "Acid Attack: They can secrete acid from their muscles to enhance their cutting power of their bones. Amazing Technicolor Population: They turn green when woged. Berserk Button: The notion of losing is so infuriating to them that it's enough to drive them to murder and even suicide. Four-Fingered Hands: In live action, they only have three fingers per hand when woged. Fragile Speedster: Very agile, but need to rely on stealth and can be seriously hurt by gunshots.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Fulicre",
+      "media_title": "Grimm",
+      "tropes": [
+        "HumanSacrifice",
+        "WesternZodiac"
+      ],
+      "description": "Ox-like Wesen who, despite a dark history, were among the first to become civilized and avoid fighting with/hunting humans. Human Sacrifice: Once scarified humans based on stellar constellations, and a handful still do this in modern days. Western Zodiac: They tend to believe in this.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gedächtnis Esser",
+      "media_title": "Grimm",
+      "tropes": [
+        "AnimalThemedSuperbeing",
+        "Cthulhumanoid",
+        "CannibalismSuperpower",
+        "TooSpicyForYogSothoth",
+        "BrainFood"
+      ],
+      "description": "Octopus Wesen capable of sucking out the memories of others. Animal-Themed Superbeing: A rare aversion. Their powers are not derived from those of octopi, but from the \"mind flayers\" or illithid ofDungeons & Dragons. Cannibalism Superpower: Unlike their obvious fictional inspiration, the illithid ofDungeons & Dragons, gedächtnis esser don'tphysically consume brains. The rest of the trope, however, still fits. Cthulhumanoid: Their woged shape gives them a tentacled octopus-head. Too Spicy for Yog-Sothoth: A gedächtnis esser trying to feed on a grimm will quickly find itself on the receiving end, as all the grimm's worst experiences flood its mind.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Geier",
+      "media_title": "Grimm",
+      "tropes": [
+        "Sadist",
+        "AdaptationalSpeciesChange",
+        "OrganTheft",
+        "WouldHurtAChild",
+        "HumanResources"
+      ],
+      "description": "Adaptational Species Change: Inspired by the witch from \"Hansel and Gretel,\" but are vulture creatures. Human Resources: They make traditional wesen medicines out of human organ meats. Organ Theft: Sometimes, they don't even wait to kill them first... Sadist: Noted for taking pleasure in the pain of others. Would Hurt a Child: Most of their victims on-screen are young teenagers.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gelumcaedus",
+      "media_title": "Grimm",
+      "tropes": [
+        "OffWithHisHead",
+        "WorthyOpponent",
+        "StickyFingers",
+        "SewerGator",
+        "NeverSmileAtACrocodile",
+        "AncientRome",
+        "AnArmAndALeg"
+      ],
+      "description": "Alligator-like Wesen. An Arm and a Leg: An associated trait is their shaking people fast enough that this happens to them. Never Smile at a Crocodile: Unlike the crocodile-like Skalenzahne, the alligator-like Gelumcaedus play this straight, with them partaking in violent acts and a tendency to commit robberies. Sewer Gator: They are Alligator wesen who have occupied underground sewers since the the time ofAncient Rome. Sticky Fingers: They compulsively line their sewer lairs with knickknacks from their robberies.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Genio innocuo",
+      "media_title": "Grimm",
+      "tropes": [
+        "ShyShelledAnimal",
+        "TooCleverByHalf",
+        "WiseOldTurtle"
+      ],
+      "description": "Shy Shelled Animal: They're so nonconfrontational (\"innocuo\" means harmless) that they literallycan'thurt anybody. Too Clever by Half: As a race renowned for their intelligence they often fall into this, creating situations they are unable to deal with. Wise Old Turtle: Turtle Wesen who are known for being geniuses.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gevatter Tod",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheMasquerade",
+        "MercyKill",
+        "DontFearTheReaper"
+      ],
+      "description": "Assassin bug-like Wesen who provide a vital, yet rarely discussed role in the Wesen community. Don't Fear the Reaper: They use their saliva to peacefullyMercy KillWesen who are suffering from dementia, and posing a threat to society (andThe Masquerade) with uncontrolled woging and potentially violent behavior, but only do this with the consent of the family, are very respectful and solemn Wesen, and there's no record of one of them ever having done anything to be targeted by the Grimm's.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Glühenvolk",
+      "media_title": "Grimm",
+      "tropes": [
+        "LittleGreenMen",
+        "AliensStealCattle"
+      ],
+      "description": "Aliens Steal Cattle: Female Gluumlhenvolk crave cow organs while pregnant. Little Green Men: Well, they're blue, but they're the source of many alien myths.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Hässlich",
+      "media_title": "Grimm",
+      "tropes": [
+        "AllTrollsAreDifferent",
+        "BaldOfEvil"
+      ],
+      "description": "Troll-like, vicious Wesen. All Trolls Are Different: They're based on fairy tale type trolls, particularly the Three Billy Goats Gruff, what with their obsession with bridges. Bald of Evil: Their hair disappears when they Woge.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Heftigauroch",
+      "media_title": "Grimm",
+      "tropes": [
+        "SuperStrength",
+        "BullyingADragon"
+      ],
+      "description": "Bull-like Wesen. Although fierce fighters, they are peace-loving by nature and must be severely prodded into battle. Bullying a Dragon: Getting them to fight takes extreme measures, but when they are prodded enough, they are deadly fighters. Super-Strength: Part of what makes them so dangerous is just how strong they are. When suitably enraged, Clay was able to dent solid metal with his blows.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Hexenbiest & Zauberbiest",
+      "media_title": "Grimm",
+      "tropes": [
+        "ActionSurvivor",
+        "PowerDyesYourHair",
+        "MindOverMatter",
+        "LovePotion",
+        "SquishyWizard",
+        "FauxActionGirl",
+        "HotWitch",
+        "VainSorceress",
+        "MoreDeadlyThanTheMale",
+        "ItsAllAboutMe",
+        "BloodMagic",
+        "DevilComplex",
+        "OneGenderRace",
+        "CharmPerson",
+        "MaybeMagicMaybeMundane",
+        "CuteWitch",
+        "Jerkass",
+        "WickedWitch",
+        "GuysSmashGirlsShoot",
+        "TheVamp",
+        "Flanderisation",
+        "TookALevelInJerkass",
+        "RedRightHand",
+        "WouldHurtAChild",
+        "DrunkWithPower",
+        "AbsurdlyYouthfulMother",
+        "EyelessFace"
+      ],
+      "description": "Witch-like Wesen. Females are called Hexenbiest (German for \"witch beast\"), and males are called Zauberbiest (German for \"wizard beast\"). Absurdly Youthful Mother: Of the two older Hexenbiests we've seen on the show (Catherine and Elizabeth, Renard's Mom) they don't look nearly old enough to have fully grown kids. While Renard lampshades this with \"She's had some work done,\" it might be possible that they age slowly after a certain point thanks to their magic. Blood Magic: Especially emphasized in \"power regeneration\" rituals. Cute Witch: The one young Hexenbiest seen in the series is Diana, who doesn't have a full Hexenbiest woge anyway. She's shown being a rather cheerful young girl with a playful, if slightly creepy personality. Devil Complex: A Grimm diary entry on Zauberbiests contain quotes from \"The Girl Without Hands,\" implying that the Devil who terrorized the title character was actually a Zauberbiest.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Höllentier",
+      "media_title": "Grimm",
+      "tropes": [
+        "TooStupidToLive"
+      ],
+      "description": "Too Stupid To Live: They served as guards for Egyptian pharaohs in the afterlife, not being smart enough to realize that they would be locked in the tomb as well. They also display no fear of Grimms, and the Hollentier in \"El Cucuy\" immediately attacked Nick when he realized Nick was a Grimm.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Hundjäger",
+      "media_title": "Grimm",
+      "tropes": [
+        "Mooks",
+        "MoreDeadlyThanTheMale"
+      ],
+      "description": "Dog- or wolf-like Wesen. Mooks: They are used as enforcers by the Verrat. More Deadly Than the Male: One of the Grimm books in Nick's trailer advises that when dealing with a group of Hundjäger it's better to kill the females first, presumably for this reason.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Huntha Lami Muuaji",
+      "media_title": "Grimm",
+      "tropes": [
+        "AmbiguousGenderIdentity",
+        "ConMan",
+        "SplitPersonality"
+      ],
+      "description": "Flatworm like Wesen with a secret that no Grimm before Nick has ever realized. Ambiguous Gender Identity: All of them have a woged state, and both male and female human forms that they go back and forth between. Con Man: Many of them become this, using their multiple identities. Split Personality: On occasion (like after a testosterone injection) have their own distinct memories and personalities, and are constantly, obliviously searching for each other.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Indole Gentile",
+      "media_title": "Grimm",
+      "tropes": [
+        "AsLongAsItSoundsForeign",
+        "ActualPacifist",
+        "ChristmasElves"
+      ],
+      "description": "Actual Pacifist: They've very peaceful Wesen. As Long as It Sounds Foreign: While they're supposed to be Greek, their name is in Italian (literally, it means \"gentle disposition\"). Christmas Elves: They only appear in a Christmas special, and are elf-like in appearance.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jägerbar",
+      "media_title": "Grimm",
+      "tropes": [
+        "HuntingTheMostDangerousGame",
+        "BearsAreBadNews"
+      ],
+      "description": "Bears Are Bad News: Several of the Jagerbars in \"Bears Will Be Bears\" participated in an ancient ritual called the Roe-Hatz that involvedhunting and killing two humans.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jinnamuru Xunte",
+      "media_title": "Grimm",
+      "tropes": [
+        "SuperSpeed",
+        "BreathWeapon",
+        "FliesEqualsEvil",
+        "OverlyLongTongue",
+        "HorrorHunger",
+        "EyeScream"
+      ],
+      "description": "Fly-like Wesen native to Africa. Breath Weapon: Whether feeding or fighting off an opponent, the Xunte's first means of attack is to breathe a cloud of parasites into their target's face. Eye Scream: Blinds their victims by spewing parasitic worms into their eyes. Given time to grow, these worms then completely devour the eyeballs. Also a necessary part of curing the blindness, as someone has to scoop out the Jinnamuru Xunte's eye while it's still alive and in full woge. Flies Equals Evil: To its literal extreme. Fliesareevil. Horror Hunger: Human tears are like opium for them, and they appear to suffer headaches for every minute they're not indulging in their addiction.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kackenkopf",
+      "media_title": "Grimm",
+      "tropes": [
+        "HairTriggerTemper",
+        "DirtyCoward",
+        "StickyFingers"
+      ],
+      "description": "Dung beetle-like Wesen. Face and head take on an exoskeletal look when woged. Dirty Coward: Tony is happy to bully and intimidate two women he assumes are harmless, but when Adalind's powers come back and she breaks his hand, he runs away. Hair-Trigger Temper: Can turn aggressive with little provocation. Tony starts throwing things at Rosalee when she refuses to give him money. It's strongly implied he was physically abusive to her when they were together. Sticky Fingers: According toThe Grimm Diaries, Kackenkopf on the whole prefer to steal rather than work.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Klaustreich",
+      "media_title": "Grimm",
+      "tropes": [
+        "FantasticRacism",
+        "AllGirlsWantBadBoys",
+        "HookerWithAHeartOfGold",
+        "InASingleBound",
+        "WomenAreWiser",
+        "CatsAreMean",
+        "RatMen",
+        "CuteMonsterGirl",
+        "MassiveNumberedSiblings",
+        "Jerkass",
+        "CatFolk"
+      ],
+      "description": "Cat-like Wesen. They have a tendency to becomplete jerkswith a nasty streak towards spousal abuse. All Girls Want Bad Boys: They're noted to be very popular with women. Doesn't turn out so well because of the aforementioned abusive tendencies. Cats Are Mean: They're cat Wesen and nearly all of them have a mean streak a mile long, with the males in particular being abusive to their domestic partners/spouses. Cat Folk: Of the common alley-cat variety. Cute Monster Girl: The females are much more adorable than the males.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Königschlange",
+      "media_title": "Grimm",
+      "tropes": [
+        "ShoutOut",
+        "SuperSenses",
+        "SnakesAreSinister",
+        "TheDreaded",
+        "LightningBruiser"
+      ],
+      "description": "The Dreaded: Due to their physical capabilities, lethal venom, and ruthless, suspicious, and sadistic natures, Königschlange are feared throughout the Wesen community, with even Blutbaden fearing them. Lightning Bruiser: Königschlange possess Cobra like reflexes and speed, being able to move incredibly fast. They are likewise impressively strong creatures. Notably, Arbok was able to give Nick a serious run for his money in a brawl and was coming out on top before he was shot dead. Super-Senses: Königschlange have an incredible sense of smell and touch, being able to detect subtle vibrations and changes in temperature. For that reason, they often work as assassins and professionals to confirm that individuals are, in fact, dead. It takes a special potion that induces a death-like state to fool them. Snakes Are Sinister: They're cobras. And traditionally find work involving assassination. Shout-Out: The Königschlange in \"Over My Dead Body\" is namedArbok.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Koschie",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "SicklyGreenGlow",
+        "ReallyGetsAround",
+        "CastFromLifespan",
+        "AtomicSuperpower",
+        "RasputinianDeath",
+        "GlowingEyesOfDoom",
+        "BlessedWithSuck",
+        "TouchOfDeath",
+        "TropeNamers",
+        "EmpathicHealer",
+        "VolcanicVeins",
+        "DarkIsNotEvil",
+        "SuperpoweredDefaultForm",
+        "HealingFactor",
+        "GameFace",
+        "HealingHands",
+        "BaldMystic"
+      ],
+      "description": "Skeleton-like Wesen. They possess healing powers fueled by radiation. Atomic Superpower: When killing someone with their powers, they emit extremely high doses of radiation. Bald Mystic: When woged, Koschie all appear completely bald, in keeping with their unearthly, mystical natures. Beethoven Was an Alien Spy: One of their prominent members wasGrigori Rasputin. Indeed, the species was arguably inspired more by his legend than anything else; they're named after a Russian legend about a deathless sorcerer, they can soothe other creatures with their touch and often take on the role of holy men, their powers seemingly supercharge their sex drives, they can take a heck of a beating before going down, and, not to put too fine a point on it, their abilities involve nuclear power and radiation. Cast from Lifespan: Using their powers requires them to draw from this.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Krampus",
+      "media_title": "Grimm",
+      "tropes": [
+        "ATasteOfTheLash",
+        "SuperStrength",
+        "ArbitrarySkepticism",
+        "ChildEater",
+        "InvasionOfTheBabySnatchers",
+        "LiteralSplitPersonality"
+      ],
+      "description": "A ram-like Wesen with allusion to Santa Claus, but much darker. Arbitrary Skepticism: Because they woge so rarely and few people who encounter them survive, most Wesen consider Krampus to be a complete myth, in spite of their very own nature. Child Eater: What it does to the naughty children on the last day. Invasion of the Baby Snatchers: Kidnaps naughty children before Christmas. Literal Split Personality: A very interesting example, the Krampus Woges only during the last few weeks of December. Once there, it can't go back, and instead adopts its monstrous personality. Once the last day is up, it turns back to human form with no memory of what it had done. They don't even know they are Wesen.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lausenschlange",
+      "media_title": "Grimm",
+      "tropes": [
+        "SinisterSuffocation",
+        "SnakesAreSinister"
+      ],
+      "description": "Sinister Suffocation: They are constrictors by nature, and thus regularly use their strength and ability to strangle others, both for murder and torture purposes. Snakes Are Sinister: They're woge is very creepy and several (although not all) of the ones to appear are bullies and/or petty criminals.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lebensauger",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheFagin",
+        "BloodLust",
+        "TropeNamer",
+        "InternalizedCategorism",
+        "LampreyMouth"
+      ],
+      "description": "Bloodlust: Like actual leeches they can and do drink human blood. Due to their size this will kill the victim. As such some use it as a method of murder. The Fagin: To the point that theTrope Nameris stated to have inspired by them. Internalized Categorism: Because of their frankly hideous appearances and poor reputations, Lebensaugen frequently suffer from self-image problems and struggle to never woge. Lamprey Mouth: When woged they have one of these.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lowen",
+      "media_title": "Grimm",
+      "tropes": [
+        "GladiatorGames",
+        "JuvenileHell",
+        "AnimalMotifs",
+        "KingOfBeasts",
+        "MentorArchetype",
+        "AllPartOfTheShow",
+        "PantheraAwesome",
+        "SummerCampy",
+        "CircusOfFear",
+        "CatFolk",
+        "StayInTheKitchen"
+      ],
+      "description": "Animal Motifs: They are lions. Cat Folk: Specially lion people. Circus of Fear: Sometimes use their wogesfor themeither as properties, or performers. Gladiator Games: In the past they hunted by the Romans and force to fight each other, and some of them continue to do this in the present day. Juvenile Hell: Some Lowen work as juvenile corrections officers, although the only one to appear in this capacity seems fairly benevolent and just uses her woge to keep potentially dangerous Wesen inmates from threatening anyone. She indicates this to Nick that she'll make sure one young unstable wesen girl won't be a threat to anyone else.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Luisant-Pecheur",
+      "media_title": "Grimm",
+      "tropes": [],
+      "description": "Otter-like Wesen more at home on the water than on land.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Luison",
+      "media_title": "Grimm",
+      "tropes": [
+        "MassiveNumberedSiblings"
+      ],
+      "description": "Wolf-like Wesen from South America. Massive Numbered Siblings: The Luison in \"Cry Luison\" were quadruplets.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Malin Fatal",
+      "media_title": "Grimm",
+      "tropes": [
+        "FullBoarAction",
+        "SupernaturalGoldEyes",
+        "GoThroughMe",
+        "SinisterSwine",
+        "SlashedThroat"
+      ],
+      "description": "Full-Boar Action: Boar wesen. Go Through Me: They tend to find work as bodyguards, or serve as protectors for loved ones. Sinister Swine: Downplayed. Malin Fatal are better known for being steadfast and protective; however, they also have a reputation for being extremely vicious and ruthless to their opponents. Josef Stalin specifically employed them as his personal bodyguards for this very reason. Slashed Throat: A method of using their tusks when woged. Supernatural Gold Eyes: Gold eyed wesen.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Manticore",
+      "media_title": "Grimm",
+      "tropes": [
+        "OurManticoresAreSpinier",
+        "ProudWarriorRaceGuy",
+        "MixAndMatchCritters",
+        "ImpaledWithExtremePrejudice",
+        "KingOfBeasts",
+        "NotAfraidToDie",
+        "ScaryScorpions",
+        "CatFolk",
+        "HoistByHisOwnPetard",
+        "LightningBruiser",
+        "BewareMyStingerTail"
+      ],
+      "description": "Half-lion half-scorpion Wesen native to Persia. Beware My Stinger Tail: Has a scorpion tail. Hoist by His Own Petard: Not actually immune to their own scorpion venom. Impaled with Extreme Prejudice: A preferred form of assassination via the stinger tail. King of Beasts: Part Lowen.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Matança Zumbido",
+      "media_title": "Grimm",
+      "tropes": [
+        "StealthPun",
+        "ShockAndAwe"
+      ],
+      "description": "Electric eel type wesen capable of releasing massive jolts of electricity. Shock and Awe: The Matança Zumbido can release enough electrical energy to burn people to a husk. Stealth Pun: The name \"Matança Zumbido\" literally translates as \"buzz kill.\"",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mauvais Dentes",
+      "media_title": "Grimm",
+      "tropes": [
+        "LightningBruiser",
+        "ToServeMan",
+        "PersonOfMassDestruction",
+        "TheDreaded",
+        "CatFolk"
+      ],
+      "description": "Saber-toothed tiger-like Wesen. Cat Folk: Saber-toothed tiger-like Wesen. The Dreaded: One of the most feared of all Wesen, due to their reputation for wiping out entire villages. Lightning Bruiser: Among the strongest and fastest Wesen enountered so far, which along with their penchant for brutality, adds to theirterrifying reputation. Person of Mass Destruction: In centuries past, individual Mauvais Dentes would wipe out entire villages killing hundreds of people. In the present day only the Royal families have the power to control one.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mauzhertz",
+      "media_title": "Grimm",
+      "tropes": [
+        "BewareTheNiceOnes",
+        "ShrinkingViolet"
+      ],
+      "description": "Beware the Nice Ones: Back them into a corner and they can be dangerous. Shrinking Violet: Most Mauzhertz are extremely shy and cowardly.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mellifer",
+      "media_title": "Grimm",
+      "tropes": [
+        "EvilSorcerer",
+        "WeUsedToBeFriends",
+        "HiveMind",
+        "BeeAfraid",
+        "BeePeople",
+        "VirtuousBees",
+        "WickedWitch",
+        "HiveQueen",
+        "BeeBeeGun"
+      ],
+      "description": "Bee Afraid: If you're an enemy of the hive, anyway. Bee-Bee Gun: Mellifer queens can control huge hives of bees. Bee People: Literally, both in biology and society. Hive Mind: Downplayed. They are individuals, but they share a subtle connection and all seem to work in unison when assigned to a specific job. Hive Queen: The master of both the Mellifer hive and the beehive.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Murciélago",
+      "media_title": "Grimm",
+      "tropes": [
+        "BatOutOfHell",
+        "SuperScream"
+      ],
+      "description": "Bat Out of Hell: The Murcielago are bat-like Wesen with the ability to emit a screech that can rupture windows, lungs, eardrums and eyes. Super-Scream: They can screech loud enough to kill a person.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Musai",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "TrueLovesKiss",
+        "TheMuse",
+        "MagicKiss",
+        "TheSociopath",
+        "OurFairiesAreDifferent",
+        "MurderTheHypotenuse"
+      ],
+      "description": "Beethoven Was an Alien Spy: A Musai was the prostitute that Van Gogh sliced his ear off for. Magic Kiss: The musai's kiss instills the victim with an obsessive attraction that fuels artistic passion. Over time the obsession leads to madness and death. Murder the Hypotenuse: It seems this is one way Musai move on from one victim to the other, by having a new one kill the previous one. The Muse: An interpretation of it, with heightened artistic abilities once the attraction begins. Our Fairies Are Different: An elf-like Wesen with blue skin, pointed ears and large eyes. The musai's M.O. seems identical to the legend of the leanansidhe, inspiring artists to great creative passion but driving them to madness and death in the process.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Naiads",
+      "media_title": "Grimm",
+      "tropes": [
+        "TwoPersonPoolParty",
+        "MermaidProblem",
+        "MeaningfulName",
+        "ArrangedMarriage",
+        "BlondeBrunetteRedhead",
+        "NatureSpirit",
+        "CuteMonsterGirl",
+        "StrawMisogynist",
+        "OurMermaidsAreDifferent",
+        "FreudianExcuseisNoExcuse",
+        "NeverGoingBackToPrison",
+        "HalfHumanHybrid",
+        "BioluminescenceIsCool",
+        "FreudianExcuse",
+        "LineageComesFromTheFather"
+      ],
+      "description": "Arranged Marriage: Naiad couples apparently meet this way. This causes problems when a traditional Naiad is prepared to marry into a more progressive one's family. Bioluminescence Is Cool: When woged, the females have glowing eyes, gills, and fins. Blonde, Brunette, Redhead: The three Mahario sisters have blonde, dark black, and reddish brown hair respectively. This (and their legal fathers hair, which is a different shade of brown) provide some early foreshadowing about the nature of Naiad families. Cute Monster Girl: Female naiads gain glowing gills, eyes, and fins, and retain the appearance of attractive females. Males, however, have dark red/yellow eyes and gain a row of shark-like teeth. Freudian Excuse: pretty quickly moves intoFreudian Excuse Is No Excuse, but the rage and anger of the male Naiads is understandable to a point. They basically have no purpose or reason for existing as is given they can't even fertilize members of their own species or any other. Sex has no point for them and they are forced to raise the children of another man. Told to care for the embodiment of the fact you can't even have kids of your own.And it's somewhat implied this wasn't always the case and this has become a modern problem. If anything, their culture's patriarchy is likely from a time when they could reproduce with one another. But, (and this is mostly speculation) possibly to relate to some Little Mermaid type of story, maybe some of the Naiad females started mating with humans and it inadvertently cause any males to be born from those unions to be infertile and thus doomed their species.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Pflichttreue",
+      "media_title": "Grimm",
+      "tropes": [
+        "CatFolk",
+        "TheReliableOne",
+        "PantheraAwesome"
+      ],
+      "description": "Cat Folk: Of the panther variety. Panthera Awesome: Panther wesen. The Reliable One: Their name translates into \"One who is dutiful\", and they're known for their intelligence, courage and loyalty. Alexander does demonstrate these traits during his appearances, and is one of the few Wesen who are not direct allies of the main characters that Nick is able to reason with.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Phansigar",
+      "media_title": "Grimm",
+      "tropes": [
+        "ReligionOfEvil",
+        "HumanSacrifice",
+        "MultipurposeTongue",
+        "ReptilesAreAbhorrent"
+      ],
+      "description": "Komodo dragon-like Wesen. Multipurpose Tongue: Phansigar possess extendable prehensile tongues, which they use to strangle their victims, either into unconsciousness or to death. Religion of Evil: The originators of the infamousthuggee cultsof ancient India. Reptiles Are Abhorrent: They are komodo dragon like wesen who commonly practiceHuman Sacrifice.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Pista Falsa",
+      "media_title": "Grimm",
+      "tropes": [
+        "RedHerring",
+        "TheHermit"
+      ],
+      "description": "Red herring-like Wesen. The Hermit: They tend to be reclusive, with even ones who live in urban areas avoiding much contact. Red Herring: Their woged form resembles one and they actually enjoy wrongfully making themselves the subject of suspicions for police investigations and laugh about it afterwards.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Raub-Kondor",
+      "media_title": "Grimm",
+      "tropes": [
+        "BirdPeople",
+        "ColdSniper",
+        "IcyBlueEyes"
+      ],
+      "description": "Bird People: They're condors. Cold Sniper: They have excellent eyesight, and the two seen in the series work as snipers. Icy Blue Eyes: Their eyes turn blue when woged.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Reinigen",
+      "media_title": "Grimm",
+      "tropes": [
+        "SwarmOfRats",
+        "MagicMusic"
+      ],
+      "description": "Magic Music: At least some can control rats through music, as the origin forThe Pied Piper of Hamelin. Swarm of Rats: Can control large groups of rats.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Schakale",
+      "media_title": "Grimm",
+      "tropes": [
+        "WolfMan",
+        "ChildEater"
+      ],
+      "description": "Child Eater: One of their preferred meals is human children. Wolf Man: In this case they are jackals.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Scharfblicke",
+      "media_title": "Grimm",
+      "tropes": [
+        "BirdPeople",
+        "SuperSenses"
+      ],
+      "description": "Bird People: They're owls. Super-Senses: Specifically enhanced eyesight, fitting with their owl-like nature. Thus, the one we meet works as a locksmith, his enhanced senses allowing him to perfectly tell exactly what sort of key would fit into the lock, even in low levels. Like many Wesen, this only applies in his Woge, as he needed glasses in his human one.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Seelengut",
+      "media_title": "Grimm",
+      "tropes": [
+        "SweetSheep",
+        "AnimalStereotypes",
+        "ExtremeDoormat",
+        "BewareTheNiceOnes"
+      ],
+      "description": "Animal Stereotypes: Of sheep.They are timid and passiveand have a herd mentality. Beware the Nice Ones: When pushed too far they can be dangerous, seen when a herd of them kill an asshole Blutbad that was scamming them. Extreme Doormat: Their herding instinct makes them very susceptible to being led without question.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Seltenvogel",
+      "media_title": "Grimm",
+      "tropes": [
+        "BirdPeople"
+      ],
+      "description": "Bird People: They're a bird-like Wesen.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Siegbarstes",
+      "media_title": "Grimm",
+      "tropes": [
+        "FeelNoPain",
+        "DirtyCop",
+        "ImplacableMan",
+        "ImmuneToBullets",
+        "EvilIsBigger",
+        "SuperStrength",
+        "NotAlwaysEvil",
+        "ItsPersonal",
+        "LogicalWeakness",
+        "OurOgresAreHungrier",
+        "TheDreaded",
+        "KryptoniteFactor",
+        "NighInvulnerable",
+        "EmpoweredBadassNormal"
+      ],
+      "description": "Large, ogre-like wesen. The Dreaded: Are greatly feared throughout the entire community due to both their sheer ability and their utterly terrifying natures. Evil Is Bigger: Fitting with their status as the inspiration for Ogre’s, all the Seigbarste’s to appear have been positively huge, burly men with extremely imposing natures. They are likewise extremely dangerous. Feel No Pain: Downplayed. \"Game Ogre\", explicitly mentions \"congenital analgesia\", the disorder that causes this in regards to Stark. However, it's established that it is possible for them to feel pain in extreme circumstances (like severe burns). It's likely that \"congenital analgesia\" was simply the closest thing the unaware Doctors could come up with to explain Stark’s extreme pain resilience. Immune to Bullets: Due to their skin being next to impenetrable, bullets are largely ineffectual against them. Judge Patterson shot Oleg Stark at point-blank range in the chest, and he didn’t even react (though he did later need to remove the bullet to ensure the wound didn’t get infected). It's acknowledged that it would take the equivalent of an elephant gun to actually properly pierce their skin, and even then, its admitted that would not be enough to kill them on their own.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Skalengeck",
+      "media_title": "Grimm",
+      "tropes": [
+        "LizardFolk",
+        "ReptilesAreAbhorrent"
+      ],
+      "description": "Lizard Folk: When woged. Reptiles Are Abhorrent: Their low intelligence and propensity for violence gives them a tendency for lives as petty thugs.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Skalenzahne",
+      "media_title": "Grimm",
+      "tropes": [
+        "PlayedWith",
+        "NeverSmileAtACrocodile",
+        "DrunkOnTheDarkSide"
+      ],
+      "description": "Crocodile-like Wesen. Drunk on the Dark Side: Normally they live peaceful lives, and don't cause any trouble, but eating human (or Wesen) flesh can be addictive to them and makes them more savage and eager for more. Never Smile at a Crocodile:Played With. On the one hand, they are perfectly capable of functioning peacefully in society without causing any trouble so long as they're not angered. But on the other hand, being humanoid crocodiles when transformed, they are more than capable of being very brutal warriors. And in the unfortunate event that they eat human (or Wesen) flesh, they lose their humanity entirely and devolve into bloodthirsty savages that will gladly fight and kill anything that gets in their way in a single-minded desire to eat more such flesh.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Spinnetods",
+      "media_title": "Grimm",
+      "tropes": [
+        "BlackEyesOfEvil",
+        "SpiderPeople",
+        "WoobieDestroyerOfWorlds",
+        "AnimalStereotypes",
+        "SpidersAreScary",
+        "YoungerThanTheyLook",
+        "ForcedIntoEvil",
+        "SeductiveSpider",
+        "RiddleForTheAges",
+        "RapidAging",
+        "TsuchigumoAndJorogumo",
+        "BlackWidow",
+        "BlessedWithSuck",
+        "EverythingsBetterWithSparkles"
+      ],
+      "description": "Very rare spider-like Wesen. The females must prey on male humans or Wesens once every five years or they age rapidly and die. Animal Stereotypes: Of spiders. Sexy and seductive before they lure their male prey to devour their liquified organs. Black Eyes of Evil: When they woge. Black Widow: Pun thoroughly intended. Even Spinnetod males aren't guaranteed safety. Blessed with Suck: They are super strong, agile and can regenerate any torn limb. But if they're female they must feed on three human or Wesen males every five years, or they suffer massive rapid-aging from their bodies failing to properly \"molt.\"",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Steinadler",
+      "media_title": "Grimm",
+      "tropes": [
+        "BirdPeople",
+        "ProudWarriorRace"
+      ],
+      "description": "Bird People: They're hawks. Proud Warrior Race: Many of them join the military or serve as mercenaries and adventurers.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Taureus-Armenta",
+      "media_title": "Grimm",
+      "tropes": [
+        "OurMinotaursAreDifferent",
+        "VigorousBull",
+        "ProudWarriorRace"
+      ],
+      "description": "Our Minotaurs Are Different: They're bull-like Wesen. Vigorous Bull: They're aProud Warrior Race, but not total brutes; they often work in human militaries and can feel softer emotions like love.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Tawaret",
+      "media_title": "Grimm",
+      "tropes": [
+        "BigBeautifulWoman",
+        "TheWorfEffect",
+        "AngryAngryHippos",
+        "NoSell",
+        "OldSchoolChivalry",
+        "OffhandBackhand",
+        "HuggyHuggyHippos",
+        "BewareTheNiceOnes"
+      ],
+      "description": "A hippopotamus like Wesen. Angry, Angry Hippos: They're not inclined towards violence, but they can andwilldefend themselves brutally. Beware the Nice Ones: A fairly pleasant race which never gives Nick any trouble. But anyone trying to kill one of them should be very aware of theirOffhand Backhandabilities. Big Beautiful Woman: The only specimen of its kind seen in the show was a woman who was heavyset and drew the attention of two men in one night. It's unknown if this is the universal among them. Huggy, Huggy Hippos: The only one shown in the series is shown to be a rather jovial fun-loving woman just looking for a good time, until her life is threatened that is.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Varme Tyv",
+      "media_title": "Grimm",
+      "tropes": [
+        "BigEater",
+        "TheFarmerAndTheViper",
+        "DeepSleep",
+        "SnakesAreSinister",
+        "TragicMonster",
+        "JustifiedTrope"
+      ],
+      "description": "Snake-like Wesen who tend to be peaceful for most of the year, but display a dangerous sense of self-preservation during the winter. Big Eater: Gouge themselves on as much food as possible in anticipation for their hibernation, much like real animals who hibernate for long periods of time. Deep Sleep: Most survive the winter by huddling together in some out of the way barn, sharing their warmth and remaining near comatose for the entire time. The Farmer and the Viper: Freezing Varme Tyv are likely to attack anyone who stops to help them,because there is no other effective way for those people to help them in time to save their lives. Snakes Are Sinister: When the winter cold starts, many of them stay alive by draining all of the warmth from humans (killing them). That being said, it's indicated that they do this less out of malice, and more out of a desperate need to stay alive, and are capable of otherwise living completely normal lives.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Vibora Dorada",
+      "media_title": "Grimm",
+      "tropes": [
+        "NobleDemon",
+        "AssholeVictim"
+      ],
+      "description": "Serpent-like Wesen with a paralyzing bite and an affinity for Mesoamerican blood magic. Noble Demon: They make masks out of the faces of other Wesens to empower luchadors, but only seem to targetasshole victims, give clients a chance to back out of deals, and try to help anyone the Wesen consciousness lingering in the mask may take over.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wasser Zahne",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheBully",
+        "NeverMyFault",
+        "SeaMonster",
+        "ScoobyDooHoax",
+        "LackOfEmpathy"
+      ],
+      "description": "An aquatic, reptilian Wesen. The Bully: Prey on those weaker than them, if Logan Cobb, the sole member of their race to appear in the show is any indicator of the species as a whole. Lack of Empathy: Logan only shows mild irritation hearing a woman screaming for her husband, who he'd just killed. Never My Fault: Logan Cobb shrugs off any blame for having killed a person while pulling a\"Scooby-Doo\" Hoax. Sea Monster: They bear a certain resemblance to the Creature from the Black Lagoon.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wendigo",
+      "media_title": "Grimm",
+      "tropes": [
+        "ToServeMan",
+        "DirtyCoward",
+        "Wendigo",
+        "Sadist",
+        "EvilSoundsDeep"
+      ],
+      "description": "Dirty Coward: The sight of a Grimm usually sends them recoiling in fear. Evil Sounds Deep: Inverted. They're one of the only Wesen who soundhigherpitched when woged. Sadist: They enjoy taunting their prey. To Serve Man: They eat humans. Wendigo: They share their name and cannibalism with the infamous monster ofNative American Mythology. They'reprobablynot possessed by an evil spirit, though.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Weten Ogen",
+      "media_title": "Grimm",
+      "tropes": [],
+      "description": "A Lynx-like type of Wesen who have a patriarchal society.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wettbewerbsgewinner",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheBigGuy",
+        "PunnyName"
+      ],
+      "description": "An avian/ reptilian Wesen featuring scales, spines and feathers in its woge. The Big Guy: Implied by the fact that two of them are among the lynch mob that pursues Nick and Monroe through the Black Forest; clearly, they're not intimidated by a Grimm, and are among those called to deal with one. Punny Name: Translates to \"Competition Winner,\" as the species were designed by Jessica A. Short, winner of a competition celebrating the show's 100th episode.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wilahara",
+      "media_title": "Grimm",
+      "tropes": [
+        "RunOrDie"
+      ],
+      "description": "A rabbit like Wesen, who are often murdered for their feet, which supposedly can serve as a fertility charm. Run or Die: Many of them spend their whole lives fleeing for hunters after their feet.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wildermann",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "BigfootSasquatchAndYeti",
+        "WolfMen",
+        "BigHeartedBigfoot",
+        "BewareOfTheNiceOnes",
+        "GentleGiant"
+      ],
+      "description": "Humanoid Wesen, said to be the basis of Bigfoot legends. Beethoven Was an Alien Spy: Transcendentalism was invented by many prominent wildermann thinkers, including Thoreau and Emerson. Beware of the Nice Ones: As a race they are commonly associated with tranquility and gentleness. However, they are physically stronger than the majority of Wesen, including Blutbaden, and are able to casually rip people apart. If enraged to an uncontrollable degree, they can be extremely dangerous. Bigfoot, Sasquatch, and Yeti: The in-universe inspiration for this kind of cryptid, as well as for woodwoses in European folklore. Big-Hearted Bigfoot: Played with. Despite their incredible physical prowess (being stronger than evenBlutbaden), the majority of them are friendly, peaceful, artistic individuals who deeply enjoy nature (many of the supporters of transcendentalism were secretly Wildermann). However, their animalistic nature also comes with a terrifying temper and impulse control issues. This leads to many Wildermann who can't find a balance to struggle with their dual nature (more so than most Wesen) and attempt to suppress it. In \"Big Feet\", therapist Konstantin Binkerhoff believes he has created a serum that will successfully do so, which he takes and shares with several members of the Portland Wildermann community, only for him to discover too late that once it wears off, it has the immediate opposite effect, bringing all the beast to the forefront.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wildesheer",
+      "media_title": "Grimm",
+      "tropes": [
+        "TheWildHunt",
+        "WorthyOpponent",
+        "TheDreaded"
+      ],
+      "description": "Rare, wolf-like wesen who live to fight and kill. The Dreaded: Even Blutbad are terrified of them. The Wild Hunt: Their name and the title of the episode they debut in indicates that they are theGrimmuniverse's source for this legend. Worthy Opponent: They actively look for these, killing anyone they deem a worthy challenge, and actually want to fight Grimm.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Yaguaraté",
+      "media_title": "Grimm",
+      "tropes": [
+        "CatFolk"
+      ],
+      "description": "Tribal jaguar-like creatures known to be very hesitant about revealing their true natures to anyone. There is a street gang in Portland, known as the \"Northside Cru\", which is comprised entirely of Yaguaratés. Cat Folk: Of the jaguar variety.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ziegevolk",
+      "media_title": "Grimm",
+      "tropes": [
+        "BeethovenWasAnAlienSpy",
+        "CharmPerson",
+        "SerialRapist",
+        "Pheromones",
+        "FakeMemories",
+        "DirtyCoward",
+        "KavorkaMan",
+        "FaunsAndSatyrs",
+        "LoveIsInTheAir",
+        "PowerPerversionPotential",
+        "FragileSpeedster",
+        "InterspeciesRomance",
+        "SubvertedTrope",
+        "CompositeCharacter",
+        "CompellingVoice",
+        "OneGenderRace",
+        "GruesomeGoat"
+      ],
+      "description": "Goatlike Wesen resemblingsatyrs. They can put anyone, particularly those of the opposite sex, under their spell with a single touch. Beethoven Was an Alien Spy: The show outright says Casanova, Frank Sinatra, and JFK were Ziegevolk. Charm Person: The majority of Ziegevolk, those commonly known as \"breeders\", count as this, as their pheromone abilities merely make the other person more inclined to agree with them and make them appear more charismatic and attractive. It doesn't allow them to force people to obey their will. Unfortunately, some havefurther powers. Compelling Voice: Some Ziegevolk, those commonly known as \"herders\", possess the ability to enhance their pheromone powers by devouring a certain species of toad. In this case they can outright control and force their victims to obey their every word. The most powerful can have this bordering on outright brainwashing and can evenrewrite memories. Dirty Coward: As a race, they will pick running over fighting every day. This makesBilly Capraall the darker for his willingness to attack and choke out his victims rather than make a run for it.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 51
+  "character_count": 152
 }

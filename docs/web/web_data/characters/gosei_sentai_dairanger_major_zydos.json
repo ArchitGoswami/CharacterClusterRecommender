@@ -1,16 +1,1 @@
-{
-  "name": "Major Zydos",
-  "show": "Gosei Sentai Dairanger",
-  "trope_count": 8,
-  "tropes": [
-    "SquashedFlat",
-    "DumbMuscle",
-    "AintTooProudToBeg",
-    "TheCorrupter",
-    "PleaseKeepYourHatOn",
-    "TheBrute",
-    "BookDumb",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Major Zydos", "show": "Gosei Sentai Dairanger", "trope_count": 8, "tropes": ["SquashedFlat", "DumbMuscle", "AintTooProudToBeg", "TheCorrupter", "PleaseKeepYourHatOn", "TheBrute", "BookDumb", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Killer Croc", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_killer_croc", "similarity": 0.069, "shared_tropes": 4}, {"name": "Lightning", "show": "Total Drama", "id": "total_drama_lightning", "similarity": 0.0421, "shared_tropes": 4}]}

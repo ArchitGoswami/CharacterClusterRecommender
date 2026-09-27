@@ -734,20 +734,21 @@
       "tropes": [
         "AttentionWhore",
         "LethalHarmlessPowers",
-        "SanitySlippage",
         "FoodBasedSuperpowers",
-        "LogicalWeakness",
         "NotSoHarmlessVillain",
-        "Whatevermancy",
+        "SanitySlippage",
         "CareerAproposEmpowering",
-        "ButtMonkey",
-        "SingleSubstanceManipulation",
-        "BullyingADragon",
-        "CruelAndUnusualDeath",
-        "FromNobodyToNightmare",
-        "WhatKindOfLamePowerIsHeartAnyway",
         "BadassInANiceSuit",
-        "PsychoticSmirk"
+        "SingleSubstanceManipulation",
+        "WhatKindOfLamePowerIsHeartAnyway",
+        "DemotedToExtra",
+        "LogicalWeakness",
+        "ButtMonkey",
+        "BullyingADragon",
+        "PsychoticSmirk",
+        "FromNobodyToNightmare",
+        "CruelAndUnusualDeath",
+        "Whatevermancy"
       ],
       "description": "A former teaboy with the power to manipulate dairy products with the power of his mind, Brian is the first of the storm-affected to go public. Though he enjoys the attention, he begins fading into the background when people with more impressive superpowers appear in the public eye- among them being the Misfits themselves. Eventually, he decides that the only way he's going to get any lasting attention is by killing... Attention Whore: He's been ignored all his life, so when his power is discovered, he tries to milk it for all it's worth (no pun intended), only to grow extremely jealous when the spotlight is off. He even admits that he's perfectly fine with killing people if it means he has attention. Badass in a Nice Suit: Once he becomes famous, Brian gets into the habit of wearing suits; this continues throughout his killing spree. Butt-Monkey: He gets approximately five minutes of fame before he gets shunted off to the sidelines. Bullying a Dragon: Nathan mocking and bullying him is what helps spur him on to villainy.",
       "source": "tvtropes"
@@ -1043,7 +1044,20 @@
       ],
       "description": "A Holocaust survivor who hid while his family and friends were killed, Friedrich would do anything to try to save his loved ones and his fellow Jews, even kill Hitler... The Atoner: Friedrich has felt guilty all of his long life for doing nothing while everyone he loved was rounded up into concentration camps. Boom, Headshot!:He's shot in the head by Captain Smith. However, it appears that Kelly's travel through time saves his life. Cool Old Guy: He tried to knife Hitler, that's pretty cool. Face Death with Dignity: Well aware that he could die if his assassination attempt fails, Friedrich prepares by dressing in his best suit, writing a letter explaining his actions and placing a bouquet of flowers at the local cenotaph.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Misfits",
+      "tropes": [
+        "TeethClenchedTeamwork",
+        "TheFellowshipHasEnded",
+        "JerkWithAHeartOfGold",
+        "MassSuperempoweringEvent",
+        "TrueCompanions"
+      ],
+      "description": "Jerk with a Heart of Gold: They are all sarcastic young offenders who can be mean and selfish. They are also increidbly loyal to each other, risk their lives repeatedly for others and on some occasion saved the world. Teeth-Clenched Teamwork: The only reason the gang worked together is because they all have powers and have to rely on each other to deal with the problems the storm caused. Even though they all grow to like each other to an extent, they very rarely seem to enjoy spending time together. The Fellowship Has Ended: By the end of Series 4 none of the ASBO Five are still around:Simon, Alisha and Curtis are all dead, Nathan is in prison in America and Kelly has moved to Uganda which violates her community service and means she can't come back. True Companions: Ultimately they do become this despite the previouslyTeeth-Clenched Teamworksince the only epople they can rely on is each other.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 47
+  "character_count": 48
 }

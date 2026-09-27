@@ -1,17 +1,1 @@
-{
-  "name": "Ozzie",
-  "show": "Zeke and Luther",
-  "trope_count": 9,
-  "tropes": [
-    "RaceFetish",
-    "Catchphrase",
-    "IJustWantToBeLoved",
-    "CrouchingMoronHiddenBadass",
-    "BadassBookworm",
-    "RageQuit",
-    "CharacterizationMarchesOn",
-    "Cloudcuckoolander",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ozzie", "show": "Zeke and Luther", "trope_count": 9, "tropes": ["RaceFetish", "Catchphrase", "IJustWantToBeLoved", "CrouchingMoronHiddenBadass", "BadassBookworm", "RageQuit", "CharacterizationMarchesOn", "Cloudcuckoolander", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Phillip \"Phil\" Dunphy", "show": "Modern Family", "id": "modern_family_phillip_phil_dunphy", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Dr. Psychobos", "show": "Ben 10", "id": "ben_10_dr_psychobos", "similarity": 0.0597, "shared_tropes": 4}, {"name": "In General", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_in_general", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Baljeet Tjinder", "show": "Phineas and Ferb", "id": "phineas_and_ferb_baljeet_tjinder", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Alec Hardison: The Hacker", "show": "Leverage", "id": "leverage_alec_hardison_the_hacker", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Rattrap", "show": "Beast Wars", "id": "beast_wars_rattrap", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Harold", "show": "Total Drama", "id": "total_drama_harold", "similarity": 0.0368, "shared_tropes": 5}, {"name": "Leslie Knope", "show": "Parks and Recreation", "id": "parks_and_recreation_leslie_knope", "similarity": 0.0364, "shared_tropes": 4}]}

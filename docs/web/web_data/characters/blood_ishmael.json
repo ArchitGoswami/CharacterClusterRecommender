@@ -1,16 +1,1 @@
-{
-  "name": "Ishmael",
-  "show": "Blood+",
-  "trope_count": 8,
-  "tropes": [
-    "AffablyEvil",
-    "CharacterTics",
-    "TokenGoodTeammate",
-    "DeathIsNotPermanent",
-    "SquishyWizard",
-    "LegacyCharacter",
-    "BaldOfEvil",
-    "BadassLongcoat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ishmael", "show": "Blood+", "trope_count": 8, "tropes": ["AffablyEvil", "CharacterTics", "TokenGoodTeammate", "DeathIsNotPermanent", "SquishyWizard", "LegacyCharacter", "BaldOfEvil", "BadassLongcoat"], "tropes_by_category": {}, "similar": [{"name": "Rishid (Odion)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_rishid_odion", "similarity": 0.0597, "shared_tropes": 4}]}

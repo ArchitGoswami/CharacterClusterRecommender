@@ -1,13 +1,1 @@
-{
-  "name": "Betty Deville",
-  "show": "All Grown Up",
-  "trope_count": 5,
-  "tropes": [
-    "CloudCuckooLander",
-    "ChubbyMamaSkinnyPapa",
-    "ActionMom",
-    "MamaBear",
-    "FormerlyFit"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Betty Deville", "show": "All Grown Up", "trope_count": 5, "tropes": ["CloudCuckooLander", "ChubbyMamaSkinnyPapa", "ActionMom", "MamaBear", "FormerlyFit"], "tropes_by_category": {}, "similar": [{"name": "BettyDeVille", "show": "All Grown Up", "id": "all_grown_up_bettydeville", "similarity": 1.0, "shared_tropes": 5}]}

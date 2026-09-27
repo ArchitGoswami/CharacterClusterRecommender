@@ -1,15 +1,1 @@
-{
-  "name": "Lila Bolander",
-  "show": "Boy Meets World",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "LoveInterest",
-    "TheGhost",
-    "BadassTeacher",
-    "ReasonableAuthorityFigure",
-    "EarlyBirdCameo",
-    "CannotSpitItOut"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lila Bolander", "show": "Boy Meets World", "trope_count": 7, "tropes": ["DeadpanSnarker", "LoveInterest", "TheGhost", "BadassTeacher", "ReasonableAuthorityFigure", "EarlyBirdCameo", "CannotSpitItOut"], "tropes_by_category": {}, "similar": [{"name": "George Feeny", "show": "Boy Meets World", "id": "boy_meets_world_george_feeny", "similarity": 0.1282, "shared_tropes": 5}, {"name": "Jessica Beatrice Fletcher", "show": "Murder She Wrote", "id": "murder_she_wrote_jessica_beatrice_fletcher", "similarity": 0.0381, "shared_tropes": 4}]}

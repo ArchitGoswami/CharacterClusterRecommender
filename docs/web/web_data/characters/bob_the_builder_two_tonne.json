@@ -1,14 +1,1 @@
-{
-  "name": "Two-Tonne",
-  "show": "Bob the Builder",
-  "trope_count": 6,
-  "tropes": [
-    "WhyDidItHaveToBeSnakes",
-    "MeaningfulName",
-    "AlliterativeName",
-    "DubNameChange",
-    "OutOfFocus",
-    "DemotedToExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Two-Tonne", "show": "Bob the Builder", "trope_count": 6, "tropes": ["WhyDidItHaveToBeSnakes", "MeaningfulName", "AlliterativeName", "DubNameChange", "OutOfFocus", "DemotedToExtra"], "tropes_by_category": {}, "similar": [{"name": "Trent", "show": "Total Drama", "id": "total_drama_trent", "similarity": 0.0635, "shared_tropes": 4}, {"name": "The Tough Customers", "show": "Arthur", "id": "arthur_the_tough_customers", "similarity": 0.0439, "shared_tropes": 5}]}

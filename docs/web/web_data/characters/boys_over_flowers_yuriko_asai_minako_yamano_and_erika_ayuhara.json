@@ -1,14 +1,1 @@
-{
-  "name": "Yuriko Asai, Minako Yamano, and Erika Ayuhara",
-  "show": "Boys Over Flowers",
-  "trope_count": 6,
-  "tropes": [
-    "GirlPosse",
-    "AlphaBitch",
-    "KarmaHoudini",
-    "SatelliteCharacter",
-    "GreenEyedMonster",
-    "Hypocrite"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Yuriko Asai, Minako Yamano, and Erika Ayuhara", "show": "Boys Over Flowers", "trope_count": 6, "tropes": ["GirlPosse", "AlphaBitch", "KarmaHoudini", "SatelliteCharacter", "GreenEyedMonster", "Hypocrite"], "tropes_by_category": {}, "similar": [{"name": "Jessica Davis", "show": "Thirteen Reasons Why", "id": "thirteen_reasons_why_jessica_davis", "similarity": 0.1, "shared_tropes": 4}, {"name": "Deidre \"Dodie\" Hortense Bishop", "show": "As Told by Ginger", "id": "as_told_by_ginger_deidre_dodie_hortense_bishop", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Marie", "show": "Breaking Bad", "id": "breaking_bad_marie", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Élisabeth \"Sissi\" Delmas", "show": "Code Lyoko", "id": "code_lyoko_lisabeth_sissi_delmas", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Lois", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_lois", "similarity": 0.0455, "shared_tropes": 4}, {"name": "RedMcArthur", "show": "South Park", "id": "south_park_redmcarthur", "similarity": 0.043, "shared_tropes": 4}]}

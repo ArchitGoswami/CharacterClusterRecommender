@@ -1,17 +1,1 @@
-{
-  "name": "Terrifi-Guy",
-  "show": "Dan Vs.",
-  "trope_count": 9,
-  "tropes": [
-    "CastingGag",
-    "Jerkass",
-    "PatheticallyWeak",
-    "AssholeVictim",
-    "WeaksauceWeakness",
-    "AntiHero",
-    "SmugSuper",
-    "SuperStrength",
-    "WeirdTradeUnion"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Terrifi-Guy", "show": "Dan Vs.", "trope_count": 9, "tropes": ["CastingGag", "Jerkass", "PatheticallyWeak", "AssholeVictim", "WeaksauceWeakness", "AntiHero", "SmugSuper", "SuperStrength", "WeirdTradeUnion"], "tropes_by_category": {}, "similar": [{"name": "Captain Atom", "show": "Batman: The Brave and the Bold", "id": "batman_the_brave_and_the_bold_captain_atom", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Sandman", "show": "Spider-Man", "id": "spider_man_sandman", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Sandman", "show": "Your Friendly Neighborhood Spider-Man", "id": "your_friendly_neighborhood_spider_man_sandman", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Zora Ideale", "show": "Black Clover", "id": "black_clover_zora_ideale", "similarity": 0.037, "shared_tropes": 4}]}

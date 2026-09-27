@@ -1,13 +1,1 @@
-{
-  "name": "Lisa",
-  "show": "Everybody Hates Chris",
-  "trope_count": 5,
-  "tropes": [
-    "Jerkass",
-    "IntrepidReporter",
-    "InsufferableGenius",
-    "AcademicAlphaBitch",
-    "AsianAndNerdy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lisa", "show": "Everybody Hates Chris", "trope_count": 5, "tropes": ["Jerkass", "IntrepidReporter", "InsufferableGenius", "AcademicAlphaBitch", "AsianAndNerdy"], "tropes_by_category": {}, "similar": []}

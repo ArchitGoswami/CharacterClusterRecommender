@@ -1,10 +1,1 @@
-{
-  "name": "Kyle Valenti",
-  "show": "Roswell",
-  "trope_count": 2,
-  "tropes": [
-    "TookALevelInKindness",
-    "PluckyComicRelief"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kyle Valenti", "show": "Roswell", "trope_count": 17, "tropes": ["ActualPacifist", "TheHeart", "WhodunnitToMe", "BrokenPedestal", "NiceGuy", "AmicableExes", "DeterminedDoctor", "JerkJock", "OnlySaneMan", "SexWithTheEx", "RaceLift", "HasAType", "ReformedBully", "BenevolentConspiracy", "RebuiltPedestal", "ConfessInConfidence", "IWantMyBelovedToBeHappy"], "tropes_by_category": {}, "similar": [{"name": "Steve Hale", "show": "Fuller House", "id": "fuller_house_steve_hale", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Matt Donovan", "show": "The Vampire Diaries", "id": "the_vampire_diaries_matt_donovan", "similarity": 0.125, "shared_tropes": 5}, {"name": "Guy", "show": "BoJack Horseman", "id": "bojack_horseman_guy", "similarity": 0.125, "shared_tropes": 4}, {"name": "Matthew \"Matt\" Honeycutt", "show": "The Vampire Diaries", "id": "the_vampire_diaries_matthew_matt_honeycutt", "similarity": 0.1026, "shared_tropes": 4}, {"name": "\"White Josh\" Wilson", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_white_josh_wilson", "similarity": 0.087, "shared_tropes": 4}, {"name": "Darryl Whitefeather", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_darryl_whitefeather", "similarity": 0.08, "shared_tropes": 4}, {"name": "Leo Wyatt", "show": "Charmed", "id": "charmed_leo_wyatt", "similarity": 0.0632, "shared_tropes": 6}, {"name": "Veronica Lodge", "show": "Riverdale", "id": "riverdale_veronica_lodge", "similarity": 0.0577, "shared_tropes": 6}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Willa Hayes",
-  "show": "Yellowstone",
-  "trope_count": 7,
-  "tropes": [
-    "AffablyEvil",
-    "Foreshadowing",
-    "LaserGuidedKarma",
-    "WhatHappenedToTheMouse",
-    "VillainRespect",
-    "PutOnABus",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Willa Hayes", "show": "Yellowstone", "trope_count": 7, "tropes": ["AffablyEvil", "Foreshadowing", "LaserGuidedKarma", "WhatHappenedToTheMouse", "VillainRespect", "PutOnABus", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0381, "shared_tropes": 4}]}

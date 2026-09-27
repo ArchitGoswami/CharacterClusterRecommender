@@ -1,15 +1,1 @@
-{
-  "name": "Fran Crawley",
-  "show": "Mama's Family",
-  "trope_count": 7,
-  "tropes": [
-    "CannotKeepASecret",
-    "SmallNameBigEgo",
-    "GiftedlyBad",
-    "OldMaid",
-    "TomboyAndGirlyGirl",
-    "SecretlyWealthy",
-    "UndignifiedDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fran Crawley", "show": "Mama's Family", "trope_count": 7, "tropes": ["CannotKeepASecret", "SmallNameBigEgo", "GiftedlyBad", "OldMaid", "TomboyAndGirlyGirl", "SecretlyWealthy", "UndignifiedDeath"], "tropes_by_category": {}, "similar": []}

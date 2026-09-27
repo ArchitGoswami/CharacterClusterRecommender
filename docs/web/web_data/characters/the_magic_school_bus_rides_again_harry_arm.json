@@ -1,13 +1,1 @@
-{
-  "name": "Harry Arm",
-  "show": "The Magic School Bus Rides Again",
-  "trope_count": 5,
-  "tropes": [
-    "IronicName",
-    "StealthMentor",
-    "ShutUpHannibal",
-    "PunnyName",
-    "MisunderstoodLonerWithAHeartOfGold"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Harry Arm", "show": "The Magic School Bus Rides Again", "trope_count": 5, "tropes": ["IronicName", "StealthMentor", "ShutUpHannibal", "PunnyName", "MisunderstoodLonerWithAHeartOfGold"], "tropes_by_category": {}, "similar": [{"name": "Harry Arm", "show": "Magic School Bus, The", "id": "magic_school_bus_the_harry_arm", "similarity": 1.0, "shared_tropes": 5}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Ebine",
-  "show": "Princess Tutu",
-  "trope_count": 9,
-  "tropes": [
-    "LethalEatery",
-    "TheMourningAfter",
-    "CurtainsMatchTheWindow",
-    "SupremeChef",
-    "LethalChef",
-    "ExcessiveMourning",
-    "BeehiveHairdo",
-    "BackForTheFinale",
-    "AlwaysSomeoneBetter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ebine", "show": "Princess Tutu", "trope_count": 9, "tropes": ["LethalEatery", "TheMourningAfter", "CurtainsMatchTheWindow", "SupremeChef", "LethalChef", "ExcessiveMourning", "BeehiveHairdo", "BackForTheFinale", "AlwaysSomeoneBetter"], "tropes_by_category": {}, "similar": []}

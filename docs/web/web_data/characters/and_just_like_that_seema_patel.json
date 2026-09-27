@@ -1,12 +1,1 @@
-{
-  "name": "Seema Patel",
-  "show": "And Just Like That",
-  "trope_count": 4,
-  "tropes": [
-    "UptownGirl",
-    "SixthRanger",
-    "RichesToRags",
-    "GranolaGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Seema Patel", "show": "And Just Like That", "trope_count": 4, "tropes": ["UptownGirl", "SixthRanger", "RichesToRags", "GranolaGuy"], "tropes_by_category": {}, "similar": [{"name": "Seema Patel", "show": "Sex and the City", "id": "sex_and_the_city_seema_patel", "similarity": 1.0, "shared_tropes": 4}]}

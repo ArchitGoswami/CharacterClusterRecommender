@@ -1,15 +1,1 @@
-{
-  "name": "Jonathan",
-  "show": "Jane the Virgin",
-  "trope_count": 7,
-  "tropes": [
-    "HotTeacher",
-    "TheBusCameBack",
-    "PetTheDog",
-    "SternTeacher",
-    "ThirdOptionLoveInterest",
-    "UnequalPairing",
-    "TeacherStudentRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jonathan", "show": "Jane the Virgin", "trope_count": 7, "tropes": ["HotTeacher", "TheBusCameBack", "PetTheDog", "SternTeacher", "ThirdOptionLoveInterest", "UnequalPairing", "TeacherStudentRomance"], "tropes_by_category": {}, "similar": [{"name": "Winslow High Staff", "show": "Boston Public", "id": "boston_public_winslow_high_staff", "similarity": 0.0426, "shared_tropes": 4}]}

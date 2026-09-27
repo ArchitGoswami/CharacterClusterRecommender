@@ -1,16 +1,1 @@
-{
-  "name": "Kaitlin Starr",
-  "show": "VR Troopers",
-  "trope_count": 8,
-  "tropes": [
-    "ActionGirl",
-    "IntrepidReporter",
-    "DecompositeCharacter",
-    "SinisterScythe",
-    "CompositeCharacter",
-    "FlyingCar",
-    "DynamicAkimbo",
-    "CoolCar"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kaitlin Starr", "show": "VR Troopers", "trope_count": 8, "tropes": ["ActionGirl", "IntrepidReporter", "DecompositeCharacter", "SinisterScythe", "CompositeCharacter", "FlyingCar", "DynamicAkimbo", "CoolCar"], "tropes_by_category": {}, "similar": []}

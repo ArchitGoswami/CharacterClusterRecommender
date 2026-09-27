@@ -1,15 +1,1 @@
-{
-  "name": "Priya Bhutani",
-  "show": "Mira, Royal Detective",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "RedOniBlueOni",
-    "TextileWorkIsFeminine",
-    "TrueCompanions",
-    "TheTeamNormal",
-    "GreenAndMean",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Priya Bhutani", "show": "Mira, Royal Detective", "trope_count": 7, "tropes": ["DeadpanSnarker", "RedOniBlueOni", "TextileWorkIsFeminine", "TrueCompanions", "TheTeamNormal", "GreenAndMean", "NiceGirl"], "tropes_by_category": {}, "similar": [{"name": "Rook Blonko", "show": "Ben 10", "id": "ben_10_rook_blonko", "similarity": 0.036, "shared_tropes": 4}]}

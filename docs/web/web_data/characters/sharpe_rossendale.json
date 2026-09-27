@@ -1,18 +1,1 @@
-{
-  "name": "Rossendale",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "DiesDifferentlyInAdaptation",
-    "ImpaledWithExtremePrejudice",
-    "ReassignmentBackfire",
-    "BringMyBrownPants",
-    "LoveMakesYouDumb",
-    "ImpoverishedPatrician",
-    "TheDragon",
-    "EvenEvilHasStandards",
-    "WreckedWeapon",
-    "IDidWhatIHadToDo"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rossendale", "show": "Sharpe", "trope_count": 10, "tropes": ["DiesDifferentlyInAdaptation", "ImpaledWithExtremePrejudice", "ReassignmentBackfire", "BringMyBrownPants", "LoveMakesYouDumb", "ImpoverishedPatrician", "TheDragon", "EvenEvilHasStandards", "WreckedWeapon", "IDidWhatIHadToDo"], "tropes_by_category": {}, "similar": [{"name": "Captain Sean Renard", "show": "Grimm", "id": "grimm_captain_sean_renard", "similarity": 0.0388, "shared_tropes": 4}]}

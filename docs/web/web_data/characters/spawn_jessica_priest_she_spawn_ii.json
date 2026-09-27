@@ -1,17 +1,1 @@
-{
-  "name": "Jessica Priest/She-Spawn II",
-  "show": "Spawn",
-  "trope_count": 9,
-  "tropes": [
-    "TheLeader",
-    "Retcon",
-    "WonderWomanWannabe",
-    "AxCrazy",
-    "NumberTwo",
-    "CharacterizationMarchesOn",
-    "OnlySaneMan",
-    "SelfMadeOrphan",
-    "CanonImmigrant"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jessica Priest/She-Spawn II", "show": "Spawn", "trope_count": 9, "tropes": ["TheLeader", "Retcon", "WonderWomanWannabe", "AxCrazy", "NumberTwo", "CharacterizationMarchesOn", "OnlySaneMan", "SelfMadeOrphan", "CanonImmigrant"], "tropes_by_category": {}, "similar": [{"name": "Nuke", "show": "Daredevil", "id": "daredevil_nuke", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Kristine Kochanski (Alternate Universe)", "show": "Red Dwarf", "id": "red_dwarf_kristine_kochanski_alternate_universe", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Zombozo", "show": "Ben 10", "id": "ben_10_zombozo", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Gonzo the Great", "show": "Muppet Show,The", "id": "muppet_showthe_gonzo_the_great", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Jackson \"Jax\" Teller", "show": "Sons of Anarchy", "id": "sons_of_anarchy_jackson_jax_teller", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Craig Tucker", "show": "South Park", "id": "south_park_craig_tucker", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.036, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Spectre (Jark)",
-  "show": "Dinosaur King",
-  "trope_count": 9,
-  "tropes": [
-    "BigBad",
-    "HollywoodToneDeaf",
-    "BlackEyesOfCrazy",
-    "OrcusOnHisThrone",
-    "BunnyEarsLawyer",
-    "SissyVillain",
-    "AmbiguouslyGay",
-    "BitingTheHandkerchief",
-    "BeardOfEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Spectre (Jark)", "show": "Dinosaur King", "trope_count": 9, "tropes": ["BigBad", "HollywoodToneDeaf", "BlackEyesOfCrazy", "OrcusOnHisThrone", "BunnyEarsLawyer", "SissyVillain", "AmbiguouslyGay", "BitingTheHandkerchief", "BeardOfEvil"], "tropes_by_category": {}, "similar": [{"name": "Prince John", "show": "Robin Hood", "id": "robin_hood_prince_john", "similarity": 0.0354, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Nekomaru",
-  "show": "Ninja Sentai Kakuranger",
-  "trope_count": 6,
-  "tropes": [
-    "HomeBase",
-    "LogicalWeakness",
-    "MechanicalLifeform",
-    "BigDamnHeroes",
-    "Flight",
-    "TeamPet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nekomaru", "show": "Ninja Sentai Kakuranger", "trope_count": 6, "tropes": ["HomeBase", "LogicalWeakness", "MechanicalLifeform", "BigDamnHeroes", "Flight", "TeamPet"], "tropes_by_category": {}, "similar": [{"name": "In General", "show": "Sword Art Online", "id": "sword_art_online_in_general", "similarity": 0.0351, "shared_tropes": 4}]}

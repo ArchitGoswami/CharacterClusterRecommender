@@ -1,11 +1,1 @@
-{
-  "name": "The Four-Legged Zoo",
-  "show": "Schoolhouse Rock!",
-  "trope_count": 3,
-  "tropes": [
-    "BiggerOnTheInside",
-    "LivingStructureMonster",
-    "AmbiguousSyntax"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Four-Legged Zoo", "show": "Schoolhouse Rock!", "trope_count": 3, "tropes": ["BiggerOnTheInside", "LivingStructureMonster", "AmbiguousSyntax"], "tropes_by_category": {}, "similar": []}

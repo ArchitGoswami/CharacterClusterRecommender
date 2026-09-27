@@ -275,13 +275,43 @@
       "name": "Trill.EXE",
       "media_title": "Megaman NT Warrior",
       "tropes": [
+        "AlternateSelf",
         "ChekhovsGunman",
-        "BadassAdorable",
-        "CheerfulChild"
+        "FusionDance",
+        "CheerfulChild",
+        "BadassAdorable"
       ],
-      "description": "This young and childish Navi only appears in the anime. Trill is known as the Synchronizer, and has taken an immense liking to Mega Man for protecting him and Iris against the worshipers of Falzar and Gregar. Eventually Trill allows Mega Man to gain the ability to Beast-Out, thus gaining the powers of either of the two beasts, but Mega Man loses control and attacks anything in sight if Iris is not there as well. Badass Adorable: He has the ability to turn Mega Man into his beast forms from Battle Network 6 and collects Beastized viruses like toys. Cheerful Child: Trill often gets excited very easily. He is this whenever he sees Mega Man in front of him, and he even runs up to Mega Man and hugs him. Chekhov's Gunman: Trill's data breaks apart at the end of Beast, forcing Rockman to absorb his data in order to become the new Synchronizer. Come the Beast+ finale, Netto and Rockman get absorbed by Cache. Cue Trill's data manifesting, freeing the two and allowing them to break free so they can fight back.",
+      "description": "This young and childish Navi only appears in the anime. Trill is known as the Synchronizer, and has taken an immense liking to Mega Man for protecting him and Iris against the worshipers of Falzar and Gregar. Eventually Trill allows Mega Man to gain the ability to Beast-Out, thus gaining the powers of either of the two beasts, but Mega Man loses control and attacks anything in sight if Iris is not there as well. Alternate Self: He is the creation of Dr. Tadashi Hikari of Beyondard. Since Yuichiro uses his father's technology to createMegaMan, this would make Trill theMegaManof Beyondard. This similarity is what allowsMegaManto temporarily replace Trill as the Synchronizer in the climax ofBeast. Badass Adorable: He has the ability to turn Mega Man into his beast forms from Battle Network 6 and collects Beastized viruses like toys. Cheerful Child: Trill often gets excited very easily. He is this whenever he sees Mega Man in front of him, and he even runs up to Mega Man and hugs him. Chekhov's Gunman: Trill's data breaks apart at the end of Beast, forcing Rockman to absorb his data in order to become the new Synchronizer. Come the Beast+ finale, Netto and Rockman get absorbed by Cache. Cue Trill's data manifesting, freeing the two and allowing them to break free so they can fight back.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Creamland General",
+      "media_title": "Megaman NT Warrior",
+      "tropes": [
+        "WellIntentionedExtremist",
+        "KilledOffForReal",
+        "TragicVillain",
+        "KarmaHoudini",
+        "EvenEvilHasStandards",
+        "BlowYouAway",
+        "RetiredBadass"
+      ],
+      "description": "Blow You Away: Given AsteroidAirManby Slur. Even Evil Has Standards: OrdersAirMannot to hurt Princcess Pride. Karma Houdini: Depends on how you look at it. He doesn't face any actual consequences, but also dies. Killed Off for Real: One of the few human characters to die. Retired Badass: Pride said he had to retire due to health problems, but is able to operateAirManand able to create enough clones to make an army.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Super Cyber Beast",
+      "media_title": "Megaman NT Warrior",
+      "tropes": [
+        "CurbStompBattle",
+        "FusionDance",
+        "BackFromTheDead",
+        "AdaptationalBadass",
+        "HalfTheManHeUsedToBe"
+      ],
+      "description": "In the climax ofBeast, Gregar defeats and absorbs its rival, Falzar, creating a fusion of the two Cybeasts. Immediately afterward, Dr. Wily of Beyondard transfers his consciousness into the newly formed Super Cybeast, intending to conquer both his world and Lan's. Although the Super Cybeast is ultimately defeated, it is revived in the following season and given the name Grezar. Adaptational Badass: While the anime incarnation of Grezar is formidable in its own right, its manga counterpart is an existential threat. After the fusion is complete, Grezar begins absorbing everything in both worlds, growing until it rivals the planet in size. Back from the Dead: InBeast +, it is brought back to life by the Professor, only to be defeated again by Beast OutMegaMan. Curb-Stomp Battle: On both ends. After easily defeating seven members of the Cross Fusion team, it is then defeated by Beast Form C.FMegaManwith little difficulty. Fusion Dance: Of the two Cybeasts.",
       "source": "tvtropes"
     }
   ],
-  "character_count": 19
+  "character_count": 21
 }

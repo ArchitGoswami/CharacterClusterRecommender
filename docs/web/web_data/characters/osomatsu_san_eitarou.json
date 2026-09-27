@@ -1,18 +1,1 @@
-{
-  "name": "Eitarou",
-  "show": "Osomatsu-san",
-  "trope_count": 10,
-  "tropes": [
-    "TroubledChild",
-    "PintSizedKid",
-    "PlayfulCatSmile",
-    "Manchild",
-    "HeroWorshipper",
-    "SurpassedTheTeacher",
-    "PerpetualSmiler",
-    "IntergenerationalFriendship",
-    "SincerestFormOfFlattery",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eitarou", "show": "Osomatsu-san", "trope_count": 10, "tropes": ["TroubledChild", "PintSizedKid", "PlayfulCatSmile", "Manchild", "HeroWorshipper", "SurpassedTheTeacher", "PerpetualSmiler", "IntergenerationalFriendship", "SincerestFormOfFlattery", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Jyushimatsu Matsuno", "show": "Osomatsu-san", "id": "osomatsu_san_jyushimatsu_matsuno", "similarity": 0.0548, "shared_tropes": 4}]}

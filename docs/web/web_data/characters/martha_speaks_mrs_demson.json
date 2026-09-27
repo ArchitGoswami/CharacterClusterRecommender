@@ -1,18 +1,1 @@
-{
-  "name": "Mrs. Demson",
-  "show": "Martha Speaks",
-  "trope_count": 10,
-  "tropes": [
-    "CrankyNeighbour",
-    "Hypochondria",
-    "FunHatingConfiscatingAdult",
-    "SweetTooth",
-    "ScratchyVoicedSenior",
-    "GrumpyOldWoman",
-    "PerpetualFrowner",
-    "ScrewPolitenessImASenior",
-    "FantasticRacism",
-    "HairTriggerTemper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Demson", "show": "Martha Speaks", "trope_count": 10, "tropes": ["CrankyNeighbour", "Hypochondria", "FunHatingConfiscatingAdult", "SweetTooth", "ScratchyVoicedSenior", "GrumpyOldWoman", "PerpetualFrowner", "ScrewPolitenessImASenior", "FantasticRacism", "HairTriggerTemper"], "tropes_by_category": {}, "similar": [{"name": "Mrs. Julia Wicket", "show": "Mr. Bean", "id": "mr_bean_mrs_julia_wicket", "similarity": 0.087, "shared_tropes": 4}, {"name": "Edward \"Ed\" Bighead", "show": "Rocko's Modern Life", "id": "rockos_modern_life_edward_ed_bighead", "similarity": 0.0615, "shared_tropes": 4}]}

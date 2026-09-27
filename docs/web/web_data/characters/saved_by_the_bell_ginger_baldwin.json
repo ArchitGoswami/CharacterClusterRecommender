@@ -1,15 +1,1 @@
-{
-  "name": "Ginger Baldwin",
-  "show": "Saved by the Bell",
-  "trope_count": 7,
-  "tropes": [
-    "DumbBlonde",
-    "BrainlessBeauty",
-    "ConvenientReplacementCharacter",
-    "ComicallyMissingThePoint",
-    "GirlyGirl",
-    "SatelliteLoveInterest",
-    "Lampshaded"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ginger Baldwin", "show": "Saved by the Bell", "trope_count": 7, "tropes": ["DumbBlonde", "BrainlessBeauty", "ConvenientReplacementCharacter", "ComicallyMissingThePoint", "GirlyGirl", "SatelliteLoveInterest", "Lampshaded"], "tropes_by_category": {}, "similar": [{"name": "Emma Ross", "show": "Jessie", "id": "jessie_emma_ross", "similarity": 0.0625, "shared_tropes": 4}]}

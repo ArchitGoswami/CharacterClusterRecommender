@@ -1,18 +1,1 @@
-{
-  "name": "Greasy Greta Minus, the Demon Dinner Lady",
-  "show": "Horrid Henry",
-  "trope_count": 10,
-  "tropes": [
-    "ArtisticLicenseEducation",
-    "KarmaHoudini",
-    "EvenEvilHasLovedOnes",
-    "BatmanGambit",
-    "HateSink",
-    "HumiliationConga",
-    "EnemyMine",
-    "AdaptationExpansion",
-    "FatBastard",
-    "EvilIsPetty"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Greasy Greta Minus, the Demon Dinner Lady", "show": "Horrid Henry", "trope_count": 10, "tropes": ["ArtisticLicenseEducation", "KarmaHoudini", "EvenEvilHasLovedOnes", "BatmanGambit", "HateSink", "HumiliationConga", "EnemyMine", "AdaptationExpansion", "FatBastard", "EvilIsPetty"], "tropes_by_category": {}, "similar": [{"name": "Antwon Mitchell", "show": "Shield,The", "id": "shieldthe_antwon_mitchell", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Finch", "show": "The Office", "id": "the_office_finch", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Ed Wuncler I", "show": "Boondocks,The", "id": "boondocksthe_ed_wuncler_i", "similarity": 0.102, "shared_tropes": 5}, {"name": "Hitoshi Demegawa", "show": "Death Note", "id": "death_note_hitoshi_demegawa", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Dep. Ch. Wuntch", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_dep_ch_wuntch", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Hugo Habercore", "show": "Bob's Burgers", "id": "bobs_burgers_hugo_habercore", "similarity": 0.0833, "shared_tropes": 5}, {"name": "Todd Ianuzzi", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_todd_ianuzzi", "similarity": 0.08, "shared_tropes": 4}, {"name": "Fogle", "show": "Justified", "id": "justified_fogle", "similarity": 0.0506, "shared_tropes": 4}]}

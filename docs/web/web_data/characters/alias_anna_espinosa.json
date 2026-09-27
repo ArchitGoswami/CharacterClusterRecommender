@@ -1,17 +1,1 @@
-{
-  "name": "Anna Espinosa",
-  "show": "Alias",
-  "trope_count": 9,
-  "tropes": [
-    "BreakoutVillain",
-    "GrandTheftMe",
-    "KilledOffForReal",
-    "DarkActionGirl",
-    "TheRival",
-    "Omniglot",
-    "RacialTransformation",
-    "EvilCounterpart",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Anna Espinosa", "show": "Alias", "trope_count": 9, "tropes": ["BreakoutVillain", "GrandTheftMe", "KilledOffForReal", "DarkActionGirl", "TheRival", "Omniglot", "RacialTransformation", "EvilCounterpart", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Breakdown", "show": "Transformers Prime", "id": "transformers_prime_breakdown", "similarity": 0.0548, "shared_tropes": 4}]}

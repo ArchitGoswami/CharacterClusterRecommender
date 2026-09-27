@@ -1,16 +1,1 @@
-{
-  "name": "Dubreton",
-  "show": "Sharpe",
-  "trope_count": 8,
-  "tropes": [
-    "NothingPersonal",
-    "HappilyMarried",
-    "ClickHello",
-    "EnemyMine",
-    "DoWithHimAsYouWill",
-    "FriendlyEnemy",
-    "ExactWords",
-    "ColonelBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dubreton", "show": "Sharpe", "trope_count": 8, "tropes": ["NothingPersonal", "HappilyMarried", "ClickHello", "EnemyMine", "DoWithHimAsYouWill", "FriendlyEnemy", "ExactWords", "ColonelBadass"], "tropes_by_category": {}, "similar": [{"name": "Todd", "show": "Stargate Atlantis", "id": "stargate_atlantis_todd", "similarity": 0.1081, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Dr. Isaac Taft",
-  "show": "Lost Girl",
-  "trope_count": 7,
-  "tropes": [
-    "AintTooProudToBeg",
-    "EatenAlive",
-    "BigBad",
-    "MadScientist",
-    "BigBadWannabe",
-    "IJustWantToBeSpecial",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Isaac Taft", "show": "Lost Girl", "trope_count": 7, "tropes": ["AintTooProudToBeg", "EatenAlive", "BigBad", "MadScientist", "BigBadWannabe", "IJustWantToBeSpecial", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Dr. Isaac Taft", "show": "Lost", "id": "lost_dr_isaac_taft", "similarity": 1.0, "shared_tropes": 7}, {"name": "Sebastian Blood / Brother Blood", "show": "Arrow", "id": "arrow_sebastian_blood_brother_blood", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Quintus Lentulus Batiatus", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_quintus_lentulus_batiatus", "similarity": 0.046, "shared_tropes": 4}]}

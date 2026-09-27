@@ -1,16 +1,1 @@
-{
-  "name": "Hippidion",
-  "show": "Walking with Beasts",
-  "trope_count": 8,
-  "tropes": [
-    "AlternateContinuity",
-    "DeletedRole",
-    "SuspiciouslySimilarSubstitute",
-    "NoNameGiven",
-    "InformedSpecies",
-    "MonsterMunch",
-    "ScienceMarchesOn",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hippidion", "show": "Walking with Beasts", "trope_count": 8, "tropes": ["AlternateContinuity", "DeletedRole", "SuspiciouslySimilarSubstitute", "NoNameGiven", "InformedSpecies", "MonsterMunch", "ScienceMarchesOn", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Polar Allosaur", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_polar_allosaur", "similarity": 0.2222, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Noodman's Father",
-  "show": "Sanjay and Craig",
-  "trope_count": 8,
-  "tropes": [
-    "AbusiveDad",
-    "ChuckCunninghamSyndrome",
-    "GreaterScopeVillain",
-    "WordOfGod",
-    "JerkWithAHeartOfJerk",
-    "Troll",
-    "AbusiveParents",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Noodman's Father", "show": "Sanjay and Craig", "trope_count": 8, "tropes": ["AbusiveDad", "ChuckCunninghamSyndrome", "GreaterScopeVillain", "WordOfGod", "JerkWithAHeartOfJerk", "Troll", "AbusiveParents", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Leslie Noodman", "show": "Sanjay and Craig", "id": "sanjay_and_craig_leslie_noodman", "similarity": 0.2, "shared_tropes": 4}, {"name": "Henry VIII", "show": "Tudors,The", "id": "tudorsthe_henry_viii", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Arlo", "show": "Justified", "id": "justified_arlo", "similarity": 0.046, "shared_tropes": 4}, {"name": "Tessa", "show": "Murder Drones", "id": "murder_drones_tessa", "similarity": 0.0426, "shared_tropes": 4}, {"name": "King Aldrich", "show": "Amphibia", "id": "amphibia_king_aldrich", "similarity": 0.0421, "shared_tropes": 4}, {"name": "Ivy Pepper/Poison Ivy", "show": "Gotham", "id": "gotham_ivy_pepper_poison_ivy", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Gerald Broflovski", "show": "South Park", "id": "south_park_gerald_broflovski", "similarity": 0.0374, "shared_tropes": 4}]}

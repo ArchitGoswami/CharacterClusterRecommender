@@ -1,16 +1,1 @@
-{
-  "name": "Mei Ling Hwa Darling",
-  "show": "Dirty Sexy Money",
-  "trope_count": 8,
-  "tropes": [
-    "SexWithTheEx",
-    "TheBusCameBack",
-    "UnwantedSpouse",
-    "PutOnABus",
-    "PlayedWith",
-    "NiceGirl",
-    "SatelliteLoveInterest",
-    "WomanScorned"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mei Ling Hwa Darling", "show": "Dirty Sexy Money", "trope_count": 8, "tropes": ["SexWithTheEx", "TheBusCameBack", "UnwantedSpouse", "PutOnABus", "PlayedWith", "NiceGirl", "SatelliteLoveInterest", "WomanScorned"], "tropes_by_category": {}, "similar": [{"name": "Adam Crawford", "show": "Glee", "id": "glee_adam_crawford", "similarity": 0.125, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Jeff Bilsky",
-  "show": "Henry Danger",
-  "trope_count": 10,
-  "tropes": [
-    "WouldHitAGirl",
-    "TooDumbToLive",
-    "TheDitz",
-    "SarcasmMode",
-    "MinionWithAnFInEvil",
-    "TookALevelInDumbass",
-    "NiceJobFixingItVillain",
-    "ConnectedAllAlong",
-    "StupidCrooks",
-    "DelayedOhCrap"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeff Bilsky", "show": "Henry Danger", "trope_count": 10, "tropes": ["WouldHitAGirl", "TooDumbToLive", "TheDitz", "SarcasmMode", "MinionWithAnFInEvil", "TookALevelInDumbass", "NiceJobFixingItVillain", "ConnectedAllAlong", "StupidCrooks", "DelayedOhCrap"], "tropes_by_category": {}, "similar": [{"name": "Kel Kimble", "show": "Kenan & Kel", "id": "kenan_and_kel_kel_kimble", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Gayle Genarro", "show": "Bob's Burgers", "id": "bobs_burgers_gayle_genarro", "similarity": 0.0385, "shared_tropes": 4}, {"name": "Reese", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_reese", "similarity": 0.0367, "shared_tropes": 4}, {"name": "Coover", "show": "Justified", "id": "justified_coover", "similarity": 0.0357, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Astro's Parents (Rin and Ethanol) / Mama & Papa / Astro's Mom and Dad",
-  "show": "Astro Boy",
-  "trope_count": 9,
-  "tropes": [
-    "UnnamedParent",
-    "AllThereInTheManual",
-    "AdaptationalAttractiveness",
-    "GoodParents",
-    "MamaBear",
-    "AdaptationalBackstoryChange",
-    "AdaptedOut",
-    "ReplacementGoldfish",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Astro's Parents (Rin and Ethanol) / Mama & Papa / Astro's Mom and Dad", "show": "Astro Boy", "trope_count": 9, "tropes": ["UnnamedParent", "AllThereInTheManual", "AdaptationalAttractiveness", "GoodParents", "MamaBear", "AdaptationalBackstoryChange", "AdaptedOut", "ReplacementGoldfish", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Mii and her mother", "show": "Sailor Moon", "id": "sailor_moon_mii_and_her_mother", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Rafael and Angie Diaz", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_rafael_and_angie_diaz", "similarity": 0.1, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Loony Purkle",
-  "show": "Inspector Gadget",
-  "trope_count": 5,
-  "tropes": [
-    "LovableCoward",
-    "RememberTheNewGuy",
-    "CannotSpitItOut",
-    "TheSmartGuy",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Loony Purkle", "show": "Inspector Gadget", "trope_count": 5, "tropes": ["LovableCoward", "RememberTheNewGuy", "CannotSpitItOut", "TheSmartGuy", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Alabaster", "show": "Trollz", "id": "trollz_alabaster", "similarity": 0.2105, "shared_tropes": 4}]}

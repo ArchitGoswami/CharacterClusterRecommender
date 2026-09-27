@@ -1,14 +1,1 @@
-{
-  "name": "Austin Tucker",
-  "show": "Make It or Break It",
-  "trope_count": 6,
-  "tropes": [
-    "TheCassandra",
-    "BigBrotherInstinct",
-    "TheAce",
-    "StepfordSnarker",
-    "BelligerentSexualTension",
-    "HiddenDepths"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Austin Tucker", "show": "Make It or Break It", "trope_count": 6, "tropes": ["TheCassandra", "BigBrotherInstinct", "TheAce", "StepfordSnarker", "BelligerentSexualTension", "HiddenDepths"], "tropes_by_category": {}, "similar": [{"name": "Maj. Charles Winchester", "show": "M*A*S*H", "id": "mash_maj_charles_winchester", "similarity": 0.04, "shared_tropes": 4}, {"name": "Alvin Seville", "show": "Alvin and the Chipmunks", "id": "alvin_and_the_chipmunks_alvin_seville", "similarity": 0.0392, "shared_tropes": 4}]}

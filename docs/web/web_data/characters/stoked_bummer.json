@@ -1,17 +1,1 @@
-{
-  "name": "Bummer",
-  "show": "Stoked",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "EvenEvilHasStandards",
-    "ControlFreak",
-    "MeanBoss",
-    "JerkWithAHeartOfJerk",
-    "InSeriesNickname",
-    "BadBoss",
-    "CharacterizationMarchesOn",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bummer", "show": "Stoked", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "EvenEvilHasStandards", "ControlFreak", "MeanBoss", "JerkWithAHeartOfJerk", "InSeriesNickname", "BadBoss", "CharacterizationMarchesOn", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Burger Kitchen", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_burger_kitchen", "similarity": 0.1, "shared_tropes": 5}, {"name": "Burger Kitchen", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_burger_kitchen", "similarity": 0.1, "shared_tropes": 5}, {"name": "Gemma Teller Morrow (née Madock)", "show": "Sons of Anarchy", "id": "sons_of_anarchy_gemma_teller_morrow_n_e_madock", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Rebecca Cunningham", "show": "TaleSpin", "id": "talespin_rebecca_cunningham", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Phillip Frond", "show": "Bob's Burgers", "id": "bobs_burgers_phillip_frond", "similarity": 0.0617, "shared_tropes": 5}, {"name": "Buck Strickland", "show": "King of the Hill", "id": "king_of_the_hill_buck_strickland", "similarity": 0.0581, "shared_tropes": 5}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0571, "shared_tropes": 6}, {"name": "Bradley P. \"B.P.\" Richfield", "show": "Dinosaurs", "id": "dinosaurs_bradley_p_b_p_richfield", "similarity": 0.0541, "shared_tropes": 4}]}

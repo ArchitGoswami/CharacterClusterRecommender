@@ -1,11 +1,1 @@
-{
-  "name": "The Abominable Snowman",
-  "show": "House of Mouse",
-  "trope_count": 3,
-  "tropes": [
-    "DarkHorseVictory",
-    "MatchlightDangerRevelation",
-    "Snowlems"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Abominable Snowman", "show": "House of Mouse", "trope_count": 3, "tropes": ["DarkHorseVictory", "MatchlightDangerRevelation", "Snowlems"], "tropes_by_category": {}, "similar": []}

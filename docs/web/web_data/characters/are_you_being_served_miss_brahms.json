@@ -1,18 +1,1 @@
-{
-  "name": "Miss Brahms",
-  "show": "Are You Being Served?",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "MsFanservice",
-    "SnarkToSnarkCombat",
-    "SleepsInTheNude",
-    "TomboyAndGirlyGirl",
-    "Pun",
-    "Revival",
-    "NonUniformUniform",
-    "DistractedByTheSexy",
-    "ShowSomeLeg"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Miss Brahms", "show": "Are You Being Served?", "trope_count": 10, "tropes": ["DeadpanSnarker", "MsFanservice", "SnarkToSnarkCombat", "SleepsInTheNude", "TomboyAndGirlyGirl", "Pun", "Revival", "NonUniformUniform", "DistractedByTheSexy", "ShowSomeLeg"], "tropes_by_category": {}, "similar": [{"name": "Dallas Grimes", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_dallas_grimes", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Ginger Grant", "show": "Gilligan's Island", "id": "gilligans_island_ginger_grant", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Max", "show": "Dark Angel", "id": "dark_angel_max", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Osha", "show": "Game of Thrones", "id": "game_of_thrones_osha", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Rosemary Moon", "show": "City, The", "id": "city_the_rosemary_moon", "similarity": 0.08, "shared_tropes": 4}, {"name": "Huntress", "show": "Justice League", "id": "justice_league_huntress", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Huntress", "show": "Justice League Unlimited", "id": "justice_league_unlimited_huntress", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Jessie Prescott", "show": "Jessie", "id": "jessie_jessie_prescott", "similarity": 0.0625, "shared_tropes": 4}]}

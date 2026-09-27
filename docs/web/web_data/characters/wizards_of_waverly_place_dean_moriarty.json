@@ -1,14 +1,1 @@
-{
-  "name": "Dean Moriarty",
-  "show": "Wizards of Waverly Place",
-  "trope_count": 6,
-  "tropes": [
-    "AllGirlsWantBadBoys",
-    "ShoutOut",
-    "LoveInterest",
-    "SensitiveGuyAndManlyMan",
-    "BadButt",
-    "MoralityChain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dean Moriarty", "show": "Wizards of Waverly Place", "trope_count": 6, "tropes": ["AllGirlsWantBadBoys", "ShoutOut", "LoveInterest", "SensitiveGuyAndManlyMan", "BadButt", "MoralityChain"], "tropes_by_category": {}, "similar": [{"name": "Nick Dean", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_nick_dean", "similarity": 0.0833, "shared_tropes": 4}]}

@@ -137,29 +137,30 @@
       "name": "Reef",
       "media_title": "Stoked",
       "tropes": [
-        "TokenEvilTeammate",
-        "NiceGuy",
-        "BurpingContest",
-        "BookDumb",
-        "SpikyHair",
-        "Bookworm",
-        "AlmostKiss",
-        "EvenBadMenLoveTheirMamas",
-        "JerkWithAHeartOfGold",
-        "JerkWithAHeartOfJerk",
-        "SlapSlapKiss",
         "AttractiveBentGender",
-        "AmbiguouslyBi",
-        "Flanderization",
-        "GroinAttack",
-        "StrawMisogynist",
-        "Gasshole",
-        "Expy",
-        "JerkwithaHeartofGold",
-        "EmbarrassingFirstName",
-        "InvertedTrope",
+        "AlmostKiss",
         "Stock90sBadBoy",
-        "ICantBelieveImSayingThis"
+        "EvenBadMenLoveTheirMamas",
+        "BurpingContest",
+        "Flanderization",
+        "JerkWithAHeartOfJerk",
+        "GroinAttack",
+        "SpikyHair",
+        "StrawMisogynist",
+        "Bookworm",
+        "JerkWithAHeartOfGold",
+        "BreakTheHaughty",
+        "JerkwithaHeartofGold",
+        "Expy",
+        "NiceGuy",
+        "InvertedTrope",
+        "BookDumb",
+        "ICantBelieveImSayingThis",
+        "SlapSlapKiss",
+        "EmbarrassingFirstName",
+        "Gasshole",
+        "AmbiguouslyBi",
+        "TokenEvilTeammate"
       ],
       "description": "Reef is good-looking and athletic, but he's also a little goofy and tends to overreact in every situation. He's loves to talk trash to Fin and has a competitive streak a mile wide, so it's a good thing he has the surf skills to back it up. Reef is 16-years-old. Almost Kiss: With Fin. Ambiguously Bi: He's shown to be a proud womanizer, but one episode has him commenting on how attractive Ty is. Attractive Bent-Gender: To Bummer in \"Mr. Wahine.\" Book Dumb: His mind is dedicated to surfing, andonlysurfing.When the lack of waves leads him into book reading to occupy his time, however...",
       "source": "tvtropes"
@@ -280,14 +281,15 @@
       "name": "Rosie",
       "media_title": "Stoked",
       "tropes": [
-        "DeadpanSnarker",
-        "JerkWithAHeartOfGold",
-        "DrillSergeantNasty",
-        "LazyBum",
         "HiddenDepths",
-        "WhyDidItHaveToBeSnakes"
+        "DeadpanSnarker",
+        "DrillSergeantNasty",
+        "JerkWithAHeartOfGold",
+        "LazyBum",
+        "WhyDidItHaveToBeSnakes",
+        "GrossUpCloseUp"
       ],
-      "description": "The head of housekeeping at the resort. Deadpan Snarker: More often then not she'll usually have a snark ready on hand. Drill Sergeant Nasty: When she's put in charge of somethinganddecides to take it seriously, she gets it done by forcing everyone around her to comply with her demands. Bummer actually likes the results of Rosie being in charge, everyone else not so much. Hidden Depths: She was a surfer herself when she was younger. Jerk with a Heart of Gold: She's grumpy and at times bossy, but she reserves those qualities for those who deserve it (such as Lo being aLazy Bumand the Marvin parents being irresponsible). She's also shown to have friendly interactions with the younger staff members, especially Fin.",
+      "description": "The head of housekeeping at the resort. Deadpan Snarker: More often then not she'll usually have a snark ready on hand. Drill Sergeant Nasty: When she's put in charge of somethinganddecides to take it seriously, she gets it done by forcing everyone around her to comply with her demands. Bummer actually likes the results of Rosie being in charge, everyone else not so much. Gross-Up Close-Up: In the first episode, when Lo offers her a manicure, she declines with a very disgusting shot of her showing Lo one of her bare feet and the corns on them. Hidden Depths: She was a surfer herself when she was younger.",
       "source": "tvtropes"
     },
     {
@@ -304,19 +306,20 @@
       "name": "Mr. Ridgemount",
       "media_title": "Stoked",
       "tropes": [
-        "SelfMadeMan",
-        "JerkWithAHeartOfGold",
-        "Expy",
-        "DrillSergeantNasty",
-        "PetTheDog",
         "TheTell",
+        "PetTheDog",
+        "NoIndoorVoice",
+        "DatingWhatDaddyHates",
         "MeanBoss",
         "JerkassHasAPoint",
-        "TheFaceless",
+        "OneHeadTaller",
+        "DrillSergeantNasty",
+        "Expy",
+        "SelfMadeMan",
+        "JerkWithAHeartOfGold",
         "PapaWolf",
-        "DatingWhatDaddyHates",
         "ParentalMarriageVeto",
-        "NoIndoorVoice"
+        "TheFaceless"
       ],
       "description": "The husband of Mrs. Ridgemount and father of Lo and her brothers, Ty and George, Mr. Ridgemount is the founder, owner and head of Ridgemount Resorts. Dating What Daddy Hates: He doesn't approve of Lo's relationship with Reef in the second season, and openly expresses it—near the beginning of the beginning of the series' penultimate episode,he fears what could happen should Reef and Lo actually end up getting married as adults. Drill Sergeant Nasty: Acts like one—proves to be very fitting, because in the first season finale, it turns out that he was in the military at one point. Expy: He is the counterpart to Coach Halder in6teen, even sharing the same English VA. The Faceless: Mostly—his entire face was never seen on the show, but there is some fanart that shows what his entire face might look like (and there are certain episodes where parts of his face are seen).",
       "source": "tvtropes"
@@ -402,10 +405,11 @@
       "name": "Betty Sandstone",
       "media_title": "Stoked",
       "tropes": [
-        "PunnyName",
-        "PinkMeansFeminine"
+        "GirlyGirlWithATomboyStreak",
+        "PinkMeansFeminine",
+        "PunnyName"
       ],
-      "description": "A female surfer who works with Tuna. Pink Means Feminine: She wears a pink swimsuit and pink makeup to match. Punny Name: Her name is a pun off of \"Betty\" (girl) and \"Sandstone\" (a type of rock commonly seen in beaches).",
+      "description": "A female surfer who works with Tuna. Girly Girl with a Tomboy Streak: She wears pink lipstick and a matching bikini to indicate her femininity, but her surfing skills are outstanding enough to place second place at Gromfest. Pink Means Feminine: She wears a pink swimsuit and pink makeup to match. Punny Name: Her name is a pun off of \"Betty\" (girl) and \"Sandstone\" (a type of rock commonly seen in beaches).",
       "source": "tvtropes"
     },
     {
@@ -469,7 +473,18 @@
       "tropes": [],
       "description": "A guest at the hotel whom Bummer fell in love with. He wouldn't ask her out due to it being a violation of his rule of not dating any guests.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Kaylie",
+      "media_title": "Stoked",
+      "tropes": [
+        "HateAtFirstSight",
+        "SmallNameBigEgo",
+        "AlphaBitch"
+      ],
+      "description": "An arrogant surfer who quickly became Emma's rival upon meeting her. Alpha Bitch: She's very arrogant and rude. Emma even refers to her as a \"Malibu Barbie\" Hate at First Sight: She crashes to Emma during her surfing session and boasts about winning Gromfest, igniting Emma's competitive side to defeat her. Small Name, Big Ego: Talks big about dominating Gromfest. Then she places last.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 29
+  "character_count": 30
 }

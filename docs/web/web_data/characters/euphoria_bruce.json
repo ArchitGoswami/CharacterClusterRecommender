@@ -1,13 +1,1 @@
-{
-  "name": "Bruce",
-  "show": "Euphoria",
-  "trope_count": 5,
-  "tropes": [
-    "TheAggressiveDrugDealer",
-    "TheFamilyThatSlaysTogether",
-    "EvenEvilHasLovedOnes",
-    "AffectionateNickname",
-    "EvenEvilHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bruce", "show": "Euphoria", "trope_count": 6, "tropes": ["TheAggressiveDrugDealer", "EvenEvilHasLovedOnes", "EvenEvilHasStandards", "PutOnAPrisonBus", "TheFamilyThatSlaysTogether", "AffectionateNickname"], "tropes_by_category": {}, "similar": []}

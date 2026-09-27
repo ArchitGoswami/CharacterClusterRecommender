@@ -1,17 +1,1 @@
-{
-  "name": "Glorft Commander",
-  "show": "Megas XLR",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "MyMasterRightOrWrong",
-    "HyperCompetentSidekick",
-    "EveryoneCallsHimBarkeep",
-    "CaptainObvious",
-    "TheStrategist",
-    "TheDragon",
-    "TheDissenterIsAlwaysRight",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Glorft Commander", "show": "Megas XLR", "trope_count": 9, "tropes": ["DeadpanSnarker", "MyMasterRightOrWrong", "HyperCompetentSidekick", "EveryoneCallsHimBarkeep", "CaptainObvious", "TheStrategist", "TheDragon", "TheDissenterIsAlwaysRight", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "The Fat Controller / Sir Topham Hatt", "show": "Thomas & Friends", "id": "thomas_and_friends_the_fat_controller_sir_topham_hatt", "similarity": 0.0548, "shared_tropes": 4}]}

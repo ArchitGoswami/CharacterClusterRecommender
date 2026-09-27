@@ -1,16 +1,1 @@
-{
-  "name": "Emmet Hawksworth",
-  "show": "Keeping Up Appearances",
-  "trope_count": 8,
-  "tropes": [
-    "SitcomArchNemesis",
-    "DeadpanSnarker",
-    "LonelyPianoPiece",
-    "OminousPipeOrgan",
-    "DreadfulMusician",
-    "BerserkButton",
-    "KickTheDog",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Emmet Hawksworth", "show": "Keeping Up Appearances", "trope_count": 8, "tropes": ["SitcomArchNemesis", "DeadpanSnarker", "LonelyPianoPiece", "OminousPipeOrgan", "DreadfulMusician", "BerserkButton", "KickTheDog", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Lily Tucker-Pritchett", "show": "Modern Family", "id": "modern_family_lily_tucker_pritchett", "similarity": 0.1429, "shared_tropes": 4}]}

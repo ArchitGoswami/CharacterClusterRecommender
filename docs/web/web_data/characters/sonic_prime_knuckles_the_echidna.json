@@ -1,16 +1,1 @@
-{
-  "name": "Knuckles the Echidna",
-  "show": "Sonic Prime",
-  "trope_count": 8,
-  "tropes": [
-    "TheBigGuy",
-    "BaritoneOfStrength",
-    "AntiClimaxBoss",
-    "VitriolicBestBuds",
-    "BossBattle",
-    "BloodKnight",
-    "CompressedAdaptation",
-    "AdaptationalBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Knuckles the Echidna", "show": "Sonic Prime", "trope_count": 8, "tropes": ["TheBigGuy", "BaritoneOfStrength", "AntiClimaxBoss", "VitriolicBestBuds", "BossBattle", "BloodKnight", "CompressedAdaptation", "AdaptationalBadass"], "tropes_by_category": {}, "similar": [{"name": "Jet Black", "show": "Cowboy Bebop", "id": "cowboy_bebop_jet_black", "similarity": 0.044, "shared_tropes": 4}]}

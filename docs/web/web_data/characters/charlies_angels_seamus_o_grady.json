@@ -1,18 +1,1 @@
-{
-  "name": "Seamus O' Grady",
-  "show": "Charlie's Angels",
-  "trope_count": 10,
-  "tropes": [
-    "WouldHitAGirl",
-    "DisneyVillainDeath",
-    "PsychoExBoyfriend",
-    "ImpaledWithExtremePrejudice",
-    "BladeCatch",
-    "HateSink",
-    "KarmicDeath",
-    "ShirtlessScene",
-    "TheDragon",
-    "TattooedCrook"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Seamus O' Grady", "show": "Charlie's Angels", "trope_count": 10, "tropes": ["WouldHitAGirl", "DisneyVillainDeath", "PsychoExBoyfriend", "ImpaledWithExtremePrejudice", "BladeCatch", "HateSink", "KarmicDeath", "ShirtlessScene", "TheDragon", "TattooedCrook"], "tropes_by_category": {}, "similar": [{"name": "Duras", "show": "Star Trek", "id": "star_trek_duras", "similarity": 0.129, "shared_tropes": 4}, {"name": "Cheesethief", "show": "Redwall", "id": "redwall_cheesethief", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Bullseye", "show": "Daredevil", "id": "daredevil_bullseye", "similarity": 0.0467, "shared_tropes": 5}, {"name": "Sergey Volkov", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_sergey_volkov", "similarity": 0.046, "shared_tropes": 4}, {"name": "Guy of Gisborne", "show": "Robin Hood", "id": "robin_hood_guy_of_gisborne", "similarity": 0.0417, "shared_tropes": 4}]}

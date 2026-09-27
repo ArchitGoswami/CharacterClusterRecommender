@@ -1,13 +1,1 @@
-{
-  "name": "Soren the New Cadet",
-  "show": "Duck Dodgers",
-  "trope_count": 5,
-  "tropes": [
-    "StalkerWithACrush",
-    "Yandere",
-    "GenderBlenderName",
-    "BeautyIsBad",
-    "AxCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Soren the New Cadet", "show": "Duck Dodgers", "trope_count": 5, "tropes": ["StalkerWithACrush", "Yandere", "GenderBlenderName", "BeautyIsBad", "AxCrazy"], "tropes_by_category": {}, "similar": [{"name": "Gaston", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_gaston", "similarity": 0.0412, "shared_tropes": 4}]}

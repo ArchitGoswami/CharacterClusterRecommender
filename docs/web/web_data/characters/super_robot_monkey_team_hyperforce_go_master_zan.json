@@ -1,18 +1,1 @@
-{
-  "name": "Master Zan",
-  "show": "Super Robot Monkey Team Hyperforce Go!",
-  "trope_count": 10,
-  "tropes": [
-    "BrokenPedestal",
-    "GreaterScopeVillain",
-    "FightScene",
-    "BigBad",
-    "HandBlast",
-    "FaceHeelTurn",
-    "ChosenOne",
-    "SpamAttack",
-    "TheFatalist",
-    "EnlightenedAntagonist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Master Zan", "show": "Super Robot Monkey Team Hyperforce Go!", "trope_count": 10, "tropes": ["BrokenPedestal", "GreaterScopeVillain", "FightScene", "BigBad", "HandBlast", "FaceHeelTurn", "ChosenOne", "SpamAttack", "TheFatalist", "EnlightenedAntagonist"], "tropes_by_category": {}, "similar": [{"name": "Dyson", "show": "Tron: Uprising", "id": "tron_uprising_dyson", "similarity": 0.069, "shared_tropes": 4}, {"name": "Hades", "show": "Fairy Tail", "id": "fairy_tail_hades", "similarity": 0.0362, "shared_tropes": 5}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Whack Job",
-  "show": "The Boys",
-  "trope_count": 4,
-  "tropes": [
-    "ThoseTwoGuys",
-    "HeterosexualLifePartners",
-    "BaitTheDog",
-    "ShockAndAwe"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Whack Job", "show": "The Boys", "trope_count": 4, "tropes": ["ThoseTwoGuys", "HeterosexualLifePartners", "BaitTheDog", "ShockAndAwe"], "tropes_by_category": {}, "similar": [{"name": "Whack Job", "show": "Boys, The", "id": "boys_the_whack_job", "similarity": 1.0, "shared_tropes": 4}]}

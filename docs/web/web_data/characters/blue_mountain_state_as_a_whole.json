@@ -1,17 +1,1 @@
-{
-  "name": "As a Whole",
-  "show": "Blue Mountain State",
-  "trope_count": 9,
-  "tropes": [
-    "FratBro",
-    "MaleFrontalNudity",
-    "WildTeenParty",
-    "WackyFratboyHijinx",
-    "RuleOfFunny",
-    "DumbJock",
-    "BookDumb",
-    "KarmaHoudiniWarranty",
-    "JerkJock"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "As a Whole", "show": "Blue Mountain State", "trope_count": 9, "tropes": ["FratBro", "MaleFrontalNudity", "WildTeenParty", "WackyFratboyHijinx", "RuleOfFunny", "DumbJock", "BookDumb", "KarmaHoudiniWarranty", "JerkJock"], "tropes_by_category": {}, "similar": [{"name": "Reggie Mantle", "show": "Riverdale", "id": "riverdale_reggie_mantle", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Montgomery \"Monty\" De la Cruz", "show": "Thirteen Reasons Why", "id": "thirteen_reasons_why_montgomery_monty_de_la_cruz", "similarity": 0.046, "shared_tropes": 4}]}

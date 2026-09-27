@@ -1,16 +1,1 @@
-{
-  "name": "Charles Cutler",
-  "show": "Malcolm in the Middle",
-  "trope_count": 8,
-  "tropes": [
-    "HatedByAll",
-    "Jerkass",
-    "LaserGuidedKarma",
-    "TheUnfettered",
-    "HateSink",
-    "BewareTheNiceOnes",
-    "CausticCritic",
-    "PoliticallyIncorrectVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charles Cutler", "show": "Malcolm in the Middle", "trope_count": 8, "tropes": ["HatedByAll", "Jerkass", "LaserGuidedKarma", "TheUnfettered", "HateSink", "BewareTheNiceOnes", "CausticCritic", "PoliticallyIncorrectVillain"], "tropes_by_category": {}, "similar": [{"name": "Jud Larrabee", "show": "Little House on the Prairie", "id": "little_house_on_the_prairie_jud_larrabee", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Ross", "show": "Oz", "id": "oz_ross", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Judge Carl Robertson", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_judge_carl_robertson", "similarity": 0.125, "shared_tropes": 5}, {"name": "Sou Kigetsuki", "show": "Scryed", "id": "scryed_sou_kigetsuki", "similarity": 0.125, "shared_tropes": 4}, {"name": "Marquis \"Bird\" Hilton", "show": "The Wire", "id": "the_wire_marquis_bird_hilton", "similarity": 0.119, "shared_tropes": 5}, {"name": "Marquis \"Bird\" Hilton", "show": "Wire, The", "id": "wire_the_marquis_bird_hilton", "similarity": 0.119, "shared_tropes": 5}, {"name": "Zack Powers", "show": "George Lopez", "id": "george_lopez_zack_powers", "similarity": 0.1136, "shared_tropes": 5}, {"name": "Jeremy Jamm", "show": "Parks and Recreation", "id": "parks_and_recreation_jeremy_jamm", "similarity": 0.1081, "shared_tropes": 4}]}

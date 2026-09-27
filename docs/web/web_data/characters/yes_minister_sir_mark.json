@@ -1,11 +1,1 @@
-{
-  "name": "Sir Mark",
-  "show": "Yes, Minister",
-  "trope_count": 3,
-  "tropes": [
-    "EnemyMine",
-    "PunnyName",
-    "TheChessmaster"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sir Mark", "show": "Yes, Minister", "trope_count": 3, "tropes": ["EnemyMine", "PunnyName", "TheChessmaster"], "tropes_by_category": {}, "similar": []}

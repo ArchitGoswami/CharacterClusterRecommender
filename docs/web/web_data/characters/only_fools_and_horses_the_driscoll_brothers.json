@@ -1,18 +1,1 @@
-{
-  "name": "The Driscoll Brothers",
-  "show": "Only Fools and Horses",
-  "trope_count": 10,
-  "tropes": [
-    "AffablyEvil",
-    "BigGuyLittleGuy",
-    "Expy",
-    "OffstageVillainy",
-    "LondonGangster",
-    "TheDreaded",
-    "NamesToRunAwayFromReallyFast",
-    "EvilCounterpart",
-    "KnightOfCerebus",
-    "LaughablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Driscoll Brothers", "show": "Only Fools and Horses", "trope_count": 10, "tropes": ["AffablyEvil", "BigGuyLittleGuy", "Expy", "OffstageVillainy", "LondonGangster", "TheDreaded", "NamesToRunAwayFromReallyFast", "EvilCounterpart", "KnightOfCerebus", "LaughablyEvil"], "tropes_by_category": {}, "similar": [{"name": "\"Creepy\" Connie Thompson", "show": "Jessie", "id": "jessie_creepy_connie_thompson", "similarity": 0.129, "shared_tropes": 4}, {"name": "Sailor John", "show": "Thomas & Friends", "id": "thomas_and_friends_sailor_john", "similarity": 0.125, "shared_tropes": 4}, {"name": "Reverse-Flashes In General", "show": "Flash, The", "id": "flash_the_reverse_flashes_in_general", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Reverse-Flashes In General", "show": "The Flash", "id": "the_flash_reverse_flashes_in_general", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Deathstroke", "show": "Beware the Batman", "id": "beware_the_batman_deathstroke", "similarity": 0.087, "shared_tropes": 4}, {"name": "Shimi", "show": "Outlaw Star", "id": "outlaw_star_shimi", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Necrafa", "show": "Mysticons", "id": "mysticons_necrafa", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Hunson Abadeer", "show": "Adventure Time", "id": "adventure_time_hunson_abadeer", "similarity": 0.05, "shared_tropes": 4}]}

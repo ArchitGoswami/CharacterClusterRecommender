@@ -1,13 +1,1 @@
-{
-  "name": "Mermaids",
-  "show": "Nate is Late",
-  "trope_count": 5,
-  "tropes": [
-    "SirensAreMermaids",
-    "NeverMyFault",
-    "AmazingTechnicolorPopulation",
-    "DisproportionateRetribution",
-    "ProngsOfPoseidon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mermaids", "show": "Nate is Late", "trope_count": 5, "tropes": ["SirensAreMermaids", "NeverMyFault", "AmazingTechnicolorPopulation", "DisproportionateRetribution", "ProngsOfPoseidon"], "tropes_by_category": {}, "similar": []}

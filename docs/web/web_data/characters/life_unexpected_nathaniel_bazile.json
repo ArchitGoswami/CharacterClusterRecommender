@@ -1,16 +1,1 @@
-{
-  "name": "Nathaniel Bazile",
-  "show": "Life Unexpected",
-  "trope_count": 8,
-  "tropes": [
-    "WellDoneSonGuy",
-    "JerkWithAHeartOfGold",
-    "PapaWolf",
-    "LukeYouAreMyFather",
-    "BelligerentSexualTension",
-    "IdiotBall",
-    "CallingTheOldManOut",
-    "BettyAndVeronica"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nathaniel Bazile", "show": "Life Unexpected", "trope_count": 8, "tropes": ["WellDoneSonGuy", "JerkWithAHeartOfGold", "PapaWolf", "LukeYouAreMyFather", "BelligerentSexualTension", "IdiotBall", "CallingTheOldManOut", "BettyAndVeronica"], "tropes_by_category": {}, "similar": [{"name": "Don Wei", "show": "Oban Star-Racers", "id": "oban_star_racers_don_wei", "similarity": 0.0541, "shared_tropes": 4}, {"name": "George Edward Lopez", "show": "George Lopez", "id": "george_lopez_george_edward_lopez", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Jughead Jones", "show": "Riverdale", "id": "riverdale_jughead_jones", "similarity": 0.0426, "shared_tropes": 4}, {"name": "C.C. Babcock", "show": "Nanny, The", "id": "nanny_the_c_c_babcock", "similarity": 0.0412, "shared_tropes": 4}]}

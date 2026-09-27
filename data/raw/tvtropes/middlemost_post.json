@@ -125,7 +125,70 @@
       ],
       "description": "Family Business: Ms. Pam gave up her Hollywood dreams to work in the family toast business. Cordon Bleugh Chef: Ms. Pam will serve anything as long as it's atop a piece of toast.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Parker J. Cloud",
+      "media_title": "Middlemost Post",
+      "tropes": [
+        "OcularGushers",
+        "KidsPreferBoxes",
+        "CheerfulChild",
+        "CompanionCube",
+        "BewareTheNiceOnes",
+        "YouWouldntLikeMeWhenImAngry",
+        "KidsHateChores",
+        "DarkAndTroubledPast",
+        "AudienceSurrogate",
+        "VoluntaryShapeshifting",
+        "TheCutie",
+        "ColorFailure",
+        "MesACrowd",
+        "AmbiguousGender",
+        "BlushSticker",
+        "Keet",
+        "TruthinTelevision",
+        "AnimateInanimateObject",
+        "NamedAfterSomebodyFamous",
+        "SpeciesSurname"
+      ],
+      "description": "Ambiguous Gender: Perthecreator, Parker has no true gender, as of course clouds do not have genders. That said, Trabbic has actively avoided using labels such as “agender” or “non-binary” to refer to the character, his stated philosophy being that \"the neat thing about a cloud is that different viewers will see different things\", and that he hopes anyone watchingrelates to Parker regardless of their gender. Pre-release materials largely used masculine pronouns to refer to the character, whilst Parker's voice actor, Becky Robinson, is female. Animate Inanimate Object: Needless to say, real-life clouds are nowhere near as peppy as Parker. Beware the Nice Ones: He is a pretty nice guy but being a cloud, he can turn into a giant storm cloud when provoked enough. Blush Sticker: Parker has permanent ones on their cheeks. Cheerful Child: Parker is always happy and excited.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Angus Shackleton",
+      "media_title": "Middlemost Post",
+      "tropes": [
+        "TopHeavyGuy",
+        "ButtMonkey",
+        "TokenHuman",
+        "ScreamsLikeALittleGirl",
+        "NiceGuy",
+        "StrongFamilyResemblance"
+      ],
+      "description": "Butt-Monkey: When the Middlemost Post go on misadventures, he's the one who's most likely to get the short end of the stick (e.g. \"Parker Saves Christmas\"). Nice Guy: Don't let the gruff sailor exterior fool you. He's one of the kindest and most thoughtful fellas on the mountain. Screams Like a Little Girl: He is prone to screamingexactlylike this. Strong Family Resemblance: To his father, Angus Shackleton Junior. Token Human: He's pretty much the only human in Mount Middlemost.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Steve Peeve",
+      "media_title": "Middlemost Post",
+      "tropes": [
+        "MayorPain",
+        "EvilIsPetty",
+        "UnknownRival"
+      ],
+      "description": "Evil Is Petty: Downplayed. He's notevil, but he is antagonistic. He hates Middlemost Post because the ship is in the way of his sunlight. Mayor Pain: While not particularly evil in general, he will often let his grudge against Angus and the Middlemost Post (held because Angus’s ship, parked atop Mount Middlemost, leaves City Hall in its perpetual shadow) get in the way of his mayor duties to the detriment of his citizens; for example, purchasing a robot to drive the post out of business while not accounting for the damage it causes. Unknown Rival: To Angus.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "PamMcLaurin",
+      "media_title": "Middlemost Post",
+      "tropes": [
+        "CordonBleughChef",
+        "FamilyBusiness"
+      ],
+      "description": "Family Business: Ms. Pam gave up her Hollywood dreams to work in the family toast business. Cordon Bleugh Chef: Ms. Pam will serve anything as long as it's atop a piece of toast.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 7
+  "character_count": 11
 }

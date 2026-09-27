@@ -225,19 +225,21 @@
       "media_title": "Shinzo",
       "tropes": [
         "OneWingedAngel",
-        "NephariousPharaoh",
-        "TimeMaster",
-        "BigBad",
-        "SecondaryColorNemesis",
-        "AllYourPowersCombined",
         "WingedHumanoid",
+        "EvilIsPetty",
+        "TimeMaster",
+        "NephariousPharaoh",
         "MeaningfulName",
+        "BirdsOfFemininity",
+        "BigBad",
+        "VillainRevealsTheSecret",
         "EvilIsNotAToy",
-        "SuperMode",
+        "AllYourPowersCombined",
+        "SecondaryColorNemesis",
         "LightIsNotGood",
-        "EvilIsPetty"
+        "SuperMode"
       ],
-      "description": "Queen of the bird Enterrans. Despite looking like a blonde haired angel, she is anything but. She backstabs the other generals by sending assassins after them, so she can get their card power for herself. Her own power is the manipulation of time and space, allowing to create holes in the fabric of time to send and retrieve other people from. All Your Powers Combined: Subverted. She absorbs the remains of the others, but is then in turn absorbed byMushrambo, the Dark King. Evil Is Not a Toy: Retrieves the original evil Mushrambo from the past to make into her servant, only to be killed and absorbed for her troubles. Evil Is Petty: She immediately destroyed Mechano City after the heroes defeated Lord Caris.",
+      "description": "Queen of the bird Enterrans. Despite looking like a blonde haired angel, she is anything but. She backstabs the other generals by sending assassins after them, so she can get their card power for herself. Her own power is the manipulation of time and space, allowing to create holes in the fabric of time to send and retrieve other people from. All Your Powers Combined: Subverted. She absorbs the remains of the others, but is then in turn absorbed byMushrambo, the Dark King. Birds of Femininity: Is the Queen of the bird Enterrans, but in her default form, she looks like a blonde angelicWinged Humanoid. Evil Is Not a Toy: Retrieves the original evil Mushrambo from the past to make into her servant, only to be killed and absorbed for her troubles.",
       "source": "tvtropes"
     },
     {
@@ -245,22 +247,23 @@
       "media_title": "Shinzo",
       "tropes": [
         "OneWingedAngel",
-        "TurnedAgainstTheirMasters",
-        "AsskickingLeadsToLeadership",
-        "BigBad",
-        "AllYourPowersCombined",
-        "DarkIsEvil",
-        "EvilOverlord",
-        "NiceJobFixingItVillain",
         "EverythingsBetterWithSamurai",
+        "TurnedAgainstTheirMasters",
+        "RetGone",
+        "EvilOverlord",
         "CardCarryingVillain",
-        "EvilerThanThou",
-        "ArcVillain",
         "EvilCounterpart",
+        "BigBad",
+        "DarkIsEvil",
+        "EvilerThanThou",
         "BrainwashedAndCrazy",
-        "RetGone"
+        "AsskickingLeadsToLeadership",
+        "AllYourPowersCombined",
+        "WouldHurtAChild",
+        "ArcVillain",
+        "NiceJobFixingItVillain"
       ],
-      "description": "The strongest of the seven Enterran Generals, though he doesn't seem to have a species to rule over. All Your Powers Combined: He absorbs theEnCardsof all the previous Generals by killing Rusephine, who did the same thing before him. Asskicking Leads to Leadership: He's the most powerful of the Seven Generals, and serves as their leader. Even Rusephine, after having absorbed theEnCardsof her associates, was no match for him. Big Bad: In the first timeline due to being the leader of the Generals and responsible for exterminating mankind.When Yakumo kills his past self in the present, she erases his genocide, reviving humanity. Brainwashed and Crazy:What he is ultimately revealed to be; Lanancuras' influence caused him to lead a crusade against humanity.",
+      "description": "The strongest of the seven Enterran Generals, though he doesn't seem to have a species to rule over. All Your Powers Combined: He absorbs theEnCardsof all the previous Generals by killing Rusephine, who did the same thing before him. Asskicking Leads to Leadership: He's the most powerful of the Seven Generals, and serves as their leader.Even Rusephine, after having absorbed theEnCardsof her associates, was no match for him. Big Bad: In the first timeline due to being the leader of the Generals and responsible for exterminating mankind.When Yakumo kills his past self in the present, she erases his genocide, reviving humanity. Brainwashed and Crazy:What he is ultimately revealed to be; Lanancuras' influence caused him to lead a crusade against humanity.",
       "source": "tvtropes"
     },
     {
@@ -497,7 +500,23 @@
       ],
       "description": "The leader of the Kadrians. Lanancuras was previously a Celestial, basically an angelic being, but fell to the dark side as he was corrupted by his own power. In response to this, the other Celestials sealed him within a meteorite and banished him to deep space. Arch-Enemy:In ancient times, when Lanancuras turned evil, Mushra defeated him, sealed him inside an asteroid and hurled him into the dark of space. When he saw Mushra recovering his powers and memories,he suffered a full-blown nervous breakdown. Big Bad: In the second timeline, he is the head villain. Chained by Fashion: Has rock armor. Turns out that's the last bit of the asteroid that restrained his power, and once it's all knocked off of him in battle, he goes from powerful to god-like. Dark Is Evil: His dominant colors are dark purple and dark metallic gray.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Other Enterran generals",
+      "media_title": "Shinzo",
+      "tropes": [
+        "MixAndMatchCritters",
+        "OurCentaursAreDifferent",
+        "WaterIsWomanly",
+        "PosthumousCharacter",
+        "ShesAManInJapan",
+        "OurGhostsAreDifferent",
+        "ClassicalChimera",
+        "TheGhost"
+      ],
+      "description": "The respective rules of animal Enterrans, aquatic Enterrans, and mythical animal Enterrans, all defeated by Rusephine prior to the events of the series. Classical Chimera: Kimylas is acentaur variant. The Ghost: Apart from theirEnCards, they never really appear in person. Mix-and-Match Critters: Kimylas's card shows him with a blue torso attached to a lower leonine portion with yellow fur. Our Ghosts Are Different: Kimylas is called by Rusephine \"the king of thePhantomBeasts,\" although he never appears on screen.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 29
+  "character_count": 30
 }

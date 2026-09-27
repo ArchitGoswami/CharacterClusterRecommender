@@ -1,16 +1,1 @@
-{
-  "name": "Shy Violet",
-  "show": "Rainbow Brite",
-  "trope_count": 8,
-  "tropes": [
-    "WrenchWench",
-    "ShrinkingViolet",
-    "SmartPeopleWearGlasses",
-    "FullNameBasis",
-    "MeaningfulName",
-    "HiddenDepths",
-    "TokenMinority",
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Shy Violet", "show": "Rainbow Brite", "trope_count": 8, "tropes": ["WrenchWench", "ShrinkingViolet", "SmartPeopleWearGlasses", "FullNameBasis", "MeaningfulName", "HiddenDepths", "TokenMinority", "HeroOfAnotherStory"], "tropes_by_category": {}, "similar": [{"name": "Young Planes", "show": "Jay Jay the Jet Plane", "id": "jay_jay_the_jet_plane_young_planes", "similarity": 0.093, "shared_tropes": 4}, {"name": "ClydeMcBride", "show": "Loud House, The", "id": "loud_house_the_clydemcbride", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Recurring Characters", "show": "My Family", "id": "my_family_recurring_characters", "similarity": 0.0513, "shared_tropes": 4}, {"name": "The Kids", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_the_kids", "similarity": 0.0385, "shared_tropes": 4}]}

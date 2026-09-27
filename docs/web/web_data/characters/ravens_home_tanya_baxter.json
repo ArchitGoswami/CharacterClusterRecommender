@@ -1,17 +1,1 @@
-{
-  "name": "Tanya Baxter",
-  "show": "Raven's Home",
-  "trope_count": 9,
-  "tropes": [
-    "LongBusTrip",
-    "TheBusCameBack",
-    "AdvertisedExtra",
-    "Catchphrase",
-    "TheGhost",
-    "WordOfGod",
-    "GoodParents",
-    "PutOnABus",
-    "ManOfAThousandVoices"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tanya Baxter", "show": "Raven's Home", "trope_count": 9, "tropes": ["LongBusTrip", "TheBusCameBack", "AdvertisedExtra", "Catchphrase", "TheGhost", "WordOfGod", "GoodParents", "PutOnABus", "ManOfAThousandVoices"], "tropes_by_category": {}, "similar": [{"name": "Tanya Baxter", "show": "That's So Raven", "id": "thats_so_raven_tanya_baxter", "similarity": 1.0, "shared_tropes": 9}, {"name": "Cal Morrison", "show": "Orphan Black", "id": "orphan_black_cal_morrison", "similarity": 0.1429, "shared_tropes": 4}]}

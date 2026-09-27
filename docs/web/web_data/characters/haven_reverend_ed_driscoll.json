@@ -1,17 +1,1 @@
-{
-  "name": "Reverend Ed Driscoll",
-  "show": "Haven",
-  "trope_count": 9,
-  "tropes": [
-    "Jerkass",
-    "TooDumbToLive",
-    "DrowningMySorrows",
-    "TragicBigot",
-    "SinisterMinister",
-    "HolierThanThou",
-    "TheFundamentalist",
-    "InsistentTerminology",
-    "KnightTemplar"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Reverend Ed Driscoll", "show": "Haven", "trope_count": 9, "tropes": ["Jerkass", "TooDumbToLive", "DrowningMySorrows", "TragicBigot", "SinisterMinister", "HolierThanThou", "TheFundamentalist", "InsistentTerminology", "KnightTemplar"], "tropes_by_category": {}, "similar": [{"name": "Cudney", "show": "Oz", "id": "oz_cudney", "similarity": 0.16, "shared_tropes": 4}, {"name": "Margaret Booth", "show": "American Horror Story", "id": "american_horror_story_margaret_booth", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Bev Keane", "show": "Midnight Mass", "id": "midnight_mass_bev_keane", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Nelson Van Alden", "show": "Boardwalk Empire", "id": "boardwalk_empire_nelson_van_alden", "similarity": 0.049, "shared_tropes": 5}, {"name": "Nedward \"Ned\" Flanders", "show": "Simpsons,The", "id": "simpsonsthe_nedward_ned_flanders", "similarity": 0.0394, "shared_tropes": 5}, {"name": "Nedward \"Ned\" Flanders", "show": "The Simpsons", "id": "the_simpsons_nedward_ned_flanders", "similarity": 0.0394, "shared_tropes": 5}, {"name": "PC Principal", "show": "South Park", "id": "south_park_pc_principal", "similarity": 0.0392, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Dana Winters",
-  "show": "Nikita",
-  "trope_count": 9,
-  "tropes": [
-    "HeelFaceTurn",
-    "ActionGirl",
-    "TheSmurfettePrinciple",
-    "DarkActionGirl",
-    "KarmaHoudini",
-    "LoveRedeems",
-    "ViolentlyProtectiveGirlfriend",
-    "MamaBear",
-    "HighHeelFaceTurn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dana Winters", "show": "Nikita", "trope_count": 9, "tropes": ["HeelFaceTurn", "ActionGirl", "TheSmurfettePrinciple", "DarkActionGirl", "KarmaHoudini", "LoveRedeems", "ViolentlyProtectiveGirlfriend", "MamaBear", "HighHeelFaceTurn"], "tropes_by_category": {}, "similar": [{"name": "Jinx", "show": "Teen Titans Go!", "id": "teen_titans_go_jinx", "similarity": 0.1, "shared_tropes": 4}, {"name": "Kyoko Kirisaki", "show": "Black Cat", "id": "black_cat_kyoko_kirisaki", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Aneela Kin Rit", "show": "Killjoys", "id": "killjoys_aneela_kin_rit", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Echo", "show": "100,The", "id": "100the_echo", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Nikita", "show": "Nikita", "id": "nikita_nikita", "similarity": 0.0746, "shared_tropes": 5}, {"name": "H.G. Wells", "show": "Warehouse 13", "id": "warehouse_13_h_g_wells", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Alex", "show": "Nikita", "id": "nikita_alex", "similarity": 0.058, "shared_tropes": 4}, {"name": "Blackarachnia", "show": "Beast Wars", "id": "beast_wars_blackarachnia", "similarity": 0.051, "shared_tropes": 5}]}

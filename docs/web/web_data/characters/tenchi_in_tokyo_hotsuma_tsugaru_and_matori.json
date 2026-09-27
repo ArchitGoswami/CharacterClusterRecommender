@@ -1,13 +1,1 @@
-{
-  "name": "Hotsuma, Tsugaru, and Matori",
-  "show": "Tenchi in Tokyo",
-  "trope_count": 5,
-  "tropes": [
-    "WhyDontYouJustShootHim",
-    "YouHaveOutlivedYourUsefulness",
-    "FacialMarkings",
-    "ProperTightsWithASkirt",
-    "AmbiguouslyGay"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hotsuma, Tsugaru, and Matori", "show": "Tenchi in Tokyo", "trope_count": 9, "tropes": ["OneWingedAngel", "RomanticFalseLead", "FacialMarkings", "YouHaveOutlivedYourUsefulness", "QuirkyMinibossSquad", "ProperTightsWithASkirt", "AmbiguouslyGay", "WhyDontYouJustShootHim", "ArtificialHuman"], "tropes_by_category": {}, "similar": [{"name": "Hotsuma, Tsugaru, and Matori", "show": "Tenchi Muyo! Ryo-Ohki", "id": "tenchi_muyo_ryo_ohki_hotsuma_tsugaru_and_matori", "similarity": 1.0, "shared_tropes": 9}, {"name": "Hotsuma, Tsugaru, and Matori", "show": "Tenchi Universe", "id": "tenchi_universe_hotsuma_tsugaru_and_matori", "similarity": 1.0, "shared_tropes": 9}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Darlene Spritzer",
-  "show": "Lobo",
-  "trope_count": 8,
-  "tropes": [
-    "AllGirlsWantBadBoys",
-    "AllLoveIsUnrequited",
-    "ShoutOut",
-    "MsFanservice",
-    "BerserkButton",
-    "HumanAliens",
-    "JustFriends",
-    "The90s"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Darlene Spritzer", "show": "Lobo", "trope_count": 8, "tropes": ["AllGirlsWantBadBoys", "AllLoveIsUnrequited", "ShoutOut", "MsFanservice", "BerserkButton", "HumanAliens", "JustFriends", "The90s"], "tropes_by_category": {}, "similar": [{"name": "Carly Shay", "show": "iCarly", "id": "icarly_carly_shay", "similarity": 0.0404, "shared_tropes": 4}]}

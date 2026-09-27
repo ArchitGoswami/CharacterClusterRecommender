@@ -1,13 +1,1 @@
-{
-  "name": "Malvaron",
-  "show": "Mysticons",
-  "trope_count": 5,
-  "tropes": [
-    "TheGift",
-    "SheIsNotMyGirlfriend",
-    "AlwaysSomeoneBetter",
-    "BigBrotherBully",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Malvaron", "show": "Mysticons", "trope_count": 5, "tropes": ["TheGift", "SheIsNotMyGirlfriend", "AlwaysSomeoneBetter", "BigBrotherBully", "SecretKeeper"], "tropes_by_category": {}, "similar": []}

@@ -1,15 +1,1 @@
-{
-  "name": "Tucker",
-  "show": "Baby Daddy",
-  "trope_count": 7,
-  "tropes": [
-    "CasanovaWannabe",
-    "HonouraryUncle",
-    "BerserkButton",
-    "Portmanteau",
-    "TheNapoleon",
-    "CampStraight",
-    "TokenMinority"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tucker", "show": "Baby Daddy", "trope_count": 7, "tropes": ["CasanovaWannabe", "HonouraryUncle", "BerserkButton", "Portmanteau", "TheNapoleon", "CampStraight", "TokenMinority"], "tropes_by_category": {}, "similar": [{"name": "Mr. Marion Moseby", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_mr_marion_moseby", "similarity": 0.0625, "shared_tropes": 4}]}

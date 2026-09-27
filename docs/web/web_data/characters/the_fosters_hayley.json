@@ -1,13 +1,1 @@
-{
-  "name": "Hayley",
-  "show": "The Fosters",
-  "trope_count": 5,
-  "tropes": [
-    "ClingyJealousGirl",
-    "LoveInterest",
-    "MaliciousMisnaming",
-    "AlliterativeName",
-    "ManipulativeBitch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hayley", "show": "The Fosters", "trope_count": 5, "tropes": ["ClingyJealousGirl", "LoveInterest", "MaliciousMisnaming", "AlliterativeName", "ManipulativeBitch"], "tropes_by_category": {}, "similar": []}

@@ -1,15 +1,1 @@
-{
-  "name": "Sam",
-  "show": "Misfits",
-  "trope_count": 7,
-  "tropes": [
-    "AllCrimesAreEqual",
-    "SuperpowerLottery",
-    "TookALevelInBadass",
-    "KarmicDeath",
-    "PersonalityPowers",
-    "CruelAndUnusualDeath",
-    "FromNobodyToNightmare"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sam", "show": "Misfits", "trope_count": 7, "tropes": ["AllCrimesAreEqual", "SuperpowerLottery", "TookALevelInBadass", "KarmicDeath", "PersonalityPowers", "CruelAndUnusualDeath", "FromNobodyToNightmare"], "tropes_by_category": {}, "similar": [{"name": "Spopovich and Yamu", "show": "Dragon Ball Z", "id": "dragon_ball_z_spopovich_and_yamu", "similarity": 0.0816, "shared_tropes": 4}]}

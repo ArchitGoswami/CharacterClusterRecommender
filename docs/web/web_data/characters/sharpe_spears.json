@@ -1,18 +1,1 @@
-{
-  "name": "Spears",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "BigBrotherInstinct",
-    "BeingTorturedMakesYouEvil",
-    "AnArmAndALeg",
-    "HandicappedBadass",
-    "LeeroyJenkins",
-    "InHarmsWay",
-    "BludgeonedToDeath",
-    "RedemptionEqualsDeath",
-    "HopelessSuitor",
-    "DeathSeeker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Spears", "show": "Sharpe", "trope_count": 10, "tropes": ["BigBrotherInstinct", "BeingTorturedMakesYouEvil", "AnArmAndALeg", "HandicappedBadass", "LeeroyJenkins", "InHarmsWay", "BludgeonedToDeath", "RedemptionEqualsDeath", "HopelessSuitor", "DeathSeeker"], "tropes_by_category": {}, "similar": [{"name": "Fourth Raikage", "show": "Naruto", "id": "naruto_fourth_raikage", "similarity": 0.05, "shared_tropes": 4}, {"name": "# - F", "show": "Attack on Titan", "id": "attack_on_titan_f", "similarity": 0.0388, "shared_tropes": 4}]}

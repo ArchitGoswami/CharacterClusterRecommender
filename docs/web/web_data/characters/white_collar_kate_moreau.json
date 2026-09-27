@@ -1,15 +1,1 @@
-{
-  "name": "Kate Moreau",
-  "show": "White Collar",
-  "trope_count": 7,
-  "tropes": [
-    "CharacterDeath",
-    "DroppedABridgeOnHim",
-    "RavenHairIvorySkin",
-    "PosthumousCharacter",
-    "OutGambitted",
-    "WholeEpisodeFlashback",
-    "TheLostLenore"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kate Moreau", "show": "White Collar", "trope_count": 7, "tropes": ["CharacterDeath", "DroppedABridgeOnHim", "RavenHairIvorySkin", "PosthumousCharacter", "OutGambitted", "WholeEpisodeFlashback", "TheLostLenore"], "tropes_by_category": {}, "similar": []}

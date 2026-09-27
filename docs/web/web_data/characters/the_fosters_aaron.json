@@ -1,18 +1,1 @@
-{
-  "name": "Aaron",
-  "show": "The Fosters",
-  "trope_count": 10,
-  "tropes": [
-    "MistakenForGay",
-    "TransTribulations",
-    "NiceGuy",
-    "SatelliteLoveInterest",
-    "CrazyJealousGuy",
-    "TeenGenius",
-    "TheRunaway",
-    "MyGodWhatHaveIDone",
-    "AmicableExes",
-    "ComingOutStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Aaron", "show": "The Fosters", "trope_count": 10, "tropes": ["MistakenForGay", "TransTribulations", "NiceGuy", "SatelliteLoveInterest", "CrazyJealousGuy", "TeenGenius", "TheRunaway", "MyGodWhatHaveIDone", "AmicableExes", "ComingOutStory"], "tropes_by_category": {}, "similar": [{"name": "Adam Torres", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_adam_torres", "similarity": 0.098, "shared_tropes": 5}, {"name": "Trent", "show": "Total Drama", "id": "total_drama_trent", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Cleveland Jr.", "show": "Cleveland Show, The", "id": "cleveland_show_the_cleveland_jr", "similarity": 0.0581, "shared_tropes": 5}, {"name": "Margaret Smith", "show": "Regular Show", "id": "regular_show_margaret_smith", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0364, "shared_tropes": 4}]}

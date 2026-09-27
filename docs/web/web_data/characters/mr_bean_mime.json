@@ -1,14 +1,1 @@
-{
-  "name": "Mime",
-  "show": "Mr. Bean",
-  "trope_count": 6,
-  "tropes": [
-    "SuddenlyVoiced",
-    "BigBad",
-    "FingerGun",
-    "YourMimeMakesItReal",
-    "TheGadfly",
-    "DisproportionateRetribution"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mime", "show": "Mr. Bean", "trope_count": 6, "tropes": ["SuddenlyVoiced", "BigBad", "FingerGun", "YourMimeMakesItReal", "TheGadfly", "DisproportionateRetribution"], "tropes_by_category": {}, "similar": []}

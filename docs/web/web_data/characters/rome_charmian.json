@@ -1,17 +1,1 @@
-{
-  "name": "Charmian",
-  "show": "Rome",
-  "trope_count": 9,
-  "tropes": [
-    "BrutalHonesty",
-    "Foil",
-    "ServileSnarker",
-    "ParentalSubstitute",
-    "UndyingLoyalty",
-    "HappinessInSlavery",
-    "VitriolicBestBuds",
-    "YouNoTakeCandle",
-    "ThirdPersonPerson"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charmian", "show": "Rome", "trope_count": 9, "tropes": ["BrutalHonesty", "Foil", "ServileSnarker", "ParentalSubstitute", "UndyingLoyalty", "HappinessInSlavery", "VitriolicBestBuds", "YouNoTakeCandle", "ThirdPersonPerson"], "tropes_by_category": {}, "similar": [{"name": "Dorota Kishlovski", "show": "Gossip Girl", "id": "gossip_girl_dorota_kishlovski", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Alfred Pennyworth", "show": "The Dark Knight", "id": "the_dark_knight_alfred_pennyworth", "similarity": 0.1, "shared_tropes": 4}, {"name": "Reginald Jeeves", "show": "Jeeves and Wooster", "id": "jeeves_and_wooster_reginald_jeeves", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Skwisgaar Skwigelf", "show": "Metalocalypse", "id": "metalocalypse_skwisgaar_skwigelf", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Both Series", "show": "Better Call Saul", "id": "better_call_saul_both_series", "similarity": 0.037, "shared_tropes": 5}, {"name": "Both Series", "show": "Breaking Bad", "id": "breaking_bad_both_series", "similarity": 0.037, "shared_tropes": 5}]}

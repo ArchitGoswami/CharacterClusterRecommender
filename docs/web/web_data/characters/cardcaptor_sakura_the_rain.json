@@ -1,11 +1,1 @@
-{
-  "name": "The Rain",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 3,
-  "tropes": [
-    "FlyingOnACloud",
-    "HappyHarlequinHat",
-    "MakingASplash"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Rain", "show": "Cardcaptor Sakura", "trope_count": 3, "tropes": ["FlyingOnACloud", "HappyHarlequinHat", "MakingASplash"], "tropes_by_category": {}, "similar": []}

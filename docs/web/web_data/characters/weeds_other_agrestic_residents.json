@@ -1,18 +1,1 @@
-{
-  "name": "Other Agrestic Residents",
-  "show": "Weeds",
-  "trope_count": 10,
-  "tropes": [
-    "OfficialCouple",
-    "JerkWithAHeartOfGold",
-    "Jerkass",
-    "NiceGuy",
-    "CrouchingMoronHiddenBadass",
-    "IncompatibleOrientation",
-    "GeniusDitz",
-    "CampGay",
-    "BollywoodNerd",
-    "LetsGetDangerous"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Other Agrestic Residents", "show": "Weeds", "trope_count": 10, "tropes": ["OfficialCouple", "JerkWithAHeartOfGold", "Jerkass", "NiceGuy", "CrouchingMoronHiddenBadass", "IncompatibleOrientation", "GeniusDitz", "CampGay", "BollywoodNerd", "LetsGetDangerous"], "tropes_by_category": {}, "similar": [{"name": "Elliot Parks", "show": "Young & Hungry", "id": "young_and_hungry_elliot_parks", "similarity": 0.2632, "shared_tropes": 5}, {"name": "Nigel Thornberry", "show": "Wild Thornberrys, The", "id": "wild_thornberrys_the_nigel_thornberry", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Lieutenant Gruber", "show": "'Allo 'Allo!", "id": "allo_allo_lieutenant_gruber", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Main Characters", "show": "Marvelous Misadventures of Flapjack, The", "id": "marvelous_misadventures_of_flapjack_the_main_characters", "similarity": 0.069, "shared_tropes": 6}, {"name": "Harvey Bullock", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_harvey_bullock", "similarity": 0.0645, "shared_tropes": 4}, {"name": "LaunchpadMcQuack", "show": "DuckTales", "id": "ducktales_launchpadmcquack", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Ickis", "show": "Aaahh!!! Real Monsters", "id": "aaahh_real_monsters_ickis", "similarity": 0.058, "shared_tropes": 4}, {"name": "Jeff Smith (né Fischer)", "show": "American Dad", "id": "american_dad_jeff_smith_n_fischer", "similarity": 0.058, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Penny Pepper",
-  "show": "Sanjay and Craig",
-  "trope_count": 6,
-  "tropes": [
-    "CloudCuckooLander",
-    "GenderBlenderName",
-    "NiceGuy",
-    "SensitiveGuyAndManlyMan",
-    "SeriousBusiness",
-    "OnlySaneMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Penny Pepper", "show": "Sanjay and Craig", "trope_count": 6, "tropes": ["CloudCuckooLander", "GenderBlenderName", "NiceGuy", "SensitiveGuyAndManlyMan", "SeriousBusiness", "OnlySaneMan"], "tropes_by_category": {}, "similar": [{"name": "Arnold Perlstein", "show": "Magic School Bus, The", "id": "magic_school_bus_the_arnold_perlstein", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Arnold Perlstein", "show": "The Magic School Bus Rides Again", "id": "the_magic_school_bus_rides_again_arnold_perlstein", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Justin Russo", "show": "Wizards of Waverly Place", "id": "wizards_of_waverly_place_justin_russo", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Bobby Hill", "show": "King of the Hill", "id": "king_of_the_hill_bobby_hill", "similarity": 0.0381, "shared_tropes": 4}, {"name": "Ted Mosby", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_ted_mosby", "similarity": 0.0365, "shared_tropes": 5}, {"name": "Thomas the Tank Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_thomas_the_tank_engine", "similarity": 0.0357, "shared_tropes": 4}]}

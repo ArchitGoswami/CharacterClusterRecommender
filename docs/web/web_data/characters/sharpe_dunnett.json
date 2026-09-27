@@ -1,12 +1,1 @@
-{
-  "name": "Dunnett",
-  "show": "Sharpe",
-  "trope_count": 4,
-  "tropes": [
-    "UpperClassTwit",
-    "DeathByAdaptation",
-    "FatIdiot",
-    "CharacterDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dunnett", "show": "Sharpe", "trope_count": 6, "tropes": ["UpperClassTwit", "BackForTheFinale", "FatIdiot", "TookALevelInKindness", "CharacterDeath", "DeathByAdaptation"], "tropes_by_category": {}, "similar": []}

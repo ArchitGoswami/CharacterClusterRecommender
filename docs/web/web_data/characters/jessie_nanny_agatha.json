@@ -1,18 +1,1 @@
-{
-  "name": "Nanny Agatha",
-  "show": "Jessie",
-  "trope_count": 10,
-  "tropes": [
-    "EvilBrit",
-    "ChuckCunninghamSyndrome",
-    "Expy",
-    "CorruptedCharacterCopy",
-    "TheRival",
-    "BigBadEnsemble",
-    "HypocriticalHumor",
-    "Gonk",
-    "EvenEvilHasStandards",
-    "EvilCounterpart"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nanny Agatha", "show": "Jessie", "trope_count": 10, "tropes": ["EvilBrit", "ChuckCunninghamSyndrome", "Expy", "CorruptedCharacterCopy", "TheRival", "BigBadEnsemble", "HypocriticalHumor", "Gonk", "EvenEvilHasStandards", "EvilCounterpart"], "tropes_by_category": {}, "similar": [{"name": "The Dark Ace", "show": "Storm Hawks", "id": "storm_hawks_the_dark_ace", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Krang", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_krang", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Mini Besson", "show": "Person of Interest", "id": "person_of_interest_mini_besson", "similarity": 0.0678, "shared_tropes": 4}, {"name": "The Gloinks and their Queen", "show": "Amazing Digital Circus, The", "id": "amazing_digital_circus_the_the_gloinks_and_their_queen", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Diesel", "show": "Thomas & Friends", "id": "thomas_and_friends_diesel", "similarity": 0.0505, "shared_tropes": 5}, {"name": "The Goth Kids", "show": "South Park", "id": "south_park_the_goth_kids", "similarity": 0.05, "shared_tropes": 4}, {"name": "Dale the Whale", "show": "Monk", "id": "monk_dale_the_whale", "similarity": 0.0435, "shared_tropes": 4}]}

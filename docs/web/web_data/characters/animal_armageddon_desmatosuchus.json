@@ -1,13 +1,1 @@
-{
-  "name": "Desmatosuchus",
-  "show": "Animal Armageddon",
-  "trope_count": 5,
-  "tropes": [
-    "HowTheMightyHaveFallen",
-    "AnimalStampede",
-    "DyingRace",
-    "ToughArmoredDinosaur",
-    "EndangeredSpecies"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Desmatosuchus", "show": "Animal Armageddon", "trope_count": 5, "tropes": ["HowTheMightyHaveFallen", "AnimalStampede", "DyingRace", "ToughArmoredDinosaur", "EndangeredSpecies"], "tropes_by_category": {}, "similar": []}

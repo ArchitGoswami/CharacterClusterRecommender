@@ -1,17 +1,1 @@
-{
-  "name": "Peggy Milbank",
-  "show": "Leverage",
-  "trope_count": 9,
-  "tropes": [
-    "TookALevelInBadass",
-    "Foil",
-    "BerserkButton",
-    "LockedOutOfTheLoop",
-    "NiceGirl",
-    "BadassAdorable",
-    "BewareTheNiceOnes",
-    "KindheartedCatLover",
-    "FryingPanOfDoom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Peggy Milbank", "show": "Leverage", "trope_count": 9, "tropes": ["TookALevelInBadass", "Foil", "BerserkButton", "LockedOutOfTheLoop", "NiceGirl", "BadassAdorable", "BewareTheNiceOnes", "KindheartedCatLover", "FryingPanOfDoom"], "tropes_by_category": {}, "similar": [{"name": "Bubbles", "show": "Trailer Park Boys", "id": "trailer_park_boys_bubbles", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Beth", "show": "Total Drama", "id": "total_drama_beth", "similarity": 0.0759, "shared_tropes": 6}, {"name": "Hungary - Elizabeta Héderváry", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_hungary_elizabeta_h_derv_ry", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Lily L. Loud", "show": "Loud House, The", "id": "loud_house_the_lily_l_loud", "similarity": 0.058, "shared_tropes": 4}, {"name": "Cow", "show": "Cow and Chicken", "id": "cow_and_chicken_cow", "similarity": 0.0548, "shared_tropes": 4}, {"name": "#-Z", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_z", "similarity": 0.0521, "shared_tropes": 5}, {"name": "Jules Vaughn", "show": "Euphoria", "id": "euphoria_jules_vaughn", "similarity": 0.0408, "shared_tropes": 4}]}

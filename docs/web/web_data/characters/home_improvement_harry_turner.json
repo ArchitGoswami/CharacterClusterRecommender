@@ -1,11 +1,1 @@
-{
-  "name": "Harry Turner",
-  "show": "Home Improvement",
-  "trope_count": 3,
-  "tropes": [
-    "LocalHangout",
-    "HenpeckedHusband",
-    "RememberTheNewGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Harry Turner", "show": "Home Improvement", "trope_count": 3, "tropes": ["LocalHangout", "HenpeckedHusband", "RememberTheNewGuy"], "tropes_by_category": {}, "similar": []}

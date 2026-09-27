@@ -1,11 +1,1 @@
-{
-  "name": "Johnny Dogs",
-  "show": "Peaky Blinders",
-  "trope_count": 3,
-  "tropes": [
-    "TeamSwitzerland",
-    "LovableRogue",
-    "SeriousBusiness"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Johnny Dogs", "show": "Peaky Blinders", "trope_count": 3, "tropes": ["TeamSwitzerland", "LovableRogue", "SeriousBusiness"], "tropes_by_category": {}, "similar": []}

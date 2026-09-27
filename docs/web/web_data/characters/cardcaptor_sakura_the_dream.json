@@ -1,11 +1,1 @@
-{
-  "name": "The Dream",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 3,
-  "tropes": [
-    "EyeObscuringHat",
-    "YourHeartsDesire",
-    "DreamingOfThingsToCome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Dream", "show": "Cardcaptor Sakura", "trope_count": 3, "tropes": ["EyeObscuringHat", "YourHeartsDesire", "DreamingOfThingsToCome"], "tropes_by_category": {}, "similar": []}

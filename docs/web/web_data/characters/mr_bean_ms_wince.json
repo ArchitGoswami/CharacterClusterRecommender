@@ -1,13 +1,1 @@
-{
-  "name": "Ms. Wince",
-  "show": "Mr. Bean",
-  "trope_count": 5,
-  "tropes": [
-    "GivenNameReveal",
-    "NiceGirl",
-    "NightmareFetishist",
-    "ButtMonkey",
-    "ThrowTheDogABone"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ms. Wince", "show": "Mr. Bean", "trope_count": 5, "tropes": ["GivenNameReveal", "NiceGirl", "NightmareFetishist", "ButtMonkey", "ThrowTheDogABone"], "tropes_by_category": {}, "similar": [{"name": "Ms. Mary Wince", "show": "Mr. Bean", "id": "mr_bean_ms_mary_wince", "similarity": 0.5714, "shared_tropes": 4}]}

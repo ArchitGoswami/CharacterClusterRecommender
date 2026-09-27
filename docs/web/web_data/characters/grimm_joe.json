@@ -1,12 +1,1 @@
-{
-  "name": "Joe",
-  "show": "Grimm",
-  "trope_count": 4,
-  "tropes": [
-    "AssholeVictim",
-    "DirtyCoward",
-    "DidntThinkThisThrough",
-    "OnlyOneName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joe", "show": "Grimm", "trope_count": 6, "tropes": ["DidntThinkThisThrough", "DirtyCoward", "OnlyOneName", "CatsAreMean", "AssholeVictim", "HateSink"], "tropes_by_category": {}, "similar": []}

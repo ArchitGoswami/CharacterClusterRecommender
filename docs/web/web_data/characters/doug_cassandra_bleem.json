@@ -1,16 +1,1 @@
-{
-  "name": "Cassandra Bleem",
-  "show": "Doug",
-  "trope_count": 8,
-  "tropes": [
-    "Jerkass",
-    "TheBully",
-    "TheDitz",
-    "HateSink",
-    "BeautyisBad",
-    "ValleyGirl",
-    "SouthernGentleman",
-    "BookDumb"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cassandra Bleem", "show": "Doug", "trope_count": 8, "tropes": ["Jerkass", "TheBully", "TheDitz", "HateSink", "BeautyisBad", "ValleyGirl", "SouthernGentleman", "BookDumb"], "tropes_by_category": {}, "similar": [{"name": "Portia Gibbons", "show": "Mighty B!, The", "id": "mighty_b_the_portia_gibbons", "similarity": 0.129, "shared_tropes": 4}, {"name": "Jimmy Wichard", "show": "King of the Hill", "id": "king_of_the_hill_jimmy_wichard", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Lawson", "show": "Recess", "id": "recess_lawson", "similarity": 0.093, "shared_tropes": 4}, {"name": "Mandy Luxe", "show": "Totally Spies!", "id": "totally_spies_mandy_luxe", "similarity": 0.082, "shared_tropes": 5}, {"name": "Bogs", "show": "The Shawshank Redemption", "id": "the_shawshank_redemption_bogs", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Spinner Mason", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_spinner_mason", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Tammy Larsen", "show": "Bob's Burgers", "id": "bobs_burgers_tammy_larsen", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Flash Thompson", "show": "Spider-Man", "id": "spider_man_flash_thompson", "similarity": 0.0482, "shared_tropes": 4}]}

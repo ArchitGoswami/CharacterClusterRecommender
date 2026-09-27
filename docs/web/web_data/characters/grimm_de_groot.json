@@ -1,16 +1,1 @@
-{
-  "name": "De Groot",
-  "show": "Grimm",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "ReasonableAuthorityFigure",
-    "PunchClockVillain",
-    "BeleagueredBureaucrat",
-    "DirtyBusiness",
-    "OnlySaneMan",
-    "BackForTheDead",
-    "IDidWhatIHadToDo"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "De Groot", "show": "Grimm", "trope_count": 8, "tropes": ["DeadpanSnarker", "ReasonableAuthorityFigure", "PunchClockVillain", "BeleagueredBureaucrat", "DirtyBusiness", "OnlySaneMan", "BackForTheDead", "IDidWhatIHadToDo"], "tropes_by_category": {}, "similar": [{"name": "Alexander", "show": "Grimm", "id": "grimm_alexander", "similarity": 0.2353, "shared_tropes": 4}]}

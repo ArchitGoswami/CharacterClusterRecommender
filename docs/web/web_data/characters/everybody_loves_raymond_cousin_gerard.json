@@ -1,18 +1,1 @@
-{
-  "name": "Cousin Gerard",
-  "show": "Everybody Loves Raymond",
-  "trope_count": 10,
-  "tropes": [
-    "CasanovaWannabe",
-    "AnnoyingLaugh",
-    "ThisLoserIsYou",
-    "NerdyNasalness",
-    "ReplacementFlatCharacter",
-    "ChurchOfHappyology",
-    "AccentuateTheNegative",
-    "TheFriendNobodyLikes",
-    "StrawLoser",
-    "Lampshaded"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cousin Gerard", "show": "Everybody Loves Raymond", "trope_count": 10, "tropes": ["CasanovaWannabe", "AnnoyingLaugh", "ThisLoserIsYou", "NerdyNasalness", "ReplacementFlatCharacter", "ChurchOfHappyology", "AccentuateTheNegative", "TheFriendNobodyLikes", "StrawLoser", "Lampshaded"], "tropes_by_category": {}, "similar": []}

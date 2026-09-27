@@ -1,18 +1,1 @@
-{
-  "name": "Alexander Cabot III",
-  "show": "Josie and the Pussycats",
-  "trope_count": 10,
-  "tropes": [
-    "AdaptationalWimp",
-    "JerkWithAHeartOfGold",
-    "Expy",
-    "AdaptationalAttractiveness",
-    "Jerkass",
-    "LovableCoward",
-    "AdaptationalHeroism",
-    "GreenEyedMonster",
-    "ActingForTwo",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alexander Cabot III", "show": "Josie and the Pussycats", "trope_count": 10, "tropes": ["AdaptationalWimp", "JerkWithAHeartOfGold", "Expy", "AdaptationalAttractiveness", "Jerkass", "LovableCoward", "AdaptationalHeroism", "GreenEyedMonster", "ActingForTwo", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Alexandra Cabot", "show": "Josie and the Pussycats", "id": "josie_and_the_pussycats_alexandra_cabot", "similarity": 0.093, "shared_tropes": 4}, {"name": "Sidoh", "show": "Death Note", "id": "death_note_sidoh", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Green Esmeraude", "show": "Sailor Moon", "id": "sailor_moon_green_esmeraude", "similarity": 0.08, "shared_tropes": 4}, {"name": "Antoine Depardieu", "show": "Sonic the Hedgehog(SatAM)", "id": "sonic_the_hedgehogsatam_antoine_depardieu", "similarity": 0.0714, "shared_tropes": 5}, {"name": "Mokuba Kaiba", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_mokuba_kaiba", "similarity": 0.069, "shared_tropes": 4}, {"name": "J. Jonah Jameson", "show": "Spider-Man", "id": "spider_man_j_jonah_jameson", "similarity": 0.0581, "shared_tropes": 5}, {"name": "Frederick Chilton", "show": "Hannibal", "id": "hannibal_frederick_chilton", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Scarecrow", "show": "The Dark Knight", "id": "the_dark_knight_scarecrow", "similarity": 0.0449, "shared_tropes": 4}]}

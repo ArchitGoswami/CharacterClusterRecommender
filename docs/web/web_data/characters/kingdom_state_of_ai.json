@@ -1,16 +1,1 @@
-{
-  "name": "State of Ai",
-  "show": "Kingdom",
-  "trope_count": 8,
-  "tropes": [
-    "AnArmAndALeg",
-    "BigBadWannabe",
-    "SmugSmiler",
-    "OhCrap",
-    "OutlivingOnesOffspring",
-    "StupidEvil",
-    "PsychopathicManchild",
-    "OffWithHisHead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "State of Ai", "show": "Kingdom", "trope_count": 8, "tropes": ["AnArmAndALeg", "BigBadWannabe", "SmugSmiler", "OhCrap", "OutlivingOnesOffspring", "StupidEvil", "PsychopathicManchild", "OffWithHisHead"], "tropes_by_category": {}, "similar": [{"name": "TommyDeVito", "show": "Goodfellas", "id": "goodfellas_tommydevito", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Chaka", "show": "Black Lagoon", "id": "black_lagoon_chaka", "similarity": 0.0449, "shared_tropes": 4}]}

@@ -102,10 +102,11 @@
       "name": "I Got Six",
       "media_title": "Schoolhouse Rock!",
       "tropes": [
-        "MarryThemAll",
-        "MassiveNumberedSiblings"
+        "ExoticExtendedMarriage",
+        "IdleRich",
+        "ArabOilSheikh"
       ],
-      "description": "Marry Them All: The prince has twelve wives wearing traditional Arabic hoods and veils. Massive Numbered Siblings: The prince has72children, six with each of his wives.",
+      "description": "Arab Oil Sheikh: Brings eleven camels loaded with oil and spice, which bring \"quite a price!\" Exotic Extended Marriage: Has twelve wives, wearing traditional Arabic hoods and veils, and72children, six with each of his wives. Idle Rich: Wears six diamond rings on each of his ten fingers. As the song says, \"He don't wash no dishes, not with 60 diamonds!\"",
       "source": "tvtropes"
     },
     {
@@ -133,9 +134,10 @@
       "name": "Figure Eight",
       "media_title": "Schoolhouse Rock!",
       "tropes": [
+        "GirlishPigtails",
         "FantasySequence"
       ],
-      "description": "Fantasy Sequence: Most of the \"Figure Eight\" cartoon is this, as she daydreams in school aboutFigure Skating.",
+      "description": "Fantasy Sequence: Most of the \"Figure Eight\" cartoon is this, as she daydreams in school aboutFigure Skating. Girlish Pigtails: Wears her hair in two bunches.",
       "source": "tvtropes"
     },
     {
@@ -166,10 +168,12 @@
       "name": "The Good Eleven",
       "media_title": "Schoolhouse Rock!",
       "tropes": [
+        "HolyHalo",
         "ThoseTwoGuys",
-        "RunningGag"
+        "RunningGag",
+        "WingedHumanoid"
       ],
-      "description": "Those Two Guys: A pair of number 1s that together, make the number 11. Running Gag: They bump against the number 10 at any utterance of \"She never gave me any trouble till after 9.\"",
+      "description": "Those Two Guys: A pair of number 1s that together, make the number 11. Holy Halo: Each of them has a circlet floating above her head. Running Gag: They bump against the number 10 at any utterance of \"She never gave me any trouble till after 9.\" Winged Humanoid: Each of them has a pair of feathered wings.",
       "source": "tvtropes"
     },
     {
@@ -251,19 +255,20 @@
       "name": "Interjections!",
       "media_title": "Schoolhouse Rock!",
       "tropes": [
-        "BewitchedAmphibians",
         "AfraidOfNeedles",
-        "AbhorrentAdmirer",
-        "TheKlutz",
-        "YeahShot",
-        "CreatorCameo",
-        "UnusualEuphemism",
-        "DreadfulMusician",
-        "Tsundere",
-        "OhCrap",
-        "PainToTheAss",
-        "PlayingHardToGet",
         "LargeHam",
+        "OhCrap",
+        "BewitchedAmphibians",
+        "Tsundere",
+        "NoIndoorVoice",
+        "YeahShot",
+        "UnusualEuphemism",
+        "CreatorCameo",
+        "DreadfulMusician",
+        "TheKlutz",
+        "PainToTheAss",
+        "AbhorrentAdmirer",
+        "PlayingHardToGet",
         "UngratefulBastard"
       ],
       "description": "Large Ham: Pretty much anyone who talks, to drive the point of how an interjection makes a difference. Afraid of Needles: He shudders and hides under a pillow when the doctor pulls one out, and complains about hisPain to the Assafter receiving the injection. Ungrateful Bastard: The shot appears to cure Reginald's flu pretty quickly, but he still calls it unfair of the doctor to inject it \"down there\". Creator Cameo: She's voiced by the writer of the song; a rare example in which the writer doesn't narrate as well. Playing Hard to Get: As noted by the singer, Geraldine does this while resisting Geraldo's advances.",
@@ -615,7 +620,17 @@
       ],
       "description": "Animate Inanimate Object: Again, they're a cardboard box, a plastic bottle, and a tin can. A Dog Named \"Dog\": They're well, a box, a bottle, and a can, respectively. Trash-Can Band: The titular one from the short.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Busy Prepositions",
+      "media_title": "Schoolhouse Rock!",
+      "tropes": [
+        "RoughOveralls",
+        "SynchronizedSwarming"
+      ],
+      "description": "Rough Overalls: They wear these, since they're always connecting words by nailing them together. Synchronized Swarming: At one point, they fly in groups that form words like \"ON\", \"OVER\", \"BEYOND\", \"THROUGH\", and \"INTO\".",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 41
+  "character_count": 42
 }

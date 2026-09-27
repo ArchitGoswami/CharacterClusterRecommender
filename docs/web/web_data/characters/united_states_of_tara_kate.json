@@ -1,12 +1,1 @@
-{
-  "name": "Kate",
-  "show": "United States of Tara",
-  "trope_count": 4,
-  "tropes": [
-    "BrattyTeenageDaughter",
-    "DeadpanSnarker",
-    "FoolishSiblingResponsibleSibling",
-    "CharacterDevelopment"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kate", "show": "United States of Tara", "trope_count": 4, "tropes": ["BrattyTeenageDaughter", "DeadpanSnarker", "FoolishSiblingResponsibleSibling", "CharacterDevelopment"], "tropes_by_category": {}, "similar": [{"name": "Cecelia \"CeCe\" Jones", "show": "Shake It Up", "id": "shake_it_up_cecelia_cece_jones", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Meadow Soprano", "show": "Sopranos,The", "id": "sopranosthe_meadow_soprano", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Meadow Soprano", "show": "The Sopranos", "id": "the_sopranos_meadow_soprano", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Missy Cooper", "show": "The Big Bang Theory", "id": "the_big_bang_theory_missy_cooper", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Penny Carson", "show": "BoJack Horseman", "id": "bojack_horseman_penny_carson", "similarity": 0.0426, "shared_tropes": 4}]}

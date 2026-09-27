@@ -1,18 +1,1 @@
-{
-  "name": "Bonnie",
-  "show": "Baby Daddy",
-  "trope_count": 10,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "MyBelovedSmother",
-    "DotingParent",
-    "TeamMom",
-    "ItsAllAboutMe",
-    "FormerTeenRebel",
-    "MamaBear",
-    "ObliquelyObfuscatedOccupation",
-    "HiddenDepths",
-    "AmicableExes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bonnie", "show": "Baby Daddy", "trope_count": 10, "tropes": ["JerkWithAHeartOfGold", "MyBelovedSmother", "DotingParent", "TeamMom", "ItsAllAboutMe", "FormerTeenRebel", "MamaBear", "ObliquelyObfuscatedOccupation", "HiddenDepths", "AmicableExes"], "tropes_by_category": {}, "similar": [{"name": "Kira Finster", "show": "Rugrats", "id": "rugrats_kira_finster", "similarity": 0.1538, "shared_tropes": 4}, {"name": "DeDePritchett", "show": "Modern Family", "id": "modern_family_dedepritchett", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Roz Russell", "show": "Night Court", "id": "night_court_roz_russell", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Thelma \"Mama\" Harper", "show": "Mama's Family", "id": "mamas_family_thelma_mama_harper", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Marie Barone", "show": "Everybody Loves Raymond", "id": "everybody_loves_raymond_marie_barone", "similarity": 0.1, "shared_tropes": 5}, {"name": "AudreyMcAllister", "show": "The Big Bang Theory", "id": "the_big_bang_theory_audreymcallister", "similarity": 0.1, "shared_tropes": 4}, {"name": "ADA Erin Reagan", "show": "Blue Bloods", "id": "blue_bloods_ada_erin_reagan", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Jay Pritchett", "show": "Modern Family", "id": "modern_family_jay_pritchett", "similarity": 0.0877, "shared_tropes": 5}]}

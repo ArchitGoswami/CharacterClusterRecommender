@@ -1,17 +1,1 @@
-{
-  "name": "Lucille \"Lucy\" Lorraine",
-  "show": "Martha Speaks",
-  "trope_count": 9,
-  "tropes": [
-    "BirthdayEpisode",
-    "HappilyMarried",
-    "PlotAllergy",
-    "DoesNotLikeSpam",
-    "GrumpyOldWoman",
-    "InSeriesNickname",
-    "AlliterativeName",
-    "NeatFreak",
-    "WhenIWasYourAge"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lucille \"Lucy\" Lorraine", "show": "Martha Speaks", "trope_count": 9, "tropes": ["BirthdayEpisode", "HappilyMarried", "PlotAllergy", "DoesNotLikeSpam", "GrumpyOldWoman", "InSeriesNickname", "AlliterativeName", "NeatFreak", "WhenIWasYourAge"], "tropes_by_category": {}, "similar": [{"name": "Phineas Flynn", "show": "Phineas and Ferb", "id": "phineas_and_ferb_phineas_flynn", "similarity": 0.0367, "shared_tropes": 4}]}

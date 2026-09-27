@@ -1,15 +1,1 @@
-{
-  "name": "Tori Scott",
-  "show": "Saved by the Bell",
-  "trope_count": 7,
-  "tropes": [
-    "ChuckCunninghamSyndrome",
-    "DudeMagnet",
-    "TheAce",
-    "NewTransferStudent",
-    "TheLadette",
-    "TomboyAndGirlyGirl",
-    "ContrastingReplacementCharacter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tori Scott", "show": "Saved by the Bell", "trope_count": 7, "tropes": ["ChuckCunninghamSyndrome", "DudeMagnet", "TheAce", "NewTransferStudent", "TheLadette", "TomboyAndGirlyGirl", "ContrastingReplacementCharacter"], "tropes_by_category": {}, "similar": [{"name": "Lola Martinez", "show": "Zoey 101", "id": "zoey_101_lola_martinez", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Lorelai Leigh \"Rory\" Gilmore", "show": "Gilmore Girls", "id": "gilmore_girls_lorelai_leigh_rory_gilmore", "similarity": 0.0417, "shared_tropes": 4}]}

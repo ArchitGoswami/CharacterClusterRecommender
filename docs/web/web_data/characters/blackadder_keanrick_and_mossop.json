@@ -1,17 +1,1 @@
-{
-  "name": "Keanrick and Mossop",
-  "show": "Blackadder",
-  "trope_count": 9,
-  "tropes": [
-    "MoneyDearBoy",
-    "Jerkass",
-    "TooDumbToLive",
-    "CampGay",
-    "BullyingADragon",
-    "RealLife",
-    "AmbiguouslyGay",
-    "HypocriticalHumor",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Keanrick and Mossop", "show": "Blackadder", "trope_count": 9, "tropes": ["MoneyDearBoy", "Jerkass", "TooDumbToLive", "CampGay", "BullyingADragon", "RealLife", "AmbiguouslyGay", "HypocriticalHumor", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Dean O'Banion", "show": "Boardwalk Empire", "id": "boardwalk_empire_dean_o_banion", "similarity": 0.129, "shared_tropes": 4}, {"name": "William \"Billy Batts\" Bentvena", "show": "Goodfellas", "id": "goodfellas_william_billy_batts_bentvena", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Blitzwing", "show": "Transformers Animated", "id": "transformers_animated_blitzwing", "similarity": 0.0588, "shared_tropes": 5}, {"name": "Katie Killjoy", "show": "Hazbin Hotel", "id": "hazbin_hotel_katie_killjoy", "similarity": 0.046, "shared_tropes": 4}, {"name": "Gyp Rosetti", "show": "Boardwalk Empire", "id": "boardwalk_empire_gyp_rosetti", "similarity": 0.04, "shared_tropes": 5}, {"name": "James the Red Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_james_the_red_engine", "similarity": 0.0385, "shared_tropes": 4}, {"name": "UK Side", "show": "Whose Line Is It Anyway?", "id": "whose_line_is_it_anyway_uk_side", "similarity": 0.0354, "shared_tropes": 4}]}

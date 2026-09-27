@@ -417,25 +417,26 @@
       "name": "Kirby Anders Colby",
       "media_title": "Dynasty",
       "tropes": [
-        "RoaringRampageOfRevenge",
-        "TheBusCameBack",
-        "ChildhoodFriendRomance",
-        "ChildByRape",
-        "TheGhost",
-        "TookALevelInCynic",
         "ConvenientMiscarriage",
-        "AndNowYouMustMarryMe",
-        "YouKilledMyFather",
+        "TheBusCameBack",
+        "ChildByRape",
         "PutOnABus",
         "DaddysGirl",
-        "RapeAsDrama",
-        "TragicStillbirth",
-        "LoveTriangle",
-        "MissingMom",
+        "YouKilledMyFather",
+        "AndNowYouMustMarryMe",
         "NiceGirl",
+        "TragicStillbirth",
+        "ButtMonkey",
+        "RapeAsDrama",
+        "LoveTriangle",
+        "TookALevelInCynic",
+        "ChildhoodFriendRomance",
+        "MissingMom",
+        "RoaringRampageOfRevenge",
+        "TheGhost",
         "NewOldFlame"
       ],
-      "description": "And Now You Must Marry Me:A variation. After learning Kirby is pregnant with his child months after he raped her, Adam wants her to marry him. She actuallyagreesto this (even after she miscarries), but eventually backs out and leaves Denver. The Bus Came Back: In the 1991 miniseries. Child by Rape:Subverted. The baby dies in the womb after she is hospitalized for seizures. Childhood Friend Romance: With Jeff, whom she briefly marries. Daddy's Girl: She loves her dad and vice versa.She's absolutely crushed when she learns of his suicide.",
+      "description": "And Now You Must Marry Me:A variation. After learning Kirby is pregnant with his child months after he raped her, Adam wants her to marry him. She actuallyagreesto this (even after she miscarries), but eventually backs out and leaves Denver. The Bus Came Back: In the 1991 miniseries. Butt-Monkey: To an almost ridiculous point in Seasons 3 & 4. Child by Rape:Subverted. The baby dies in the womb after she is hospitalized for seizures. Childhood Friend Romance: With Jeff, whom she briefly marries.",
       "source": "tvtropes"
     },
     {
@@ -544,12 +545,18 @@
       "name": "Michael Culhane",
       "media_title": "Dynasty",
       "tropes": [
-        "ServileSnarker",
-        "TheBusCameBack",
-        "TheCasanova",
-        "PutOnABus"
+        "MrFanservice",
+        "UndyingLoyalty",
+        "TheDriver",
+        "LastNameBasis",
+        "WalkingShirtlessScene",
+        "RelationshipRevolvingDoor",
+        "ICouldaBeenAContender",
+        "UnequalPairing",
+        "AdaptationalNiceGuy",
+        "RaceLift"
       ],
-      "description": "The Carrington family chauffeur and Fallon's on/off lover. The Bus Came Back: For a several-episode arc in season 7. The Casanova: Has relationships with Fallon and Amanda. Put on a Bus: Leaves the Carrington mansion between seasons 1 and 2 without telling Fallon. Servile Snarker: Occasionally makes snarky remarks about his boss Blake.",
+      "description": "The Carrington's chauffeur. He's also been in a relationship with Fallon for years. Adaptational Nice Guy: Unlike the conniving opportunist from the original series. I Coulda Been a Contender!: He went to college on a football scholarship, until an injury abruptly ended his sports career. His parents made sacrifices to get him through school, but Culhane lies about his current career, ashamed that he didn't get a job as good as his parents hoped. The Driver: To the Carrington family, though he has a bit more backstory and personality than most examples of the trope. Last-Name Basis: Most characters simply refer to him as \"Culhane\".",
       "source": "tvtropes"
     },
     {
@@ -700,7 +707,221 @@
       ],
       "description": "Alexis' cousin and Jeff's aunt. Suspiciously Similar Substitute: Arguably to Caress. Both have rivalries with Alexis and both are relatives to her. However, it's a variation, because Sable was introducedbeforeCaress and her relationship to Alexis wasn't established in her first appearance like Caress. Transplant: A variation. She's technically introduced onDynastyin itsPoorly Disguised Pilotin season 5 in order to reveal who would be the main cast ofThe Colbys. A season after that show was cancelled, Sable and her daughter Monica move toDynastyfor its final season.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In general",
+      "media_title": "Dynasty",
+      "tropes": [
+        "ReallyGetsAround",
+        "ChronicBackstabbingDisorder",
+        "TangledFamilyTree",
+        "LoveDodecahedron",
+        "BigScrewedUpFamily",
+        "LongLostRelative",
+        "TheBeautifulElite"
+      ],
+      "description": "The Beautiful Elite: The family fits the bill. Big, Screwed-Up Family: One of the most screwed up families in primetime soap history. Chronic Backstabbing Disorder: They may be family, but that doesn't mean much when everyone has an agenda. Long-Lost Relative: Done to death withAdam, Amanda, Dominique, Jackie, Ben, Leslie, and Caress. Love Dodecahedron: The Carringtons' dating pool seems to be consistent of the same people other people in their family have previously dated.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Fallon Carrington",
+      "media_title": "Dynasty",
+      "tropes": [
+        "MsFanservice",
+        "BrokenPedestal",
+        "ReallyGetsAround",
+        "DaddysGirl",
+        "AdaptationalIntelligence",
+        "ItsAllAboutMe",
+        "SexyStewardess",
+        "DeadpanSnarker",
+        "AllTakeAndNoGive",
+        "JerkWithAHeartOfGold",
+        "HighPoweredCareerWoman",
+        "EstablishingCharacterMoment",
+        "TakeThat",
+        "ManipulativeBastard"
+      ],
+      "description": "The main character, heiress to the Carrington family fortune, who seeks to establish herself in the corporate world. Adaptational Intelligence: While Fallon was merely an heiress to the family fortune in the original series, this version of the character is much more competent and business savvy in her own right. Broken Pedestal: Her already somewhat-questionable opinion of her father gets damaged even more in \"The Gospel According to Blake Carrington\", after she learns of what Blake did to Cecil. Daddy's Girl: Alexis claims that Fallon was always Blake's child. Seems to be especially proven when it's revealed that one of the codes for the secret safe in Blake's office is Fallon's birthday.This changes after Fallon learns she was being used to lie for Blake's murder of Hank Deadpan Snarker: Practically every word she says is dripping with sarcasm.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Sam Jones",
+      "media_title": "Dynasty",
+      "tropes": [
+        "MrFanservice",
+        "AdaptationalSexuality",
+        "PrettyFreeloader",
+        "GenderFlip",
+        "AmicableExes",
+        "SeenItAll",
+        "BirdsOfAFeather",
+        "TheIllegal",
+        "TheThingThatWouldNotLeave",
+        "OddFriendship",
+        "RaceLift",
+        "ParentalSubstitute",
+        "FishOutOfWater"
+      ],
+      "description": "Cristal's nephew, and Steven's (former) boyfriend, for a while, husband. Adaptational Sexuality: Coupled with theGender Flip, here, instead of being a heterosexual woman, Sam is a gay man. Amicable Exes: Despite no longer being in a relationship with Steven, they still seem to get along quite well. Then they get back together, and later married, albeit temporarily. Birds of a Feather: Despite a rocky start, he and Fallon get along well due to their shared love of fashion and expensive tastes. Fish Out of Water: Sam more or less takes this aspect from Cristal in the original series. While she's already somewhat entrenched in the privileged world of the Carringtons when we meet her, Sam is obviously more of an outsider.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cristal Carrington",
+      "media_title": "Dynasty",
+      "tropes": [
+        "MsFanservice",
+        "KilledOffForReal",
+        "SexySecretary",
+        "AdaptationNameChange",
+        "ConflictingLoyalties",
+        "RaceLift",
+        "DarkSecret",
+        "CorruptCorporateExecutive",
+        "NotSoAboveItAll"
+      ],
+      "description": "An employee of Carrington Atlantic, whom Blake later marries, later becoming the COO of the company. Adaptation Name Change: In this series, her name is spelled \"Cristal\" instead of \"Krystle\".Then it turns out that's not even her real name. Conflicting Loyalties: She's torn between being loyal to Blake, aCorrupt Corporate Executive, and doing the right thing, like revealing Carrington Atlantic's dirty environmental practices. Dark Secret:Her real name is Celia Machado. Back in Venezuela, she stole a large amount of money, and was forced to leave her sister behind. And she apparently killed her sister Iris's husband (Sam's father) to protect Iris. Killed Off for Real:She gets shot by Claudia and dies in the fire at the end of Season 1.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cristal Jennings",
+      "media_title": "Dynasty",
+      "tropes": [
+        "ReplacementGoldfish",
+        "TheRealRemingtonSteele"
+      ],
+      "description": "The nurse from whom Cristal Flores took her name, who makes her debut in Season 2. The Real Remington Steele:She's therealCristal, from whom Celia got her name. Replacement Goldfish: Blake tries to use her as a substitute for Cristal Flores after he meets her. She realizes this, and calls him out on it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Thomas Carrington",
+      "media_title": "Dynasty",
+      "tropes": [
+        "RacistGrandpa",
+        "JerkWithAHeartOfGold",
+        "Jerkass",
+        "VideoWill"
+      ],
+      "description": "Blake's father, Fallon and Steven's grandfather, and the former CEO of Carrington Atlantic. He, unfortunately, doesn't get along well with Blake. Jerkass: He's racist and dismissive of Blake and his family. Jerk with a Heart of Gold: As he reveals in hisVideo Will, he still loves his son, despite never getting along. Racist Grandpa: Compared to Blake, who grew up in more-recent times, Thomas is racist towards Cristal and her family and homophobic towards Sam. Video Will: Leaves one for Blake to find, hidden inside one of his books.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Alexis Carrington",
+      "media_title": "Dynasty",
+      "tropes": [
+        "MockMillionaire",
+        "PutOnABus",
+        "AdaptationalEarlyAppearance",
+        "GoldDigger",
+        "MagnificentBastard",
+        "MagicPlasticSurgery",
+        "ManipulativeBitch",
+        "ConMan",
+        "TheDreaded",
+        "MamaBear",
+        "LoopholeAbuse"
+      ],
+      "description": "Blake's ex-wife and Fallon and Steven's mother, long absent from the family. She returns after his father's death and shocks everyone by inheriting the family manor and thus getting back into their lives. Adaptational Early Appearance: In the original series, Alexis didn't appear on screen until the second season. In this show, she appears in the sixteenth episode of the first season. Con Woman: She's actually in cahoots with Adam (actually her lover, Hank) in order to gain control of the Carrington fortune. The Dreaded: She's introduced with her stylishly walking into the chapel for Tom's funeral, leading to her entire family reacting in horror. More than that, from the moment she sets foot inside the church, \"Dies Irae\" begins playing and a cross is seen trembling, and eventually dislodging from a wall. Yes, even God Himself is terrified of this bitch. Gold Digger: It's heavily implied that her main interest is money, hence the reason she married Blake, and why she's trying to reconnect with her children.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Monica Colby",
+      "media_title": "Dynasty",
+      "tropes": [
+        "WeUsedToBeFriends",
+        "RichBitch",
+        "WhatTheHellHero",
+        "NouveauRiche",
+        "Foil"
+      ],
+      "description": "Jeff's sister, and an old friend of Fallon's. Foil: To Fallon. Monica is from aNouveau Richebackground and relied on scholarships to attend the expensive school where they first became friends, and appears more grounded and snarky towards Fallon's elitist and entitled tendencies.By the season one finale, it seems that she's become just as bad as Fallon, if not worse. Rich Bitch: Although originally she acted as aFoilto Fallon's more self-centred and materialistic tendencies, Monica admits in the season one finale that she actually really likes money. We Used to Be Friends: Has several fights with Fallon, especially after Fallon starts dating Jeff and Monica goes after Culhane. They make up once or twice, but their friendship appears to be ruined permanently onceFallon finds out that Monica was helping Jeff in his plan to bring her family down. What the Hell, Hero?: She eventually becomes concerned over the lengths Jeff is willing to go to get revenge, culminating with her temporarily abandoning Jeff and moving their father out of Jeff's house.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Claudia Blaisdel",
+      "media_title": "Dynasty",
+      "tropes": [
+        "NeverMyFault",
+        "ObfuscatingDisability",
+        "WomanScorned",
+        "JustifiedTrope"
+      ],
+      "description": "Matthew Blaisdel's wife, who suffers from brain injuries following a car accident, and eventually gets caught up in the Carrington's affairs. Never My Fault: When she reveals thatshe killed her own husband, she blames it all on the Carringtons ruining her life and it's all their doing.Justifiedas in episode 21 it's revealed that everything, including Matthew's murder, was a lie.And then unjustified in episode 22 as it's revealed that Matthew actuallyisdead and she was hallucinating his survival. Obfuscating Disability: It turns out she was faking her brain injury to make sure her husband never left her. When Fallon asks why she would keep it up after his death, everyone realizes how \"no one's going to suspect the brain-damaged widow.\" Woman Scorned:She killed Matthew after she found out he was having an affair with Cristal.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Iris Machado",
+      "media_title": "Dynasty",
+      "tropes": [
+        "BitchInSheepsClothing",
+        "TheDogBitesBack",
+        "HonorThyAbuser"
+      ],
+      "description": "Cristal's sister, and Sam's mother. She remained in Venezuela after Cristal left for the United States. Bitch in Sheep's Clothing: She initially appears to want to reunite with Cristal, but it's eventually revealed it was all part of an extortion plot. The Dog Bites Back: She's the one who finallykills Alejandroafter the latter attacks Cristal. Honor Thy Abuser: Despite Alejandro's abuse, she stays with him and does his bidding. Cristal calls her out on this, and she eventually realizes it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Alejandro Raya",
+      "media_title": "Dynasty",
+      "tropes": [
+        "InTheBack",
+        "DomesticAbuse",
+        "AssholeVictim",
+        "NotQuiteDead",
+        "WouldHitAGirl",
+        "HateSink"
+      ],
+      "description": "Iris' husband and Sam's father. Asshole Victim: Is killed by Iris when he tries to strangle Cristal. No one is particularly upset at his passing. Domestic Abuse: From what we see of his past, he was extremely abusive to both Iris and Cristal. Hate Sink: He's physically abusive, manipulative, and has no redeeming traits. In the Back: How he goes out in both of his appearances: first stabbed by Cristal, thenshot by Iris.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Hank Sullivan",
+      "media_title": "Dynasty",
+      "tropes": [
+        "FingerInTheMail",
+        "OnlyInItForTheMoney",
+        "ConMan",
+        "SpannerInTheWorks",
+        "TooDumbToLive",
+        "LongLostRelative",
+        "Fingore"
+      ],
+      "description": "The Carrington's long-lost firstborn son, who was kidnapped as a baby. Alexis spent her fortune trying to find him, and Steven manages to track him down in Mexico and bring him back home. Con Man:He's actually Alexis' lover, posing as Adam in a plan to gain part of the Carrington fortune. Finger in the Mail: The kidnappers cut off one of his fingers when they took him as a baby, which is what convinces Blake that he really is Adam.He actually cut it off himself as part of the scam. Fingore: His kidnappers apparently cut off one of his fingers as a threat to Blake.He actually cut it off himself. Long-Lost Relative: Is the firstborn Carrington, kidnapped as a child and raised by his kidnappers as \"John Miller\".Except he's not actually Adam, and is part of Alexis' plan to take the Carrington fortune.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Liam Ridley",
+      "media_title": "Dynasty",
+      "tropes": [
+        "SecretlyWealthy",
+        "GivenNameReveal",
+        "BreakoutCharacter",
+        "MarriageOfConvenience",
+        "BigScrewedUpFamily",
+        "SupremeChef"
+      ],
+      "description": "Liam Ridley first appears in \"Our Turn Now\", supposedly as Sam's date to Fallon's \"wedding\". He's eventually revealed, however, to beher husband, whom she married the day before after meeting him outside the courthousein order to avoid getting married to Jeff. Big, Screwed-Up Family:It's eventually revealed he changed his name and ran away to escape his dysfunctional family. Breakout Character: He was only needed to fulfill a specific plot point relatively early in the show's run, but his chemistry with Fallon made him popular enough to stick around to the end. Given Name Reveal: His name is eventually revealed to beJack Liam Ridley-Lowden. Marriage of Convenience: Fallon paid him to marry her in order to avoid marrying Jeff, but at the same time gain some of Jeff's corporate assets.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kirby Anders",
+      "media_title": "Dynasty",
+      "tropes": [
+        "EnfantTerrible",
+        "LongLostRelative"
+      ],
+      "description": "Anders' estranged daughter, recently arrived from Australia. Enfant Terrible: According to the other characters, she was an insane child, scaring Fallon and apparently setting her room on fire. Long-Lost Relative: It's revealed thatdue to Anders' affair with Alexis producing Steven, she's actually a half-sister to Steven.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ada Stone",
+      "media_title": "Dynasty",
+      "tropes": [
+        "ManipulativeBitch"
+      ],
+      "description": "An antiquities dealer and criminal mastermind who blackmails Culhane into working for her. Manipulative Bitch: She forces Culhane to work for her by threatening to release compromising information about Fallon.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 30
+  "character_count": 45
 }

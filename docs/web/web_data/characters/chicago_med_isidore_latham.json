@@ -1,16 +1,1 @@
-{
-  "name": "Isidore Latham",
-  "show": "Chicago Med",
-  "trope_count": 8,
-  "tropes": [
-    "CunningLinguist",
-    "HollywoodAutism",
-    "CommutingOnABus",
-    "BunnyEarsLawyer",
-    "TwoferTokenMinority",
-    "HiddenDepths",
-    "SeriousBusiness",
-    "HairTriggerTemper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Isidore Latham", "show": "Chicago Med", "trope_count": 8, "tropes": ["CunningLinguist", "HollywoodAutism", "CommutingOnABus", "BunnyEarsLawyer", "TwoferTokenMinority", "HiddenDepths", "SeriousBusiness", "HairTriggerTemper"], "tropes_by_category": {}, "similar": [{"name": "The Doctors", "show": "Mindy Project, The", "id": "mindy_project_the_the_doctors", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Gina Linetti", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_gina_linetti", "similarity": 0.0476, "shared_tropes": 4}]}

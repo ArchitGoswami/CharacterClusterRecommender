@@ -1,18 +1,1 @@
-{
-  "name": "Tendo King's Overseer",
-  "show": "Outlaw Star",
-  "trope_count": 10,
-  "tropes": [
-    "AlmightyJanitor",
-    "TooDumbToLive",
-    "UndyingLoyalty",
-    "VillainousValor",
-    "MouthOfSauron",
-    "PraetorianGuard",
-    "MookLieutenant",
-    "EvenEvilHasStandards",
-    "ALighterShadeOfBlack",
-    "HeKnowsTooMuch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tendo King's Overseer", "show": "Outlaw Star", "trope_count": 13, "tropes": ["ALighterShadeOfBlack", "DidntThinkThisThrough", "NobleDemon", "AlmightyJanitor", "UndyingLoyalty", "TheWorfEffect", "PraetorianGuard", "MookLieutenant", "MouthOfSauron", "TooDumbToLive", "EvenEvilHasStandards", "HeKnowsTooMuch", "VillainousValor"], "tropes_by_category": {}, "similar": [{"name": "As A Whole", "show": "Riverdale", "id": "riverdale_as_a_whole", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Patrick Simmons", "show": "Person of Interest", "id": "person_of_interest_patrick_simmons", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Juan Bolsa", "show": "Breaking Bad", "id": "breaking_bad_juan_bolsa", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Carl Elias", "show": "Person of Interest", "id": "person_of_interest_carl_elias", "similarity": 0.0444, "shared_tropes": 4}, {"name": "Butch Gilzean/Solomon Grundy", "show": "Gotham", "id": "gotham_butch_gilzean_solomon_grundy", "similarity": 0.044, "shared_tropes": 4}, {"name": "O'Reily", "show": "Oz", "id": "oz_o_reily", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Slug's Demon Clan", "show": "Dragon Ball Z", "id": "dragon_ball_z_slug_s_demon_clan", "similarity": 0.0385, "shared_tropes": 6}, {"name": "Commander Peepers", "show": "Wander Over Yonder", "id": "wander_over_yonder_commander_peepers", "similarity": 0.0377, "shared_tropes": 4}]}

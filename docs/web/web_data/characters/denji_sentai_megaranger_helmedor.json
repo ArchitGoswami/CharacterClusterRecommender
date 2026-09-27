@@ -1,16 +1,1 @@
-{
-  "name": "Helmedor",
-  "show": "Denji Sentai Megaranger",
-  "trope_count": 8,
-  "tropes": [
-    "BigBadWannabe",
-    "AssholeVictim",
-    "DesignPreservationVillain",
-    "AllBikersAreHellsAngels",
-    "TheStarscream",
-    "OmnicidalManiac",
-    "MakeMyMonsterGrow",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Helmedor", "show": "Denji Sentai Megaranger", "trope_count": 8, "tropes": ["BigBadWannabe", "AssholeVictim", "DesignPreservationVillain", "AllBikersAreHellsAngels", "TheStarscream", "OmnicidalManiac", "MakeMyMonsterGrow", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Brain / Zero", "show": "Fairy Tail", "id": "fairy_tail_brain_zero", "similarity": 0.0388, "shared_tropes": 5}]}

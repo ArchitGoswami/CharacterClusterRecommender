@@ -339,20 +339,21 @@
       "name": "Killamari",
       "media_title": "Street Sharks",
       "tropes": [
-        "DeadpanSnarker",
+        "NamesToRunAwayFromReallyFast",
+        "MonsterModesty",
+        "UpliftedAnimal",
+        "UndyingLoyalty",
+        "MoreTeethThanTheOsmondFamily",
         "ChuckCunninghamSyndrome",
         "BecomeARealBoy",
-        "UpliftedAnimal",
-        "MightyRoar",
-        "MultiArmedAndDangerous",
-        "AxCrazy",
-        "NamesToRunAwayFromReallyFast",
-        "TentacledTerror",
         "TheDragon",
-        "MoreTeethThanTheOsmondFamily",
+        "DeadpanSnarker",
+        "SpikeShooter",
+        "MultiArmedAndDangerous",
         "TheBerserker",
-        "MonsterModesty",
-        "SpikeShooter"
+        "MightyRoar",
+        "TentacledTerror",
+        "AxCrazy"
       ],
       "description": "A squid captured off the coast of the Great Barrier Reef, Killamari is the most aggressive of the Seaviates and has a rivalry with Slash. Ax-Crazy: Is the most aggressive of the Seaviates. Become a Real Boy: The episode \"To Shark or Not To Shark\" has him express the desire to become fully human via the gene-slamming reversal serum Paradigm has invented. Paradigm shoots this down when he reminds Killamari that he was originally a squid, so reversing the gene-slamming wouldn't give him the results he desired. The Berserker: Occasionally lapses into rages where not even Paradigm can control him. Chuck Cunningham Syndrome: He and Repteel vanish from the series after \"Turbo Sharks\" (the next-to-last episode of season 2).",
       "source": "tvtropes"
@@ -484,7 +485,43 @@
       ],
       "description": "A police detective assigned to investigate the disappearance of Dr. Bolton and his sons, and subsequently to investigate the Street Sharks. He acknowledges the Sharks are not the villains the media portrays them to be, and is suspicious of Paradigm, but continues to hunt them nevertheless. By-the-Book Cop: He follows the rules, even if it means having to chase the Sharks after he no longer believes them to actually be criminals. Chuck Cunningham Syndrome: After season 1's finale, he vanishes from the series. Inspector Javert: Averted. He only pursues the Sharks out of duty, and is suspicious of Paradigm. Lemming Cops: He and the rest of the police force are the victims of frequent traffic accidents while chasing the Sharks.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Dino-Vengers General",
+      "media_title": "Street Sharks",
+      "tropes": [
+        "EvolutionaryLevels",
+        "SpacePirate",
+        "BioAugmentation"
+      ],
+      "description": "A team for four extraterrestrial vigilantes who come to Earth in pursuit of the wicked Raptors, a band ofSpace Pirateswho ravaged their homeworld. Genetically modified to imbue them with heightened physical prowess, they become allies with the Street Sharks. Bio-Augmentation: The Dino-Vengers underwent genetic modifications to gain the sheer brute strength needed to battle the Raptors. Evolutionary Levels: Unusually, the Dino-Vengers needed tode-evolve themselves, as their racial evolution into a highly advanced society had left them too physically weak and mentally docile to properly stand up to the aggression of the Raptors.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mechosharks",
+      "media_title": "Street Sharks",
+      "tropes": [
+        "CallBack",
+        "RememberTheNewGuy",
+        "MechaMooks",
+        "ConservationOfNinjutsu"
+      ],
+      "description": "Conservation of Ninjutsu: Inverted, while the Street Sharks can deal with a few of them, in large enough numbers they can overwhelm them. Mecha-Mooks: They're robotic sharks with better A.I. than most robots used for this purpose. They're still no match for the Street Sharks though. Remember the New Guy?: Despite only appearing in the two episodes featuring the future Dr. Piranoid, the Street Sharks act as though they faced less advanced versions of them before, a possibleCall-Backto theSharkBotfrom previous episodes.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Raptors General",
+      "media_title": "Street Sharks",
+      "tropes": [
+        "HollywoodCyborg",
+        "MusclesAreMeaningless",
+        "LeanAndMean",
+        "SpacePirates",
+        "RaptorAttack"
+      ],
+      "description": "A trio of spacefaring marauders and bandits that come to Earth seeking plunder and pillage, displacing Dr. Piranoid as the main antagonist faced by the Street Sharks in the final season. Hollywood Cyborg: All three of them seem to have some level of cybernetic modifications. Bad Rap has metallic bracing around his jaws and is implied to have replaced his arm with a weapon. Spittor has an acid-dispensing spray installed inside his throat. Haxx has laser blade generators on his wrists and a blade-covered mechanical tail that can rotate like a drill. Lean and Mean: Compared to the hulking, musclebound Street Sharks and Dino-Vengers, the Raptors have a lean, sinewy body style, and they're an unrepentant crew of villains. Muscles Are Meaningless: Zigzagged. The Raptors have a very slender design compared to the Sharks and Dino-Vengers, and don't tend to fare too well against them in a physical match, but they're still portrayed as beingmuchstronger than regular humans. They were so much of a threat to the Dino-Vengers' homeworld that the Dino-Vengers actually underwent genetic modifications to be strong enough to fight them back. Raptor Attack: All three Raptors are anthropomorphic dinosaurs based on the \"Jurassic Park\" style of Raptor; ferocious, scaly monsters. They're ruthless marauders who terrorize planets, having attacked the homeworld of the Dino-Vengers repeatedly before setting their sights on Earth.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 29
+  "character_count": 32
 }

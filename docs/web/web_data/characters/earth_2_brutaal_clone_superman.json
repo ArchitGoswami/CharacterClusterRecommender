@@ -1,17 +1,1 @@
-{
-  "name": "Brutaal(Clone Superman)",
-  "show": "Earth 2",
-  "trope_count": 9,
-  "tropes": [
-    "EvilKnockoff",
-    "MythologyGag",
-    "EyeBeams",
-    "BewareTheSuperman",
-    "BigBad",
-    "TheDreaded",
-    "TheDragon",
-    "SuperPersistentMissile",
-    "RedAndBlackAndEvilAllOver"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Brutaal(Clone Superman)", "show": "Earth 2", "trope_count": 9, "tropes": ["EvilKnockoff", "MythologyGag", "EyeBeams", "BewareTheSuperman", "BigBad", "TheDreaded", "TheDragon", "SuperPersistentMissile", "RedAndBlackAndEvilAllOver"], "tropes_by_category": {}, "similar": [{"name": "Adrian Toomes / The Vulture", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_adrian_toomes_the_vulture", "similarity": 0.093, "shared_tropes": 4}, {"name": "Vaatu", "show": "Legend of Korra, The", "id": "legend_of_korra_the_vaatu", "similarity": 0.0424, "shared_tropes": 5}, {"name": "The Homelander", "show": "Boys, The", "id": "boys_the_the_homelander", "similarity": 0.0408, "shared_tropes": 4}, {"name": "The Homelander", "show": "The Boys", "id": "the_boys_the_homelander", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Brainiac", "show": "Smallville", "id": "smallville_brainiac", "similarity": 0.0404, "shared_tropes": 4}]}

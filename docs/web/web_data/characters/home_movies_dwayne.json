@@ -1,18 +1,1 @@
-{
-  "name": "Dwayne",
-  "show": "Home Movies",
-  "trope_count": 10,
-  "tropes": [
-    "HulkSpeak",
-    "InconsistentSpelling",
-    "EyesOutOfSight",
-    "ShipTease",
-    "OnlyOneName",
-    "GarageBand",
-    "BookDumb",
-    "IntergenerationalFriendship",
-    "Cloudcuckoolander",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dwayne", "show": "Home Movies", "trope_count": 10, "tropes": ["HulkSpeak", "InconsistentSpelling", "EyesOutOfSight", "ShipTease", "OnlyOneName", "GarageBand", "BookDumb", "IntergenerationalFriendship", "Cloudcuckoolander", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Stacy Hirano", "show": "Phineas and Ferb", "id": "phineas_and_ferb_stacy_hirano", "similarity": 0.0635, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Commander Amar Kahn",
-  "show": "Earth 2",
-  "trope_count": 6,
-  "tropes": [
-    "DeadpanSnarker",
-    "FallenHero",
-    "TheChessmaster",
-    "BigGood",
-    "OfficerAndAGentleman",
-    "OnlySaneMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Commander Amar Kahn", "show": "Earth 2", "trope_count": 6, "tropes": ["DeadpanSnarker", "FallenHero", "TheChessmaster", "BigGood", "OfficerAndAGentleman", "OnlySaneMan"], "tropes_by_category": {}, "similar": [{"name": "Mr. Chang", "show": "Black Lagoon", "id": "black_lagoon_mr_chang", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Nathaniel Barnes", "show": "Gotham", "id": "gotham_nathaniel_barnes", "similarity": 0.0476, "shared_tropes": 4}]}

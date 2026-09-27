@@ -1,17 +1,1 @@
-{
-  "name": "Doug Secksay",
-  "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 9,
-  "tropes": [
-    "BigManOnCampus",
-    "ChickMagnet",
-    "ChuckCunninghamSyndrome",
-    "CrazyJealousGuy",
-    "TotallyRadical",
-    "HiddenDepths",
-    "TheFaceless",
-    "DashingHispanic",
-    "CharacterizationMarchesOn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doug Secksay", "show": "Ned's Declassified School Survival Guide", "trope_count": 9, "tropes": ["BigManOnCampus", "ChickMagnet", "ChuckCunninghamSyndrome", "CrazyJealousGuy", "TotallyRadical", "HiddenDepths", "TheFaceless", "DashingHispanic", "CharacterizationMarchesOn"], "tropes_by_category": {}, "similar": [{"name": "Ethan Craft", "show": "Lizzie McGuire", "id": "lizzie_mcguire_ethan_craft", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Arthur P. \"Spud\" Spudinski", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_arthur_p_spud_spudinski", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Will Smith", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_will_smith", "similarity": 0.041, "shared_tropes": 5}]}

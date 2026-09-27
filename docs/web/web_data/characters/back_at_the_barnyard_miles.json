@@ -1,13 +1,1 @@
-{
-  "name": "Miles",
-  "show": "Back at the Barnyard",
-  "trope_count": 5,
-  "tropes": [
-    "CoolOldGuy",
-    "DeadpanSnarker",
-    "BewareTheQuietOnes",
-    "NiceGuy",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Miles", "show": "Back at the Barnyard", "trope_count": 8, "tropes": ["BewareTheQuietOnes", "CoolOldGuy", "PunctuatedForEmphasis", "DeadpanSnarker", "WhatTheHellHero", "NiceGuy", "ParentalSubstitute", "RuleOfThree"], "tropes_by_category": {}, "similar": [{"name": "Adam Schiff", "show": "Law & Order", "id": "law_and_order_adam_schiff", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Leo Chingkwake", "show": "That '70s Show", "id": "that_70s_show_leo_chingkwake", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Charlie", "show": "Lost", "id": "lost_charlie", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Myrtle Snow", "show": "American Horror Story", "id": "american_horror_story_myrtle_snow", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Lester Freamon", "show": "The Wire", "id": "the_wire_lester_freamon", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Lester Freamon", "show": "Wire, The", "id": "wire_the_lester_freamon", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Alfred Pennyworth", "show": "The Dark Knight", "id": "the_dark_knight_alfred_pennyworth", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Delta", "show": "Red vs Blue", "id": "red_vs_blue_delta", "similarity": 0.0816, "shared_tropes": 4}]}

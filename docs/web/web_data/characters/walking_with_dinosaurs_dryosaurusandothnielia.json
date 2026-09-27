@@ -1,17 +1,1 @@
-{
-  "name": "DryosaurusandOthnielia",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 9,
-  "tropes": [
-    "SocialOrnithopod",
-    "ThoseTwoGuys",
-    "PaletteSwap",
-    "LivingProp",
-    "KillItWithFire",
-    "FragileSpeedster",
-    "MonsterMunch",
-    "UnwittingInstigatorOfDoom",
-    "DeusExMachina"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "DryosaurusandOthnielia", "show": "Walking with Dinosaurs", "trope_count": 9, "tropes": ["SocialOrnithopod", "ThoseTwoGuys", "PaletteSwap", "LivingProp", "KillItWithFire", "FragileSpeedster", "MonsterMunch", "UnwittingInstigatorOfDoom", "DeusExMachina"], "tropes_by_category": {}, "similar": [{"name": "Small Ornithopod", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_small_ornithopod", "similarity": 0.4, "shared_tropes": 4}, {"name": "Iguanodon", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_iguanodon", "similarity": 0.2857, "shared_tropes": 4}, {"name": "Muttaburrasaurus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_muttaburrasaurus", "similarity": 0.25, "shared_tropes": 4}, {"name": "Leaellynasaura", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_leaellynasaura", "similarity": 0.125, "shared_tropes": 4}]}

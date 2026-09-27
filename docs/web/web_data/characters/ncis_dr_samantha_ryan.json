@@ -1,15 +1,1 @@
-{
-  "name": "Dr. Samantha Ryan",
-  "show": "NCIS",
-  "trope_count": 7,
-  "tropes": [
-    "WorthyOpponent",
-    "WhatTheHellHero",
-    "KickTheDog",
-    "BelligerentSexualTension",
-    "JurisdictionFriction",
-    "Hypocrite",
-    "RiddleMeThis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Samantha Ryan", "show": "NCIS", "trope_count": 7, "tropes": ["WorthyOpponent", "WhatTheHellHero", "KickTheDog", "BelligerentSexualTension", "JurisdictionFriction", "Hypocrite", "RiddleMeThis"], "tropes_by_category": {}, "similar": [{"name": "McManus", "show": "Oz", "id": "oz_mcmanus", "similarity": 0.0909, "shared_tropes": 4}, {"name": "JackMcCoy", "show": "Law & Order", "id": "law_and_order_jackmccoy", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Dan Humphrey", "show": "Gossip Girl", "id": "gossip_girl_dan_humphrey", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Lady Catelyn \"Cat\" Stark, née Tully", "show": "Game of Thrones", "id": "game_of_thrones_lady_catelyn_cat_stark_n_e_tully", "similarity": 0.0392, "shared_tropes": 4}]}

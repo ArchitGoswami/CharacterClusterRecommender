@@ -1,14 +1,1 @@
-{
-  "name": "Victor Hesse",
-  "show": "Hawaii Five-0",
-  "trope_count": 6,
-  "tropes": [
-    "BigBad",
-    "EvenEvilHasLovedOnes",
-    "AllForNothing",
-    "ItsPersonal",
-    "DiscOneFinalBoss",
-    "YouHaveFailedMe"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Victor Hesse", "show": "Hawaii Five-0", "trope_count": 6, "tropes": ["BigBad", "EvenEvilHasLovedOnes", "AllForNothing", "ItsPersonal", "DiscOneFinalBoss", "YouHaveFailedMe"], "tropes_by_category": {}, "similar": [{"name": "\"Command\"/Rowan/Eli Pope", "show": "Scandal", "id": "scandal_command_rowan_eli_pope", "similarity": 0.1, "shared_tropes": 4}, {"name": "Sofia Falcone", "show": "Gotham", "id": "gotham_sofia_falcone", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Earl Haraldson", "show": "Vikings", "id": "vikings_earl_haraldson", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Salvatore \"Big Pussy\" Bonpensiero", "show": "Sopranos,The", "id": "sopranosthe_salvatore_big_pussy_bonpensiero", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Salvatore \"Big Pussy\" Bonpensiero", "show": "The Sopranos", "id": "the_sopranos_salvatore_big_pussy_bonpensiero", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Cayden James", "show": "Arrow", "id": "arrow_cayden_james", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Daryl", "show": "Justified", "id": "justified_daryl", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Quintus Lentulus Batiatus", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_quintus_lentulus_batiatus", "similarity": 0.0465, "shared_tropes": 4}]}

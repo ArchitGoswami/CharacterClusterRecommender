@@ -1,17 +1,1 @@
-{
-  "name": "Dottie Lasso",
-  "show": "Ted Lasso",
-  "trope_count": 9,
-  "tropes": [
-    "AmazinglyEmbarrassingParents",
-    "WhatTheHellHero",
-    "LikeParentLikeChild",
-    "TallTale",
-    "StepfordSmiler",
-    "CallingTheOldManOut",
-    "GenerationXerox",
-    "ParentsAsPeople",
-    "CoolOldLady"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dottie Lasso", "show": "Ted Lasso", "trope_count": 9, "tropes": ["AmazinglyEmbarrassingParents", "WhatTheHellHero", "LikeParentLikeChild", "TallTale", "StepfordSmiler", "CallingTheOldManOut", "GenerationXerox", "ParentsAsPeople", "CoolOldLady"], "tropes_by_category": {}, "similar": [{"name": "Jed Bartlet, President of the United States", "show": "West Wing, The", "id": "west_wing_the_jed_bartlet_president_of_the_united_states", "similarity": 0.0385, "shared_tropes": 4}]}

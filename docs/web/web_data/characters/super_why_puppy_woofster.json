@@ -1,18 +1,1 @@
-{
-  "name": "Puppy/Woofster",
-  "show": "Super Why!",
-  "trope_count": 10,
-  "tropes": [
-    "ADogNamedDog",
-    "FemaleFelineMaleMutt",
-    "BlondeBrunetteRedhead",
-    "SuddenlySpeaking",
-    "HairOfGoldHeartOfGold",
-    "PutOnABus",
-    "TeamPet",
-    "TheSmartGuy",
-    "TheCameo",
-    "PreciousPuppy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Puppy/Woofster", "show": "Super Why!", "trope_count": 13, "tropes": ["FemaleFelineMaleMutt", "NiceGuy", "BlondeBrunetteRedhead", "PreciousPuppy", "PutOnABus", "TheSmartGuy", "TeamPet", "EmpathyPet", "HairOfGoldHeartOfGold", "InnocentBlueEyes", "SuddenlySpeaking", "ADogNamedDog", "TheCameo"], "tropes_by_category": {}, "similar": [{"name": "Tweety Bird", "show": "Baby Looney Tunes", "id": "baby_looney_tunes_tweety_bird", "similarity": 0.16, "shared_tropes": 4}, {"name": "Sparky", "show": "Chip 'n Dale Rescue Rangers", "id": "chip_n_dale_rescue_rangers_sparky", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Protagonists", "show": "Butterbean's Cafe", "id": "butterbeans_cafe_protagonists", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Rickert", "show": "Berserk", "id": "berserk_rickert", "similarity": 0.058, "shared_tropes": 4}, {"name": "From the \"real\" universe", "show": "Fushigi Yuugi", "id": "fushigi_yuugi_from_the_real_universe", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Scrappy-Doo", "show": "Scooby-Doo", "id": "scooby_doo_scrappy_doo", "similarity": 0.0413, "shared_tropes": 5}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0354, "shared_tropes": 4}]}

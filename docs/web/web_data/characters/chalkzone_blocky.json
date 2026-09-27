@@ -1,15 +1,1 @@
-{
-  "name": "Blocky",
-  "show": "ChalkZone",
-  "trope_count": 7,
-  "tropes": [
-    "AnnoyingYoungerSibling",
-    "AmbiguouslyRelated",
-    "TheDitz",
-    "SimpletonVoice",
-    "PaperPeople",
-    "Cephalothorax",
-    "KindheartedSimpleton"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Blocky", "show": "ChalkZone", "trope_count": 7, "tropes": ["AnnoyingYoungerSibling", "AmbiguouslyRelated", "TheDitz", "SimpletonVoice", "PaperPeople", "Cephalothorax", "KindheartedSimpleton"], "tropes_by_category": {}, "similar": []}

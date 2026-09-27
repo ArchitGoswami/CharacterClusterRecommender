@@ -293,17 +293,19 @@
       "name": "Starlite",
       "media_title": "Rainbow Brite",
       "tropes": [
-        "LockedIntoStrangeness",
         "AmazingTechnicolorWildlife",
-        "JerkWithAHeartOfGold",
-        "CoolHorse",
-        "Catchphrase",
-        "SmallNameBigEgo",
         "TalkingAnimal",
+        "JerkWithAHeartOfGold",
+        "InsistentTerminology",
+        "SmallNameBigEgo",
+        "CoolHorse",
+        "AwesomeEgo",
+        "LockedIntoStrangeness",
         "SapientSteed",
-        "InsistentTerminology"
+        "Catchphrase",
+        "WhiteStallion"
       ],
-      "description": "Amazing Technicolor Wildlife: His fur is white but his hair is rainbow-colored. Catchphrase: He'll take any chance he gets to claim he is the \"most magnificent horse in the universe\". Cool Horse: He certainly believes so and constantly brags about it. He can fly and talk. Insistent Terminology: His 2014 incarnation is a \"verbose stallion\",nota \"talking horse\". Jerk with a Heart of Gold: Not necessarily a \"jerk\" but very pompous, self-absorbed, and a braggart. But he'll endanger himself without a second thought to help Rainbow Brite.",
+      "description": "Amazing Technicolor Wildlife: His fur is white but his hair is rainbow-colored and his hooves are golden. Catchphrase: He'll take any chance he gets to claim he is the \"most magnificent horse in the universe\". Cool Horse: He certainly believes so and constantly brags about it. To be fair,he can fly and talk. Insistent Terminology: His 2014 incarnation is a \"verbose stallion\",nota \"talking horse\". Jerk with a Heart of Gold: Not necessarily a \"jerk\" but very pompous, self-absorbed, and a braggart. But he'll endanger himself without a second thought to help Rainbow Brite.",
       "source": "tvtropes"
     },
     {
@@ -391,24 +393,25 @@
       "name": "The King of Shadows",
       "media_title": "Rainbow Brite",
       "tropes": [
-        "YellowEyesOfSneakiness",
-        "CastingAShadow",
-        "KilledOffForReal",
-        "StarterVillain",
         "GreaterScopeVillain",
-        "NoBodyLeftBehind",
-        "YouKnowTheOne",
-        "BigBad",
-        "DarkIsEvil",
-        "InTheHood",
-        "WouldHurtAChild",
-        "ShockAndAwe",
+        "KilledOffForReal",
         "VileVillainSaccharineShow",
+        "NoBodyLeftBehind",
+        "PurpleIsImpure",
+        "BigBad",
         "EmptyPilesOfClothing",
+        "DarkIsEvil",
+        "CastingAShadow",
+        "GlowingEyesOfDoom",
+        "YellowEyesOfSneakiness",
         "DragonAscendant",
-        "GlowingEyesOfDoom"
+        "InTheHood",
+        "ShockAndAwe",
+        "StarterVillain",
+        "YouKnowTheOne",
+        "WouldHurtAChild"
       ],
-      "description": "Big Bad: For the 2-part TV special \"The Beginning of Rainbow Land\", and the 2018 comic book series. Casting a Shadow: He has powers over darkness. Dark Is Evil: He has shadow powers, and is evil. Empty Piles of Clothing: The King of Shadows vanishes with just his cloak behind when Rainbow Brite puts an end to his reign of terror. Glowing Eyes of Doom: The King of Shadows only has his glowing eyes and hands visible. Oh, and the former glow yellow, which also makes himYellow Eyes of Sneakiness, except in the SNES game, though, where his eyes are white.",
+      "description": "Big Bad: For the 2-part TV special \"The Beginning of Rainbow Land\", and the 2018 comic book series. Casting a Shadow: He has powers over darkness. Dark Is Evil: He has shadow powers, and is evil. Empty Piles of Clothing: The King of Shadows vanishes with just his cloak being left behind when Rainbow Brite puts an end to his reign of terror. Glowing Eyes of Doom: The King of Shadows only has his glowing eyes and hands visible. Oh, and the former glow yellow, which also makes himYellow Eyes of Sneakiness, except in the SNES game, though, where his eyes are white.",
       "source": "tvtropes"
     },
     {
@@ -549,7 +552,39 @@
       ],
       "description": "Mooks: They are large in number and serve as mere obstacles in the Color Kids' way. Dark Is Evil: Like their master, the Minions are shadowy figures who hate color. Green and Mean: All of them are green and incredibly aggressive.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Rainbow Brite",
+      "tropes": [
+        "MinorLivingAlone",
+        "Really700YearsOld",
+        "OlderThanTheyLook",
+        "ColorMotif",
+        "TheBabyOfTheBunch",
+        "KidHero",
+        "RememberTheNewGuy",
+        "PaintingTheFrostOnWindows",
+        "AdaptationNameChange",
+        "AmbiguouslyHuman",
+        "LogicalWeakness",
+        "ColorCodedForYourConvenience",
+        "ThereAreNoAdults",
+        "CutShort",
+        "VagueAge",
+        "DemotedToExtra",
+        "SixthRanger",
+        "OnlySixFaces",
+        "DubNameChange",
+        "PintSizedKid",
+        "MysteriousPast",
+        "AgeLift",
+        "WorldOfTechnicolorHair",
+        "ImmortalImmaturity"
+      ],
+      "description": "Adaptation Name Change: They’re called the \"Color Crew\" in the short-lived 1996 reboot, and the \"Color Guard\" in the 2018 comic series. Age Lift: Their ages have flipped between being little kids to teenagers. Ambiguously Human: Besides Rainbow Brite, it's ambiguous if the Color Kids are actually human. Nothing is known of their backstories, they're abnormally short, they have unnatural hair colors, it's never mentioned if their names are nicknames or not, and it's implied they're older than they seem. Color-Coded for Your Convenience: Despite being named after their specific colors, all 7 (and later 8) color kids' outfits embody the color they represent. Demoted to Extra: Apart from Rainbow Brite and Red Butler, most of the Color Kids were reduced to this in the 2014 reboot. The 2018 comics don’t even have a majority of them appear aside from Red and Patty, but this was due to the comic beingCut Shortbefore they could debut.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 26
+  "character_count": 27
 }

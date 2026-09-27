@@ -1,18 +1,1 @@
-{
-  "name": "The Pi-Rats",
-  "show": "Chip 'n Dale Rescue Rangers",
-  "trope_count": 10,
-  "tropes": [
-    "AffablyEvil",
-    "ThePiratesWhoDontDoAnything",
-    "PunchClockVillains",
-    "TheSmurfettePrinciple",
-    "FriendlyPirate",
-    "TalkLikeAPirate",
-    "APirate400YearsTooLate",
-    "Justifiedtrope",
-    "RuthlessModernPirates",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Pi-Rats", "show": "Chip 'n Dale Rescue Rangers", "trope_count": 10, "tropes": ["AffablyEvil", "ThePiratesWhoDontDoAnything", "PunchClockVillains", "TheSmurfettePrinciple", "FriendlyPirate", "TalkLikeAPirate", "APirate400YearsTooLate", "Justifiedtrope", "RuthlessModernPirates", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Patchy the Pirate", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_patchy_the_pirate", "similarity": 0.1081, "shared_tropes": 4}]}

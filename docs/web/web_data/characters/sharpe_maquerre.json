@@ -1,14 +1,1 @@
-{
-  "name": "Maquerre",
-  "show": "Sharpe",
-  "trope_count": 6,
-  "tropes": [
-    "InTheBack",
-    "ManipulativeBastard",
-    "EvenEvilHasLovedOnes",
-    "FalseFriend",
-    "NamedByTheAdaptation",
-    "InSeriesNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Maquerre", "show": "Sharpe", "trope_count": 6, "tropes": ["InTheBack", "ManipulativeBastard", "EvenEvilHasLovedOnes", "FalseFriend", "NamedByTheAdaptation", "InSeriesNickname"], "tropes_by_category": {}, "similar": []}

@@ -1,12 +1,1 @@
-{
-  "name": "Lisa Asparagus",
-  "show": "VeggieTales",
-  "trope_count": 4,
-  "tropes": [
-    "EarlyInstallmentWeirdness",
-    "UnnamedParent",
-    "HappilyMarried",
-    "GoodParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lisa Asparagus", "show": "VeggieTales", "trope_count": 4, "tropes": ["EarlyInstallmentWeirdness", "UnnamedParent", "HappilyMarried", "GoodParents"], "tropes_by_category": {}, "similar": [{"name": "Lisa Asparagus", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_lisa_asparagus", "similarity": 1.0, "shared_tropes": 4}]}

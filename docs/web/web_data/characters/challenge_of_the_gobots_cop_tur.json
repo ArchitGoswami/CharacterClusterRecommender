@@ -1,16 +1,1 @@
-{
-  "name": "Cop-Tur",
-  "show": "Challenge of the GoBots",
-  "trope_count": 8,
-  "tropes": [
-    "Catchphrase",
-    "DumbMuscle",
-    "EvilSoundsDeep",
-    "FuumaShuriken",
-    "EarlyInstallmentWeirdness",
-    "CoDragons",
-    "TheStarscream",
-    "VillainousFriendship"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cop-Tur", "show": "Challenge of the GoBots", "trope_count": 8, "tropes": ["Catchphrase", "DumbMuscle", "EvilSoundsDeep", "FuumaShuriken", "EarlyInstallmentWeirdness", "CoDragons", "TheStarscream", "VillainousFriendship"], "tropes_by_category": {}, "similar": [{"name": "Jimmy", "show": "Justified", "id": "justified_jimmy", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Alex O'Hirn / The Rhino", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_alex_o_hirn_the_rhino", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Inferno", "show": "Beast Wars", "id": "beast_wars_inferno", "similarity": 0.0714, "shared_tropes": 6}, {"name": "Zuul and Vinz Clortho", "show": "Ghostbusters", "id": "ghostbusters_zuul_and_vinz_clortho", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Lugnut", "show": "Transformers Animated", "id": "transformers_animated_lugnut", "similarity": 0.0656, "shared_tropes": 4}, {"name": "John \"Johnny Sack\" Sacrimoni", "show": "Sopranos,The", "id": "sopranosthe_john_johnny_sack_sacrimoni", "similarity": 0.044, "shared_tropes": 4}, {"name": "John \"Johnny Sack\" Sacrimoni", "show": "The Sopranos", "id": "the_sopranos_john_johnny_sack_sacrimoni", "similarity": 0.044, "shared_tropes": 4}, {"name": "Shockwave", "show": "Transformers Prime", "id": "transformers_prime_shockwave", "similarity": 0.037, "shared_tropes": 4}]}

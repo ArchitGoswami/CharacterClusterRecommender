@@ -1,16 +1,1 @@
-{
-  "name": "Orthos",
-  "show": "Hercules",
-  "trope_count": 8,
-  "tropes": [
-    "DietEpisode",
-    "BlueMeansCold",
-    "Revenge",
-    "TheUnFavorite",
-    "LazyBum",
-    "MultipleHeadCase",
-    "AdaptationSpeciesChange",
-    "Cyclops"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Orthos", "show": "Hercules", "trope_count": 8, "tropes": ["DietEpisode", "BlueMeansCold", "Revenge", "TheUnFavorite", "LazyBum", "MultipleHeadCase", "AdaptationSpeciesChange", "Cyclops"], "tropes_by_category": {}, "similar": []}

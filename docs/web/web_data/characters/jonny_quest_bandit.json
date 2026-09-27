@@ -1,17 +1,1 @@
-{
-  "name": "Bandit",
-  "show": "Jonny Quest",
-  "trope_count": 9,
-  "tropes": [
-    "AttentionWhore",
-    "ActionPet",
-    "LovableCoward",
-    "HeroicDog",
-    "EvilDetectingDog",
-    "GreenEyedMonster",
-    "TheLoad",
-    "CanineCompanion",
-    "TeamPet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bandit", "show": "Jonny Quest", "trope_count": 9, "tropes": ["AttentionWhore", "ActionPet", "LovableCoward", "HeroicDog", "EvilDetectingDog", "GreenEyedMonster", "TheLoad", "CanineCompanion", "TeamPet"], "tropes_by_category": {}, "similar": [{"name": "Bronx", "show": "Gargoyles", "id": "gargoyles_bronx", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Bear", "show": "Person of Interest", "id": "person_of_interest_bear", "similarity": 0.1515, "shared_tropes": 5}, {"name": "Naga", "show": "Legend of Korra, The", "id": "legend_of_korra_the_naga", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Iggy", "show": "JoJo's Bizarre Adventure", "id": "jojos_bizarre_adventure_iggy", "similarity": 0.0421, "shared_tropes": 4}, {"name": "Scooby-Doo", "show": "Scooby-Doo", "id": "scooby_doo_scooby_doo", "similarity": 0.0412, "shared_tropes": 4}]}

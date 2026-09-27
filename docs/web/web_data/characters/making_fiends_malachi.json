@@ -1,18 +1,1 @@
-{
-  "name": "Malachi",
-  "show": "Making Fiends",
-  "trope_count": 10,
-  "tropes": [
-    "OddFriendship",
-    "ArtisticLicenseReligion",
-    "AllThereInTheManual",
-    "TaremeEyes",
-    "CharlieBrownBaldness",
-    "YeOldeButcheredeEnglishe",
-    "ExpressiveHair",
-    "TheStoic",
-    "BornInTheWrongCentury",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Malachi", "show": "Making Fiends", "trope_count": 10, "tropes": ["OddFriendship", "ArtisticLicenseReligion", "AllThereInTheManual", "TaremeEyes", "CharlieBrownBaldness", "YeOldeButcheredeEnglishe", "ExpressiveHair", "TheStoic", "BornInTheWrongCentury", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": []}

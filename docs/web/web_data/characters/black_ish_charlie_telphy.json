@@ -1,12 +1,1 @@
-{
-  "name": "Charlie Telphy",
-  "show": "Black-ish",
-  "trope_count": 4,
-  "tropes": [
-    "PutOnABus",
-    "TheBusCameBack",
-    "BreakoutCharacter",
-    "BunnyEarsLawyer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charlie Telphy", "show": "Black-ish", "trope_count": 4, "tropes": ["PutOnABus", "TheBusCameBack", "BreakoutCharacter", "BunnyEarsLawyer"], "tropes_by_category": {}, "similar": [{"name": "A.D.A Rafael Barba", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_a_d_a_rafael_barba", "similarity": 0.0421, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Friend",
-  "show": "Torchwood",
-  "trope_count": 9,
-  "tropes": [
-    "IronicName",
-    "FictionalSocialNetwork",
-    "CreepyHighPitchedVoice",
-    "BigBad",
-    "DeadGuyPuppet",
-    "MaddenIntoMisanthropy",
-    "AIIsACrapshoot",
-    "VillainExitStageLeft",
-    "ContrastingSequelAntagonist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Friend", "show": "Torchwood", "trope_count": 9, "tropes": ["IronicName", "FictionalSocialNetwork", "CreepyHighPitchedVoice", "BigBad", "DeadGuyPuppet", "MaddenIntoMisanthropy", "AIIsACrapshoot", "VillainExitStageLeft", "ContrastingSequelAntagonist"], "tropes_by_category": {}, "similar": [{"name": "Lennart Bedrager", "show": "South Park", "id": "south_park_lennart_bedrager", "similarity": 0.0374, "shared_tropes": 4}]}

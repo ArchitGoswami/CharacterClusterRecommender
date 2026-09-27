@@ -1,15 +1,1 @@
-{
-  "name": "David Connor",
-  "show": "Damages",
-  "trope_count": 7,
-  "tropes": [
-    "WeHardlyKnewYe",
-    "NiceGuy",
-    "FirstEpisodeTwist",
-    "ForegoneConclusion",
-    "SacrificialLion",
-    "FriendlyTarget",
-    "TooGoodForThisSinfulEarth"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "David Connor", "show": "Damages", "trope_count": 7, "tropes": ["WeHardlyKnewYe", "NiceGuy", "FirstEpisodeTwist", "ForegoneConclusion", "SacrificialLion", "FriendlyTarget", "TooGoodForThisSinfulEarth"], "tropes_by_category": {}, "similar": [{"name": "Sabinus", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_sabinus", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Tommy Merlyn", "show": "Arrow", "id": "arrow_tommy_merlyn", "similarity": 0.0465, "shared_tropes": 4}]}

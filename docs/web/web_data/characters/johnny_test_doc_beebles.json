@@ -1,15 +1,1 @@
-{
-  "name": "Doc Beebles",
-  "show": "Johnny Test",
-  "trope_count": 7,
-  "tropes": [
-    "HeelFaceTurn",
-    "ChuckCunninghamSyndrome",
-    "EvilSoundsDeep",
-    "BeeBeeGun",
-    "VerbalTic",
-    "WellIntentionedExtremist",
-    "AntiVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doc Beebles", "show": "Johnny Test", "trope_count": 7, "tropes": ["HeelFaceTurn", "ChuckCunninghamSyndrome", "EvilSoundsDeep", "BeeBeeGun", "VerbalTic", "WellIntentionedExtremist", "AntiVillain"], "tropes_by_category": {}, "similar": [{"name": "Baron Draxum", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_baron_draxum", "similarity": 0.0568, "shared_tropes": 5}]}

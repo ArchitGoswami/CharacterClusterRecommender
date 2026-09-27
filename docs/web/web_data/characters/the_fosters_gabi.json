@@ -1,18 +1,1 @@
-{
-  "name": "Gabi",
-  "show": "The Fosters",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "TheDogBitesBack",
-    "TragicAidsStory",
-    "BreakTheHaughty",
-    "DespairEventHorizon",
-    "YouAreNotAlone",
-    "WellDoneDaughterGirl",
-    "TheRunaway",
-    "RecoveredAddict",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gabi", "show": "The Fosters", "trope_count": 10, "tropes": ["DeadpanSnarker", "TheDogBitesBack", "TragicAidsStory", "BreakTheHaughty", "DespairEventHorizon", "YouAreNotAlone", "WellDoneDaughterGirl", "TheRunaway", "RecoveredAddict", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Callie", "show": "The Fosters", "id": "the_fosters_callie", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Juliet", "show": "Lost", "id": "lost_juliet", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Connor Walsh", "show": "How to get away with murder", "id": "how_to_get_away_with_murder_connor_walsh", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Alvarez", "show": "Oz", "id": "oz_alvarez", "similarity": 0.0581, "shared_tropes": 5}, {"name": "Puck", "show": "Gargoyles", "id": "gargoyles_puck", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Dani Fenton/Dani Phantom", "show": "Danny Phantom", "id": "danny_phantom_dani_fenton_dani_phantom", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Al Giardello", "show": "Homicide: Life on the Street", "id": "homicide_life_on_the_street_al_giardello", "similarity": 0.046, "shared_tropes": 4}, {"name": "Plucky Duck", "show": "Tiny Toon Adventures", "id": "tiny_toon_adventures_plucky_duck", "similarity": 0.0417, "shared_tropes": 4}]}

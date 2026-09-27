@@ -1,16 +1,1 @@
-{
-  "name": "Maureen Sampson",
-  "show": "Freaks and Geeks",
-  "trope_count": 8,
-  "tropes": [
-    "InWithTheInCrowd",
-    "OneOfTheBoys",
-    "PomPomGirl",
-    "NewTransferStudent",
-    "NiceGirl",
-    "ReplacementGoldfish",
-    "GirlNextDoor",
-    "HeadTurningBeauty"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Maureen Sampson", "show": "Freaks and Geeks", "trope_count": 8, "tropes": ["InWithTheInCrowd", "OneOfTheBoys", "PomPomGirl", "NewTransferStudent", "NiceGirl", "ReplacementGoldfish", "GirlNextDoor", "HeadTurningBeauty"], "tropes_by_category": {}, "similar": [{"name": "Nazz", "show": "Ed, Edd n Eddy", "id": "ed_edd_n_eddy_nazz", "similarity": 0.0446, "shared_tropes": 5}, {"name": "Lorelai Leigh \"Rory\" Gilmore", "show": "Gilmore Girls", "id": "gilmore_girls_lorelai_leigh_rory_gilmore", "similarity": 0.0412, "shared_tropes": 4}]}

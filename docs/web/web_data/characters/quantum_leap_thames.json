@@ -1,18 +1,1 @@
-{
-  "name": "Thames",
-  "show": "Quantum Leap",
-  "trope_count": 10,
-  "tropes": [
-    "AffablyEvil",
-    "EvilIsHammy",
-    "IncomingHam",
-    "DistaffCounterpart",
-    "RememberTheNewGuy",
-    "InvisibleJerkass",
-    "OnlyOneName",
-    "JustifiedTrope",
-    "EvilCounterpart",
-    "ClassyCane"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thames", "show": "Quantum Leap", "trope_count": 10, "tropes": ["AffablyEvil", "EvilIsHammy", "IncomingHam", "DistaffCounterpart", "RememberTheNewGuy", "InvisibleJerkass", "OnlyOneName", "JustifiedTrope", "EvilCounterpart", "ClassyCane"], "tropes_by_category": {}, "similar": [{"name": "Vanessa Gekko", "show": "BoJack Horseman", "id": "bojack_horseman_vanessa_gekko", "similarity": 0.0367, "shared_tropes": 4}]}

@@ -1,0 +1,582 @@
+{
+  "media_title": "Sweet Home",
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SweetHome",
+  "characters": [
+    {
+      "name": "Kazuo",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "ActionDad",
+        "LightningBruiser",
+        "KillItWithFire",
+        "DeathByAdaptation"
+      ],
+      "description": "Action Dad: He's Emi's father, and will go through hell to ensure that his crew and his daughter make it out alive. Death by Adaptation:Unlike the movie the game is based on, Kazuo can potentially die during the events of the story Kill It with Fire: He starts off with a lighter, which comes in handy for burning ropes and maggots alike. Lightning Bruiser: In spite of being a middle age guy, Kazuo has the highest HP in the party, the second best defense and goes before any enemy in battle (like all other party members). His lighter also deals massive damage to skulls and worms.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Asuka",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "WrenchWhack",
+        "ImprobableWeaponUser",
+        "SparedByTheAdaptation",
+        "GoldenEnding",
+        "UtilityPartyMember",
+        "MercyKill"
+      ],
+      "description": "Improbable Weapon User: Subverted. She takes a vacuum cleaner to the mansion as her personal item - and cannot use it in combat. As for cleaning up glass shards and finding out how everything went to hell, though... Mercy Kill:Ends up having to do this to Taguchi in the movie. Spared by the Adaptation:Asuka can survive the ordeal, unlike the original story where she died. She and all her companions must survive to achieve theGolden Ending. Utility Party Member: Asuka has the second lowest defense and is restricted to what weapon she can equip, making her a poor fighter by default, and her vacuum cleaner can't be used in battle. However her signature item is still useful to remove glass shard to open new paths and ways to traverse and cleaning up frescos for Taro to photograph and obtain a hint to solve puzzles from them. Wrench Whack: Uses a wrench in the film toput Taguchi out of his misery.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Akiko",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "SquishyWizard",
+        "DeathByAdaptation",
+        "TheMedic",
+        "DressedToHeal",
+        "SupportPartyMember"
+      ],
+      "description": "Death by Adaptation:Akiko can potentially meet her doom at any point in the game, unlike the movie where she survived. Dressed to Heal: Her overworld sprite depicts her wearing a stereotypical doctor's hat and scrubs. Do you really need anything else to scream that she's the party's medic? The Medic: She's the one who can cure all the common status ailments with her Medkit. She cannot use it to heal HP however. Squishy Wizard: Her Medkit is a very useful survival tool, but Akiko herself has the worst defense among playable a characters and limited selection in weapons like Asuka. It is just not a good idea to send her in battle alone. Support Party Member: Akiko's medkit is never used for any puzzle, making it (and herself by extension) technically speaking not required to win the game. You will still want her to be around all the time though, unless you are planning to pack some pill replacement items, as her ability to cure crippling status effects is crucial for the party's survival.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Taguchi",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "DownplayedTrope",
+        "CameraFiend",
+        "DiesDifferentlyInAdaptation",
+        "HalfTheManHeUsedToBe",
+        "UnwittingInstigatorOfDoom",
+        "GoldenEnding",
+        "LightningBruiser",
+        "SparedByTheAdaptation",
+        "LightEmUp"
+      ],
+      "description": "Camera Fiend: He's the one with the camera, so if anyone is to find out from the frescoes what the hell happened, it'll be him. Dies Differently in Adaptation:Downplayed, if he bites it, his death will be thesameas in the movie, but the circumstances that lead to it will be different Half the Man He Used to Be: Should he die in the game, this is how he goes out.It is also his fate in the film. Light 'em Up: His camera deals effective damage against bats and ghosts. Lightning Bruiser: Less so than Kazuo, but Taguchi/Taro has the second best HP in the game, the best defense and his camera can make shortwork of certain enemies.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Emi",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "DeathByAdaptation",
+        "MasterOfUnlocking",
+        "TagalongKid",
+        "ActionGirl",
+        "UtilityPartyMember"
+      ],
+      "description": "Action Girl: She is not as vulnerable as the other girls in the team, having the best defense stat among them, and not being restricted in the choice of weaponry like them. Death by Adaptation:She can perish during at any point in the game, unlike the source material, where she survived. Master of Unlocking: Her personal item is a key. Do the math. Tagalong Kid: While everyone else are grown-ups, Emi's a teenager. Still doesn't hinder her from being a valuable asset, however. Utility Party Member: Emi's signature item is useless in combat, being just a key, but vital togain access to the rest of the mansion.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Yamamura",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AmbiguousSituation",
+        "CruelAndUnusualDeath",
+        "HauntedHouseHistorian"
+      ],
+      "description": "Ambiguous Situation:Was he Ichiro Mamiya himself, or was he just another random victim? Cruel and Unusual Death:He ends up being melted alive. And then to add insult to injury in the movie, his skeleton collapses. Haunted House Historian: Seems to know far more about the manor than what a lowly groundskeeper should know. Not that Kazuo and co. are complaining, though.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lady Mamiya",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AccidentalMurder",
+        "FinalBoss",
+        "BetterToDieThanBeKilled"
+      ],
+      "description": "Accidental Murder:Accidently set her own son on fire when he was playing in the incinerator. The other children were deliberately murdered. Better to Die than Be Killed:Threw herself into the same incinerator she used to burn children alive. Final Boss: She's confronted as the final enemy of the game.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cha Hyun-soo/Hyun",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "NakedOnArrival",
+        "BigBrotherInstinct",
+        "FriendToAllChildren",
+        "SoleSurvivor",
+        "FinalBoss",
+        "CharacterDevelopment",
+        "SuperStrength",
+        "SpoiledBrat",
+        "BetterToDieThanBeKilled",
+        "HeroicWillpower",
+        "Manchild",
+        "AndThenJohnWasAZombie",
+        "HeCleansUpNicely",
+        "PowerAtAPrice",
+        "ShockStick",
+        "JerkWithAHeartOfGold",
+        "ShrinkingViolet",
+        "DareToBeBadass",
+        "Hikikomori",
+        "EarnYourHappyEnding",
+        "DangerousForbiddenTechnique",
+        "SupportingProtagonist",
+        "SuperpoweredEvilSide",
+        "TheMainCharactersDoEverything",
+        "PrettyBoy",
+        "HealingFactor",
+        "JerkAss",
+        "DeathSeeker",
+        "BrokenAce",
+        "ParentalSubstitute",
+        "UsedToBeASweetKid",
+        "DarkAndTroubledPast",
+        "ShipTease",
+        "BullyingADragon",
+        "NiceGuy",
+        "PostFinalBoss",
+        "Jerkass",
+        "TheReveal",
+        "JerkassHasAPoint"
+      ],
+      "description": "The main protagonist of the comic, aHikikomoriwho moved into an apartment building just before monsters appeared. And Then John Was a Zombie: Hyun begins to resist his monster infection less and less, for the sake of having the strength to protect everyone else. In the climax of the webtoon, he finally gives into his monster infection and turns to defeat theFinal Boss. Better to Die than Be Killed: In the earlier chapters, Hyun keeps thinking about ending it all so he can at least die a human. He's forced into heroism before he can do so and later decides that he wants to live after all. Big Brother Instinct: Towards Sook and Yeong. Hehada younger sister, but she tragically died in a car accident alongside their parents. Broken Ace: Flashbacks show that he was a very popular and skillful student, until something happened...",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Yoon Ji-soo/Ji-su",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "Determinator",
+        "AdaptationRelationshipOverhaul",
+        "RedOniBlueOni",
+        "TragicKeepsake",
+        "BatterUp",
+        "TearsOfJoy",
+        "DudeMagnet",
+        "LoveHurts",
+        "FirstGirlWins",
+        "AdaptationDyeJob",
+        "NiceGirl",
+        "SuicideIsShameful",
+        "BelatedLoveEpiphany",
+        "HiddenHeartOfGold",
+        "InelegantBlubbering",
+        "BigDamnHeroes",
+        "UnstoppableRage",
+        "MercyKillArrangement",
+        "NiceJobBreakingItHero",
+        "MoralityChain",
+        "CelebrityResemblance",
+        "DeathByAdaptation",
+        "AngerBornOfWorry",
+        "ShipTease",
+        "CartwrightCurse"
+      ],
+      "description": "A bass player who lived in the apartment directly above Hyun's. Adaptation Dye-Job: In the webtoon, Ji-su has bright brown hair. In the mini-series, her hair is black, but the lower half is dyed pink, befitting her \"rocker\" personality. Adaptation Relationship Overhaul: In the webtoon, there was a strong amount ofShip Teasebetween her and Hyun; in the miniseries, no such relationship exists beyond them being allies and later friends. Anger Born of Worry: As part of theirShip Tease, she is shown worrying for Jae-heon, only to snap at him for provoking The Beefcake when he reveals himself to be alive. Batter Up!: Ji-su has a metal bat as her weapon of choice. It later gets spikes after Du-sik fixes it up.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Han Du-sik/Du-sik",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "NoGoodDeedGoesUnpunished",
+        "CooldownHug",
+        "DiedInYourArmsTonight",
+        "EstablishingCharacterMoment",
+        "Foil",
+        "HeroicSacrifice",
+        "TheEngineer",
+        "MacGyvering",
+        "NiceGuy",
+        "CharacterDevelopment",
+        "OlderAndWiser",
+        "Jerkass",
+        "HandicappedBadass",
+        "ThrowingOffTheDisability",
+        "CoolUncle",
+        "BetterToDieThanBeKilled"
+      ],
+      "description": "The sole occupant of Room 1408. He has limited mobility due to having lost part of a leg (or having lost feeling in both legs in the miniseries), but is pretty good at weaponry crafting. Better to Die than Be Killed:In the comic, he tells Hyun that the last bullet in his gun is reserved for him, seeing as he doesn't want to die of old age, be killed by the monsters, or turn into one. Unfortunately for everyone involved, when the time comes to actually pull the trigger, he hesitates just long enough that he turns, forcing Hyun and Sang-wook to put him down.In the mini-series, he ends up using it on the Spider Monster after it almost eats Sook-yeong. In the comic, he tells Hyun that the last bullet in his gun is reserved for him, seeing as he doesn't want to die of old age, be killed by the monsters, or turn into one. Unfortunately for everyone involved, when the time comes to actually pull the trigger, he hesitates just long enough that he turns, forcing Hyun and Sang-wook to put him down. In the mini-series, he ends up using it on the Spider Monster after it almost eats Sook-yeong. Cool Uncle: Acts as this towards Sook-yeong and Yeong-sook.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jung Jae-heon/Jay-hun",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AnyoneCanDie",
+        "RedOniBlueOni",
+        "HeroicSacrifice",
+        "BewareTheNiceOnes",
+        "TheTeetotaler",
+        "BadassPreacher",
+        "NiceGuy",
+        "TheStoic",
+        "SacrificialLion",
+        "ReligiousBruiser",
+        "GratuitousKatana"
+      ],
+      "description": "A Korean teacher and devout Christian who has lived at Green Home for over a year. Badass Preacher: While not a pastor per se, he is a devout Christian who isn't afraid to share his faith with others and kills the most monsters out of the main characters. Beware the Nice Ones: He looks like a harmless, slightly geeky,teetotalingproselytizer, but is quite proficient with a sword. In the webtoon he was also akumdoexpert, explaining his proficiency with weapons. Gratuitous Katana: He has a katana as his weapon. Heroic Sacrifice: In the comic, he goes down buying time for the other survivors to escape the monster security guard, giving them just enough breathing room to figure out how to kill it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kim Su-yeong/Kim Sook and Kim Yeong-su/Kim Yeong",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "HarmfulToMinors",
+        "UltimateLifeForm",
+        "GirlishPigtails",
+        "ThemeTwinNaming",
+        "BigSisterInstinct",
+        "MolotovCocktail",
+        "DeathOfAChild",
+        "AdaptationalBadass"
+      ],
+      "description": "Two children living in an apartment below Dusik's. Sook is 9 and Yeong is 6. Adaptational Badass: Su-yeong in the miniseries is more matured. Even after the Spider Monster almost eats her, Su-yeong readily throws aMolotov Cocktailat it when it injures Mr. Han. Big Sister Instinct: Su-yeong is extremely protective of Yeong-su. Death of a Child: Su-yeong is killed by Jae-hwan early in Season 2. Girlish Pigtails: Su-yeong.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lim Myeong-ja/Lim Myeong-sook",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "MamaBear",
+        "LivingMacGuffin",
+        "HiddenDepths",
+        "OutlivingOnesOffspring",
+        "DeaderThanDead",
+        "AdaptationalNameChange"
+      ],
+      "description": "A middle-aged woman who also appears to be infected by the virus. Not the most sane, given her past... Adaptational Name Change: Her name is Myeong-Suk in the miniseries. Deader than Dead: In the webtoon, her monster form eventually becomes a cocoon, only to get incinerated by Yi-hyun, therefore discarding any chance of her evolving. Hidden Depths: She's actually fully aware that her \"baby\" is a hallucination and she's pushing around an empty stroller, but she keeps up the façade as she would rather live in a hallucination than accept the truth. Living MacGuffin: Yi-hyun burns her cocoon after Ji-su soaked it in gasoline in a failed attempt to destroy it, which was enough to aggravate all the surrounding monsters and kick-start the climax.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ahn Gil-seop/Seop",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "BigDamnHeroes",
+        "HeroicSacrifice",
+        "MolotovCocktail",
+        "OldSoldier",
+        "TheGadfly",
+        "NiceGuy",
+        "CoolOldGuy",
+        "DoNotGoGentle"
+      ],
+      "description": "An old man who decides to venture out with his caregiver Yu-ri instead of staying put and dying in his room. Big Damn Heroes:Twice.He saves the main characters from being killed in the car park with an improvised flamethrower. Later on, he draws The Beefcake's attention away from a badly-dazed Hyun by throwingMolotov Cocktailsat it and pushes Hyun out of the way when the monster attempts to crush them both. Cool Old Guy: After emerging from his unit, he's not afraid of putting his life on the line to help others, and he's pretty well-prepared at defending himself with his crossbow. He helps Hyun and Sang-wook when they're in a pickle to defeat the Tentacles Monster. Do Not Go Gentle: Even though he's terminally ill, he wishes to kill as many monsters as possible before that happens. Heroic Sacrifice: He pushes Hyun out of the way of the Beefcake’s punches and gets crushed in his place.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Park Yu-ri/Yuri",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "TheMedic",
+        "OfficialCouple"
+      ],
+      "description": "The senior caregiver for Mr. Ahn. She helps to patch up the survivors and suffers from asthma. The Medic: Helps tend to the survivors' wounds, due to her past medical knowledge. Official Couple: With Sang-wook.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lee Eun-yu/Eun",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "ItsAllMyFault",
+        "PromotedToLoveInterest",
+        "JerkWithAHeartOfGold",
+        "FieryRedhead",
+        "TheSnarkKnight",
+        "SnarkKnight",
+        "AerosolFlamethrower",
+        "OfficialCouple"
+      ],
+      "description": "A spirited teenager and Eun-hyuk's younger sister. Aerosol Flamethrower: Begins using this as her weapon towards the end of the webtoon. Fiery Redhead: In the webtoon. She's spunky and willing to tell Hyuk off when she thinks he's being a jerk. In the series, her hair is a natural shade of black, but she's no less sharp. It's All My Fault: She blames herself for her and Eun-hyuk's parents' deaths because she forced them to come to her ballet recital, which has also driven a wedge between them. Jerk with a Heart of Gold: She's the residentSnark Knightand has zero tact, but she does have a kinder side underneath the bitchiness.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lee Eun-hyuk/Hyuk",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "Otaku",
+        "SecretTestOfCharacter",
+        "BigBrotherInstinct",
+        "NoSocialSkills",
+        "SmartPeopleWearGlasses",
+        "HiddenHeartOfGold",
+        "JerkWithAHeartOfGold",
+        "HiddenDepths",
+        "TheGadfly",
+        "VitriolicBestBuds",
+        "ThoseTwoGuys",
+        "TheFriendNobodyLikes",
+        "MirrorCharacter"
+      ],
+      "description": "A relatively plain teen and Eun-yu's older brother. Big Brother Instinct: He's very protective of Eun-yu and tells Sang-wook to hide the fact that he's infected so as not to worry her. The Friend Nobody Likes: Fellow survivors acknowledge him as a core member of the group but are quick to call him out for his apparent lack of empathy towards others. The Gadfly: A Socratic version, Hyuk will ask questions or say cold things to test the people around him or motivate them to do the right thing, but very few people end up liking him as a result. Hidden Heart of Gold: Eun-hyuk often acts as if he's completely detached from the situation at hand, but anyone can tell that he's actually far more emotional and caring than he lets on. It's revealed that the cold and pragmatic attitude he puts up is to prevent anybody from panicking and, more often than not, to anger people into doing the right thing.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Pyeon Sang-wook/Wook",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "PoliceBrutality",
+        "UndyingLoyalty",
+        "HeroicBuild",
+        "GoodIsNotSoft",
+        "KillTally",
+        "FaceOfAThug",
+        "Expy",
+        "GottaKillThemAll",
+        "YoungerThanHeLooks",
+        "BruiserWithASoftCenter",
+        "ThoseTwoGuys",
+        "MusclesAreMeaningful",
+        "MisunderstoodLonerWithAHeartOfGold"
+      ],
+      "description": "An intimidating man who isn't as frightening as he appears. Bruiser with a Soft Center: He's one of the group's heaviest hitters, but he's especially gentle with Yu-ri and the kids. Expy: In the webtoon—give him a sport coat and he's basicallyKazuma Kiryu, down to the personality traits. Face of a Thug: Bulky and intimidating to the point that Eun-yu sometimes calls him 'Mr. Mobster', buthe's definitely an ally. Good Is Not Soft: Sang-wook will retaliate if he feels his or the others' lives are in danger, but if you earn his respect, he'll show youUndying Loyalty.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ryu Jae-hwan/Jay",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "SkewedPriorities",
+        "AttentionWhore",
+        "MindRape",
+        "WouldHurtAChild"
+      ],
+      "description": "A young man whosebiggest concern was not being able to do his skin care routine. Attention Whore: His monster form in the webtoon - it must be validated of its beauty every few seconds. Mind Rape: In the webtoon, saying that his monster form isn't beautiful causes Hyun to go down with a massive headache. Would Hurt a Child: He kills Su-yeong during his transformation into a monster.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Noh Byeong-il",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "TimePassageBeard",
+        "DirtyCoward",
+        "DownplayedTrope"
+      ],
+      "description": "Dirty Coward: In the webcomic. He's a little better in the show, albeit he's more of a wannabe tough guy. Time-Passage Beard:Downplayedin that he grows more of a light moustache in the epilogue.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Son Hye-in/Hyein",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "JerkWithAHeartOfGold",
+        "TheBusCameBack",
+        "HeelFaceDoorSlam"
+      ],
+      "description": "The local gossip of Green Home apartments, she lives with her Pomeranian dog Bom. The Bus Came Back: Bom suddenly returns and helps the remaining survivors find a way out of the underground tunnel network after their escape. Heel–Face Door-Slam: She owns up to her mistakes and resolves to become a better person right before she's killed by the flying monster in the comic. Jerk with a Heart of Gold: She's gossipy and nosy, but is offended by Seok-hyun's abuse of his wife, is willing to fight the monsters, and gets mad when people treat Hyun-su differently.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kim Seok-hyun/Seok",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "DomesticAbuse",
+        "HateSink",
+        "LaserGuidedKarma",
+        "HiddenDepths",
+        "TragicMonster",
+        "JerkWithAHeartOfJerk",
+        "BaldOfEvil",
+        "AssholeVictim",
+        "NiceJobBreakingItHero",
+        "SanitySlippage"
+      ],
+      "description": "Seon-yeong's husband. In the miniseries, he owns the convenience store. Asshole Victim: No one feels sorry for him when he turns into a monster and his wife is forced to kill him. Bald of Evil: Wears a completely unconvincing wig. Domestic Abuse: Clearly hostile towards his wife throughout their decades of marriage. Hate Sink: Physically and emotionally abusive to his wife, refuses to let the others eat the food in his store despite everything that's happening, wants to kick Hyun-su out immediately...",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ahn Seon-yeong/Seon",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "TheDogBitesBack",
+        "BoomHeadshot",
+        "DomesticAbuse",
+        "SubvertedTrope"
+      ],
+      "description": "Boom, Headshot!: Gets shot by Joon to make an example out of leaving no potential monster alive to the survivors. The Dog Bites Back:Subverted. Tries to kill her husband with a knife after he begins showing symptoms of monsterization but can't bring herself to do the deed. Later double-subverted as she does have to put him down eventually as a monster, but goes into a breakdown after. Domestic Abuse: Has takena lotfrom her husband since the start of their marriage.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Cha Jin-ok",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AscendedExtra",
+        "KilledOffForReal",
+        "ParentalSubstitute",
+        "NoNameGiven",
+        "JerkWithAHeartOfGold",
+        "OutlivingOnesOffspring",
+        "WeHardlyKnewYe",
+        "BitchInSheepsClothing"
+      ],
+      "description": "A survivor who gave the security guard rotten fish. In the miniseries, it's revealed she's a middle-aged lady originally from Gangnam who runs the apartment's day-care centre. She's looking for her daughter Min-ju who hasn't returned from school during the monsterization outbreak. Ascended Extra: In the miniseries. She gets not only a name but much more story. Bitch in Sheep's Clothing: Gives the security guard a box of fish that turns out to be rotten with a straight face, sarcastically mentioningnoblesse obligein the miniseries. Jerk with a Heart of Gold: However, she takes on the responsibility of becoming an adoptive mother of sorts to Yeong-su and Su-yeong. Killed Off for Real: She's the last of the adult Green Home residents to die, finally succumbing to a monster attack in Season 3 while protecting Yeong-su.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kim Ji-eun/Ji-eun",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "ShrinkingViolet",
+        "NiceGirl"
+      ],
+      "description": "One of the residents of Green Home. A shy, timid person who doesn't talk often. Nice Girl: She offers to share her meager meal with Hyun-su and even apologizes for his treatment on the other survivors' behalf. Shrinking Violet: Shy and quiet, but kind and caring.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Shin Jung-seop/Joon",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AxCrazy",
+        "EvenEvilHasLovedOnes",
+        "TheLeader",
+        "HateSink",
+        "ManipulativeBastard",
+        "Hypocrite",
+        "LargeAndInCharge",
+        "TheSociopath",
+        "FinalBoss",
+        "BigBad",
+        "GoodScarsEvilScars",
+        "FantasticRacism"
+      ],
+      "description": "The leader of a gang of thugs that attacks Green Home. Ax-Crazy: In the webcomic, Joon Shin is a remorseless mass-murderer who mutilates corpses and feeds them to the monsters. He is also implied to be pretty unstable in general, given that he assaults Hyuk for mildly bothering him. Big Bad: Becomes this during the climax with his arrival. In the miniseries, he's set up to be this, but is rather quickly killed by Ui-myung. Even Evil Has Loved Ones: It's revealed that after breaking out of prison on the bus, he goes to the house of his family as soon as possible in order to ensure they're safe. Unfortunately, he's too late, and they were slaughtered by a monster before he arrived. Fantastic Racism: Absolutelyhatesmonsters and special infected. However, he is still a massive hypocrite about it, see below.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Baek Ho-yeon",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "CurbstompBattle",
+        "ArrogantKungFuGuy",
+        "OutOfFocus"
+      ],
+      "description": "Arrogant Kung-Fu Guy: Fancies himself as a martial artist.He gets his ass handed over to him by Wook, who has hand-to-hand combat skill due to being an policeman ''and'' is much bigger and heavier than him. Out of Focus: The least focused of the criminals.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lim Hyunshik",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AxCrazy",
+        "TheDragon",
+        "AffablyEvil",
+        "TokenGoodTeammate",
+        "BigBad",
+        "PerpetualSmiler"
+      ],
+      "description": "Affably Evil: As expected from a con-man. The Dragon: ToJoon Shin. Perpetual Smiler: Always has an shit-eating smirk in his face. Token Good Teammate: One of the few members of the chain-gang that is notAx-Crazy.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Seo Gapsu",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AxCrazy",
+        "SerialRapist",
+        "HateSink",
+        "ForTheEvulz",
+        "TheFriendNobodyLikes"
+      ],
+      "description": "Ax-Crazy: Just as much, if notmoreso than Joon and Ihyun. Not only he is aSerial Rapist, he also tried to kill DusikFor the Evulz. The Friend Nobody Likes: The other criminals are not too fond of him, and he seems to be at the bottom of the gang's hierarchy. Hate Sink: A rapist and killer with no reedeming qualities. Serial Rapist: He was in jail for rape, and it is heavily implied to be more than a single instance thereof. In the present, he attempts to rape Hyein.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ihyun Jo",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "AxCrazy",
+        "BloodKnight",
+        "NiceGuy",
+        "SplitPersonality",
+        "DisabilitySuperpower"
+      ],
+      "description": "Ax-Crazy: His monster persona is a cruel and agressiveBlood Knight. His \"normal\" persona is good enough but can switch to the monster one in a second. Disability Superpower: His DID allows him to use his monster abilities to their fullest without worrying about turning into a monster for good, as only one of his personalities was compromised and transformed while the other remains unchanged. Nice Guy: His human persona.The monster one on the other hand...",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Cha Family",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "PlayedForDrama",
+        "FairWeatherFamily",
+        "FormerlyFriendlyFamily"
+      ],
+      "description": "Formerly Friendly Family: Hyun Cha was once the apple of his parents' and sisters' eye, with his parents being proud of him as a hard-working student and him being close to his sister. But eventually, a rich bully started to use his family, power, and influence to exclude him and torture him socially. Because the bully's father was Hyun's boss, his parents told him that he had to endure the bullying but promised to talk to the school to stop the bullying. Eventually, the parents could speak to a teacher and stop the bullying, but the damage was done, and Hyun was traumatized. Hyun's sister also didn't support him by making excuses for not talking to him and denying to her friends that they were siblings. The breaking point was when Hyun pushed his bully into the street to prevent him from making someone else jump into the street. Hyun's father was fired, and he blamed Hyun. Hyun's mother was the only one who tried to have a relationship and communicate with him, but he revoked her; whatever his mother tried to talk to him, his sister didn't speak with him. Fair-Weather Family:Played for Dramaand a very tragic example. Hyun Cha was the pride of his family, with his parents proud of the handsome, good, and kind student he was, and his little sister was also proud of the big brother he was to her. But things came crashing down for Hyun when a rich bully used his power and influence to exclude him and torture him. Because Hyun's father's boss was the bully's father, his parents advised him not to do anything about the bully, though they promised to talk to the teachers to stop the bullying. Also, his sister offered no support, making excuses not to speak to him and later denying to her friends that they were siblings. This lack of support from his family not only traumatized Hyun but also destroyed his relationship with his family. Eventually, the breaking point came when Hyun pushed the bully into the street because the bully would force someone else to jump into the s",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Haerang",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "TooGoodForThisSinfulEarth",
+        "SmallRoleBigImpact",
+        "TragicKeepsake",
+        "NiceGuy",
+        "DrivenToSuicide",
+        "PosthumousCharacter"
+      ],
+      "description": "Driven to Suicide: For unknown reasons, he committed suicide. It's implied that the band executive rejecting him could have played a part in it, since he was passionate about music, and likely figured out that he couldn't make a career out of it. Whatever the case, Jisu never saw it coming and was broken when she found his corpse. Nice Guy: He was a sweet and caring person to his girlfriend. He had a tendency to speak and act roughly but it never diminished his gentle side. Posthumous Character: He died by suicide prior to the start of the webtoon. Small Role, Big Impact: He is only shown in flashbacks in the webtoon, but his presence motivates Jisu to stay alive and never die like he did, and she also forwards his words of support to Hyun when he tells her feels suicidal. Too Good for This Sinful Earth: An imperfect example. He was nothing but encouraging, kind and helpful when he was alive, and his death devastated everyone.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Starving Monster",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "VillainousGlutton"
+      ],
+      "description": "A monster who's very, very hungry. It was once Hyun's next-door neighbour, who was an aspiring celebrity down on her luck and sick of her strict diet. Villainous Glutton: It devours Hyun's food and her pet cat as she begins to undergo monsterization.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Blind Monster",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "SuperHearing",
+        "VillainousRescue"
+      ],
+      "description": "Super-Hearing: Since it doesn't have any eyes. Villainous Rescue: It kills Chan-young's superior as he's about to set the newly-resurrected Myeong-ja on fire, albeit unwittingly because he was making too much noise.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Beefcake",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "BerserkButton",
+        "MonstrousCannibalism",
+        "HiddenDepths",
+        "TheBusCameBack",
+        "SmarterThanTheyLook",
+        "CatchPhrase"
+      ],
+      "description": "A large, smiling, muscular monster obsessed with strength. It wanders the building in search of “protein” Berserk Button: Calling it weak. Its normal smile is quickly replaced by a look of absolute fury. The Bus Came Back: After being tossed out from the apartment due to Jay-hun's trickery, it spent the majority of the time hunting other monsters outside for \"protein\", until the time came for the group to head out from their stronghold. Beefcake shows up to ruin the day the moment they peek outside for the first time. Catchphrase: \"Protein!\" Hidden Depths: Despite not normally showcasing any kind of intelligence, when Jisu pulls out Jayhun's sword in the parking lot, Beefcakerecognizes the weapon from the last time it was used against himand flies into even more of a rage than he was already in. This is especially noteworthy because, as previously mentioned, Jayhun wasn't the one wielding the sword the second time around.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Blob Monster",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "BenevolentMonsters",
+        "HarmlessVillain",
+        "SacrificialLion",
+        "TragicMonster",
+        "PuppeteerParasite"
+      ],
+      "description": "Benevolent Monsters: It protects Yeong-sook in the miniseries from being discovered by encasing him in the vents. Harmless Villain: It doesn't actively try to go after and murder the survivors compared to other monsters. The survivors are notably sad and angered when Joon kills it because it genuinely is completely harmless. Puppeteer Parasite: Possesses Seon's body in an attempt to disguise itself but everyone sees through the ruse, leading to its death shortly thereafter. Sacrificial Lion: Joon being willing to incinerate even aHarmless Villainlike the Blob just because it's a monster shows just how far the madman is willing to go, and is the first time the survivors as a whole doubt his supposedly benevolent intentions. Tragic Monster: After being incinerated by one of the criminals in the webtoon, it was revealed that he was once a boy named Min who tried to hide himself after his mother was murdered by the Blind Monster. The monster's nature and behaviour came from his desire to not be found by the monster.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mr. Kim",
+      "media_title": "Sweet Home",
+      "tropes": [
+        "ThePowerOfHate",
+        "MadeOfIron",
+        "ButtMonkey",
+        "AndThisIsFor",
+        "ImplacableMan",
+        "SanitySlippage",
+        "DeconstructedTrope"
+      ],
+      "description": "The security guard of Green Home Apartments and one of the very first victims of the monsterization outbreak. Butt-Monkey: The apartment residents don't get along well with him and always berate him for various reasons. One of them even gave him a box of rotten fish. He's made to do groundskeeping in the weekends as no one's available.Deconstructedas later on his desire stemming from his hatred towards the residents turns him into a formidable monster that resists everyone's attacks and kills several survivors. Implacable Man: He's invulnerable to most of the survivors' attacks due to his desire to kill everyone in the apartment. Made of Iron: In his monster form, his weight was able to exceed the weight limit of the elevator. Most of the survivors' weapons also do jack to him. The Power of Hate: What accelerates his monsterization, and makes him impenetrable to most of the residents' attacks. In the comic, he evenshouts out the related grievance they committed against himbefore killing said resident.",
+      "source": "tvtropes"
+    }
+  ],
+  "character_count": 37
+}

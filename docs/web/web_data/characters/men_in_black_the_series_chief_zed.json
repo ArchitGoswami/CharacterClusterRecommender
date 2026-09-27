@@ -1,17 +1,1 @@
-{
-  "name": "Chief Zed",
-  "show": "Men in Black: The Series",
-  "trope_count": 9,
-  "tropes": [
-    "CoolOldGuy",
-    "DaChief",
-    "BadassInANiceSuit",
-    "DeadpanSnarker",
-    "ReasonableAuthorityFigure",
-    "AgeLift",
-    "BadassBureaucrat",
-    "TheMenInBlack",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chief Zed", "show": "Men in Black: The Series", "trope_count": 9, "tropes": ["CoolOldGuy", "DaChief", "BadassInANiceSuit", "DeadpanSnarker", "ReasonableAuthorityFigure", "AgeLift", "BadassBureaucrat", "TheMenInBlack", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Agent K", "show": "Men in Black: The Series", "id": "men_in_black_the_series_agent_k", "similarity": 0.375, "shared_tropes": 6}, {"name": "Dan", "show": "Justified", "id": "justified_dan", "similarity": 0.2667, "shared_tropes": 4}, {"name": "James Gordon", "show": "Beware the Batman", "id": "beware_the_batman_james_gordon", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Tom Matthews", "show": "Dexter", "id": "dexter_tom_matthews", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Philip Broyles", "show": "Fringe", "id": "fringe_philip_broyles", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Philip Broyles", "show": "The Fringe", "id": "the_fringe_philip_broyles", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Col. Sherman Potter", "show": "M*A*S*H", "id": "mash_col_sherman_potter", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Major characters", "show": "Celebrity Deathmatch", "id": "celebrity_deathmatch_major_characters", "similarity": 0.0625, "shared_tropes": 4}]}

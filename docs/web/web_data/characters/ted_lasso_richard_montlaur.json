@@ -1,17 +1,1 @@
-{
-  "name": "Richard Montlaur",
-  "show": "Ted Lasso",
-  "trope_count": 9,
-  "tropes": [
-    "RunningGag",
-    "LanguageBarrier",
-    "HasAType",
-    "PatrioticFervor",
-    "HiddenDepths",
-    "FrenchJerk",
-    "OutOfFocus",
-    "ReallyGetsAround",
-    "EveryoneLooksSexierIfFrench"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Richard Montlaur", "show": "Ted Lasso", "trope_count": 11, "tropes": ["HiddenDepths", "RunningGag", "ReallyGetsAround", "ActuallyPrettyFunny", "ChivalrousPervert", "FrenchJerk", "OutOfFocus", "LanguageBarrier", "HasAType", "EveryoneLooksSexierIfFrench", "PatrioticFervor"], "tropes_by_category": {}, "similar": [{"name": "Reilly and Jonesy", "show": "Letterkenny", "id": "letterkenny_reilly_and_jonesy", "similarity": 0.1, "shared_tropes": 4}, {"name": "Dazzle Novak", "show": "Moonbeam City", "id": "moonbeam_city_dazzle_novak", "similarity": 0.0755, "shared_tropes": 4}, {"name": "French Republic — Francis Bonnefoy", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_french_republic_francis_bonnefoy", "similarity": 0.0706, "shared_tropes": 6}, {"name": "Benedict", "show": "Bridgerton", "id": "bridgerton_benedict", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Capt. \"Trapper John\"McIntyre", "show": "M*A*S*H", "id": "mash_capt_trapper_john_mcintyre", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Eliot Spencer: The Hitter", "show": "Leverage", "id": "leverage_eliot_spencer_the_hitter", "similarity": 0.041, "shared_tropes": 5}, {"name": "Natsuiro Matsuri", "show": "Real Time with Bill Maher", "id": "real_time_with_bill_maher_natsuiro_matsuri", "similarity": 0.0392, "shared_tropes": 4}]}

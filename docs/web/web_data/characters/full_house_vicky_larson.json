@@ -1,17 +1,1 @@
-{
-  "name": "Vicky Larson",
-  "show": "Full House",
-  "trope_count": 9,
-  "tropes": [
-    "CareerVersusMan",
-    "LongDistanceRelationship",
-    "Tsundere",
-    "MarriedToTheJob",
-    "SickeninglySweethearts",
-    "UnresolvedSexualTension",
-    "RelationshipUpgrade",
-    "BigDamnKiss",
-    "Workaholic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Vicky Larson", "show": "Full House", "trope_count": 9, "tropes": ["CareerVersusMan", "LongDistanceRelationship", "Tsundere", "MarriedToTheJob", "SickeninglySweethearts", "UnresolvedSexualTension", "RelationshipUpgrade", "BigDamnKiss", "Workaholic"], "tropes_by_category": {}, "similar": [{"name": "Penelope \"Penny\" Fitzgerald", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_penelope_penny_fitzgerald", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Sgt. Amanda Rollins", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_sgt_amanda_rollins", "similarity": 0.0377, "shared_tropes": 4}]}

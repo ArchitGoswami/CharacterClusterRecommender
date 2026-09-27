@@ -1,11 +1,1 @@
-{
-  "name": "Thalim",
-  "show": "Shaman King",
-  "trope_count": 3,
-  "tropes": [
-    "ElementalRockPaperScissors",
-    "WalkingArmory",
-    "GreenThumb"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thalim", "show": "Shaman King", "trope_count": 3, "tropes": ["ElementalRockPaperScissors", "WalkingArmory", "GreenThumb"], "tropes_by_category": {}, "similar": []}

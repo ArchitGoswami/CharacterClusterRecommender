@@ -1,16 +1,1 @@
-{
-  "name": "Fi-Tor",
-  "show": "Challenge of the GoBots",
-  "trope_count": 8,
-  "tropes": [
-    "SpaceFighter",
-    "DumbMuscle",
-    "VillainousValor",
-    "YourTerroristsAreOurFreedomFighters",
-    "TokenCompetentMinion",
-    "FaceHeelTurn",
-    "TheDragon",
-    "VillainousFriendship"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fi-Tor", "show": "Challenge of the GoBots", "trope_count": 8, "tropes": ["SpaceFighter", "DumbMuscle", "VillainousValor", "YourTerroristsAreOurFreedomFighters", "TokenCompetentMinion", "FaceHeelTurn", "TheDragon", "VillainousFriendship"], "tropes_by_category": {}, "similar": [{"name": "Ghost Eyes", "show": "Gravity Falls", "id": "gravity_falls_ghost_eyes", "similarity": 0.16, "shared_tropes": 4}, {"name": "Commander Peepers", "show": "Wander Over Yonder", "id": "wander_over_yonder_commander_peepers", "similarity": 0.0396, "shared_tropes": 4}]}

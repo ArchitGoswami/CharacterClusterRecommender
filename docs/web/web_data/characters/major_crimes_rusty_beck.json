@@ -1,17 +1,1 @@
-{
-  "name": "Rusty Beck",
-  "show": "Major Crimes",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "TheChessmaster",
-    "LastEpisodeNewCharacter",
-    "ExtremelyProtectiveChild",
-    "TookALevelInKindness",
-    "StraightGay",
-    "CharacterDevelopment",
-    "ItsAllAboutMe",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rusty Beck", "show": "Major Crimes", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "TheChessmaster", "LastEpisodeNewCharacter", "ExtremelyProtectiveChild", "TookALevelInKindness", "StraightGay", "CharacterDevelopment", "ItsAllAboutMe", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": [{"name": "Rusty Beck", "show": "Closer, The", "id": "closer_the_rusty_beck", "similarity": 1.0, "shared_tropes": 9}, {"name": "Emily Thorne/Amanda Clarke", "show": "Revenge", "id": "revenge_emily_thorne_amanda_clarke", "similarity": 0.0698, "shared_tropes": 6}, {"name": "#-L", "show": "Loud House, The", "id": "loud_house_the_l", "similarity": 0.0365, "shared_tropes": 5}]}

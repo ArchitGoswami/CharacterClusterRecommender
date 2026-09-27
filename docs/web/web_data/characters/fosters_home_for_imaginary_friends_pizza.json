@@ -1,18 +1,1 @@
-{
-  "name": "Pizza",
-  "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 10,
-  "tropes": [
-    "FamilyUnfriendlyDeath",
-    "WeHardlyKnewYe",
-    "EatenAlive",
-    "TokenHeroicOrc",
-    "TheCutie",
-    "KillTheCutie",
-    "AlwaysChaoticEvil",
-    "AnthropomorphicFood",
-    "TeensAreMonsters",
-    "BigBrotherBully"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pizza", "show": "Foster's Home for Imaginary Friends", "trope_count": 10, "tropes": ["FamilyUnfriendlyDeath", "WeHardlyKnewYe", "EatenAlive", "TokenHeroicOrc", "TheCutie", "KillTheCutie", "AlwaysChaoticEvil", "AnthropomorphicFood", "TeensAreMonsters", "BigBrotherBully"], "tropes_by_category": {}, "similar": [{"name": "Extremeasaurs", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_extremeasaurs", "similarity": 0.25, "shared_tropes": 4}, {"name": "Terrence", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_terrence", "similarity": 0.0583, "shared_tropes": 6}]}

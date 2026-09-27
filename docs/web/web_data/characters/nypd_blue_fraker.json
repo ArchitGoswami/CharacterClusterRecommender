@@ -1,13 +1,1 @@
-{
-  "name": "Fraker",
-  "show": "NYPD Blue",
-  "trope_count": 5,
-  "tropes": [
-    "PetTheDog",
-    "ArchEnemy",
-    "TheAlcoholic",
-    "ObstructiveBureaucrat",
-    "KarmaHoudiniWarranty"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fraker", "show": "NYPD Blue", "trope_count": 5, "tropes": ["PetTheDog", "ArchEnemy", "TheAlcoholic", "ObstructiveBureaucrat", "KarmaHoudiniWarranty"], "tropes_by_category": {}, "similar": [{"name": "Ms. Angela Li", "show": "Daria", "id": "daria_ms_angela_li", "similarity": 0.1333, "shared_tropes": 4}]}

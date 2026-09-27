@@ -1,14 +1,1 @@
-{
-  "name": "Edie Pegden",
-  "show": "Last of the Summer Wine",
-  "trope_count": 6,
-  "tropes": [
-    "AwLookTheyReallyDoLoveEachOther",
-    "NeverMyFault",
-    "DrivesLikeCrazy",
-    "UpperClassTwit",
-    "CharacterDevelopment",
-    "NeatFreak"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Edie Pegden", "show": "Last of the Summer Wine", "trope_count": 6, "tropes": ["AwLookTheyReallyDoLoveEachOther", "NeverMyFault", "DrivesLikeCrazy", "UpperClassTwit", "CharacterDevelopment", "NeatFreak"], "tropes_by_category": {}, "similar": [{"name": "Muffin", "show": "Bluey", "id": "bluey_muffin", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Rachel", "show": "Friends", "id": "friends_rachel", "similarity": 0.0417, "shared_tropes": 5}, {"name": "Lola Loud", "show": "Loud House, The", "id": "loud_house_the_lola_loud", "similarity": 0.0367, "shared_tropes": 4}, {"name": "Trina Vega", "show": "Victorious", "id": "victorious_trina_vega", "similarity": 0.036, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Cafe  36",
-  "show": "Kitchen Nightmares",
-  "trope_count": 9,
-  "tropes": [
-    "MedalOfDishonor",
-    "HypercompetentSidekick",
-    "NeverMyFault",
-    "TookALevelInBadass",
-    "BrutalHonesty",
-    "TheLoad",
-    "InsistentTerminology",
-    "CantTakeCriticism",
-    "Workaholic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cafe  36", "show": "Kitchen Nightmares", "trope_count": 9, "tropes": ["MedalOfDishonor", "HypercompetentSidekick", "NeverMyFault", "TookALevelInBadass", "BrutalHonesty", "TheLoad", "InsistentTerminology", "CantTakeCriticism", "Workaholic"], "tropes_by_category": {}, "similar": [{"name": "Cafe  36", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_cafe_36", "similarity": 1.0, "shared_tropes": 9}, {"name": "Charlie's", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_charlie_s", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Charlie's", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_charlie_s", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Grasshopper Also", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_grasshopper_also", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Grasshopper Also", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_grasshopper_also", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Dillon's/Purnima", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_dillon_s_purnima", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Dillon's/Purnima", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_dillon_s_purnima", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Zeke's", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_zeke_s", "similarity": 0.1739, "shared_tropes": 4}]}

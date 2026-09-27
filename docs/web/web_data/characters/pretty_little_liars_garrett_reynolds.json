@@ -1,17 +1,1 @@
-{
-  "name": "Garrett Reynolds",
-  "show": "Pretty Little Liars",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "AmbiguouslyEvil",
-    "SecretRelationship",
-    "Jerkass",
-    "NiceGuy",
-    "EvilAllAlong",
-    "MistakenForMurderer",
-    "HeelFaceDoorSlam",
-    "HeKnowsTooMuch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Garrett Reynolds", "show": "Pretty Little Liars", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "AmbiguouslyEvil", "SecretRelationship", "Jerkass", "NiceGuy", "EvilAllAlong", "MistakenForMurderer", "HeelFaceDoorSlam", "HeKnowsTooMuch"], "tropes_by_category": {}, "similar": [{"name": "Kibaou", "show": "Sword Art Online", "id": "sword_art_online_kibaou", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Clarence \"Clay\" Morrow", "show": "Sons of Anarchy", "id": "sons_of_anarchy_clarence_clay_morrow", "similarity": 0.0571, "shared_tropes": 4}]}

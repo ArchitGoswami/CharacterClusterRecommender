@@ -1,15 +1,1 @@
-{
-  "name": "Buckley",
-  "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 7,
-  "tropes": [
-    "EnfantTerrible",
-    "SpoiledBrat",
-    "WhenYouComingHomeDad",
-    "CreepyChild",
-    "NamesToRunAwayFromReallyFast",
-    "OutOfFocus",
-    "CharacterizationMarchesOn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buckley", "show": "Unbreakable Kimmy Schmidt", "trope_count": 7, "tropes": ["EnfantTerrible", "SpoiledBrat", "WhenYouComingHomeDad", "CreepyChild", "NamesToRunAwayFromReallyFast", "OutOfFocus", "CharacterizationMarchesOn"], "tropes_by_category": {}, "similar": [{"name": "Charlotte Pickles", "show": "Rugrats", "id": "rugrats_charlotte_pickles", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Mac", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_mac", "similarity": 0.0374, "shared_tropes": 4}]}

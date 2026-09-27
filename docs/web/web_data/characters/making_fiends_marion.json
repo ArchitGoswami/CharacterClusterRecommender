@@ -1,14 +1,1 @@
-{
-  "name": "Marion",
-  "show": "Making Fiends",
-  "trope_count": 6,
-  "tropes": [
-    "HugeSchoolgirl",
-    "FridgeHorror",
-    "ShrinkingViolet",
-    "HiddenDepths",
-    "ParentalAbandonment",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Marion", "show": "Making Fiends", "trope_count": 7, "tropes": ["HiddenDepths", "ShrinkingViolet", "DayintheLimelight", "HugeSchoolgirl", "ParentalAbandonment", "Cloudcuckoolander", "ScreamingWoman"], "tropes_by_category": {}, "similar": []}

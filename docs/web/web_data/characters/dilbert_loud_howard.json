@@ -1,15 +1,1 @@
-{
-  "name": "Loud Howard",
-  "show": "Dilbert",
-  "trope_count": 7,
-  "tropes": [
-    "GaleForceSound",
-    "VolumetricMouth",
-    "CompositeCharacter",
-    "HypocriticalHumor",
-    "MeaningfulName",
-    "AscendedExtra",
-    "NoIndoorVoice"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Loud Howard", "show": "Dilbert", "trope_count": 7, "tropes": ["GaleForceSound", "VolumetricMouth", "CompositeCharacter", "HypocriticalHumor", "MeaningfulName", "AscendedExtra", "NoIndoorVoice"], "tropes_by_category": {}, "similar": [{"name": "Sgt. Hatred", "show": "Venture Bros., The", "id": "venture_bros_the_sgt_hatred", "similarity": 0.0408, "shared_tropes": 4}]}

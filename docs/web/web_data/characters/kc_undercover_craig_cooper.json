@@ -1,13 +1,1 @@
-{
-  "name": "Craig Cooper",
-  "show": "K.C. Undercover",
-  "trope_count": 5,
-  "tropes": [
-    "ActionDad",
-    "BewareTheSillyOnes",
-    "RealMenCook",
-    "BumblingDad",
-    "PapaWolf"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Craig Cooper", "show": "K.C. Undercover", "trope_count": 5, "tropes": ["ActionDad", "BewareTheSillyOnes", "RealMenCook", "BumblingDad", "PapaWolf"], "tropes_by_category": {}, "similar": [{"name": "Hal", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_hal", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Cleveland Brown", "show": "Cleveland Show, The", "id": "cleveland_show_the_cleveland_brown", "similarity": 0.0408, "shared_tropes": 4}]}

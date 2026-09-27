@@ -1,16 +1,1 @@
-{
-  "name": "Oberoth",
-  "show": "Stargate Atlantis",
-  "trope_count": 8,
-  "tropes": [
-    "DrivenByEnvy",
-    "BigBadWannabe",
-    "ParentalFavoritism",
-    "EnemyMine",
-    "ArmorPiercingResponse",
-    "MindProbe",
-    "EvilIsPetty",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Oberoth", "show": "Stargate Atlantis", "trope_count": 8, "tropes": ["DrivenByEnvy", "BigBadWannabe", "ParentalFavoritism", "EnemyMine", "ArmorPiercingResponse", "MindProbe", "EvilIsPetty", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.093, "shared_tropes": 4}, {"name": "Jose Porla", "show": "Fairy Tail", "id": "fairy_tail_jose_porla", "similarity": 0.0563, "shared_tropes": 4}, {"name": "The Purple Man", "show": "Daredevil", "id": "daredevil_the_purple_man", "similarity": 0.05, "shared_tropes": 4}, {"name": "Gerald Broflovski", "show": "South Park", "id": "south_park_gerald_broflovski", "similarity": 0.0374, "shared_tropes": 4}]}

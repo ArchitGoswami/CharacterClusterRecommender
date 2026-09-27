@@ -1,15 +1,1 @@
-{
-  "name": "Dawn",
-  "show": "Girls5eva",
-  "trope_count": 7,
-  "tropes": [
-    "OnlySaneWoman",
-    "Hypochondria",
-    "HappilyMarried",
-    "SexierAlterEgo",
-    "NiceGirl",
-    "FamilyVersusCareer",
-    "AudienceSurrogate"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dawn", "show": "Girls5eva", "trope_count": 7, "tropes": ["OnlySaneWoman", "Hypochondria", "HappilyMarried", "SexierAlterEgo", "NiceGirl", "FamilyVersusCareer", "AudienceSurrogate"], "tropes_by_category": {}, "similar": [{"name": "Lisa George", "show": "Dirty Sexy Money", "id": "dirty_sexy_money_lisa_george", "similarity": 0.2, "shared_tropes": 4}]}

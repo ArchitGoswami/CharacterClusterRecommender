@@ -1,14 +1,1 @@
-{
-  "name": "Commodore Vector Azimuth Miller",
-  "show": "Moonbeam City",
-  "trope_count": 6,
-  "tropes": [
-    "CoolOldGuy",
-    "HonestCorporateExecutive",
-    "GoodParents",
-    "ParentalFavoritism",
-    "SoProudOfYou",
-    "LiterallyShatteredLives"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Commodore Vector Azimuth Miller", "show": "Moonbeam City", "trope_count": 6, "tropes": ["CoolOldGuy", "HonestCorporateExecutive", "GoodParents", "ParentalFavoritism", "SoProudOfYou", "LiterallyShatteredLives"], "tropes_by_category": {}, "similar": [{"name": "Red Forman", "show": "That '70s Show", "id": "that_70s_show_red_forman", "similarity": 0.0374, "shared_tropes": 4}]}

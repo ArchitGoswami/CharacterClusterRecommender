@@ -69,9 +69,12 @@
       "tropes": [
         "AMFMCharacterization",
         "TheDitz",
-        "HappilyMarried",
-        "CountryMouse",
         "TheTopicOfCancer",
+        "HappilyMarried",
+        "NiceGirl",
+        "MassiveNumberedSiblings",
+        "StatuesqueStunner",
+        "CountryMouse",
         "Fanboy",
         "ElvisLives"
       ],
@@ -100,7 +103,18 @@
       ],
       "description": "Cloudcuckoolander: Her defining trait. Eventually her eccentricities are believed to be an actual mental problem, requiring a court-mandated sanity hearing. Drop-In Character: She always manages to come by at random, but is nonetheless welcome.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Designing Women",
+      "tropes": [
+        "GoodParents",
+        "TrueCompanions",
+        "FriendToAllChildren"
+      ],
+      "description": "Good Parents: Julia, Mary Jo and Charlene are shown to be loving and attentive parents, and although the others don't have children,they nonetheless have a good rapport with children in general. True Companions: The quartet (along with Anthony and Bernice) are close friends to the point of being like family.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 7
+  "character_count": 8
 }

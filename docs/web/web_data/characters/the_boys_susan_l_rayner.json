@@ -1,13 +1,1 @@
-{
-  "name": "Susan L. Rayner",
-  "show": "The Boys",
-  "trope_count": 5,
-  "tropes": [
-    "EstablishingCharacterMoment",
-    "ConvictedByPublicOpinion",
-    "SlapSlapKiss",
-    "DirtyCommunists",
-    "The80s"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Susan L. Rayner", "show": "The Boys", "trope_count": 5, "tropes": ["EstablishingCharacterMoment", "ConvictedByPublicOpinion", "SlapSlapKiss", "DirtyCommunists", "The80s"], "tropes_by_category": {}, "similar": [{"name": "Susan L. Rayner", "show": "Boys, The", "id": "boys_the_susan_l_rayner", "similarity": 1.0, "shared_tropes": 5}]}

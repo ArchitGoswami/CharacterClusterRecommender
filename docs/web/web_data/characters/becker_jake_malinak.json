@@ -1,17 +1,1 @@
-{
-  "name": "Jake Malinak",
-  "show": "Becker",
-  "trope_count": 9,
-  "tropes": [
-    "TheCasanova",
-    "DeadpanSnarker",
-    "OddFriendship",
-    "SnarkToSnarkCombat",
-    "Jerkass",
-    "BlindPeopleWearSunglasses",
-    "BlindBlackGuy",
-    "SadistShow",
-    "FourTemperamentEnsemble"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jake Malinak", "show": "Becker", "trope_count": 9, "tropes": ["TheCasanova", "DeadpanSnarker", "OddFriendship", "SnarkToSnarkCombat", "Jerkass", "BlindPeopleWearSunglasses", "BlindBlackGuy", "SadistShow", "FourTemperamentEnsemble"], "tropes_by_category": {}, "similar": [{"name": "Supporting Cast", "show": "Harper's Island", "id": "harpers_island_supporting_cast", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Chuck Bass", "show": "Gossip Girl", "id": "gossip_girl_chuck_bass", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Jerry Seinfeld", "show": "Seinfeld", "id": "seinfeld_jerry_seinfeld", "similarity": 0.0494, "shared_tropes": 4}, {"name": "In General", "show": "The Big Bang Theory", "id": "the_big_bang_theory_in_general", "similarity": 0.04, "shared_tropes": 4}]}

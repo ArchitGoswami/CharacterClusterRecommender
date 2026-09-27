@@ -1,14 +1,1 @@
-{
-  "name": "Darlene Patel",
-  "show": "Sanjay and Craig",
-  "trope_count": 6,
-  "tropes": [
-    "HospitalHottie",
-    "BerserkButton",
-    "MasculineGirlFeminineBoy",
-    "ActionMom",
-    "MamaBear",
-    "InkSuitActor"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Darlene Patel", "show": "Sanjay and Craig", "trope_count": 6, "tropes": ["HospitalHottie", "BerserkButton", "MasculineGirlFeminineBoy", "ActionMom", "MamaBear", "InkSuitActor"], "tropes_by_category": {}, "similar": [{"name": "Lois", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_lois", "similarity": 0.0455, "shared_tropes": 4}]}

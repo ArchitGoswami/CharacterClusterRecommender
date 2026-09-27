@@ -1,16 +1,1 @@
-{
-  "name": "Deborah \"Dee\" Marshall",
-  "show": "Insatiable",
-  "trope_count": 8,
-  "tropes": [
-    "OnlySaneWoman",
-    "BigBeautifulWoman",
-    "ArtistsAreAttractive",
-    "ToxicFriendInfluence",
-    "FatAndProud",
-    "TwoferTokenMinority",
-    "NiceGirl",
-    "FunctionalAddict"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Deborah \"Dee\" Marshall", "show": "Insatiable", "trope_count": 8, "tropes": ["OnlySaneWoman", "BigBeautifulWoman", "ArtistsAreAttractive", "ToxicFriendInfluence", "FatAndProud", "TwoferTokenMinority", "NiceGirl", "FunctionalAddict"], "tropes_by_category": {}, "similar": [{"name": "Flower (Susan Montero)", "show": "Ghosts US", "id": "ghosts_us_flower_susan_montero", "similarity": 0.0889, "shared_tropes": 4}]}

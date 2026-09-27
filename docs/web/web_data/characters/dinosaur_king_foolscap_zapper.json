@@ -1,13 +1,1 @@
-{
-  "name": "Foolscap (Zapper)",
-  "show": "Dinosaur King",
-  "trope_count": 5,
-  "tropes": [
-    "SinisterSchnoz",
-    "LeanAndMean",
-    "SmugSnake",
-    "ThinChinOfSin",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Foolscap (Zapper)", "show": "Dinosaur King", "trope_count": 5, "tropes": ["SinisterSchnoz", "LeanAndMean", "SmugSnake", "ThinChinOfSin", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Condiment King", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_condiment_king", "similarity": 0.0714, "shared_tropes": 4}]}

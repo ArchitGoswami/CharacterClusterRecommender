@@ -1,16 +1,1 @@
-{
-  "name": "Alejandro Rivera",
-  "show": "NCIS",
-  "trope_count": 8,
-  "tropes": [
-    "MoralMyopia",
-    "FeudingFamilies",
-    "AmoralAttorney",
-    "NotMeThisTime",
-    "YouKilledMyFather",
-    "AccidentalMurder",
-    "EvenEvilHasStandards",
-    "DragonAscendant"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alejandro Rivera", "show": "NCIS", "trope_count": 8, "tropes": ["MoralMyopia", "FeudingFamilies", "AmoralAttorney", "NotMeThisTime", "YouKilledMyFather", "AccidentalMurder", "EvenEvilHasStandards", "DragonAscendant"], "tropes_by_category": {}, "similar": [{"name": "Julian Sark", "show": "Alias", "id": "alias_julian_sark", "similarity": 0.0635, "shared_tropes": 4}]}

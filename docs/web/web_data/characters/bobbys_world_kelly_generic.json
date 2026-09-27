@@ -1,16 +1,1 @@
-{
-  "name": "Kelly Generic",
-  "show": "Bobby's World",
-  "trope_count": 8,
-  "tropes": [
-    "Catchphrase",
-    "JerkWithAHeartOfGold",
-    "DrivesLikeCrazy",
-    "DramaQueen",
-    "ValleyGirl",
-    "NiceMeanAndInBetween",
-    "BrattyTeenageDaughter",
-    "ModestyTowel"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kelly Generic", "show": "Bobby's World", "trope_count": 8, "tropes": ["Catchphrase", "JerkWithAHeartOfGold", "DrivesLikeCrazy", "DramaQueen", "ValleyGirl", "NiceMeanAndInBetween", "BrattyTeenageDaughter", "ModestyTowel"], "tropes_by_category": {}, "similar": [{"name": "Debbie Thornberry", "show": "Wild Thornberrys, The", "id": "wild_thornberrys_the_debbie_thornberry", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Princess Candy", "show": "Dave the Barbarian", "id": "dave_the_barbarian_princess_candy", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Taz", "show": "Taz-Mania", "id": "taz_mania_taz", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Tonya", "show": "Everybody Hates Chris", "id": "everybody_hates_chris_tonya", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Helen Lovejoy", "show": "Simpsons,The", "id": "simpsonsthe_helen_lovejoy", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Helen Lovejoy", "show": "The Simpsons", "id": "the_simpsons_helen_lovejoy", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Lily", "show": "Kappa Mikey", "id": "kappa_mikey_lily", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Lumpy Space Princess", "show": "Adventure Time", "id": "adventure_time_lumpy_space_princess", "similarity": 0.0784, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Yukito",
-  "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 8,
-  "tropes": [
-    "OfficialCouple",
-    "Seers",
-    "ChildhoodFriendRomance",
-    "ReligionIsMagic",
-    "PsychicPowers",
-    "MagicStaff",
-    "AlternateSelf",
-    "HighPriest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Yukito", "show": "Tsubasa RESERVoir CHRoNiCLE", "trope_count": 8, "tropes": ["OfficialCouple", "Seers", "ChildhoodFriendRomance", "ReligionIsMagic", "PsychicPowers", "MagicStaff", "AlternateSelf", "HighPriest"], "tropes_by_category": {}, "similar": [{"name": "Sakura", "show": "Tsubasa RESERVoir CHRoNiCLE", "id": "tsubasa_reservoir_chronicle_sakura", "similarity": 0.0606, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Helen Demarcus",
-  "show": "AP Bio",
-  "trope_count": 5,
-  "tropes": [
-    "ButchLesbian",
-    "JerkWithAHeartOfGold",
-    "ComicallyMissingThePoint",
-    "LargeHam",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Helen Demarcus", "show": "AP Bio", "trope_count": 5, "tropes": ["ButchLesbian", "JerkWithAHeartOfGold", "ComicallyMissingThePoint", "LargeHam", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": [{"name": "Jean-Ralphio Saperstein", "show": "Parks and Recreation", "id": "parks_and_recreation_jean_ralphio_saperstein", "similarity": 0.1667, "shared_tropes": 4}]}

@@ -1,11 +1,1 @@
-{
-  "name": "Dogknott",
-  "show": "The Boys",
-  "trope_count": 3,
-  "tropes": [
-    "BiggerIsBetterInBed",
-    "AtrociousAlias",
-    "WolfMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dogknott", "show": "The Boys", "trope_count": 4, "tropes": ["AtrociousAlias", "WolfMan", "BiggerIsBetterInBed", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Dogknott", "show": "Boys, The", "id": "boys_the_dogknott", "similarity": 1.0, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Adam Maitland",
-  "show": "Beetlejuice",
-  "trope_count": 8,
-  "tropes": [
-    "EstablishingCharacterMoment",
-    "BodyHorror",
-    "ShapeshifterModeLock",
-    "NiceGuy",
-    "AcCENTUponTheWrongSylLABle",
-    "HypocriticalHumor",
-    "Fanboy",
-    "PapaWolf"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Adam Maitland", "show": "Beetlejuice", "trope_count": 8, "tropes": ["EstablishingCharacterMoment", "BodyHorror", "ShapeshifterModeLock", "NiceGuy", "AcCENTUponTheWrongSylLABle", "HypocriticalHumor", "Fanboy", "PapaWolf"], "tropes_by_category": {}, "similar": [{"name": "Lizard", "show": "Spider-Man", "id": "spider_man_lizard", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Lizard", "show": "Your Friendly Neighborhood Spider-Man", "id": "your_friendly_neighborhood_spider_man_lizard", "similarity": 0.0426, "shared_tropes": 4}]}

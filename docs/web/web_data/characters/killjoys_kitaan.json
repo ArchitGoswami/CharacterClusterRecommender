@@ -1,18 +1,1 @@
-{
-  "name": "Kitaan",
-  "show": "Killjoys",
-  "trope_count": 10,
-  "tropes": [
-    "FakeMemories",
-    "AndIMustScream",
-    "ItMakesSenseInContext",
-    "DarkActionGirl",
-    "AxCrazy",
-    "ThrownOutTheAirlock",
-    "AmbiguouslyGay",
-    "DesignatedGirlFight",
-    "BreakThemByTalking",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kitaan", "show": "Killjoys", "trope_count": 10, "tropes": ["FakeMemories", "AndIMustScream", "ItMakesSenseInContext", "DarkActionGirl", "AxCrazy", "ThrownOutTheAirlock", "AmbiguouslyGay", "DesignatedGirlFight", "BreakThemByTalking", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Negaduck", "show": "Darkwing Duck", "id": "darkwing_duck_negaduck", "similarity": 0.0435, "shared_tropes": 4}, {"name": "The Almighty Tallest (Red & Purple)", "show": "Invader Zim", "id": "invader_zim_the_almighty_tallest_red_purple", "similarity": 0.0394, "shared_tropes": 5}]}

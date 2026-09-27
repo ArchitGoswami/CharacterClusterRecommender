@@ -1,14 +1,1 @@
-{
-  "name": "Chris Venstar",
-  "show": "Shaman King",
-  "trope_count": 6,
-  "tropes": [
-    "TheBigGuy",
-    "PetTheDog",
-    "HandicappedBadass",
-    "SenselessSacrifice",
-    "UndyingLoyalty",
-    "PsychoSupporter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chris Venstar", "show": "Shaman King", "trope_count": 6, "tropes": ["TheBigGuy", "PetTheDog", "HandicappedBadass", "SenselessSacrifice", "UndyingLoyalty", "PsychoSupporter"], "tropes_by_category": {}, "similar": [{"name": "Dragon Shiryu", "show": "Saint Seiya", "id": "saint_seiya_dragon_shiryu", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Legato Bluesummers", "show": "Trigun", "id": "trigun_legato_bluesummers", "similarity": 0.0521, "shared_tropes": 5}]}

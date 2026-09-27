@@ -1,18 +1,1 @@
-{
-  "name": "David Shepherd",
-  "show": "Kings",
-  "trope_count": 10,
-  "tropes": [
-    "DisappearedDad",
-    "TheChosenOne",
-    "HolyHalo",
-    "DavidVersusGoliath",
-    "MassiveNumberedSiblings",
-    "MeaningfulName",
-    "HumbleHero",
-    "YoungestChildWins",
-    "RankUp",
-    "FarmBoy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "David Shepherd", "show": "Kings", "trope_count": 10, "tropes": ["DisappearedDad", "TheChosenOne", "HolyHalo", "DavidVersusGoliath", "MassiveNumberedSiblings", "MeaningfulName", "HumbleHero", "YoungestChildWins", "RankUp", "FarmBoy"], "tropes_by_category": {}, "similar": [{"name": "Forrest Gump", "show": "Forrest Gump", "id": "forrest_gump_forrest_gump", "similarity": 0.04, "shared_tropes": 4}, {"name": "Jinora", "show": "Legend of Korra, The", "id": "legend_of_korra_the_jinora", "similarity": 0.0351, "shared_tropes": 4}]}

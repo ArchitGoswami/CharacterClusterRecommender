@@ -1,16 +1,1 @@
-{
-  "name": "Ketta",
-  "show": "Breadwinners",
-  "trope_count": 8,
-  "tropes": [
-    "ActionGirl",
-    "WrenchWench",
-    "TheSmartGuy",
-    "MasculineGirlFeminineBoy",
-    "UnwantedAssistance",
-    "SmellyFeetGag",
-    "OnlySaneMan",
-    "RollerbladeGood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ketta", "show": "Breadwinners", "trope_count": 13, "tropes": ["ActionGirl", "TomboyWithAGirlyStreak", "GenkiGirl", "MasculineGirlFeminineBoy", "RollerbladeGood", "WrenchWench", "TheSmartGuy", "OnlySaneMan", "SmellyFeetGag", "Expy", "UnwantedAssistance", "Catchphrase", "BigSisterInstinct"], "tropes_by_category": {}, "similar": [{"name": "Natsumi Shinohara/Yellow Racer", "show": "Gekisou Sentai Carranger", "id": "gekisou_sentai_carranger_natsumi_shinohara_yellow_racer", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Po", "show": "Teletubbies", "id": "teletubbies_po", "similarity": 0.15, "shared_tropes": 6}, {"name": "Maurecia", "show": "Wayside", "id": "wayside_maurecia", "similarity": 0.1389, "shared_tropes": 5}, {"name": "Gretchen", "show": "Camp Lakebottom", "id": "camp_lakebottom_gretchen", "similarity": 0.125, "shared_tropes": 4}, {"name": "Melissa Chase", "show": "Milo Murphy's Law", "id": "milo_murphys_law_melissa_chase", "similarity": 0.0938, "shared_tropes": 6}, {"name": "Bessie Higgenbottom", "show": "Mighty B!, The", "id": "mighty_b_the_bessie_higgenbottom", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Patricia \"Pepper\" Potts", "show": "Iron Man: Armored Adventures", "id": "iron_man_armored_adventures_patricia_pepper_potts", "similarity": 0.087, "shared_tropes": 4}, {"name": "Fionna", "show": "Adventure Time", "id": "adventure_time_fionna", "similarity": 0.0833, "shared_tropes": 4}]}

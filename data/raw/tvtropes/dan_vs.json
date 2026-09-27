@@ -509,10 +509,11 @@
       "name": "The Governor of California",
       "media_title": "Dan Vs.",
       "tropes": [
+        "KarmaHoudini",
         "EvilBrit",
         "PatrioticFervor"
       ],
-      "description": "The Governor of California. He's clearly a little shady. Evil Brit:He turns out to be a British spy sent to make America stupider. Patriotic Fervor: His main defense against anyone who asks too many questions is that \"unlikethem, he believes in this country\". It's hard to believe it's how he really feels.And it certainly isn't.",
+      "description": "The Governor of California. He's clearly a little shady. Evil Brit:He turns out to be a British spy sent to make America stupider. Karma Houdini: The governor leaves to start dumbing down China, having suffered no consequences for his actions. Patriotic Fervor: His main defense against anyone who asks too many questions is that \"unlikethem, he believes in this country\". It's hard to believe it's how he really feels.And it certainly isn't.",
       "source": "tvtropes"
     },
     {
@@ -586,7 +587,19 @@
       ],
       "description": "An egotistical local traffic-copter reporter and minor celebrity. Bunny-Ears Lawyer: Despite his massive ego and the attitude that comes with it, he is a fully qualified reporter and pilot. The Scapegoat: Dan needs to commandeer his helicopter for his actual plan, but he still punches Hal a couple times just because he's mad at traffic andbecause he can't digest butter. Hal rather sensibly points out that none of those things are his fault. Small Name, Big Ego: He thinks he’s way more famous than he actually is.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General (Dan, Chris and Elise)",
+      "media_title": "Dan Vs.",
+      "tropes": [
+        "OnlySaneWoman",
+        "FunTShirt",
+        "NiceMeanAndInbetween",
+        "FreudianTrio"
+      ],
+      "description": "Freudian Trio: Dan is the Ego, Chris is the Id, Elise is the Superego. Nice, Mean, and In-Between: Chris is friendly and helpful, if a bit passive (nice), Dan is ill-tempered and rude to everyone around him and even wears a shirt labeled \"Jerk\" (mean), and Elise is theOnly Sane Womanwho can be just as dangerous and vengeful as Dan (in-between).",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 25
+  "character_count": 26
 }

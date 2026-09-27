@@ -1,16 +1,1 @@
-{
-  "name": "Maggie",
-  "show": "Falling Skies",
-  "trope_count": 8,
-  "tropes": [
-    "ActionGirl",
-    "BrokenBird",
-    "EmpoweredBadassNormal",
-    "ChildSoldier",
-    "DespairEventHorizon",
-    "DefrostingIceQueen",
-    "ShipTease",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Maggie", "show": "Falling Skies", "trope_count": 8, "tropes": ["ActionGirl", "BrokenBird", "EmpoweredBadassNormal", "ChildSoldier", "DespairEventHorizon", "DefrostingIceQueen", "ShipTease", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": [{"name": "Angel", "show": "Big O", "id": "big_o_angel", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Yuri Nakamura", "show": "Angel Beats!", "id": "angel_beats_yuri_nakamura", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Nikita", "show": "Nikita", "id": "nikita_nikita", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Arcee", "show": "Transformers Prime", "id": "transformers_prime_arcee", "similarity": 0.0588, "shared_tropes": 4}, {"name": "#-E", "show": "Steven Universe", "id": "steven_universe_e", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Wolf", "show": "Kipo and the Age of Wonderbeasts", "id": "kipo_and_the_age_of_wonderbeasts_wolf", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Teresa Lisbon", "show": "Mentalist, The", "id": "mentalist_the_teresa_lisbon", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Emily Thorne/Amanda Clarke", "show": "Revenge", "id": "revenge_emily_thorne_amanda_clarke", "similarity": 0.046, "shared_tropes": 4}]}

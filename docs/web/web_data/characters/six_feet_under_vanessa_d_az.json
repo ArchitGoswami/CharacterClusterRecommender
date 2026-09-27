@@ -1,18 +1,1 @@
-{
-  "name": "Vanessa Díaz",
-  "show": "Six Feet Under",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "JerkWithAHeartOfGold",
-    "ADayInTheLimelight",
-    "SpicyLatina",
-    "FriendToAllChildren",
-    "SatelliteCharacter",
-    "DesignatedGirlFight",
-    "MarriedTooYoung",
-    "MovingBeyondBereavement",
-    "HighSchoolSweethearts"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Vanessa Díaz", "show": "Six Feet Under", "trope_count": 10, "tropes": ["DeadpanSnarker", "JerkWithAHeartOfGold", "ADayInTheLimelight", "SpicyLatina", "FriendToAllChildren", "SatelliteCharacter", "DesignatedGirlFight", "MarriedTooYoung", "MovingBeyondBereavement", "HighSchoolSweethearts"], "tropes_by_category": {}, "similar": [{"name": "Eli \"Weevil\" Navarro", "show": "Veronica Mars", "id": "veronica_mars_eli_weevil_navarro", "similarity": 0.08, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Kim Parker",
-  "show": "Moesha",
-  "trope_count": 9,
-  "tropes": [
-    "CannotKeepASecret",
-    "MaleBandFemaleSinger",
-    "DeadpanSnarker",
-    "AbhorrentAdmirer",
-    "TheDitz",
-    "FatBestFriend",
-    "GreenEyedMonster",
-    "LargeHam",
-    "BreakoutCharacter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kim Parker", "show": "Moesha", "trope_count": 9, "tropes": ["CannotKeepASecret", "MaleBandFemaleSinger", "DeadpanSnarker", "AbhorrentAdmirer", "TheDitz", "FatBestFriend", "GreenEyedMonster", "LargeHam", "BreakoutCharacter"], "tropes_by_category": {}, "similar": [{"name": "JackMcFarland", "show": "Will & Grace", "id": "will_and_grace_jackmcfarland", "similarity": 0.1, "shared_tropes": 4}, {"name": "Cameron \"Cam\" Tucker", "show": "Modern Family", "id": "modern_family_cameron_cam_tucker", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Carl Wheezer", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_carl_wheezer", "similarity": 0.0658, "shared_tropes": 5}, {"name": "Antoine Depardieu", "show": "Sonic the Hedgehog(SatAM)", "id": "sonic_the_hedgehogsatam_antoine_depardieu", "similarity": 0.0571, "shared_tropes": 4}, {"name": "J. Jonah Jameson", "show": "Spider-Man", "id": "spider_man_j_jonah_jameson", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Phoebe", "show": "Friends", "id": "friends_phoebe", "similarity": 0.0435, "shared_tropes": 5}, {"name": "George Costanza", "show": "Seinfeld", "id": "seinfeld_george_costanza", "similarity": 0.0351, "shared_tropes": 4}]}

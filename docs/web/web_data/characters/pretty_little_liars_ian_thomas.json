@@ -1,15 +1,1 @@
-{
-  "name": "Ian Thomas",
-  "show": "Pretty Little Liars",
-  "trope_count": 7,
-  "tropes": [
-    "AmbiguouslyEvil",
-    "CovertPervert",
-    "SuicideNotMurder",
-    "HateSink",
-    "SacrificialLion",
-    "TheSociopath",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ian Thomas", "show": "Pretty Little Liars", "trope_count": 7, "tropes": ["AmbiguouslyEvil", "CovertPervert", "SuicideNotMurder", "HateSink", "SacrificialLion", "TheSociopath", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Logan Wheeler", "show": "Chuck", "id": "chuck_logan_wheeler", "similarity": 0.0678, "shared_tropes": 4}]}

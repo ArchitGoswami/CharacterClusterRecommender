@@ -1,16 +1,1 @@
-{
-  "name": "Sir Loungelot",
-  "show": "Blazing Dragons",
-  "trope_count": 8,
-  "tropes": [
-    "DirtyCoward",
-    "Expy",
-    "ProfessionalButtKisser",
-    "NoHoldsBarredBeatdown",
-    "LazyBum",
-    "MeaningfulName",
-    "BadBoss",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sir Loungelot", "show": "Blazing Dragons", "trope_count": 8, "tropes": ["DirtyCoward", "Expy", "ProfessionalButtKisser", "NoHoldsBarredBeatdown", "LazyBum", "MeaningfulName", "BadBoss", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Robert Freeman", "show": "Boondocks,The", "id": "boondocksthe_robert_freeman", "similarity": 0.0417, "shared_tropes": 5}]}

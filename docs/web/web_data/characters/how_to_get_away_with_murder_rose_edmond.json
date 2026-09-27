@@ -1,14 +1,1 @@
-{
-  "name": "Rose Edmond",
-  "show": "How to get away with murder",
-  "trope_count": 6,
-  "tropes": [
-    "DarkSecret",
-    "MamaBear",
-    "PosthumousCharacter",
-    "MissingMom",
-    "DrivenToSuicide",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rose Edmond", "show": "How to get away with murder", "trope_count": 6, "tropes": ["DarkSecret", "MamaBear", "PosthumousCharacter", "MissingMom", "DrivenToSuicide", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": [{"name": "The Empress", "show": "Samurai Jack", "id": "samurai_jack_the_empress", "similarity": 0.25, "shared_tropes": 4}, {"name": "Mary Alice Young", "show": "Desperate Housewives", "id": "desperate_housewives_mary_alice_young", "similarity": 0.129, "shared_tropes": 4}, {"name": "The Carter Family", "show": "EastEnders", "id": "eastenders_the_carter_family", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Kyoko Honda", "show": "Fruits Basket", "id": "fruits_basket_kyoko_honda", "similarity": 0.0421, "shared_tropes": 4}]}

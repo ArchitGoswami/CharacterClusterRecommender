@@ -1,18 +1,1 @@
-{
-  "name": "The North Wind",
-  "show": "Over the Garden Wall",
-  "trope_count": 10,
-  "tropes": [
-    "Expy",
-    "TheOldNorthWind",
-    "FairytaleMotifs",
-    "VillainSong",
-    "TropeNamer",
-    "SealedEvilInACan",
-    "EvilOldFolks",
-    "TheBrute",
-    "GenericDoomsdayVillain",
-    "KnightOfCerebus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The North Wind", "show": "Over the Garden Wall", "trope_count": 10, "tropes": ["Expy", "TheOldNorthWind", "FairytaleMotifs", "VillainSong", "TropeNamer", "SealedEvilInACan", "EvilOldFolks", "TheBrute", "GenericDoomsdayVillain", "KnightOfCerebus"], "tropes_by_category": {}, "similar": [{"name": "Kuchikukan", "show": "Penguins of Madagascar, The", "id": "penguins_of_madagascar_the_kuchikukan", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Villains", "show": "Freakazoid!", "id": "freakazoid_villains", "similarity": 0.0382, "shared_tropes": 5}, {"name": "Rampage/Protoform X", "show": "Beast Wars", "id": "beast_wars_rampage_protoform_x", "similarity": 0.0354, "shared_tropes": 4}]}

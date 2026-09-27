@@ -1,17 +1,1 @@
-{
-  "name": "Billy Wicket",
-  "show": "Mr. Bean",
-  "trope_count": 9,
-  "tropes": [
-    "OnlySixFaces",
-    "ReusedCharacterDesign",
-    "NiceGuy",
-    "EarlyInstallmentCharacterDesignDifference",
-    "ManChild",
-    "GivenNameReveal",
-    "IntergenerationalFriendship",
-    "MoralityPet",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Billy Wicket", "show": "Mr. Bean", "trope_count": 9, "tropes": ["OnlySixFaces", "ReusedCharacterDesign", "NiceGuy", "EarlyInstallmentCharacterDesignDifference", "ManChild", "GivenNameReveal", "IntergenerationalFriendship", "MoralityPet", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Father Dougal", "show": "Father Ted", "id": "father_ted_father_dougal", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Jyushimatsu Matsuno", "show": "Osomatsu-san", "id": "osomatsu_san_jyushimatsu_matsuno", "similarity": 0.0556, "shared_tropes": 4}]}

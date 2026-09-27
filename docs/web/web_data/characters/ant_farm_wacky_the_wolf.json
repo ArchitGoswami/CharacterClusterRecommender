@@ -1,18 +1,1 @@
-{
-  "name": "Wacky The Wolf",
-  "show": "A.N.T Farm",
-  "trope_count": 10,
-  "tropes": [
-    "NiceGuy",
-    "BerserkButton",
-    "RecurringExtra",
-    "PutOnABus",
-    "TheVoiceless",
-    "MeaningfulName",
-    "TheFaceless",
-    "DelusionsOfDoghood",
-    "Cloudcuckoolander",
-    "NoHoldsBarredBeatdown"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Wacky The Wolf", "show": "A.N.T Farm", "trope_count": 10, "tropes": ["NiceGuy", "BerserkButton", "RecurringExtra", "PutOnABus", "TheVoiceless", "MeaningfulName", "TheFaceless", "DelusionsOfDoghood", "Cloudcuckoolander", "NoHoldsBarredBeatdown"], "tropes_by_category": {}, "similar": [{"name": "Shoresy", "show": "Letterkenny", "id": "letterkenny_shoresy", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Recurring Characters", "show": "Still Game", "id": "still_game_recurring_characters", "similarity": 0.0482, "shared_tropes": 4}, {"name": "The Mitchell Family", "show": "EastEnders", "id": "eastenders_the_mitchell_family", "similarity": 0.0397, "shared_tropes": 6}]}

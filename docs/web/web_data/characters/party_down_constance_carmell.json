@@ -1,15 +1,1 @@
-{
-  "name": "Constance Carmell",
-  "show": "Party Down",
-  "trope_count": 7,
-  "tropes": [
-    "TheBusCameBack",
-    "TheDitz",
-    "SelfServingMemory",
-    "PutOnABus",
-    "NoSenseOfPersonalSpace",
-    "MeaningfulName",
-    "AgeGapRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Constance Carmell", "show": "Party Down", "trope_count": 7, "tropes": ["TheBusCameBack", "TheDitz", "SelfServingMemory", "PutOnABus", "NoSenseOfPersonalSpace", "MeaningfulName", "AgeGapRomance"], "tropes_by_category": {}, "similar": [{"name": "Ryo Bakura", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_ryo_bakura", "similarity": 0.036, "shared_tropes": 4}]}

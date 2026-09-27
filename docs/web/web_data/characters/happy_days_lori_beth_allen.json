@@ -1,17 +1,1 @@
-{
-  "name": "Lori Beth Allen",
-  "show": "Happy Days",
-  "trope_count": 9,
-  "tropes": [
-    "TheBusCameBack",
-    "BabiesMakeEverythingBetter",
-    "LoveInterest",
-    "HappilyMarried",
-    "PutOnABus",
-    "NiceGirl",
-    "DemotedToExtra",
-    "BackForTheFinale",
-    "PromotionToOpeningTitles"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lori Beth Allen", "show": "Happy Days", "trope_count": 9, "tropes": ["TheBusCameBack", "BabiesMakeEverythingBetter", "LoveInterest", "HappilyMarried", "PutOnABus", "NiceGirl", "DemotedToExtra", "BackForTheFinale", "PromotionToOpeningTitles"], "tropes_by_category": {}, "similar": [{"name": "Andrea \"Andie\"McPhee", "show": "Dawson's Creek", "id": "dawsons_creek_andrea_andie_mcphee", "similarity": 0.2273, "shared_tropes": 5}, {"name": "Steve Hale", "show": "Full House", "id": "full_house_steve_hale", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Millicent \"Millie\" Huxtable", "show": "One Tree Hill", "id": "one_tree_hill_millicent_millie_huxtable", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Chachi Arcola", "show": "Happy Days", "id": "happy_days_chachi_arcola", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Mary Jane Watson", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_mary_jane_watson", "similarity": 0.1064, "shared_tropes": 5}, {"name": "Curtis Holt / Mr. Terrific", "show": "Arrow", "id": "arrow_curtis_holt_mr_terrific", "similarity": 0.0685, "shared_tropes": 5}, {"name": "Jill Roberts", "show": "Chuck", "id": "chuck_jill_roberts", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Lexa", "show": "100,The", "id": "100the_lexa", "similarity": 0.0519, "shared_tropes": 4}]}

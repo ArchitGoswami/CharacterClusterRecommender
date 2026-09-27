@@ -1,15 +1,1 @@
-{
-  "name": "Greg",
-  "show": "Flight of the Conchords",
-  "trope_count": 7,
-  "tropes": [
-    "OnlySaneEmployee",
-    "NiceGuy",
-    "TheQuietOne",
-    "BeleagueredAssistant",
-    "OnlyOneName",
-    "NoRespectGuy",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Greg", "show": "Flight of the Conchords", "trope_count": 7, "tropes": ["OnlySaneEmployee", "NiceGuy", "TheQuietOne", "BeleagueredAssistant", "OnlyOneName", "NoRespectGuy", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "UnitFH57", "show": "Red vs Blue", "id": "red_vs_blue_unitfh57", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Artemis", "show": "Sailor Moon", "id": "sailor_moon_artemis", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Kif Kroker", "show": "Futurama", "id": "futurama_kif_kroker", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Waylon Smithers, Jr.", "show": "Simpsons,The", "id": "simpsonsthe_waylon_smithers_jr", "similarity": 0.044, "shared_tropes": 4}, {"name": "Waylon Smithers, Jr.", "show": "The Simpsons", "id": "the_simpsons_waylon_smithers_jr", "similarity": 0.044, "shared_tropes": 4}, {"name": "Howard Wolowitz", "show": "The Big Bang Theory", "id": "the_big_bang_theory_howard_wolowitz", "similarity": 0.0435, "shared_tropes": 4}, {"name": "The Brockmans", "show": "Outnumbered", "id": "outnumbered_the_brockmans", "similarity": 0.0354, "shared_tropes": 4}]}

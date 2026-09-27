@@ -1,16 +1,1 @@
-{
-  "name": "Principal Fakey",
-  "show": "Moral Orel",
-  "trope_count": 8,
-  "tropes": [
-    "ImplausibleDeniability",
-    "IWasQuiteALooker",
-    "UglyGuyHotWife",
-    "HateSink",
-    "LackOfEmpathy",
-    "HypocriticalHumor",
-    "InsaneTrollLogic",
-    "HarmfulToMinors"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Principal Fakey", "show": "Moral Orel", "trope_count": 8, "tropes": ["ImplausibleDeniability", "IWasQuiteALooker", "UglyGuyHotWife", "HateSink", "LackOfEmpathy", "HypocriticalHumor", "InsaneTrollLogic", "HarmfulToMinors"], "tropes_by_category": {}, "similar": [{"name": "Gloria and Al Genarro", "show": "Bob's Burgers", "id": "bobs_burgers_gloria_and_al_genarro", "similarity": 0.0816, "shared_tropes": 4}]}

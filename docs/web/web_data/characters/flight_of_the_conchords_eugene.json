@@ -1,13 +1,1 @@
-{
-  "name": "Eugene",
-  "show": "Flight of the Conchords",
-  "trope_count": 5,
-  "tropes": [
-    "RightUnderTheirNoses",
-    "UnwantedAssistance",
-    "HiddenDepths",
-    "BewareTheNiceOnes",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eugene", "show": "Flight of the Conchords", "trope_count": 5, "tropes": ["RightUnderTheirNoses", "UnwantedAssistance", "HiddenDepths", "BewareTheNiceOnes", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": []}

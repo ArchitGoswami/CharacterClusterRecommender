@@ -1,16 +1,1 @@
-{
-  "name": "Mary Conner",
-  "show": "Roseanne",
-  "trope_count": 8,
-  "tropes": [
-    "RedOniBlueOni",
-    "HollywoodGenetics",
-    "WordOfGod",
-    "NiceGirl",
-    "FlatCharacter",
-    "MissingMom",
-    "DeadGuyJunior",
-    "TheDeterminator"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mary Conner", "show": "Roseanne", "trope_count": 8, "tropes": ["RedOniBlueOni", "HollywoodGenetics", "WordOfGod", "NiceGirl", "FlatCharacter", "MissingMom", "DeadGuyJunior", "TheDeterminator"], "tropes_by_category": {}, "similar": [{"name": "Mary Conner", "show": "Conners, The", "id": "conners_the_mary_conner", "similarity": 1.0, "shared_tropes": 8}]}

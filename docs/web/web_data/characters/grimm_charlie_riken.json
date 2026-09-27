@@ -1,14 +1,1 @@
-{
-  "name": "Charlie Riken",
-  "show": "Grimm",
-  "trope_count": 6,
-  "tropes": [
-    "DirtyCoward",
-    "ImpaledWithExtremePrejudice",
-    "AssholeVictim",
-    "JudgeJuryAndExecutioner",
-    "ArcVillain",
-    "CruelAndUnusualDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charlie Riken", "show": "Grimm", "trope_count": 7, "tropes": ["ImpaledWithExtremePrejudice", "DirtyCoward", "CrazyPrepared", "AssholeVictim", "JudgeJuryAndExecutioner", "CruelAndUnusualDeath", "ArcVillain"], "tropes_by_category": {}, "similar": [{"name": "George Foyet (The Boston Reaper)", "show": "Criminal Minds", "id": "criminal_minds_george_foyet_the_boston_reaper", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Bullseye", "show": "Daredevil", "id": "daredevil_bullseye", "similarity": 0.0381, "shared_tropes": 4}, {"name": "Wyald", "show": "Berserk", "id": "berserk_wyald", "similarity": 0.0351, "shared_tropes": 4}]}

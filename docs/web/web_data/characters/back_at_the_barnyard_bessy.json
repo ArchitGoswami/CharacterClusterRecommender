@@ -1,18 +1,1 @@
-{
-  "name": "Bessy",
-  "show": "Back at the Barnyard",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "JerkWithAHeartOfGold",
-    "AdaptationalJerkass",
-    "TookALevelInKindness",
-    "ConstantlyLactatingCow",
-    "HiddenDepths",
-    "OutOfFocus",
-    "PilotMovie",
-    "DarkAndTroubledPast",
-    "CharacterExaggeration"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bessy", "show": "Back at the Barnyard", "trope_count": 12, "tropes": ["TinyGuyHugeGirl", "HiddenDepths", "SassyBlackWoman", "PilotMovie", "DarkAndTroubledPast", "OutOfFocus", "AdaptationalJerkass", "TookALevelInKindness", "DeadpanSnarker", "JerkWithAHeartOfGold", "CharacterExaggeration", "ConstantlyLactatingCow"], "tropes_by_category": {}, "similar": [{"name": "Leshawna", "show": "Total DramaRama", "id": "total_dramarama_leshawna", "similarity": 0.1613, "shared_tropes": 5}, {"name": "JosieMcCoy", "show": "Riverdale", "id": "riverdale_josiemccoy", "similarity": 0.1579, "shared_tropes": 6}, {"name": "Barney Rubble", "show": "Flintstones,The", "id": "flintstonesthe_barney_rubble", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Otis", "show": "Back at the Barnyard", "id": "back_at_the_barnyard_otis", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Gwen", "show": "Total DramaRama", "id": "total_dramarama_gwen", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Velma Dinkley", "show": "Scooby-Doo", "id": "scooby_doo_velma_dinkley", "similarity": 0.0571, "shared_tropes": 6}, {"name": "Fred Jones", "show": "Scooby-Doo", "id": "scooby_doo_fred_jones", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Riley Freeman", "show": "Boondocks,The", "id": "boondocksthe_riley_freeman", "similarity": 0.0431, "shared_tropes": 5}]}

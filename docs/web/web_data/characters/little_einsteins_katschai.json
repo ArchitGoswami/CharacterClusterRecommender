@@ -1,18 +1,1 @@
-{
-  "name": "Katschai",
-  "show": "Little Einsteins",
-  "trope_count": 10,
-  "tropes": [
-    "HeelFaceTurn",
-    "EnemySummoner",
-    "SparedByTheAdaptation",
-    "Leitmotif",
-    "LimitBreak",
-    "BigBad",
-    "BatmanGambit",
-    "OhCrap",
-    "GreenAndMean",
-    "AdaptationSpeciesChange"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Katschai", "show": "Little Einsteins", "trope_count": 10, "tropes": ["HeelFaceTurn", "EnemySummoner", "SparedByTheAdaptation", "Leitmotif", "LimitBreak", "BigBad", "BatmanGambit", "OhCrap", "GreenAndMean", "AdaptationSpeciesChange"], "tropes_by_category": {}, "similar": []}

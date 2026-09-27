@@ -393,9 +393,13 @@
       "name": "Frank Stephens",
       "media_title": "Bewitched",
       "tropes": [
-        "LikeFatherUnlikeSon"
+        "LikeFatherUnlikeSon",
+        "HenpeckedHusband",
+        "SilverFox",
+        "MellowFellow",
+        "TokenGoodTeammate"
       ],
-      "description": "Darrin's laid-back father. Like Father, Unlike Son: He is much more relaxed and laid back than his son is, that's for sure.",
+      "description": "Darrin's laid-back father. Henpecked Husband: Phyllis often pesters Frank to back her up when she makes passive-aggressive claims or even outright insults; she also constantly demands that he drop everything to tend to her \"sick headaches\" (often brought on by seeing magical mayhem). Given his frustrated expression whenever she does, he clearly doesn't enjoy it. Like Father, Unlike Son: He is much more relaxed and laid back than his son is, that's for sure. Mellow Fellow: He's probably the calmest mortal in the series, as he doesn't stress over much and actively supports Sam and Darrin's marriage. Silver Fox: Endora, who largely disdains mortals, admits that he's very attractive and even flirts with him from time to time. For his part, Frank seems to enjoy the attention.",
       "source": "tvtropes"
     },
     {
@@ -439,7 +443,20 @@
       ],
       "description": "A ten year-old warlock whom Samantha babysat. Bitch in Sheep's Clothing: He acts polite around his parents and Samantha, but is willing to use magic to screw with everyone if he can get away with it. Bratty Half-Pint: And how!",
       "source": "tvtropes"
+    },
+    {
+      "name": "Charmaine Leach",
+      "media_title": "Bewitched",
+      "tropes": [
+        "NoAccountingForTaste",
+        "UnwantedSpouse",
+        "UglyGuyHotWife",
+        "DeadpanSnarker",
+        "SatelliteLoveInterest"
+      ],
+      "description": "Charlie Leach's frustrated wife. She thinks her husband is insane due to all of the \"witch nonsense\". Deadpan Snarker: Often snarks about her husband being a deadbeat and delusional. No Accounting for Taste: It's never shown WHY she married Charlie but it is obvious that she regrets that decision. Satellite Love Interest: She doesn't have much of a personality of her own, other than to serve as Charlie Leach's wife. Ugly Guy, Hot Wife: Hot wife to Charlie's ugly guy.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 24
+  "character_count": 25
 }

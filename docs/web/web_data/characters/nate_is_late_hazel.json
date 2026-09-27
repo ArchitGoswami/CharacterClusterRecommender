@@ -1,15 +1,1 @@
-{
-  "name": "Hazel",
-  "show": "Nate is Late",
-  "trope_count": 7,
-  "tropes": [
-    "GrandTheftMe",
-    "WickedWitch",
-    "Foil",
-    "KarmaHoudini",
-    "BodySurf",
-    "DisproportionateRetribution",
-    "KarmaHoudiniWarranty"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hazel", "show": "Nate is Late", "trope_count": 7, "tropes": ["GrandTheftMe", "WickedWitch", "Foil", "KarmaHoudini", "BodySurf", "DisproportionateRetribution", "KarmaHoudiniWarranty"], "tropes_by_category": {}, "similar": [{"name": "Henry Masterson/Headmaster", "show": "Transformers Animated", "id": "transformers_animated_henry_masterson_headmaster", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Sentinel Prime", "show": "Transformers Animated", "id": "transformers_animated_sentinel_prime", "similarity": 0.0367, "shared_tropes": 4}]}

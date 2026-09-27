@@ -1,16 +1,1 @@
-{
-  "name": "Violet",
-  "show": "A.N.T Farm",
-  "trope_count": 8,
-  "tropes": [
-    "MusclesAreMeaningless",
-    "PintSizedPowerhouse",
-    "LampshadedTrope",
-    "PunnyName",
-    "CuteBruiser",
-    "PutOnABus",
-    "HairTriggerTemper",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Violet", "show": "A.N.T Farm", "trope_count": 8, "tropes": ["MusclesAreMeaningless", "PintSizedPowerhouse", "LampshadedTrope", "PunnyName", "CuteBruiser", "PutOnABus", "HairTriggerTemper", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": [{"name": "Spinelli", "show": "Recess", "id": "recess_spinelli", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Michelangelo", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_michelangelo", "similarity": 0.0412, "shared_tropes": 4}]}

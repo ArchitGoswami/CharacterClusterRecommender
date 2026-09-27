@@ -1,17 +1,1 @@
-{
-  "name": "Marcus Rispoli",
-  "show": "Grimm",
-  "trope_count": 9,
-  "tropes": [
-    "KilledOffForReal",
-    "YouHaveOutlivedYourUsefulness",
-    "MookLieutenant",
-    "EvenEvilHasStandards",
-    "BaldOfAuthority",
-    "UndyingLoyalty",
-    "TheDragon",
-    "BaldOfEvil",
-    "TheSpymaster"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Marcus Rispoli", "show": "Grimm", "trope_count": 9, "tropes": ["KilledOffForReal", "YouHaveOutlivedYourUsefulness", "MookLieutenant", "EvenEvilHasStandards", "BaldOfAuthority", "UndyingLoyalty", "TheDragon", "BaldOfEvil", "TheSpymaster"], "tropes_by_category": {}, "similar": [{"name": "Peter Collier", "show": "Person of Interest", "id": "person_of_interest_peter_collier", "similarity": 0.1, "shared_tropes": 4}, {"name": "Lazlo Valentin/Professor Pyg", "show": "Gotham", "id": "gotham_lazlo_valentin_professor_pyg", "similarity": 0.0741, "shared_tropes": 4}, {"name": "MECH", "show": "Transformers Prime", "id": "transformers_prime_mech", "similarity": 0.0397, "shared_tropes": 5}]}

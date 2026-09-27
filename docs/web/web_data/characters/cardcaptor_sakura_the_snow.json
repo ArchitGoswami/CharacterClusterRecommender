@@ -1,12 +1,1 @@
-{
-  "name": "The Snow",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 4,
-  "tropes": [
-    "AnIcePerson",
-    "IceMagicIsWater",
-    "Yukionna",
-    "HimeCut"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Snow", "show": "Cardcaptor Sakura", "trope_count": 4, "tropes": ["AnIcePerson", "IceMagicIsWater", "Yukionna", "HimeCut"], "tropes_by_category": {}, "similar": []}

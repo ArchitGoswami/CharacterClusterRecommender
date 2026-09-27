@@ -371,23 +371,24 @@
       "name": "Spectral Empress Iliess",
       "media_title": "Seijuu Sentai Gingaman",
       "tropes": [
-        "MeaninglessVillainVictory",
+        "MagicIsFeminine",
         "OneWingedAngel",
-        "EvilMatriarch",
-        "ThemeNaming",
-        "ResurrectiveImmortality",
-        "Foil",
-        "LaserGuidedKarma",
-        "ImmortalityImmorality",
-        "AllYourPowersCombined",
         "EvenEvilHasLovedOnes",
-        "TooDumbToLive",
+        "Greed",
+        "ImmortalityImmorality",
+        "ThemeNaming",
         "BigBad",
-        "EvilSorceress",
+        "ResurrectiveImmortality",
         "HateSink",
-        "NiceJobFixingItVillain",
         "TheStarscream",
-        "Greed"
+        "TooDumbToLive",
+        "EvilMatriarch",
+        "AllYourPowersCombined",
+        "MeaninglessVillainVictory",
+        "EvilSorceress",
+        "NiceJobFixingItVillain",
+        "LaserGuidedKarma",
+        "Foil"
       ],
       "description": "All Your Powers Combined: Her final scheme to defeat the Gingaman revolved around her taking in all the powers of her fallen minions for herself. Even Evil Has Loved Ones: While the deaths of both her daughters don't seem to affect her at all, she does show sadness at her brother Despias' death. Evil Matriarch: She is the mother ofMedouMedouandMerudaMeruda, neither of which she actually cares about. Evil Sorceress: The Balban pirates' magic specialist who opted for the use of spells and ritual to accomplish her goals. Foil: To her eventual successor Battobas. Iliess never hides the fact her loyalty to Zahab only extends as much as he is willing to pay her for her services. Battobas is effectively described as Zahab's \"right hand arm\" and is by far the most loyal of all the captain's generals. Ilies's monsters are mythological-themed magic users like her, while Battobas' monsters are all weaponry/machinery themed robots.",
       "source": "tvtropes"
@@ -601,7 +602,48 @@
       ],
       "description": "Avenging the Villain: Wants to avenge not only Hinelar, but the entirety of Nezirezia as well. Palette Swap: Not only is she identical in personality to the deceased Shibolena, but she also has the exact same costume except hers is colored a shade of pink/magenta. The Remnant: Every other major member of her faction (King Javious, Yugande, Shibolena, Bibidebi and Hinelar himself) are all dead and that won't stop her from trying to resurrect them and/or try to defeat the Megaranger. The Starscream: Tries to betray the Balban before they can resurrect Zahab, believing that only Hinelar deserves to rule the universe; her efforts are cut short by Shelinda and she is fatally wounded for her problems. Taking You with Me: Tries to take downMegaRedwith herself after being fatally stabbed. She fails.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Seijuu Sentai Gingaman",
+      "tropes": [
+        "FatalFlaw",
+        "EvilWillFail",
+        "SpacePirates",
+        "AliensAreBastards",
+        "TookALevelInKindness",
+        "MookLieutenant",
+        "Kaiju",
+        "KryptoniteFactor",
+        "ContrastingSequelAntagonist",
+        "RapePillageAndBurn",
+        "WeAreStrugglingTogether"
+      ],
+      "description": "Aliens Are Bastards: Alien pirates who rejoice in blowing up worlds and killing innocents by the millions. Contrasting Sequel Antagonist:TheBlack Cross Armyutilize one of their four commanders at a time, but the Black Cross are a Earth-based terrorist organization while the Balban are space pirates.TheGalactic Imperial Army Zoneare an alien army that destroys worlds but are unaware that their base is a living creature seeking immortality, while the Balban are space pirates who plunder and destroy worlds and are fully aware that their base is a living creature they use to extend their lives. Both living ships areKaijuwho have rare flowers as aKryptonite Factor. TheBlack Cross Armyutilize one of their four commanders at a time, but the Black Cross are a Earth-based terrorist organization while the Balban are space pirates. TheGalactic Imperial Army Zoneare an alien army that destroys worlds but are unaware that their base is a living creature seeking immortality, while the Balban are space pirates who plunder and destroy worlds and are fully aware that their base is a living creature they use to extend their lives. Both living ships areKaijuwho have rare flowers as aKryptonite Factor. Evil Will Fail: Their deadliest flaw is their utter lack of cooperative thinking or foresight, leading to several failures due to members screwing over each other.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Samurai General Budoh",
+      "media_title": "Seijuu Sentai Gingaman",
+      "tropes": [
+        "NobleDemon",
+        "AnimalMotifs",
+        "BenevolentBoss",
+        "VillainousBreakdown",
+        "ADayInTheLimelight",
+        "ThemeNaming",
+        "FaceDeathWithDignity",
+        "ClearMyName",
+        "AlasPoorVillain",
+        "NearVillainVictory",
+        "NamedWeapons",
+        "Defied",
+        "WarriorPoet",
+        "Foil"
+      ],
+      "description": "Alas, Poor Villain: His final episode frames him in a surprisingly sympathetic light as it shows himbeing desperate to prove his innocence and so broken by the events that he almost commits suicide before relenting and for most of said episode, the focus is on him and his quest to prove his innocence. Animal Motifs: Like most of Zahab's higher-level minions, Budoh has an aquatic animal motif: namely manta rays and squids. Benevolent Boss: He mournfully thanks his Majins for their services whenever one falls in battle. Clear My Name:He dedicated the last moments of his life to show that he's no traitor. It seemed to have failed, but Zahab actually had already found out that he's not guilty at all and made sure to avenge Budoh once Illiess outlived her purpose. A Day in the Limelight: Episode 24 puts a lot of focus on him as hetries to prove his innocence and recover the Lights of Ginga, to the point where he is the title character of the episode (\"Budoh's Tenacity\").",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 29
+  "character_count": 31
 }

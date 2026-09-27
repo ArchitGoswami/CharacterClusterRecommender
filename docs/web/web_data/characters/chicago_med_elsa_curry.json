@@ -1,14 +1,1 @@
-{
-  "name": "Elsa Curry",
-  "show": "Chicago Med",
-  "trope_count": 6,
-  "tropes": [
-    "ScrewTheRulesImDoingWhatsRight",
-    "OddFriendship",
-    "JerkWithAHeartOfGold",
-    "TheSpock",
-    "PutOnABus",
-    "TheSmartGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elsa Curry", "show": "Chicago Med", "trope_count": 6, "tropes": ["ScrewTheRulesImDoingWhatsRight", "OddFriendship", "JerkWithAHeartOfGold", "TheSpock", "PutOnABus", "TheSmartGuy"], "tropes_by_category": {}, "similar": [{"name": "Seymour Utterthwaite", "show": "Last of the Summer Wine", "id": "last_of_the_summer_wine_seymour_utterthwaite", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Dr. Jack Hodgins", "show": "Bones", "id": "bones_dr_jack_hodgins", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Sgt. John Munch", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_sgt_john_munch", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Anais Errrrrr Watterson", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_anais_errrrrr_watterson", "similarity": 0.0357, "shared_tropes": 4}]}

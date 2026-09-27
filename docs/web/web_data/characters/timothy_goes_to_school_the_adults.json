@@ -1,18 +1,1 @@
-{
-  "name": "The Adults",
-  "show": "Timothy Goes to School",
-  "trope_count": 10,
-  "tropes": [
-    "JapanesePoliteness",
-    "Catchphrase",
-    "TeamMom",
-    "JapaneseRanguage",
-    "AuthorAvatar",
-    "LimitedWardrobe",
-    "YamatoNadeshiko",
-    "OOCIsSeriousBusiness",
-    "BarefootCartoonAnimal",
-    "HeWhoMustNotBeSeen"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Adults", "show": "Timothy Goes to School", "trope_count": 10, "tropes": ["JapanesePoliteness", "Catchphrase", "TeamMom", "JapaneseRanguage", "AuthorAvatar", "LimitedWardrobe", "YamatoNadeshiko", "OOCIsSeriousBusiness", "BarefootCartoonAnimal", "HeWhoMustNotBeSeen"], "tropes_by_category": {}, "similar": [{"name": "Yoko's mother", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_yoko_s_mother", "similarity": 0.6, "shared_tropes": 6}, {"name": "State of Japan — Honda Kiku", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_state_of_japan_honda_kiku", "similarity": 0.04, "shared_tropes": 4}, {"name": "The Kids", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_the_kids", "similarity": 0.0377, "shared_tropes": 4}]}

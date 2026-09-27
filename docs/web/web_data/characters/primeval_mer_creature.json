@@ -1,18 +1,1 @@
-{
-  "name": "Mer Creature",
-  "show": "Primeval",
-  "trope_count": 10,
-  "tropes": [
-    "Foreshadowing",
-    "ThereIsNoKillLikeOverkill",
-    "GracefulInTheirElement",
-    "KillerGorilla",
-    "FormerlySapientSpecies",
-    "FridgeHorror",
-    "GrandfatherParadox",
-    "ColorCodedForYourConvenience",
-    "TapOnTheHead",
-    "OminousLatinChanting"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mer Creature", "show": "Primeval", "trope_count": 12, "tropes": ["BigFatFuture", "Foreshadowing", "FridgeHorror", "GrandfatherParadox", "ShoutOut", "KillerGorilla", "GracefulInTheirElement", "ThereIsNoKillLikeOverkill", "TapOnTheHead", "FormerlySapientSpecies", "OminousLatinChanting", "ColorCodedForYourConvenience"], "tropes_by_category": {}, "similar": []}

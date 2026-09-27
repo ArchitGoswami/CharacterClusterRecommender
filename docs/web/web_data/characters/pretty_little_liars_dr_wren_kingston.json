@@ -1,17 +1,1 @@
-{
-  "name": "Dr. Wren Kingston",
-  "show": "Pretty Little Liars",
-  "trope_count": 9,
-  "tropes": [
-    "AmbiguouslyEvil",
-    "HospitalHottie",
-    "GreenEyedEpiphany",
-    "NiceGuy",
-    "NewJobAsThePlotDemands",
-    "AdaptationExpansion",
-    "DisposableFiance",
-    "FaceHeelTurn",
-    "AdaptationNameChange"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Wren Kingston", "show": "Pretty Little Liars", "trope_count": 9, "tropes": ["AmbiguouslyEvil", "HospitalHottie", "GreenEyedEpiphany", "NiceGuy", "NewJobAsThePlotDemands", "AdaptationExpansion", "DisposableFiance", "FaceHeelTurn", "AdaptationNameChange"], "tropes_by_category": {}, "similar": [{"name": "Lucas Gottesman", "show": "Pretty Little Liars", "id": "pretty_little_liars_lucas_gottesman", "similarity": 0.2222, "shared_tropes": 4}]}

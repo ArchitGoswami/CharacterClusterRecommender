@@ -1,17 +1,1 @@
-{
-  "name": "Marino Monferrato",
-  "show": "Hell's Kitchen",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "Catchphrase",
-    "EpicFail",
-    "GratuitousItalian",
-    "ButtMonkey",
-    "FunnyForeigner",
-    "GoshDangItToHeck",
-    "HiddenDepths",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Marino Monferrato", "show": "Hell's Kitchen", "trope_count": 9, "tropes": ["DeadpanSnarker", "Catchphrase", "EpicFail", "GratuitousItalian", "ButtMonkey", "FunnyForeigner", "GoshDangItToHeck", "HiddenDepths", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Jean-Philippe Susilovic", "show": "Hell's Kitchen", "id": "hells_kitchen_jean_philippe_susilovic", "similarity": 0.16, "shared_tropes": 4}, {"name": "Ghost Adventures Crew", "show": "Ghost Adventures", "id": "ghost_adventures_ghost_adventures_crew", "similarity": 0.0658, "shared_tropes": 5}, {"name": "Season  15", "show": "Hell's Kitchen", "id": "hells_kitchen_season_15", "similarity": 0.0403, "shared_tropes": 5}, {"name": "Season  13", "show": "Hell's Kitchen", "id": "hells_kitchen_season_13", "similarity": 0.036, "shared_tropes": 5}]}

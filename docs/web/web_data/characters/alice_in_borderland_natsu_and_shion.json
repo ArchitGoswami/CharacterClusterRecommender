@@ -1,18 +1,1 @@
-{
-  "name": "Natsu and Shion",
-  "show": "Alice In Borderland",
-  "trope_count": 10,
-  "tropes": [
-    "WeHardlyKnewYe",
-    "BareMidriffsAreFeminine",
-    "CanonForeigner",
-    "OneeSama",
-    "GirlyGirl",
-    "TheFashionista",
-    "FanDisservice",
-    "HiddenDepths",
-    "BookDumb",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Natsu and Shion", "show": "Alice In Borderland", "trope_count": 10, "tropes": ["WeHardlyKnewYe", "BareMidriffsAreFeminine", "CanonForeigner", "OneeSama", "GirlyGirl", "TheFashionista", "FanDisservice", "HiddenDepths", "BookDumb", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Courtney Gripling", "show": "As Told by Ginger", "id": "as_told_by_ginger_courtney_gripling", "similarity": 0.0909, "shared_tropes": 5}, {"name": "Quinn Morgendorffer", "show": "Daria", "id": "daria_quinn_morgendorffer", "similarity": 0.0617, "shared_tropes": 5}, {"name": "The Baldrick Lineage", "show": "Blackadder", "id": "blackadder_the_baldrick_lineage", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Anthony \"AJ\" Soprano Jr.", "show": "Sopranos,The", "id": "sopranosthe_anthony_aj_soprano_jr", "similarity": 0.05, "shared_tropes": 4}, {"name": "Anthony \"AJ\" Soprano Jr.", "show": "The Sopranos", "id": "the_sopranos_anthony_aj_soprano_jr", "similarity": 0.05, "shared_tropes": 4}, {"name": "The Jetsons", "show": "Jetsons,The", "id": "jetsonsthe_the_jetsons", "similarity": 0.0455, "shared_tropes": 5}, {"name": "Main Characters", "show": "Life and Times of Juniper Lee, The", "id": "life_and_times_of_juniper_lee_the_main_characters", "similarity": 0.044, "shared_tropes": 4}, {"name": "Lydia", "show": "Teen Wolf", "id": "teen_wolf_lydia", "similarity": 0.0417, "shared_tropes": 4}]}

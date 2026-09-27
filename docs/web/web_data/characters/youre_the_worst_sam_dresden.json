@@ -1,18 +1,1 @@
-{
-  "name": "Sam Dresden",
-  "show": "You're the Worst",
-  "trope_count": 10,
-  "tropes": [
-    "ThisIsForEmphasisBitch",
-    "NoCelebritiesWereHarmed",
-    "JerkWithAHeartOfGold",
-    "DramaQueen",
-    "PissTakeRap",
-    "HiddenDepths",
-    "PuttingTheBandBackTogether",
-    "SophisticatedAsHell",
-    "HairTriggerTemper",
-    "ImpossiblyTackyClothes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sam Dresden", "show": "You're the Worst", "trope_count": 10, "tropes": ["ThisIsForEmphasisBitch", "NoCelebritiesWereHarmed", "JerkWithAHeartOfGold", "DramaQueen", "PissTakeRap", "HiddenDepths", "PuttingTheBandBackTogether", "SophisticatedAsHell", "HairTriggerTemper", "ImpossiblyTackyClothes"], "tropes_by_category": {}, "similar": [{"name": "Friends/Allies", "show": "Freakazoid!", "id": "freakazoid_friends_allies", "similarity": 0.05, "shared_tropes": 4}]}

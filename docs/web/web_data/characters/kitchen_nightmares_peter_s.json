@@ -1,16 +1,1 @@
-{
-  "name": "Peter's",
-  "show": "Kitchen Nightmares",
-  "trope_count": 8,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "StealingFromTheTill",
-    "HeelRealization",
-    "BerserkButton",
-    "ComicallyMissingThePoint",
-    "Determinator",
-    "ConfessionCam",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Peter's", "show": "Kitchen Nightmares", "trope_count": 8, "tropes": ["JerkWithAHeartOfGold", "StealingFromTheTill", "HeelRealization", "BerserkButton", "ComicallyMissingThePoint", "Determinator", "ConfessionCam", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Peter's", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_peter_s", "similarity": 1.0, "shared_tropes": 8}, {"name": "Sheen Estevez", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_sheen_estevez", "similarity": 0.061, "shared_tropes": 5}, {"name": "Pierce Hawthorne", "show": "Community", "id": "community_pierce_hawthorne", "similarity": 0.0391, "shared_tropes": 5}, {"name": "Starfire", "show": "Teen Titans Go!", "id": "teen_titans_go_starfire", "similarity": 0.0351, "shared_tropes": 4}]}

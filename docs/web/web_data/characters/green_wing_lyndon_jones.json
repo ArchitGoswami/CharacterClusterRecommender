@@ -1,18 +1,1 @@
-{
-  "name": "Lyndon Jones",
-  "show": "Green Wing",
-  "trope_count": 10,
-  "tropes": [
-    "ChickMagnet",
-    "DeadpanSnarker",
-    "BlackAndNerdy",
-    "OppositesAttract",
-    "HeteroSexualLifePartners",
-    "TheScapegoat",
-    "BewareTheNiceOnes",
-    "TokenMinority",
-    "OnlySaneMan",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lyndon Jones", "show": "Green Wing", "trope_count": 10, "tropes": ["ChickMagnet", "DeadpanSnarker", "BlackAndNerdy", "OppositesAttract", "HeteroSexualLifePartners", "TheScapegoat", "BewareTheNiceOnes", "TokenMinority", "OnlySaneMan", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Miranda Bailey", "show": "Grey's Anatomy", "id": "greys_anatomy_miranda_bailey", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Kevin Venkataraghavan", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_kevin_venkataraghavan", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Jim Harper", "show": "Newsroom, The", "id": "newsroom_the_jim_harper", "similarity": 0.1053, "shared_tropes": 4}, {"name": "André Harris", "show": "Victorious", "id": "victorious_andr_harris", "similarity": 0.1042, "shared_tropes": 5}, {"name": "Liberty Van Zandt", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_liberty_van_zandt", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Beck Oliver", "show": "Victorious", "id": "victorious_beck_oliver", "similarity": 0.0758, "shared_tropes": 5}, {"name": "Mercedes Jones", "show": "Glee", "id": "glee_mercedes_jones", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Season  6", "show": "MasterChef", "id": "masterchef_season_6", "similarity": 0.0755, "shared_tropes": 4}]}

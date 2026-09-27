@@ -1,17 +1,1 @@
-{
-  "name": "Shannon",
-  "show": "Home Movies",
-  "trope_count": 9,
-  "tropes": [
-    "AffablyEvil",
-    "JerkWithAHeartOfGold",
-    "GenderBlenderName",
-    "TheBully",
-    "AmbiguouslyGay",
-    "HiddenDepths",
-    "ForTheEvulz",
-    "Flanderization",
-    "BigBrotherBully"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Shannon", "show": "Home Movies", "trope_count": 9, "tropes": ["AffablyEvil", "JerkWithAHeartOfGold", "GenderBlenderName", "TheBully", "AmbiguouslyGay", "HiddenDepths", "ForTheEvulz", "Flanderization", "BigBrotherBully"], "tropes_by_category": {}, "similar": [{"name": "Whitney Fordman", "show": "Smallville", "id": "smallville_whitney_fordman", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Mark Healy", "show": "Conners, The", "id": "conners_the_mark_healy", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Mark Healy", "show": "Roseanne", "id": "roseanne_mark_healy", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Axel", "show": "Total Drama", "id": "total_drama_axel", "similarity": 0.0833, "shared_tropes": 5}, {"name": "Sheriff Blubs and Deputy Durland", "show": "Gravity Falls", "id": "gravity_falls_sheriff_blubs_and_deputy_durland", "similarity": 0.08, "shared_tropes": 4}, {"name": "Lazlo", "show": "Camp Lazlo", "id": "camp_lazlo_lazlo", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Joe Secondopinionson", "show": "Moral Orel", "id": "moral_orel_joe_secondopinionson", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Simon \"Cookie\" Nelson-Cook", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_simon_cookie_nelson_cook", "similarity": 0.0702, "shared_tropes": 4}]}

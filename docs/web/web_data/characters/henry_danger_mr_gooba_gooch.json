@@ -1,15 +1,1 @@
-{
-  "name": "Mr. Gooba Gooch",
-  "show": "Henry Danger",
-  "trope_count": 7,
-  "tropes": [
-    "MissionControl",
-    "ChuckCunninghamSyndrome",
-    "AsianStoreOwner",
-    "AmbiguouslyBrown",
-    "AlliterativeName",
-    "LastNameBasis",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Gooba Gooch", "show": "Henry Danger", "trope_count": 7, "tropes": ["MissionControl", "ChuckCunninghamSyndrome", "AsianStoreOwner", "AmbiguouslyBrown", "AlliterativeName", "LastNameBasis", "SecretKeeper"], "tropes_by_category": {}, "similar": []}

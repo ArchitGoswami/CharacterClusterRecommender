@@ -1,13 +1,1 @@
-{
-  "name": "Tahir Khaled",
-  "show": "NCIS: Los Angeles",
-  "trope_count": 5,
-  "tropes": [
-    "ArchEnemy",
-    "BigBad",
-    "ItsPersonal",
-    "HeroKiller",
-    "HoistByHisOwnPetard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tahir Khaled", "show": "NCIS: Los Angeles", "trope_count": 5, "tropes": ["ArchEnemy", "BigBad", "ItsPersonal", "HeroKiller", "HoistByHisOwnPetard"], "tropes_by_category": {}, "similar": [{"name": "Arvin Sloane", "show": "Alias", "id": "alias_arvin_sloane", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Zombozo", "show": "Ben 10", "id": "ben_10_zombozo", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Hakeswill", "show": "Sharpe", "id": "sharpe_hakeswill", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Three Great Heavens of Zhao", "show": "Kingdom", "id": "kingdom_three_great_heavens_of_zhao", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Katz", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_katz", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Guy of Gisborne", "show": "Robin Hood", "id": "robin_hood_guy_of_gisborne", "similarity": 0.044, "shared_tropes": 4}]}

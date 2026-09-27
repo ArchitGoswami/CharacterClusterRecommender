@@ -1,15 +1,1 @@
-{
-  "name": "Timo",
-  "show": "All Hail King Julien",
-  "trope_count": 7,
-  "tropes": [
-    "Expy",
-    "BunglingInventor",
-    "JewishAndNerdy",
-    "EarlyBirdCameo",
-    "TheSmartGuy",
-    "InsistentTerminology",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Timo", "show": "All Hail King Julien", "trope_count": 7, "tropes": ["Expy", "BunglingInventor", "JewishAndNerdy", "EarlyBirdCameo", "TheSmartGuy", "InsistentTerminology", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Simon \"Cookie\" Nelson-Cook", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_simon_cookie_nelson_cook", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Simon Nelson \"Cookie\" Cook", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_simon_nelson_cookie_cook", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Egon Spengler", "show": "Real Ghostbusters, The", "id": "real_ghostbusters_the_egon_spengler", "similarity": 0.0588, "shared_tropes": 4}]}

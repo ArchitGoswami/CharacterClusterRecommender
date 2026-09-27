@@ -1,16 +1,1 @@
-{
-  "name": "Newzers",
-  "show": "Mixels",
-  "trope_count": 8,
-  "tropes": [
-    "BigOlEyebrows",
-    "TheLeader",
-    "IntrepidReporter",
-    "PunnyName",
-    "KentBrockmanNews",
-    "TVHeadRobot",
-    "ColorCodedForYourConvenience",
-    "Cyclops"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Newzers", "show": "Mixels", "trope_count": 8, "tropes": ["BigOlEyebrows", "TheLeader", "IntrepidReporter", "PunnyName", "KentBrockmanNews", "TVHeadRobot", "ColorCodedForYourConvenience", "Cyclops"], "tropes_by_category": {}, "similar": [{"name": "MCFD", "show": "Mixels", "id": "mixels_mcfd", "similarity": 0.2857, "shared_tropes": 4}, {"name": "Medix", "show": "Mixels", "id": "mixels_medix", "similarity": 0.2667, "shared_tropes": 4}, {"name": "MCPD", "show": "Mixels", "id": "mixels_mcpd", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Nindjas", "show": "Mixels", "id": "mixels_nindjas", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Weldos", "show": "Mixels", "id": "mixels_weldos", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Munchos", "show": "Mixels", "id": "mixels_munchos", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Klinkers", "show": "Mixels", "id": "mixels_klinkers", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Glowkies", "show": "Mixels", "id": "mixels_glowkies", "similarity": 0.1333, "shared_tropes": 4}]}

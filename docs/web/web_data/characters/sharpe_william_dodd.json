@@ -1,17 +1,1 @@
-{
-  "name": "William Dodd",
-  "show": "Sharpe",
-  "trope_count": 9,
-  "tropes": [
-    "HistoricalVillainUpgrade",
-    "GloryHound",
-    "MasterSwordsman",
-    "SmallNameBigEgo",
-    "NotSoSimilar",
-    "TheDragon",
-    "EvilCounterpart",
-    "BondVillainStupidity",
-    "GeniusBruiser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "William Dodd", "show": "Sharpe", "trope_count": 9, "tropes": ["HistoricalVillainUpgrade", "GloryHound", "MasterSwordsman", "SmallNameBigEgo", "NotSoSimilar", "TheDragon", "EvilCounterpart", "BondVillainStupidity", "GeniusBruiser"], "tropes_by_category": {}, "similar": [{"name": "Prince Of Orange", "show": "Sharpe", "id": "sharpe_prince_of_orange", "similarity": 0.2, "shared_tropes": 4}, {"name": "Dreadwing", "show": "Transformers Prime", "id": "transformers_prime_dreadwing", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Ashur", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_ashur", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Zodd", "show": "Berserk", "id": "berserk_zodd", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Jet", "show": "Avatar: The Last Airbender", "id": "avatar_the_last_airbender_jet", "similarity": 0.0364, "shared_tropes": 4}]}

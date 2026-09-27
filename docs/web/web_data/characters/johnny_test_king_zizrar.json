@@ -1,16 +1,1 @@
-{
-  "name": "King Zizrar",
-  "show": "Johnny Test",
-  "trope_count": 8,
-  "tropes": [
-    "CampGay",
-    "SissyVillain",
-    "AmbiguouslyGay",
-    "EvenEvilHasStandards",
-    "BlindedByTheLight",
-    "StarterVillain",
-    "ButtMonkey",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "King Zizrar", "show": "Johnny Test", "trope_count": 9, "tropes": ["CampGay", "MoleMen", "ButtMonkey", "AmbiguouslyGay", "SissyVillain", "EvenEvilHasStandards", "StarterVillain", "DependingOnTheWriter", "BlindedByTheLight"], "tropes_by_category": {}, "similar": [{"name": "Knock Out", "show": "Transformers Prime", "id": "transformers_prime_knock_out", "similarity": 0.0412, "shared_tropes": 4}, {"name": "The Shredder", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_the_shredder", "similarity": 0.04, "shared_tropes": 4}, {"name": "Robbie Rotten", "show": "Lazytown", "id": "lazytown_robbie_rotten", "similarity": 0.0367, "shared_tropes": 4}]}

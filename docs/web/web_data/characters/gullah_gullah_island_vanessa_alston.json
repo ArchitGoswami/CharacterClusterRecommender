@@ -1,12 +1,1 @@
-{
-  "name": "Vanessa Alston",
-  "show": "Gullah Gullah Island",
-  "trope_count": 4,
-  "tropes": [
-    "TomboyWithAGirlyStreak",
-    "TomboyAndGirlyGirl",
-    "VocalEvolution",
-    "FearOfThunder"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Vanessa Alston", "show": "Gullah Gullah Island", "trope_count": 4, "tropes": ["TomboyWithAGirlyStreak", "TomboyAndGirlyGirl", "VocalEvolution", "FearOfThunder"], "tropes_by_category": {}, "similar": [{"name": "Bluey", "show": "Bluey", "id": "bluey_bluey", "similarity": 0.0889, "shared_tropes": 4}]}

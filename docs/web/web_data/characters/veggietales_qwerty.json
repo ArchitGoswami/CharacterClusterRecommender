@@ -1,12 +1,1 @@
-{
-  "name": "QWERTY",
-  "show": "VeggieTales",
-  "trope_count": 4,
-  "tropes": [
-    "SuddenlyVoiced",
-    "AsTheGoodBookSays",
-    "AdaptedOut",
-    "MeaningfulName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "QWERTY", "show": "VeggieTales", "trope_count": 4, "tropes": ["SuddenlyVoiced", "AsTheGoodBookSays", "AdaptedOut", "MeaningfulName"], "tropes_by_category": {}, "similar": [{"name": "QWERTY", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_qwerty", "similarity": 1.0, "shared_tropes": 4}]}

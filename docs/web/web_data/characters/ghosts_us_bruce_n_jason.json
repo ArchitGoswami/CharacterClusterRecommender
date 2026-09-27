@@ -1,15 +1,1 @@
-{
-  "name": "Bruce (né Jason)",
-  "show": "Ghosts US",
-  "trope_count": 7,
-  "tropes": [
-    "YouAreNumberSix",
-    "The60s",
-    "HippieName",
-    "ObviouslyEvil",
-    "HoistByHisOwnPetard",
-    "InUniverse",
-    "UnnecessaryMakeover"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bruce (né Jason)", "show": "Ghosts US", "trope_count": 9, "tropes": ["The60s", "ObviouslyEvil", "NiceGuy", "EvilCounterpart", "InUniverse", "UnnecessaryMakeover", "HoistByHisOwnPetard", "HippieName", "YouAreNumberSix"], "tropes_by_category": {}, "similar": []}

@@ -1,16 +1,1 @@
-{
-  "name": "Jason & Jeffrey",
-  "show": "Caillou",
-  "trope_count": 8,
-  "tropes": [
-    "PaletteSwap",
-    "JerkWithAHeartOfGold",
-    "TricksterTwins",
-    "TookALevelInJerkass",
-    "OnlyOneName",
-    "TookALevelInKindness",
-    "InnocentlyInsensitive",
-    "TwinSwitch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jason & Jeffrey", "show": "Caillou", "trope_count": 8, "tropes": ["PaletteSwap", "JerkWithAHeartOfGold", "TricksterTwins", "TookALevelInJerkass", "OnlyOneName", "TookALevelInKindness", "InnocentlyInsensitive", "TwinSwitch"], "tropes_by_category": {}, "similar": [{"name": "Bill and Ben, the China Clay Twins", "show": "Thomas & Friends", "id": "thomas_and_friends_bill_and_ben_the_china_clay_twins", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Mr. Bean", "show": "Mr. Bean", "id": "mr_bean_mr_bean", "similarity": 0.0556, "shared_tropes": 4}, {"name": "I to W", "show": "Good Place, The", "id": "good_place_the_i_to_w", "similarity": 0.046, "shared_tropes": 4}, {"name": "I to W", "show": "The Good Place", "id": "the_good_place_i_to_w", "similarity": 0.046, "shared_tropes": 4}, {"name": "Sai", "show": "Naruto", "id": "naruto_sai", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Elfo", "show": "Disenchantment", "id": "disenchantment_elfo", "similarity": 0.0377, "shared_tropes": 4}]}

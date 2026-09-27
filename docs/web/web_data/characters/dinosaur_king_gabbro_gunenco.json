@@ -1,17 +1,1 @@
-{
-  "name": "Gabbro (Gunenco)",
-  "show": "Dinosaur King",
-  "trope_count": 9,
-  "tropes": [
-    "DumbMuscle",
-    "WakeUpCallBoss",
-    "PowerFist",
-    "SuperStrength",
-    "TheBrute",
-    "AncientPersia",
-    "StarterVillain",
-    "RedIsViolent",
-    "MadeOfIron"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gabbro (Gunenco)", "show": "Dinosaur King", "trope_count": 9, "tropes": ["DumbMuscle", "WakeUpCallBoss", "PowerFist", "SuperStrength", "TheBrute", "AncientPersia", "StarterVillain", "RedIsViolent", "MadeOfIron"], "tropes_by_category": {}, "similar": [{"name": "Man-Bull", "show": "Daredevil", "id": "daredevil_man_bull", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Fuzzy Lumpkins", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_fuzzy_lumpkins", "similarity": 0.0727, "shared_tropes": 4}, {"name": "The Blob", "show": "X-Men", "id": "x_men_the_blob", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Vetto", "show": "Black Clover", "id": "black_clover_vetto", "similarity": 0.0526, "shared_tropes": 4}]}

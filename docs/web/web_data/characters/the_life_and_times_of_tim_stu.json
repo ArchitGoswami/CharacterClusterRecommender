@@ -1,13 +1,1 @@
-{
-  "name": "Stu",
-  "show": "The Life and Times of Tim",
-  "trope_count": 5,
-  "tropes": [
-    "NoFullNameGiven",
-    "LaserGuidedKarma",
-    "ToxicFriendInfluence",
-    "TheStoner",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stu", "show": "The Life and Times of Tim", "trope_count": 5, "tropes": ["NoFullNameGiven", "LaserGuidedKarma", "ToxicFriendInfluence", "TheStoner", "ButtMonkey"], "tropes_by_category": {}, "similar": []}

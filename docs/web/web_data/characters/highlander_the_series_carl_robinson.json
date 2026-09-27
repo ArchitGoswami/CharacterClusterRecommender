@@ -1,17 +1,1 @@
-{
-  "name": "Carl Robinson",
-  "show": "Highlander: The Series",
-  "trope_count": 9,
-  "tropes": [
-    "SubvertedTrope",
-    "NiceGuy",
-    "CoolSword",
-    "TraumaCongaLine",
-    "PayEvilUntoEvil",
-    "MadeASlave",
-    "ClearMyName",
-    "DarkAndTroubledPast",
-    "AngryBlackManStereotype"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carl Robinson", "show": "Highlander: The Series", "trope_count": 9, "tropes": ["SubvertedTrope", "NiceGuy", "CoolSword", "TraumaCongaLine", "PayEvilUntoEvil", "MadeASlave", "ClearMyName", "DarkAndTroubledPast", "AngryBlackManStereotype"], "tropes_by_category": {}, "similar": [{"name": "In General", "show": "Ninjago", "id": "ninjago_in_general", "similarity": 0.0426, "shared_tropes": 4}]}

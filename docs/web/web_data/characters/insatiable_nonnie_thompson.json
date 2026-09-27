@@ -1,16 +1,1 @@
-{
-  "name": "Nonnie Thompson",
-  "show": "Insatiable",
-  "trope_count": 8,
-  "tropes": [
-    "ButchLesbian",
-    "ClingyJealousGirl",
-    "RedOniBlueOni",
-    "WithFriendsLikeThese",
-    "WiseBeyondTheirYears",
-    "DaddysGirl",
-    "HiddenDepths",
-    "OnlySaneMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nonnie Thompson", "show": "Insatiable", "trope_count": 8, "tropes": ["ButchLesbian", "ClingyJealousGirl", "RedOniBlueOni", "WithFriendsLikeThese", "WiseBeyondTheirYears", "DaddysGirl", "HiddenDepths", "OnlySaneMan"], "tropes_by_category": {}, "similar": [{"name": "ClydeMcBride", "show": "Loud House, The", "id": "loud_house_the_clydemcbride", "similarity": 0.0656, "shared_tropes": 4}]}

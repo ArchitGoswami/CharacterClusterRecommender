@@ -1,11 +1,1 @@
-{
-  "name": "Pigeon Pete",
-  "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 3,
-  "tropes": [
-    "LostInImitation",
-    "Cloudcuckoolander",
-    "Metamorphosis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pigeon Pete", "show": "Teenage Mutant Ninja Turtles", "trope_count": 11, "tropes": ["InnateNightVision", "AdaptationalIntelligence", "InterspeciesRelationship", "AdaptationalNonSapience", "SmartPeopleWearGlasses", "SuddenlyVoiced", "BigDamnHeroes", "SmarterThanYouLook", "ToothyBird", "AdaptationalSkimpiness", "YouCanTalk"], "tropes_by_category": {}, "similar": []}

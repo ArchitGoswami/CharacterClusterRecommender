@@ -1,16 +1,1 @@
-{
-  "name": "Curtis Hagen",
-  "show": "White Collar",
-  "trope_count": 8,
-  "tropes": [
-    "LeaveNoWitnesses",
-    "RedBaron",
-    "ChekhovsGunman",
-    "BigBad",
-    "DiscOneFinalBoss",
-    "HeKnowsTooMuch",
-    "StarterVillain",
-    "MasterForger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Curtis Hagen", "show": "White Collar", "trope_count": 8, "tropes": ["LeaveNoWitnesses", "RedBaron", "ChekhovsGunman", "BigBad", "DiscOneFinalBoss", "HeKnowsTooMuch", "StarterVillain", "MasterForger"], "tropes_by_category": {}, "similar": [{"name": "Colossal Titan*", "show": "Attack on Titan", "id": "attack_on_titan_colossal_titan", "similarity": 0.058, "shared_tropes": 4}, {"name": "Grover Fischoeder", "show": "Bob's Burgers", "id": "bobs_burgers_grover_fischoeder", "similarity": 0.05, "shared_tropes": 4}]}

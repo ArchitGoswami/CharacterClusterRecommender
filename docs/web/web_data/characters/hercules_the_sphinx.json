@@ -1,15 +1,1 @@
-{
-  "name": "The Sphinx",
-  "show": "Hercules",
-  "trope_count": 7,
-  "tropes": [
-    "TheJuggernaut",
-    "TheDreaded",
-    "CameBackStrong",
-    "AllYourPowersCombined",
-    "RiddlingSphinx",
-    "HeroKiller",
-    "EvilerThanThou"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Sphinx", "show": "Hercules", "trope_count": 7, "tropes": ["TheJuggernaut", "TheDreaded", "CameBackStrong", "AllYourPowersCombined", "RiddlingSphinx", "HeroKiller", "EvilerThanThou"], "tropes_by_category": {}, "similar": [{"name": "Daijinryu", "show": "Gosei Sentai Dairanger", "id": "gosei_sentai_dairanger_daijinryu", "similarity": 0.1111, "shared_tropes": 4}]}

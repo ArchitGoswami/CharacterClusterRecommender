@@ -1,18 +1,1 @@
-{
-  "name": "Alice Mitchell",
-  "show": "Dennis the Menace",
-  "trope_count": 10,
-  "tropes": [
-    "Housewife",
-    "MsFanservice",
-    "DudeMagnet",
-    "LethalChef",
-    "HappilyMarried",
-    "GoodParents",
-    "UglyGuyHotWife",
-    "MissingMom",
-    "ActuallyPrettyFunny",
-    "WhyDidItHaveToBeSnakes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alice Mitchell", "show": "Dennis the Menace", "trope_count": 10, "tropes": ["Housewife", "MsFanservice", "DudeMagnet", "LethalChef", "HappilyMarried", "GoodParents", "UglyGuyHotWife", "MissingMom", "ActuallyPrettyFunny", "WhyDidItHaveToBeSnakes"], "tropes_by_category": {}, "similar": [{"name": "Theresa Russo", "show": "Wizards of Waverly Place", "id": "wizards_of_waverly_place_theresa_russo", "similarity": 0.1786, "shared_tropes": 5}, {"name": "Samantha Stephens", "show": "Bewitched", "id": "bewitched_samantha_stephens", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Sylvie Brett", "show": "Chicago Fire", "id": "chicago_fire_sylvie_brett", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Miles and Stella", "show": "Hey Arnold!", "id": "hey_arnold_miles_and_stella", "similarity": 0.129, "shared_tropes": 4}, {"name": "Vivian Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_vivian_banks", "similarity": 0.125, "shared_tropes": 5}, {"name": "Jeannie", "show": "I Dream of Jeannie", "id": "i_dream_of_jeannie_jeannie", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Drew Saturday", "show": "Secret Saturdays, The", "id": "secret_saturdays_the_drew_saturday", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Gloria Ramirez Delgado Pritchett", "show": "Modern Family", "id": "modern_family_gloria_ramirez_delgado_pritchett", "similarity": 0.0746, "shared_tropes": 5}]}

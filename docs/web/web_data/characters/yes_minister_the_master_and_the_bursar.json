@@ -1,12 +1,1 @@
-{
-  "name": "The Master and the Bursar",
-  "show": "Yes, Minister",
-  "trope_count": 4,
-  "tropes": [
-    "BrutalHonesty",
-    "NamedInTheAdaptation",
-    "ThePiratesWhoDontDoAnything",
-    "ManipulativeBastard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Master and the Bursar", "show": "Yes, Minister", "trope_count": 4, "tropes": ["BrutalHonesty", "NamedInTheAdaptation", "ThePiratesWhoDontDoAnything", "ManipulativeBastard"], "tropes_by_category": {}, "similar": [{"name": "The Master and the Bursar", "show": "Yes, Prime Minister", "id": "yes_prime_minister_the_master_and_the_bursar", "similarity": 1.0, "shared_tropes": 4}]}

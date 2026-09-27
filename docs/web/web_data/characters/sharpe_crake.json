@@ -1,13 +1,1 @@
-{
-  "name": "Crake",
-  "show": "Sharpe",
-  "trope_count": 5,
-  "tropes": [
-    "HoldTheLine",
-    "TheAtoner",
-    "AntiVillain",
-    "TheDragon",
-    "RedemptionEqualsDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Crake", "show": "Sharpe", "trope_count": 5, "tropes": ["HoldTheLine", "TheAtoner", "AntiVillain", "TheDragon", "RedemptionEqualsDeath"], "tropes_by_category": {}, "similar": [{"name": "Sayid", "show": "Lost", "id": "lost_sayid", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Ezekiel/Gadreel", "show": "Supernatural", "id": "supernatural_ezekiel_gadreel", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Jet", "show": "Avatar: The Last Airbender", "id": "avatar_the_last_airbender_jet", "similarity": 0.0377, "shared_tropes": 4}]}

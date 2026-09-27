@@ -87,17 +87,18 @@
       "name": "Alex Mercer",
       "media_title": "Julie and the Phantoms",
       "tropes": [
-        "Intangibility",
-        "DeadpanSnarker",
-        "RealMenWearPink",
+        "HeroicSelfDeprecation",
         "RedOniBlueOni",
+        "OppositesAttract",
+        "TeleportersAndTransporters",
         "HairOfGoldHeartOfGold",
         "NervousWreck",
-        "MeetCute",
-        "HeroicSelfDeprecation",
         "OnlySaneMan",
+        "DeadpanSnarker",
+        "MeetCute",
+        "Intangibility",
         "FourTemperamentEnsemble",
-        "TeleportersAndTransporters"
+        "RealMenWearPink"
       ],
       "description": "Drummer of Julie and the Phantoms and a former member of Sunset Curve. He is openly gay and has a crush on Willie. Deadpan Snarker: Especially in response to Luke and Reggie's more zany ideas. Four-Temperament Ensemble: Melancholic. Alex is generally more anxious, reserved, and moodier than the others. Hair of Gold, Heart of Gold: Has blonde hair and is the most soft-spoken member. Heroic Self-Deprecation: Is introduced downplaying his accomplishments compared to the rest of the band and lacks confidence in unfamiliar situations.",
       "source": "tvtropes"
@@ -251,14 +252,15 @@
       "name": "Willie",
       "media_title": "Julie and the Phantoms",
       "tropes": [
-        "Intangibility",
+        "OppositesAttract",
+        "TeleportersAndTransporters",
         "LoveInterest",
         "YourSoulIsMine",
-        "MeetCute",
         "LongHairedPrettyBoy",
-        "TeleportersAndTransporters"
+        "MeetCute",
+        "Intangibility"
       ],
-      "description": "Intangibility: A perk of being a ghost, but rarely shown as most of his scenes are with Alex. Long-Haired Pretty Boy: His first scene includes a slow-motion shot of him shaking his hair out after removing his skate helmet, and Alex is clearly immediately smitten while watching him. Meet Cute: He meets Alex by accidentally running him over while on his skateboard, thinking Alex was a 'lifer'. Teleporters and Transporters: While he does uses his skateboard, he's also shown to use this method to get around now that he's a ghost. Your Soul Is Mine!: Of an undead variant. His soul belongs to Caleb, and it's implied that Caleb can take away his skateboarding or prevent him from leaving the Hollywood Ghost Club.",
+      "description": "Intangibility: A perk of being a ghost, but rarely shown as most of his scenes are with Alex. Long-Haired Pretty Boy: His first scene includes a slow-motion shot of him shaking his hair out after removing his skate helmet, and Alex is clearly immediately smitten while watching him. Meet Cute: He meets Alex by accidentally running him over while on his skateboard, thinking Alex was a 'lifer'. Opposites Attract: With Alex Mercer. He is anxious, cautious, highly organized, and often overthinks everything, while Willie is a laid-back, carefree, and spontaneous ghost skater who lives in the moment and introduces Alex to the wilder side of the afterlife. Teleporters and Transporters: While he does uses his skateboard, he's also shown to use this method to get around now that he's a ghost.",
       "source": "tvtropes"
     },
     {
@@ -281,7 +283,30 @@
       ],
       "description": "Big Bad: The main villain of the series, who tricks the Phantomsand puts a curse on their souls. He later possesses Nick in the final scene of season 1, to trick Julie. Colour-Coded for Your Convenience: Wears black and dark purple, and his magic (curse stamps, possession smoke) is purple. Dark Is Evil: Wears dark purple and black, contrasting against the more colourful outfits of the protagonists. Evil Wears Black: When not in his club, he roams the streets in a black top hat and a black cloak. Faux Affably Evil: He is polite and hospitable to the band, and even when threatening Willie his voice is never raised. It doesn't stop even when he's gloating about the effects thestamphas on the band members.",
       "source": "tvtropes"
+    },
+    {
+      "name": "In General",
+      "media_title": "Julie and the Phantoms",
+      "tropes": [
+        "ParentalIssues",
+        "RedOniBlueOni",
+        "FamilyOfChoice",
+        "HotBlooded",
+        "UndyingLoyalty",
+        "TheDitz",
+        "ThePowerOfLove",
+        "NiceGirl",
+        "DeadpanSnarker",
+        "AdaptationalNiceGuy",
+        "NiceGuy",
+        "JerkWithAHeartOfGold",
+        "FourTemperamentEnsemble",
+        "PluckyGirl",
+        "TrueCompanions"
+      ],
+      "description": "Adaptational Nice Guy: Downplayed with Julie, as the original Julie isn't really ameangirl most of the time, but she definitely had her moments. At least this Julie never asked the boys to help her utterly humiliate Carrie during the school play, among other things (though Thalita, the original Carrie, did have it coming).Played straight with Luke, however, whose Brazilian counterpart Daniel is aJerk with a Heart of Goldatbest. Played straight with Luke, however, whose Brazilian counterpart Daniel is aJerk with a Heart of Goldatbest. Family of Choice: The three boys considered themselves family before their deaths, and Julie joins them over the course of the season. Four-Temperament Ensemble:Julieis phlegmatic/supine,Lukeis choleric,Alexis melancholic, andReggieis sanguine. Nice Girl/Nice Guy: All four of them are kind, sweet and a little goofy.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 16
+  "character_count": 17
 }

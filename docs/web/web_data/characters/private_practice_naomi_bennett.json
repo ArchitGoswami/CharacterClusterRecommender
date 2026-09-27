@@ -1,18 +1,1 @@
-{
-  "name": "Naomi Bennett",
-  "show": "Private Practice",
-  "trope_count": 10,
-  "tropes": [
-    "WorkingWithTheEx",
-    "FormerlyFat",
-    "ParentalSubstitute",
-    "BackdoorPilot",
-    "OOCIsSeriousBusiness",
-    "BewareTheNiceOnes",
-    "NiceGirl",
-    "AmicableExes",
-    "Hypocrite",
-    "BestFriend"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Naomi Bennett", "show": "Private Practice", "trope_count": 10, "tropes": ["WorkingWithTheEx", "FormerlyFat", "ParentalSubstitute", "BackdoorPilot", "OOCIsSeriousBusiness", "BewareTheNiceOnes", "NiceGirl", "AmicableExes", "Hypocrite", "BestFriend"], "tropes_by_category": {}, "similar": [{"name": "Naomi Bennett", "show": "Grey's Anatomy", "id": "greys_anatomy_naomi_bennett", "similarity": 1.0, "shared_tropes": 10}, {"name": "Lois Foutley", "show": "As Told by Ginger", "id": "as_told_by_ginger_lois_foutley", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Kitty Forman", "show": "That '70s Show", "id": "that_70s_show_kitty_forman", "similarity": 0.0862, "shared_tropes": 5}, {"name": "Aunt May", "show": "Spider-Man", "id": "spider_man_aunt_may", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Francine \"Fran\" Fine", "show": "Nanny, The", "id": "nanny_the_francine_fran_fine", "similarity": 0.0581, "shared_tropes": 5}, {"name": "Andy Dwyer", "show": "Parks and Recreation", "id": "parks_and_recreation_andy_dwyer", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Gordon Ramsay (Host)", "show": "Hell's Kitchen", "id": "hells_kitchen_gordon_ramsay_host", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Nazz", "show": "Ed, Edd n Eddy", "id": "ed_edd_n_eddy_nazz", "similarity": 0.0439, "shared_tropes": 5}]}

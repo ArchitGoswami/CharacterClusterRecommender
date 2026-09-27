@@ -1,13 +1,1 @@
-{
-  "name": "Risky",
-  "show": "Everybody Hates Chris",
-  "trope_count": 5,
-  "tropes": [
-    "FailedASpotCheck",
-    "LovableRogue",
-    "ADayInTheLimelight",
-    "PhraseCatcher",
-    "PlayedForLaughs"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Risky", "show": "Everybody Hates Chris", "trope_count": 5, "tropes": ["FailedASpotCheck", "LovableRogue", "ADayInTheLimelight", "PhraseCatcher", "PlayedForLaughs"], "tropes_by_category": {}, "similar": []}

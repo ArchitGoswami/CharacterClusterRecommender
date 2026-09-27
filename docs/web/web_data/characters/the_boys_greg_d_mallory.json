@@ -1,15 +1,1 @@
-{
-  "name": "Greg D. Mallory",
-  "show": "The Boys",
-  "trope_count": 7,
-  "tropes": [
-    "KilledOffForReal",
-    "OlderThanHeLooks",
-    "BaritoneOfStrength",
-    "FatalFlaw",
-    "WhoWantsToLiveForever",
-    "FacingTheBulletsOneLiner",
-    "Fauxreigner"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Greg D. Mallory", "show": "The Boys", "trope_count": 7, "tropes": ["KilledOffForReal", "OlderThanHeLooks", "BaritoneOfStrength", "FatalFlaw", "WhoWantsToLiveForever", "FacingTheBulletsOneLiner", "Fauxreigner"], "tropes_by_category": {}, "similar": [{"name": "Greg D. Mallory", "show": "Boys, The", "id": "boys_the_greg_d_mallory", "similarity": 1.0, "shared_tropes": 7}]}

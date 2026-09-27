@@ -1,16 +1,1 @@
-{
-  "name": "Sonja Harper",
-  "show": "Mama's Family",
-  "trope_count": 8,
-  "tropes": [
-    "PutOnABus",
-    "TomboyWithAGirlyStreak",
-    "TotallyRadical",
-    "FlatCharacter",
-    "MissingMom",
-    "TomboyAndGirlyGirl",
-    "BrattyTeenageDaughter",
-    "HeadphonesEqualIsolation"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sonja Harper", "show": "Mama's Family", "trope_count": 8, "tropes": ["PutOnABus", "TomboyWithAGirlyStreak", "TotallyRadical", "FlatCharacter", "MissingMom", "TomboyAndGirlyGirl", "BrattyTeenageDaughter", "HeadphonesEqualIsolation"], "tropes_by_category": {}, "similar": [{"name": "Nazz", "show": "Ed, Edd n Eddy", "id": "ed_edd_n_eddy_nazz", "similarity": 0.0354, "shared_tropes": 4}]}

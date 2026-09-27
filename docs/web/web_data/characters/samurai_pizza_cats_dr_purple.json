@@ -1,13 +1,1 @@
-{
-  "name": "Dr. Purple",
-  "show": "Samurai Pizza Cats",
-  "trope_count": 5,
-  "tropes": [
-    "ShoutOut",
-    "CanonForeigner",
-    "ScrewThisImOuttaHere",
-    "MadScientist",
-    "AmusementParkOfDoom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Purple", "show": "Samurai Pizza Cats", "trope_count": 5, "tropes": ["ShoutOut", "CanonForeigner", "ScrewThisImOuttaHere", "MadScientist", "AmusementParkOfDoom"], "tropes_by_category": {}, "similar": []}

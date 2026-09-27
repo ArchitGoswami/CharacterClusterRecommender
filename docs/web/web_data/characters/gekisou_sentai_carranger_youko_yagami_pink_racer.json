@@ -1,18 +1,1 @@
-{
-  "name": "Youko Yagami/Pink Racer",
-  "show": "Gekisou Sentai Carranger",
-  "trope_count": 10,
-  "tropes": [
-    "PinkMeansFeminine",
-    "IdolSinger",
-    "TheStraightAndArrowPath",
-    "BerserkButton",
-    "GirlyGirl",
-    "BigEater",
-    "TomboyAndGirlyGirl",
-    "WhyDidItHaveToBeSnakes",
-    "NoSenseOfDirection",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Youko Yagami/Pink Racer", "show": "Gekisou Sentai Carranger", "trope_count": 10, "tropes": ["PinkMeansFeminine", "IdolSinger", "TheStraightAndArrowPath", "BerserkButton", "GirlyGirl", "BigEater", "TomboyAndGirlyGirl", "WhyDidItHaveToBeSnakes", "NoSenseOfDirection", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Lucille", "show": "Samurai Pizza Cats", "id": "samurai_pizza_cats_lucille", "similarity": 0.1714, "shared_tropes": 6}, {"name": "Num Nums", "show": "The ZhuZhus", "id": "the_zhuzhus_num_nums", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Republic of Seychelles", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_republic_of_seychelles", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Main Characters", "show": "Hi Hi Puffy AmiYumi", "id": "hi_hi_puffy_amiyumi_main_characters", "similarity": 0.0897, "shared_tropes": 7}, {"name": "Lillian \"Lilly\" Truscott", "show": "Hannah Montana", "id": "hannah_montana_lillian_lilly_truscott", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Irma", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_irma", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Alexandra \"Alex\" Casoy", "show": "Totally Spies!", "id": "totally_spies_alexandra_alex_casoy", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Polly Esther", "show": "Samurai Pizza Cats", "id": "samurai_pizza_cats_polly_esther", "similarity": 0.0656, "shared_tropes": 4}]}

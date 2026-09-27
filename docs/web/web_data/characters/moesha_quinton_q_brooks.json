@@ -1,17 +1,1 @@
-{
-  "name": "Quinton \"Q\" Brooks",
-  "show": "Moesha",
-  "trope_count": 9,
-  "tropes": [
-    "MaleBandFemaleSinger",
-    "ChivalrousPervert",
-    "JerkWithAHeartOfGold",
-    "RedOniBlueOni",
-    "TroubledButCute",
-    "TheNapoleon",
-    "BrooklynRage",
-    "BroodingBoyGentleGirl",
-    "LowerClassLout"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Quinton \"Q\" Brooks", "show": "Moesha", "trope_count": 9, "tropes": ["MaleBandFemaleSinger", "ChivalrousPervert", "JerkWithAHeartOfGold", "RedOniBlueOni", "TroubledButCute", "TheNapoleon", "BrooklynRage", "BroodingBoyGentleGirl", "LowerClassLout"], "tropes_by_category": {}, "similar": [{"name": "Ryan Atwood", "show": "O.C., The", "id": "oc_the_ryan_atwood", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Gwizdo", "show": "Dragon Hunters", "id": "dragon_hunters_gwizdo", "similarity": 0.0465, "shared_tropes": 4}]}

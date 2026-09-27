@@ -1,12 +1,1 @@
-{
-  "name": "Dr. Pullum",
-  "show": "Dan Vs.",
-  "trope_count": 4,
-  "tropes": [
-    "MadDoctor",
-    "DepravedDentist",
-    "LargeHam",
-    "ChewingTheScenery"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Pullum", "show": "Dan Vs.", "trope_count": 4, "tropes": ["MadDoctor", "DepravedDentist", "LargeHam", "ChewingTheScenery"], "tropes_by_category": {}, "similar": []}

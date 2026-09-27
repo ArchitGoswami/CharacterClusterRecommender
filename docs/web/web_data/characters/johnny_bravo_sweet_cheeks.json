@@ -1,17 +1,1 @@
-{
-  "name": "Sweet Cheeks",
-  "show": "Johnny Bravo",
-  "trope_count": 9,
-  "tropes": [
-    "MisanthropeSupreme",
-    "ImMelting",
-    "WouldHurtAChild",
-    "DeathByIrony",
-    "CurbStompBattle",
-    "Acrofatic",
-    "FatBastard",
-    "SweetTooth",
-    "MonsterClown"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sweet Cheeks", "show": "Johnny Bravo", "trope_count": 9, "tropes": ["MisanthropeSupreme", "ImMelting", "WouldHurtAChild", "DeathByIrony", "CurbStompBattle", "Acrofatic", "FatBastard", "SweetTooth", "MonsterClown"], "tropes_by_category": {}, "similar": [{"name": "Gluttony", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_gluttony", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Mad Pierrot", "show": "Cowboy Bebop", "id": "cowboy_bebop_mad_pierrot", "similarity": 0.0404, "shared_tropes": 4}]}

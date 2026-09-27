@@ -1,17 +1,1 @@
-{
-  "name": "Aleksandr Petrovsky",
-  "show": "And Just Like That",
-  "trope_count": 9,
-  "tropes": [
-    "GentlemanSnarker",
-    "NeverMyFault",
-    "MayDecemberRomance",
-    "NoGuyWantsToBeChased",
-    "TookALevelInJerkass",
-    "RealMenCook",
-    "GrandRomanticGesture",
-    "SlobsVsSnobs",
-    "AmicableExes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Aleksandr Petrovsky", "show": "And Just Like That", "trope_count": 9, "tropes": ["GentlemanSnarker", "NeverMyFault", "MayDecemberRomance", "NoGuyWantsToBeChased", "TookALevelInJerkass", "RealMenCook", "GrandRomanticGesture", "SlobsVsSnobs", "AmicableExes"], "tropes_by_category": {}, "similar": [{"name": "Aleksandr Petrovsky", "show": "Sex and the City", "id": "sex_and_the_city_aleksandr_petrovsky", "similarity": 1.0, "shared_tropes": 9}]}

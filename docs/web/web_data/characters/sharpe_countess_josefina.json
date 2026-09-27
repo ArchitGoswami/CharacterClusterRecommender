@@ -1,16 +1,1 @@
-{
-  "name": "Countess Josefina",
-  "show": "Sharpe",
-  "trope_count": 8,
-  "tropes": [
-    "HighClassCallGirl",
-    "DecompositeCharacter",
-    "TomboyAndGirlyGirl",
-    "SingleWomanSeeksGoodMan",
-    "ShirtlessScene",
-    "EatingTheEyeCandy",
-    "ImpoverishedPatrician",
-    "ActuallyPrettyFunny"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Countess Josefina", "show": "Sharpe", "trope_count": 8, "tropes": ["HighClassCallGirl", "DecompositeCharacter", "TomboyAndGirlyGirl", "SingleWomanSeeksGoodMan", "ShirtlessScene", "EatingTheEyeCandy", "ImpoverishedPatrician", "ActuallyPrettyFunny"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Lou Fleming",
-  "show": "Heartland",
-  "trope_count": 9,
-  "tropes": [
-    "BrainyBrunette",
-    "GoodParents",
-    "CityMouse",
-    "DaddysGirl",
-    "GirlyGirl",
-    "SoapboxSadie",
-    "GlamorousSingleMother",
-    "TheSmartGuy",
-    "OnlyKnownByTheirNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lou Fleming", "show": "Heartland", "trope_count": 9, "tropes": ["BrainyBrunette", "GoodParents", "CityMouse", "DaddysGirl", "GirlyGirl", "SoapboxSadie", "GlamorousSingleMother", "TheSmartGuy", "OnlyKnownByTheirNickname"], "tropes_by_category": {}, "similar": [{"name": "Darlene Conner", "show": "Roseanne", "id": "roseanne_darlene_conner", "similarity": 0.1087, "shared_tropes": 5}, {"name": "Darlene Conner", "show": "Conners, The", "id": "conners_the_darlene_conner", "similarity": 0.1064, "shared_tropes": 5}, {"name": "Andre 'Dre' Johnson", "show": "Black-ish", "id": "black_ish_andre_dre_johnson", "similarity": 0.093, "shared_tropes": 4}, {"name": "Recurring Characters", "show": "My Family", "id": "my_family_recurring_characters", "similarity": 0.0506, "shared_tropes": 4}]}

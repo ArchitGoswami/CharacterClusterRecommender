@@ -1,15 +1,1 @@
-{
-  "name": "Peppy Jack",
-  "show": "Heartbeat",
-  "trope_count": 7,
-  "tropes": [
-    "TrueFinalBoss",
-    "BewareTheSillyOnes",
-    "EasyLevelTrick",
-    "OptionalBoss",
-    "NonElemental",
-    "BossRush",
-    "CloudCuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Peppy Jack", "show": "Heartbeat", "trope_count": 7, "tropes": ["TrueFinalBoss", "BewareTheSillyOnes", "EasyLevelTrick", "OptionalBoss", "NonElemental", "BossRush", "CloudCuckoolander"], "tropes_by_category": {}, "similar": []}

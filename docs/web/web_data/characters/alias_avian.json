@@ -1,17 +1,1 @@
-{
-  "name": "Avian",
-  "show": "Alias",
-  "trope_count": 9,
-  "tropes": [
-    "KilledOffForReal",
-    "YouHaveOutlivedYourUsefulness",
-    "WeHardlyKnewYe",
-    "HollywoodHacking",
-    "FourEyesZeroSoul",
-    "ArrogantKungFuGuy",
-    "HeKnowsTooMuch",
-    "SmugSnake",
-    "BondVillainStupidity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Avian", "show": "Alias", "trope_count": 9, "tropes": ["KilledOffForReal", "YouHaveOutlivedYourUsefulness", "WeHardlyKnewYe", "HollywoodHacking", "FourEyesZeroSoul", "ArrogantKungFuGuy", "HeKnowsTooMuch", "SmugSnake", "BondVillainStupidity"], "tropes_by_category": {}, "similar": [{"name": "\"Gold-Toothed Doctor\"", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_gold_toothed_doctor", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Red Flag", "show": "Alphas", "id": "alphas_red_flag", "similarity": 0.036, "shared_tropes": 4}]}

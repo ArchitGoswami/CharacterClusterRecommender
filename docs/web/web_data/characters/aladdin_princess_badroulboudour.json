@@ -1,16 +1,1 @@
-{
-  "name": "Princess Badroulboudour",
-  "show": "Aladdin",
-  "trope_count": 8,
-  "tropes": [
-    "LoveInterest",
-    "WorldsMostBeautifulWoman",
-    "SatelliteLoveInterest",
-    "DaddysGirl",
-    "GoSeduceMyArchnemesis",
-    "MeaningfulName",
-    "AdaptationalNameChange",
-    "EvilSorcerer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Princess Badroulboudour", "show": "Aladdin", "trope_count": 8, "tropes": ["LoveInterest", "WorldsMostBeautifulWoman", "SatelliteLoveInterest", "DaddysGirl", "GoSeduceMyArchnemesis", "MeaningfulName", "AdaptationalNameChange", "EvilSorcerer"], "tropes_by_category": {}, "similar": [{"name": "Juliette Silverton", "show": "Grimm", "id": "grimm_juliette_silverton", "similarity": 0.046, "shared_tropes": 4}]}

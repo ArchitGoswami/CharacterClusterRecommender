@@ -1,14 +1,1 @@
-{
-  "name": "Laird",
-  "show": "DuckTales",
-  "trope_count": 6,
-  "tropes": [
-    "WouldHurtAChild",
-    "EvilMentor",
-    "BaldOfEvil",
-    "EvilSorcerer",
-    "BeardOfEvil",
-    "HypnoticEyes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Laird", "show": "DuckTales", "trope_count": 6, "tropes": ["WouldHurtAChild", "EvilMentor", "BaldOfEvil", "EvilSorcerer", "BeardOfEvil", "HypnoticEyes"], "tropes_by_category": {}, "similar": [{"name": "The Archmage", "show": "Gargoyles", "id": "gargoyles_the_archmage", "similarity": 0.08, "shared_tropes": 4}]}

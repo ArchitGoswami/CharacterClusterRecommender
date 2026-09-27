@@ -1,18 +1,1 @@
-{
-  "name": "Everett",
-  "show": "Back at the Barnyard",
-  "trope_count": 10,
-  "tropes": [
-    "GuileHero",
-    "CoolOldGuy",
-    "TragicKeepsake",
-    "ADayInTheLimelight",
-    "CrouchingMoronHiddenBadass",
-    "SmallNameBigEgo",
-    "HeroicDog",
-    "AdventurerArchaeologist",
-    "RetiredBadass",
-    "NameAmnesia"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Everett", "show": "Back at the Barnyard", "trope_count": 10, "tropes": ["GuileHero", "CoolOldGuy", "TragicKeepsake", "ADayInTheLimelight", "CrouchingMoronHiddenBadass", "SmallNameBigEgo", "HeroicDog", "AdventurerArchaeologist", "RetiredBadass", "NameAmnesia"], "tropes_by_category": {}, "similar": [{"name": "\"Coach\" Pantusso", "show": "Cheers", "id": "cheers_coach_pantusso", "similarity": 0.125, "shared_tropes": 4}, {"name": "Ernie \"Coach\" Pantusso", "show": "Cheers", "id": "cheers_ernie_coach_pantusso", "similarity": 0.125, "shared_tropes": 4}, {"name": "Major characters", "show": "Celebrity Deathmatch", "id": "celebrity_deathmatch_major_characters", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Bumi II", "show": "Legend of Korra, The", "id": "legend_of_korra_the_bumi_ii", "similarity": 0.043, "shared_tropes": 4}]}

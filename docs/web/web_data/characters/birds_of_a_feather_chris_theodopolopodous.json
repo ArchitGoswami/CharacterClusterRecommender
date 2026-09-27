@@ -1,15 +1,1 @@
-{
-  "name": "Chris Theodopolopodous",
-  "show": "Birds of a Feather",
-  "trope_count": 7,
-  "tropes": [
-    "Jerkass",
-    "TookALevelInKindness",
-    "ReformedCriminal",
-    "OutOfFocus",
-    "Subverted",
-    "AwfulWeddedLife",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chris Theodopolopodous", "show": "Birds of a Feather", "trope_count": 7, "tropes": ["Jerkass", "TookALevelInKindness", "ReformedCriminal", "OutOfFocus", "Subverted", "AwfulWeddedLife", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "Superman", "show": "Robot Chicken", "id": "robot_chicken_superman", "similarity": 0.0556, "shared_tropes": 4}]}

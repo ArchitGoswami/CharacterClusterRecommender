@@ -1,17 +1,1 @@
-{
-  "name": "Raspberry Torte",
-  "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 9,
-  "tropes": [
-    "GirlinessUpgrade",
-    "AdaptationalNiceGirl",
-    "Jerkass",
-    "PinkMeansFeminine",
-    "GirlyGirl",
-    "TheFashionista",
-    "TomboyAndGirlyGirl",
-    "InnocentlyInsensitive",
-    "RoseHairedSweetie"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Raspberry Torte", "show": "Strawberry Shortcake's Berry Bitty Adventures", "trope_count": 9, "tropes": ["GirlinessUpgrade", "AdaptationalNiceGirl", "Jerkass", "PinkMeansFeminine", "GirlyGirl", "TheFashionista", "TomboyAndGirlyGirl", "InnocentlyInsensitive", "RoseHairedSweetie"], "tropes_by_category": {}, "similar": [{"name": "Strawberry Shortcake", "show": "Strawberry Shortcake's Berry Bitty Adventures", "id": "strawberry_shortcakes_berry_bitty_adventures_strawberry_shortcake", "similarity": 0.1613, "shared_tropes": 5}, {"name": "Rosie", "show": "Caillou", "id": "caillou_rosie", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Wanda Li", "show": "Magic School Bus, The", "id": "magic_school_bus_the_wanda_li", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Wanda Li", "show": "The Magic School Bus Rides Again", "id": "the_magic_school_bus_rides_again_wanda_li", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Elizabeth Brooke \"Lizzie\"McGuire", "show": "Lizzie McGuire", "id": "lizzie_mcguire_elizabeth_brooke_lizzie_mcguire", "similarity": 0.0806, "shared_tropes": 5}, {"name": "Yumiko and Kuri", "show": "Sailor Moon", "id": "sailor_moon_yumiko_and_kuri", "similarity": 0.0794, "shared_tropes": 5}, {"name": "Courtney Gripling", "show": "As Told by Ginger", "id": "as_told_by_ginger_courtney_gripling", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Mary Alice \"Muffy\" Crosswire", "show": "Arthur", "id": "arthur_mary_alice_muffy_crosswire", "similarity": 0.0727, "shared_tropes": 4}]}

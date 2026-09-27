@@ -1,17 +1,1 @@
-{
-  "name": "Lido Di Manhattan",
-  "show": "Kitchen Nightmares",
-  "trope_count": 9,
-  "tropes": [
-    "PercussiveTherapy",
-    "TookALevelInBadass",
-    "Foil",
-    "EarnYourHappyEnding",
-    "RunningAwayToCry",
-    "BrilliantButLazy",
-    "HiddenDepths",
-    "CharacterDevelopment",
-    "DumbassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lido Di Manhattan", "show": "Kitchen Nightmares", "trope_count": 9, "tropes": ["PercussiveTherapy", "TookALevelInBadass", "Foil", "EarnYourHappyEnding", "RunningAwayToCry", "BrilliantButLazy", "HiddenDepths", "CharacterDevelopment", "DumbassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Lido Di Manhattan", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_lido_di_manhattan", "similarity": 1.0, "shared_tropes": 9}, {"name": "Ava Coleman", "show": "Abbott Elementary", "id": "abbott_elementary_ava_coleman", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Cecelia \"CeCe\" Jones", "show": "Shake It Up", "id": "shake_it_up_cecelia_cece_jones", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Prince Wu", "show": "Legend of Korra, The", "id": "legend_of_korra_the_prince_wu", "similarity": 0.0652, "shared_tropes": 6}, {"name": "Anthony \"AJ\" Soprano Jr.", "show": "Sopranos,The", "id": "sopranosthe_anthony_aj_soprano_jr", "similarity": 0.0641, "shared_tropes": 5}, {"name": "Anthony \"AJ\" Soprano Jr.", "show": "The Sopranos", "id": "the_sopranos_anthony_aj_soprano_jr", "similarity": 0.0641, "shared_tropes": 5}, {"name": "Raimundo Pedrosa", "show": "Xiaolin Showdown", "id": "xiaolin_showdown_raimundo_pedrosa", "similarity": 0.0617, "shared_tropes": 5}, {"name": "Porky Pig", "show": "Looney Tunes Show, The", "id": "looney_tunes_show_the_porky_pig", "similarity": 0.0563, "shared_tropes": 4}]}

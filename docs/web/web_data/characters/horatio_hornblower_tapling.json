@@ -1,14 +1,1 @@
-{
-  "name": "Tapling",
-  "show": "Horatio Hornblower",
-  "trope_count": 6,
-  "tropes": [
-    "AssInAmbassador",
-    "TookALevelInKindness",
-    "PlayingSick",
-    "CharacterDevelopment",
-    "NoNameGiven",
-    "MomentKiller"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tapling", "show": "Horatio Hornblower", "trope_count": 6, "tropes": ["AssInAmbassador", "TookALevelInKindness", "PlayingSick", "CharacterDevelopment", "NoNameGiven", "MomentKiller"], "tropes_by_category": {}, "similar": []}

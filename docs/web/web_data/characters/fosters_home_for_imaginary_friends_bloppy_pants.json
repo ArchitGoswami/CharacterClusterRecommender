@@ -1,15 +1,1 @@
-{
-  "name": "Bloppy Pants",
-  "show": "Foster's Home for Imaginary Friends",
-  "trope_count": 7,
-  "tropes": [
-    "LethalChef",
-    "MasculineGirlFeminineBoy",
-    "TheQuietOne",
-    "ShrinkingViolet",
-    "Tomboy",
-    "AscendedExtra",
-    "Irony"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bloppy Pants", "show": "Foster's Home for Imaginary Friends", "trope_count": 8, "tropes": ["TheQuietOne", "HiddenDepths", "AscendedExtra", "LethalChef", "MasculineGirlFeminineBoy", "ShrinkingViolet", "Tomboy", "Irony"], "tropes_by_category": {}, "similar": [{"name": "Fluffer Nutter", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_fluffer_nutter", "similarity": 0.3333, "shared_tropes": 4}, {"name": "George Lundgren", "show": "Arthur", "id": "arthur_george_lundgren", "similarity": 0.1333, "shared_tropes": 4}, {"name": "MatthewMacDell", "show": "Big Mouth", "id": "big_mouth_matthewmacdell", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Axel", "show": "Total Drama", "id": "total_drama_axel", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Ronalda \"Ronnie\" Anne Santiago", "show": "Casagrandes, The", "id": "casagrandes_the_ronalda_ronnie_anne_santiago", "similarity": 0.058, "shared_tropes": 4}, {"name": "Ronalda \"Ronnie\" Anne Santiago", "show": "Loud House, The", "id": "loud_house_the_ronalda_ronnie_anne_santiago", "similarity": 0.058, "shared_tropes": 4}, {"name": "Dr. Rajesh \"Raj\" Koothrappali", "show": "The Big Bang Theory", "id": "the_big_bang_theory_dr_rajesh_raj_koothrappali", "similarity": 0.0568, "shared_tropes": 5}, {"name": "Recurring Characters", "show": "My Family", "id": "my_family_recurring_characters", "similarity": 0.0513, "shared_tropes": 4}]}

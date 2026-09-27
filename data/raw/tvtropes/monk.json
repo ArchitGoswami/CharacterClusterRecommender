@@ -1,0 +1,1593 @@
+{
+  "media_title": "Monk",
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Monk",
+  "characters": [
+    {
+      "name": "Adrian Monk",
+      "media_title": "Monk",
+      "tropes": [
+        "ThematicThemeTune",
+        "ResetButton",
+        "BearsAreBadNews",
+        "ImprobableWeaponUser",
+        "RunningGag",
+        "DrivesLikeCrazy",
+        "TheFinickyOne",
+        "DefectiveDetective",
+        "AccidentalAimingSkills",
+        "PromotionToParent",
+        "LiquidCourage",
+        "ObsessivelyOrganized",
+        "DoomMagnet",
+        "AsHimself",
+        "CharacterizationMarchesOn",
+        "PhotographicMemory",
+        "FreakOut",
+        "ContinuityNod",
+        "SixthRangerTraitor",
+        "AssholeVictim",
+        "HappyFlashback",
+        "FakeOutMakeOut",
+        "TogetherInDeath",
+        "AllTakeAndNoGive",
+        "Flanderization",
+        "PerpetualPoverty",
+        "ExactWords",
+        "TurnInYourBadge",
+        "SuperSenses",
+        "DeadPersonConversation",
+        "TropeNamer",
+        "HappyDance",
+        "BerserkButton",
+        "AbsurdPhobia",
+        "TakesTenToHold",
+        "ImprobableAimingSkills",
+        "UnusualEuphemism",
+        "BuffySpeak",
+        "TheSoCalledCoward",
+        "GreenEyedMonster",
+        "MysteryMagnet",
+        "FriendOnTheForce",
+        "PutOnABus",
+        "EasyAmnesia",
+        "YouJustToldMe",
+        "YourPrincessIsInAnotherCastle",
+        "ContrivedCoincidence",
+        "LockedRoomMystery",
+        "EveryoneHasStandards",
+        "HollywoodPsych",
+        "MistakenForExhibit",
+        "PlayedForLaughs",
+        "ProperlyParanoid",
+        "MistakenForRacist",
+        "StatusQuoIsGod",
+        "IdiosyncraticEpisodeNaming",
+        "BunnyEarsLawyer",
+        "MadnessMantra",
+        "OOCIsSeriousBusiness",
+        "MurderMakesYouCrazy",
+        "ColdOpen",
+        "GreenAesop",
+        "AmoralAttorney",
+        "BlackWidow",
+        "HatesBeingTouched",
+        "BoundAndGagged",
+        "BewareTheNiceOnes",
+        "HoldingTheFloor",
+        "ChasteHero",
+        "LickedByTheDog",
+        "Sexiled",
+        "RudeHeroNiceSidekick",
+        "BrokenPedestal",
+        "WantingIsBetterThanHaving",
+        "CatchPhrase",
+        "AfraidOfDoctors",
+        "BlessedWithSuck",
+        "ArsonMurderAndJaywalking",
+        "SickEpisode",
+        "HonorBeforeReason",
+        "Claustrophobia",
+        "ILetGwenStacyDie",
+        "SarcasmMode",
+        "ScreamsLikeALittleGirl",
+        "JekyllAndHyde",
+        "DrivenToSuicide",
+        "ManChild",
+        "AttentionDeficitOohShiny",
+        "YankTheDogsChain",
+        "RuleOfFunny",
+        "HasAType",
+        "QuitAtTheTop",
+        "BrokenAce",
+        "LampshadeHanging",
+        "CareerEndingInjury",
+        "InvertedTrope",
+        "MundaneMadeAwesome",
+        "ClearMyName",
+        "DeadpanSnarker",
+        "TheComicallySerious",
+        "WildTeenParty",
+        "ICouldaBeenAContender",
+        "WeirdnessMagnet",
+        "OffscreenMomentOfAwesome",
+        "SubvertedTrope",
+        "HighlyVisibleNinja",
+        "HilarityEnsues",
+        "FictionalFanRealCelebrity",
+        "SheIsNotMyGirlfriend",
+        "CharacterTics",
+        "FoundTheKillerLostTheMurderer",
+        "SlippingAMickey",
+        "IronicName",
+        "NobleBigot",
+        "SuccessThroughInsanity",
+        "DisappearedDad",
+        "TraumaCongaLine",
+        "SeriesContinuityError",
+        "LovableCoward",
+        "ArchEnemy",
+        "ARareSentence",
+        "DisabilitySuperpower",
+        "InsistentTerminology",
+        "BusmansHoliday",
+        "ConditionedToAcceptHorror",
+        "HandwritingAsCharacterization",
+        "EurekaMoment",
+        "HyperAwareness",
+        "Catchphrase",
+        "JerkWithAHeartOfGold",
+        "MeanBoss",
+        "LimitedWardrobe",
+        "CrouchingMoronHiddenBadass",
+        "YouCantGoHomeAgain",
+        "GreatDetective",
+        "LargeHam",
+        "MeaningfulName",
+        "YouNeverDidThatForMe",
+        "SherlockScan",
+        "TagAlongActor",
+        "LaughingMad",
+        "InsaneTrollLogic",
+        "MarijuanaIsLSD",
+        "CannotTellAJoke",
+        "IResembleThatRemark",
+        "InsufferableGenius",
+        "PaintingTheMedium",
+        "MyBelovedSmother",
+        "NotAfraidToDie",
+        "FailedAuditionPlot",
+        "TheSummation",
+        "AirHugging",
+        "ColdSniper",
+        "OhTheHumanity",
+        "ConvictionByContradiction",
+        "ShellShockedVeteran",
+        "BecomingTheMask",
+        "ComicallyMissingThePoint",
+        "PetTheDog",
+        "HypnoFool",
+        "BigLippedAlligatorMoment",
+        "LoveMakesYouSaner",
+        "BlackAndWhiteInsanity",
+        "DysfunctionalFamily",
+        "Determinator",
+        "IconicOutfit",
+        "GoodIsNotSoft",
+        "BadBadActing",
+        "BrainBleach",
+        "LetsGetDangerous",
+        "ShowDontTell",
+        "HoistByHisOwnPetard",
+        "WeaponSpecialization",
+        "SensoryOverload",
+        "PhraseCatcher",
+        "FlowersForAlgernonSyndrome",
+        "BreakingTheCycleOfBadParenting",
+        "ProductPlacement",
+        "ThirdActStupidity",
+        "CantHoldHisLiquor",
+        "DisposableWoman",
+        "ParalyzingFearOfSexuality",
+        "CrapsackWorld",
+        "SmugSnake",
+        "MoodWhiplash",
+        "TrademarkFavouriteFood",
+        "CelibateHero",
+        "ExasperatedPerp",
+        "ScrewThisImOuttaHere",
+        "TheKnightsWhoSaySquee",
+        "NoSenseOfPersonalSpace",
+        "CassandraTruth",
+        "CriminalDoppelganger",
+        "ItsAllAboutMe",
+        "WhatTheHellHero",
+        "SharedFamilyQuirks",
+        "FourTemperamentEnsemble",
+        "RealLife",
+        "Leitmotif",
+        "WeWantOurJerkBack",
+        "ZigZaggedTrope",
+        "AccidentalKidnapping",
+        "MistakenForBadass",
+        "DitzyGenius",
+        "AfraidOfNeedles",
+        "TheExoticDetective",
+        "ICantBelieveAGuyLikeYouWouldNoticeMe",
+        "InUniverse",
+        "HeroicBSOD",
+        "HurricaneOfPuns",
+        "DepartmentOfRedundancyDepartment",
+        "NoSocialSkills",
+        "StripperCopConfusion",
+        "EstablishingCharacterMoment",
+        "ComicallySmallBribe",
+        "Expy",
+        "HandshakeRefusal",
+        "BadSanta",
+        "CowardlyLion",
+        "TakeAThirdOption",
+        "DrunkenMaster",
+        "DefeatingTheUndefeatable"
+      ],
+      "description": "The main character of the series. He is a formerSan Franciscopolice inspector who suffered anervous breakdownafterthe murder of his wife, Trudy. He is a lifelong sufferer of Obsessive-Compulsive Disorder and has many phobias, and those obsessions became crippling after his breakdown, forcing his retirement; he recovers throughout the series, though he is never fully \"cured\". His OCD is also the reason Monk was such a successful policeman; one of his compulsions ispaying amazing attention to details.Thanks to his breakdown, Monk wasdischarged from his department, but is frequently called in to consult on cases which baffle the police, often some kind ofLocked Room Mystery, by his friend and former commander Captain Stottlemeyer. Hisdisordersare part and parcel of his unique mind; without them, he wouldn't be able to solve these cases. Of course, the one case Monk's been trying to solve since his breakdown is Trudy's murder, and each season of the show brings him a little closer to finally solving the mystery behind her death (with the show's final season bringing the case to a close for good). Absurd Phobia: Has many typical and atypical fears, ranging from snakes to milk. Oddly enough, he is most definitely not afraid of criminals and is willing to personally engage them when necessary. Accidental Aiming Skills: In the pilot, Monk hits something by accident. In \"Mr. Monk Can't See a Thing,\" he quickly jerks Stottlemeyer's pistol off to the side to fire off a warning shot when cornered by Peter Breen in the morgue and, in \"Mr. Monk Is At Your Service\", despite not having bothered to aim at anything, kills a bird with a rifle. Afraid of Doctors: \"Mr. Monk Goes to the Dentist\" establishes that dentists are among the many things he fears. The dentist in question, Dr. Oliver Bloom, becomes the main suspect in the episode's murder investigation, but Monk is afraid of the dentist's office even before he suspects Dr. Bloom. Afraid of Needles: To such a point that in \"Mr. Mo",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Sharona Fleming",
+      "media_title": "Monk",
+      "tropes": [
+        "ImTakingHerHomeWithMe",
+        "RunningGag",
+        "Gaslighting",
+        "BlatantLies",
+        "IWasYoungAndNeededTheMoney",
+        "AnimalLover",
+        "TheGloriousWarOfSisterlyRivalry",
+        "BusmansHoliday",
+        "UndyingLoyalty",
+        "SingleParentsAreUndesirable",
+        "JerkWithAHeartOfGold",
+        "CruelToBeKind",
+        "CloudCuckoolander",
+        "SingleMomStripper",
+        "WhyDidItHaveToBeSnakes",
+        "ToughLove",
+        "MamaBear",
+        "TheBusCameBack",
+        "TheFashionista",
+        "BelligerentSexualTension",
+        "DeadpanSnarker",
+        "Expy",
+        "VitriolicBestBuds",
+        "BadassBoast",
+        "PutOnABus"
+      ],
+      "description": "Monk's nurse and first assistant, from Season 1 through the first half of Season 3. Originally from New Jersey, she's a single mom with a son named Benjy. Unlike Natalie, she almost always called Monk by his first name. Animal Lover: Though Sharona doesn't own a pet (perhaps due to living in an apartment), she's often the member of the main team most fond of animals. In \"Mr. Monk and the Panic Room\", she picks up Darwin, insists on feeding him, and hides him from the police to prevent him being put to sleep for supposedly killing his master (which she insists is impossible). In \"Mr. Monk and the Captain's Wife\", she coos over a small dog at the crime scene, ultimately picking it up and carrying it around while following her boss. Monk unhappily suspectsshe'll want to keep it(though it turns out to belong to the villain of the week already). Blatant Lies: Most notably in \"Mr. Monk and the Panic Room,\" when Stottlemeyer and Disher are searching Sharona's house looking for Ian Blackburn's monkey Darwin, whom she stole from an animal shelter the night before. Stottlemeyer finds what looks like vomit and crooked photos on one wall:Captain Stottlemeyer:Hey! What happened here?Sharona:Benjy threw up.Captain Stottlemeyer:Onthe wall?Sharona:It was pretty awful. The Bus Came Back: Bitty Schram did return to play Sharona one last time in \"Mr. Monk and Sharona\". Busman's Holiday: Gets one in \"Mr. Monk Takes a Vacation\", where Monk is incredibly uncomfortable and simply sits on the beach fully clothed. When a murder mystery pops up, he couldn't be happier, and drags Sharona into helping him solve it. Upon their return Sharona threatens to quit if they go on vacation again, then says \"I can't believe I just said that!\"",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Natalie Teeger",
+      "media_title": "Monk",
+      "tropes": [
+        "Determinator",
+        "WeNeedADistraction",
+        "BlackSheep",
+        "Foil",
+        "ContrastingReplacementCharacter",
+        "DrivesLikeCrazy",
+        "LastNameBasis",
+        "NotSoAboveItAll",
+        "ProperlyParanoid",
+        "OOCIsSeriousBusiness",
+        "IJustShotMarvinInTheFace",
+        "BracesOfOrthodonticOverkill",
+        "HollywoodSpelling",
+        "ProductPlacement",
+        "BusmansHoliday",
+        "UndyingLoyalty",
+        "ExpansionPackPast",
+        "DrivingTestSmashers",
+        "AsideGlance",
+        "BoundAndGagged",
+        "CharacterizationMarchesOn",
+        "JerkWithAHeartOfGold",
+        "SuspiciouslySimilarSubstitute",
+        "BewareTheNiceOnes",
+        "UnlimitedWardrobe",
+        "HiddenDepths",
+        "FreezeFrameBonus",
+        "YouNeverDidThatForMe",
+        "ADayInTheLimeLight",
+        "FakeOutMakeOut",
+        "ScrewThisImOuttaHere",
+        "ShedTheFamilyName",
+        "HypocriticalHumor",
+        "MamaBear",
+        "FifteenMinutesOfFame",
+        "AdaptationExpansion",
+        "BrokenRecord",
+        "WhatTheHellHero",
+        "ArsonMurderAndJaywalking",
+        "ArbitrarySkepticism",
+        "EmbarrassingSlide",
+        "SpitTake",
+        "FourTemperamentEnsemble",
+        "TheReasonYouSuckSpeech",
+        "StrawCritic",
+        "NiceJobBreakingItHero",
+        "HasAType",
+        "UnusuallyUninterestingSight",
+        "InUniverse",
+        "TheSummation",
+        "SheIsNotMyGirlfriend",
+        "GoodLookingPrivates",
+        "HeyThatsMyLine",
+        "RecklessGunUsage",
+        "ClearMyName",
+        "EarlyInstallmentWeirdness",
+        "DeadpanSnarker",
+        "TheWatson",
+        "BerserkButton",
+        "ChekhovsSkill",
+        "Expy",
+        "ShipTease",
+        "WeirdnessMagnet",
+        "SpoiledSweet",
+        "MysteryMagnet",
+        "OhCrap",
+        "UnconventionalSmoothie",
+        "TakeOurWordForIt",
+        "NotMyDriver",
+        "GilliganCut"
+      ],
+      "description": "Monk's personal assistant starting with the second half of Season 3.Unlike the other characters, Natalie is the only one to come from an upper class background. In her case, she was born in Monterey in the 1960s, child of Bobby and Peggy Davenport. She had one sibling, a brother named Jonathan. Her grandfather, Neville Davenport, was a former chemist's assistant, who eventually got an epiphany and founded his own toothpaste company, now the third largest in the world.In the early 1990s, Natalie married a Navy lieutenant commander named Mitch Teeger. With him, she had one child, a daughter named Julie, named for Mitch's aunt. The resulting marriage also strained Natalie's relationship with her family. Their marriage lasted seven years, until 1998, when Mitch was killed in combat in theKosovo War.Over the next seven years, Natalie bounced around between a number of odd jobs, like blackjack dealer, office worker, and housesitter, but nothing stuck.In her first episode, \"Mr. Monk and the Red Herring,\" Natalie is working as a bartender and living in the Noe Valley neighborhood of San Francisco. Her life changes when her house is broken into twice in the span of a couple of days: the first time, a man posing as a water meter inspector comes in, but quickly flees when she catches him snooping around in the living room. A few nights later, a second man breaks in through a side window. Natalie is awoken by a noise, and when she goes down to investigate, the intuder, Brian Lemmon, attacks her. Natalie is forced to kill him in self-defense with a pair of scissors. Captain Stottlemeyer and Lieutenant Disher are baffled upon learning that this is the second intruder in less than a week, and they suggest Natalie take her case to Monk, who is currently trying to get over Sharona's departure from his life and looking for replacements. Monk is intrigued by Natalie's case, and comes in to help.Throughout his investigation, Monk is impressed enough by her, and her similarities to Shar",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Capt. Leland Stottlemeyer",
+      "media_title": "Monk",
+      "tropes": [
+        "RelativeButton",
+        "PoliceAreUseless",
+        "DrivesLikeCrazy",
+        "JackBauerInterrogationTechnique",
+        "BlatantLies",
+        "TragicKeepsake",
+        "ChronicallyCrashedCar",
+        "ReasonableAuthorityFigure",
+        "Subverted",
+        "WatchThePaintJob",
+        "CloudcuckoolandersMinder",
+        "INeverSaidItWasPoison",
+        "CharacterizationMarchesOn",
+        "HiddenDepths",
+        "SecretSanta",
+        "AuthoritySoundsDeep",
+        "ADayInTheLimeLight",
+        "InspectorLestrade",
+        "BackportedDevelopment",
+        "CloudCuckooLander",
+        "TheCSIEffect",
+        "WhatTheHellHero",
+        "ArbitrarySkepticism",
+        "Rewrite",
+        "EmbarrassingSlide",
+        "FourTemperamentEnsemble",
+        "UnsympatheticComedyProtagonist",
+        "NoodleIncident",
+        "ConvenienceStoreGiftShopping",
+        "InUniverse",
+        "HeroicBSOD",
+        "QuipToBlack",
+        "JurisdictionFriction",
+        "DrinkingOnDuty",
+        "ClearMyName",
+        "HistoricalInJoke",
+        "DeadpanSnarker",
+        "ChekhovsSkill",
+        "Expy",
+        "IntergenerationalFriendship",
+        "WhatDidIDoLastNight",
+        "Jerkass",
+        "DrunkenMaster",
+        "FriendOnTheForce",
+        "GenderFlip"
+      ],
+      "description": "Stottlemeyer is Monk's former partner/watch commander and closest friend. Arbitrary Skepticism: In the earlier seasons, despite knowing how perceptive Monk is and how he's basically never wrong, Stottlemeyer continues to call his deductions into question and insist that Monk is barking up the wrong tree.Subvertedas the show goes on and Stottlemeyer is much more willing to believe him, and his questioning becomes less out of thinking Monk's wrong and more out of needing further information before he can legally act. Authority Sounds Deep: He speaks in a relaxed-yet-commanding baritone, which always gets his detectives' attention. Backported Development: Once Monk and Stottlemeyer started developing more of an overt friendship in the show, the series subjected their history to arewrite, changing them from old enemies to old friends. Blatant Lies: In \"Mr. Monk and the Red-Headed Stranger,\" Stottlemeyer claims that his arm is in a sling because he broke it in a motorcycle accident. Afterwards, Monk takes Stottlemeyer aside and quietly suggests he not tell the story of his accident to too many people because the area he claims he had it in has been closed for the past few weeks due to brush fires. Stottlemeyer hesitantly admits that he fell off a ladder while cleaning his gutters.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lt. Randy Disher",
+      "media_title": "Monk",
+      "tropes": [
+        "SincerityMode",
+        "TheBigGuy",
+        "DesignatedDriver",
+        "RunningGag",
+        "PlayedForLaughs",
+        "LoonyFan",
+        "MakeTheDogTestify",
+        "ThePictureCameWithTheFrame",
+        "BunnyEarsLawyer",
+        "OOCIsSeriousBusiness",
+        "TheDitz",
+        "ForgotFlandersCouldDoThat",
+        "UndyingLoyalty",
+        "StatingTheSimpleSolution",
+        "CharacterizationMarchesOn",
+        "CrouchingMoronHiddenBadass",
+        "EarnYourHappyEnding",
+        "BoringButPractical",
+        "CitySlicker",
+        "ADayInTheLimeLight",
+        "EgocentricTeamNaming",
+        "HypocriticalHumor",
+        "TooDumbToLive",
+        "Flanderization",
+        "ButtMonkey",
+        "GenderFlip",
+        "CaptainObvious",
+        "BigDamnHeroes",
+        "FourTemperamentEnsemble",
+        "ShortDistancePhoneCall",
+        "Cloudcuckoolander",
+        "NiceJobBreakingItHero",
+        "LetUsNeverSpeakOfThisAgain",
+        "GirlfriendInCanada",
+        "QuipToBlack",
+        "DrinkingOnDuty",
+        "HeyThatsMyLine",
+        "PlayingSick",
+        "EarlyInstallmentWeirdness",
+        "ShowWithinAShow",
+        "GoneHorriblyRight",
+        "BerserkButton",
+        "NiceGuy",
+        "LineOfSightAlias",
+        "WholesomeCrossdresser",
+        "ItMakesSenseInContext",
+        "SubvertedTrope",
+        "OhCrap",
+        "UnconventionalSmoothie",
+        "Cuckoosnarker",
+        "LeftTheBackgroundMusicOn",
+        "BrickJoke"
+      ],
+      "description": "Stottlemeyer's right hand partner. Usually the butt of jokes, he's mostly there to make Monk and Stottlemeyer look better, but has his moments of competency. Berserk Button: People not taking him seriously especially when he actually did witness a murder, resulting in him quitting his job in \"Mr. Monk Goes to the Dentist\". Similarly, he doesn't like it when people diss his music, or being called \"Cracker\". The Big Guy: As a police officer in the prime of his life who's in fantastic shape, he remains the most physically capable member of the cast for the entire series. Boring, but Practical: Although he lacks Monk's ability to solve impossible cases, Stottlemeyer mentions inMr. Monk and the Blue Flu(a tie-in novel) that he's very efficient when managing ordinary homicides. His gift is getting people to open up to him; Randy ispersonableand non-threatening (especially compared to Stottlemeyer himself) and people often tell him things they shouldn't. Brick Joke: In \"Mr. Monk Goes to the Dentist,\" Stottlemeyer suggests that the reason Randy doesn't want to go to the dentist until his scheduled appointment despite a toothache is because he wants to save up his sick days for days when he isn't feeling sick. In \"Mr. Monk Goes to a Rock Concert,\" he is seen playing sick to attend the rock concert. Stottlemeyer gets him red-handed.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Kroger",
+      "media_title": "Monk",
+      "tropes": [
+        "InformedJudaism",
+        "Hypocrite",
+        "LoveTriangle",
+        "BewareTheNiceOnes",
+        "TheCobblersChildrenHaveNoShoes",
+        "TheComicallySerious",
+        "KilledOffScreen",
+        "DoctorJerk",
+        "LovedByAll",
+        "CriticalPsychoanalysisFailure",
+        "TheCharacterDiedWithHim"
+      ],
+      "description": "Monk's first psychiatrist until Season 7. Beware the Nice Ones: While very forgiving, even Kroger gets fed up with Monk from time to time, most heavily demonstrated in one episode (\"Mr. Monk and the Sleeping Suspect\") where Kroger came back from vacation and saw Monk standing outside his home. Another major instance is inMr. Monk Goes to Germany, wherein Monk follows him to a psychiatric conference in Germany, though in this case, it's Natalie who takes the brunt of his anger at Monk's intrusion, because he knows Monk could never have made the trip without help. The Cobbler's Children Have No Shoes: Dr. Kroger may be good at giving Monk psychiatric advice, but he's at a total loss when it comes to dealing with his own teenage son, Troy. In \"Mr. Monk Gets a New Shrink\", it's revealed that Charles has taken three paternity tests at the \"request\" of his son. Troy also calls his parents by their first names, and it appears that Randy once arrested him for something (as Troy responds \"no\" when Randy asks him if he's stayed out of trouble). It isn't until Monk spends time getting to know Troy in \"Mr. Monk and the Buried Treasure\" that Troy's relation with his father is rebuilt. The Comically Serious: Dr. Kroger does have genuinely funny moments, like his singing \"John Henry\" in \"Mr. Monk and the Really, Really Dead Guy\" that was so funny that Tony Shalhoub had to bite his lip to keep from laughing. Critical Psychoanalysis Failure: Monk mentions in \"Mr. Monk Gets a New Shrink\" that every time he had to find a new therapist he ended up driving several to early retirement before he found one who could tolerate him. Meanwhile, Dr. Kroger frequently looks like he is one OCD tick away from losing it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Bell",
+      "media_title": "Monk",
+      "tropes": [
+        "FunWithPalindromes",
+        "ImaginaryFriend",
+        "DarkIsNotEvil",
+        "ReplacementGoldfish",
+        "HiddenDepths",
+        "NiceGuy",
+        "CoolOldGuy",
+        "PlatonicDeclarationOfLove",
+        "LineOfSightName",
+        "AnalogyBackfire",
+        "HappilyMarried"
+      ],
+      "description": "Monk's new psychiatrist beginning in Season 7. This role was cast as a result of Stanley Kamel's death in 2008. Analogy Backfire: He often tells anecdotes to try to relate to a problem Monk is having, but they often don't work. One subversion is when he tried to help Monk and Harold with his claustrophobia by tell him to imagine being trapped in a room; it doesn't work for them, until they both get trapped in a car trunk and they calm themselves down by realizing that being in the trunk protects them from all the things they're afraid of. Cool Old Guy: If he's the same age as Hector Elizondo, Dr. Bell's in his early 70s. Dark Is Not Evil: He dresses frequently in dark clothes and has a deep, gravely voice, but he's really a pretty relaxed guy. Fun with Palindromes:Natalie Teeger:Oh, look! His first name is Neven: N-E-V-E-N! It's a palindrome! That's a good sign!Adrian Monk:It's not a perfect palindrome. The first N is capitalized.Natalie Teeger:Dr. Kroger's name was Charles. That wasn't a palindrome.Adrian Monk:It was to me!",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Trudy Monk",
+      "media_title": "Monk",
+      "tropes": [
+        "ExternalCombustion",
+        "MoralityChainBeyondTheGrave",
+        "TooGoodForThisSinfulEarth",
+        "SheKnowsTooMuch",
+        "VideoWill",
+        "ForegoneConclusion",
+        "NiceGirl",
+        "IntrepidReporter",
+        "MySecretPregnancy",
+        "ProperlyParanoid",
+        "DramaticIrony",
+        "FrivolousLawsuit",
+        "LovedByAll",
+        "CruelAndUnusualDeath",
+        "PosthumousCharacter"
+      ],
+      "description": "Adrian Monk's beloved late wife, whom he met in college. She was killed by an bomb planted under her car. Trudy's unsolved murder is one of the main sources of Monk's constant neurosis. Cruel and Unusual Death: The bomb didn't kill her right away. As a result, she spent the last few hours of her life alone and in serious agony. Dramatic Irony: The present that she left for Monkwas an insurance policy in case her meeting with the man who would order her death turned out to something sinister (which it was). The thing is, Monk didn't open the present fortwelve yearsout of sentimentalism, instead putting the present out every Christmas; Monk only opens the present when he himself is at Death's door,after being poisoned by an assassin hired by the same son of a bitch who had Trudy killed. External Combustion: Her cause of death was a car bomb. Intrepid Reporter: Some elements of her life indicate she was this. Unfortunately, one example, namely calling Dale Biederbeck \"The Genghis Khan of World Finance\", ended up biting her and Adrian in the ass, as Dale ended up nearly bleeding them dry in aFrivolous Lawsuit.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ambrose Monk",
+      "media_title": "Monk",
+      "tropes": [
+        "CouldSayItBut",
+        "InUniverse",
+        "BrokenRecord",
+        "AdaptationExpansion",
+        "DepartmentOfRedundancyDepartment",
+        "ItsAllMyFault",
+        "FanCommunityNickname",
+        "Omniglot",
+        "ConLang",
+        "SharedFamilyQuirks",
+        "AllThereInTheManual",
+        "Expy",
+        "InsufferableGenius",
+        "TrashOfTheTitans",
+        "MadnessMantra",
+        "TheShutIn"
+      ],
+      "description": "Adrian's older brother. He suffers from agoraphobia (a fear of open spaces) and hasn't left his house in 32 years as of his first appearance in the series. He appears in three episodes - \"Mr. Monk and the Three Pies\", \"Mr. Monk Goes Home Again\", and \"Mr. Monk's 100th Case\". All There in the Manual: It is revealed in the novelMr. Monk on the Roadthat Ambrose's agoraphobia was the result of catching Hong Kong flu as a child. Adaptation Expansion: In the novelMr. Monk in Outer Space, Ambrose is shown to have written several different detailed books about the TV seriesBeyond Earth. He hence proves useful for Adrian in solving the shootings of show creator Conrad Stipe and new producer Kingston Mills. Department of Redundancy Department: He comes up with a classic example when talking about the police: \"They no longer respond to my complaints because I call them more often than I should.I'd like to complain to them about it, butthey no longer respondto my complaints.\" Expy: Of Mycroft Holmes. He's as good as Adrian when it comes to analyzing minute details, but can't bring himself to expend the effort to confirm or deny his conclusions (since he'd have to leave the house to do so).",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Benjy Fleming",
+      "media_title": "Monk",
+      "tropes": [
+        "ADayInTheLimelight",
+        "FlatCharacter",
+        "BullyHunter"
+      ],
+      "description": "Benjy is Sharona's middle-school-aged son. A Day in the Limelight: There are a number of episodes where Benjy ends up being part of the case Monk is investigating. In \"Mr. Monk Takes a Vacation,\" he spots a murder being committed while looking through binoculars at a hotel room. Bully Hunter: In \"Mr Monk and the Panic Room\", the episode open with him getting into a fight at school, where he says he was defending a smaller kid from being bullied, much to Sharona's disappointment. Flat Character: He is just a generic young boy with little personality.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Julie Teeger",
+      "media_title": "Monk",
+      "tropes": [
+        "LittleMissSnarker",
+        "WhatTheHellHero",
+        "TheTalk",
+        "CheerfulChild",
+        "VictimOfTheWeek",
+        "ItMakesSenseInContext",
+        "WeirdnessMagnet",
+        "OneSteveLimit",
+        "ADayInTheLimeLight",
+        "AllGrownUpRemark"
+      ],
+      "description": "Natalie's teenage daughter. Introduced alongside Natalie in \"Mr. Monk and the Red Herring\". A Day in the Limelight: Julie has a lot more episodes fitting this trope than Benjy.In \"Mr. Monk and the Big Game,\" her basketball team coach is electrocuted in the shower, so she has Monk come in to investigate.In \"Mr. Monk and the Birds and the Bees,\" Julie's love life is explored. She is currently seeing Tim Sussman, her school's swim team star. However, when she starts seeing a star quarterback named Clay Bridges and breaks up with Tim, Natalie has to bring Monk in to give JulieThe Talk. Then it turns out that Julie's being manipulated by Rob Sherman, a sports agent who shot and killed his wife as well as a burglar named Dewey Jordan to make it look like his wife was killed in a burglary gone wrong. It turns out that Julie and Tim were at a local amusement park the same day that Sherman visited that park with Jordan to discuss the details of the planned \"insurance scam\" Sherman was going to execute. They ended up in the background of a photo of Julie and Tim, so when Sherman sees Julie after the murders, he remembers her and realizes Monk will notice Sherman and Jordan talking in the background, so he's trying to stop her from wearing the shirt too prominently.In \"Mr. Monk and the Three Julies,\" Julie takes her driver's license test, but it is in danger of postponement since someone is out there killing women named 'Julie Teeger'.In \"Mr. Monk and the Critic,\" Julie is starring in a community theater play, and gets a solo part. She turns out to be crucial to helping Monk prove that theater critic John Hannigan (who callously lambasted Julie's performance) killed his girlfriend Callie Esterhaus.In the novelMr. Monk and the Blue Flu, Julie proves important to helping Monk get a clue about the Golden Gate Strangler serial killer.In the novelMr. Monk and the Two Assistants, Julie breaks her wrist and an advertisement placed on her cast is crucial to cracking the case. In \"Mr. ",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mr. and Mrs. Davenport",
+      "media_title": "Monk",
+      "tropes": [
+        "BlackWidow",
+        "HorribleJudgeOfCharacter",
+        "Matricide",
+        "MeanBoss",
+        "StalkerWithACrush",
+        "RoyaltiesHeir",
+        "SocialClimber",
+        "Patricide"
+      ],
+      "description": "Natalie's wealthy parents. They appear twice, in \"Mr. Monk Goes to a Wedding\" and \"Mr. Monk Is At Your Service\". Horrible Judge of Character: Peggy Davenport, in particular, does not seem to have a high opinion of Natalie's late husband Mitch, and wishes Natalie would marry men from \"good families\", like her high-schoolStalker with a Crushand murderer ofhis mothernext-door neighbour Paul Buchanan. She also refuses to believe that Jonathan's fiancé Theresa Scott is a schemingBlack Widow, despite the evidence showing otherwise. Mean Boss: Though never mentioned in \"Mr. Monk Is At Your Service\",the USA Network character tie-in blogimplies that Natalie's parents are this, since Natalie notes \"As a child I witnessed more than one household employee leave my own parents' house in tears. Probably for making an unforgivable mistake like putting too much ice in my mom's cocktail.\" Royalties Heir: Because Natalie's entrepreneur grandfather Neville Davenport, a former assistant pharmacist, invented a new toothpaste formula (which, for a while, was laced with sugar, which hastens tooth decay) and went on to found Davenport Toothpaste, which became the thirdlargest toothpaste business, after Colgate and Crest. Social Climber: Of the snob variety. They grew rich on the toothpaste business and snub on \"common\" people (like Natalie's deceased husband Mitch), wishing Natalie to marry men from \"good families\", like her high-schoolStalker with a Crushandmurderer ofhis parentsnext-door neighbour Paul Buchanan.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Karen Stottlemeyer",
+      "media_title": "Monk",
+      "tropes": [
+        "ItsAllAboutMe",
+        "StylisticSuck",
+        "JerkWithAHeartOfGold",
+        "ComicallyMissingThePoint",
+        "HiddenDepths",
+        "StrawCharacter",
+        "JerkWithAHeartOfJerk",
+        "TVDocumentary",
+        "Jerkass",
+        "PutOnABus",
+        "DoesNotLikeGuns",
+        "SherlockScan"
+      ],
+      "description": "Stottlemeyer's first (technically second) wife up through Season 4. Comically Missing the Point: She claims Leland doesn't carry a gun on duty (he just hides it from her) and seems to believe police officers shouldn't have guns, apparently not realizing how dangerous an officer's job is. Does Not Like Guns: Karen hates guns. Monk recalls her once staying home and organized a gun control rally while Leland was away on a hunting trip. Whenever Karen does show up at her husband's office, Leland has to hide his duty pistol in a desk drawer, and he even concealed a stuffed duck trophy. Hidden Depths: \"Mr. Monk and the Very, Very Old Man\" reveals that she's a natural detective, or has at least picked up on a few of her husband's skills over the years. When Miles Hollings, the oldest man in the world, is found dead in his room at a retirement home, everyone assumes that he passed away from natural causes. But when Karen shows up to visit (Miles was the subject of one of her documentaries and became a friend), she does aSherlock Scanworthy of Monk himself to spot problems with the situation, realizes he was murdered, and demands that the staff declare the room a crime scene. She turns out to be right, and her insights help bring the murderer to justice. It's All About Me: At her worst, Karen can end up like this. She completely disregards the importance of her husband's job and instead harps on him for not watching her (terrible and boring) documentaries. However, she does slip out of it often enough; in one episode, while doing a documentary on the police department, she ends up filming the commissioner's wig coming off and revealing himself to be bald, which she lets Captain Stottlemeyer use as leverage to get Monk rehired (he was fired by the commissioner earlier for accidentally deleting files).",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Trudy Stottlemeyer",
+      "media_title": "Monk",
+      "tropes": [
+        "OneSteveLimit"
+      ],
+      "description": "Stottlemeyer's love interest in the second half of Season 8, and eventually his second wife. One-Steve Limit: Averted; the fact that she shares the same first name with Trudy Monk does not go unmentioned.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Garrett Price",
+      "media_title": "Monk",
+      "tropes": [
+        "SincerityMode",
+        "AmoralAttorney",
+        "ICouldaBeenAContender",
+        "PlayedForLaughs"
+      ],
+      "description": "A fast-talking lawyer Monk meets during a traffic pile-up inMr Monk Gets Stuck in Traffic. He becomes Monk's attorney inMr Monk and the Man Who Shot Santa Claus. Amoral Attorney:Played for Laughswhile representing Monk in his questioning as he tries to get Monk to claim Santa was carrying a bomb. I Coulda Been a Contender!: When we first meet him, Price's career is sinking and he laments to Monk about his brother being a doctor and how he should have been one. He gets his inspiration back after meeting Monk and seeing him work. Sincerity Mode: He genuinely thinks the world of Monk and his detective skills and even respects his no touching rule.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Harold Krenshaw",
+      "media_title": "Monk",
+      "tropes": [
+        "AscendedExtra",
+        "TookALevelInKindness",
+        "TakingTheBullet",
+        "SitcomArchNemesis",
+        "MakeItLookLikeAnAccident",
+        "JerkWithAHeartOfGold",
+        "TookALevelInBadass",
+        "Foil",
+        "Claustrophobia",
+        "FireForgedFriends",
+        "AlwaysSomeoneBetter",
+        "Jerkass",
+        "BoringButPractical",
+        "WellDoneDadGuy",
+        "ADayInTheLimeLight",
+        "SiblingRivalry"
+      ],
+      "description": "A fellow patient of Dr. Kroger's and later Dr. Bell's who spars with Monk on several occasions. He has similar obsessive-compulsive tendencies like Monk, but they quickly become unfriendly rivals. Always Someone Better: In addition to his alleged superior relationship to Monk's therapists, Harold seems to be several leagues ahead of Monk in terms of mental health as while he has very similar hang-ups, he's actually capable of doing such things as speaking publicly in a confident (if clipped) manner and sexually procreating to start a family with his wife (who is, unlike Trudy, alive). Ascended Extra: He become a semi-recurring character as sitcom-rival to Monk. Claustrophobia: One of his phobias.In season 8, he and Monk gets over the fear when are trapped in a car trunk. And become friends! A Day in the Limelight: His is in \"Mr. Monk and the Daredevil\".",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kevin Dorfman",
+      "media_title": "Monk",
+      "tropes": [
+        "DayInTheLimelight",
+        "CharacterDeath",
+        "MotorMouth",
+        "SharedFamilyQuirks",
+        "TemporarySubstitute",
+        "GoldDigger",
+        "BackForTheDead",
+        "AFoolAndHisNewMoneyAreSoonParted",
+        "Bookends",
+        "VictimOfTheWeek",
+        "Foil",
+        "MinorCrimeRevealsMajorPlot",
+        "PhotographicMemory",
+        "NoGoodDeedGoesUnpunished",
+        "TheBore"
+      ],
+      "description": "Kevin Dorfman is one of Monk's neighbors. A Fool and His New Money Are Soon Parted: In \"Mr. Monk and the Paperboy\", Kevin won $43 million in the lottery and had to be saved from aGold Diggertrying to kill him for it. By the time of \"Mr. Monk and the Game Show,\" he's lost it all due to bad investments, a dishonest accountant and two more gold digging wives. Back for the Dead: After a notable absence since his previous appearance, he returns in one of the later episodes and winds up being the murder victim. Bookends: A rather sad example: Kevin was introduced in an episode where someone tried to murder him over a winning lottery ticket and his final appearance had him as theVictim of the Week. The Bore: People dread having to talk to Kevin because of his tendency to drone on and on about the most trivial, boring topics.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Marci Maven",
+      "media_title": "Monk",
+      "tropes": [
+        "Fangirl",
+        "TakeThatUs",
+        "StalkerWithACrush",
+        "PerkyGoth",
+        "LoonyFan",
+        "ContinuityNod",
+        "MeaningfulName",
+        "OverlyLongGag",
+        "FanFiction",
+        "BachelorAuction",
+        "OhCrapThereAreFanficsOfUs",
+        "WhoWouldWantToWatchUs",
+        "ClingyJealousGirl",
+        "LeaningOnTheFourthWall",
+        "AlliterativeName"
+      ],
+      "description": "Monk's obsessed fan. First shows up in \"Mr. Monk and the TV Star\", where she is an obsessed fan of theCrime Lab: SFlead Brad Terry, to the point that she takes the rap for him for his killing of his ex-wife. But Monk eventually figures it out, and her obsession of interest changes to Monk.In \"Mr. Monk and His Biggest Fan,\" Marci's obsession for Monk has reached an extreme: she has plastered his image all over her walls, she's furnished her house with furniture he throws out, she wears his recycled clothing, she appears to be responsible for naming the episode titles. It goes well until her neighbor across the street, Debbie Ringel, is apparently mauled to death by a dog. The police suspect Marci's pet dog Otto, but Otto turns out to have been deceased for three days. Desperate, she turns to Monk for help, willingly breaking a restraining order imposed against her by \"buying\" Monk at a police bachelor auction. Monk eventually proves that John Ringel was responsible for framing Otto, but after Ringel takes Monk and Marci hostage, in a situation that leads to Marci getting a bullet in her left shoulder, she loses interest in Monk and takes up a new interest in the form ofF. Murray Abraham(\"May God have mercy on his soul\"). Alliterative Name: The nameMarciMaven. She's also played bySarahSilverman. Bachelor Auction: Resorts to \"buying\" Monk at one in \"Mr. Monk and His Biggest Fan\" Continuity Nod: \"Mr. Monk and His Biggest Fan\" suggests that Marci is responsible for writing episode titles. Clingy Jealous Girl: Marci's obsession with Monk is almost like the obsessions of someJustin Bieberfans.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Agent Grooms",
+      "media_title": "Monk",
+      "tropes": [
+        "HypocriticalHumor",
+        "JurisdictionFriction"
+      ],
+      "description": "A federal agent of the ATF and FBI, that Stottlemeyer clashes with. Appears in two episodes, \"Mr. Monk and the Sleeping Suspect\" and \"Mr. Monk Gets Cabin Fever,\" and is mentioned in several others. Hypocritical Humor: In \"Mr. Monk Gets Cabin Fever,\" when Grooms is the agent in charge of Monk's witness protection, there is a scene where they stop at a convenience store for supplies. Grooms tells the others to not draw too much attention to themselves....while wearing a very attention-grabbing three piece suit. Jurisdiction Friction: Grooms clashes with Stottlemeyer in both episodes where he is on screen. Though it's implied they may actually be on friendlier terms on many offscreen. For instance, in \"Mr. Monk and the Election,\" when Monk finds shell casings with Russian markings at the scene of a shooting attempt on Natalie's life, Stottlemeyer tells Randy to call Grooms and pass the casings over to him. And when the police are arresting Jack Whitman, Stottlemeyer discovers Whitman was trying to recover a sheet containing a list of customers he was trafficking arms to and quips that he has a friend in the Bureau waiting for the document, which could be implying that Grooms is going to be relieved.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Lt. Devlin",
+      "media_title": "Monk",
+      "tropes": [
+        "BoyishShortHair",
+        "JerkWithAHeartOfGold",
+        "TheLadette",
+        "CowboyCop",
+        "ActionGirl"
+      ],
+      "description": "The officer who took over for Randy in the novels after he moved to New Jersey. A former undercover cop, Devlin is no-nonsense, independent, and not easily impressed. However, she does become a helpful ally. Action Girl: As one would expect given that she used to work as an undercover officer, frequently alone, she can take care of herself in a fight. In one scene, she goes from pretending to sleep to reacting to and clobbering one of the perps of the week in a matter of seconds. Boyish Short Hair: She keeps her hair cropped short and is no-nonsense and somewhat aggressive. Cowboy Cop: InMr. Monk On the Couch, she enlists Natalie's help in a risky operation to trap the perps, and in a later book, she compliments her for a sting she and Monk pulled which caused a lot of property damage. The Lad-ette: Natalie describes her inMr. Monk on the Couchas having no femininity in her demeanor.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Capt. Rudner",
+      "media_title": "Monk",
+      "tropes": [
+        "ContrastingReplacementCharacter",
+        "FriendOnTheForce",
+        "BlackBossLady",
+        "ReasonableAuthorityFigure"
+      ],
+      "description": "Stottlemeyer's replacement as captain of the SFPD homicide division inMr. Monk's Last Case. Black Boss Lady: She's the new captain of the SFPD homicide division and was apparently handpicked by Stottlemeyer as his successor, indicating that she's tough, competent, and professional enough to impress him. Contrasting Replacement Character: Aside from being a Black woman, she lacks the occasionally adversarial edge that Stottlemeyer had with Monk in their professional relationship. She even dangles the department's 22 unsolved cases in front of Monk to try and tempt him into coming out of retirement, where Stottlemeyer was often reluctant to call Monk in unless something truly bizarre had happened. Friend on the Force: Stottlemeyer has kept in touch with her since his retirement from the department, and she's still happy to help him out. Reasonable Authority Figure: She's happy to help Stottlemeyer and Monk when they ask for info on Rick Eden.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dale the Whale",
+      "media_title": "Monk",
+      "tropes": [
+        "FauxAffablyEvil",
+        "VillainBall",
+        "ShutUpHannibal",
+        "Foil",
+        "BlatantLies",
+        "FatBastard",
+        "WickedCultured",
+        "BadBoss",
+        "ArmyOfLawyers",
+        "HiddenVillain",
+        "LuxuryPrisonSuite",
+        "GoMadFromTheIsolation",
+        "FrivolousLawsuit",
+        "BerserkButton",
+        "EvilIsPetty",
+        "EscapeArtist",
+        "EvilCannotComprehendGood",
+        "PoliticallyIncorrectVillain",
+        "SympathyForTheDevil",
+        "OOCIsSeriousBusiness",
+        "HowTheMightyHaveFallen",
+        "HateSink",
+        "BreakThemByTalking",
+        "CorruptCorporateExecutive",
+        "DiabolicalMastermind",
+        "NiceJobFixingItVillain",
+        "CurbStompBattle",
+        "LampshadeHanging",
+        "InvertedTrope",
+        "BestServedCold",
+        "DeadpanSnarker",
+        "EvilBrit",
+        "EvenBadMenLoveTheirMamas",
+        "ScrewTheRulesIHaveMoney",
+        "SubvertedTrope",
+        "ComplexityAddiction",
+        "PostStressOvereating",
+        "VillainWithGoodPublicity",
+        "NearVillainVictory",
+        "FormerlyFat",
+        "ItsPersonal",
+        "PsychopathicManchild",
+        "LogicalWeakness",
+        "FatalFlaw",
+        "ArchEnemy",
+        "TheSociopath",
+        "IWasYoungAndNeededTheMoney",
+        "HeelFaceTurn",
+        "AppropriatedAppellation",
+        "IGaveMyWord",
+        "EvilGenius",
+        "EvenEvilHasStandards",
+        "InsufferableGenius",
+        "KavorkaMan",
+        "Fiction500",
+        "EvilCripple",
+        "Gonk",
+        "NauseaFuel",
+        "KickTheDog",
+        "TheManBehindTheMan",
+        "PetTheDog",
+        "JustifiedTrope",
+        "BondVillainStupidity",
+        "BroughtDownToNormal",
+        "CrazyPrepared",
+        "NotAfraidOfHell",
+        "EvilGloating",
+        "SmugSnake",
+        "TheDogBitesBack",
+        "XanatosGambit",
+        "ScrewTheRulesIMakeThem",
+        "FromBadToWorse",
+        "ProgressivelyPrettier",
+        "NotMeThisTime",
+        "EvenEvilHasLovedOnes",
+        "RevengeBeforeReason",
+        "DisproportionateRetribution",
+        "ForTheEvulz",
+        "BrutalHonesty",
+        "PornStash",
+        "Expy",
+        "DealWithTheDevil",
+        "InsultBackfire",
+        "BadassBoast",
+        "BigEater",
+        "InformationBroker"
+      ],
+      "description": "Monk'sArch-Enemy, Dale is animmensely fat(he's aroundeight hundred poundsfor most of the series) financier andDiabolical Mastermind. Despite being so huge that he is unable to walk, Dale is both a genius and extremely wealthy; episodes imply that he \"owns half of San Francisco.\" As detailed below, Monk has particular hatred for Dale, as the villain caused Trudy a huge amount of grief. Arch-Enemy: He's one of the most personally despised criminals that Monk has met. Army of Lawyers: In his debut, Dale smugly warns the cops investigating him that the first 20 numbers on his speed dial are all lawyers. Bad Boss: He frequently insults, manipulates and abuses his staff - even sexually, in his female employee’s case. In his first appearance, this leadsto his undoing. Berserk Button: He has a few: don't deny him food, don't tell him he can't have something, and do not—do not—get in the way of his window.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "\"The Realtor\"",
+      "media_title": "Monk",
+      "tropes": [
+        "EvilCannotComprehendGood",
+        "WoundedGazelleGambit",
+        "Foreshadowing",
+        "VillainBall",
+        "BecomingTheMask",
+        "HarsherInHindsight",
+        "WasItAllALie",
+        "JustOneLittleMistake",
+        "EvilAllAlong",
+        "AffablyEvil",
+        "BachelorAuction",
+        "EvilIsPetty",
+        "AlasPoorVillain",
+        "BitchInSheepsClothing",
+        "BrickJoke"
+      ],
+      "description": "Stottlemeyer's girlfriend in season 5 and early season 6.Linda Salvato Fusco is introduced in \"Mr. Monk, Private Eye\" as a realtor. She hires Monk and Natalie to investigate damage done to her Buick. During the investigation, she also runs into Stottlemeyer, and sparks fly very quickly between the two of them, her recognizing him as a divorcee like herself. She even sets up Stottlemeyer with an apartment across the street from her own.In \"Mr. Monk and His Biggest Fan,\" Linda returns, though her part is minor. Their dates are often interrupted, postponed, or canceled as a result of Stottlemeyer's police duties. This reaches a point where she resorts to \"buying\" him at aBachelor Auction(this is the same one that Marci Maven \"buys\" Monk at). Their dinner date is interrupted by Stottlemeyer realizing the solution to the case in the middle of dessert.In \"Mr. Monk and the Bad Girlfriend,\" Linda has moved to a suburban house in Richmond, and that, plus Stottlemeyer's work hours, force them to limit their dates to webcam dates every night at 6:30 PM. They are planning to go to Hawaii, but before they do, Linda's real estate partner Sean Corcoran is shot and killed while giving an open house tour in Marin County. Monk and Natalie are sent to investigate, but it is only after Monk and Natalie take a single visit to Linda's office that they realize she is the killer: she has the motive, the means, the ability, and opportunity to have committed the murder (a picture of her in her office wielding a shotgun, the very shotgun used as the murder weapon; Sean was planning on starting his own company and would have taken a lot of their clients with him; she matches the killer's description in regards to height, even wearing a certain shade of lipstick that one witness remembers; and she has a house key).Unfortunately, no one believes Monk and Natalie because Linda was ending her webcam date with Stottlemeyer (which Monk and Natalie had eavesdropped in on at the end) twenty minutes be",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ian Sykes",
+      "media_title": "Monk",
+      "tropes": [
+        "ColdSniper",
+        "DisabilityAlibi",
+        "ObfuscatingDisability",
+        "FromCamouflageToCriminal",
+        "ProfessionalKiller",
+        "ExactlyWhatIAimedAt"
+      ],
+      "description": "A hitman who opened fire on mayoral candidate Warren St. Claire's rally. Mr. Monk believes his target wasnotthe candidate, but bodyguard Jason Ronstadt. Appeared inMr. Monk and the Candidate. Cold Sniper: Sykes' MO is shooting his victims from a distance. Exactly What I Aimed At: His public attack on Warren St. Claire was a misdirection; he was actually firing at Jason Ronstadt, who as St. Claire's bodyguard would be by his side during the event. From Camouflage to Criminal: Former US Army special forces soldier turnedProfessional Killer. Obfuscating Disability: Pretends to be paralyzedto throw off suspicion about his being the killer.It fails when Monk notices his shoes are scuffed, indicating they've been used.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gavin Lloyd",
+      "media_title": "Monk",
+      "tropes": [
+        "CrimeAfterCrime",
+        "ConspicuouslyPublicAssassination",
+        "StealingFromTheTill"
+      ],
+      "description": "The first culprit of the series, guilty of hiring Ian Sykes to murder three people: Nicole Vasques, a bookkeeper who discovered that he'd been embezzling campaign money, Jason Ronstadt, a bodyguard who refused to carry out the hit, and Jake, a volunteer who could have revealed a connection. Appeared inMr. Monk and the Candidate. Conspicuously Public Assassination: Invoked. He deliberately had Sykes kill Ronstadt in a way that wouldlooklike a failed political assassination, because that would keep the police thinking the killer was after Warren St. Claire, and get the guy some public sympathy in the process. Crime After Crime: Crime he didn't want to get caught for: embezzlement. Crime he eventuallydidget caught for: first-degree murder. Stealing from the Till: Lloyd has been charged with embezzling from a political campaign once before, but was acquitted. The fact that he didn't learn his lesson and did it again is what kicked off this whole mess.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Commissioner Ashcombe",
+      "media_title": "Monk",
+      "tropes": [
+        "DirtyCop"
+      ],
+      "description": "The corrupt (now former) commissioner of the SFPD. Appeared as the villain in \"Mr. Monk and the Psychic\", where he murdered his wife in order to continue an affair with another woman.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Vezza",
+      "media_title": "Monk",
+      "tropes": [
+        "AnachronisticClue",
+        "AccidentalChildKillerBackstory",
+        "NamedAfterSomeoneFamous",
+        "HeelFaceTurn"
+      ],
+      "description": "Accidental Child-Killer Backstory: Sindell is a disgraced former surgeon who inadvertently killed a child by operating while high out of his mind on drugs. He jumped bail and tried to start a new life for himself, only for Dale to learn the secret and use it to blackmail him into following his every order, including committing a murder. At the episode's end, Sindell decides to turn states' evidence against Dale to atone for his crimes. Heel–Face Turn: \"Dr. Vezza\" is actually a disgraced former surgeon named Glenn Q. Sindell, who jumped bail after killing a child while operating under the influence of drugs. Dale learned Sindell's secret and used it to blackmail him, eventually forcing him to kill Judge Lavino. At the end of the episode, Stottlemeyer reveals that the FBI told the cops all about it, and offers Sindell the chance at a reduced sentence in exchange for his testimony against Dale; Sindell wholeheartedly agrees, remarking that he hopes he can undo some of the damage he's done by helping put Biederbeck in prison. Named After Someone Famous: Dr. Vezza claims his parents named him after Christiaan Barnard, the first surgeon to perform a heart transplant successfully. This gives him away because Monk notes thatBarnard didn't become famous until two years after the doctor was born.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Todd Katterskill",
+      "media_title": "Monk",
+      "tropes": [
+        "LeaveNoWitnesses",
+        "ChekhovsGunman",
+        "ForgingTheWill",
+        "InheritanceMurder",
+        "JustOneLittleMistake",
+        "FrameUp",
+        "OhCrap",
+        "ScrewThisImOuttaHere"
+      ],
+      "description": "Chekhov's Gunman: For first time viewers, he and his uncle just seem to be two random people in San Francisco who get bothered by Monk (the latter even dying soon after), when in reality, they are in their own ways the key to the episode's mystery. Forging the Will: The crux of Todd's scheme was to replace his uncle's will with one that made him the sole inheritor. Frame-Up: Todd took one of Lou's files at random and burnt it to pin the blame on whichever sap he pulled. It just so happened to be Lawrence Grayson, a man who was angry at Lou for losing a case against his neighbor, Monica Waters. When he overheard Monk express doubt that Grayson was the killer, Tod killed him and tried to pin the blame on Monica to keep the cops off his scent. Inheritance Murder: A variation. Rather than kill his uncle, he planned to fake his uncle's will so that he would be the sole inheritor. The murder aspect comes from killing Lou Pratt, who would have known the contents of Thomas' actual will and would have easily known the new will was a fake. Just One Little Mistake: If he had used the name of a notary who wasn't on vacation at the time of his will forgery, and had followed Lou Pratt's filing organization, he might not have been caught",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Maids",
+      "media_title": "Monk",
+      "tropes": [
+        "NearVillainVictory",
+        "MilkmanConspiracy",
+        "NoHonorAmongThieves",
+        "PlayingTheVictimCard",
+        "LiteralMinded"
+      ],
+      "description": "Milkman Conspiracy: A secret ring of chambermaids are using confidential information left lying around in hotel rooms to engage in insider trading. When one of their number wants out (or wants more money), they kill her and use their position and near-invisibility to disappear the body and cover up the crime to the point where Monk looks like (more of) a lunatic for even trying to investigate. Near-Villain Victory: Monk can't figure out what they did with the body until the last moment. No Honor Among Thieves: Though they seem to have gotten along with one another quite well for some time, eventually one of them upset the others (even Monk doesn't know whether she had an attack of conscience or got greedy). They murdered her and used their position to hide the body and clean up the crime scene. Playing the Victim Card: When Monk tells the (Latina) maids of his suspicions, one of them accuses him of thinking he can accuse \"anyone of anything\" because he's white. TheLiteral-MindedMonk says he's not accusing \"anyone of anything\"; he's accusingthemof murder.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wendy Mass",
+      "media_title": "Monk",
+      "tropes": [
+        "DisabilityAlibi",
+        "GracefulLoser",
+        "UnluckilyLucky",
+        "ObfuscatingDisability",
+        "EverybodyHasStandards"
+      ],
+      "description": "Everybody Has Standards: Mrs. Mass may despise her victim, but even she thought it was wrong for Willie Nelson to be framed for the murder, to the point she felt guilty and was relieved when Monk solved the case. Graceful Loser: Mrs. Mass is the only killer on the show whothankedMr. Monk for solving the case. She said that she was feeling guilty about framing Willie Nelson, who was innocent. When everyone offers her a consolation for turning herself in peacefully, Mrs. Mass's only has one humble request: that her jail cell will have a window, so she can always appreciate her newly-restored sight. Obfuscating Disability: Monk realizes Mrs. Mass isn't blind because she was able to offer the correct hand to shake the Captain's uninjured hand on instinct. It turns out she regained part of her vision and kept it secret so she could kill Sonny Cross for the drunk driving incident andescape punishment. Unluckily Lucky: According to a clerk, she slipped and suffered a concussion while shopping not long ago. That would ordinarily count as bad luck, but somehow it partially restored her sight.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Natasha Lovara",
+      "media_title": "Monk",
+      "tropes": [
+        "DrivenByEnvy",
+        "ObfuscatingDisability",
+        "CrimeAfterCrime",
+        "AttackAnimal",
+        "HandicappedBadass",
+        "ComplexityAddiction"
+      ],
+      "description": "Attack Animal: Manipulates Edgar Heinz' elephant to stomp his head to paste while they're doing their act for Adrian and Sharona. Complexity Addiction: Natasha might have gotten away with the murder if she hadn't done the acrobatic stunts to craft an alibi. Crime After Crime: Natasha Lovara, a high-flying acrobat, fakes breaking her leg, then shoots and kills her ex-husband with an animal wrangler's revolver, doing some acrobatic stunts so that witnesses confirm the killer was an active acrobat. Then she goes back to the circus, where she has Dede, an elephant, crush her left leg, so that the police will confirm her left leg is useless when they request an x-ray. But Natasha is seen by Dede's trainer, who mentions having seen her, so she tapes a walkie-talkie behind one of Dede's ears, then from hiding, orders the elephant to crush her trainer's head while he is showing off some tricks to Monk and Sharona. Which means adding in an extra murder to get rid of a witness — a witness who explicitly told her he understood what she did and wasn't going to report it. Driven by Envy: From what the other circus performers can tell, Natasha can't stand anyone being happier than her, especially not the victim, her ex-husband. Handicapped Badass: After Monk proves that they can charge her with the murder, Natasha manages to hoist herself into a jeep, despite her broken leg, and nearly makes a getaway.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dennis Gammill",
+      "media_title": "Monk",
+      "tropes": [
+        "ScrewTheRulesIMakeThem",
+        "DrunkDriver",
+        "DiedOnTheirBirthday",
+        "ImproperlyParanoid",
+        "DirtyCoward",
+        "RevealingCoverup",
+        "VillainWithGoodPublicity",
+        "WouldHarmASenior",
+        "AllForNothing",
+        "UnwittingInstigatorOfDoom",
+        "MuggedForDisguise",
+        "FrightDeathtrap",
+        "MyGodWhatHaveIDone"
+      ],
+      "description": "All for Nothing: Before, Dennis could have faced a charge of manslaughter for Darren Leveroni's death. Now, he's facing not only that, but a first degree murder charge for the killing of Miles and at least a second degree murder charge for killing George Rowe. Dirty Coward: Dennis could have eased the grief for Darren's family by actually admitting to the death, but he instead hid said confession in a time capsule, where it would only be seen long after he was dead. Drunk Driver: Dennis Gammill drove drunk one night and ended up killing a 17-year-old boy. Improperly Paranoid: Gammill kills a teenager and leaves a record in a time capsule out of a desire to confess. However,the mayor makes a bet with Miles Hollingthat if he lives another five years, the mayor will have the capsule dug up so he can add another chapter to the autobiography he added to it. As the time nears, Gammill grows panicked and kills Holling so the secret will stay buried.He goes down after Monk investigates Holling's death; had he done nothing, presumably no one would have looked at his confession. Mugged for Disguise: In order to get into the elder care home, Dennis broke into the house of security guard George Rowe in order to steal his uniform and his pass. He killed Rowe in the process.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dexter Larson",
+      "media_title": "Monk",
+      "tropes": [
+        "ClosetGeek",
+        "HateSink",
+        "TheUnfettered"
+      ],
+      "description": "Closet Geek: Dex excised his nerdiness and nerdy interests from his public personality when he turnedPopular ComputingintoSapphire Magazineand became a Hugh Hefner-style ladies' man. Hate Sink: Dex doesn't exactly make himself well-liked. It's one thing for him to treat his models like toys to play with and discard when they grow old. But he crosses the line when he blackmails Monk by proxy using Sharona's pictures. He's notably the only man who could tie Monk's hands from doing the right thing. Later, he tells Sharona that he used to be nerdy, \"the kind of guy girls wouldn't date\". But given his blackmail, Sharona isn't too far off when she coldly quips \"You still are...\" The Unfettered: Nothing, whether bribery, blackmail, or murder, is off the table when he wants something.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Stewart Babcock",
+      "media_title": "Monk",
+      "tropes": [
+        "WhatADrag",
+        "Irony",
+        "SerialKillingsSpecificTarget",
+        "BloodierAndGorier",
+        "HighVoltageDeath",
+        "TilMurderDoUsPart",
+        "MurderTheHypotenuse"
+      ],
+      "description": "Bloodier and Gorier: Not so much in how his kills were done (aside from the one mentioned inWhat a Drag), Stewart more has this trope for having the highest body count in a single episode.noteStewart, however, does not have the highest number of victims in the series. That honor goes to Frank De Palma fromMr. Monk is Someone Elsewho had at least 17 victims that he has been suspected of killing, but nothing could be proved. There's also the Butcher of Zemenia fromMr. Monk Falls in Love, but there's not much of a concrete number tied to him. High-Voltage Death: It's mentioned that one of his victims was killed by an electrocution. Irony: Out of all the jurors Stewart managed to kill, theonlyone he missed was the blackmailer. Murder the Hypotenuse: The implication seems to be that Stewart murdered his first wife to be with his second one. Serial Killings, Specific Target: A variation. Unlike most uses of this trope, he wasn't trying to cover up one murder with a few others. He knew his blackmailer was one of the jurors on his trial, but he didn't know which one specifically, so he was getting rid of them all to be safe. He deliberately varied the locations and details of the murders in order to throw the police off his track, but Monk noted that the $10 bills used to pay at two of the crime scenes had consecutive serial numbers, which suggested to him that a serial killer was at work.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Malcolm Cowley",
+      "media_title": "Monk",
+      "tropes": [
+        "RevealingCoverUp",
+        "MinorCrimeRevealsMajorPlot",
+        "DirtyCoward",
+        "AccidentalMurder",
+        "RedHerring"
+      ],
+      "description": "Accidental Murder: One has to presume he didn't go out of his way to run down the old woman he killed. Dirty Coward: When he ran someone over, his instinct was to cover up what happened rather than face the music for what he did. Minor Crime Reveals Major Plot: Malcolm made it into the newspaper for getting into two separate car accidents within 10 minutes of each other. When Adrian came across the story, he realized the accidents happened a short distance from where a grandmother was killed in a hit-and-run, deducing Malcolm got into these crashes to explain his car's smashed-in grille. Red Herring: He is believed to be Nestor Alvarez' killer, trying to prevent Monk from reading the paper and noticing his hit-and-run. Monk realizes while he is guilty of that, he isn't the paperboy killer, because he had no idea who Monk even was when he introduced himself. It turns out that murder had nothing to do with Monk anyway, making it a twofer. Revealing Cover-Up: If he had kept the damage to his car down to one accident, he probably wouldn't have been noticed. The fact that he got into two separate accidents within minutes of each other led to him appearing in the papers, which in turn led to Adrian reading about it and deducing that he was responsible for the hit-and-run a short distance away.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Pat van Ranken",
+      "media_title": "Monk",
+      "tropes": [
+        "SecondPrize",
+        "BadLiar",
+        "WouldHurtAChild",
+        "FromCamouflageToCriminal",
+        "WouldHitAGirl",
+        "TilMurderDoUsPart",
+        "AllForNothing",
+        "DeadPersonImpersonation",
+        "StrangeMindsThinkAlike",
+        "FieryCoverUp"
+      ],
+      "description": "All for Nothing: All the crap Pat pulled to get the pies, including killing another woman to steal her pie, were utterly pointless, as the shell was actually in a bag of flour Rita had borrowed from Ambrose to make the pies all along. Bad Liar: Van Ranken clearly has trouble making up an alibi on the spot when put in a position where he has to. When trying to get the flour that the missing gun shell landed in back from Ambrose, van Ranken claims that he needs the flour for a chili recipe. Ambrose immediately sees through this since you don't typically need flour to make chili. Later, when caught by Stottlemeyer and Randy behind Ambrose's now-burning house with a gas can, van Ranken tries to claim that he had just come from across the street to try to help Ambrose after seeing the house on fire. Stottlemeyer and Randy don't buy it for one minute and arrest him on the spot. Dead Person Impersonation: He got his mistress to pretend to be Rita to make people think she was still alive. Fiery Cover-Up: He sets Ambrose's house on fire, hoping to either destroy the final bullet shell or smoke him out to kill him. From Camouflage to Criminal: He doesn't make it a career like most with this trope, but he's a former Army Sergeant who murdered his own wife.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Brad Terry",
+      "media_title": "Monk",
+      "tropes": [
+        "FakeAlibi",
+        "TwoFirstNames",
+        "AmicableExes",
+        "PlayingDrunk",
+        "TheSociopath"
+      ],
+      "description": "Amicable Exes: Subverted. Brad and Susan seem to be on relatively good terms despite their divorce. But, as it turns out, Brad's show Crime Lab SF is about to go into syndication and since he was still married to Susan when the show first began airing, she's entitled to half of the syndication money. Since Brad doesn't like that, he stabs her while she's doing her yoga workout and makes it seem like she was stabbed by a deranged fan while he was outside talking to paparazzi. Fake Alibi: Brad used a recording of Susan's screams from an old slasher film she was in to make it look like she was being attacked while Brad was talking to reporters at his gate, then was killed by the time Brad got into the house. Playing Drunk: Brad Terry picks a fight while pretending to be drunk so as to attract paparazzi attention, which then gives him an alibi so he can stab and kill his ex-wife Susan Malloy and make it seem like the murder happened seconds before it really did. Monk is suspicious, and his suspicions increase when he sees the check Terry wrote to the bartender — it was neatly written and exactly on the lines, not something a drunk person would typically be able to do. Two First Names: \"Brad\" and \"Terry\" are both given names. The Sociopath: Monk gets a red flag that Terry might be this when he notices him lying about how great someone's script is whilst his steady heart rate is measured on a treadmill, then admits to someone else how he hates the script. He's also able to act the part of the protective (and later, grieving) ex when he murdered Susan himself.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Harold and Carol Maloney",
+      "media_title": "Monk",
+      "tropes": [
+        "AffablyEvil"
+      ],
+      "description": "Affably Evil: They treat Granny Parlo well and even give her pizza during her brief imprisonment. Justified in that they're not interested in her, but the chair she's sitting on. They have no reason to harm her and hope that her unexpected safe return will distract her granddaughter from pursuing the case.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Evan Coker",
+      "media_title": "Monk",
+      "tropes": [
+        "TheyLookJustLikeEveryoneElse",
+        "LackOfEmpathy",
+        "HeroesLoveDogs"
+      ],
+      "description": "Heroes Love Dogs: Inverted; he's a remorseless killer who owns a dog (which is shown sleeping with him in the summation flashback, so they must have a fairly good relationship). Lack of Empathy: Evan Coker shoots a tow truck driver with a hunting rifle in order to retrieve a pistol from his repossessed car. The driver's truck then promptly swerves in front of Stottlemeyer's wife Karen, causing her to crash and get knocked into a temporary coma. In the ending, while being arrested by the police, Coker is shown chuckling and smiling after Stottlemeyer almost goes ballistic and beats him down because of this. They Look Just Like Everyone Else!: Coker looks like a normal suburbanite, but he murdered a 22-year-old clerk in a robbery and shot the tow truck driver so he could retrieve the gun tying him to the first murder, then shot another scab truck driver to throw the cops off his trail.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Joshua Skinner",
+      "media_title": "Monk",
+      "tropes": [
+        "TheScrooge",
+        "GreaterScopeVillain",
+        "CloudCuckoolander",
+        "GoldFever",
+        "KarmaHoudini",
+        "PosthumousCharacter"
+      ],
+      "description": "California, 1849. Two men, Joshua Skinner and his partner Gully Watson headed into the mountains. Skinner returned with a fortune in gold while Gully died of a bee sting. Skinner built a house with some of his fortune, spent the remaining years of his life writing in hundreds of journals, and died, the location of the rest of his fortune dying with him. Of course, there's more to the story. In reality, Gully's death came not from a bee sting, but rather Joshua's greed taking hold of him and killing him to avoid splitting the take. His fortune would later drive antique dealer Dalton Padron to seek it out, killing his own partner in the process. Cloud Cuckoolander: Subverted; his rambling journal entries suggest he was eccentric... until Monk finds out that he turned the gold into ink; he was just trying to preserve as much as he could. Gold Fever: Hereallywanted that gold all to himself. Greater-Scope Villain: His murder of Gully Watson and confessing in a journal page ultimately led to Dalton Padron killing his partner and marrying Randy's mom in order to find it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dalton Padron",
+      "media_title": "Monk",
+      "tropes": [
+        "HoistByHisOwnPetard",
+        "AmbiguouslyGay",
+        "GoldFever",
+        "KickTheDog"
+      ],
+      "description": "Ambiguously Gay: Disher strongly hints that his main reason for believing the marriage to be a sham is that he thinks Dalton is a homosexual. While it's made clear several times that Dalton feels no attraction to Mrs. Disher, it's never clarified whether this is because he isn't attracted to women full stop, or because of her age and/or him not even bothering to put the effort into faking attraction seeing how he intends to kill her off/abandon her as soon as is convenient. Gold Fever: He bludgeoned his partner Raymond Tolliver to death so that he wouldn't have to split the gold when he found it. Hoist by His Own Petard: He picks Mrs. Disher as his cover to gain entrance, which attracts her son's suspicions. Her son is a cop and has ready access to the world's best detective. Kick the Dog: When Randy's mother tries to rekindle her relationship with Dalton by suggesting sex, he coldly rebuffs her, saying she's just \"embarrassing herself\". Poor thing cries her eyes out in the bathroom.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Sylvia Fairborn",
+      "media_title": "Monk",
+      "tropes": [
+        "MamaBear",
+        "CoolTeacher",
+        "PragmaticVillainy",
+        "NiceJobFixingItVillain"
+      ],
+      "description": "Cool Teacher: Sylvia is portrayed as a caring teacher who is liked and respected by the vast majority of the inmates. As anyone who's been watching Monk for this long can probably guess, she turns out to be the killer. Mama Bear: Sylvia Fairborn killed Kaspo because her son James wrote a book that criticized billionaire businessman Lambert Lawson. Lawson, who was terminally ill and desperately needed an organ transplant to live, promptly sued James for every penny he had; Sylvia reasoned that if Lawson died, the suit would be thrown out, and thus killed the one person who had the same rare blood type as Lawson and could have saved his life. Nice Job Fixing It, Villain!: Sylvia tries to have Monk killed by convincing him that notorious inmate Spyder is a person of interest in the case. Monk goes undercover as Spyder's cellmate, and the two become friends instead. In the end when Sylvia tries to have Monk killed again (this time with some Neo-Nazi skinheads) Spyder comes to Monk's rescue. Pragmatic Villainy: Sylvia Fairborn is terrifyingly efficient when she needs to be. After her scheme to have Monk get on Spyder's bad side fails, she simply hires the Aryan Brotherhood members to kill the detective instead. She also uses simple but impossible-to-prove lies to lure people into traps.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Steven Leight",
+      "media_title": "Monk",
+      "tropes": [
+        "ADeadlyAffair",
+        "WouldHitAGirl",
+        "MurderIsTheBestSolution"
+      ],
+      "description": "A Deadly Affair: Given that Monk determines that Leight is seeing another woman, the episode implies he killed his wife to be with this other woman without a divorce. Murder Is the Best Solution: As with seemingly all adulterers in theMonkuniverse, Leight decided that it'd be easier to just kill his wife than either admit his infidelity, or have it exposed. He then jumps straight to murdering the ambassador instead of just asking for his coat back, although this at least can be explained away as panic combined with the influence of alcohol. Now instead of facing the New York justice system for his wife's murder, God only knows what kind of international court is going to come crashing down on his head. Would Hit a Girl: He murdered his wife in a calculating way designed to make the police blame a random mugger (though it still shook him up enough that he needed alcohol afterwards).",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Gene Edelson",
+      "media_title": "Monk",
+      "tropes": [
+        "NiceJobFixingItVillain",
+        "DidNotThinkThisThrough",
+        "ImproperlyParanoid",
+        "RetiredMonster",
+        "NoHonorAmongThieves",
+        "WouldHitAGirl",
+        "AllForNothing",
+        "FakingTheDead",
+        "AccidentalMurder",
+        "SecretKeeper"
+      ],
+      "description": "Accidental Murder: Brenner ends up causing the death of three hospital patients during the first blackout. Did Not Think This Through: Brenner cuts the lights to Monk's house, ready to kill him and whoever else was inside...but he didn't have any means to see in the dark (while Monk could). The police burst in and the power gets back on, leaving Brenner's attemptAll for Nothing. Faking the Dead: Ten years prior, Winston Brenner pretended to blow himself up before his trial, and assumed the identity of Gene Edelson. Improperly Paranoid: Edelson blacked out the city twice out of fear someone would see him on the jumbotron and recognize him as Winston Brenner. He hid successfully for years before this incident (and him murdering hisSecret-Keeper) drew the attention of Monk and the San Francisco police. Nice Job Fixing It, Villain!: Monk only figured out a connection between the Willie Nelson special and the blackouts because Brenner pulled his second blackout during a re-airing of the special.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Paul Gilstrap",
+      "media_title": "Monk",
+      "tropes": [
+        "TheyLookJustLikeEveryoneElse",
+        "PragmaticVillainy",
+        "ChekhovsGunman",
+        "SerialKillingsSpecificTarget",
+        "CrimeAfterCrime",
+        "TilMurderDoUsPart"
+      ],
+      "description": "Chekhov's Gunman: The Frankenstein's monster who attacked Ambrose and stole candy from trick-or-treaters was Mr. Gilstrap, trying to get back the last poisoned Neptune bar. Crime After Crime: Paul Gilstrap poisoned a bunch of Neptune bars to kill his wife without drawing suspicion on himself, but got caught returning the poison to the lab, so then he had to retrieve the poisoned candy. When an armored car driver ate one of the poisoned Neptune bars, Paul shot him in order to cover up the fact that he was poisoned. Then he disguises himself as Frankenstein's monster and attacks Ambrose to steal the remaining bar, which Ambrose had bought. He goes down for murder, attempted murder, and who knows what else. Pragmatic Villainy: Due to being caught putting the poison back in the lab, Gilstrap attempts to take the candy bars he poisoned out of circulation, backing out of his intended mass murder since he knew that if people died of poisoning, he'd be the prime suspect. Serial Killings, Specific Target: Paul Gilstrap plotted to kill his wife with a poisoned candy bar. He poisoned several other bars in the grocery store to obscure the intended target, but had to abandon the plot after he was caught sneaking the poison back into the lab he stole it from. While trying to recover all the poisoned bars, he saw that the armored car driver had already bought one and was eating it. Gilstrap knew that if the driver simply collapsed and died in the parking lot, the police would order an autopsy that would reveal the poison in his system. Once the driver began to succumb to the poison, Gilstrap grabbed his pistol and shot him, expecting that the police wouldn't look for poison in an autopsy on a gunshot victim. They Look Just Like Everyone Else!: A short, mousy-looking man who looks like he wouldn't hurt a fly comes up with a plan to poison multiple people.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Reggie Dennison",
+      "media_title": "Monk",
+      "tropes": [
+        "DeadPersonImpersonation",
+        "AmoralAttorney",
+        "WouldHitAGirl",
+        "BatterUp"
+      ],
+      "description": "Amoral Attorney: He was willing to beat his lover and an innocent bystander to death. When apprehended he plans to turn the whole case on its head literally with him as the victim and Natalie and Monk the transgressors. Fortunately, Monk is able to prove him guilty on the spot. Batter Up!: He murdered both Judge Garr and Julio with a baseball bat. Dead Person Impersonation: He pretended to be Julio after murdering him so that it would appear Julio was killed later than he actually was. Would Hit a Girl: He murdered his girlfriend and takes Natalie hostage.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Theresa Scott",
+      "media_title": "Monk",
+      "tropes": [
+        "BlackWidow",
+        "IHaveManyNames",
+        "GoldDigger",
+        "VillainWithGoodPublicity"
+      ],
+      "description": "Black Widow: She's married and killed at least three other men for their money. Gold Digger: Her MO involves marrying a rich man and then killing him. I Have Many Names: She's gone by multiple names over her years as a black widow. Randy lists a few of them after being brought in to identify her. Villain with Good Publicity: Natalie's parents adore her and dismiss Monk as delusional and Natalie as trying to make trouble when they accuse her of being a murderess.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Alice Westergren",
+      "media_title": "Monk",
+      "tropes": [
+        "KillerCop",
+        "GracefulLoser",
+        "Hypocrite",
+        "WomanScorned",
+        "IfICantHaveYou",
+        "VillainousBreakdown"
+      ],
+      "description": "Graceful Loser: When Stottlemeyer, Monk, and a few others confront Corporal Westergren about killing Terry Chasen, she doesn't attempt to run or put up a fight and calmly confesses. Hypocrite: When she's discovered as Chasen's murderer, Westergren says \"I just couldn't live without him\". It feels rather hollow, as shedidkill the man she \"couldn't live without\". If I Can't Have You…: Chasen broke up with Westergren, intending to return to his wife. Furious at the decision, she decided that if she wouldn't be spending Christmas with her ex-boyfriend, no one else would. Killer Cop: When Chasen decides to break off his affair with Alice and return to his wife, she becomes furious and devises a plan to kill him with a poisoned bottle of port and cast Stottlemeyer as the intended victim. First, she suggests a Secret Santa gift exchange for the department Christmas party, then rigs the drawing so that Stottlemeyer gets Chasen's name. Next, she poisons the bottle, addresses it to Stottlemeyer, and anonymously drops it off at the station. During the party, she sneaks into his office and steals the gift he had bought for Chasen. Knowing that Stottlemeyer hates port, she suggests that he give it to Chasen instead — and the stage is set. Villainous Breakdown: When she's found out over a simple mistake (mixing up the Christmas cards) Westergren maintains composure at first, calmly removing cookies from the oven. But gradually she spirals into a fit of disbelief and frustration at her mistake.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Julian Hodge",
+      "media_title": "Monk",
+      "tropes": [
+        "NeatFreak",
+        "GracefulLoser",
+        "EurekaMoment",
+        "BerserkButton",
+        "WouldHitAGirl",
+        "EvilBrit",
+        "VillainWithGoodPublicity",
+        "EvilCounterpart"
+      ],
+      "description": "Berserk Button: Julian Hodge launches into a tirade when the buttons on his designs are worn even the slightest bit crooked, making him a kind of neat freak with a very short fuse. It leads to Monk discovering that one time, his rage was so strong he beat a model to death for showing up at a show drunk. Evil Brit: He's the killer of the episode and played by British actor MalcolmMcDowell. Evil Counterpart: Like Monk, he's got a great eye for detail and is a Control Freak, but unlike Monk, Hodge's default reaction to anything that isn't to his liking is anger rather than misery or exasperation. He's also willing to kill for things as small as unprofessional conduct. Graceful Loser: Julian Hodge—surprisingly given how big of an asshole he is throughout the episode. (Maybe it's because he's happy his blackmailer is finally getting his comeuppance.) He accepts the news calmly, doesn't try to run or resist arrest, and pays Monk what coming from him has to count as a grudging compliment: \"So it's true what they say? You can never judge a person by how they dress.\" Neat Freak: Julian Hodge could match Monk himself in his compulsion towards keeping things straight. When he flies into a temper at Julie for messing up the collar on one of her outfits, it gives Monk a\"Eureka!\" Momentabout the case.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mrs. Hammond",
+      "media_title": "Monk",
+      "tropes": [
+        "WickedCultured",
+        "TilMurderDoUsPart",
+        "NoodleIncident"
+      ],
+      "description": "Noodle Incident: We never learn why she murdered her husband. Til Murder Do Us Part: She murdered her husband for...reasons. Wicked Cultured: Mrs. Hammond is a classical cello player. Her husband/victim was also a classical musician.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Steve Wagner",
+      "media_title": "Monk",
+      "tropes": [
+        "DomesticAbuse",
+        "PoliticallyIncorrectVillain",
+        "VillainBall",
+        "VillainRespect",
+        "VillainWithGoodPublicity"
+      ],
+      "description": "Domestic Abuse: Apparently, during their affair, Steve beat Joanne badly enough that she ended up in the hospital. Naturally, this would destroy his political ambitions if it came out. Politically Incorrect Villain: He insults both Joanne and Monk for neuroses (he alleged Joanne was depressed and Monk had a breakdown after Trudy's death), claiming that some people can't handle stress. Villain Ball: Initially, even Stottlemeyer and Natalie are skeptical that Wagner could have killed Joanne, given that he was in orbit when she died. Then Wagner taunts Monk about being unable to solve the case. This convinces Natalie that he had something to do with the murder. Monk eventually proves it, spurred by the taunting. Villain Respect: When Monk has a breakdown on Career Day, Steve taunts him about the fact that he's a \"flincher.\" After Monk chases the plane Steve is testing and stands his ground to prevent Steve from leaving (and disposing of vital evidence), Steve gives him an approving nod. Villain with Good Publicity: Wagner cheated on his wife with Joanne and beat her so badly that she ended up hospitalized with a concussion. When she wrote a chapter about the details, he killed her in cold blood. However, until Monk uncovered all this, he was a local hero.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Denny Jardeen",
+      "media_title": "Monk",
+      "tropes": [
+        "BludgeonedToDeath",
+        "RabidCop",
+        "AssholeVictim",
+        "HairTriggerTemper"
+      ],
+      "description": "Asshole Victim: A former cop turned crook who killed two guards (one of whom was engaged) over the bearer bonds they were transporting. Yeah, it's not sad to see him go. Bludgeoned to Death: He gets killed when Terri smashes him in the back with a large tooth display in Dr. Bloom's office. Hair-Trigger Temper: He seems to have had a short fuse, given that his partner describes him as going ballistic after one of the guards knocked out his tooth.Hekilled them both. Rabid Cop: He got a somewhat dishonorable discharge thanks to his habit of beating people up.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jack Leverett",
+      "media_title": "Monk",
+      "tropes": [
+        "AccidentalMurder",
+        "LackOfEmpathy",
+        "MyGodWhatHaveIDone"
+      ],
+      "description": "Accidental Murder: He did not at all mean to kill either of the people he killed. Lack of Empathy: He actually averts this, unlike most killers on Monk. He looks outright horrified whenever he kills someone. My God, What Have I Done?: Has this reaction to both murders, Orlov's especially.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Jay Bennett",
+      "media_title": "Monk",
+      "tropes": [
+        "VillainBall",
+        "WouldHitAGirl",
+        "NotGoodWithRejection",
+        "DrJerk"
+      ],
+      "description": "Dr. Jerk: Dr. Bennett is quite an asshole on top of being a double murderer. Not Good with Rejection: Dr. Bennett's reaction to Anna leaving him to go back to her husband is to kill her. Villain Ball: If Jay Bennett had just paid for the fender bender damage and not left a threatening note on Linda Fusco's car (or, for that matter, written something like \"Sorry!\" instead of \"Go to hell\"), he'd likely not have had to kill Bill Gibbard (a witness who would have confirmed that Bennett killed his girlfriend Anna Pollard) and wouldn't have to try to kill Monk because Linda never would've taken her case to Monk. Would Hit a Girl: He murders his mistress after she decides to go back to her husband, prompted by her confession that she hadn't mentioned the affair to anyone.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kris Kedder",
+      "media_title": "Monk",
+      "tropes": [
+        "LackOfEmpathy",
+        "NoYou",
+        "FalseFriend",
+        "NerdyInhaler",
+        "CreativeSterility",
+        "AlliterativeName"
+      ],
+      "description": "Alliterative Name: His first and last names both start with K. Creative Sterility: According to Stork, Kris hasn't written a decent song in the last decade. False Friend: Kris to Stork. Not only did Kris steal the credit for music that Stork wrote, but he also killed Stork in order to hide the theft. Plus, according to Kendra, he didn't really help Stork with drug addiction. On top of that, he tried to use Stork's history of addiction to cover up the murder. Lack of Empathy: When Monk, Natalie and Kendra show up to question him, Kedder appears to show empathy for Stork's death, but Kendra can clearly see through it:Kendra Frank:Yeah, they're looking into what happened to Stork.Kris Kedder:What's the big mystery? He's been chasing that dragon for years. I tried to help him.Kendra Frank:[disgusted]When didyoutry to help him?![to Monk]See, now that he's dead, everyone's his best friend![to Kedder]Where were you when he was sinking?Kris Kedder:Where were you? Nerdy Inhaler: Subverted. Kris Kedder, a rock star, uses a unique mint-flavored one which is imported from Denmark for his asthma. It's also used to identify him as Stork's murderer, since he blew up a blue beachball while impersonating Stork at an acupuncture tent.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Paul Buchanan",
+      "media_title": "Monk",
+      "tropes": [
+        "EntitledToHaveYou",
+        "AbhorrentAdmirer",
+        "TheUnfettered",
+        "StalkerWithACrush",
+        "WouldHitAGirl"
+      ],
+      "description": "Abhorrent Admirer: Paul Buchanan has become one for Natalie over the years. Not because of his physical appearance, but because of his entitlement attitude towards and inability to leave her alone. She suspects that he had her prom date beat up in high school and he later confirms it by saying he should have been her date instead. She has been hesitant to go inside his mansion fearing that he may hit on her. Her suspicions are confirmed again as he tries to convince her that he would be happy to have a kid with her when she came over to his mansion with a Pillow Pregnancy. Entitled to Have You: He’s had feelings for Natalie ever since high school and he has been trying to get her to return his feelings. Natalie, however, knows he doesn’t know how to handle rejection as she rightfully suspects him of hiring some guys to beat up her prom date. And it's certainly not helped by how his wealth gives him the arrogance to believe he can buy off Natalie. Stalker with a Crush: According to Natalie, Paul constantly pestered her for a date and put her boyfriend out of commission the week before prom. He got away with it. To this day, Natalie doesn't want to go anywhere near him, concerned he'll try to woo her again despite her clear disdain for him. The Unfettered: Paul resorts to murder to solve multiple problems with no apparent qualms. Would Hit a Girl: He murdered his stepmother to make sure he would inherit everything (leaving his stepsisters nothing) and nearly shoots Natalie after she gets too close to the truth.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Max Hudson",
+      "media_title": "Monk",
+      "tropes": [
+        "DomesticAbuse",
+        "LackOfEmpathy",
+        "HateSink",
+        "EveryoneHasStandards",
+        "WouldHitAGirl",
+        "TilMurderDoUsPart",
+        "ShockJock"
+      ],
+      "description": "Domestic Abuse: His sister-in-law claims he abused his wife and has a terrible temper. Hate Sink: Max is obviously meant to be taken as a loathsome little toad. His sister-in-law says he abused his wife and he eventually killed her in cold blood. He also makes jokes about the murder on his show and goes so far as to make more jokes of the same kind about Trudy when Monk confronts him. Lack of Empathy: He mocked his wife on his show and had to rehearse his reaction to her death a couple of times before being satisfied that he sounded upset enough. He also makes a series of tasteless jokes about Trudy's murder in front of her grieving husband,something even his co-hosts thought was going too far. Shock Jock: The jokes Max tells are designed to offend practically everyone. Natalie explicitly says that him being on the radio when she comes into a venue causes her to leave. He even manages to make Monk forget his problem with touching people by insulting Trudy, leading Monk to beat the tar out of him in the recording booth. Til Murder Do Us Part: Max took \"till death do us part\" into his own hands by getting his neighbor's dog to turn on the gas while his wife slept, killing her and making it look like an accident.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Six-Way Killer",
+      "media_title": "Monk",
+      "tropes": [
+        "WouldHitAGirl",
+        "SmokescreenCrime",
+        "NotGoodWithRejection",
+        "TheresNoKillLikeOverkill"
+      ],
+      "description": "Not Good with Rejection: Monk never explicitly states his motive, but the flashback shows him getting frisky with Jean, who then climbs out of the car and runs away. This implies he killed her for rejecting his advances. Smokescreen Crime: His shtick of being the Six-Way Killer is an elaborate ploy to focus attention off the murder of a woman he went on a date with that evening. He had gotten her a very expensive, fancy dessert, and was afraid her stomach contents would lead the police back to him. However, he knew that they would dissolve within 36 hours, so he'd be home free if he could keep the police from investigating that long. There's No Kill like Overkill: He murders Cyrus Canning by bludgeoning him on the head, suffocating him with a plastic bag, injecting him with poison, stabbing him four times, shooting him twice, and crushing him with his car, in that order.Ouch. Would Hit a Girl: He beat his date to death when she refused his advances.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Scott",
+      "media_title": "Monk",
+      "tropes": [
+        "SmallNameBigEgo",
+        "DeadlyDoctor",
+        "MotiveRant"
+      ],
+      "description": "Deadly Doctor: On top of murdering Dr. Whitcomb to prevent him from testifying against Scott in a malpractice lawsuit, when Dr. Scott finds out that Monk is on to him, Dr. Scott beats Monk up with a crutch and then arranges to have the injured \"Mr. Butterworth\" be accidentally given intravenous tetracycline (which Monk is allergic to), all in the name of preserving his reputation as a miracle doctor. Small Name, Big Ego: Dr. Scott fancies himself as the hospital's \"miracle doctor\", and when an error he makes during an operation causes him to lose a patient on the operating table and get pegged with a malpractice lawsuit, he refuses to let his previously squeaky-clean reputation be tarnished and concocts a scheme to get rid of the biggest witness against him, Dr. Whitcomb. HisMotive Rantto the incapacitated Monk at the episode's climax makes it even more clear that he is more concerned with being seen as the hospital's best and most beloved doctor than actually helping his patients.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Arlene Boras",
+      "media_title": "Monk",
+      "tropes": [
+        "EvilCannotComprehendGood",
+        "WouldHitAGirl"
+      ],
+      "description": "Evil Cannot Comprehend Good: Upon being confronted, Arlene says she can't understand why Vickie didn't just keep quiet about the test results, as she would have shared the money she made. Would Hit a Girl: She killed her roommate, Vicki, to keep her from telling Magneri the secret.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jacob Posner",
+      "media_title": "Monk",
+      "tropes": [
+        "FromNobodyToNightmare"
+      ],
+      "description": "From Nobody to Nightmare: While he was trying to buy drugs the night of the incident, nothing indicates he had ever done anything violent (except maybe in self-defense). After finding out that he's been conned out of a fortune in old coins, he murders one of the people involved and goes after the others.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Michael Kenworthy and the Heist Crew",
+      "media_title": "Monk",
+      "tropes": [
+        "WeNeedADistraction",
+        "EvilHasABadSenseOfHumor",
+        "HeroWithBadPublicity",
+        "BadSanta",
+        "PlayingTheVictimCard",
+        "VillainWithGoodPublicity"
+      ],
+      "description": "Bad Santa: Definitely the case with Michael. He wears a Santa suit and throws toys from a roof to distract people from a robbery and slow down the police by blocking traffic. Later, he kills Alice Dubois, an elderly museum employee, with his bell in cold blood. He's also quite willing to take advantage of Monk'sHero with Bad Publicitystatus. Evil Has a Bad Sense of Humor: One of the heistmen cracks a sick joke about the woman they murdered, saying that she won't be at work tomorrow because she had a death in the family. The others chuckle. Playing the Victim Card: Kenworthy willingly takes advantage of how bad the situation looks, decrying Monk for attacking him when he was just trying to spread a little Christmas cheer...and leaving out the fact that he had a gun, attacked Monk, and was serving as the lookout for a diamond heist. Villain with Good Publicity: Kenworthy quickly becomes a martyr after Monk shoots him out of self-defense. He later loses his good publicity when he takes out a knife during a stand-off with Monk. We Need a Distraction: Kenworthy's original plan for the heist was to stand on a roof throwing down toys to the people below, jamming up the streets and preventing the cops from reaching the museum in time to catch the thieves. When it comes time to try it again, they leave a large truck in the streets as if it has broken down.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "West Bay Trust Employees",
+      "media_title": "Monk",
+      "tropes": [
+        "BoomHeadshot",
+        "TooDumbToLive",
+        "WoundedGazelleGambit",
+        "SuspiciousSpending",
+        "InsideJob",
+        "SarcasmMode",
+        "StupidCrooks"
+      ],
+      "description": "Boom, Headshot!: How Peter is killed. Inside Job: There wasn't just one employee in on the robbery, it was the whole damn bank. Stupid Crooks: Sure, Peter,buy a brand new Jaguarwith money from selling off some of the loot while the cops are still fresh on the case.Nothing couldpossiblygo wrong there. Too Dumb to Live: The employees made an agreement to not spend any of the money or sell any of the valuables until the heat died down and it could be divided, but Peter justhadto get that damn Jaguar, didn't he? Wounded Gazelle Gambit: The group decided to have one employee get shot by the robber to make things look convincing. Jasmine drew the short straw (or toothpick, in this case) and got one in the arm.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Matthew Teeger",
+      "media_title": "Monk",
+      "tropes": [
+        "LuckyRabbitsFoot",
+        "VirtuousCharacterCopy",
+        "MamasBoy",
+        "LoonWithAHeartOfGold",
+        "MommasBoy",
+        "InsaneEqualsViolent"
+      ],
+      "description": "Insane Equals Violent: Very much averted. Matthew is mentally ill and the symptoms are creepy, and he once assaulted his stepfather to protect his mother, but he didn't kill the victims of the week. Loon with a Heart of Gold: Matthew may live in his own little world but he isn't dangerous at all. In fact, he gives Natalie's Julie his treasuredLucky Rabbit's Footto keep her safe from \"bad people.\" Mama's Boy: He has a very strong attachment to his mother, to the point that he stuffed her body and continued believing that she was alive after her death. Virtuous Character Copy: Matthew is a mentally illMomma's Boywho keeps his mother's taxidermized corpse around and acts as though she's still alive, making him resemble Norman Bates. However, whereas Norman's alternate personality based on his mother makes him a danger to others, Matthew is completely non-violent outside of situations that would also provoke a sane person.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "George Teeger",
+      "media_title": "Monk",
+      "tropes": [
+        "ADeadlyAffair",
+        "HeKnowsTooMuch",
+        "WoundedGazelleGambit",
+        "CarFu",
+        "TilMurderDoUsPart"
+      ],
+      "description": "A Deadly Affair: Killed his wife after his mistress told his wife about their affair. Car Fu: He ran Student!Julie over with his SUV to shut her up. She Knows Too Much: He killed the student Julie Teeger because she was a witness to the fight he had with his wife Julie Teeger. Til Murder Do Us Part: He stabbed his wife to death. Wounded Gazelle Gambit: He comes bursting through the front door sobbing over his murdered wife when he was the one to do it.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Patrick Kloster",
+      "media_title": "Monk",
+      "tropes": [
+        "DomesticAbuse",
+        "LackOfEmpathy",
+        "TheBluebeard",
+        "FauxAffablyEvil",
+        "CrazyPeoplePlayChess",
+        "ChessMotifs",
+        "ShutUpHannibal",
+        "InsufferableGenius",
+        "WickedCultured",
+        "SmartPeoplePlayChess",
+        "TilMurderDoUsPart",
+        "BatmanGambit",
+        "TheSociopath",
+        "FramingTheGuiltyParty"
+      ],
+      "description": "Batman Gambit: His plan to kill Linda was to poison her hidden stash of alcohol, knowing she had relapsed. This would effectively hide the murder weapon for him, and allow him to dispose of it for good before anyone had realized what had happened. The Bluebeard: Linda Kloster was his second wife, and he also murdered his first the same way. Chess Motifs: Kloster is a genius grand master chess player seeing his crimes as a massive game and also for an excuse to flaunt his intelligence. As he's being arrested, he tries to complement Monk on being the better player.Monk reprimands him for treating real human lives as a game, but consents to a victorious \"Checkmate.\" Crazy People Play Chess: Kloster is a chess Grandmaster and also a sociopathic murderer. Domestic Abuse: Not only did he murder his wife, but he also taunted her about it repeatedly beforehand.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Janka Zlatavich",
+      "media_title": "Monk",
+      "tropes": [
+        "MamaBear",
+        "SympatheticMurderer",
+        "YouKilledMyFather"
+      ],
+      "description": "Mama Bear: Upon realizing that her cabbie was \"the Butcher of Zemenia\", who had killed most of her family, she killed him in fear that he would also take her daughter. Sympathetic Murderer: Try to say with a straight face that Mrs. Zlatavich deserves to go to jail for murdering the man who killed almost her whole family. Can't do it, can ya? Stottlemeyer even says that the DA will try to show her as much mercy as possible, given the circumstances. You Killed My Father: Mrs. Zlatavich lost most of her family and in-laws when Karsten Emerik slaughtered them all. She promptly gives him some stabs to the throat when she sees his face.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "James Novak",
+      "media_title": "Monk",
+      "tropes": [
+        "ADeadlyAffair",
+        "ImmoralJournalist",
+        "SerialKillingsSpecificTarget"
+      ],
+      "description": "A Deadly Affair: He kills his mistress to keep his wife from finding out about the affair (which she already knows about.) Immoral Journalist: Downplayed in that the story he does on Monk seems overall fair and well-researched, but there is that little matter of using his forum to frame another man for a murder that Novak himself committed. Serial Killings, Specific Target: Invokes this by using Douglas Thurman's MO, thus making his own crime fit in with an already existing string of serial killings.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Daniel Reese",
+      "media_title": "Monk",
+      "tropes": [
+        "ImperialStormtrooperMarksmanshipAcademy",
+        "HeKnowsTooMuch",
+        "FrameUp"
+      ],
+      "description": "Frame-Up: He planned to do this to Shiv for Lindsey's murder. He ended up having to make do with Jack when he took over Shiv's escape plan. He Knows Too Much: He kills Shiv to keep him from talking about the stolen escape plan. Imperial Stormtrooper Marksmanship Academy: Based on the fact that he's not that far away from Monk, Jack, and Natalie when he's shooting at them and fails to him them even once, it appears Daniel graduated with marks.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Karl Torini",
+      "media_title": "Monk",
+      "tropes": [
+        "HateSink"
+      ],
+      "description": "Hate Sink: Torini is an abuser and a ruthless killer, kills one of the most lovable characters on the show, and is willing to do anything to get out of trouble.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Harrison Powell",
+      "media_title": "Monk",
+      "tropes": [
+        "AmoralAttorney",
+        "KarmaHoudini",
+        "DefeatingTheUndefeatable",
+        "SmugSnake"
+      ],
+      "description": "Amoral Attorney: Harrison Powell, in spades. The man outright bullies Monk into a breakdown in order to get Evan Gildea off, despite the man being guilty as sin, and brags about the fancy furnishings his successful lawyering buys when Natalie asks him how he sleeps at night. Defeating the Undefeatable: Powell has never lost a case at the start of the episode. By the end, Monk has changed that. One reporter even asks if Powell will change the name of his autobiography,Undefeated. Karma Houdini: Powell unfortunately suffers nothing except being dethroned as an undefeatable lawyer. Smug Snake: Smarmy attorney Harrison Powell has absolutely no qualms about ripping Monk apart on the witness stand, using his phobias and OCD against him, to defend a stone-cold killer. He doesn't lose a bit of sleep over what he does and takes pride in his undefeated case record...which fortunately winds up tarnished by the end when Monk nails Gildea for the murder of an auto store owner.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "John Hannigan",
+      "media_title": "Monk",
+      "tropes": [
+        "KickTheDog",
+        "ForTheEvulz",
+        "GoldDigger",
+        "VillainousBreakdown",
+        "MeaningfulName",
+        "CausticCritic"
+      ],
+      "description": "Caustic Critic: After sneaking out and returning to the show, Hannigan - who could have written anything - writes an exceptionally nasty review about the parts he missed, largely Julie's performance. While he could not have known it would come back to haunt him, the sheer pettiness of this makes it even easier for Natalie to accuse him. Gold Digger: He is engaged to the daughter of the man who owns the paper he works for. This means he had a lot to lose if Callie Esterhaus revealed their affair, so she just had to go... Kick the Dog: Not only did John throw Callie to her death, he did so after \"proposing\" to her. Meaningful Name: A villain in an episode based on musical theater?Wonder if he's Agatha's descendant? Villainous Breakdown: Hannigan doesn't react well when realizing that he destroyed his own alibi. Logically speaking, he ought to have recognized Julie after lambasting her in a reviewFor the Evulz. He tries to defend himself by saying that she wasn't in the curtain call. Monk and Natalie refute that by revealing that she was wearing a wig and makeup for act two, but in act one, she looked remarkably similar with her hair down.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "\"The Law Professor\"",
+      "media_title": "Monk",
+      "tropes": [
+        "NiceJobFixingItVillain",
+        "PyrrhicVictory",
+        "AmoralAttorney",
+        "HeKnowsTooMuch",
+        "TeacherStudentRomance",
+        "ImproperlyParanoid",
+        "DyingClue",
+        "GreaterScopeVillain",
+        "DirtyCoward",
+        "ProperlyParanoid",
+        "FinalBoss",
+        "DrivenToSuicide",
+        "HiddenVillain",
+        "MyGodWhatHaveIDone",
+        "VillainWithGoodPublicity",
+        "KarmaHoudiniWarranty"
+      ],
+      "description": "The final antagonist of the series. Rickover is a corrupt judge who had impregnated (Monk's future wife) Trudy with a bastard child, way back when he was her law professor in college. Years later, he conspired to have Trudy murdered just so that he could cover up his infidelity. But it's not until the series finale does Monk discover the whole truth about his wife's death. Amoral Attorney: Well, he's an Amoral Judge who planned a few murders while climbing up his way on the courtroom ladder. He's a terrifyingly extreme example of atrusted authority figure who's actually corrupt as all hell. Dirty Coward: Rickover murdered two innocent women out of fear that they could tell the public his dirty secrets. He tries to weasel his way out of being held at gunpoint by Monk using Trudy's memory, then he shoots himself in the head because he can't face life as a disgraced murderer. Driven to Suicide: Knowing the revelation of his own guilt in a murder plot will kill his good reputation and courtroom career, Rickover chooses to shoot himself dead instead of accepting arrest and prosecution for his crimes. Dying Clue: \"You take care of her!\", just before he shoots himself with Monk's gun. This leads Monk to discover the illegitimate daughter Rickover had conceived with Trudy was still alive, having been given away for adoption and living totally unaware about the identities of her birth parents.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ernest Pinchuk",
+      "media_title": "Monk",
+      "tropes": [
+        "ConLang",
+        "HonorBeforeReason",
+        "LoonyFan",
+        "MotiveRant",
+        "DarkerAndEdgier",
+        "NotSoDifferentRemark"
+      ],
+      "description": "Honor Before Reason: Pinchuk vowed to speak only in Dratch until a worthy reboot appeared, and he refuses to break that vow even when the police, who can't understand theConlang, accuse him of both the murders. Loony Fan: Pinchuk is an extreme Earther who understands (and speaks only in) one of the show's invented languages. He also kills the reboot's planned producer, Kingston Mills, over the issues with his plans. \"Not So Different\" Remark: Monk points this out to the police after they've accused Ernest Pinchuk of both of the murders — both he and Pinchuk act in ways that may seem irrational but to them, are the only way of putting the world back to rights. He then points out that Pinchuk wouldn't have killed Conrad Stipe because it goes against his personal code. Natalie is thrilled that Monk has finally had a breakthrough; the police are less impressed.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Zarkins",
+      "media_title": "Monk",
+      "tropes": [
+        "ThrillSeeker",
+        "CarFu",
+        "TheFamilyThatSlaysTogether",
+        "SerialKiller",
+        "EvilOldFolks"
+      ],
+      "description": "Car Fu: Bessie's son contributes to the murders by using his rig for hit-and-runs. Evil Old Folks: Bessie, Gertie, and Mabel Zarkin are old ladies who have been responsible for the unsolved murders Monk keeps running into throughout the book, as well as dozens more. Bessie even indoctrinated her son into the \"game\", using him to commit hit-and-run killings. The Family That Slays Together: The murders that Monk and Natalie have wound up running across all through the book are the work of three aunts and their nephew, who have been \"collecting\" victims across the country. Thrill Seeker: A dark variant; the three aunts travel cross-country killing people for kicks. Serial Killer: They've been killing people across the United States for some time. When they first meet Monk and Natalie, they show them an extensive knickknack collection, which takes on a much darker meaning when it turns out that each of those items belonged to a person they killed.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Derek Thorpe",
+      "media_title": "Monk",
+      "tropes": [
+        "HowTheMightyHaveFallen",
+        "DownplayedTrope",
+        "ChekhovsGunman",
+        "IncomingHam",
+        "FaceHeelTurn",
+        "TheBusCameBack",
+        "JerkAss",
+        "NoIndoorVoice",
+        "VillainWithGoodPublicity"
+      ],
+      "description": "The Bus Came Back: After appearing in the episode, he disappears again for a really long time before reappearing as the villain of one of the novels. Chekhov's Gunman: Derek Thorpe acts as a major thorn in Monk and Natalie's sides once they're accused, and Natalie talks to the keeper of the FBI evidence room, Agent Nesbo, while trying to clear their names. Thorpe turns out to have committed the theft, and he had an affair with Agent Nesbo to get access to the evidence room. Face–Heel Turn: Derek Thorpe, the FBI agent from \"Mr. Monk and the Really, Really Dead Guy\", was merely antagonistic in the episode but returns as one of the main villains in the novel. As it turns out, getting shown up by Monk in that episode was the beginning of a career downslide for him, which led to him stealing money from the FBI evidence locker room—and killing an innocent man named Jeroen Berge, who caught him looking for it. How the Mighty Have Fallen: In his first appearance, Thorpe was the head of an elite FBI team. While he's still an FBI agent byMr. Monk is a Mess,the team has been disbanded and his career has suffered. Jerkass: Agent Thorpemarches onto the sceneas a pushy, demanding blowhard that treats everyone who works with him as though they are beneath him, doesn't listen to good advice, and lambastes everyone around him at the drop of a hat - withNO INDOOR VOICE- even for just doing their jobs.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Rick Eden",
+      "media_title": "Monk",
+      "tropes": [
+        "EvilCannotComprehendGood",
+        "HeKnowsTooMuch",
+        "MakeItLookLikeAnAccident",
+        "FictionalCounterpart",
+        "EvilBrit",
+        "NoCelebritiesWereHarmed",
+        "ScrewTheRulesIHaveMoney"
+      ],
+      "description": "A billionaire who made his fortune in online shopping before diversifying into many other areas, including newspaper publishing and commercial space travel. He is the antagonist ofMr. Monk's Last Case. Evil Brit: Eden is British, charismatic and suave. He is said to be the wealthiest man on Earth and he will stop at nothing, including murder, to get his way. Evil Cannot Comprehend Good: He's utterly confounded when Monk rejects his billion-dollar bribe.Eden:A billion dollars. What were you thinking?Monk:I was thinking about my wife. Molly was her baby. You broke her baby's heart. Fictional Counterpart: His online shopping site Eden Express and his spaceflight company Genesis are fairly obvious expies of Amazon andSpaceX. He also owns the fictionalSan Francisco Dispatch, probably a nod to Jeff Bezos' ownership of theWashington Post. He Knows Too Much: Eden murders Molly's fiancée Griffin because he was investigating the suspicious death of Eden's business partner. He does the same to hitman Lucas Kubrick to cover his tracks.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Butcher of Zemenia",
+      "media_title": "Monk",
+      "tropes": [
+        "AssholeVictim",
+        "LaserGuidedKarma"
+      ],
+      "description": "Asshole Victim: The man was a warlord with countless hundreds dead in his wake, so it'd be hard to cry that he's dead. Laser-Guided Karma: He was killed by an elderly Zemenian woman whose family he slaughtered, save for her daughter.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Alice Cooper",
+      "media_title": "Monk",
+      "tropes": [
+        "InsaneTrollLogic"
+      ],
+      "description": "Insane Troll Logic: Monk's theory about Cooper being the murderer makes no damn sense, and it shows.",
+      "source": "tvtropes"
+    }
+  ],
+  "character_count": 79
+}

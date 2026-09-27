@@ -1,18 +1,1 @@
-{
-  "name": "Pyecroft",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "DueToTheDead",
-    "DramaticUnmask",
-    "SadisticChoice",
-    "WeUsedToBeFriends",
-    "CanonForeigner",
-    "AnArmAndALeg",
-    "InTheHood",
-    "JackBauerInterrogationTechnique",
-    "DemolitionsExpert",
-    "GoodScarsEvilScars"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pyecroft", "show": "Sharpe", "trope_count": 14, "tropes": ["GoodScarsEvilScars", "WeUsedToBeFriends", "SadisticChoice", "InTheHood", "DramaticUnmask", "DueToTheDead", "JackBauerInterrogationTechnique", "HandicappedBadass", "CanonForeigner", "DemolitionsExpert", "BecauseYouWereNiceToMe", "RescueRomance", "FacialHorror", "AnArmAndALeg"], "tropes_by_category": {}, "similar": [{"name": "Erwin Smith", "show": "Attack on Titan", "id": "attack_on_titan_erwin_smith", "similarity": 0.0354, "shared_tropes": 4}]}

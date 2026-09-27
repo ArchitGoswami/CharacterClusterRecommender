@@ -1,16 +1,1 @@
-{
-  "name": "Truman Oatley",
-  "show": "Martha Speaks",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "BlackAndNerdy",
-    "LovableCoward",
-    "DorkInASweater",
-    "GreenEyedMonster",
-    "WhyDidItHaveToBeSnakes",
-    "TheSmartGuy",
-    "BookWorm"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Truman Oatley", "show": "Martha Speaks", "trope_count": 8, "tropes": ["DeadpanSnarker", "BlackAndNerdy", "LovableCoward", "DorkInASweater", "GreenEyedMonster", "WhyDidItHaveToBeSnakes", "TheSmartGuy", "BookWorm"], "tropes_by_category": {}, "similar": [{"name": "Lieutenant Boomer", "show": "Battlestar Galactica", "id": "battlestar_galactica_lieutenant_boomer", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Alec Hardison: The Hacker", "show": "Leverage", "id": "leverage_alec_hardison_the_hacker", "similarity": 0.0667, "shared_tropes": 5}, {"name": "Burton \"Gus\" Guster", "show": "Psych", "id": "psych_burton_gus_guster", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Chuckie Finster", "show": "Rugrats", "id": "rugrats_chuckie_finster", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Janja", "show": "Lion Guard, The", "id": "lion_guard_the_janja", "similarity": 0.0408, "shared_tropes": 4}]}

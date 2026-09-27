@@ -1,16 +1,1 @@
-{
-  "name": "Mrs. Garrett",
-  "show": "The Facts of life",
-  "trope_count": 8,
-  "tropes": [
-    "FieryRedhead",
-    "TeamMom",
-    "SpinOff",
-    "PutOnABus",
-    "TheParagon",
-    "NiceGirl",
-    "OutOfFocus",
-    "BreakoutCharacter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Garrett", "show": "The Facts of life", "trope_count": 8, "tropes": ["FieryRedhead", "TeamMom", "SpinOff", "PutOnABus", "TheParagon", "NiceGirl", "OutOfFocus", "BreakoutCharacter"], "tropes_by_category": {}, "similar": [{"name": "Mrs. Garrett", "show": "Facts of Life", "id": "facts_of_life_mrs_garrett", "similarity": 1.0, "shared_tropes": 8}, {"name": "Kay Howard", "show": "Homicide: Life on the Street", "id": "homicide_life_on_the_street_kay_howard", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Peg Pete", "show": "Goof Troop", "id": "goof_troop_peg_pete", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Belle/Lacey French", "show": "Once Upon a Time", "id": "once_upon_a_time_belle_lacey_french", "similarity": 0.0421, "shared_tropes": 4}]}

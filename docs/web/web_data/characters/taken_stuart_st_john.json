@@ -1,17 +1,1 @@
-{
-  "name": "Stuart St. John",
-  "show": "Taken",
-  "trope_count": 9,
-  "tropes": [
-    "SuddenSequelHeelSyndrome",
-    "BigBad",
-    "WhatHappenedToTheMouse",
-    "TookALevelInJerkass",
-    "BetterToDieThanBeKilled",
-    "YouDontLookLikeYou",
-    "FaceHeelTurn",
-    "AscendedExtra",
-    "IronicEcho"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stuart St. John", "show": "Taken", "trope_count": 9, "tropes": ["SuddenSequelHeelSyndrome", "BigBad", "WhatHappenedToTheMouse", "TookALevelInJerkass", "BetterToDieThanBeKilled", "YouDontLookLikeYou", "FaceHeelTurn", "AscendedExtra", "IronicEcho"], "tropes_by_category": {}, "similar": [{"name": "Yuri Suvarov", "show": "24", "id": "24_yuri_suvarov", "similarity": 0.1739, "shared_tropes": 4}]}

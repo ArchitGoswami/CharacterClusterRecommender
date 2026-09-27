@@ -1,18 +1,1 @@
-{
-  "name": "Carmelita Rainer",
-  "show": "Dirty Sexy Money",
-  "trope_count": 10,
-  "tropes": [
-    "IWantMyBelovedToBeHappy",
-    "LoveInterest",
-    "UnwantedSpouse",
-    "DroppedABridgeOnHim",
-    "LoveTriangle",
-    "TheConfidant",
-    "NiceGirl",
-    "BettyAndVeronica",
-    "TheMistress",
-    "MoodSwinger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carmelita Rainer", "show": "Dirty Sexy Money", "trope_count": 10, "tropes": ["IWantMyBelovedToBeHappy", "LoveInterest", "UnwantedSpouse", "DroppedABridgeOnHim", "LoveTriangle", "TheConfidant", "NiceGirl", "BettyAndVeronica", "TheMistress", "MoodSwinger"], "tropes_by_category": {}, "similar": [{"name": "Emily Sweeney", "show": "The Big Bang Theory", "id": "the_big_bang_theory_emily_sweeney", "similarity": 0.2, "shared_tropes": 4}, {"name": "Lisa George", "show": "Dirty Sexy Money", "id": "dirty_sexy_money_lisa_george", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Gwen Stacy", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_gwen_stacy", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Gina Calabrese", "show": "Miami Vice", "id": "miami_vice_gina_calabrese", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Mutsumi Otohime", "show": "Love Hina", "id": "love_hina_mutsumi_otohime", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Shinobu Miyake", "show": "Urusei Yatsura", "id": "urusei_yatsura_shinobu_miyake", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Cloudy Jay \"CJ\"", "show": "Regular Show", "id": "regular_show_cloudy_jay_cj", "similarity": 0.0488, "shared_tropes": 4}, {"name": "The Mother", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_the_mother", "similarity": 0.043, "shared_tropes": 4}]}

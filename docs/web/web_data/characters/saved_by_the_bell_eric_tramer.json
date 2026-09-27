@@ -1,14 +1,1 @@
-{
-  "name": "Eric Tramer",
-  "show": "Saved by the Bell",
-  "trope_count": 6,
-  "tropes": [
-    "BigApplesauce",
-    "JerkWithAHeartOfGold",
-    "ChuckCunninghamSyndrome",
-    "Jerkass",
-    "HeelRealization",
-    "HiddenDepths"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eric Tramer", "show": "Saved by the Bell", "trope_count": 6, "tropes": ["BigApplesauce", "JerkWithAHeartOfGold", "ChuckCunninghamSyndrome", "Jerkass", "HeelRealization", "HiddenDepths"], "tropes_by_category": {}, "similar": [{"name": "Declan Coyne", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_declan_coyne", "similarity": 0.1333, "shared_tropes": 4}]}

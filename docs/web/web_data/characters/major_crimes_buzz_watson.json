@@ -1,17 +1,1 @@
-{
-  "name": "Buzz Watson",
-  "show": "Major Crimes",
-  "trope_count": 9,
-  "tropes": [
-    "TheSilentBob",
-    "DeadpanSnarker",
-    "ItMakesSenseInContext",
-    "IronicEcho",
-    "ButtMonkey",
-    "HiddenDepths",
-    "EarlyInstallmentWeirdness",
-    "AscendedExtra",
-    "ThrowTheDogABone"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buzz Watson", "show": "Major Crimes", "trope_count": 9, "tropes": ["TheSilentBob", "DeadpanSnarker", "ItMakesSenseInContext", "IronicEcho", "ButtMonkey", "HiddenDepths", "EarlyInstallmentWeirdness", "AscendedExtra", "ThrowTheDogABone"], "tropes_by_category": {}, "similar": [{"name": "Buzz Watson", "show": "Closer, The", "id": "closer_the_buzz_watson", "similarity": 1.0, "shared_tropes": 9}, {"name": "Little Apple", "show": "Annoying Orange", "id": "annoying_orange_little_apple", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Todd Chavez", "show": "BoJack Horseman", "id": "bojack_horseman_todd_chavez", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Brainy", "show": "Hey Arnold!", "id": "hey_arnold_brainy", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Rom", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_rom", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Grover", "show": "Sesame Street", "id": "sesame_street_grover", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Tyler", "show": "Total Drama", "id": "total_drama_tyler", "similarity": 0.0694, "shared_tropes": 5}, {"name": "Merkimer", "show": "Disenchantment", "id": "disenchantment_merkimer", "similarity": 0.0615, "shared_tropes": 4}]}

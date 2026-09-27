@@ -1,15 +1,1 @@
-{
-  "name": "Nikki",
-  "show": "Misfits",
-  "trope_count": 7,
-  "tropes": [
-    "IJustWantToBeNormal",
-    "KilledOffForReal",
-    "BlessedWithSuck",
-    "PowerIncontinence",
-    "DefrostingIceQueen",
-    "ForgottenFallenFriend",
-    "ArsonMurderAndJaywalking"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nikki", "show": "Misfits", "trope_count": 7, "tropes": ["IJustWantToBeNormal", "KilledOffForReal", "BlessedWithSuck", "PowerIncontinence", "DefrostingIceQueen", "ForgottenFallenFriend", "ArsonMurderAndJaywalking"], "tropes_by_category": {}, "similar": [{"name": "Nan", "show": "American Horror Story", "id": "american_horror_story_nan", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Kanade Tachibana / Angel", "show": "Angel Beats!", "id": "angel_beats_kanade_tachibana_angel", "similarity": 0.0396, "shared_tropes": 4}]}

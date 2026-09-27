@@ -1,17 +1,1 @@
-{
-  "name": "Jester",
-  "show": "Jane and the Dragon",
-  "trope_count": 9,
-  "tropes": [
-    "GuileHero",
-    "DeadpanSnarker",
-    "IWantMyBelovedToBeHappy",
-    "DramaQueen",
-    "WordOfGod",
-    "UnderestimatingBadassery",
-    "NonActionGuy",
-    "TheConfidant",
-    "PluckyComicRelief"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jester", "show": "Jane and the Dragon", "trope_count": 9, "tropes": ["GuileHero", "DeadpanSnarker", "IWantMyBelovedToBeHappy", "DramaQueen", "WordOfGod", "UnderestimatingBadassery", "NonActionGuy", "TheConfidant", "PluckyComicRelief"], "tropes_by_category": {}, "similar": [{"name": "Baxter", "show": "Hazbin Hotel", "id": "hazbin_hotel_baxter", "similarity": 0.043, "shared_tropes": 4}]}

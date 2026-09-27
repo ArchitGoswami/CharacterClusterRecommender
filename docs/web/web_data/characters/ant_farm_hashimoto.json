@@ -1,17 +1,1 @@
-{
-  "name": "Hashimoto",
-  "show": "A.N.T Farm",
-  "trope_count": 9,
-  "tropes": [
-    "HonestCorporateExecutive",
-    "ArchEnemy",
-    "BigBad",
-    "TheRival",
-    "TookALevelInJerkass",
-    "StartOfDarkness",
-    "BadBoss",
-    "CorruptCorporateExecutive",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hashimoto", "show": "A.N.T Farm", "trope_count": 9, "tropes": ["HonestCorporateExecutive", "ArchEnemy", "BigBad", "TheRival", "TookALevelInJerkass", "StartOfDarkness", "BadBoss", "CorruptCorporateExecutive", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Mr. Lee", "show": "Deadwood", "id": "deadwood_mr_lee", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Gwendolyn Zapp", "show": "Big City Greens", "id": "big_city_greens_gwendolyn_zapp", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Recurring and one-off characters", "show": "Thunderbirds", "id": "thunderbirds_recurring_and_one_off_characters", "similarity": 0.0667, "shared_tropes": 5}, {"name": "Major Zod", "show": "Smallville", "id": "smallville_major_zod", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Other characters", "show": "Jetsons,The", "id": "jetsonsthe_other_characters", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Oliver Queen / Green Arrow", "show": "Smallville", "id": "smallville_oliver_queen_green_arrow", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Cyril Sneer", "show": "Raccoons, The", "id": "raccoons_the_cyril_sneer", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Mandark", "show": "Dexter's Laboratory", "id": "dexters_laboratory_mandark", "similarity": 0.0382, "shared_tropes": 6}]}

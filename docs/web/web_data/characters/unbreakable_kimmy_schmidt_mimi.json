@@ -1,16 +1,1 @@
-{
-  "name": "Mimi",
-  "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 8,
-  "tropes": [
-    "CloudCuckooLander",
-    "NiceJobBreakingItHero",
-    "GreenEyedMonster",
-    "TheLoad",
-    "BodySushi",
-    "DemotedToExtra",
-    "AmbiguouslyBi",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mimi", "show": "Unbreakable Kimmy Schmidt", "trope_count": 8, "tropes": ["CloudCuckooLander", "NiceJobBreakingItHero", "GreenEyedMonster", "TheLoad", "BodySushi", "DemotedToExtra", "AmbiguouslyBi", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Kozue Kaoru", "show": "Revolutionary Girl Utena", "id": "revolutionary_girl_utena_kozue_kaoru", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Frederico \"Fredo\" Corleone", "show": "The Godfather", "id": "the_godfather_frederico_fredo_corleone", "similarity": 0.058, "shared_tropes": 4}, {"name": "Justin", "show": "Total Drama", "id": "total_drama_justin", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Stiles", "show": "Teen Wolf", "id": "teen_wolf_stiles", "similarity": 0.04, "shared_tropes": 4}]}

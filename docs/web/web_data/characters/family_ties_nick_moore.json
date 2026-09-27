@@ -1,15 +1,1 @@
-{
-  "name": "Nick Moore",
-  "show": "Family Ties",
-  "trope_count": 7,
-  "tropes": [
-    "HellBentForLeather",
-    "RealMenWearPink",
-    "Expy",
-    "TroubledButCute",
-    "FaceOfAThug",
-    "BookDumb",
-    "GreaserDelinquents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nick Moore", "show": "Family Ties", "trope_count": 7, "tropes": ["HellBentForLeather", "RealMenWearPink", "Expy", "TroubledButCute", "FaceOfAThug", "BookDumb", "GreaserDelinquents"], "tropes_by_category": {}, "similar": [{"name": "The Fonz", "show": "Happy Days", "id": "happy_days_the_fonz", "similarity": 0.0377, "shared_tropes": 4}]}

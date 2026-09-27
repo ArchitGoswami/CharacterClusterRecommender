@@ -1,17 +1,1 @@
-{
-  "name": "Druid",
-  "show": "Lost Girl",
-  "trope_count": 9,
-  "tropes": [
-    "EvenBadMenLoveTheirMamas",
-    "DisappearedDad",
-    "ArtificialLimbs",
-    "Manchild",
-    "HalfHumanHybrid",
-    "HeroKiller",
-    "Squick",
-    "IJustWantToBeSpecial",
-    "NeckSnap"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Druid", "show": "Lost Girl", "trope_count": 9, "tropes": ["EvenBadMenLoveTheirMamas", "DisappearedDad", "ArtificialLimbs", "Manchild", "HalfHumanHybrid", "HeroKiller", "Squick", "IJustWantToBeSpecial", "NeckSnap"], "tropes_by_category": {}, "similar": [{"name": "Druid", "show": "Lost", "id": "lost_druid", "similarity": 1.0, "shared_tropes": 9}]}

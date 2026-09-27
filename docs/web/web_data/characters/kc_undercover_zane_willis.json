@@ -1,18 +1,1 @@
-{
-  "name": "Zane Willis",
-  "show": "K.C. Undercover",
-  "trope_count": 10,
-  "tropes": [
-    "ArchnemesisDad",
-    "ArchEnemy",
-    "RevengeBeforeReason",
-    "BigBadFriend",
-    "ArcVillain",
-    "NotGoodWithRejection",
-    "SmugSnake",
-    "KnightOfCerebus",
-    "RankUp",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zane Willis", "show": "K.C. Undercover", "trope_count": 10, "tropes": ["ArchnemesisDad", "ArchEnemy", "RevengeBeforeReason", "BigBadFriend", "ArcVillain", "NotGoodWithRejection", "SmugSnake", "KnightOfCerebus", "RankUp", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Kitty", "show": "Big Mouth", "id": "big_mouth_kitty", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Comm'r Kelly", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_comm_r_kelly", "similarity": 0.129, "shared_tropes": 4}, {"name": "Trigon", "show": "Teen Titans Go!", "id": "teen_titans_go_trigon", "similarity": 0.087, "shared_tropes": 4}, {"name": "Cheng Zhi", "show": "24", "id": "24_cheng_zhi", "similarity": 0.08, "shared_tropes": 4}, {"name": "John Curtis (The Replicator/The BAU Stalker)", "show": "Criminal Minds", "id": "criminal_minds_john_curtis_the_replicator_the_bau_stalker", "similarity": 0.0746, "shared_tropes": 5}, {"name": "Master Chen", "show": "Ninjago", "id": "ninjago_master_chen", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Dyson", "show": "Tron: Uprising", "id": "tron_uprising_dyson", "similarity": 0.069, "shared_tropes": 4}, {"name": "Vexus", "show": "My Life as a Teenage Robot", "id": "my_life_as_a_teenage_robot_vexus", "similarity": 0.0667, "shared_tropes": 4}]}

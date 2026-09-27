@@ -1,18 +1,1 @@
-{
-  "name": "Hills Oonan",
-  "show": "Killjoys",
-  "trope_count": 10,
-  "tropes": [
-    "DirtyCop",
-    "ResignationsNotAccepted",
-    "Foil",
-    "CategoryTraitor",
-    "EvenEvilHasLovedOnes",
-    "TheAlcoholic",
-    "MyGodWhatHaveIDone",
-    "BoomHeadshot",
-    "FaceDeathWithDignity",
-    "BackForTheDead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hills Oonan", "show": "Killjoys", "trope_count": 10, "tropes": ["DirtyCop", "ResignationsNotAccepted", "Foil", "CategoryTraitor", "EvenEvilHasLovedOnes", "TheAlcoholic", "MyGodWhatHaveIDone", "BoomHeadshot", "FaceDeathWithDignity", "BackForTheDead"], "tropes_by_category": {}, "similar": [{"name": "Abruzzi", "show": "Prison Break", "id": "prison_break_abruzzi", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Marcus Junius Brutus", "show": "Rome", "id": "rome_marcus_junius_brutus", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Gemma Teller Morrow (née Madock)", "show": "Sons of Anarchy", "id": "sons_of_anarchy_gemma_teller_morrow_n_e_madock", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Patrick Simmons", "show": "Person of Interest", "id": "person_of_interest_patrick_simmons", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Eli Thompson", "show": "Boardwalk Empire", "id": "boardwalk_empire_eli_thompson", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Jimmy Darmody", "show": "Boardwalk Empire", "id": "boardwalk_empire_jimmy_darmody", "similarity": 0.0455, "shared_tropes": 4}, {"name": "# - F", "show": "Attack on Titan", "id": "attack_on_titan_f", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Hiroshi Sato", "show": "Legend of Korra, The", "id": "legend_of_korra_the_hiroshi_sato", "similarity": 0.0365, "shared_tropes": 5}]}

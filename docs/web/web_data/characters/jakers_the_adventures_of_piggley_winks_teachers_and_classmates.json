@@ -1,18 +1,1 @@
-{
-  "name": "Teachers and Classmates",
-  "show": "Jakers! The Adventures of Piggley Winks",
-  "trope_count": 10,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "CoolTeacher",
-    "TheBully",
-    "BigBad",
-    "TookALevelInKindness",
-    "HiddenDepths",
-    "BadOlBadger",
-    "FriendToAllLivingThings",
-    "SweetTooth",
-    "HiddenHeartOfGold"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Teachers and Classmates", "show": "Jakers! The Adventures of Piggley Winks", "trope_count": 10, "tropes": ["JerkWithAHeartOfGold", "CoolTeacher", "TheBully", "BigBad", "TookALevelInKindness", "HiddenDepths", "BadOlBadger", "FriendToAllLivingThings", "SweetTooth", "HiddenHeartOfGold"], "tropes_by_category": {}, "similar": [{"name": "Mr. Sweeney", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_mr_sweeney", "similarity": 0.2083, "shared_tropes": 5}, {"name": "Whitney Fordman", "show": "Smallville", "id": "smallville_whitney_fordman", "similarity": 0.1923, "shared_tropes": 5}, {"name": "Tina Rex", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_tina_rex", "similarity": 0.1562, "shared_tropes": 5}, {"name": "Steve Rhoades", "show": "Married with Children", "id": "married_with_children_steve_rhoades", "similarity": 0.125, "shared_tropes": 4}, {"name": "Harold", "show": "Hey Arnold!", "id": "hey_arnold_harold", "similarity": 0.0694, "shared_tropes": 5}, {"name": "Da' Samurai", "show": "Samurai Jack", "id": "samurai_jack_da_samurai", "similarity": 0.0588, "shared_tropes": 4}, {"name": "April Ludgate", "show": "Parks and Recreation", "id": "parks_and_recreation_april_ludgate", "similarity": 0.0568, "shared_tropes": 5}, {"name": "Mr. Bean", "show": "Mr. Bean", "id": "mr_bean_mr_bean", "similarity": 0.0541, "shared_tropes": 4}]}

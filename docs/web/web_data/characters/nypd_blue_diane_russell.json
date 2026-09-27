@@ -1,18 +1,1 @@
-{
-  "name": "Diane Russell",
-  "show": "NYPD Blue",
-  "trope_count": 10,
-  "tropes": [
-    "TheBusCameBack",
-    "RedOniBlueOni",
-    "FairCop",
-    "RapeAsBackstory",
-    "IconicSequelCharacter",
-    "TheAlcoholic",
-    "ParentalFavoritism",
-    "PlatonicLifePartners",
-    "NearRapeExperience",
-    "AbusiveParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Diane Russell", "show": "NYPD Blue", "trope_count": 10, "tropes": ["TheBusCameBack", "RedOniBlueOni", "FairCop", "RapeAsBackstory", "IconicSequelCharacter", "TheAlcoholic", "ParentalFavoritism", "PlatonicLifePartners", "NearRapeExperience", "AbusiveParents"], "tropes_by_category": {}, "similar": [{"name": "Derek Morgan", "show": "Criminal Minds", "id": "criminal_minds_derek_morgan", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Det. Elliot Stabler", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_det_elliot_stabler", "similarity": 0.0543, "shared_tropes": 5}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Helen of Troy",
-  "show": "Hercules",
-  "trope_count": 9,
-  "tropes": [
-    "AllGirlsWantBadBoys",
-    "ClassPrincess",
-    "WorldsMostBeautifulWoman",
-    "HairOfGoldHeartOfGold",
-    "BrainlessBeauty",
-    "NiceGirl",
-    "UnrelatedInTheAdaptation",
-    "HiddenDepths",
-    "IronicHell"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Helen of Troy", "show": "Hercules", "trope_count": 9, "tropes": ["AllGirlsWantBadBoys", "ClassPrincess", "WorldsMostBeautifulWoman", "HairOfGoldHeartOfGold", "BrainlessBeauty", "NiceGirl", "UnrelatedInTheAdaptation", "HiddenDepths", "IronicHell"], "tropes_by_category": {}, "similar": [{"name": "Krystal Goderitch", "show": "Orphan Black", "id": "orphan_black_krystal_goderitch", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Courtney Gripling", "show": "As Told by Ginger", "id": "as_told_by_ginger_courtney_gripling", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Jazz Fenton", "show": "Danny Phantom", "id": "danny_phantom_jazz_fenton", "similarity": 0.069, "shared_tropes": 4}, {"name": "Lola Bunny", "show": "Looney Tunes Show, The", "id": "looney_tunes_show_the_lola_bunny", "similarity": 0.0562, "shared_tropes": 5}, {"name": "Nazz", "show": "Ed, Edd n Eddy", "id": "ed_edd_n_eddy_nazz", "similarity": 0.0536, "shared_tropes": 6}, {"name": "Alexis Rose", "show": "Schitts Creek", "id": "schitts_creek_alexis_rose", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Brittany S. Pierce", "show": "Glee", "id": "glee_brittany_s_pierce", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Jules Vaughn", "show": "Euphoria", "id": "euphoria_jules_vaughn", "similarity": 0.0408, "shared_tropes": 4}]}

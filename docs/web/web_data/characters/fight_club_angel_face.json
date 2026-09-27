@@ -1,17 +1,1 @@
-{
-  "name": "Angel Face",
-  "show": "Fight Club",
-  "trope_count": 9,
-  "tropes": [
-    "EyeScream",
-    "PrettyBoy",
-    "FacialHorror",
-    "Invoked",
-    "ManlyGay",
-    "BeautyToBeast",
-    "OnlyKnownByTheirNickname",
-    "Subverted",
-    "NoHoldsBarredBeatdown"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Angel Face", "show": "Fight Club", "trope_count": 9, "tropes": ["EyeScream", "PrettyBoy", "FacialHorror", "Invoked", "ManlyGay", "BeautyToBeast", "OnlyKnownByTheirNickname", "Subverted", "NoHoldsBarredBeatdown"], "tropes_by_category": {}, "similar": []}

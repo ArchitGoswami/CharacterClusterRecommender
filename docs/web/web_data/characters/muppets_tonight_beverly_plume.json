@@ -1,11 +1,1 @@
-{
-  "name": "Beverly Plume",
-  "show": "Muppets Tonight",
-  "trope_count": 3,
-  "tropes": [
-    "VerbalTic",
-    "StraightMan",
-    "NotSoAboveItAll"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Beverly Plume", "show": "Muppets Tonight", "trope_count": 3, "tropes": ["VerbalTic", "StraightMan", "NotSoAboveItAll"], "tropes_by_category": {}, "similar": []}

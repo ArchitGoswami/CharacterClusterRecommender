@@ -1,15 +1,1 @@
-{
-  "name": "Warden Chalmers",
-  "show": "WordGirl",
-  "trope_count": 7,
-  "tropes": [
-    "Catchphrase",
-    "DepartmentOfRedundancyDepartment",
-    "RunningGag",
-    "LiteralMinded",
-    "EveryoneCallsHimBarkeep",
-    "ExtremeOmnivore",
-    "ClothesEatingWager"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Warden Chalmers", "show": "WordGirl", "trope_count": 7, "tropes": ["Catchphrase", "DepartmentOfRedundancyDepartment", "RunningGag", "LiteralMinded", "EveryoneCallsHimBarkeep", "ExtremeOmnivore", "ClothesEatingWager"], "tropes_by_category": {}, "similar": [{"name": "The Swedish Chef", "show": "Muppet Show,The", "id": "muppet_showthe_the_swedish_chef", "similarity": 0.0571, "shared_tropes": 4}]}

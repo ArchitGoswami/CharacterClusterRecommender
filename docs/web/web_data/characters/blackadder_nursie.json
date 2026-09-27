@@ -1,18 +1,1 @@
-{
-  "name": "Nursie",
-  "show": "Blackadder",
-  "trope_count": 10,
-  "tropes": [
-    "DirtyOldWoman",
-    "Expy",
-    "GenderBlenderName",
-    "OldRetainer",
-    "ComicallyMissingThePoint",
-    "EmbarrassingFirstName",
-    "EveryoneCallsHerBarkeep",
-    "MoralityPet",
-    "Cloudcuckoolander",
-    "NoHistoricalFiguresWereHarmed"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nursie", "show": "Blackadder", "trope_count": 10, "tropes": ["DirtyOldWoman", "Expy", "GenderBlenderName", "OldRetainer", "ComicallyMissingThePoint", "EmbarrassingFirstName", "EveryoneCallsHerBarkeep", "MoralityPet", "Cloudcuckoolander", "NoHistoricalFiguresWereHarmed"], "tropes_by_category": {}, "similar": [{"name": "Officer Dangus", "show": "Alvin and the Chipmunks", "id": "alvin_and_the_chipmunks_officer_dangus", "similarity": 0.25, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Ladon Radim",
-  "show": "Stargate Atlantis",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "RedHerringShirt",
-    "TheChessmaster",
-    "DelicateAndSickly",
-    "ManipulativeBastard",
-    "RebelLeader",
-    "TheSmartGuy",
-    "MoralityPet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ladon Radim", "show": "Stargate Atlantis", "trope_count": 8, "tropes": ["HeelFaceTurn", "RedHerringShirt", "TheChessmaster", "DelicateAndSickly", "ManipulativeBastard", "RebelLeader", "TheSmartGuy", "MoralityPet"], "tropes_by_category": {}, "similar": [{"name": "Brainiac", "show": "Smallville", "id": "smallville_brainiac", "similarity": 0.0408, "shared_tropes": 4}]}

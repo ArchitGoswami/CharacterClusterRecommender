@@ -1,15 +1,1 @@
-{
-  "name": "The President of Outer Space",
-  "show": "Duck Dodgers",
-  "trope_count": 7,
-  "tropes": [
-    "BrainBleach",
-    "DeathGlare",
-    "OurPresidentsAreDifferent",
-    "DistressedDude",
-    "SignatureHeadgear",
-    "BehindEveryGreatMan",
-    "CaughtInEmbarrassingAct"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The President of Outer Space", "show": "Duck Dodgers", "trope_count": 7, "tropes": ["BrainBleach", "DeathGlare", "OurPresidentsAreDifferent", "DistressedDude", "SignatureHeadgear", "BehindEveryGreatMan", "CaughtInEmbarrassingAct"], "tropes_by_category": {}, "similar": []}

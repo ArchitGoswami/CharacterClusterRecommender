@@ -552,7 +552,35 @@
       ],
       "description": "Batman Gambit: Actually manages to pull off a pretty elaborate one againstJinks and Claudia in order to free Paracelsus. Human Resources: What he's being used for when the Warehouse agents save him. The Mole: For his mother, Charlotte. Street Urchin: Poses as one to get close to Claudia. Really Seven Hundred Years Old:Was made immortal with his parents, and hasn't aged since.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Professor Bennett Sutton/The Count of St. Germain",
+      "media_title": "Warehouse 13",
+      "tropes": [
+        "OOCIsSeriousBusiness",
+        "HistoricalDomainCharacter",
+        "LovableRogue",
+        "ReallySevenHundredYearsOld",
+        "ConMan",
+        "WhoWantsToLiveForever",
+        "TheScapegoat",
+        "PapaWolf",
+        "CainAndAbel",
+        "TheAlcoholic"
+      ],
+      "description": "The Alcoholic: How he copes with the centuries. Cain and Abel: With his brother,Paracelsus. Con Man: How he gets by. Historical Domain Character:The Count of St. Germainwas a real person rumored to be an immortal alchemist. Lovable Rogue: He's an unrepentant conman, but he's so darn charming.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Charlotte Dupres/The Countess of St. Germain",
+      "media_title": "Warehouse 13",
+      "tropes": [
+        "ReallySevenHundredYearsOld",
+        "ActionMom"
+      ],
+      "description": "Action Mom: She'sNick'smother. Really Seven Hundred Years Old",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 21
+  "character_count": 23
 }

@@ -1,17 +1,1 @@
-{
-  "name": "Garrett Randall",
-  "show": "Yellowstone",
-  "trope_count": 9,
-  "tropes": [
-    "TheManBehindTheMan",
-    "Blackmail",
-    "WellDoneSonGuy",
-    "SuicideByCop",
-    "ItsPersonal",
-    "SoProudOfYou",
-    "MetaphoricallyTrue",
-    "WalkingSpoiler",
-    "IDidWhatIHadToDo"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Garrett Randall", "show": "Yellowstone", "trope_count": 9, "tropes": ["TheManBehindTheMan", "Blackmail", "WellDoneSonGuy", "SuicideByCop", "ItsPersonal", "SoProudOfYou", "MetaphoricallyTrue", "WalkingSpoiler", "IDidWhatIHadToDo"], "tropes_by_category": {}, "similar": [{"name": "Tom Card", "show": "Burn Notice", "id": "burn_notice_tom_card", "similarity": 0.1176, "shared_tropes": 4}, {"name": "The Director", "show": "Red vs Blue", "id": "red_vs_blue_the_director", "similarity": 0.036, "shared_tropes": 5}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Zarnot",
-  "show": "Yin Yang Yo!",
-  "trope_count": 8,
-  "tropes": [
-    "EvilIsHammy",
-    "LivingToys",
-    "HumongousMecha",
-    "CrazyJealousGuy",
-    "DarkIsEvil",
-    "CardCarryingVillain",
-    "BroughtToYouByTheLetterS",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zarnot", "show": "Yin Yang Yo!", "trope_count": 8, "tropes": ["EvilIsHammy", "LivingToys", "HumongousMecha", "CrazyJealousGuy", "DarkIsEvil", "CardCarryingVillain", "BroughtToYouByTheLetterS", "ButtMonkey"], "tropes_by_category": {}, "similar": []}

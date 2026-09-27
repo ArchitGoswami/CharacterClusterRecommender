@@ -1,15 +1,1 @@
-{
-  "name": "Elliot",
-  "show": "Euphoria",
-  "trope_count": 7,
-  "tropes": [
-    "DistaffCounterpart",
-    "KarmaHoudini",
-    "KickTheDog",
-    "SatelliteLoveInterest",
-    "Hypocrite",
-    "AmbiguouslyBi",
-    "FunctionalAddict"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elliot", "show": "Euphoria", "trope_count": 8, "tropes": ["Hypocrite", "FunctionalAddict", "KarmaHoudini", "SatelliteLoveInterest", "DistaffCounterpart", "KickTheDog", "AmbiguouslyBi", "UnwittingInstigatorOfDoom"], "tropes_by_category": {}, "similar": [{"name": "Alex Standall", "show": "Thirteen Reasons Why", "id": "thirteen_reasons_why_alex_standall", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Jimbo Kern and Ned Gerblansky", "show": "South Park", "id": "south_park_jimbo_kern_and_ned_gerblansky", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Gerald Broflovski", "show": "South Park", "id": "south_park_gerald_broflovski", "similarity": 0.0472, "shared_tropes": 5}]}

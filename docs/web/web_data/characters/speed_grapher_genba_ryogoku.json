@@ -1,18 +1,1 @@
-{
-  "name": "Genba Ryogoku",
-  "show": "Speed Grapher",
-  "trope_count": 10,
-  "tropes": [
-    "AloofAlly",
-    "TheMedic",
-    "HospitalHottie",
-    "NiceGuy",
-    "SavvyGuyEnergeticGirl",
-    "PairTheSpares",
-    "NonActionGuy",
-    "ActionSurvivor",
-    "WeakButSkilled",
-    "TallDarkAndHandsome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Genba Ryogoku", "show": "Speed Grapher", "trope_count": 10, "tropes": ["AloofAlly", "TheMedic", "HospitalHottie", "NiceGuy", "SavvyGuyEnergeticGirl", "PairTheSpares", "NonActionGuy", "ActionSurvivor", "WeakButSkilled", "TallDarkAndHandsome"], "tropes_by_category": {}, "similar": [{"name": "Wil Ohmsford", "show": "Shannara Chronicles, The", "id": "shannara_chronicles_the_wil_ohmsford", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Dende", "show": "Dragon Ball", "id": "dragon_ball_dende", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Justin Russo", "show": "Wizards of Waverly Place", "id": "wizards_of_waverly_place_justin_russo", "similarity": 0.04, "shared_tropes": 4}]}

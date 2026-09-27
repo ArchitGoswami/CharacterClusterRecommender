@@ -1,11 +1,1 @@
-{
-  "name": "Psycho",
-  "show": "Misfits",
-  "trope_count": 3,
-  "tropes": [
-    "EvilWearsBlack",
-    "StalkerWithACrush",
-    "GracefulLoser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Psycho", "show": "Misfits", "trope_count": 3, "tropes": ["EvilWearsBlack", "StalkerWithACrush", "GracefulLoser"], "tropes_by_category": {}, "similar": []}

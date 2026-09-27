@@ -1,17 +1,1 @@
-{
-  "name": "Quon Le",
-  "show": "Night Court",
-  "trope_count": 9,
-  "tropes": [
-    "ClingyJealousGirl",
-    "ShoutOut",
-    "SmittenTeenageGirl",
-    "HugeGuyTinyGirl",
-    "CitizenshipMarriage",
-    "WhoNamesTheirKidDude",
-    "MsRedInk",
-    "FunnyForeigner",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Quon Le", "show": "Night Court", "trope_count": 9, "tropes": ["ClingyJealousGirl", "ShoutOut", "SmittenTeenageGirl", "HugeGuyTinyGirl", "CitizenshipMarriage", "WhoNamesTheirKidDude", "MsRedInk", "FunnyForeigner", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "The Jetsons", "show": "Jetsons,The", "id": "jetsonsthe_the_jetsons", "similarity": 0.0364, "shared_tropes": 4}]}

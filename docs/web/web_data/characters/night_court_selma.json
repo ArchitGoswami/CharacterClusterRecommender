@@ -1,16 +1,1 @@
-{
-  "name": "Selma",
-  "show": "Night Court",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "HugeGuyTinyGirl",
-    "TheDanza",
-    "MamaBear",
-    "SerialSpouse",
-    "CoolOldLady",
-    "DopeSlap",
-    "TheCharacterDiedWithHer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Selma", "show": "Night Court", "trope_count": 8, "tropes": ["DeadpanSnarker", "HugeGuyTinyGirl", "TheDanza", "MamaBear", "SerialSpouse", "CoolOldLady", "DopeSlap", "TheCharacterDiedWithHer"], "tropes_by_category": {}, "similar": []}

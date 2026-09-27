@@ -1,12 +1,1 @@
-{
-  "name": "Sal Minella",
-  "show": "Muppets Tonight",
-  "trope_count": 4,
-  "tropes": [
-    "ThoseTwoGuys",
-    "DemotedToExtra",
-    "EarlyBirdCameo",
-    "HeterosexualLifePartners"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sal Minella", "show": "Muppets Tonight", "trope_count": 4, "tropes": ["ThoseTwoGuys", "DemotedToExtra", "EarlyBirdCameo", "HeterosexualLifePartners"], "tropes_by_category": {}, "similar": [{"name": "Sal Minella", "show": "Muppets,The", "id": "muppetsthe_sal_minella", "similarity": 1.0, "shared_tropes": 4}]}

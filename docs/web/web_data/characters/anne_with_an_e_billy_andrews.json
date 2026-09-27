@@ -1,16 +1,1 @@
-{
-  "name": "Billy Andrews",
-  "show": "Anne With an E",
-  "trope_count": 8,
-  "tropes": [
-    "DefiledForever",
-    "Jerkass",
-    "DomesticAbuse",
-    "HateSink",
-    "IntendedAudienceReaction",
-    "RelatedInTheAdaptation",
-    "ItsAllAboutMe",
-    "PoliticallyIncorrectVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Billy Andrews", "show": "Anne With an E", "trope_count": 8, "tropes": ["DefiledForever", "Jerkass", "DomesticAbuse", "HateSink", "IntendedAudienceReaction", "RelatedInTheAdaptation", "ItsAllAboutMe", "PoliticallyIncorrectVillain"], "tropes_by_category": {}, "similar": [{"name": "Mike Holden", "show": "Shield,The", "id": "shieldthe_mike_holden", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Vance Waggoner", "show": "BoJack Horseman", "id": "bojack_horseman_vance_waggoner", "similarity": 0.1429, "shared_tropes": 5}, {"name": "Lonnie Byers", "show": "Stranger Things", "id": "stranger_things_lonnie_byers", "similarity": 0.1282, "shared_tropes": 5}, {"name": "Neil Hargrove", "show": "Stranger Things", "id": "stranger_things_neil_hargrove", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Mad Dog", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_mad_dog", "similarity": 0.1064, "shared_tropes": 5}, {"name": "Keller", "show": "Oz", "id": "oz_keller", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Carter Pewterschmidt", "show": "Family Guy", "id": "family_guy_carter_pewterschmidt", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Gaius Claudius Glaber", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_gaius_claudius_glaber", "similarity": 0.0645, "shared_tropes": 4}]}

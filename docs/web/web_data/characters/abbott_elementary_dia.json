@@ -1,16 +1,1 @@
-{
-  "name": "Dia",
-  "show": "Abbott Elementary",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "OddFriendship",
-    "NotSoAboveItAll",
-    "TheDogWasTheMastermind",
-    "HiddenDepths",
-    "PerenniallyOvershadowedBirthday",
-    "EveryoneHasStandards",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dia", "show": "Abbott Elementary", "trope_count": 9, "tropes": ["HiddenDepths", "NotSoAboveItAll", "TheDogWasTheMastermind", "TheDogBitesBack", "DeadpanSnarker", "OddFriendship", "EveryoneHasStandards", "FreudianExcuse", "PerenniallyOvershadowedBirthday"], "tropes_by_category": {}, "similar": []}

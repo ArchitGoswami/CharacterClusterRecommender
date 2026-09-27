@@ -1,18 +1,1 @@
-{
-  "name": "Terry and Dennis",
-  "show": "Trailer Park Boys",
-  "trope_count": 10,
-  "tropes": [
-    "Yakuza",
-    "MaleFrontalNudity",
-    "Jerkass",
-    "TooDumbToLive",
-    "TheQuietOne",
-    "WhatHappenedToTheMouse",
-    "AssholeVictim",
-    "GratuitousJapanese",
-    "CoDragons",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Terry and Dennis", "show": "Trailer Park Boys", "trope_count": 10, "tropes": ["Yakuza", "MaleFrontalNudity", "Jerkass", "TooDumbToLive", "TheQuietOne", "WhatHappenedToTheMouse", "AssholeVictim", "GratuitousJapanese", "CoDragons", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Tyrus Kitt", "show": "Breaking Bad", "id": "breaking_bad_tyrus_kitt", "similarity": 0.1163, "shared_tropes": 5}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Buddy Blue",
-  "show": "Rainbow Brite",
-  "trope_count": 7,
-  "tropes": [
-    "AmusingInjuries",
-    "TheGhost",
-    "LovableJock",
-    "AcademicAthlete",
-    "VerbalTic",
-    "MeaningfulName",
-    "BlueIsHeroic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buddy Blue", "show": "Rainbow Brite", "trope_count": 7, "tropes": ["AmusingInjuries", "TheGhost", "LovableJock", "AcademicAthlete", "VerbalTic", "MeaningfulName", "BlueIsHeroic"], "tropes_by_category": {}, "similar": [{"name": "Brick", "show": "Total Drama", "id": "total_drama_brick", "similarity": 0.0909, "shared_tropes": 4}]}

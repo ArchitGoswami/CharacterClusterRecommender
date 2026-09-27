@@ -1,15 +1,1 @@
-{
-  "name": "Mayor Winston",
-  "show": "Spin City",
-  "trope_count": 7,
-  "tropes": [
-    "PointyHairedBoss",
-    "HypercompetentSidekick",
-    "AndStarring",
-    "CrouchingMoronHiddenBadass",
-    "BunnyEarsLawyer",
-    "Flanderization",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mayor Winston", "show": "Spin City", "trope_count": 7, "tropes": ["PointyHairedBoss", "HypercompetentSidekick", "AndStarring", "CrouchingMoronHiddenBadass", "BunnyEarsLawyer", "Flanderization", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Lt. Randy Disher", "show": "Monk", "id": "monk_lt_randy_disher", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Eric Matthews", "show": "Boy Meets World", "id": "boy_meets_world_eric_matthews", "similarity": 0.0714, "shared_tropes": 4}, {"name": "The Mayor of Townsville", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_the_mayor_of_townsville", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Captain Duck Dodgers", "show": "Duck Dodgers", "id": "duck_dodgers_captain_duck_dodgers", "similarity": 0.0568, "shared_tropes": 5}, {"name": "Leslie Knope", "show": "Parks and Recreation", "id": "parks_and_recreation_leslie_knope", "similarity": 0.0467, "shared_tropes": 5}, {"name": "Carlton Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_carlton_banks", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Pierce Hawthorne", "show": "Community", "id": "community_pierce_hawthorne", "similarity": 0.0394, "shared_tropes": 5}, {"name": "Reese", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_reese", "similarity": 0.0377, "shared_tropes": 4}]}

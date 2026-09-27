@@ -1,14 +1,1 @@
-{
-  "name": "Carson Clay",
-  "show": "Mr. Bean",
-  "trope_count": 6,
-  "tropes": [
-    "PrimaDonnaDirector",
-    "PetTheDog",
-    "BigBad",
-    "LeFilmArtistique",
-    "ItsAllAboutMe",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carson Clay", "show": "Mr. Bean", "trope_count": 7, "tropes": ["LargeHam", "PetTheDog", "LeFilmArtistique", "BigBad", "ItsAllAboutMe", "PrimaDonnaDirector", "SureLetsGoWithThat"], "tropes_by_category": {}, "similar": []}

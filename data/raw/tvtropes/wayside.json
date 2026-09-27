@@ -30,21 +30,22 @@
       "name": "Todd",
       "media_title": "Wayside",
       "tropes": [
-        "MyGreatestFailure",
-        "ChildishToothGap",
-        "NiceGuy",
-        "RedIsHeroic",
-        "SheIsNotMyGirlfriend",
-        "NoGuyWantsToBeChased",
-        "CompositeCharacter",
-        "ChildHater",
         "AdaptationalProtagonist",
-        "SensitiveGuyAndManlyMan",
+        "ChildishToothGap",
+        "MasculineGirlFeminineBoy",
+        "NiceGuy",
+        "PinkGirlBlueBoy",
+        "SheIsNotMyGirlfriend",
+        "ChildHater",
+        "ButtMonkey",
+        "OnlySaneMan",
         "NewTransferStudent",
         "FatAndSkinny",
-        "OnlySaneMan",
-        "PinkGirlBlueBoy",
-        "ButtMonkey",
+        "RedIsHeroic",
+        "MyGreatestFailure",
+        "CompositeCharacter",
+        "SensitiveGuyAndManlyMan",
+        "NoGuyWantsToBeChased",
         "AudienceSurrogate"
       ],
       "description": "Adaptational Protagonist: As evidenced by the pilot movie, he plays this role since the original books were just short stories about the students of the school, so there wasn't really a main character in the book series. Audience Surrogate: He's the nice and unassuming everyman that helps to ease the audience into an absurd setting. Butt-Monkey: From being constantly punched by Maurecia to getting sent home early on the kindergarten bus almost every day, he just can't catch a break. Child Hater: Downplayed. He doesn't dislike the kindergarten children, but finds them needlessly annoying, loud and gross. Childish Tooth Gap: To better represent how innocent he is.",
@@ -54,33 +55,34 @@
       "name": "Maurecia",
       "media_title": "Wayside",
       "tropes": [
-        "MagicSkirt",
-        "InformedAbility",
-        "MassiveNumberedSiblings",
-        "CardiovascularLove",
-        "PunchedAcrossTheRoom",
         "ActionGirl",
-        "NoGuyWantsToBeChased",
-        "Tsundere",
-        "SmarterThanYouLook",
-        "FatAndSkinny",
-        "PinkGirlBlueBoy",
-        "PinkMeansFeminine",
-        "WingdingEyes",
-        "MegatonPunch",
-        "NotGoodWithRejection",
-        "TomboyAndGirlyGirl",
-        "EarlyInstallmentWeirdness",
-        "TomboyishPonytail",
-        "CharacterTic",
-        "AbhorrentAdmirer",
-        "AdaptationalBadass",
-        "RollerbladeGood",
-        "Catchphrase",
-        "CoolHelmet",
-        "TomboyWithAGirlyStreak",
         "OcularGushers",
-        "TraumaticSuperpowerAwakening"
+        "RollerbladeGood",
+        "MegatonPunch",
+        "PunchedAcrossTheRoom",
+        "NoGuyWantsToBeChased",
+        "TomboyishPonytail",
+        "WingdingEyes",
+        "NotGoodWithRejection",
+        "AdaptationalBadass",
+        "FatAndSkinny",
+        "AbhorrentAdmirer",
+        "Catchphrase",
+        "Tsundere",
+        "PinkMeansFeminine",
+        "TomboyAndGirlyGirl",
+        "TraumaticSuperpowerAwakening",
+        "TomboyWithAGirlyStreak",
+        "PinkGirlBlueBoy",
+        "InformedAbility",
+        "CharacterTic",
+        "CoolHelmet",
+        "CardiovascularLove",
+        "EarlyInstallmentWeirdness",
+        "MasculineGirlFeminineBoy",
+        "MassiveNumberedSiblings",
+        "SmarterThanYouLook",
+        "MagicSkirt"
       ],
       "description": "Abhorrent Admirer: To Todd, who considers her a good friend, but is put off by her constantaggressivenessandstraightforwardness. Adaptational Badass: Kind of. The books claim she can beat up any other kid in the classroom, but this is more of anInformed Ability. Her animated namesake is an actualAction Girlfrom the get-go. Further illustrating the point, the children collectively defeat Mrs. Gorf in the original story, whereas the show explains that Maurecia single-handedly took her down. Cardiovascular Love: Beams hearts all over the place when she's around Todd. Once, out of herears. If he rejects her, they all break in two. Catchphrase: She has two: \"Hi, Todd\" and \"Oh, Todd\". Character Tic: Punching Todd to express her love for him.",
       "source": "tvtropes"
@@ -89,40 +91,47 @@
       "name": "Myron",
       "media_title": "Wayside",
       "tropes": [
-        "HypercompetentSidekick",
-        "AGodAmI",
-        "NiceGuy",
-        "KarmicButtMonkey",
+        "FatIdiot",
+        "TookALevelInJerkAss",
         "PlatonicLifePartners",
-        "ButtMonkey",
-        "EveryoneHasStandards",
-        "JerkWithAHeartOfGold",
-        "SubvertedTrope",
-        "BatmanGambit",
-        "FatBestFriend",
-        "FatAndSkinny",
-        "VitriolicBestBuds",
-        "TokenMinority",
-        "ItsAllAboutMe",
-        "ShamefulShrinking",
-        "LaserGuidedKarma",
-        "SmallNameBigEgo",
-        "AllTakeAndNoGive",
+        "AGodAmI",
+        "JerkAss",
+        "AttentionWhore",
         "BlindObedience",
-        "SensitiveGuyAndManlyMan",
-        "RaceLift",
-        "TheFriendNobodyLikes",
-        "Irony",
+        "SmallNameBigEgo",
+        "BatmanGambit",
+        "ItsAllAboutMe",
         "BlackAndNerdy",
+        "FatAndSkinny",
+        "HypercompetentSidekick",
+        "EveryoneHasStandards",
         "Catchphrase",
+        "JerkWithAHeartOfGold",
+        "KarmicButtMonkey",
+        "TheFriendNobodyLikes",
         "ChallengeSeeker",
-        "FakeTwinGambit",
         "WithFriendsLikeThese",
-        "DrunkWithPower",
+        "ShamefulShrinking",
+        "ButtMonkey",
+        "Jerkass",
+        "DelusionsOfPopularity",
+        "SubvertedTrope",
+        "AllTakeAndNoGive",
+        "NiceGuy",
+        "RaceLift",
+        "FatBestFriend",
+        "VitriolicBestBuds",
+        "FakeTwinGambit",
+        "VocalEvolution",
+        "AssholeVictim",
+        "TokenMinority",
         "AdaptationalPersonalityChange",
-        "FatIdiot"
+        "Irony",
+        "DrunkWithPower",
+        "SensitiveGuyAndManlyMan",
+        "LaserGuidedKarma"
       ],
-      "description": "Adaptational Personality Change: According to \"Mrs. Gorf\", Myron was once the heroic and selfless boy he was in the book, but his fear of the substitute and instinct for self-preservation made him the selfish and cowardly person he is now. Batman Gambit: He pulls off averycunning one in \"Le Race\", where he tricks Le Chef into handing him an effortless victory for the school by taking advantage of hisChallenge Seekertendencies by tricking him into carrying him to the top of the school on his back just by challenging him to do so, jumping off of his back and landing on the School's roof before he could. Black and Nerdy: He's dark skinned and wears glasses to convey his nerdy uncoolness. Blind Obedience: Adores Kidswatter's prestige and power with a passion, even in spite of theirAll Take and No Give-style relationship. Butt-Monkey: He's often subject to humiliation and misfortune thanks to his Jerkass behavior.",
+      "description": "Adaptational Personality Change: According to \"Mrs. Gorf\", Myron was once the heroic and selfless boy he was in the book, but his fear of the substitute and instinct for self-preservation made him the selfish and cowardly person he is now. Asshole Victim: He becomes one in both \"Dr. Dana\" and \"Upside Down John\" considering that both episodes end with him gettingLaser-Guided Karmafor hisJerkassactions. Attention Whore: He always tries to get attention from everyone and gets upset when no one pays attention to him. Batman Gambit: He pulls off averycunning one in \"Le Race\", where he tricks Le Chef into handing him an effortless victory for the school by taking advantage of hisChallenge Seekertendencies by tricking him into carrying him to the top of the school on his back just by challenging him to do so, jumping off of his back and landing on the School's roof before he could. Black and Nerdy: He's dark skinned and wears glasses to convey his nerdy uncoolness.",
       "source": "tvtropes"
     },
     {
@@ -130,18 +139,19 @@
       "media_title": "Wayside",
       "tropes": [
         "Catchphrase",
-        "SignatureLaugh",
-        "RulesLawyer",
         "SmartPeopleWearGlasses",
+        "DitzyGenius",
         "MassiveNumberedSiblings",
-        "FatAndSkinny",
         "PlatonicLifePartners",
+        "SignatureLaugh",
+        "FatAndSkinny",
         "GreatBigBookOfEverything",
-        "TomboyAndGirlyGirl",
+        "BewareTheNiceOnes",
+        "RulesLawyer",
         "GoGetterGirl",
-        "DitzyGenius"
+        "TomboyAndGirlyGirl"
       ],
-      "description": "Catchphrase: \"Enough with the fun!\" This follows herSignature Laugh. Ditzy Genius: Goofy as all get-out, but likely the smartest in the class. Fat and Skinny: She's the skinny to Myron's fat. Go-Getter Girl: Adores discipline and her academics, and falters at the implication that she might not be as smart or meticulous as she could be. Great Big Book of Everything: Keeps one around at all times to explain the rules and world of Wayside.",
+      "description": "Beware the Nice Ones: Despite being a happy-go-luckyGo-Getter Girlshe's not above screaming \"Enough with the fun!\" after giggling and she's also not above berating Myron when he annoys her with his selfishness. Catchphrase: \"Enough with the fun!\" This follows herSignature Laugh. Ditzy Genius: Goofy as all get-out, but likely the smartest in the class. Fat and Skinny: She's the skinny to Myron's fat. Go-Getter Girl: Adores discipline and her academics, and falters at the implication that she might not be as smart or meticulous as she could be.",
       "source": "tvtropes"
     },
     {
@@ -162,10 +172,13 @@
       "name": "Joe",
       "media_title": "Wayside",
       "tropes": [
-        "EyesOutOfSight",
-        "NatureLover"
+        "VitriolicBestBuds",
+        "GirlsHaveCooties",
+        "GeniusDitz",
+        "JerkWithAHeartOfGold",
+        "BreakTheCutie"
       ],
-      "description": "Eyes Out of Sight: His afro covers his eyes. In \"Cabbage, My Boy\", his siblings are revealed to have orange, curly, eye-covering hair as well, as shown in his models of them. Nature Lover: In \"Joe n' Fro,\" he transforms his hair into a wildlife refuge for the animals displaced by Mr. Kidswatter's yard beautification project.",
+      "description": "A student with many talents, most notably his strange mathematical methods, which always return the right answers no matter how strange the process. Break the Cutie:Is humiliated when Mr. Gorf calls his mom impersonating him on the phone, to tell her that he hates her and wishes his dad will marry someone good this time. The rest of the class, who already listened in on a similar phone conversation involving Rondi, tried hard not to look at him when it was announced he would be going next, feeling VERY sorry for him. Genius Ditz: Despite never figuring out math problems in the right way, he always manages to get the right answer. Girls Have Cooties: When asked whathis suggestion for Mrs. Jewls' new baby name if it was a girl, he suggested \"cootie-face\". Jerk with a Heart of Gold: He may be rude at times, but he means well.",
       "source": "tvtropes"
     },
     {
@@ -208,30 +221,43 @@
       "name": "Shari",
       "media_title": "Wayside",
       "tropes": [
+        "EyesAlwaysShut",
         "AsleepInClass",
-        "LittleMissBadass",
-        "AdaptationNameChange"
+        "AdaptationNameChange",
+        "LittleMissBadass"
       ],
-      "description": "Adaptation Name Change: \"Sharie\" in the books, \"Shari\" here. Asleep in Class: Her whole schtick. Little Miss Badass: When she's out of school (and awake), she and her family spend time with each other by driving monster trucks, doing martial arts, skateboarding, and skydiving.",
+      "description": "Adaptation Name Change: \"Sharie\" in the books, \"Shari\" here. Asleep in Class: Her whole schtick. Eyes Always Shut: Her eyes are always closed thanks to her sleeping all of the time. Little Miss Badass: When she's out of school (and awake), she and her family spend time with each other by driving monster trucks, doing martial arts, skateboarding, and skydiving.",
       "source": "tvtropes"
     },
     {
       "name": "Jenny",
       "media_title": "Wayside",
       "tropes": [
-        "ActionGirl"
+        "NeverBareHeaded",
+        "DaddysGirl",
+        "CannotKeepASecret",
+        "OutOfFocus",
+        "TheDogBitesBack",
+        "DoesNotLikeSpam",
+        "BigDamnHeroes",
+        "AllGirlsLikePonies",
+        "BrutalHonesty",
+        "DirtyKid"
       ],
-      "description": "Action Girl: She's a daredevil.",
+      "description": "All Girls Like Ponies: She was really excited at the chance to go horseback riding for the first time. However, Miss Nogard then told her a tale of how her nephew got injured while horseback riding, and Jenny lost hope. Cannot Keep a Secret: When the whole 30th story class finds out about Louis' crush onMs. Nogard, they at least keep it a secret from her. Except for Jenny, whostraight up tells the substitute teacher to her face that he likes her. Daddy's Girl: Her father drives her to school on his motorcycle, and she kisses him on the cheek every time she leaves. Dirty Kid: She giggled like crazy when Dana whispered to her a special place on Calvin’s body where he can have his tattoo. Does Not Like Spam: Shehatesprune juice, and once shows up to school late because she doesn't want to drink it.",
       "source": "tvtropes"
     },
     {
       "name": "Rondi",
       "media_title": "Wayside",
       "tropes": [
-        "TrueBlueFemininity",
-        "PerpetualSmiler"
+        "BerserkButton",
+        "ChildishToothGap",
+        "WithFriendsLikeThese",
+        "HairOfGoldHeartOfGold",
+        "BreakTheCutie"
       ],
-      "description": "Perpetual Smiler: She usually has a big grin on her face. True Blue Femininity: She wears a blue dress.",
+      "description": "Berserk Button: She doesn't like it when people compliment her about things she doesn't have, especially her missing teeth. When Louis asks her to smile and show him her missing teeth, she gets so enraged that she socks him in the stomach and bites his arm. Break the Cutie:When Mr. Gorf steals the kids' voices, he decides to use this by calling each of their parents and pretending to be them. He starts with Rondi, calling her mother and telling her that \"she\" hates her. After Mr. Gorf hangs up the phone, Rondi starts crying her eyes out. She manages to call her back after regaining her voice and tell her that message was faked, but the damage is probably done. Childish Tooth Gap: Had this until the second book. Hair of Gold, Heart of Gold: Has blonde hair, and is usually a sweetheart. With Friends Like These...: Her best friend is Allison, who apparently knocked out her front teeth.",
       "source": "tvtropes"
     },
     {
@@ -250,21 +276,25 @@
       "name": "Eric Ovens",
       "media_title": "Wayside",
       "tropes": [
-        "BigThinShortTrio",
-        "AdaptationNameChange"
+        "NiceGuy",
+        "NiceMeanAndInBetween",
+        "TheGenericGuy",
+        "IronicNickname"
       ],
-      "description": "Adaptation Name Change: In the books, he would be Eric Fry, as Eric Ovens was the short and fat one. Big, Thin, Short Trio: He's the big member.",
+      "description": "The Generic Guy: Compared to the other Erics, Ovens doesn't have much in terms of personality that make him stand out. Becomes a plot point in the fourth book where he feels ignored by his peers and doesn't want to feel like a nobody. Ironic Nickname: \"Crabapple.\" Eric Fry and Eric Bacon both became mean as a result of their terrible nicknames, so the other students assume that all Erics must be mean as well. Eric Ovens, however, is one of the nicest kids in the class. Nice Guy: Is said to be the nicest person in class. However, since the other Erics tend to be mean, he is assumed to be mean, too. Nice, Mean, and In-Between: The Nice to Eric Bacon's Mean and Eric Fry's In-Between.",
       "source": "tvtropes"
     },
     {
       "name": "Eric Bacon",
       "media_title": "Wayside",
       "tropes": [
-        "BigThinShortTrio",
-        "IJustWantToBeSpecial",
-        "AdaptationNameChange"
+        "BlatantLies",
+        "IronicNickname",
+        "DeadpanSnarker",
+        "LeanAndMean",
+        "NiceMeanAndInBetween"
       ],
-      "description": "Adaptation Name Change: In the books, he would be Eric Ovens, as Eric Bacon was the thin one. Big, Thin, Short Trio: He's the short member. I Just Want to Be Special: He sometimes strays from the other two Erics because he feels underappreciated compared to them.",
+      "description": "Blatant Lies: When Mr. Kidswatter asks him if he has gotten a haircut recently, Eric replies that he NEVER gets a haircut because he is bald and is wearing a wig. He said that after he brushed his hair right in front of the principal. Deadpan Snarker: He even snarks at Principal Kidswatter when called into his office. Ironic Nickname: \"Fatso.\" Eric Fry and Eric Ovens are both fat. He's the skinniest kid in class, but everyone just assumes that all Erics must be fat, due to the other two. Lean and Mean: Is the skinniest person in the class, and he is very sneaky and once dropped a very mean note about Mr. Kidswatter near him so he can read it. Nice, Mean, and In-Between: The Mean to Eric Fry's In-Between and Eric Ovens' Nice.",
       "source": "tvtropes"
     },
     {
@@ -290,65 +320,68 @@
       "name": "Mrs. Jewls",
       "media_title": "Wayside",
       "tropes": [
-        "ThisIsGonnaSuck",
-        "PinkMeansFeminine",
-        "ExpressiveSquiggleMouth",
-        "GracefulLadiesLikePurple",
-        "TomboyAndGirlyGirl",
-        "Cloudcuckoolander",
-        "RoseHairedSweetie"
+        "BerserkButton",
+        "GivenNameReveal",
+        "CloudcuckoolandersMinder",
+        "PutOnABus",
+        "JerkassToOne",
+        "CoolTeacher",
+        "SplitPersonality",
+        "InvertedTrope"
       ],
-      "description": "Cloudcuckoolander: She's pretty eccentric, with plenty of strange rules and lessons. Expressive Squiggle Mouth: In “Teacher’s Parent Conference”, Mrs. Jewels’ mouth turns into a squiggly line after reading Todd’s note to “see him after class” on her teacher report card sincethat means they would have to have a teacher-parent conference with her father. Graceful Ladies Like Purple: She wears purple pants and is a great acrobat and figure skater. Pink Means Feminine/Rose-Haired Sweetie: Her hair is hot pink, and she has a bubbly personality to match. Tomboy and Girly Girl: The Girly Girl to Miss Mush's Tomboy.",
+      "description": "The teacher of Wayside School's thirtieth story. She is an incredibly nice teacher, despite occasionally having some... questionable teaching methods. Berserk Button: Losing, or even worse,bendinga paper clip is shown to be a serious offense in Mrs. Jewls' class. She gives each student a paper clip at the start of the year, and makes it their goal to keep it. Cloudcuckoolander's Minder: Although not \"normal\" by any stretch of the imagination, Mrs. Jewls often serves as this to the students in her class. Cool Teacher: She's stated to be the nicest teacher at Wayside School, and for the most part, she is, showing great care for her students, and occasionally adapting to whatever methods of teaching help them learn best. Given Name Reveal: A true/false test inSideways Arithmeticasks whether her name is Shirley. Working out the test in fullwill show thatit isn't.",
       "source": "tvtropes"
     },
     {
       "name": "Louis",
       "media_title": "Wayside",
       "tropes": [
-        "AdaptationalHairstyleChange",
-        "BlueIsCalm",
-        "NiceGuy",
-        "EarlyInstallmentCharacterDesignDifference",
-        "NeverBareheaded",
-        "ReasonableAuthorityFigure",
-        "SensitiveGuyAndManlyMan",
-        "MellowFellow",
         "SurferDude",
-        "LivingEmotionalCrutch",
-        "TotallyRadical",
         "YouDontLookLikeYou",
+        "NiceGuy",
+        "MellowFellow",
+        "ReasonableAuthorityFigure",
+        "NeverBareheaded",
+        "FatAndSkinny",
+        "BlueIsCalm",
+        "AdaptationalHairstyleChange",
         "Irony",
+        "TotallyRadical",
+        "EarlyInstallmentCharacterDesignDifference",
+        "SensitiveGuyAndManlyMan",
+        "LivingEmotionalCrutch",
         "AdaptationDyeJob"
       ],
-      "description": "Adaptational Hairstyle Change: His facial hair is changed from a mustache of many colors like in the original books to a blue goatee. Adaptation Dye-Job: He has blue hair when the books described him as having a mustache of many colors. Blue Is Calm: He's very laid-back, and has a blue afro and goatee. Early Installment Character-Design Difference: In the pilot, his cap had the initials \"WS\" on it. This is never shown again in the rest of the show. Irony: He had a mustache in the book, but if he shaves it off... It was considered to be one of the worst things to happen in the book series. The show depicts him with a goatee instead of a mustache.",
+      "description": "Adaptational Hairstyle Change: His facial hair is changed from a mustache of many colors like in the original books to a blue goatee. Adaptation Dye-Job: He has blue hair when the books described him as having a mustache of many colors. Blue Is Calm: He's very laid-back, and has a blue afro and goatee. Early Installment Character-Design Difference: In the pilot, his cap had the initials \"WS\" on it. This is never shown again in the rest of the show. Fat and Skinny: He's the skinny to Principal Kidswatter's fat.",
       "source": "tvtropes"
     },
     {
       "name": "Principal Kidswatter",
       "media_title": "Wayside",
       "tropes": [
-        "FunnyAfro",
-        "ButtMonkey",
-        "AccidentalMisnaming",
-        "ManChild",
         "ChildHater",
-        "LivingEmotionalCrutch",
-        "AdaptationalNiceGuy",
-        "Cloudcuckoolander",
-        "AmusingInjuries",
-        "RealMenWearPink",
-        "BeardedBaby",
-        "IsThisThingStillOn",
-        "SensitiveGuyAndManlyMan",
-        "GoofyPrintUnderwear",
-        "AscendedExtra",
-        "ComedicUnderwearExposure",
-        "Catchphrase",
-        "ProneToTears",
         "SplittingPants",
-        "InSeriesNickname",
+        "Cloudcuckoolander",
+        "ComedicUnderwearExposure",
+        "SensitiveGuyAndManlyMan",
+        "AdaptationalNiceGuy",
+        "FatAndSkinny",
+        "Catchphrase",
+        "IsThisThingStillOn",
+        "LivingEmotionalCrutch",
+        "AccidentalMisnaming",
         "InsistentTerminology",
-        "PlayedForLaughs"
+        "GoofyPrintUnderwear",
+        "ManChild",
+        "PlayedForLaughs",
+        "ButtMonkey",
+        "InSeriesNickname",
+        "BeardedBaby",
+        "FunnyAfro",
+        "ProneToTears",
+        "AscendedExtra",
+        "AmusingInjuries",
+        "RealMenWearPink"
       ],
       "description": "Accidental Misnaming: Is incapable of addressing anybody by their actual name. The one execption seems to be Louis, who he relies onpretty heavily. Adaptational Nice Guy: Originally an intimidatingChild Hater, here he's more eccentric and wacky. He also has a soft spot for Todd and Myron. Ascended Extra: His presence isconsiderablymore pronounced in the series as opposed to the books, often getting his own A-and-B-stories. Bearded Baby:\"Louis Gets Some Class\" shows that he had his mustache since he was a child. Butt-Monkey: SuffersAmusing Injuriesand misfortunes in nearly every episode he appears in, such as falling from a tree, getting electrocuted, having a door slammed in his face, and so forth.",
       "source": "tvtropes"
@@ -357,27 +390,40 @@
       "name": "Miss Mush",
       "media_title": "Wayside",
       "tropes": [
-        "ForeignQueasine",
-        "BigFun",
-        "ReasonableAuthorityFigure",
-        "NonIndicativeName",
-        "FunnyForeigner",
-        "TomboyAndGirlyGirl",
-        "YouNoTakeCandle"
+        "ChubbyChef",
+        "OOCIsSeriousBusiness",
+        "CordonBleughChef",
+        "HiddenDepths",
+        "MindScrew",
+        "KissingUnderTheInfluence",
+        "BondOneLiner",
+        "BigDamnHeroes",
+        "PieInTheFace",
+        "NiceGuy",
+        "BewareTheNiceOnes",
+        "SupremeChef"
       ],
-      "description": "Big Fun: Fairly heavyset, and very easygoing. Foreign Queasine: Like you wouldn't believe. Her octopus stew, which would already be Foreign Queasine to a lot of people, doesn't even have any octopus in it,butwood chips. Funny Foreigner: From themamaland! Reasonable Authority Figure: About as amiable as Louis in her interactions with the kids. Tomboy and Girly Girl: The Tomboy to Mrs. Jewls' Girly Girl.",
+      "description": "Beware the Nice Ones: She's a sweet, kindly lunch lady who loves to cook food for hungry children. But if she senses that those children are in trouble, she'll find a way to protect them no matter what. Big Damn Heroes: InWayside School Gets A Little Stranger, she correctly deduces what's happening with Mr. Gorf after hearing Kathy's voice telling her to \"have a nice day,\"which the real Kathy would never do.She whips up a pie full of pepper, carries it up the stairs, andsmacks Mr. Gorf in the face with it, forcing him to sneeze out the kids' voices and sending him running. Bond One-Liner: During the aforementioned Big Damn Heroes moment, she snaps \"I hope you like pepper pie\" right before smashing the dish into Mr. Gorf's face. Chubby Chef: Most illustrations show her as rather plump and matronly. Cordon Bleugh Chef: She's noted for being able to somehow overcook and undercook a dish at the same time, and her food almost always turns out as a grey, unidentifiable mass of... something.Supreme Chef: That being said, the few times the readers get toseesomeone eat Miss Mush's food it turns out to be palatable if not outright tasty (weird side effects notwithstanding). TheSideways Arithmeticbooks reveal that the problem is that she's actually a great cook if she's preparing food for a small crowd—the more she has to make, the worse her dishes become. Since she's the sole lunch lady for an entire school, this naturally leads to less-than-desirable meals.",
       "source": "tvtropes"
     },
     {
       "name": "Sammy",
       "media_title": "Wayside",
       "tropes": [
-        "TheVoiceless",
-        "AdaptationalNonsapience",
-        "AdaptationalMundanity",
-        "CompanionCube"
+        "MindScrew",
+        "OhNoNotAgain",
+        "AnnoyingLaugh",
+        "NotEvenHuman",
+        "YouDirtyRat",
+        "HumanoidAbomination",
+        "EvilSmellsBad",
+        "DressedInLayers",
+        "WalkingSpoiler",
+        "IncredibleShrinkingMan",
+        "DeadAllAlong",
+        "HateSink"
       ],
-      "description": "Adaptational Mundanity: Can’t do anything on account of being dead, unlike his book counterpart who can somehow walk, talk, wear clothes and disguise himself as a student. Adaptational Nonsapience: The version of Sammy in the book could walk and talk, and was horrible to everyone, despite being dead. Here, well, he’s a corpse, and the whole joke is Miss Mush doesn’t notice this. Companion Cube: To Miss Mush. The Voiceless: Obviously, since he's dead.",
+      "description": "Annoying Laugh: Among his many unflattering traits, he has a rather loud laugh that's even worse than his smell. It only grows louder the more he shrinks, causing the kids to try and block it out by covering their ears (when they're not trying to cover their noses because of the smell). Dead All Along:Somehowturns out to be a dead rat. Dressed in Layers: Wears dozens of raincoats to hide the fact he's actually a dead rat. Evil Smells Bad: One of the biggest jerks in the series, and noted to have a funny stench about him that only grows worse the more jackets are taken off him. Hate Sink: Has zero redeeming qualities whatsoever, and even insults Mrs. Jewls to her face (something that not even resident jerks Kathy or Terrence will do).",
       "source": "tvtropes"
     },
     {
@@ -427,7 +473,419 @@
       ],
       "description": "Adaptational Job Change: In the first book, she was the original teacher for the class on the top floor. Here, she was just a substitute teacher while Mrs. Jewls was sick. Ambiguously Human: She has pointy ears, and a forked tongue, plus her magical powers, old age, conservative dress, and preference for dealing with children by turning them into apples invoke the timeless and classical image of child-eating witches. Hoist By Her Own Petard: After Maurecia helps turn her classmates and her pet hedgehog Fluffy back to normal, and when Mrs. Gorf tries to turn Maurecia into an apple as revenge, Maureciareflects herEye Beamswith the glass cover for the fire extinguisher, resulting in Mrs. Gorf turning into an apple herself.Mrs. Gorf:NO!I turned myself into an apple! Secondary-Color Nemesis: Wears a purple dress and stockings in two different shades of purple. Spared by the Adaptation: She'sEaten Alivein the book, but her post-apple fateis left ambiguous in the series.",
       "source": "tvtropes"
+    },
+    {
+      "name": "Sharie",
+      "media_title": "Wayside",
+      "tropes": [
+        "WeNeedADistraction",
+        "SleepLearning",
+        "HeavySleeper",
+        "AsleepInClass",
+        "Cloudcuckoolander",
+        "MadeOfIron",
+        "SleepDeprivation"
+      ],
+      "description": "Asleep in Class: One of her defining traits. Cloudcuckoolander: By Wayside's already strange standards. She wears a giant winter coat all year long, and it's not just any student who does something like bringing a hobo to school for show-and-tell. Heavy Sleeper: Even after falling out a window, Sharie only briefly wakes, realizes she isn't in class or in bed, and falls back asleep. Made of Iron: Is able to survive a fall from over 300 feet. Justified, as her big coat might have cushioned her fall. Sleep Deprivation: Due to sleeping in class, she often cannot fall asleep in bed at night. This is implied to keep the cycle going for sleeping in class and staying awake at home.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Bebe Gunn",
+      "media_title": "Wayside",
+      "tropes": [
+        "ArtsyBeret",
+        "MindScrew",
+        "RetGone",
+        "CosmicRetcon",
+        "PlatonicBoyGirlHeroes",
+        "PunnyName",
+        "BitchInSheepsClothing",
+        "JerkWithAHeartOfGold"
+      ],
+      "description": "Artsy Beret: All of the illustrations of her depict her wearing a beret, to match her artistic ability. Bitch in Sheep's Clothing: In book 2, she forgets to hand in her homework, and when Mrs. Jewls confronts her about it, she lies and says that her brother Ray did it. She keeps using this to constantly get away with bad deeds, including reciting an insulting poem in class about how Mrs. Jewls has oatmeal in her ears, and blaming it on Ray.And even worse is that Bebe is strongly implied to have made Ray up - thoughwhatever's happening on the 19th floorsuggestsmaybenot. Jerk with a Heart of Gold: She may be a brat a lot of the time, but she usually cares for her friends, especially towards Calvin. Platonic Boy/Girl Heroes: She is best friends with Calvin, and there is nothing to suggest that the two have any romantic feelings for each other. Punny Name: Her name is a pun on \"BB gun\". This joke went unappreciated by the creators of the TV series, where her first name is pronounced \"bay-bay\".",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Calvin",
+      "media_title": "Wayside",
+      "tropes": [
+        "TheGenericGuy",
+        "EmbarrassingTattoo",
+        "UndyingLoyalty"
+      ],
+      "description": "Embarrassing Tattoo: In “Falling Down”, Calvin gets a tattoo of a potato on his ankle, which everyone ridicules and considers a terrible choice, even Bebe and Mrs. Jewls, though they at least try to be polite about it. Subverted for Calvin himself, as he’s satisfied with what he chose. The Generic Guy: Compared to the other students, Calvin doesn't have many quirks that make him stand out. Undying Loyalty: To Bebe. He makes sure to always be on her side, helping her with art projects and other activities.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Paul",
+      "media_title": "Wayside",
+      "tropes": [
+        "IOweYouMyLife",
+        "BigDamnHeroes",
+        "TemptingFate",
+        "TheGenericGuy"
+      ],
+      "description": "Big Damn Heroes:When an unusually mean Mrs. Jewls is about to pour pickle juice all over Leslie for getting a question wrong, Paul saves Leslie from suffering this fate by grabbing the pickle jar and stopping it from spilling it on her, instead soaking Mrs. Jewls. The Generic Guy: Aside from his obsession with pulling Leslie's pigtails, there isn't much known about Paul. I Owe You My Life:Feels this towards Leslie after she saves him from falling out the window by letting him pull her pigtails. Tempting Fate: The first two times he yanks Leslie's pigtails and makes her scream in pain, Paul is thinking that he can just do this every day without getting a strike three and being sent home.But then Leslie, who is implied to have faked it in order to get Paul sent to the bus, screams a third time. This so far makes Paul, as far as the reader knows, the ONLY other student besides Todd to be sent home early.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Jason",
+      "media_title": "Wayside",
+      "tropes": [
+        "DidntThinkThisThrough",
+        "LovingBully",
+        "ThrowTheDogABone",
+        "ButtMonkey",
+        "DepravedDentist",
+        "DirtyKid"
+      ],
+      "description": "Butt-Monkey: Jason's big mouth often gets him into trouble. He's gotten stuck to his chairs, had his mouth taped shut, swallowed his goldfish, he has aDepraved Dentist, and he's even been overshadowed by his older brother. He also once ended up being forced to read the longest book in the world, but it turns out, heended up liking it... until it turns out the paper clip in his backpack was bent from its weight. Didn't Think This Through: He gets the biggest new book from the library and uses it for his book report, hoping to impress Allison with this. This comes back to bite him, when he has trouble reading the book and almost failing his grade. Dirty Kid: When Calvin is wondering what his tattoo will be, Jason suggests that he get a naked lady. Loving Bully: He sometimes picks on Allison mainly because he is in love with her. It’s downright stated in the narration in Sideways Arithmetic From Wayside School that this is the case.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Deedee",
+      "media_title": "Wayside",
+      "tropes": [
+        "GoneHorriblyRight",
+        "RunningGag",
+        "PrecociousCrush",
+        "MyGodWhatHaveIDone",
+        "BeautyBrainsAndBrawn",
+        "EurekaMoment",
+        "TrueCompanions"
+      ],
+      "description": "Beauty, Brains, and Brawn: The Brawn to Maurecia's Beauty and Joy's Brain. \"Eureka!\" Moment:When her second substitute teacher arrives, Mrs. Drazil, and announces her name, Deedee wonders where she heard it before. A few chapters in, she just had class and calls Louis' name, and that's when she's realizes: after she heard Louis talk about his nasty teacher when he was a kid, and her substitute teacher WAS his former teacher. My God, What Have I Done?:Her plan to meet Louis with Mrs. Drazil isGone Horribly Rightwhen she really IS his former teacher, and now forced him to change his entire personality. She feels immediately guilty about this. Precocious Crush: She has one on Louis, enjoying the way he holds her hand in comfort. Running Gag: During recess, Deedee will always be the last to get a kickball from Louis, who either has none left to give her, or the terrible yellow ball that never flies right when kicked.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "D.J.",
+      "media_title": "Wayside",
+      "tropes": [
+        "OOCIsSeriousBusiness",
+        "PerpetualSmiler",
+        "CheerfulChild",
+        "HeroicBSOD"
+      ],
+      "description": "Cheerful Child: His smile stretches across his entire face, and manages to get everyone, and everything in his class, laughing with him. OOC Is Serious Business: The one time he's seennotsmiling in book two drives the entire class (sans Kathy) into aHeroic BSoD. Perpetual Smiler: D.J. figures that while you need a reason to be sad, you don't need a reason to be happy.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Kathy",
+      "media_title": "Wayside",
+      "tropes": [
+        "NeverMyFault",
+        "GoodFeelsGood",
+        "TookALevelInKindness",
+        "CheerfulChild",
+        "SelfFulfillingProphecy",
+        "Jerkass",
+        "ConformingOOCMoment",
+        "NiceGuy",
+        "OutOfCharacterAlert"
+      ],
+      "description": "Cheerful Child: As ofBeneath the Cloud of Doom. Conforming OOC Moment: Despite claiming to hate D.J. for smiling too much, she smiles (and later laughs) with the rest of the class when she sees D.J.'s contagious smile in his chapter. According to the narration, she otherwise only laughs whenever someone hurts themself. This also happens implicitly in other chapters in books before \"Beneath the Cloud of Doom\" such as joining in applauding Todd after he gets the burglars to leave in his chapter. Good Feels Good: Dr. Pickell had Kathy become nicer by having her imagine walking into a mirror in her dream. Many chapters later, he shatters the mirror, which causes his cure to be reversed, but Kathy remains nice, because as it turns out, she likes being nice and having friends. Jerkass: Prior to the end of \"Up and Down.\" She got great enjoyment out of seeingD.J.'s misery, told the rest of the class Santa isn't real, and even got into arguments with another student'shiccups. Never My Fault: Kathy's chapter in the first book is largely about this. Kathy is a pessimist who always assumes the worst will happen, and she assumes everyone else is giving her bad advice. She refuses to follow the advice she's given, and whenfaced with the consequences, simply tells them that she was right in the first place.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Ron",
+      "media_title": "Wayside",
+      "tropes": [
+        "BewareTheNiceOnes",
+        "Foil",
+        "TrueCompanions",
+        "ButtMonkey"
+      ],
+      "description": "Beware the Nice Ones: He may be respectful most of the time, but when Louis annoyed him too much, Ron punched him. And it is stated that he punched harder than he kicked. Butt-Monkey: Because Miss Nogard knows that Ron didn't do his assignment one day, she keeps calling on him, making him get the answers wrong. And when she gives the class extra homework and everyone starts hating each other, it is specifically said that everyone hated Ron. Foil: To Terrence. While Terrence is a good athlete but a bad sport, Ron is a bad athlete but a good sport. Get it? True Companions: One of the \"Unbreakables,\" alongside Maurecia, Deedee, and Joy.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Allison",
+      "media_title": "Wayside",
+      "tropes": [
+        "InnocentlyInsensitive",
+        "EverybodyLovesBlondes",
+        "WithFriendsLikeThese",
+        "BreakTheHaughty",
+        "TrueBlueFemininity",
+        "AliceAllusion",
+        "NiceGirl",
+        "HairOfGoldHeartOfGold",
+        "OnlySaneMan",
+        "GirlyGirlWithATomboyStreak",
+        "InnocentBlueEyes",
+        "BoysHaveCooties",
+        "BewareTheNiceOnes",
+        "BreakTheCutie",
+        "NotSoAboveItAll"
+      ],
+      "description": "Alice Allusion: Her name is Allison, which is similar to Alice. She also has blonde hair, andshe gets to a world similar to a rabbit hole and she desperately wants to go home. Beware the Nice Ones: She is normally very sweet, but when she gets angry, she is nasty about it. Boys Have Cooties: In the 3rd book, it is mentioned she doesn't particularly like boys compared to girls, suggesting to Mrs. Jewls thatshe should name her baby \"bucket head\" if it turns out to be a boy.Also, she invited all the girls in her class to her birthday party but only invited two boys, Jason and Stephen, because she was convinced that too many boys would act silly. But when Mrs. Jewls convinced her that girls are silly too, she changes her mind and invites them all. Break the Cutie:Also might count asBreak the Haughty, considering her sweet and sour personality. When she suddenly remembers her classmates from the 30th floor after forgetting about them while trapped on the 19th floor under the teaching of Ms. Zarves, she bursts into tears, having missed all of them and their unique personalities and knowing that she may never see them again. This convinces her to decide that enough was enough and to escape the 19th floor once and for all. Everybody Loves Blondes: She is blonde and very pretty, too the point where the boys in class would start teasing them. When she threatens to knock their teeth out if they don't stop, they promptly do so.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dameon",
+      "media_title": "Wayside",
+      "tropes": [
+        "PrecociousCrush",
+        "OutOfFocus",
+        "RunningGag"
+      ],
+      "description": "Out of Focus: Doesn't have any chapters focused on him in the third and fourth books. Precocious Crush: He has one on Mrs. Jewls, as is seen in \"Love and a Dead Rat.\" Mrs. Jewls explains to him that since love is an emotion, not a thing, she can still love him back (albeit platonically) and have more love than she started with. Running Gag: A literal example, as his focus chapters will usually have him run up and down the stairs of Wayside.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Terrence",
+      "media_title": "Wayside",
+      "tropes": [
+        "JerkJock",
+        "RhymesOnADime",
+        "WouldHitAGirl",
+        "LaserGuidedKarma",
+        "SoreLoser"
+      ],
+      "description": "Jerk Jock: He's a good athlete, but it doesn't matter because every day at recess, he just enjoys kicking all the balls over the fence. Laser-Guided Karma: On the receiving end; after kicking every ball over the fence for no good reason (and being a total jackass about it), Terrence gets kicked over the fence by Louis in retribution. Rhymes on a Dime: He tends to insult people in rhyme: e.g. \"Take a train, peanut brain!\" or \"Eat a frog, warthog!\" Sore Loser: Whenever he loses, he insults the player who beat him. Would Hit a Girl: When Rondi stands up to him, he eventually throws a punch at her face, but she ducks.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Joy",
+      "media_title": "Wayside",
+      "tropes": [
+        "JerkWithAHeartOfGold",
+        "BrilliantButLazy",
+        "PetTheDog",
+        "StickyFingers",
+        "JerkassToOne",
+        "AesopAmnesia",
+        "Jerkass",
+        "OddFriendship",
+        "BeautyBrainsAndBrawn",
+        "IronicName",
+        "TrueCompanions",
+        "TomboyAndGirlyGirl"
+      ],
+      "description": "Aesop Amnesia: In her spotlight chapter in the 1st book, she learns her lesson about stealing when she feels guilty and gets a stomach ache from all the food she took. By the 2nd book, she apparently forgot about that lesson. Brilliant, but Lazy: Shows signs of this at times, particularly in \"Poetry,\" where she gets out of work by stealing Mrs. Jewls' example poem. Beauty, Brains, and Brawn: The Brain to Maurecia's Beauty and Deedee's Brawn. Ironic Name: She doesn't bring muchJoyto her classmates. Jerkass to One: She is pretty rude in general, but she is especially bad with Todd. She spits on him, tugs on his hair, likes to shout at him, and tries to steal something of his.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mac",
+      "media_title": "Wayside",
+      "tropes": [
+        "MotorMouth",
+        "GenderBlenderName"
+      ],
+      "description": "Gender-Blender Name: Was originally \"Nancy,\" before he traded with a girl on the twenty-third floor. Motor Mouth: After trading his name, he went from being incredibly shy to this.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Benjamin Nushmutt",
+      "media_title": "Wayside",
+      "tropes": [
+        "ChickMagnet",
+        "DemotedToExtra",
+        "NewTransferStudent",
+        "AccidentalMisnaming"
+      ],
+      "description": "Accidental Misnaming: Benjamin's entire arc in the second book is based around everyone else thinking he's named Mark Miller. Chick Magnet: A passing mention in the 2nd book mentions that all the girls in class really liked Benjamin, and that Benjamin is good looking. Granted, it was referring to how they thought he was Mark Miller, but still. Demoted to Extra: Isn't mentioned much after the second book. New Transfer Student: Introduced in the second book as this.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Sue",
+      "media_title": "Wayside",
+      "tropes": [
+        "WhatHappenedToTheMouse",
+        "NewTransferStudent",
+        "AudienceSurrogate"
+      ],
+      "description": "Audience Surrogate: Sue is meant to represent kids that sent letters to Louis Sachar saying they want to attend Wayside School, without realizing what it would actually be like there. New Transfer Student: Her role in the spin-off series. What Happened to the Mouse?: After Sideways Arithmetic ends, she is never mentioned again. Even Under the Cloud of Doom doesn't mention her at all.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mavis Jewls",
+      "media_title": "Wayside",
+      "tropes": [
+        "BabiesMakeEverythingBetter",
+        "SmallRoleBigImpact",
+        "MoralEventHorizon",
+        "HeelFaceTurn",
+        "ThePowerOfLove"
+      ],
+      "description": "Babies Make Everything Better: And how! Mavis's arrival turns the class from being angry and hateful (thanks to Ms. Nogard's manipulations) to being sweet and caring. Listening to her thoughts of pure love and trust is also what inspires Ms. Nogard to have aHeel–Face Turn. The Power of Love: Mavis's pure thoughts of love and trust trigger Ms. Nogard to have a genuineHeel–Face Turninstead of crossing theMoral Event Horizonand \"accidentally\" throwing the baby out the window. Small Role, Big Impact: Mavis doesn't show up until the final chapter of the third book but her presence alone completely undoes all the damage from Ms. Nogard's manipulations and inspires Ms. Nogard'sHeel–Face Turn. Not bad for a baby who isn't a week old yet.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mr. Gorf",
+      "media_title": "Wayside",
+      "tropes": [
+        "SdrawkcabName",
+        "ExactWords",
+        "VoiceChangeling",
+        "LogicalWeakness",
+        "ImposterForgotOneDetail",
+        "AvengingTheVillain",
+        "Jerkass",
+        "FauxAffablyEvil",
+        "WhamLine",
+        "NoOntologicalInertia",
+        "RedRightHand",
+        "MommasBoy",
+        "YouKilledMyFather",
+        "ImpliedTrope",
+        "VocalDissonance"
+      ],
+      "description": "Avenging the Villain: His goal is to get revenge on the students for his mother's death, even though she brought it on herself. Exact Words: He reassures the class that he wasn'tmarriedto Mrs. Gorf, but he never says he isn'trelatedto her. Faux Affably Evil: At first, he presents himself as a nice man... but then he starts stealing voices. Imposter Forgot One Detail: He accidentally exposes himself when he wishes Miss Mush a nice day usingKathy'svoice. Even if he could steal voices, he couldn’t emulate the personalities of those he stole them from without knowing ahead of time what those were. Logical Weakness: His ability stores voices in his nose. So, if he sneezes, he loses all of his stored voices.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mrs. Drazil",
+      "media_title": "Wayside",
+      "tropes": [
+        "BerserkButton",
+        "SdrawkcabName",
+        "JerkassToOne",
+        "ChekhovsGunman",
+        "SadistTeacher",
+        "ThisIsUnforgivable",
+        "Determinator",
+        "BitchInSheepsClothing",
+        "CoolOldLady",
+        "UncertainDoom",
+        "BestServedCold",
+        "CoolTeacher"
+      ],
+      "description": "Berserk Button:Donottouch her blue binder; Sharie touching it during a lesson on gravity is enough to send her into a brief moment of frothing rage.Don't make excuses and/or fail to turn in assignments. While she claims she's gotten better with this, the fact that she punishes Louis and continues to pursue Jane Smith (despite both being adults who haven't had her class in years) points to the opposite being true. Donottouch her blue binder; Sharie touching it during a lesson on gravity is enough to send her into a brief moment of frothing rage. Don't make excuses and/or fail to turn in assignments. While she claims she's gotten better with this, the fact that she punishes Louis and continues to pursue Jane Smith (despite both being adults who haven't had her class in years) points to the opposite being true. Best Served Cold: It doesn't matter how many years it's been since someone was one of her students— if she has a chance to settle some score with them, shewilltake it. Bitch in Sheep's Clothing: Outwardly she's nice and understanding, but she has a stated issue with holding grudges and will continue to hound students long after they've left her class.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Wendy Nogard",
+      "media_title": "Wayside",
+      "tropes": [
+        "BerserkButton",
+        "DivingSave",
+        "SdrawkcabName",
+        "BewareTheMindReader",
+        "LoveInterest",
+        "MoralEventHorizon",
+        "RedRightHand",
+        "BitchInSheepsClothing",
+        "HeelFaceTurn",
+        "ThePowerOfLove",
+        "CoolTeacher",
+        "RuleOfThree",
+        "ManipulativeBastard",
+        "WomanScorned"
+      ],
+      "description": "Beware the Mind Reader: Wendy has a third ear on the top of her head, which allows her to read other people's thoughts. She uses this to manipulate others and hit the class' collectiveBerserk Button, turning them all against one another. Bitch in Sheep's Clothing: She appears to be a nice, pretty young woman, and by and large the kids like her. She's also aManipulative BastardWoman Scornedwho uses telepathy to make the kids miserable and turn against one another. Cool Teacher: Post-Heel–Face Turn, she is a genuinely nice and active substitute, and in book four she is described as the kids' (and Louis') favorite substitute. Heel–Face Turn: Just when she's about to cross theMoral Event Horizonand drop Mrs. Jewls' newborn daughter Mavis out a window, Wendy is struck by a moment of curiosity and reads Mavis' mind because she's never read a baby's thoughts before. The pure love and trust Mavis radiates is enough to overcome the wickedness in Wendy's heart and she doesn't go through with it (on purpose, anyway; she trips and falls but Louis is able to make aDiving Saveto keep her and the baby from harm). Love Interest: Louis is infatuated with her when he meets her for the first time, and spends the rest of her tenure at Wayside trying to get her attention. They hook up at the end of the third book after herHeel–Face Turn.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Miss Zarves",
+      "media_title": "Wayside",
+      "tropes": [
+        "InvisibleToNormals",
+        "MindScrew",
+        "Satan",
+        "OnceAnEpisode",
+        "HumanoidAbomination",
+        "MissingFloor",
+        "CoolTeacher",
+        "UnseenNoMore",
+        "ArcVillain"
+      ],
+      "description": "Arc Villain: Miss Zarves trapping Allison on the nineteenth story is the focus of three chapters inWayside School Is Falling Down. Cool Teacher: At least as far as her students are concerned, though that might have something to do with the mind numbing effects of the 19th floor. Humanoid Abomination: One possibility of who she is, with Allison speculating if maybe she'sthe devil. Invisible to Normals: Since the 19th story doesn't exist, Miss Zarves doesn't either. Chapters showing that yes, shedoesexist, leave the question open to what she is and why she only appears to a certain few (Allison and the Men in Black can see her and her students, and in book four the entire class takes refuge in her room on account of the storm despite there not being a room there). Once an Episode: Miss Zarves gets a chapter dedicated to her and the goings-on in her classroom in every book, usually the nineteenth.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mr. Kidswatter",
+      "media_title": "Wayside",
+      "tropes": [
+        "IsThisThingStillOn",
+        "CoolShades",
+        "FrozenFace",
+        "ChildHater"
+      ],
+      "description": "Child Hater: Its even in hisNAME. Cool Shades: Wears them that cover his eyes. Frozen Face: Suffers this in the fourth book after catching it from Dana. Is This Thing Still On?: In the third book's chapter \"A Message From the Principal,\" he finishes his morning announcement, then starts angrily ranting about how his trip to Jamaica was ruined when he had to come back to school. With the PA system still on, of course.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Pickell",
+      "media_title": "Wayside",
+      "tropes": [
+        "BunnyEarsLawyer",
+        "InSeriesNickname",
+        "HypnoPendulum",
+        "AscendedExtra"
+      ],
+      "description": "Ascended Extra: When introduced in the third book, his story is amusing but doesn't really add much to the overall makeup to the school. In the fourth book, he plays a significant role in Kathy's subplot. Bunny-Ears Lawyer: He's a pretty good psychiatrist and hypnotist, and his first appearance has him cure a woman's smoking addiction by making her think every cigarette she puts to her lips is a worm. However he also likes to prank his patients in a variety of odd ways while they're under his suggestion (the aforementioned woman was conditioned to slap her husband every time he said \"potato\"). Deconstructed in that this eventually gets him fired, forcing him to take a new job as a school counselor. Hypno Pendulum: A green stone on a chain that kind of looks like a pickle (hence his nickname \"Doctor Pickle\"). In-Series Nickname: His real name is Dr. Pickell, but most people call him Dr. Pickle because of his pickle-shapedHypno Pendulum.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mrs. Surlaw",
+      "media_title": "Wayside",
+      "tropes": [
+        "SdrawkcabName",
+        "WarmHeartedWalrus",
+        "AscendedExtra"
+      ],
+      "description": "Ascended Extra: Only appeared briefly in one chapter in the first book and was unnamed. Come the fourth book, she has a expanded, though minor, role and her name is revealed. Sdrawkcab Name: Her last name is \"walrus\" spelled backwards Warm-Hearted Walrus: Seems to evoke this. She has a giant plush walrus next to her desk.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "The Three Men with the Attaché Case",
+      "media_title": "Wayside",
+      "tropes": [
+        "TheOmniscient",
+        "OffscreenTeleportation",
+        "RiddleForTheAges",
+        "OnceASeason"
+      ],
+      "description": "Offscreen Teleportation: In “The Ultimate, Ultimate Test”, one of them keeps appearing on different floors to ask Deedee a question for the Ultimate Test. Lampshaded by Deedee, who wondered how he kept getting ahead of her. The Omniscient: They seem to have knowledge of everything that happens at Wayside, even things that they have no possible way of witnessing themselves. Once a Season: They usually only appear once per book, with the exception of the fourth where they appear twice. Riddle for the Ages: Pretty much everything about them is a mystery, aside from the fact that they’re part of the faculty.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Miss Worm",
+      "media_title": "Wayside",
+      "tropes": [
+        "OnlySaneWoman"
+      ],
+      "description": "Only Sane Woman: In contrast to Mrs. Jewls, Miss Worm is a completely normal teacher. During the very brief time she spent directly interacting with Jewls’ class, she quickly got exasperated at the strangeness of the students, especially after learning about Sideways Arithmetic.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Nancy",
+      "media_title": "Wayside",
+      "tropes": [
+        "RelationshipUpgrade",
+        "GenderBlenderName",
+        "ChuckCunninghamSyndrome",
+        "EmbarrassingFirstName"
+      ],
+      "description": "Chuck Cunningham Syndrome: Only appeared twice (three, if one counts Tim Heitz’s illustration for “Voices” in the third book), and is never mentioned again afterward. Embarrassing First Name: She considers her original name this, as she was named after a dog, and is all too happy to trade names with Mac. Gender-Blender Name: Was originally \"Mac,\" before she traded with Nancy (aka Mac). Relationship Upgrade: In her second appearance, it’s established she and Mac started dating.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Mrs. Zarves’ Class",
+      "media_title": "Wayside",
+      "tropes": [
+        "LivingLie",
+        "ThereIsNoRuleSix"
+      ],
+      "description": "Living Lie: Everyone in the classroom is based on something made up from the books. Mark Miller is the false identity attributed to Benjamin Nushmutt, Ray Gunn is Bebe Gunn’s fake baby brother, and the cow came from a brief except from the first chapter ofGets a Little Stranger, where it’s mentioned Louis would occasionally hear moo-ing after he removed the cows from the building, and would pretend he didn’t hear it until it stopped.",
+      "source": "tvtropes"
+    },
+    {
+      "name": "Dr. Jane Payne",
+      "media_title": "Wayside",
+      "tropes": [
+        "UnholyMatrimony",
+        "CrazyPrepared",
+        "PunnyName",
+        "PsychopathicManchild",
+        "UncertainDoom",
+        "DepravedDentist",
+        "Catchphrase"
+      ],
+      "description": "Jason's dentist, who lives a life of luxury and is rotten to the core. Catchphrase: \"Rub a monkey's tummy! Rub a monkey's tummy with your head!\" Crazy-Prepared: Kept a getaway suitcase stashed in her boathousespecificallyjust in case her old grade-school teacher ever tracked her down to make her complete her skipped assignments. Depraved Dentist: She isn't called \"Payne\" for nothing. She really likes to pull more teeth than she's supposed to solely so she can charge more. Psychopathic Manchild: Not only is she a psychotic dentist, but her favorite response to people calling her out is to tell them to \"rub a monkey's tummy with [your] head\", an insult you most certainly would not hear from a mature or professional dentist.",
+      "source": "tvtropes"
     }
   ],
-  "character_count": 25
+  "character_count": 54
 }

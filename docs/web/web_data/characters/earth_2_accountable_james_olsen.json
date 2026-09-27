@@ -1,17 +1,1 @@
-{
-  "name": "Accountable(James Olsen)",
-  "show": "Earth 2",
-  "trope_count": 9,
-  "tropes": [
-    "AlternateUniverseReedRichardsIsAwesome",
-    "DeadpanSnarker",
-    "Technopath",
-    "CompositeCharacter",
-    "AgeLift",
-    "KnowledgeBroker",
-    "FaceHeelTurn",
-    "EvilCounterpart",
-    "PlayfulHacker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Accountable(James Olsen)", "show": "Earth 2", "trope_count": 9, "tropes": ["AlternateUniverseReedRichardsIsAwesome", "DeadpanSnarker", "Technopath", "CompositeCharacter", "AgeLift", "KnowledgeBroker", "FaceHeelTurn", "EvilCounterpart", "PlayfulHacker"], "tropes_by_category": {}, "similar": [{"name": "Lord Jon \"The Smalljon\" Umber", "show": "Game of Thrones", "id": "game_of_thrones_lord_jon_the_smalljon_umber", "similarity": 0.087, "shared_tropes": 4}, {"name": "In General", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_in_general", "similarity": 0.08, "shared_tropes": 4}, {"name": "Evelyn Sharp / Artemis", "show": "Arrow", "id": "arrow_evelyn_sharp_artemis", "similarity": 0.0746, "shared_tropes": 5}, {"name": "Krass - Ram Ma'am", "show": "He-Man and the Masters of the Universe", "id": "he_man_and_the_masters_of_the_universe_krass_ram_ma_am", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Otto Octavius / Doctor Octopus", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_otto_octavius_doctor_octopus", "similarity": 0.0455, "shared_tropes": 4}]}

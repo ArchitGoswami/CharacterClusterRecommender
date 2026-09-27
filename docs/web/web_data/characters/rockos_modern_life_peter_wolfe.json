@@ -1,13 +1,1 @@
-{
-  "name": "Peter Wolfe",
-  "show": "Rocko's Modern Life",
-  "trope_count": 5,
-  "tropes": [
-    "DeadpanSnarker",
-    "Neet",
-    "WholesomeCrossdresser",
-    "AmbiguouslyGay",
-    "TheStoic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Peter Wolfe", "show": "Rocko's Modern Life", "trope_count": 6, "tropes": ["WholesomeCrossdresser", "AmbiguouslyGay", "MusicalThemeNaming", "DeadpanSnarker", "TheStoic", "Neet"], "tropes_by_category": {}, "similar": []}

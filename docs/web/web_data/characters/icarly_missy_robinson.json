@@ -1,17 +1,1 @@
-{
-  "name": "Missy Robinson",
-  "show": "iCarly",
-  "trope_count": 9,
-  "tropes": [
-    "Jerkass",
-    "LaserGuidedKarma",
-    "FriendshipFavoritism",
-    "OneShotCharacter",
-    "ChildhoodFriends",
-    "EvilRedhead",
-    "DislikesTheNewGuy",
-    "BitchAlert",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Missy Robinson", "show": "iCarly", "trope_count": 9, "tropes": ["Jerkass", "LaserGuidedKarma", "FriendshipFavoritism", "OneShotCharacter", "ChildhoodFriends", "EvilRedhead", "DislikesTheNewGuy", "BitchAlert", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Penelope Blossom", "show": "Riverdale", "id": "riverdale_penelope_blossom", "similarity": 0.0976, "shared_tropes": 4}]}

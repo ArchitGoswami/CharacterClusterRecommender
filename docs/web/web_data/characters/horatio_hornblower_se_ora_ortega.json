@@ -1,14 +1,1 @@
-{
-  "name": "Señora Ortega",
-  "show": "Horatio Hornblower",
-  "trope_count": 6,
-  "tropes": [
-    "SickeningSweethearts",
-    "HappilyMarried",
-    "FemmeFatale",
-    "HeroicSeductress",
-    "HoneyTrap",
-    "EverythingSoundsSexierInFrench"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Señora Ortega", "show": "Horatio Hornblower", "trope_count": 6, "tropes": ["SickeningSweethearts", "HappilyMarried", "FemmeFatale", "HeroicSeductress", "HoneyTrap", "EverythingSoundsSexierInFrench"], "tropes_by_category": {}, "similar": []}

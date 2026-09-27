@@ -1,13 +1,1 @@
-{
-  "name": "Uli",
-  "show": "The Adventures of Puss in Boots",
-  "trope_count": 5,
-  "tropes": [
-    "ManipulativeBastard",
-    "EvilIsNotAToy",
-    "AncientEvil",
-    "HeelFaceRevolvingDoor",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Uli", "show": "The Adventures of Puss in Boots", "trope_count": 5, "tropes": ["ManipulativeBastard", "EvilIsNotAToy", "AncientEvil", "HeelFaceRevolvingDoor", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Pythor P. Chumsworth", "show": "Ninjago", "id": "ninjago_pythor_p_chumsworth", "similarity": 0.0506, "shared_tropes": 4}]}

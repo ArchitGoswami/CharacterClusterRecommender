@@ -1,16 +1,1 @@
-{
-  "name": "TaylorMcBride",
-  "show": "Melrose Place",
-  "trope_count": 8,
-  "tropes": [
-    "ArchNemesis",
-    "ItMakesSenseInContext",
-    "KarmaHoudini",
-    "TheFriendNobodyLikes",
-    "InterruptedSuicide",
-    "TheBabyTrap",
-    "ManipulativeBitch",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "TaylorMcBride", "show": "Melrose Place", "trope_count": 8, "tropes": ["ArchNemesis", "ItMakesSenseInContext", "KarmaHoudini", "TheFriendNobodyLikes", "InterruptedSuicide", "TheBabyTrap", "ManipulativeBitch", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Rachel Virginia Gatina", "show": "One Tree Hill", "id": "one_tree_hill_rachel_virginia_gatina", "similarity": 0.08, "shared_tropes": 4}, {"name": "Blair Waldorf", "show": "Gossip Girl", "id": "gossip_girl_blair_waldorf", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Tammy Larsen", "show": "Bob's Burgers", "id": "bobs_burgers_tammy_larsen", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Edie Britt", "show": "Desperate Housewives", "id": "desperate_housewives_edie_britt", "similarity": 0.0444, "shared_tropes": 4}]}

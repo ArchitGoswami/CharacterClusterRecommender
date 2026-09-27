@@ -1,17 +1,1 @@
-{
-  "name": "Skunk Kusai / Fearless Fred Fenk",
-  "show": "Astro Boy",
-  "trope_count": 9,
-  "tropes": [
-    "SlasherSmile",
-    "UngratefulBastard",
-    "DirtyCoward",
-    "TheChessmaster",
-    "BlueMeansCold",
-    "ManipulativeBastard",
-    "BrainwashedAndCrazy",
-    "LeanAndMean",
-    "AdaptationalBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Skunk Kusai / Fearless Fred Fenk", "show": "Astro Boy", "trope_count": 9, "tropes": ["SlasherSmile", "UngratefulBastard", "DirtyCoward", "TheChessmaster", "BlueMeansCold", "ManipulativeBastard", "BrainwashedAndCrazy", "LeanAndMean", "AdaptationalBadass"], "tropes_by_category": {}, "similar": [{"name": "Slade", "show": "Teen Titans Go!", "id": "teen_titans_go_slade", "similarity": 0.087, "shared_tropes": 4}, {"name": "Condiment King", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_condiment_king", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Hakeswill", "show": "Sharpe", "id": "sharpe_hakeswill", "similarity": 0.058, "shared_tropes": 4}, {"name": "Dag", "show": "Back at the Barnyard", "id": "back_at_the_barnyard_dag", "similarity": 0.044, "shared_tropes": 4}, {"name": "Charles Logan", "show": "24", "id": "24_charles_logan", "similarity": 0.0435, "shared_tropes": 4}, {"name": "The Beast", "show": "Over the Garden Wall", "id": "over_the_garden_wall_the_beast", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Vicious", "show": "Cowboy Bebop", "id": "cowboy_bebop_vicious", "similarity": 0.0413, "shared_tropes": 5}, {"name": "COBRA", "show": "G.I. Joe", "id": "gi_joe_cobra", "similarity": 0.0408, "shared_tropes": 4}]}

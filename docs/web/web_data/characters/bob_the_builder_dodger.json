@@ -1,9 +1,1 @@
-{
-  "name": "Dodger",
-  "show": "Bob the Builder",
-  "trope_count": 1,
-  "tropes": [
-    "Catchphrase"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dodger", "show": "Bob the Builder", "trope_count": 2, "tropes": ["Catchphrase", "FurPatternNaming"], "tropes_by_category": {}, "similar": []}

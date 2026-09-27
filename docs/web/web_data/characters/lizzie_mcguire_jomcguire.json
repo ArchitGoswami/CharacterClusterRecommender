@@ -1,17 +1,1 @@
-{
-  "name": "JoMcGuire",
-  "show": "Lizzie McGuire",
-  "trope_count": 9,
-  "tropes": [
-    "OnlySaneWoman",
-    "WomenAreWiser",
-    "HappilyMarried",
-    "ToughLove",
-    "HairOfGoldHeartOfGold",
-    "GoodParents",
-    "MamaBear",
-    "WellIntentionedExtremist",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "JoMcGuire", "show": "Lizzie McGuire", "trope_count": 9, "tropes": ["OnlySaneWoman", "WomenAreWiser", "HappilyMarried", "ToughLove", "HairOfGoldHeartOfGold", "GoodParents", "MamaBear", "WellIntentionedExtremist", "NiceGirl"], "tropes_by_category": {}, "similar": [{"name": "Mom Racer (Aya Mifune)", "show": "Speed Racer", "id": "speed_racer_mom_racer_aya_mifune", "similarity": 0.4444, "shared_tropes": 4}, {"name": "Judy Neutron", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_judy_neutron", "similarity": 0.2308, "shared_tropes": 6}, {"name": "Becky Donaldson", "show": "Full House", "id": "full_house_becky_donaldson", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Becky Donaldson Katsopolis", "show": "Full House", "id": "full_house_becky_donaldson_katsopolis", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Harriette Winslow", "show": "Family Matters", "id": "family_matters_harriette_winslow", "similarity": 0.2083, "shared_tropes": 5}, {"name": "Alex Kirkman", "show": "Designated Survivor", "id": "designated_survivor_alex_kirkman", "similarity": 0.2, "shared_tropes": 4}, {"name": "Caroline Ingalls", "show": "Little House on the Prairie", "id": "little_house_on_the_prairie_caroline_ingalls", "similarity": 0.2, "shared_tropes": 4}, {"name": "Fran Sinclair (née Phillips)", "show": "Dinosaurs", "id": "dinosaurs_fran_sinclair_n_e_phillips", "similarity": 0.2, "shared_tropes": 4}]}

@@ -1,11 +1,1 @@
-{
-  "name": "Pat",
-  "show": "Nate is Late",
-  "trope_count": 3,
-  "tropes": [
-    "AlternateIdentityAmnesia",
-    "PowerLimiter",
-    "OurWerewolvesAreDifferent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pat", "show": "Nate is Late", "trope_count": 3, "tropes": ["AlternateIdentityAmnesia", "PowerLimiter", "OurWerewolvesAreDifferent"], "tropes_by_category": {}, "similar": []}

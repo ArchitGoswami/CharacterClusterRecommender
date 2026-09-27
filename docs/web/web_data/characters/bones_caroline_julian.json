@@ -1,16 +1,1 @@
-{
-  "name": "Caroline Julian",
-  "show": "Bones",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "Catchphrase",
-    "TeamMom",
-    "OnlySaneEmployee",
-    "ShipperOnDeck",
-    "TheBigEasy",
-    "TwoFirstNames",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Caroline Julian", "show": "Bones", "trope_count": 8, "tropes": ["HeelFaceTurn", "Catchphrase", "TeamMom", "OnlySaneEmployee", "ShipperOnDeck", "TheBigEasy", "TwoFirstNames", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Martha Kent", "show": "Smallville", "id": "smallville_martha_kent", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Craig Tucker", "show": "South Park", "id": "south_park_craig_tucker", "similarity": 0.04, "shared_tropes": 4}, {"name": "Anzu Mazaki (Téa Gardner)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_anzu_mazaki_t_a_gardner", "similarity": 0.0374, "shared_tropes": 4}]}

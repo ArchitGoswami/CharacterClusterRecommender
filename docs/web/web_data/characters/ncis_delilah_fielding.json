@@ -1,16 +1,1 @@
-{
-  "name": "Delilah Fielding",
-  "show": "NCIS",
-  "trope_count": 8,
-  "tropes": [
-    "UntoUsASonAndDaughterAreBorn",
-    "LoveInterest",
-    "BrainyBrunette",
-    "TragicallyDisabledLoveInterest",
-    "HandicappedBadass",
-    "NiceGirl",
-    "BewareTheNiceOnes",
-    "DisabledSnarker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Delilah Fielding", "show": "NCIS", "trope_count": 8, "tropes": ["UntoUsASonAndDaughterAreBorn", "LoveInterest", "BrainyBrunette", "TragicallyDisabledLoveInterest", "HandicappedBadass", "NiceGirl", "BewareTheNiceOnes", "DisabledSnarker"], "tropes_by_category": {}, "similar": [{"name": "Liz Parker", "show": "Roswell", "id": "roswell_liz_parker", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Flora", "show": "Winx Club", "id": "winx_club_flora", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Shinobu Miyake", "show": "Urusei Yatsura", "id": "urusei_yatsura_shinobu_miyake", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Haley Bob James", "show": "One Tree Hill", "id": "one_tree_hill_haley_bob_james", "similarity": 0.046, "shared_tropes": 4}]}

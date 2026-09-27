@@ -1,15 +1,1 @@
-{
-  "name": "Bellus Haardy",
-  "show": "Killjoys",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "RetiredBadass",
-    "WhatHappenedToTheMouse",
-    "TheHandler",
-    "MamaBear",
-    "GroinAttack",
-    "CoolOldLady"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bellus Haardy", "show": "Killjoys", "trope_count": 7, "tropes": ["DeadpanSnarker", "RetiredBadass", "WhatHappenedToTheMouse", "TheHandler", "MamaBear", "GroinAttack", "CoolOldLady"], "tropes_by_category": {}, "similar": [{"name": "Connie Tucker", "show": "The Big Bang Theory", "id": "the_big_bang_theory_connie_tucker", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Slappy Squirrel", "show": "Animaniacs", "id": "animaniacs_slappy_squirrel", "similarity": 0.0476, "shared_tropes": 4}]}

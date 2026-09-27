@@ -1,17 +1,1 @@
-{
-  "name": "Double Dutch",
-  "show": "iCarly",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "TheNicknamer",
-    "InformedAbility",
-    "ThePrimaDonna",
-    "Autotune",
-    "TwoferTokenMinority",
-    "AlliterativeName",
-    "OnlyKnownByTheirNickname",
-    "AsianAirhead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Double Dutch", "show": "iCarly", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "TheNicknamer", "InformedAbility", "ThePrimaDonna", "Autotune", "TwoferTokenMinority", "AlliterativeName", "OnlyKnownByTheirNickname", "AsianAirhead"], "tropes_by_category": {}, "similar": [{"name": "Phillip \"Flip\" Phillipini", "show": "Loud House, The", "id": "loud_house_the_phillip_flip_phillipini", "similarity": 0.1111, "shared_tropes": 4}, {"name": "The Vamp Kids", "show": "South Park", "id": "south_park_the_vamp_kids", "similarity": 0.0563, "shared_tropes": 4}, {"name": "The Fonz", "show": "Happy Days", "id": "happy_days_the_fonz", "similarity": 0.037, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Geena Williams-Conner",
-  "show": "Roseanne",
-  "trope_count": 6,
-  "tropes": [
-    "TheBusCameBack",
-    "ChildhoodFriendRomance",
-    "IceQueen",
-    "PutOnABus",
-    "ThePessimist",
-    "TheFundamentalist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Geena Williams-Conner", "show": "Roseanne", "trope_count": 6, "tropes": ["TheBusCameBack", "ChildhoodFriendRomance", "IceQueen", "PutOnABus", "ThePessimist", "TheFundamentalist"], "tropes_by_category": {}, "similar": [{"name": "Geena Williams-Conner", "show": "Conners, The", "id": "conners_the_geena_williams_conner", "similarity": 1.0, "shared_tropes": 6}]}
