@@ -1,18 +1,1 @@
-{
-  "name": "Tamera Campbell",
-  "show": "Sister, Sister",
-  "trope_count": 10,
-  "tropes": [
-    "RedOniBlueOni",
-    "FoolishSiblingResponsibleSibling",
-    "BrattyTeenageDaughter",
-    "TheDitz",
-    "HappilyAdopted",
-    "PolarOppositeTwins",
-    "BrilliantButLazy",
-    "ItsAllAboutMe",
-    "BookDumb",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tamera Campbell", "show": "Sister, Sister", "trope_count": 10, "tropes": ["RedOniBlueOni", "FoolishSiblingResponsibleSibling", "BrattyTeenageDaughter", "TheDitz", "HappilyAdopted", "PolarOppositeTwins", "BrilliantButLazy", "ItsAllAboutMe", "BookDumb", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Mallory Keaton", "show": "Family Ties", "id": "family_ties_mallory_keaton", "similarity": 0.25, "shared_tropes": 5}, {"name": "Tia Landry", "show": "Sister, Sister", "id": "sister_sister_tia_landry", "similarity": 0.2353, "shared_tropes": 4}, {"name": "CariDee", "show": "America's Next Top Model", "id": "americas_next_top_model_caridee", "similarity": 0.1667, "shared_tropes": 4}, {"name": "The Angry Beavers", "show": "Angry Beavers, The", "id": "angry_beavers_the_the_angry_beavers", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Zoey Johnson", "show": "Black-ish", "id": "black_ish_zoey_johnson", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Todd Daring", "show": "Replacements, The", "id": "replacements_the_todd_daring", "similarity": 0.1333, "shared_tropes": 4}, {"name": "JackMcFarland", "show": "Will & Grace", "id": "will_and_grace_jackmcfarland", "similarity": 0.125, "shared_tropes": 5}, {"name": "Zachary \"Zack\" Martin", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_zachary_zack_martin", "similarity": 0.1042, "shared_tropes": 5}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Harriet Tubman",
-  "show": "Clone High",
-  "trope_count": 10,
-  "tropes": [
-    "ProgressivelyPrettier",
-    "ThePerfectionist",
-    "PunnyName",
-    "GenkiGirl",
-    "InkSuitActor",
-    "NiceGirl",
-    "IJustWantToBeSpecial",
-    "SassyBlackWoman",
-    "AscendedExtra",
-    "RoseHairedSweetie"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Harriet Tubman", "show": "Clone High", "trope_count": 10, "tropes": ["ProgressivelyPrettier", "ThePerfectionist", "PunnyName", "GenkiGirl", "InkSuitActor", "NiceGirl", "IJustWantToBeSpecial", "SassyBlackWoman", "AscendedExtra", "RoseHairedSweetie"], "tropes_by_category": {}, "similar": [{"name": "Mika Macklin/Shout-Out", "show": "Danger Force", "id": "danger_force_mika_macklin_shout_out", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Nia the Helpful Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_nia_the_helpful_engine", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Kabae", "show": "Aggretsuko", "id": "aggretsuko_kabae", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Stephanie", "show": "Lazytown", "id": "lazytown_stephanie", "similarity": 0.0962, "shared_tropes": 5}, {"name": "The Kid Chorus", "show": "Histeria!", "id": "histeria_the_kid_chorus", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Olga", "show": "Hey Arnold!", "id": "hey_arnold_olga", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Friends/Allies", "show": "Freakazoid!", "id": "freakazoid_friends_allies", "similarity": 0.05, "shared_tropes": 4}]}

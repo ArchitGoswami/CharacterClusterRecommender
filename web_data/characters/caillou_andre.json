@@ -1,14 +1,1 @@
-{
-  "name": "Andre",
-  "show": "Caillou",
-  "trope_count": 6,
-  "tropes": [
-    "GentleGiant",
-    "TheBigGuy",
-    "LovableJock",
-    "NiceGuy",
-    "OnlyOneName",
-    "MeaningfulName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Andre", "show": "Caillou", "trope_count": 6, "tropes": ["GentleGiant", "TheBigGuy", "LovableJock", "NiceGuy", "OnlyOneName", "MeaningfulName"], "tropes_by_category": {}, "similar": [{"name": "Dayakka Littner", "show": "Tengen Toppa Gurren Lagann", "id": "tengen_toppa_gurren_lagann_dayakka_littner", "similarity": 0.25, "shared_tropes": 4}, {"name": "Herry", "show": "Sesame Street", "id": "sesame_street_herry", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Kano", "show": "Venture Bros., The", "id": "venture_bros_the_kano", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Brick", "show": "Total Drama", "id": "total_drama_brick", "similarity": 0.119, "shared_tropes": 5}, {"name": "Hector Jötunheim", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_hector_j_tunheim", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Larry the Lobster", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_larry_the_lobster", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Kon Kujira", "show": "Grojband", "id": "grojband_kon_kujira", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Bulkhead", "show": "Transformers Animated", "id": "transformers_animated_bulkhead", "similarity": 0.069, "shared_tropes": 4}]}

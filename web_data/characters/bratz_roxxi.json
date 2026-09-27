@@ -1,17 +1,1 @@
-{
-  "name": "Roxxi",
-  "show": "Bratz",
-  "trope_count": 9,
-  "tropes": [
-    "OfficialCouple",
-    "FieryRedhead",
-    "ShipTease",
-    "PunkRock",
-    "PolarOppositeTwins",
-    "CharacterSignatureSong",
-    "LateComingOut",
-    "PerkyGoth",
-    "BlitheSpirit"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Roxxi", "show": "Bratz", "trope_count": 9, "tropes": ["OfficialCouple", "FieryRedhead", "ShipTease", "PunkRock", "PolarOppositeTwins", "CharacterSignatureSong", "LateComingOut", "PerkyGoth", "BlitheSpirit"], "tropes_by_category": {}, "similar": [{"name": "Lily Aldrin", "show": "How I Met Your Mother", "id": "how_i_met_your_mother_lily_aldrin", "similarity": 0.0435, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Luther",
-  "show": "Zeke and Luther",
-  "trope_count": 7,
-  "tropes": [
-    "CloudcuckoolandersMinder",
-    "TheDitz",
-    "JerkassToOne",
-    "HeterosexualLifePartners",
-    "UnknownRival",
-    "SignificantBirthDate",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Luther", "show": "Zeke and Luther", "trope_count": 7, "tropes": ["CloudcuckoolandersMinder", "TheDitz", "JerkassToOne", "HeterosexualLifePartners", "UnknownRival", "SignificantBirthDate", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Bob the Tomato", "show": "VeggieTales", "id": "veggietales_bob_the_tomato", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Bob the Tomato", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_bob_the_tomato", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Frylock", "show": "Aqua Teen Hunger Force", "id": "aqua_teen_hunger_force_frylock", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Phoebe", "show": "Friends", "id": "friends_phoebe", "similarity": 0.0351, "shared_tropes": 4}]}

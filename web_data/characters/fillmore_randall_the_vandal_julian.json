@@ -1,16 +1,1 @@
-{
-  "name": "Randall \"The Vandal\" Julian",
-  "show": "Fillmore!",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "Expy",
-    "BeatItByCompulsion",
-    "InsufferableGenius",
-    "ConsultingAConvictedKiller",
-    "Determinator",
-    "VillainWithGoodPublicity",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Randall \"The Vandal\" Julian", "show": "Fillmore!", "trope_count": 8, "tropes": ["HeelFaceTurn", "Expy", "BeatItByCompulsion", "InsufferableGenius", "ConsultingAConvictedKiller", "Determinator", "VillainWithGoodPublicity", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Kamilah", "show": "Good Place, The", "id": "good_place_the_kamilah", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Kamilah", "show": "The Good Place", "id": "the_good_place_kamilah", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Dale the Whale", "show": "Monk", "id": "monk_dale_the_whale", "similarity": 0.0444, "shared_tropes": 4}, {"name": "Riddler", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_riddler", "similarity": 0.0417, "shared_tropes": 4}]}

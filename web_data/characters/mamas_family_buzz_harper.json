@@ -1,14 +1,1 @@
-{
-  "name": "Buzz Harper",
-  "show": "Mama's Family",
-  "trope_count": 6,
-  "tropes": [
-    "TheDogBitesBack",
-    "PutOnABus",
-    "SoProudOfYou",
-    "FlatCharacter",
-    "MissingMom",
-    "OnlyKnownByTheirNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buzz Harper", "show": "Mama's Family", "trope_count": 6, "tropes": ["TheDogBitesBack", "PutOnABus", "SoProudOfYou", "FlatCharacter", "MissingMom", "OnlyKnownByTheirNickname"], "tropes_by_category": {}, "similar": [{"name": "Recurring Characters", "show": "Raven's Home", "id": "ravens_home_recurring_characters", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Recurring Characters", "show": "That's So Raven", "id": "thats_so_raven_recurring_characters", "similarity": 0.1053, "shared_tropes": 4}]}

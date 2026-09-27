@@ -1,14 +1,1 @@
-{
-  "name": "The Cabbie Killer",
-  "show": "CSI: NY",
-  "trope_count": 6,
-  "tropes": [
-    "AGodAmI",
-    "BatmanGambit",
-    "OnlyKnownByTheirNickname",
-    "AbandonedArea",
-    "MotiveDecay",
-    "VillainBall"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Cabbie Killer", "show": "CSI: NY", "trope_count": 6, "tropes": ["AGodAmI", "BatmanGambit", "OnlyKnownByTheirNickname", "AbandonedArea", "MotiveDecay", "VillainBall"], "tropes_by_category": {}, "similar": []}

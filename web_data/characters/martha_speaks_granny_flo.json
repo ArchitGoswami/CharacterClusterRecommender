@@ -1,12 +1,1 @@
-{
-  "name": "Granny Flo",
-  "show": "Martha Speaks",
-  "trope_count": 4,
-  "tropes": [
-    "NoFullNameGiven",
-    "ScratchyVoicedSenior",
-    "Greed",
-    "WhenIWasYourAge"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Granny Flo", "show": "Martha Speaks", "trope_count": 4, "tropes": ["NoFullNameGiven", "ScratchyVoicedSenior", "Greed", "WhenIWasYourAge"], "tropes_by_category": {}, "similar": []}

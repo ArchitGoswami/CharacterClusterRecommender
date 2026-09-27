@@ -1,10 +1,1 @@
-{
-  "name": "John Reynolds",
-  "show": "Abbott Elementary",
-  "trope_count": 2,
-  "tropes": [
-    "KickTheDog",
-    "DisproportionateRetribution"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "John Reynolds", "show": "Abbott Elementary", "trope_count": 7, "tropes": ["SmallRoleBigImpact", "DisproportionateRetribution", "KarmaHoudini", "PutOnTheBus", "BitchInSheepsClothing", "CorruptBureaucrat", "KickTheDog"], "tropes_by_category": {}, "similar": []}

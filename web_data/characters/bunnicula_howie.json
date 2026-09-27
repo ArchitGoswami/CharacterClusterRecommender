@@ -1,17 +1,1 @@
-{
-  "name": "Howie",
-  "show": "Bunnicula",
-  "trope_count": 9,
-  "tropes": [
-    "InterspeciesAdoption",
-    "Pun",
-    "AnimatedAdaptation",
-    "KidHero",
-    "MellowFellow",
-    "PungeonMaster",
-    "AdaptedOut",
-    "OurWerewolvesAreDifferent",
-    "DogsAreDumb"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Howie", "show": "Bunnicula", "trope_count": 9, "tropes": ["InterspeciesAdoption", "Pun", "AnimatedAdaptation", "KidHero", "MellowFellow", "PungeonMaster", "AdaptedOut", "OurWerewolvesAreDifferent", "DogsAreDumb"], "tropes_by_category": {}, "similar": []}

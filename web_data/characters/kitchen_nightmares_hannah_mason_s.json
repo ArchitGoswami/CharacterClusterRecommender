@@ -1,18 +1,1 @@
-{
-  "name": "Hannah & Mason's",
-  "show": "Kitchen Nightmares",
-  "trope_count": 10,
-  "tropes": [
-    "ThoseTwoGuys",
-    "NeverMyFault",
-    "EpicFail",
-    "TheQuietOne",
-    "BerserkButton",
-    "CaptainObvious",
-    "TranquilFury",
-    "TheLoad",
-    "DullSurprise",
-    "TheEeyore"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hannah & Mason's", "show": "Kitchen Nightmares", "trope_count": 10, "tropes": ["ThoseTwoGuys", "NeverMyFault", "EpicFail", "TheQuietOne", "BerserkButton", "CaptainObvious", "TranquilFury", "TheLoad", "DullSurprise", "TheEeyore"], "tropes_by_category": {}, "similar": [{"name": "Hannah & Mason's", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_hannah_mason_s", "similarity": 1.0, "shared_tropes": 10}, {"name": "Seascape", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_seascape", "similarity": 0.2778, "shared_tropes": 5}, {"name": "Seascape", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_seascape", "similarity": 0.2778, "shared_tropes": 5}, {"name": "Season  14 (Generations)", "show": "MasterChef", "id": "masterchef_season_14_generations", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Janice Soprano", "show": "Sopranos,The", "id": "sopranosthe_janice_soprano", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Janice Soprano", "show": "The Sopranos", "id": "the_sopranos_janice_soprano", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Season  4", "show": "MasterChef", "id": "masterchef_season_4", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Season  5", "show": "MasterChef", "id": "masterchef_season_5", "similarity": 0.043, "shared_tropes": 4}]}

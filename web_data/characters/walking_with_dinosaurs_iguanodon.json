@@ -1,17 +1,1 @@
-{
-  "name": "Iguanodon",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 9,
-  "tropes": [
-    "CowTools",
-    "FantasticFaunaCounterpart",
-    "PaletteSwap",
-    "SocialOrnithopod",
-    "ThoseTwoGuys",
-    "MonsterMunch",
-    "ColorCodedForYourConvenience",
-    "TheCameo",
-    "AdaptationalBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Iguanodon", "show": "Walking with Dinosaurs", "trope_count": 9, "tropes": ["CowTools", "FantasticFaunaCounterpart", "PaletteSwap", "SocialOrnithopod", "ThoseTwoGuys", "MonsterMunch", "ColorCodedForYourConvenience", "TheCameo", "AdaptationalBadass"], "tropes_by_category": {}, "similar": [{"name": "DryosaurusandOthnielia", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_dryosaurusandothnielia", "similarity": 0.2857, "shared_tropes": 4}, {"name": "Anatotitan", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_anatotitan", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Leaellynasaura", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_leaellynasaura", "similarity": 0.125, "shared_tropes": 4}]}

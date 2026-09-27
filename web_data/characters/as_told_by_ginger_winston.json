@@ -1,15 +1,1 @@
-{
-  "name": "Winston",
-  "show": "As Told by Ginger",
-  "trope_count": 7,
-  "tropes": [
-    "HypercompetentSidekick",
-    "ItMakesSenseInContext",
-    "TheJeeves",
-    "JustifiedTrope",
-    "IntergenerationalFriendship",
-    "ExtremeDoormat",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Winston", "show": "As Told by Ginger", "trope_count": 7, "tropes": ["HypercompetentSidekick", "ItMakesSenseInContext", "TheJeeves", "JustifiedTrope", "IntergenerationalFriendship", "ExtremeDoormat", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Reginald Jeeves", "show": "Jeeves and Wooster", "id": "jeeves_and_wooster_reginald_jeeves", "similarity": 0.0658, "shared_tropes": 5}]}

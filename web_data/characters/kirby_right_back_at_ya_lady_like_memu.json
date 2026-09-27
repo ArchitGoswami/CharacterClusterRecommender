@@ -1,18 +1,1 @@
-{
-  "name": "Lady Like (Memu)",
-  "show": "Kirby: Right Back at Ya!",
-  "trope_count": 10,
-  "tropes": [
-    "Malaproper",
-    "DeadpanSnarker",
-    "AdultsAreUseless",
-    "DramaQueen",
-    "HappilyMarried",
-    "GoodParents",
-    "PunnyName",
-    "HiddenDepths",
-    "AccentAdaptation",
-    "IKnowKarate"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lady Like (Memu)", "show": "Kirby: Right Back at Ya!", "trope_count": 14, "tropes": ["HiddenDepths", "HappilyMarried", "GoodParents", "AccentAdaptation", "AdultsAreUseless", "GullibleLemmings", "PunnyName", "DeadpanSnarker", "BreakingTheFourthWall", "IKnowKarate", "InformedFlaw", "Malaproper", "VanityIsFeminine", "DramaQueen"], "tropes_by_category": {}, "similar": [{"name": "Sir Ebrum (Parm)", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_sir_ebrum_parm", "similarity": 0.3182, "shared_tropes": 7}, {"name": "Duane and Nicole Williams", "show": "Craig of the Creek", "id": "craig_of_the_creek_duane_and_nicole_williams", "similarity": 0.1923, "shared_tropes": 5}, {"name": "Virginia Chance (née Thompson)", "show": "Raising Hope", "id": "raising_hope_virginia_chance_n_e_thompson", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Kabae", "show": "Aggretsuko", "id": "aggretsuko_kabae", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Rafael and Angie Diaz", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_rafael_and_angie_diaz", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Linda Flynn-Fletcher and Lawrence Fletcher", "show": "Phineas and Ferb", "id": "phineas_and_ferb_linda_flynn_fletcher_and_lawrence_fletcher", "similarity": 0.0794, "shared_tropes": 5}, {"name": "Main Cast", "show": "Still Game", "id": "still_game_main_cast", "similarity": 0.0732, "shared_tropes": 6}, {"name": "Archie Bunker", "show": "All in the Family", "id": "all_in_the_family_archie_bunker", "similarity": 0.0625, "shared_tropes": 4}]}

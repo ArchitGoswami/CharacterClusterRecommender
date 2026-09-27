@@ -1,14 +1,1 @@
-{
-  "name": "Dr. Jacob Bryanson",
-  "show": "Ted Lasso",
-  "trope_count": 6,
-  "tropes": [
-    "ParentWithNewParamour",
-    "SoccerHatingAmericans",
-    "RealLife",
-    "PsychoPsychologist",
-    "UglyAmericanStereotype",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Jacob Bryanson", "show": "Ted Lasso", "trope_count": 7, "tropes": ["SympatheticWithAddedContext", "ParentWithNewParamour", "SoccerHatingAmericans", "RealLife", "UglyAmericanStereotype", "BitchInSheepsClothing", "PsychoPsychologist"], "tropes_by_category": {}, "similar": []}

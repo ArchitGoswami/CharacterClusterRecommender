@@ -1,13 +1,1 @@
-{
-  "name": "Arnie Thomas",
-  "show": "Roseanne",
-  "trope_count": 5,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "TheTag",
-    "AlienAbduction",
-    "TheFriendNoOneLikes",
-    "TheLoad"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Arnie Thomas", "show": "Roseanne", "trope_count": 5, "tropes": ["JerkWithAHeartOfGold", "TheTag", "AlienAbduction", "TheFriendNoOneLikes", "TheLoad"], "tropes_by_category": {}, "similar": [{"name": "Arnie Thomas", "show": "Conners, The", "id": "conners_the_arnie_thomas", "similarity": 1.0, "shared_tropes": 5}]}

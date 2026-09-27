@@ -1,13 +1,1 @@
-{
-  "name": "Devin",
-  "show": "AP Bio",
-  "trope_count": 5,
-  "tropes": [
-    "MadArtist",
-    "ChuckCunninghamSyndrome",
-    "ApocalypseAnarchy",
-    "HollywoodSatanism",
-    "WildCard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Devin", "show": "AP Bio", "trope_count": 5, "tropes": ["MadArtist", "ChuckCunninghamSyndrome", "ApocalypseAnarchy", "HollywoodSatanism", "WildCard"], "tropes_by_category": {}, "similar": []}

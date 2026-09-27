@@ -1,17 +1,1 @@
-{
-  "name": "Carmelo Dante",
-  "show": "Burn Notice",
-  "trope_count": 9,
-  "tropes": [
-    "MexicanStandoff",
-    "UnwittingPawn",
-    "DeathGlare",
-    "WeWillMeetAgain",
-    "AxCrazy",
-    "VillainOfTheWeek",
-    "EnemyMine",
-    "VillainCred",
-    "Sadist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carmelo Dante", "show": "Burn Notice", "trope_count": 9, "tropes": ["MexicanStandoff", "UnwittingPawn", "DeathGlare", "WeWillMeetAgain", "AxCrazy", "VillainOfTheWeek", "EnemyMine", "VillainCred", "Sadist"], "tropes_by_category": {}, "similar": [{"name": "Mizuki", "show": "Naruto", "id": "naruto_mizuki", "similarity": 0.043, "shared_tropes": 4}, {"name": "The Cousins", "show": "Breaking Bad", "id": "breaking_bad_the_cousins", "similarity": 0.0379, "shared_tropes": 5}]}

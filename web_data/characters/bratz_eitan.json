@@ -1,13 +1,1 @@
-{
-  "name": "Eitan",
-  "show": "Bratz",
-  "trope_count": 5,
-  "tropes": [
-    "ShipTease",
-    "CharacterSignatureSong",
-    "AmbiguouslyBrown",
-    "ImpliedLoveInterest",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eitan", "show": "Bratz", "trope_count": 5, "tropes": ["ShipTease", "CharacterSignatureSong", "AmbiguouslyBrown", "ImpliedLoveInterest", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": [{"name": "Yasmin", "show": "Bratz", "id": "bratz_yasmin", "similarity": 0.2083, "shared_tropes": 5}]}

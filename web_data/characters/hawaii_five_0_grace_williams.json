@@ -1,17 +1,1 @@
-{
-  "name": "Grace Williams",
-  "show": "Hawaii Five-0",
-  "trope_count": 9,
-  "tropes": [
-    "OfficialCouple",
-    "HonoraryUncle",
-    "LittleMissConArtist",
-    "GirlishPigtails",
-    "DaddysGirl",
-    "NiceGirl",
-    "ChildProdigy",
-    "DeadGuyJunior",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Grace Williams", "show": "Hawaii Five-0", "trope_count": 9, "tropes": ["OfficialCouple", "HonoraryUncle", "LittleMissConArtist", "GirlishPigtails", "DaddysGirl", "NiceGirl", "ChildProdigy", "DeadGuyJunior", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Lana L. Loud", "show": "Loud House, The", "id": "loud_house_the_lana_l_loud", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Dee Dee", "show": "Dexter's Laboratory", "id": "dexters_laboratory_dee_dee", "similarity": 0.036, "shared_tropes": 4}, {"name": "Jinora", "show": "Legend of Korra, The", "id": "legend_of_korra_the_jinora", "similarity": 0.0354, "shared_tropes": 4}]}

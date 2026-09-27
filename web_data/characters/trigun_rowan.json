@@ -1,18 +1,1 @@
-{
-  "name": "Rowan",
-  "show": "Trigun",
-  "trope_count": 10,
-  "tropes": [
-    "LoveMakesYouCrazy",
-    "SlasherSmile",
-    "IfICantHaveYou",
-    "Yandere",
-    "SpellMyNameWithAnS",
-    "MurderTheHypotenuse",
-    "AxCrazy",
-    "NotGoodWithRejection",
-    "BewareTheNiceOnes",
-    "CanonImmigrant"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rowan", "show": "Trigun", "trope_count": 10, "tropes": ["LoveMakesYouCrazy", "SlasherSmile", "IfICantHaveYou", "Yandere", "SpellMyNameWithAnS", "MurderTheHypotenuse", "AxCrazy", "NotGoodWithRejection", "BewareTheNiceOnes", "CanonImmigrant"], "tropes_by_category": {}, "similar": [{"name": "Debbie", "show": "True Blood", "id": "true_blood_debbie", "similarity": 0.1786, "shared_tropes": 5}, {"name": "Katie Ryan", "show": "One Tree Hill", "id": "one_tree_hill_katie_ryan", "similarity": 0.1667, "shared_tropes": 4}, {"name": "The Precious, Wonderful, Adorable, Lovable Duckling", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_the_precious_wonderful_adorable_lovable_duckling", "similarity": 0.1481, "shared_tropes": 4}, {"name": "\"Creepy\" Connie Thompson", "show": "Jessie", "id": "jessie_creepy_connie_thompson", "similarity": 0.129, "shared_tropes": 4}, {"name": "Haruna Niekawa", "show": "Durarara!!", "id": "durarara_haruna_niekawa", "similarity": 0.122, "shared_tropes": 5}, {"name": "Old Gregg", "show": "Mighty Boosh, The", "id": "mighty_boosh_the_old_gregg", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Carla", "show": "Urusei Yatsura", "id": "urusei_yatsura_carla", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Ryotaro Sakajo", "show": "Death Note", "id": "death_note_ryotaro_sakajo", "similarity": 0.1026, "shared_tropes": 4}]}

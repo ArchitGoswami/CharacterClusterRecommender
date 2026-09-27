@@ -1,18 +1,1 @@
-{
-  "name": "Phil",
-  "show": "Frisky Dingo",
-  "trope_count": 10,
-  "tropes": [
-    "TheDogBitesBack",
-    "CharacterDeath",
-    "ChekhovsGunman",
-    "FatBastard",
-    "AcquiredPoisonImmunity",
-    "BoomHeadshot",
-    "TheTopicOfCancer",
-    "BackForTheFinale",
-    "BackForTheDead",
-    "HollywoodPudgy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Phil", "show": "Frisky Dingo", "trope_count": 10, "tropes": ["TheDogBitesBack", "CharacterDeath", "ChekhovsGunman", "FatBastard", "AcquiredPoisonImmunity", "BoomHeadshot", "TheTopicOfCancer", "BackForTheFinale", "BackForTheDead", "HollywoodPudgy"], "tropes_by_category": {}, "similar": [{"name": "Arthur Penn/The Ventriloquist", "show": "Gotham", "id": "gotham_arthur_penn_the_ventriloquist", "similarity": 0.125, "shared_tropes": 4}]}

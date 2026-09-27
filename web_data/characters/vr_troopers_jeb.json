@@ -1,14 +1,1 @@
-{
-  "name": "Jeb",
-  "show": "VR Troopers",
-  "trope_count": 6,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "AdaptationalSpeciesChange",
-    "LaserGuidedKarma",
-    "FreakyFridayFlip",
-    "TalkingAnimal",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeb", "show": "VR Troopers", "trope_count": 6, "tropes": ["NoCelebritiesWereHarmed", "AdaptationalSpeciesChange", "LaserGuidedKarma", "FreakyFridayFlip", "TalkingAnimal", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": []}

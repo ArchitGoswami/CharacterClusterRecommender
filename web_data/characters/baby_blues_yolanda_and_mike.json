@@ -1,16 +1,1 @@
-{
-  "name": "Yolanda and Mike",
-  "show": "Baby Blues",
-  "trope_count": 8,
-  "tropes": [
-    "InconsistentColoring",
-    "LivingProp",
-    "TokenBlackFriend",
-    "SatelliteCharacter",
-    "AerithAndBob",
-    "LastMinuteBabyNaming",
-    "OnlyOneName",
-    "FlatCharacter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Yolanda and Mike", "show": "Baby Blues", "trope_count": 8, "tropes": ["InconsistentColoring", "LivingProp", "TokenBlackFriend", "SatelliteCharacter", "AerithAndBob", "LastMinuteBabyNaming", "OnlyOneName", "FlatCharacter"], "tropes_by_category": {}, "similar": [{"name": "Nadine", "show": "Hey Arnold!", "id": "hey_arnold_nadine", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Marron", "show": "Dragon Ball", "id": "dragon_ball_marron", "similarity": 0.1, "shared_tropes": 4}, {"name": "Tenten", "show": "Naruto", "id": "naruto_tenten", "similarity": 0.0435, "shared_tropes": 4}]}

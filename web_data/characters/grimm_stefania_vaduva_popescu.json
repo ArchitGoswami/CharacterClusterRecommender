@@ -1,16 +1,1 @@
-{
-  "name": "Stefania Vaduva Popescu",
-  "show": "Grimm",
-  "trope_count": 8,
-  "tropes": [
-    "EvilSoundsDeep",
-    "TheChessmaster",
-    "KarmaHoudini",
-    "GodSaveUsFromTheQueen",
-    "Hypocrite",
-    "ManipulativeBitch",
-    "FauxAffablyEvil",
-    "PsychoticSmirk"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stefania Vaduva Popescu", "show": "Grimm", "trope_count": 8, "tropes": ["EvilSoundsDeep", "TheChessmaster", "KarmaHoudini", "GodSaveUsFromTheQueen", "Hypocrite", "ManipulativeBitch", "FauxAffablyEvil", "PsychoticSmirk"], "tropes_by_category": {}, "similar": [{"name": "Gloria Hodge", "show": "Desperate Housewives", "id": "desperate_housewives_gloria_hodge", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Wendy", "show": "Oz", "id": "oz_wendy", "similarity": 0.098, "shared_tropes": 5}, {"name": "Wendy", "show": "Ozark", "id": "ozark_wendy", "similarity": 0.098, "shared_tropes": 5}, {"name": "Gemma Teller Morrow (née Madock)", "show": "Sons of Anarchy", "id": "sons_of_anarchy_gemma_teller_morrow_n_e_madock", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Dr. Claw", "show": "Inspector Gadget", "id": "inspector_gadget_dr_claw", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Vexus", "show": "My Life as a Teenage Robot", "id": "my_life_as_a_teenage_robot_vexus", "similarity": 0.069, "shared_tropes": 4}, {"name": "Servalan", "show": "Blake's 7", "id": "blakes_7_servalan", "similarity": 0.0678, "shared_tropes": 4}, {"name": "The Gnome", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_the_gnome", "similarity": 0.0667, "shared_tropes": 4}]}

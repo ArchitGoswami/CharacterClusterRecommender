@@ -1,13 +1,1 @@
-{
-  "name": "Cornelius",
-  "show": "Babar",
-  "trope_count": 5,
-  "tropes": [
-    "CoolOldGuy",
-    "Catchphrase",
-    "HeterosexualLifePartners",
-    "BlindWithoutEm",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cornelius", "show": "Babar", "trope_count": 5, "tropes": ["CoolOldGuy", "Catchphrase", "HeterosexualLifePartners", "BlindWithoutEm", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Friends/Allies", "show": "Freakazoid!", "id": "freakazoid_friends_allies", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Second Doctor", "show": "Doctor Who", "id": "doctor_who_second_doctor", "similarity": 0.0367, "shared_tropes": 4}]}

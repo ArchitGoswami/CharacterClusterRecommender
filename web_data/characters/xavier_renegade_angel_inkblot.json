@@ -1,18 +1,1 @@
-{
-  "name": "Inkblot",
-  "show": "Xavier, Renegade Angel",
-  "trope_count": 10,
-  "tropes": [
-    "EnragedByIdiocy",
-    "AmbiguouslyEvil",
-    "ThereIsNoKillLikeOverkill",
-    "LastEpisodeNewCharacter",
-    "HumanoidAbomination",
-    "TheConscience",
-    "AssholeVictim",
-    "OnlySaneMan",
-    "Cloudcuckoolander",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Inkblot", "show": "Xavier, Renegade Angel", "trope_count": 10, "tropes": ["EnragedByIdiocy", "AmbiguouslyEvil", "ThereIsNoKillLikeOverkill", "LastEpisodeNewCharacter", "HumanoidAbomination", "TheConscience", "AssholeVictim", "OnlySaneMan", "Cloudcuckoolander", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Dayon", "show": "Osomatsu-san", "id": "osomatsu_san_dayon", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Frylock", "show": "Aqua Teen Hunger Force", "id": "aqua_teen_hunger_force_frylock", "similarity": 0.0532, "shared_tropes": 5}]}

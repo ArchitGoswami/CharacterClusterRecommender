@@ -1,16 +1,1 @@
-{
-  "name": "Bode Donovan",
-  "show": "Fire Country",
-  "trope_count": 8,
-  "tropes": [
-    "AllGirlsWantBadBoys",
-    "ChickMagnet",
-    "ChronicHeroSyndrome",
-    "FriendToAllChildren",
-    "AddledAddict",
-    "ItsAllMyFault",
-    "LoveTriangle",
-    "BlackSheep"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bode Donovan", "show": "Fire Country", "trope_count": 8, "tropes": ["AllGirlsWantBadBoys", "ChickMagnet", "ChronicHeroSyndrome", "FriendToAllChildren", "AddledAddict", "ItsAllMyFault", "LoveTriangle", "BlackSheep"], "tropes_by_category": {}, "similar": [{"name": "Officer / Sergeant Jamie Reagan", "show": "Blue Bloods", "id": "blue_bloods_officer_sergeant_jamie_reagan", "similarity": 0.0506, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Evan Drake",
-  "show": "Cheers",
-  "trope_count": 5,
-  "tropes": [
-    "DeadpanSnarker",
-    "ObliviousToLove",
-    "ReasonableAuthorityFigure",
-    "PutOnABus",
-    "InnocentlyInsensitive"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Evan Drake", "show": "Cheers", "trope_count": 5, "tropes": ["DeadpanSnarker", "ObliviousToLove", "ReasonableAuthorityFigure", "PutOnABus", "InnocentlyInsensitive"], "tropes_by_category": {}, "similar": [{"name": "Max Goof", "show": "Goof Troop", "id": "goof_troop_max_goof", "similarity": 0.036, "shared_tropes": 4}]}

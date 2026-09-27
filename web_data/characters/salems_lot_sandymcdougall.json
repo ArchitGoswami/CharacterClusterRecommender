@@ -1,13 +1,1 @@
-{
-  "name": "SandyMcDougall",
-  "show": "Salem's Lot",
-  "trope_count": 5,
-  "tropes": [
-    "DespairEventHorizon",
-    "AssholeVictim",
-    "DomesticAbuse",
-    "AbusiveParents",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "SandyMcDougall", "show": "Salem's Lot", "trope_count": 5, "tropes": ["DespairEventHorizon", "AssholeVictim", "DomesticAbuse", "AbusiveParents", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Luna", "show": "Boondocks,The", "id": "boondocksthe_luna", "similarity": 0.0727, "shared_tropes": 4}]}

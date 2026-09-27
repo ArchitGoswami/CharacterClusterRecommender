@@ -1,13 +1,1 @@
-{
-  "name": "Hyde",
-  "show": "Static Shock",
-  "trope_count": 5,
-  "tropes": [
-    "TheLeader",
-    "PunnyName",
-    "LargeAndInCharge",
-    "SuperToughness",
-    "TheBrute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hyde", "show": "Static Shock", "trope_count": 5, "tropes": ["TheLeader", "PunnyName", "LargeAndInCharge", "SuperToughness", "TheBrute"], "tropes_by_category": {}, "similar": [{"name": "Other specters", "show": "Saint Seiya", "id": "saint_seiya_other_specters", "similarity": 0.0377, "shared_tropes": 4}]}

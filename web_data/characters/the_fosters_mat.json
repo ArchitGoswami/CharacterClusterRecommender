@@ -1,13 +1,1 @@
-{
-  "name": "Mat",
-  "show": "The Fosters",
-  "trope_count": 5,
-  "tropes": [
-    "WorkingWithTheEx",
-    "BirdsOfAFeather",
-    "NiceGuy",
-    "LoveHurts",
-    "FirstLove"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mat", "show": "The Fosters", "trope_count": 5, "tropes": ["WorkingWithTheEx", "BirdsOfAFeather", "NiceGuy", "LoveHurts", "FirstLove"], "tropes_by_category": {}, "similar": [{"name": "Brandon", "show": "The Fosters", "id": "the_fosters_brandon", "similarity": 0.0889, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Fister",
-  "show": "Trailer Park Boys",
-  "trope_count": 8,
-  "tropes": [
-    "TraumaButton",
-    "DarkAndTroubledPast",
-    "TheDreaded",
-    "NamesToRunAwayFromReallyFast",
-    "SerialKiller",
-    "CruelAndUnusualDeath",
-    "AssShove",
-    "KnightOfCerebus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fister", "show": "Trailer Park Boys", "trope_count": 8, "tropes": ["TraumaButton", "DarkAndTroubledPast", "TheDreaded", "NamesToRunAwayFromReallyFast", "SerialKiller", "CruelAndUnusualDeath", "AssShove", "KnightOfCerebus"], "tropes_by_category": {}, "similar": [{"name": "Asmodeus Poisonteeth", "show": "Redwall", "id": "redwall_asmodeus_poisonteeth", "similarity": 0.0976, "shared_tropes": 4}, {"name": "John Curtis (The Replicator/The BAU Stalker)", "show": "Criminal Minds", "id": "criminal_minds_john_curtis_the_replicator_the_bau_stalker", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Globgor the Prince of Darkness", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_globgor_the_prince_of_darkness", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Davis Bloome/Doomsday", "show": "Smallville", "id": "smallville_davis_bloome_doomsday", "similarity": 0.0427, "shared_tropes": 5}, {"name": "Arthur Mitchell, (AKA:\"The Trinity Killer\")", "show": "Dexter", "id": "dexter_arthur_mitchell_aka_the_trinity_killer", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Mad Pierrot", "show": "Cowboy Bebop", "id": "cowboy_bebop_mad_pierrot", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Red Death", "show": "Venture Bros., The", "id": "venture_bros_the_red_death", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Death Gun", "show": "Sword Art Online", "id": "sword_art_online_death_gun", "similarity": 0.0374, "shared_tropes": 4}]}

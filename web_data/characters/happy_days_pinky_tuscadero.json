@@ -1,15 +1,1 @@
-{
-  "name": "Pinky Tuscadero",
-  "show": "Happy Days",
-  "trope_count": 7,
-  "tropes": [
-    "Catchphrase",
-    "LoveInterest",
-    "WrenchWench",
-    "PinkMeansFeminine",
-    "TheMaidenNameDebate",
-    "ColorCodedCharacters",
-    "TomboyWithAGirlyStreak"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pinky Tuscadero", "show": "Happy Days", "trope_count": 7, "tropes": ["Catchphrase", "LoveInterest", "WrenchWench", "PinkMeansFeminine", "TheMaidenNameDebate", "ColorCodedCharacters", "TomboyWithAGirlyStreak"], "tropes_by_category": {}, "similar": [{"name": "Aviva Corcovado", "show": "Wild Kratts", "id": "wild_kratts_aviva_corcovado", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Wanda Li", "show": "Magic School Bus, The", "id": "magic_school_bus_the_wanda_li", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Wanda Li", "show": "The Magic School Bus Rides Again", "id": "the_magic_school_bus_rides_again_wanda_li", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Isabella Garcia-Shapiro", "show": "Phineas and Ferb", "id": "phineas_and_ferb_isabella_garcia_shapiro", "similarity": 0.0385, "shared_tropes": 4}]}

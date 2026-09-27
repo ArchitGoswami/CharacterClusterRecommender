@@ -1,17 +1,1 @@
-{
-  "name": "Dr. Jim Taggart",
-  "show": "Eureka",
-  "trope_count": 9,
-  "tropes": [
-    "AmazonChaser",
-    "TheBigGuy",
-    "BFG",
-    "TheCuckoolanderWasRight",
-    "AgeGapRomance",
-    "InsistentTerminology",
-    "AwesomeAussie",
-    "CloudCuckoolander",
-    "GeniusBruiser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Jim Taggart", "show": "Eureka", "trope_count": 9, "tropes": ["AmazonChaser", "TheBigGuy", "BFG", "TheCuckoolanderWasRight", "AgeGapRomance", "InsistentTerminology", "AwesomeAussie", "CloudCuckoolander", "GeniusBruiser"], "tropes_by_category": {}, "similar": [{"name": "Bishop", "show": "X-Men", "id": "x_men_bishop", "similarity": 0.0351, "shared_tropes": 4}]}

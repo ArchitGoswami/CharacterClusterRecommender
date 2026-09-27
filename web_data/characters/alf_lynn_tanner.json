@@ -1,16 +1,1 @@
-{
-  "name": "Lynn Tanner",
-  "show": "ALF",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "TheUglyGuysHotDaughter",
-    "ButtMonkey",
-    "ShrinkingViolet",
-    "JerkassBall",
-    "PracticallyDifferentGenerations",
-    "EightiesHair",
-    "PluckyGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lynn Tanner", "show": "ALF", "trope_count": 8, "tropes": ["DeadpanSnarker", "TheUglyGuysHotDaughter", "ButtMonkey", "ShrinkingViolet", "JerkassBall", "PracticallyDifferentGenerations", "EightiesHair", "PluckyGirl"], "tropes_by_category": {}, "similar": [{"name": "Molly Hooper", "show": "Sherlock", "id": "sherlock_molly_hooper", "similarity": 0.08, "shared_tropes": 4}, {"name": "YAY-OK", "show": "Rocket Monkeys", "id": "rocket_monkeys_yay_ok", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Ally Dawson", "show": "Austin & Ally", "id": "austin_and_ally_ally_dawson", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Douglas Yancey \"Doug\" Funnie", "show": "Doug", "id": "doug_douglas_yancey_doug_funnie", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Bandit (Dad)", "show": "Bluey", "id": "bluey_bandit_dad", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Tenten", "show": "Naruto", "id": "naruto_tenten", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Velma Dinkley", "show": "Scooby-Doo", "id": "scooby_doo_velma_dinkley", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Monica", "show": "Friends", "id": "friends_monica", "similarity": 0.0382, "shared_tropes": 5}]}

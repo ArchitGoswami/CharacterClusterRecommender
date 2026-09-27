@@ -1,17 +1,1 @@
-{
-  "name": "Sheila Summers",
-  "show": "Bewitched",
-  "trope_count": 9,
-  "tropes": [
-    "AlphaBitch",
-    "LaserGuidedKarma",
-    "ArrangedMarriage",
-    "KickTheDog",
-    "HumiliationConga",
-    "ItsACostumePartyISwear",
-    "AlliterativeName",
-    "RichBitch",
-    "HairstyleMalfunction"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sheila Summers", "show": "Bewitched", "trope_count": 9, "tropes": ["AlphaBitch", "LaserGuidedKarma", "ArrangedMarriage", "KickTheDog", "HumiliationConga", "ItsACostumePartyISwear", "AlliterativeName", "RichBitch", "HairstyleMalfunction"], "tropes_by_category": {}, "similar": [{"name": "Lacey Ladybug", "show": "Buzz on Maggie, The", "id": "buzz_on_maggie_the_lacey_ladybug", "similarity": 0.3333, "shared_tropes": 4}, {"name": "Caroline", "show": "Succession", "id": "succession_caroline", "similarity": 0.1, "shared_tropes": 4}, {"name": "The Ashleys", "show": "Recess", "id": "recess_the_ashleys", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Paulina Sanchez", "show": "Danny Phantom", "id": "danny_phantom_paulina_sanchez", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Lady Upturn CCCXXXIII", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_lady_upturn_cccxxxiii", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Flash Thompson", "show": "Spider-Man", "id": "spider_man_flash_thompson", "similarity": 0.0476, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Proteus",
-  "show": "Penny Dreadful",
-  "trope_count": 9,
-  "tropes": [
-    "WeHardlyKnewYe",
-    "MythologyGag",
-    "MyGreatestFailure",
-    "SurprisinglySuddenDeath",
-    "NiceGuy",
-    "NonIndicativeName",
-    "MeaningfulName",
-    "HalfTheManHeUsedToBe",
-    "DecoyProtagonist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Proteus", "show": "Penny Dreadful", "trope_count": 9, "tropes": ["WeHardlyKnewYe", "MythologyGag", "MyGreatestFailure", "SurprisinglySuddenDeath", "NiceGuy", "NonIndicativeName", "MeaningfulName", "HalfTheManHeUsedToBe", "DecoyProtagonist"], "tropes_by_category": {}, "similar": [{"name": "Optimus Prime", "show": "Transformers Animated", "id": "transformers_animated_optimus_prime", "similarity": 0.0408, "shared_tropes": 4}]}

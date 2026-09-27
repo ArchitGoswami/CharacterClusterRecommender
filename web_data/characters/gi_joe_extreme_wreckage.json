@@ -1,16 +1,1 @@
-{
-  "name": "Wreckage",
-  "show": "G.I. Joe Extreme",
-  "trope_count": 8,
-  "tropes": [
-    "Cyborg",
-    "HeelFaceTurn",
-    "TragicMonster",
-    "TokenGoodTeammate",
-    "TheBrute",
-    "ToylessToylineCharacter",
-    "WouldntHurtAChild",
-    "GeniusBruiser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Wreckage", "show": "G.I. Joe Extreme", "trope_count": 8, "tropes": ["Cyborg", "HeelFaceTurn", "TragicMonster", "TokenGoodTeammate", "TheBrute", "ToylessToylineCharacter", "WouldntHurtAChild", "GeniusBruiser"], "tropes_by_category": {}, "similar": [{"name": "Wreckage", "show": "G.I. Joe", "id": "gi_joe_wreckage", "similarity": 1.0, "shared_tropes": 8}, {"name": "The Vexicons", "show": "Mysticons", "id": "mysticons_the_vexicons", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Breakdown", "show": "Transformers Prime", "id": "transformers_prime_breakdown", "similarity": 0.0556, "shared_tropes": 4}, {"name": "COBRA", "show": "G.I. Joe", "id": "gi_joe_cobra", "similarity": 0.0521, "shared_tropes": 5}]}

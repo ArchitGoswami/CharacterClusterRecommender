@@ -1,9 +1,1 @@
-{
-  "name": "Haunt",
-  "show": "Spawn",
-  "trope_count": 1,
-  "tropes": [
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Haunt", "show": "Spawn", "trope_count": 1, "tropes": ["HeroOfAnotherStory"], "tropes_by_category": {}, "similar": []}

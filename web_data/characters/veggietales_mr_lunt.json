@@ -1,16 +1,1 @@
-{
-  "name": "Mr. Lunt",
-  "show": "VeggieTales",
-  "trope_count": 8,
-  "tropes": [
-    "Expy",
-    "NotSoAboveItAll",
-    "EyelessFace",
-    "DragonInChief",
-    "MeanCharacterNiceActor",
-    "TheDragon",
-    "Cloudcuckoolander",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Lunt", "show": "VeggieTales", "trope_count": 8, "tropes": ["Expy", "NotSoAboveItAll", "EyelessFace", "DragonInChief", "MeanCharacterNiceActor", "TheDragon", "Cloudcuckoolander", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Mr. Lunt", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_mr_lunt", "similarity": 1.0, "shared_tropes": 8}]}

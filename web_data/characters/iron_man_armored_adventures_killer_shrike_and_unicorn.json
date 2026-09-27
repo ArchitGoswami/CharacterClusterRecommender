@@ -1,12 +1,1 @@
-{
-  "name": "Killer Shrike and Unicorn",
-  "show": "Iron Man: Armored Adventures",
-  "trope_count": 4,
-  "tropes": [
-    "IneffectualSympatheticVillain",
-    "SuperSpeed",
-    "Flight",
-    "InventionalWisdom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Killer Shrike and Unicorn", "show": "Iron Man: Armored Adventures", "trope_count": 5, "tropes": ["SuperSpeed", "AndThenJohnWasAZombie", "IneffectualSympatheticVillain", "InventionalWisdom", "Flight"], "tropes_by_category": {}, "similar": []}

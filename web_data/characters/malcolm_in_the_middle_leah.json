@@ -1,15 +1,1 @@
-{
-  "name": "Leah",
-  "show": "Malcolm in the Middle",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "FourthWallObserver",
-    "TeenGenius",
-    "FriendlessBackground",
-    "LikeParentLikeChild",
-    "InsufferableGenius",
-    "MissingMom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Leah", "show": "Malcolm in the Middle", "trope_count": 7, "tropes": ["DeadpanSnarker", "FourthWallObserver", "TeenGenius", "FriendlessBackground", "LikeParentLikeChild", "InsufferableGenius", "MissingMom"], "tropes_by_category": {}, "similar": [{"name": "Rico Suave", "show": "Hannah Montana", "id": "hannah_montana_rico_suave", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Malcolm", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_malcolm", "similarity": 0.046, "shared_tropes": 4}, {"name": "Anais Errrrrr Watterson", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_anais_errrrrr_watterson", "similarity": 0.0354, "shared_tropes": 4}]}

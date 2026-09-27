@@ -1,12 +1,1 @@
-{
-  "name": "Calliope",
-  "show": "Welcome to the Wayne",
-  "trope_count": 4,
-  "tropes": [
-    "GoldFishPoopGang",
-    "ZigZaggingTrope",
-    "NebulousEvilOrganization",
-    "DeusExMachina"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Calliope", "show": "Welcome to the Wayne", "trope_count": 4, "tropes": ["GoldFishPoopGang", "ZigZaggingTrope", "NebulousEvilOrganization", "DeusExMachina"], "tropes_by_category": {}, "similar": []}

@@ -1,18 +1,1 @@
-{
-  "name": "Jessica Warren",
-  "show": "Bones",
-  "trope_count": 10,
-  "tropes": [
-    "AttentionWhore",
-    "TheNicknamer",
-    "NiceGuy",
-    "Foil",
-    "RedIsHeroic",
-    "SuspiciouslySimilarSubstitute",
-    "MadScientist",
-    "BetaCouple",
-    "InsistentTerminology",
-    "PlayedForLaughs"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jessica Warren", "show": "Bones", "trope_count": 10, "tropes": ["AttentionWhore", "TheNicknamer", "NiceGuy", "Foil", "RedIsHeroic", "SuspiciouslySimilarSubstitute", "MadScientist", "BetaCouple", "InsistentTerminology", "PlayedForLaughs"], "tropes_by_category": {}, "similar": [{"name": "Bubba Higgins", "show": "Mama's Family", "id": "mamas_family_bubba_higgins", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Darryl Whitefeather", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_darryl_whitefeather", "similarity": 0.093, "shared_tropes": 4}, {"name": "Sam", "show": "Total Drama", "id": "total_drama_sam", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Raj", "show": "Total Drama", "id": "total_drama_raj", "similarity": 0.0641, "shared_tropes": 5}, {"name": "Wayne", "show": "Total Drama", "id": "total_drama_wayne", "similarity": 0.0568, "shared_tropes": 5}, {"name": "Dr. Spencer Reid", "show": "Criminal Minds", "id": "criminal_minds_dr_spencer_reid", "similarity": 0.0444, "shared_tropes": 4}, {"name": "Captain Duck Dodgers", "show": "Duck Dodgers", "id": "duck_dodgers_captain_duck_dodgers", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Jay Cartwright", "show": "Inbetweeners, The", "id": "inbetweeners_the_jay_cartwright", "similarity": 0.0435, "shared_tropes": 4}]}

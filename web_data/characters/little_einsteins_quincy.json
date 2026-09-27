@@ -1,14 +1,1 @@
-{
-  "name": "Quincy",
-  "show": "Little Einsteins",
-  "trope_count": 6,
-  "tropes": [
-    "ADayInTheLimelight",
-    "CurtainsMatchTheWindows",
-    "NeverBareheaded",
-    "Hammerspace",
-    "PrimalFear",
-    "WhyDidItHaveToBeSnakes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Quincy", "show": "Little Einsteins", "trope_count": 6, "tropes": ["ADayInTheLimelight", "CurtainsMatchTheWindows", "NeverBareheaded", "Hammerspace", "PrimalFear", "WhyDidItHaveToBeSnakes"], "tropes_by_category": {}, "similar": [{"name": "Wakko", "show": "Animaniacs", "id": "animaniacs_wakko", "similarity": 0.0588, "shared_tropes": 4}]}

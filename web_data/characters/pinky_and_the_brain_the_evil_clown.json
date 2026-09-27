@@ -1,13 +1,1 @@
-{
-  "name": "The Evil Clown",
-  "show": "Pinky and the Brain",
-  "trope_count": 5,
-  "tropes": [
-    "EveryoneCallsHimBarkeep",
-    "EvilLaugh",
-    "TheVoiceless",
-    "TheDragon",
-    "MonsterClown"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Evil Clown", "show": "Pinky and the Brain", "trope_count": 5, "tropes": ["EveryoneCallsHimBarkeep", "EvilLaugh", "TheVoiceless", "TheDragon", "MonsterClown"], "tropes_by_category": {}, "similar": []}

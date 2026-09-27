@@ -1,18 +1,1 @@
-{
-  "name": "Black Mokona (Larg)",
-  "show": "xxx HOLiC",
-  "trope_count": 10,
-  "tropes": [
-    "PintSizedPowerhouse",
-    "RidiculouslyCuteCritter",
-    "SeriesMascot",
-    "TheMaker",
-    "TheAlcoholic",
-    "BigEater",
-    "TheBeastmaster",
-    "CloneJesus",
-    "EyesAlwaysClosed",
-    "TheArtifact"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Black Mokona (Larg)", "show": "xxx HOLiC", "trope_count": 10, "tropes": ["PintSizedPowerhouse", "RidiculouslyCuteCritter", "SeriesMascot", "TheMaker", "TheAlcoholic", "BigEater", "TheBeastmaster", "CloneJesus", "EyesAlwaysClosed", "TheArtifact"], "tropes_by_category": {}, "similar": [{"name": "Mokona Modoki (Soel)", "show": "Tsubasa RESERVoir CHRoNiCLE", "id": "tsubasa_reservoir_chronicle_mokona_modoki_soel", "similarity": 0.25, "shared_tropes": 6}]}

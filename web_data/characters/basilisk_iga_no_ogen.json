@@ -1,15 +1,1 @@
-{
-  "name": "Iga-no-Ogen",
-  "show": "Basilisk",
-  "trope_count": 7,
-  "tropes": [
-    "TogetherInDeath",
-    "BrutalHonesty",
-    "IWasQuiteALooker",
-    "NeverMessWithGranny",
-    "StarCrossedLovers",
-    "FriendToAllLivingThings",
-    "MadeOfIron"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Iga-no-Ogen", "show": "Basilisk", "trope_count": 7, "tropes": ["TogetherInDeath", "BrutalHonesty", "IWasQuiteALooker", "NeverMessWithGranny", "StarCrossedLovers", "FriendToAllLivingThings", "MadeOfIron"], "tropes_by_category": {}, "similar": [{"name": "Byakko Warriors (Fushigi YuugiOnly)", "show": "Fushigi Yuugi", "id": "fushigi_yuugi_byakko_warriors_fushigi_yuugionly", "similarity": 0.1379, "shared_tropes": 4}]}

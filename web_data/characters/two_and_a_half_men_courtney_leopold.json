@@ -1,15 +1,1 @@
-{
-  "name": "Courtney Leopold",
-  "show": "Two and a Half Men",
-  "trope_count": 7,
-  "tropes": [
-    "ConArtist",
-    "Jerkass",
-    "KarmaHoudini",
-    "GoldDigger",
-    "OnlyKnownByTheirNickname",
-    "ManipulativeBitch",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Courtney Leopold", "show": "Two and a Half Men", "trope_count": 7, "tropes": ["ConArtist", "Jerkass", "KarmaHoudini", "GoldDigger", "OnlyKnownByTheirNickname", "ManipulativeBitch", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Kayla Huntington", "show": "Desperate Housewives", "id": "desperate_housewives_kayla_huntington", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Raisins Girls", "show": "South Park", "id": "south_park_raisins_girls", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Rachel Virginia Gatina", "show": "One Tree Hill", "id": "one_tree_hill_rachel_virginia_gatina", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Maddy Perez", "show": "Euphoria", "id": "euphoria_maddy_perez", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Janice Soprano", "show": "Sopranos,The", "id": "sopranosthe_janice_soprano", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Janice Soprano", "show": "The Sopranos", "id": "the_sopranos_janice_soprano", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Season  6", "show": "Simpsons,The", "id": "simpsonsthe_season_6", "similarity": 0.0357, "shared_tropes": 4}, {"name": "Season  6", "show": "The Simpsons", "id": "the_simpsons_season_6", "similarity": 0.0357, "shared_tropes": 4}]}

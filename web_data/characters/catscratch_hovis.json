@@ -1,17 +1,1 @@
-{
-  "name": "Hovis",
-  "show": "Catscratch",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "NotSoAboveItAll",
-    "DreadfulMusician",
-    "TheJeeves",
-    "ServileSnarker",
-    "OldRetainer",
-    "HiddenDepths",
-    "PerpetualFrowner",
-    "OnlySaneMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hovis", "show": "Catscratch", "trope_count": 9, "tropes": ["DeadpanSnarker", "NotSoAboveItAll", "DreadfulMusician", "TheJeeves", "ServileSnarker", "OldRetainer", "HiddenDepths", "PerpetualFrowner", "OnlySaneMan"], "tropes_by_category": {}, "similar": [{"name": "Duckworth", "show": "DuckTales", "id": "ducktales_duckworth", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Henry Cogsworth", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_henry_cogsworth", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Geoffrey Butler", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_geoffrey_butler", "similarity": 0.1087, "shared_tropes": 5}, {"name": "Miranda Killgallen", "show": "As Told by Ginger", "id": "as_told_by_ginger_miranda_killgallen", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Mr Edmund Blackadder Esq.", "show": "Blackadder", "id": "blackadder_mr_edmund_blackadder_esq", "similarity": 0.0806, "shared_tropes": 5}, {"name": "Carson", "show": "Downton Abbey", "id": "downton_abbey_carson", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Friends/Allies", "show": "Freakazoid!", "id": "freakazoid_friends_allies", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Reginald Jeeves", "show": "Jeeves and Wooster", "id": "jeeves_and_wooster_reginald_jeeves", "similarity": 0.0506, "shared_tropes": 4}]}

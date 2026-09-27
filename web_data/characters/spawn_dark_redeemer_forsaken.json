@@ -1,11 +1,1 @@
-{
-  "name": "Dark Redeemer/Forsaken",
-  "show": "Spawn",
-  "trope_count": 3,
-  "tropes": [
-    "EvilCounterpart",
-    "TheReveal",
-    "PsychoPrototype"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dark Redeemer/Forsaken", "show": "Spawn", "trope_count": 3, "tropes": ["EvilCounterpart", "TheReveal", "PsychoPrototype"], "tropes_by_category": {}, "similar": []}

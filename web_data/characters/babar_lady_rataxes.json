@@ -1,15 +1,1 @@
-{
-  "name": "Lady Rataxes",
-  "show": "Babar",
-  "trope_count": 7,
-  "tropes": [
-    "OnlySaneWoman",
-    "MyBelovedSmother",
-    "LadyMacbeth",
-    "NoFullNameGiven",
-    "Tsundere",
-    "OnlySaneMan",
-    "HenpeckedHusband"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lady Rataxes", "show": "Babar", "trope_count": 7, "tropes": ["OnlySaneWoman", "MyBelovedSmother", "LadyMacbeth", "NoFullNameGiven", "Tsundere", "OnlySaneMan", "HenpeckedHusband"], "tropes_by_category": {}, "similar": []}

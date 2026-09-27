@@ -1,15 +1,1 @@
-{
-  "name": "Niam",
-  "show": "Stargate Atlantis",
-  "trope_count": 7,
-  "tropes": [
-    "MindHive",
-    "TokenGoodTeammate",
-    "CantKillYouStillNeedYou",
-    "AntiVillain",
-    "HeelFaceRevolvingDoor",
-    "AscendToAHigherPlaneOfExistence",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Niam", "show": "Stargate Atlantis", "trope_count": 7, "tropes": ["MindHive", "TokenGoodTeammate", "CantKillYouStillNeedYou", "AntiVillain", "HeelFaceRevolvingDoor", "AscendToAHigherPlaneOfExistence", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Beecher", "show": "Oz", "id": "oz_beecher", "similarity": 0.0351, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Orangibberish",
-  "show": "All Of Us Are Dead",
-  "trope_count": 8,
-  "tropes": [
-    "SkewedPriorities",
-    "BigBrotherInstinct",
-    "NeverBareheaded",
-    "TheLoad",
-    "GenreBlindness",
-    "UndeadChild",
-    "OnlyKnownByTheirNickname",
-    "PluckyComicRelief"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Orangibberish", "show": "All Of Us Are Dead", "trope_count": 8, "tropes": ["SkewedPriorities", "BigBrotherInstinct", "NeverBareheaded", "TheLoad", "GenreBlindness", "UndeadChild", "OnlyKnownByTheirNickname", "PluckyComicRelief"], "tropes_by_category": {}, "similar": [{"name": "Gene Belcher", "show": "Bob's Burgers", "id": "bobs_burgers_gene_belcher", "similarity": 0.0421, "shared_tropes": 4}]}

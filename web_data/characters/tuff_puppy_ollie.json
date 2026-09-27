@@ -1,17 +1,1 @@
-{
-  "name": "Ollie",
-  "show": "T.U.F.F. Puppy",
-  "trope_count": 9,
-  "tropes": [
-    "CloudcuckoolandersMinder",
-    "AffablyEvil",
-    "EvilBrit",
-    "BigThinShortTrio",
-    "NoCelebritiesWereHarmed",
-    "InformedSpecies",
-    "OnlySaneMan",
-    "BritsLoveTea",
-    "Fauxreigner"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ollie", "show": "T.U.F.F. Puppy", "trope_count": 9, "tropes": ["CloudcuckoolandersMinder", "AffablyEvil", "EvilBrit", "BigThinShortTrio", "NoCelebritiesWereHarmed", "InformedSpecies", "OnlySaneMan", "BritsLoveTea", "Fauxreigner"], "tropes_by_category": {}, "similar": [{"name": "The Robot Mafia", "show": "Futurama", "id": "futurama_the_robot_mafia", "similarity": 0.1, "shared_tropes": 4}]}

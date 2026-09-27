@@ -1,17 +1,1 @@
-{
-  "name": "Lauren Ethridge",
-  "show": "Melrose Place",
-  "trope_count": 9,
-  "tropes": [
-    "WomanOfWealthAndTaste",
-    "Expy",
-    "InterrogationByVandalism",
-    "FoodSlap",
-    "ScrewTheRulesIHaveMoney",
-    "NonActionBigBad",
-    "PredatoryPimp",
-    "TheCharmer",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lauren Ethridge", "show": "Melrose Place", "trope_count": 9, "tropes": ["WomanOfWealthAndTaste", "Expy", "InterrogationByVandalism", "FoodSlap", "ScrewTheRulesIHaveMoney", "NonActionBigBad", "PredatoryPimp", "TheCharmer", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Theo Galavan/Azrael", "show": "Gotham", "id": "gotham_theo_galavan_azrael", "similarity": 0.05, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Greg \"Mouse\" Gerwitz",
-  "show": "Chicago PD",
-  "trope_count": 10,
-  "tropes": [
-    "DesperatelyLookingForAPurposeInLife",
-    "ShellShockedVeteran",
-    "FakeGuestStar",
-    "BadassBookworm",
-    "PutOnABus",
-    "ElitesAreMoreGlamorous",
-    "AlliterativeName",
-    "BadassInDistress",
-    "BookDumb",
-    "OnlyKnownByTheirNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Greg \"Mouse\" Gerwitz", "show": "Chicago PD", "trope_count": 10, "tropes": ["DesperatelyLookingForAPurposeInLife", "ShellShockedVeteran", "FakeGuestStar", "BadassBookworm", "PutOnABus", "ElitesAreMoreGlamorous", "AlliterativeName", "BadassInDistress", "BookDumb", "OnlyKnownByTheirNickname"], "tropes_by_category": {}, "similar": [{"name": "Alfred Pennyworth", "show": "Gotham", "id": "gotham_alfred_pennyworth", "similarity": 0.0571, "shared_tropes": 4}]}

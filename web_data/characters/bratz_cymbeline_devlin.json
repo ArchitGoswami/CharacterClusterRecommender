@@ -1,14 +1,1 @@
-{
-  "name": "Cymbeline Devlin",
-  "show": "Bratz",
-  "trope_count": 6,
-  "tropes": [
-    "FoolishSiblingResponsibleSibling",
-    "PrincessClassic",
-    "AffectionateNickname",
-    "MeaningfulName",
-    "RoyalBrat",
-    "BrattyTeenageDaughter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cymbeline Devlin", "show": "Bratz", "trope_count": 6, "tropes": ["FoolishSiblingResponsibleSibling", "PrincessClassic", "AffectionateNickname", "MeaningfulName", "RoyalBrat", "BrattyTeenageDaughter"], "tropes_by_category": {}, "similar": [{"name": "Roberta Tubbs", "show": "Cleveland Show, The", "id": "cleveland_show_the_roberta_tubbs", "similarity": 0.0635, "shared_tropes": 4}]}

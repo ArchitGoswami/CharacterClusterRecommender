@@ -1,17 +1,1 @@
-{
-  "name": "Pate",
-  "show": "Chowder",
-  "trope_count": 9,
-  "tropes": [
-    "CoolTeacher",
-    "GagNose",
-    "AmbiguouslyHuman",
-    "HeroicBuild",
-    "WhatTheHellHero",
-    "MiniMe",
-    "ForgotAboutHisPowers",
-    "GagLips",
-    "EdibleThemeNaming"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pate", "show": "Chowder", "trope_count": 9, "tropes": ["CoolTeacher", "GagNose", "AmbiguouslyHuman", "HeroicBuild", "WhatTheHellHero", "MiniMe", "ForgotAboutHisPowers", "GagLips", "EdibleThemeNaming"], "tropes_by_category": {}, "similar": []}

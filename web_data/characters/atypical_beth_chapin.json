@@ -1,18 +1,1 @@
-{
-  "name": "Beth Chapin",
-  "show": "Atypical",
-  "trope_count": 10,
-  "tropes": [
-    "SupremeChef",
-    "NaiveEverygirl",
-    "BerserkButton",
-    "NiceGirl",
-    "ComicallyMissingThePoint",
-    "YouAreFat",
-    "HiddenDepths",
-    "GoshDangItToHeck",
-    "BewareTheNiceOnes",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Beth Chapin", "show": "Atypical", "trope_count": 10, "tropes": ["SupremeChef", "NaiveEverygirl", "BerserkButton", "NiceGirl", "ComicallyMissingThePoint", "YouAreFat", "HiddenDepths", "GoshDangItToHeck", "BewareTheNiceOnes", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Kitty Forman", "show": "That '70s Show", "id": "that_70s_show_kitty_forman", "similarity": 0.1053, "shared_tropes": 6}, {"name": "Alexandra \"Alex\" Casoy", "show": "Totally Spies!", "id": "totally_spies_alexandra_alex_casoy", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Phineas Flynn", "show": "Phineas and Ferb", "id": "phineas_and_ferb_phineas_flynn", "similarity": 0.0364, "shared_tropes": 4}]}

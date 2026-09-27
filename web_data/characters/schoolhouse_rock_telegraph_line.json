@@ -1,18 +1,1 @@
-{
-  "name": "Telegraph Line",
-  "show": "Schoolhouse Rock!",
-  "trope_count": 10,
-  "tropes": [
-    "FailedASpotCheck",
-    "The90s",
-    "SingingTelegram",
-    "Courier",
-    "SupremeChef",
-    "ChubbyChef",
-    "EarnYourHappyEnding",
-    "YouCantFightFate",
-    "HarmfulToTouch",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Telegraph Line", "show": "Schoolhouse Rock!", "trope_count": 10, "tropes": ["FailedASpotCheck", "The90s", "SingingTelegram", "Courier", "SupremeChef", "ChubbyChef", "EarnYourHappyEnding", "YouCantFightFate", "HarmfulToTouch", "AscendedExtra"], "tropes_by_category": {}, "similar": []}

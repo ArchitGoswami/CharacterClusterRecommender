@@ -1,18 +1,1 @@
-{
-  "name": "Stella Kidd",
-  "show": "Chicago Fire",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "BrutalHonesty",
-    "RememberTheNewGuy",
-    "HappilyMarried",
-    "ShipTease",
-    "RavenHairIvorySkin",
-    "HeterosexualLifePartners",
-    "LoveMakesYouStupid",
-    "AwfulWeddedLife",
-    "RankUp"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stella Kidd", "show": "Chicago Fire", "trope_count": 10, "tropes": ["DeadpanSnarker", "BrutalHonesty", "RememberTheNewGuy", "HappilyMarried", "ShipTease", "RavenHairIvorySkin", "HeterosexualLifePartners", "LoveMakesYouStupid", "AwfulWeddedLife", "RankUp"], "tropes_by_category": {}, "similar": [{"name": "Hailey Upton", "show": "Chicago PD", "id": "chicago_pd_hailey_upton", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Enzo", "show": "The Vampire Diaries", "id": "the_vampire_diaries_enzo", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Ben Wyatt", "show": "Parks and Recreation", "id": "parks_and_recreation_ben_wyatt", "similarity": 0.0633, "shared_tropes": 5}, {"name": "Recurring Characters", "show": "My Family", "id": "my_family_recurring_characters", "similarity": 0.0633, "shared_tropes": 5}, {"name": "Gerald", "show": "Hey Arnold!", "id": "hey_arnold_gerald", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Sai", "show": "Naruto", "id": "naruto_sai", "similarity": 0.0485, "shared_tropes": 5}, {"name": "Sonic", "show": "Sonic Boom", "id": "sonic_boom_sonic", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Tom", "show": "Succession", "id": "succession_tom", "similarity": 0.0455, "shared_tropes": 5}]}

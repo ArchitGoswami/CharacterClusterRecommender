@@ -1,16 +1,1 @@
-{
-  "name": "Van Gogh",
-  "show": "Clone High",
-  "trope_count": 8,
-  "tropes": [
-    "TheDogBitesBack",
-    "RedheadsAreUncool",
-    "PoliticalOvercorrectness",
-    "ButtMonkey",
-    "HiddenDepths",
-    "SelfHarm",
-    "LastNameBasis",
-    "SocialCircleFiller"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Van Gogh", "show": "Clone High", "trope_count": 8, "tropes": ["TheDogBitesBack", "RedheadsAreUncool", "PoliticalOvercorrectness", "ButtMonkey", "HiddenDepths", "SelfHarm", "LastNameBasis", "SocialCircleFiller"], "tropes_by_category": {}, "similar": [{"name": "Murphy", "show": "100,The", "id": "100the_murphy", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.037, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Jayne Middlemiss (Series  7 Pit Reporter)",
-  "show": "Robot Wars",
-  "trope_count": 8,
-  "tropes": [
-    "PitGirls",
-    "MsFanservice",
-    "CaptainObvious",
-    "BrainlessBeauty",
-    "AskAStupidQuestion",
-    "InvertedTrope",
-    "LargeHam",
-    "NoIndoorVoice"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jayne Middlemiss (Series  7 Pit Reporter)", "show": "Robot Wars", "trope_count": 8, "tropes": ["PitGirls", "MsFanservice", "CaptainObvious", "BrainlessBeauty", "AskAStupidQuestion", "InvertedTrope", "LargeHam", "NoIndoorVoice"], "tropes_by_category": {}, "similar": [{"name": "Evil Ragatha", "show": "Amazing Digital Circus, The", "id": "amazing_digital_circus_the_evil_ragatha", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Gloria Ramirez Delgado Pritchett", "show": "Modern Family", "id": "modern_family_gloria_ramirez_delgado_pritchett", "similarity": 0.0606, "shared_tropes": 4}]}

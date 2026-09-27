@@ -1,18 +1,1 @@
-{
-  "name": "Paige Arkin",
-  "show": "Graceland",
-  "trope_count": 10,
-  "tropes": [
-    "ActionGirl",
-    "MsFanservice",
-    "BrutalHonesty",
-    "CarFu",
-    "DisproportionateRetribution",
-    "DistractedByTheSexy",
-    "ThatOneCase",
-    "BuxomBeautyStandard",
-    "SecondEpisodeIntroduction",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paige Arkin", "show": "Graceland", "trope_count": 10, "tropes": ["ActionGirl", "MsFanservice", "BrutalHonesty", "CarFu", "DisproportionateRetribution", "DistractedByTheSexy", "ThatOneCase", "BuxomBeautyStandard", "SecondEpisodeIntroduction", "SecretKeeper"], "tropes_by_category": {}, "similar": [{"name": "Tara Cole", "show": "Leverage", "id": "leverage_tara_cole", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Sarah \"Mac\"MacKenzie", "show": "JAG", "id": "jag_sarah_mac_mackenzie", "similarity": 0.087, "shared_tropes": 4}, {"name": "Rosemary Moon", "show": "City, The", "id": "city_the_rosemary_moon", "similarity": 0.08, "shared_tropes": 4}, {"name": "Cameron", "show": "Terminator: The Sarah Connor Chronicles", "id": "terminator_the_sarah_connor_chronicles_cameron", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Janet", "show": "Good Place, The", "id": "good_place_the_janet", "similarity": 0.0385, "shared_tropes": 4}, {"name": "Janet", "show": "The Good Place", "id": "the_good_place_janet", "similarity": 0.0385, "shared_tropes": 4}, {"name": "Mai Kujaku (Mai Valentine)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_mai_kujaku_mai_valentine", "similarity": 0.0354, "shared_tropes": 4}]}

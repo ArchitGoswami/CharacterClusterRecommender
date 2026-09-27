@@ -1,17 +1,1 @@
-{
-  "name": "Joseph 'Big Joe' Siano",
-  "show": "Killjoys",
-  "trope_count": 9,
-  "tropes": [
-    "WeHardlyKnewYe",
-    "TheBigGuy",
-    "ArmsDealer",
-    "TheMentor",
-    "NoKillLikeOverkill",
-    "MercyKill",
-    "Determinator",
-    "FriendlySniper",
-    "MadeOfIron"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joseph 'Big Joe' Siano", "show": "Killjoys", "trope_count": 9, "tropes": ["WeHardlyKnewYe", "TheBigGuy", "ArmsDealer", "TheMentor", "NoKillLikeOverkill", "MercyKill", "Determinator", "FriendlySniper", "MadeOfIron"], "tropes_by_category": {}, "similar": [{"name": "Lucas Sinclair", "show": "Stranger Things", "id": "stranger_things_lucas_sinclair", "similarity": 0.0412, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Frank Kowchevski",
-  "show": "Freaks and Geeks",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "SadistTeacher",
-    "Jerkass",
-    "ShellShockedVeteran",
-    "PetTheDog",
-    "Gayngst",
-    "StraightGay",
-    "HiddenDepths",
-    "OnlySaneMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Frank Kowchevski", "show": "Freaks and Geeks", "trope_count": 9, "tropes": ["DeadpanSnarker", "SadistTeacher", "Jerkass", "ShellShockedVeteran", "PetTheDog", "Gayngst", "StraightGay", "HiddenDepths", "OnlySaneMan"], "tropes_by_category": {}, "similar": [{"name": "Mr. AnthonyDeMartino", "show": "Daria", "id": "daria_mr_anthonydemartino", "similarity": 0.125, "shared_tropes": 5}, {"name": "Andrew Van de Kamp", "show": "Desperate Housewives", "id": "desperate_housewives_andrew_van_de_kamp", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Patrick Brewer", "show": "Schitts Creek", "id": "schitts_creek_patrick_brewer", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Characters Introduced in Season  1", "show": "Smash", "id": "smash_characters_introduced_in_season_1", "similarity": 0.05, "shared_tropes": 6}, {"name": "Thomas", "show": "Downton Abbey", "id": "downton_abbey_thomas", "similarity": 0.0385, "shared_tropes": 5}]}

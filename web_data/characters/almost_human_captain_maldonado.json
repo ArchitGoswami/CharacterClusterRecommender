@@ -1,15 +1,1 @@
-{
-  "name": "Captain Maldonado",
-  "show": "Almost Human",
-  "trope_count": 7,
-  "tropes": [
-    "DaChief",
-    "FairCop",
-    "TheSyndicate",
-    "AMotherToHerMen",
-    "ProperlyParanoid",
-    "ReasonableAuthorityFigure",
-    "OldMaid"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Captain Maldonado", "show": "Almost Human", "trope_count": 7, "tropes": ["DaChief", "FairCop", "TheSyndicate", "AMotherToHerMen", "ProperlyParanoid", "ReasonableAuthorityFigure", "OldMaid"], "tropes_by_category": {}, "similar": [{"name": "Madeleine Hightower", "show": "Mentalist, The", "id": "mentalist_the_madeleine_hightower", "similarity": 0.1481, "shared_tropes": 4}]}

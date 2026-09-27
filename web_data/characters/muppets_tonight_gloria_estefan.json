@@ -1,13 +1,1 @@
-{
-  "name": "Gloria Estefan",
-  "show": "Muppets Tonight",
-  "trope_count": 5,
-  "tropes": [
-    "OddFriendship",
-    "NonStandardCharacterDesign",
-    "NamedAfterSomebodyFamous",
-    "AmbiguousGender",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gloria Estefan", "show": "Muppets Tonight", "trope_count": 5, "tropes": ["OddFriendship", "NonStandardCharacterDesign", "NamedAfterSomebodyFamous", "AmbiguousGender", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Gloria Estefan", "show": "Muppets,The", "id": "muppetsthe_gloria_estefan", "similarity": 1.0, "shared_tropes": 5}]}

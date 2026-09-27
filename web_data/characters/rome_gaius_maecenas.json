@@ -1,18 +1,1 @@
-{
-  "name": "Gaius Maecenas",
-  "show": "Rome",
-  "trope_count": 10,
-  "tropes": [
-    "TokenEvilTeammate",
-    "RedOniBlueOni",
-    "TrueCompanions",
-    "PrettyBoy",
-    "ServileSnarker",
-    "SatelliteCharacter",
-    "NonActionGuy",
-    "SleazyPolitician",
-    "TheSmartGuy",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gaius Maecenas", "show": "Rome", "trope_count": 10, "tropes": ["TokenEvilTeammate", "RedOniBlueOni", "TrueCompanions", "PrettyBoy", "ServileSnarker", "SatelliteCharacter", "NonActionGuy", "SleazyPolitician", "TheSmartGuy", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "The Mallrats", "show": "Tribe, The", "id": "tribe_the_the_mallrats", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Mark Antony", "show": "Rome", "id": "rome_mark_antony", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Nucky Thompson", "show": "Boardwalk Empire", "id": "boardwalk_empire_nucky_thompson", "similarity": 0.0362, "shared_tropes": 5}]}

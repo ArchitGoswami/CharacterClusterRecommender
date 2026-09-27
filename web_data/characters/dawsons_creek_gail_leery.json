@@ -1,16 +1,1 @@
-{
-  "name": "Gail Leery",
-  "show": "Dawson's Creek",
-  "trope_count": 8,
-  "tropes": [
-    "LocalHangout",
-    "DependingOnTheWriter",
-    "Plothole",
-    "ProgressivelyPrettier",
-    "GoodParents",
-    "SecondLove",
-    "DemotedToExtra",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gail Leery", "show": "Dawson's Creek", "trope_count": 8, "tropes": ["LocalHangout", "DependingOnTheWriter", "Plothole", "ProgressivelyPrettier", "GoodParents", "SecondLove", "DemotedToExtra", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Max Tennyson", "show": "Ben 10", "id": "ben_10_max_tennyson", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Quentin Lance", "show": "Arrow", "id": "arrow_quentin_lance", "similarity": 0.0397, "shared_tropes": 5}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Buzz",
-  "show": "TaleSpin",
-  "trope_count": 7,
-  "tropes": [
-    "StealItToProtectIt",
-    "TheMole",
-    "FurryBaldness",
-    "MadScientist",
-    "TokenGoodTeammate",
-    "ClearMyName",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buzz", "show": "TaleSpin", "trope_count": 7, "tropes": ["StealItToProtectIt", "TheMole", "FurryBaldness", "MadScientist", "TokenGoodTeammate", "ClearMyName", "GadgeteerGenius"], "tropes_by_category": {}, "similar": []}

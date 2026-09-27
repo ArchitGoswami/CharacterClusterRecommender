@@ -1,14 +1,1 @@
-{
-  "name": "Bumper Randalls",
-  "show": "Johnny Test",
-  "trope_count": 6,
-  "tropes": [
-    "RealMenWearPink",
-    "ChuckCunninghamSyndrome",
-    "WouldHitAGirl",
-    "TheBully",
-    "TakenForGranite",
-    "HiddenDepths"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bumper Randalls", "show": "Johnny Test", "trope_count": 6, "tropes": ["RealMenWearPink", "ChuckCunninghamSyndrome", "WouldHitAGirl", "TheBully", "TakenForGranite", "HiddenDepths"], "tropes_by_category": {}, "similar": [{"name": "The Shredder", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_the_shredder", "similarity": 0.0412, "shared_tropes": 4}]}

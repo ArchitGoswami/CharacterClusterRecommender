@@ -1,17 +1,1 @@
-{
-  "name": "EldridgeMacElroy",
-  "show": "Two and a Half Men",
-  "trope_count": 9,
-  "tropes": [
-    "ThoseTwoGuys",
-    "ChuckCunninghamSyndrome",
-    "Jerkass",
-    "LiteralMinded",
-    "ToxicFriendInfluence",
-    "DumbBlonde",
-    "SatelliteCharacter",
-    "PutOnABus",
-    "TheStoner"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "EldridgeMacElroy", "show": "Two and a Half Men", "trope_count": 9, "tropes": ["ThoseTwoGuys", "ChuckCunninghamSyndrome", "Jerkass", "LiteralMinded", "ToxicFriendInfluence", "DumbBlonde", "SatelliteCharacter", "PutOnABus", "TheStoner"], "tropes_by_category": {}, "similar": [{"name": "Edmund", "show": "Hey Arnold!", "id": "hey_arnold_edmund", "similarity": 0.1739, "shared_tropes": 4}, {"name": "The Dalton Academy Warblers", "show": "Glee", "id": "glee_the_dalton_academy_warblers", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Jake Harper", "show": "Two and a Half Men", "id": "two_and_a_half_men_jake_harper", "similarity": 0.0962, "shared_tropes": 5}, {"name": "The Pack", "show": "Thomas & Friends", "id": "thomas_and_friends_the_pack", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Waldo Geraldo Faldo", "show": "Family Matters", "id": "family_matters_waldo_geraldo_faldo", "similarity": 0.087, "shared_tropes": 4}, {"name": "The Vamp Kids", "show": "South Park", "id": "south_park_the_vamp_kids", "similarity": 0.0714, "shared_tropes": 5}, {"name": "Ed Wuncler III", "show": "Boondocks,The", "id": "boondocksthe_ed_wuncler_iii", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Jimbo Kern and Ned Gerblansky", "show": "South Park", "id": "south_park_jimbo_kern_and_ned_gerblansky", "similarity": 0.0606, "shared_tropes": 4}]}

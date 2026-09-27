@@ -1,13 +1,1 @@
-{
-  "name": "Black Hole",
-  "show": "The Boys",
-  "trope_count": 5,
-  "tropes": [
-    "LifeSavingMisfortune",
-    "PowerIncontinence",
-    "BigEater",
-    "ExtremeOmnivore",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Black Hole", "show": "The Boys", "trope_count": 5, "tropes": ["LifeSavingMisfortune", "PowerIncontinence", "BigEater", "ExtremeOmnivore", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Black Hole", "show": "Boys, The", "id": "boys_the_black_hole", "similarity": 1.0, "shared_tropes": 5}]}

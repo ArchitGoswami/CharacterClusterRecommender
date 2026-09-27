@@ -1,15 +1,1 @@
-{
-  "name": "Mammal",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 7,
-  "tropes": [
-    "AllThereInTheManual",
-    "WackyWaysideTribe",
-    "EvilEggEater",
-    "InformedSpecies",
-    "RogerRabbitEffect",
-    "AnachronismStew",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mammal", "show": "Walking with Dinosaurs", "trope_count": 7, "tropes": ["AllThereInTheManual", "WackyWaysideTribe", "EvilEggEater", "InformedSpecies", "RogerRabbitEffect", "AnachronismStew", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Dinilysia", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_dinilysia", "similarity": 0.3077, "shared_tropes": 4}, {"name": "Pliosaur", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_pliosaur", "similarity": 0.3077, "shared_tropes": 4}]}

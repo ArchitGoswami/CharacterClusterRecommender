@@ -1,17 +1,1 @@
-{
-  "name": "Mimori Kiryuu",
-  "show": "Scryed",
-  "trope_count": 9,
-  "tropes": [
-    "FrontierDoctor",
-    "AllLoveIsUnrequited",
-    "ShelteredAristocrat",
-    "TeenGenius",
-    "PolitenessJudo",
-    "ImprobableAge",
-    "UnluckyChildhoodFriend",
-    "NiceGirl",
-    "BadassPacifist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mimori Kiryuu", "show": "Scryed", "trope_count": 9, "tropes": ["FrontierDoctor", "AllLoveIsUnrequited", "ShelteredAristocrat", "TeenGenius", "PolitenessJudo", "ImprobableAge", "UnluckyChildhoodFriend", "NiceGirl", "BadassPacifist"], "tropes_by_category": {}, "similar": [{"name": "Kaguya Sumeragi", "show": "Code Geass", "id": "code_geass_kaguya_sumeragi", "similarity": 0.087, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Lynch",
-  "show": "Home Movies",
-  "trope_count": 8,
-  "tropes": [
-    "OlderThanTheyLook",
-    "ReasonableAuthorityFigure",
-    "JustifiedTrope",
-    "VitriolicBestBuds",
-    "KindheartedCatLover",
-    "TheStoic",
-    "LastNameBasis",
-    "CrazyCatLady"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lynch", "show": "Home Movies", "trope_count": 8, "tropes": ["OlderThanTheyLook", "ReasonableAuthorityFigure", "JustifiedTrope", "VitriolicBestBuds", "KindheartedCatLover", "TheStoic", "LastNameBasis", "CrazyCatLady"], "tropes_by_category": {}, "similar": [{"name": "Jeff Boomhauer", "show": "King of the Hill", "id": "king_of_the_hill_jeff_boomhauer", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Reginald Jeeves", "show": "Jeeves and Wooster", "id": "jeeves_and_wooster_reginald_jeeves", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Skips", "show": "Regular Show", "id": "regular_show_skips", "similarity": 0.0404, "shared_tropes": 4}]}

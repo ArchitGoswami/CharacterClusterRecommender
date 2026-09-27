@@ -1,16 +1,1 @@
-{
-  "name": "Radar Technician",
-  "show": "Spaceballs: The Animated Series",
-  "trope_count": 8,
-  "tropes": [
-    "AdvertisedExtra",
-    "WhatHappenedToTheMouse",
-    "VoiceChangeling",
-    "RadioVoice",
-    "TokenMinority",
-    "PrecisionFStrike",
-    "NoNameGiven",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Radar Technician", "show": "Spaceballs: The Animated Series", "trope_count": 8, "tropes": ["AdvertisedExtra", "WhatHappenedToTheMouse", "VoiceChangeling", "RadioVoice", "TokenMinority", "PrecisionFStrike", "NoNameGiven", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "The Counselor", "show": "Red vs Blue", "id": "red_vs_blue_the_counselor", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Ivy Pepper/Poison Ivy", "show": "Gotham", "id": "gotham_ivy_pepper_poison_ivy", "similarity": 0.0412, "shared_tropes": 4}]}

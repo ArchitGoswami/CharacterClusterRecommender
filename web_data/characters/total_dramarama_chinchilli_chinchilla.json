@@ -1,15 +1,1 @@
-{
-  "name": "Chinchilli Chinchilla",
-  "show": "Total DramaRama",
-  "trope_count": 7,
-  "tropes": [
-    "AlternateTooniverse",
-    "HalfDressedCartoonAnimal",
-    "TheKlutz",
-    "TooDumbToLive",
-    "FunnyAnimal",
-    "ToonPhysics",
-    "WhiteGloves"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chinchilli Chinchilla", "show": "Total DramaRama", "trope_count": 7, "tropes": ["AlternateTooniverse", "HalfDressedCartoonAnimal", "TheKlutz", "TooDumbToLive", "FunnyAnimal", "ToonPhysics", "WhiteGloves"], "tropes_by_category": {}, "similar": [{"name": "Goofy Goof", "show": "Goof Troop", "id": "goof_troop_goofy_goof", "similarity": 0.036, "shared_tropes": 4}]}

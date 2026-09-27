@@ -1,16 +1,1 @@
-{
-  "name": "Nola Longshadow",
-  "show": "Banshee",
-  "trope_count": 8,
-  "tropes": [
-    "ActionGirl",
-    "BadassDriver",
-    "BadassBiker",
-    "UnderestimatingBadassery",
-    "BadassNormal",
-    "SpannerInTheWorks",
-    "DarkAndTroubledPast",
-    "BlackSheep"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nola Longshadow", "show": "Banshee", "trope_count": 8, "tropes": ["ActionGirl", "BadassDriver", "BadassBiker", "UnderestimatingBadassery", "BadassNormal", "SpannerInTheWorks", "DarkAndTroubledPast", "BlackSheep"], "tropes_by_category": {}, "similar": [{"name": "Eva \"Molly\" Wei", "show": "Oban Star-Racers", "id": "oban_star_racers_eva_molly_wei", "similarity": 0.0357, "shared_tropes": 5}, {"name": "Nya", "show": "Ninjago", "id": "ninjago_nya", "similarity": 0.0351, "shared_tropes": 4}]}

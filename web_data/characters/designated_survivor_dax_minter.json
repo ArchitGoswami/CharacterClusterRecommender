@@ -1,15 +1,1 @@
-{
-  "name": "Dax Minter",
-  "show": "Designated Survivor",
-  "trope_count": 7,
-  "tropes": [
-    "EvilCounterpart",
-    "HonestCorporateExecutive",
-    "FrameUp",
-    "HonestAdvisor",
-    "NotSoWellIntentionedExtremist",
-    "TheCracker",
-    "CorruptCorporateExecutive"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dax Minter", "show": "Designated Survivor", "trope_count": 7, "tropes": ["EvilCounterpart", "HonestCorporateExecutive", "FrameUp", "HonestAdvisor", "NotSoWellIntentionedExtremist", "TheCracker", "CorruptCorporateExecutive"], "tropes_by_category": {}, "similar": [{"name": "Grover Fischoeder", "show": "Bob's Burgers", "id": "bobs_burgers_grover_fischoeder", "similarity": 0.0506, "shared_tropes": 4}]}

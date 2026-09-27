@@ -1,16 +1,1 @@
-{
-  "name": "Duke Snyder",
-  "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 8,
-  "tropes": [
-    "CaughtOnTape",
-    "YouHaveOutlivedYourUsefulness",
-    "TheCoronerDothProtestTooMuch",
-    "GreenEyedMonster",
-    "AssholeVictim",
-    "TheDragon",
-    "EvilIsPetty",
-    "BigBrotherBully"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Duke Snyder", "show": "Unbreakable Kimmy Schmidt", "trope_count": 8, "tropes": ["CaughtOnTape", "YouHaveOutlivedYourUsefulness", "TheCoronerDothProtestTooMuch", "GreenEyedMonster", "AssholeVictim", "TheDragon", "EvilIsPetty", "BigBrotherBully"], "tropes_by_category": {}, "similar": [{"name": "Sleet", "show": "Sonic Underground", "id": "sonic_underground_sleet", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Cheesethief", "show": "Redwall", "id": "redwall_cheesethief", "similarity": 0.1, "shared_tropes": 4}, {"name": "Prime Senator Chudelkin", "show": "Sword Art Online", "id": "sword_art_online_prime_senator_chudelkin", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Mizuki", "show": "Naruto", "id": "naruto_mizuki", "similarity": 0.0435, "shared_tropes": 4}]}

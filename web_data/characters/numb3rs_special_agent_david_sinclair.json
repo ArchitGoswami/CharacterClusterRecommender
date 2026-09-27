@@ -1,14 +1,1 @@
-{
-  "name": "Special Agent David Sinclair",
-  "show": "Numb3rs",
-  "trope_count": 6,
-  "tropes": [
-    "StandardCopBackstory",
-    "TheLancer",
-    "FBIAgent",
-    "HeterosexualLifePartners",
-    "ByTheBookCop",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Special Agent David Sinclair", "show": "Numb3rs", "trope_count": 6, "tropes": ["StandardCopBackstory", "TheLancer", "FBIAgent", "HeterosexualLifePartners", "ByTheBookCop", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": [{"name": "Derek Morgan", "show": "Criminal Minds", "id": "criminal_minds_derek_morgan", "similarity": 0.08, "shared_tropes": 4}, {"name": "Kevin Atwater", "show": "Chicago PD", "id": "chicago_pd_kevin_atwater", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Aaron Hotchner", "show": "Criminal Minds", "id": "criminal_minds_aaron_hotchner", "similarity": 0.058, "shared_tropes": 4}, {"name": "Teresa Lisbon", "show": "Mentalist, The", "id": "mentalist_the_teresa_lisbon", "similarity": 0.05, "shared_tropes": 4}, {"name": "Meldrick Lewis", "show": "Homicide: Life on the Street", "id": "homicide_life_on_the_street_meldrick_lewis", "similarity": 0.046, "shared_tropes": 4}]}

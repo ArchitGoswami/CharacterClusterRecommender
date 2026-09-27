@@ -1,16 +1,1 @@
-{
-  "name": "Henry Roarke",
-  "show": "Quantico",
-  "trope_count": 8,
-  "tropes": [
-    "FrameUp",
-    "LaserGuidedKarma",
-    "BigBad",
-    "EvilVirtues",
-    "BadBoss",
-    "VillainTakesAnInterest",
-    "JerkassHasAPoint",
-    "VillainWithGoodPublicity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Henry Roarke", "show": "Quantico", "trope_count": 8, "tropes": ["FrameUp", "LaserGuidedKarma", "BigBad", "EvilVirtues", "BadBoss", "VillainTakesAnInterest", "JerkassHasAPoint", "VillainWithGoodPublicity"], "tropes_by_category": {}, "similar": [{"name": "Dr. Ivo \"Eggman\" Robotnik", "show": "Sonic X", "id": "sonic_x_dr_ivo_eggman_robotnik", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Makuu", "show": "Lion Guard, The", "id": "lion_guard_the_makuu", "similarity": 0.046, "shared_tropes": 4}]}

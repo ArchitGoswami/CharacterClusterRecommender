@@ -1,17 +1,1 @@
-{
-  "name": "Elias Harper",
-  "show": "Quantico",
-  "trope_count": 9,
-  "tropes": [
-    "DirtyCoward",
-    "CowardlyLion",
-    "NiceGuy",
-    "TheMole",
-    "InspectorJavert",
-    "AmoralAttorney",
-    "StraightGay",
-    "DrivenToSuicide",
-    "BuryYourGays"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elias Harper", "show": "Quantico", "trope_count": 9, "tropes": ["DirtyCoward", "CowardlyLion", "NiceGuy", "TheMole", "InspectorJavert", "AmoralAttorney", "StraightGay", "DrivenToSuicide", "BuryYourGays"], "tropes_by_category": {}, "similar": [{"name": "The Centre Pursuit Team", "show": "Pretender, The", "id": "pretender_the_the_centre_pursuit_team", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Thomas", "show": "Downton Abbey", "id": "downton_abbey_thomas", "similarity": 0.0385, "shared_tropes": 5}]}

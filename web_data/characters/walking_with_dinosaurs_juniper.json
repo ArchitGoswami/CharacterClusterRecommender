@@ -1,14 +1,1 @@
-{
-  "name": "Juniper",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 6,
-  "tropes": [
-    "DeadpanSnarker",
-    "ChildhoodFriendRomance",
-    "LoveInterest",
-    "ToiletHumor",
-    "FlatCharacter",
-    "DamselInDistress"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Juniper", "show": "Walking with Dinosaurs", "trope_count": 6, "tropes": ["DeadpanSnarker", "ChildhoodFriendRomance", "LoveInterest", "ToiletHumor", "FlatCharacter", "DamselInDistress"], "tropes_by_category": {}, "similar": [{"name": "Gwen Stacy", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_gwen_stacy", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Maid Marian", "show": "Robin Hood", "id": "robin_hood_maid_marian", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Anzu Mazaki (Téa Gardner)", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_anzu_mazaki_t_a_gardner", "similarity": 0.0381, "shared_tropes": 4}]}

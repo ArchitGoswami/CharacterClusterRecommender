@@ -1,13 +1,1 @@
-{
-  "name": "Mokona Modoki (Larg)",
-  "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 5,
-  "tropes": [
-    "PaletteSwap",
-    "RidiculouslyCuteCritter",
-    "MeaningfulName",
-    "ChekhovsGun",
-    "TeleportersAndTransporters"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mokona Modoki (Larg)", "show": "Tsubasa RESERVoir CHRoNiCLE", "trope_count": 5, "tropes": ["PaletteSwap", "RidiculouslyCuteCritter", "MeaningfulName", "ChekhovsGun", "TeleportersAndTransporters"], "tropes_by_category": {}, "similar": [{"name": "Mokona Modoki (Soel)", "show": "Tsubasa RESERVoir CHRoNiCLE", "id": "tsubasa_reservoir_chronicle_mokona_modoki_soel", "similarity": 0.1905, "shared_tropes": 4}]}

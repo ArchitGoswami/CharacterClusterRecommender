@@ -1,18 +1,1 @@
-{
-  "name": "Joseph Walter \"Joe\" Tabootie",
-  "show": "ChalkZone",
-  "trope_count": 10,
-  "tropes": [
-    "ChildhoodFriendRomance",
-    "JerkWithAHeartOfGold",
-    "CordonBleughChef",
-    "GagNose",
-    "TheDitz",
-    "ChubbyMamaSkinnyPapa",
-    "HappilyMarried",
-    "GoodParents",
-    "BumblingDad",
-    "JustAStupidAccent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joseph Walter \"Joe\" Tabootie", "show": "ChalkZone", "trope_count": 10, "tropes": ["ChildhoodFriendRomance", "JerkWithAHeartOfGold", "CordonBleughChef", "GagNose", "TheDitz", "ChubbyMamaSkinnyPapa", "HappilyMarried", "GoodParents", "BumblingDad", "JustAStupidAccent"], "tropes_by_category": {}, "similar": [{"name": "Mildred \"Milly\" Tabootie", "show": "ChalkZone", "id": "chalkzone_mildred_milly_tabootie", "similarity": 0.3333, "shared_tropes": 4}, {"name": "Howard Cunningham", "show": "Happy Days", "id": "happy_days_howard_cunningham", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Willie Tanner", "show": "ALF", "id": "alf_willie_tanner", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Jerry Russo", "show": "Wizards of Waverly Place", "id": "wizards_of_waverly_place_jerry_russo", "similarity": 0.129, "shared_tropes": 4}, {"name": "Harold and Jean Weir", "show": "Freaks and Geeks", "id": "freaks_and_geeks_harold_and_jean_weir", "similarity": 0.125, "shared_tropes": 4}, {"name": "Andre 'Dre' Johnson", "show": "Black-ish", "id": "black_ish_andre_dre_johnson", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Fred Flintstone", "show": "Flintstones,The", "id": "flintstonesthe_fred_flintstone", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Carl Winslow", "show": "Family Matters", "id": "family_matters_carl_winslow", "similarity": 0.0714, "shared_tropes": 4}]}

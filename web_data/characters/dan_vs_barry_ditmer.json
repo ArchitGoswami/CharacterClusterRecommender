@@ -1,15 +1,1 @@
-{
-  "name": "Barry Ditmer",
-  "show": "Dan Vs.",
-  "trope_count": 7,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "Jerkass",
-    "BigNo",
-    "LevitatingLotusPosition",
-    "BourgeoisBohemian",
-    "HatesBeingTouched",
-    "BlackmailIsSuchAnUglyWord"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Barry Ditmer", "show": "Dan Vs.", "trope_count": 7, "tropes": ["NoCelebritiesWereHarmed", "Jerkass", "BigNo", "LevitatingLotusPosition", "BourgeoisBohemian", "HatesBeingTouched", "BlackmailIsSuchAnUglyWord"], "tropes_by_category": {}, "similar": [{"name": "Sam", "show": "Adventures of Sam & Max: Freelance Police, The", "id": "adventures_of_sam_and_max_freelance_police_the_sam", "similarity": 0.044, "shared_tropes": 4}]}

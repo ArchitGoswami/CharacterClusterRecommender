@@ -1,13 +1,1 @@
-{
-  "name": "The President of the Galactic Alliance",
-  "show": "Buzz Lightyear of Star Command",
-  "trope_count": 5,
-  "tropes": [
-    "TooManyMouths",
-    "VoiceOfTheLegion",
-    "NoNameGiven",
-    "ReasonableAuthorityFigure",
-    "SassyBlackWoman"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The President of the Galactic Alliance", "show": "Buzz Lightyear of Star Command", "trope_count": 5, "tropes": ["TooManyMouths", "VoiceOfTheLegion", "NoNameGiven", "ReasonableAuthorityFigure", "SassyBlackWoman"], "tropes_by_category": {}, "similar": []}

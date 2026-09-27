@@ -1,12 +1,1 @@
-{
-  "name": "Shaw",
-  "show": "Tron: Uprising",
-  "trope_count": 4,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "TookALevelInBadass",
-    "MadScientist",
-    "DisneyVillainDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Shaw", "show": "Tron: Uprising", "trope_count": 4, "tropes": ["SmallRoleBigImpact", "TookALevelInBadass", "MadScientist", "DisneyVillainDeath"], "tropes_by_category": {}, "similar": [{"name": "Hardshell", "show": "Transformers Prime", "id": "transformers_prime_hardshell", "similarity": 0.1026, "shared_tropes": 4}]}

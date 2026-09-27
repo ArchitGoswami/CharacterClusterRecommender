@@ -1,16 +1,1 @@
-{
-  "name": "Terror",
-  "show": "The Boys",
-  "trope_count": 8,
-  "tropes": [
-    "MisterMuffykins",
-    "LovableSexManiac",
-    "BigFriendlyDog",
-    "AmbiguousSituation",
-    "AnimalsLackAttributes",
-    "BlackComedyRape",
-    "MoralityPet",
-    "UrineTrouble"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Terror", "show": "The Boys", "trope_count": 8, "tropes": ["MisterMuffykins", "LovableSexManiac", "BigFriendlyDog", "AmbiguousSituation", "AnimalsLackAttributes", "BlackComedyRape", "MoralityPet", "UrineTrouble"], "tropes_by_category": {}, "similar": [{"name": "Terror", "show": "Boys, The", "id": "boys_the_terror", "similarity": 1.0, "shared_tropes": 8}]}

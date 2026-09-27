@@ -1,11 +1,1 @@
-{
-  "name": "Snake",
-  "show": "Skunk Fu!",
-  "trope_count": 3,
-  "tropes": [
-    "JustAStupidAccent",
-    "SnakesAreSinister",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Snake", "show": "Skunk Fu!", "trope_count": 3, "tropes": ["JustAStupidAccent", "SnakesAreSinister", "ButtMonkey"], "tropes_by_category": {}, "similar": []}

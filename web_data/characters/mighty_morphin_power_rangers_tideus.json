@@ -1,15 +1,1 @@
-{
-  "name": "Tideus",
-  "show": "Mighty Morphin Power Rangers",
-  "trope_count": 7,
-  "tropes": [
-    "GratuitousForeignLanguage",
-    "TheBigGuy",
-    "NotSoAboveItAll",
-    "TheQuietOne",
-    "AdaptationPersonalityChange",
-    "MeaningfulName",
-    "MrViceGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tideus", "show": "Mighty Morphin Power Rangers", "trope_count": 7, "tropes": ["GratuitousForeignLanguage", "TheBigGuy", "NotSoAboveItAll", "TheQuietOne", "AdaptationPersonalityChange", "MeaningfulName", "MrViceGuy"], "tropes_by_category": {}, "similar": [{"name": "Kanzo Mogi/Kanichi Moji", "show": "Death Note", "id": "death_note_kanzo_mogi_kanichi_moji", "similarity": 0.1143, "shared_tropes": 4}]}

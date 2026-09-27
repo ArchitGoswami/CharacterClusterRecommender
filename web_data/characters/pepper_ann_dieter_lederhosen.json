@@ -1,16 +1,1 @@
-{
-  "name": "Dieter Lederhosen",
-  "show": "Pepper Ann",
-  "trope_count": 8,
-  "tropes": [
-    "ChickMagnet",
-    "Expy",
-    "OpaqueNerdGlasses",
-    "BigFun",
-    "FunnyForeigner",
-    "Keet",
-    "SixthRanger",
-    "KindheartedSimpleton"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dieter Lederhosen", "show": "Pepper Ann", "trope_count": 8, "tropes": ["ChickMagnet", "Expy", "OpaqueNerdGlasses", "BigFun", "FunnyForeigner", "Keet", "SixthRanger", "KindheartedSimpleton"], "tropes_by_category": {}, "similar": [{"name": "T.J.", "show": "Recess", "id": "recess_t_j", "similarity": 0.0388, "shared_tropes": 4}]}

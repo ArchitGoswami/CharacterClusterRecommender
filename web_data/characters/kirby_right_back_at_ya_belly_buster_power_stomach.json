@@ -1,15 +1,1 @@
-{
-  "name": "Belly Buster (Power Stomach)",
-  "show": "Kirby: Right Back at Ya!",
-  "trope_count": 7,
-  "tropes": [
-    "LethalChef",
-    "TurnsRed",
-    "RageBreakingPoint",
-    "BottomlessMagazines",
-    "FeedItABomb",
-    "ExtremeOmnivore",
-    "EdibleAmmunition"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Belly Buster (Power Stomach)", "show": "Kirby: Right Back at Ya!", "trope_count": 9, "tropes": ["BerserkButton", "ExtremeOmnivore", "LethalChef", "FeedItABomb", "EdibleAmmunition", "BottomlessMagazines", "TurnsRed", "KnightOfCerebus", "RageBreakingPoint"], "tropes_by_category": {}, "similar": [{"name": "Kirby", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_kirby", "similarity": 0.0374, "shared_tropes": 4}]}

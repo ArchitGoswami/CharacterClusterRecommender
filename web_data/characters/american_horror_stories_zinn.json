@@ -1,18 +1,1 @@
-{
-  "name": "Zinn",
-  "show": "American Horror Stories",
-  "trope_count": 10,
-  "tropes": [
-    "AintTooProudToBeg",
-    "BadSanta",
-    "Jerkass",
-    "InstantHumiliationJustAddYouTube",
-    "Manchild",
-    "AssholeVictim",
-    "KickTheDog",
-    "CruelAndUnusualDeath",
-    "FratBro",
-    "HighVoltageDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zinn", "show": "American Horror Stories", "trope_count": 10, "tropes": ["AintTooProudToBeg", "BadSanta", "Jerkass", "InstantHumiliationJustAddYouTube", "Manchild", "AssholeVictim", "KickTheDog", "CruelAndUnusualDeath", "FratBro", "HighVoltageDeath"], "tropes_by_category": {}, "similar": [{"name": "Humphrey", "show": "Orange Is the New Black", "id": "orange_is_the_new_black_humphrey", "similarity": 0.1471, "shared_tropes": 5}, {"name": "Theo Galavan/Azrael", "show": "Gotham", "id": "gotham_theo_galavan_azrael", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Dandy Mott", "show": "American Horror Story", "id": "american_horror_story_dandy_mott", "similarity": 0.037, "shared_tropes": 5}]}

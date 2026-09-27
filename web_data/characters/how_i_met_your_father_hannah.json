@@ -1,12 +1,1 @@
-{
-  "name": "Hannah",
-  "show": "How I Met Your Father",
-  "trope_count": 4,
-  "tropes": [
-    "OnlySaneMan",
-    "Hypocrite",
-    "SatelliteLoveInterest",
-    "OutOfFocus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hannah", "show": "How I Met Your Father", "trope_count": 4, "tropes": ["OnlySaneMan", "Hypocrite", "SatelliteLoveInterest", "OutOfFocus"], "tropes_by_category": {}, "similar": []}

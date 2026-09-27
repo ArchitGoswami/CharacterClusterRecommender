@@ -1,15 +1,1 @@
-{
-  "name": "Helen Spitz",
-  "show": "Braceface",
-  "trope_count": 7,
-  "tropes": [
-    "ParentWithNewParamour",
-    "GoodParents",
-    "SingleWomanSeeksGoodMan",
-    "FeminineMotherTomboyishDaughter",
-    "AmicableExes",
-    "ParentsAsPeople",
-    "BarelyChangedDubName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Helen Spitz", "show": "Braceface", "trope_count": 7, "tropes": ["ParentWithNewParamour", "GoodParents", "SingleWomanSeeksGoodMan", "FeminineMotherTomboyishDaughter", "AmicableExes", "ParentsAsPeople", "BarelyChangedDubName"], "tropes_by_category": {}, "similar": [{"name": "Richard Spitz", "show": "Braceface", "id": "braceface_richard_spitz", "similarity": 0.2857, "shared_tropes": 4}, {"name": "Kira Finster", "show": "Rugrats", "id": "rugrats_kira_finster", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Lorelai Victoria Gilmore", "show": "Gilmore Girls", "id": "gilmore_girls_lorelai_victoria_gilmore", "similarity": 0.0548, "shared_tropes": 4}]}

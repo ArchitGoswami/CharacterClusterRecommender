@@ -1,18 +1,1 @@
-{
-  "name": "Ryōma/Ginga Red",
-  "show": "Seijuu Sentai Gingaman",
-  "trope_count": 10,
-  "tropes": [
-    "TheLeader",
-    "LawOfChromaticSuperiority",
-    "TropeCodifier",
-    "KingOfBeasts",
-    "RookieRedRanger",
-    "PlayingWithFire",
-    "InstantExpert",
-    "TheTeam",
-    "SignatureMove",
-    "TerribleArtist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ryōma/Ginga Red", "show": "Seijuu Sentai Gingaman", "trope_count": 10, "tropes": ["TheLeader", "LawOfChromaticSuperiority", "TropeCodifier", "KingOfBeasts", "RookieRedRanger", "PlayingWithFire", "InstantExpert", "TheTeam", "SignatureMove", "TerribleArtist"], "tropes_by_category": {}, "similar": [{"name": "Gorō Hoshino/Oh Red", "show": "Chouriki Sentai Ohranger", "id": "chouriki_sentai_ohranger_gor_hoshino_oh_red", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Ryō/Ryu Ranger", "show": "Gosei Sentai Dairanger", "id": "gosei_sentai_dairanger_ry_ryu_ranger", "similarity": 0.25, "shared_tropes": 6}, {"name": "Bloom", "show": "Winx Club", "id": "winx_club_bloom", "similarity": 0.045, "shared_tropes": 5}]}

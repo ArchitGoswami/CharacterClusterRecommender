@@ -1,15 +1,1 @@
-{
-  "name": "Nicolás Mora",
-  "show": "Yo soy Betty, la Fea",
-  "trope_count": 7,
-  "tropes": [
-    "LoveMartyr",
-    "TheRival",
-    "OperationJealousy",
-    "GoldDigger",
-    "LikeASonToMe",
-    "StrongFamilyResemblance",
-    "PlayedForLaughs"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nicolás Mora", "show": "Yo soy Betty, la Fea", "trope_count": 7, "tropes": ["LoveMartyr", "TheRival", "OperationJealousy", "GoldDigger", "LikeASonToMe", "StrongFamilyResemblance", "PlayedForLaughs"], "tropes_by_category": {}, "similar": []}

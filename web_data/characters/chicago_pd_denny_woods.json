@@ -1,18 +1,1 @@
-{
-  "name": "Denny Woods",
-  "show": "Chicago PD",
-  "trope_count": 10,
-  "tropes": [
-    "ScaryBlackMan",
-    "WhatHappenedToTheMouse",
-    "ItsPersonal",
-    "IdiotBall",
-    "SmugSuper",
-    "VigilanteJustice",
-    "NotSoDifferentRemark",
-    "BadBoss",
-    "Hypocrite",
-    "CorruptCop"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Denny Woods", "show": "Chicago PD", "trope_count": 10, "tropes": ["ScaryBlackMan", "WhatHappenedToTheMouse", "ItsPersonal", "IdiotBall", "SmugSuper", "VigilanteJustice", "NotSoDifferentRemark", "BadBoss", "Hypocrite", "CorruptCop"], "tropes_by_category": {}, "similar": [{"name": "Edward Vogler", "show": "House", "id": "house_edward_vogler", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Mike onBetter Call Saul", "show": "Better Call Saul", "id": "better_call_saul_mike_onbetter_call_saul", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Mike onBetter Call Saul", "show": "Breaking Bad", "id": "breaking_bad_mike_onbetter_call_saul", "similarity": 0.0388, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Jane Mancini",
-  "show": "Melrose Place",
-  "trope_count": 9,
-  "tropes": [
-    "SignificantWardrobeShift",
-    "Hypocrite",
-    "HeroicBSOD",
-    "HairOfGoldHeartOfGold",
-    "TheHeart",
-    "HappilyAdopted",
-    "FaceHeelTurn",
-    "NiceGirl",
-    "BettyAndVeronica"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jane Mancini", "show": "Melrose Place", "trope_count": 9, "tropes": ["SignificantWardrobeShift", "Hypocrite", "HeroicBSOD", "HairOfGoldHeartOfGold", "TheHeart", "HappilyAdopted", "FaceHeelTurn", "NiceGirl", "BettyAndVeronica"], "tropes_by_category": {}, "similar": [{"name": "Rihoko \"Riko\" Amaha", "show": "Witchblade", "id": "witchblade_rihoko_riko_amaha", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Kokone Kikogami", "show": "Aquarion", "id": "aquarion_kokone_kikogami", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Alana Bloom", "show": "Hannibal", "id": "hannibal_alana_bloom", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Margaret Thompson", "show": "Boardwalk Empire", "id": "boardwalk_empire_margaret_thompson", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Brittany S. Pierce", "show": "Glee", "id": "glee_brittany_s_pierce", "similarity": 0.0625, "shared_tropes": 6}, {"name": "Shinobu Miyake", "show": "Urusei Yatsura", "id": "urusei_yatsura_shinobu_miyake", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Bridgette", "show": "Total Drama", "id": "total_drama_bridgette", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Eddie Brock", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_eddie_brock", "similarity": 0.0494, "shared_tropes": 4}]}

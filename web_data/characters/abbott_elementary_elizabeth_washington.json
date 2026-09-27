@@ -1,11 +1,1 @@
-{
-  "name": "Elizabeth Washington",
-  "show": "Abbott Elementary",
-  "trope_count": 3,
-  "tropes": [
-    "PetTheDog",
-    "ExactWords",
-    "Womanchild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elizabeth Washington", "show": "Abbott Elementary", "trope_count": 11, "tropes": ["BunnyEarsLawyer", "ExactWords", "Womanchild", "EvilCounterpart", "PoliticallyIncorrectVillain", "BitchInSheepsClothing", "SlaveToPR", "SleazyPolitician", "DownplayedTrope", "PragmaticVillain", "PointyHairedBoss"], "tropes_by_category": {}, "similar": [{"name": "Judge Carl Robertson", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_judge_carl_robertson", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Vito Spatafore", "show": "Sopranos,The", "id": "sopranosthe_vito_spatafore", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Vito Spatafore", "show": "The Sopranos", "id": "the_sopranos_vito_spatafore", "similarity": 0.0476, "shared_tropes": 4}, {"name": "The Opposition", "show": "Thick Of It", "id": "thick_of_it_the_opposition", "similarity": 0.0388, "shared_tropes": 4}]}

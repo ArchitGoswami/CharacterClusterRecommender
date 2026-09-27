@@ -1,17 +1,1 @@
-{
-  "name": "Stephen Hart",
-  "show": "Primeval",
-  "trope_count": 9,
-  "tropes": [
-    "HeroicSacrifice",
-    "BigBrotherInstinct",
-    "TheBigGuy",
-    "ConflictBall",
-    "TheMasquerade",
-    "HorribleJudgeOfCharacter",
-    "SourSupporter",
-    "SenselessSacrifice",
-    "ThePeterPrinciple"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stephen Hart", "show": "Primeval", "trope_count": 10, "tropes": ["ConflictBall", "HorribleJudgeOfCharacter", "SenselessSacrifice", "TheMasquerade", "HeroicSacrifice", "BigBrotherInstinct", "DeadpanSnarker", "ThePeterPrinciple", "TheBigGuy", "SourSupporter"], "tropes_by_category": {}, "similar": [{"name": "Johann Trinity", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_johann_trinity", "similarity": 0.069, "shared_tropes": 4}, {"name": "Sonic the Hedgehog", "show": "Sonic Prime", "id": "sonic_prime_sonic_the_hedgehog", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Henry Mills", "show": "Once Upon a Time", "id": "once_upon_a_time_henry_mills", "similarity": 0.0385, "shared_tropes": 4}]}

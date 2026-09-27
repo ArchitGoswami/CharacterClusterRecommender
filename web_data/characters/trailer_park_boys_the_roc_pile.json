@@ -1,11 +1,1 @@
-{
-  "name": "The Roc Pile",
-  "show": "Trailer Park Boys",
-  "trope_count": 3,
-  "tropes": [
-    "TokenWhite",
-    "TheStoner",
-    "TheHyena"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Roc Pile", "show": "Trailer Park Boys", "trope_count": 3, "tropes": ["TokenWhite", "TheStoner", "TheHyena"], "tropes_by_category": {}, "similar": []}

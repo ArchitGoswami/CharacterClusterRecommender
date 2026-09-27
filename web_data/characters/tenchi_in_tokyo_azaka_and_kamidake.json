@@ -1,16 +1,1 @@
-{
-  "name": "Azaka and Kamidake",
-  "show": "Tenchi in Tokyo",
-  "trope_count": 8,
-  "tropes": [
-    "TheWorfEffect",
-    "WhatHappenedToTheMouse",
-    "UndyingLoyalty",
-    "OnlyOneName",
-    "RobotBuddy",
-    "SealedGoodInACan",
-    "IDontKnowMortalKombat",
-    "AdaptationalBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Azaka and Kamidake", "show": "Tenchi in Tokyo", "trope_count": 8, "tropes": ["TheWorfEffect", "WhatHappenedToTheMouse", "UndyingLoyalty", "OnlyOneName", "RobotBuddy", "SealedGoodInACan", "IDontKnowMortalKombat", "AdaptationalBadass"], "tropes_by_category": {}, "similar": [{"name": "Azaka and Kamidake", "show": "Tenchi Muyo! Ryo-Ohki", "id": "tenchi_muyo_ryo_ohki_azaka_and_kamidake", "similarity": 1.0, "shared_tropes": 8}, {"name": "Azaka and Kamidake", "show": "Tenchi Universe", "id": "tenchi_universe_azaka_and_kamidake", "similarity": 1.0, "shared_tropes": 8}, {"name": "Assist Dinosaurs", "show": "Dinosaur King", "id": "dinosaur_king_assist_dinosaurs", "similarity": 0.0833, "shared_tropes": 4}]}

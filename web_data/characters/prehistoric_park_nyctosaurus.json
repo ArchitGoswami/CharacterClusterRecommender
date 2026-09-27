@@ -1,13 +1,1 @@
-{
-  "name": "Nyctosaurus",
-  "show": "Prehistoric Park",
-  "trope_count": 5,
-  "tropes": [
-    "ArtisticLicensePaleontology",
-    "MonsterMunch",
-    "AwesomeButImpractical",
-    "RuleOfCool",
-    "AnachronismStew"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nyctosaurus", "show": "Prehistoric Park", "trope_count": 5, "tropes": ["ArtisticLicensePaleontology", "MonsterMunch", "AwesomeButImpractical", "RuleOfCool", "AnachronismStew"], "tropes_by_category": {}, "similar": [{"name": "Edaphosaurus", "show": "Walking with Monsters", "id": "walking_with_monsters_edaphosaurus", "similarity": 0.3636, "shared_tropes": 4}, {"name": "Eustreptospondylus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_eustreptospondylus", "similarity": 0.1818, "shared_tropes": 4}]}

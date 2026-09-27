@@ -1,15 +1,1 @@
-{
-  "name": "Crimson Countess",
-  "show": "The Boys",
-  "trope_count": 7,
-  "tropes": [
-    "BattleCouple",
-    "TooDumbToLive",
-    "HandBlast",
-    "KickTheDog",
-    "FanDisservice",
-    "DisproportionateRetribution",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Crimson Countess", "show": "The Boys", "trope_count": 7, "tropes": ["BattleCouple", "TooDumbToLive", "HandBlast", "KickTheDog", "FanDisservice", "DisproportionateRetribution", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Crimson Countess", "show": "Boys, The", "id": "boys_the_crimson_countess", "similarity": 1.0, "shared_tropes": 7}]}

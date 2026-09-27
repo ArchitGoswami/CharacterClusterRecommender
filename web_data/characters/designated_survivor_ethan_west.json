@@ -1,15 +1,1 @@
-{
-  "name": "Ethan West",
-  "show": "Designated Survivor",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "NiceGuy",
-    "NothingPersonal",
-    "BunnyEarsLawyer",
-    "AntiVillain",
-    "SympatheticInspectorAntagonist",
-    "SpecialGuest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ethan West", "show": "Designated Survivor", "trope_count": 7, "tropes": ["DeadpanSnarker", "NiceGuy", "NothingPersonal", "BunnyEarsLawyer", "AntiVillain", "SympatheticInspectorAntagonist", "SpecialGuest"], "tropes_by_category": {}, "similar": []}

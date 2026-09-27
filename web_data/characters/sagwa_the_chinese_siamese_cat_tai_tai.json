@@ -1,15 +1,1 @@
-{
-  "name": "Tai-Tai",
-  "show": "Sagwa, the Chinese Siamese Cat",
-  "trope_count": 7,
-  "tropes": [
-    "VocalEvolution",
-    "GreenAesop",
-    "KarmaHoudini",
-    "AntiHero",
-    "MyGodWhatHaveIDone",
-    "SetRightWhatOnceWentWrong",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tai-Tai", "show": "Sagwa, the Chinese Siamese Cat", "trope_count": 7, "tropes": ["VocalEvolution", "GreenAesop", "KarmaHoudini", "AntiHero", "MyGodWhatHaveIDone", "SetRightWhatOnceWentWrong", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Jimbo Kern and Ned Gerblansky", "show": "South Park", "id": "south_park_jimbo_kern_and_ned_gerblansky", "similarity": 0.0625, "shared_tropes": 4}, {"name": "ALF", "show": "ALF", "id": "alf_alf", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Angry Grandpa", "show": "Angry Grandpa", "id": "angry_grandpa_angry_grandpa", "similarity": 0.044, "shared_tropes": 4}, {"name": "Frylock", "show": "Aqua Teen Hunger Force", "id": "aqua_teen_hunger_force_frylock", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Doc", "show": "Red vs Blue", "id": "red_vs_blue_doc", "similarity": 0.0424, "shared_tropes": 5}, {"name": "Bishop", "show": "X-Men", "id": "x_men_bishop", "similarity": 0.0357, "shared_tropes": 4}]}

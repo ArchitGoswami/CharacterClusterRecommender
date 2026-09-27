@@ -1,17 +1,1 @@
-{
-  "name": "Geo Metro",
-  "show": "Magic Knight Rayearth",
-  "trope_count": 9,
-  "tropes": [
-    "HumongousMecha",
-    "AcePilot",
-    "NumberTwo",
-    "AntiVillain",
-    "HotBlooded",
-    "SweetTooth",
-    "GoodScarsEvilScars",
-    "AdaptationalBadass",
-    "VehicularThemeNaming"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Geo Metro", "show": "Magic Knight Rayearth", "trope_count": 9, "tropes": ["HumongousMecha", "AcePilot", "NumberTwo", "AntiVillain", "HotBlooded", "SweetTooth", "GoodScarsEvilScars", "AdaptationalBadass", "VehicularThemeNaming"], "tropes_by_category": {}, "similar": [{"name": "Eagle Vision", "show": "Magic Knight Rayearth", "id": "magic_knight_rayearth_eagle_vision", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Viral", "show": "Tengen Toppa Gurren Lagann", "id": "tengen_toppa_gurren_lagann_viral", "similarity": 0.0488, "shared_tropes": 4}]}

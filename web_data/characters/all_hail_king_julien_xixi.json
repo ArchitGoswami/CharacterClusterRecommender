@@ -1,14 +1,1 @@
-{
-  "name": "Xixi",
-  "show": "All Hail King Julien",
-  "trope_count": 6,
-  "tropes": [
-    "Catchphrase",
-    "RunningGag",
-    "HardDrinkingPartyGirl",
-    "GenkiGirl",
-    "ItsAllAboutMe",
-    "MisplacedWildlife"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Xixi", "show": "All Hail King Julien", "trope_count": 6, "tropes": ["Catchphrase", "RunningGag", "HardDrinkingPartyGirl", "GenkiGirl", "ItsAllAboutMe", "MisplacedWildlife"], "tropes_by_category": {}, "similar": [{"name": "Brooke Penelope Davis", "show": "One Tree Hill", "id": "one_tree_hill_brooke_penelope_davis", "similarity": 0.0455, "shared_tropes": 4}]}

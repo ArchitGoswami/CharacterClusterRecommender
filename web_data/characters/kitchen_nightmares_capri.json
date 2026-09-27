@@ -1,17 +1,1 @@
-{
-  "name": "Capri",
-  "show": "Kitchen Nightmares",
-  "trope_count": 9,
-  "tropes": [
-    "IdenticalTwinIDTag",
-    "NeverMyFault",
-    "BigFun",
-    "ManChild",
-    "CrouchingMoronHiddenBadass",
-    "TookALevelInBadass",
-    "NoSell",
-    "InelegantBlubbering",
-    "TwinSwitch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Capri", "show": "Kitchen Nightmares", "trope_count": 9, "tropes": ["IdenticalTwinIDTag", "NeverMyFault", "BigFun", "ManChild", "CrouchingMoronHiddenBadass", "TookALevelInBadass", "NoSell", "InelegantBlubbering", "TwinSwitch"], "tropes_by_category": {}, "similar": [{"name": "Capri", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_capri", "similarity": 1.0, "shared_tropes": 9}, {"name": "#-D", "show": "Steven Universe", "id": "steven_universe_d", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Carlton Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_carlton_banks", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Pam Poovey", "show": "Archer", "id": "archer_pam_poovey", "similarity": 0.0396, "shared_tropes": 4}]}

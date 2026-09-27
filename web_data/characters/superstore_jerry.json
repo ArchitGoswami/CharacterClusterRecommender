@@ -1,13 +1,1 @@
-{
-  "name": "Jerry",
-  "show": "Superstore",
-  "trope_count": 5,
-  "tropes": [
-    "OddFriendship",
-    "SuperGullible",
-    "BirdsOfAFeather",
-    "BewareTheNiceOnes",
-    "SatelliteLoveInterest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jerry", "show": "Superstore", "trope_count": 5, "tropes": ["OddFriendship", "SuperGullible", "BirdsOfAFeather", "BewareTheNiceOnes", "SatelliteLoveInterest"], "tropes_by_category": {}, "similar": [{"name": "Cody", "show": "Total Drama", "id": "total_drama_cody", "similarity": 0.0421, "shared_tropes": 4}]}

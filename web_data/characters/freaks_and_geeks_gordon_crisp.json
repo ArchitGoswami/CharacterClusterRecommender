@@ -1,14 +1,1 @@
-{
-  "name": "Gordon Crisp",
-  "show": "Freaks and Geeks",
-  "trope_count": 6,
-  "tropes": [
-    "BigFun",
-    "NiceGuy",
-    "ThePigPen",
-    "HiddenDepths",
-    "SixthRanger",
-    "GeekPhysiques"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gordon Crisp", "show": "Freaks and Geeks", "trope_count": 6, "tropes": ["BigFun", "NiceGuy", "ThePigPen", "HiddenDepths", "SixthRanger", "GeekPhysiques"], "tropes_by_category": {}, "similar": [{"name": "Gene Belcher", "show": "Bob's Burgers", "id": "bobs_burgers_gene_belcher", "similarity": 0.043, "shared_tropes": 4}]}

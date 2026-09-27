@@ -1,15 +1,1 @@
-{
-  "name": "Auntie Sis",
-  "show": "The Boys",
-  "trope_count": 7,
-  "tropes": [
-    "TeamMom",
-    "TraumaButton",
-    "AmbiguouslyHuman",
-    "ReasonableAuthorityFigure",
-    "PunnyName",
-    "MamaBear",
-    "DidNotThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Auntie Sis", "show": "The Boys", "trope_count": 7, "tropes": ["TeamMom", "TraumaButton", "AmbiguouslyHuman", "ReasonableAuthorityFigure", "PunnyName", "MamaBear", "DidNotThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Auntie Sis", "show": "Boys, The", "id": "boys_the_auntie_sis", "similarity": 1.0, "shared_tropes": 7}, {"name": "Sara Bellum", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_sara_bellum", "similarity": 0.0741, "shared_tropes": 4}]}

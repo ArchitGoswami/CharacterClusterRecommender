@@ -1,17 +1,1 @@
-{
-  "name": "Haikouichthys",
-  "show": "Walking with Monsters",
-  "trope_count": 9,
-  "tropes": [
-    "TheSwarm",
-    "PiranhaProblem",
-    "BoringButPractical",
-    "FragileSpeedster",
-    "BlackBeadEyes",
-    "KillerRabbit",
-    "FromNobodyToNightmare",
-    "AttackItsWeakPoint",
-    "ZergRush"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Haikouichthys", "show": "Walking with Monsters", "trope_count": 9, "tropes": ["TheSwarm", "PiranhaProblem", "BoringButPractical", "FragileSpeedster", "BlackBeadEyes", "KillerRabbit", "FromNobodyToNightmare", "AttackItsWeakPoint", "ZergRush"], "tropes_by_category": {}, "similar": [{"name": "Coelophysis", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_coelophysis", "similarity": 0.1212, "shared_tropes": 4}]}

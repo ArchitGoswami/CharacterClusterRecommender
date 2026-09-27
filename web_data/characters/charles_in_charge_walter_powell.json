@@ -1,13 +1,1 @@
-{
-  "name": "Walter Powell",
-  "show": "Charles in Charge",
-  "trope_count": 5,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "AndStarring",
-    "BrutalHonesty",
-    "DadTheVeteran",
-    "GrumpyOldMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Walter Powell", "show": "Charles in Charge", "trope_count": 5, "tropes": ["JerkWithAHeartOfGold", "AndStarring", "BrutalHonesty", "DadTheVeteran", "GrumpyOldMan"], "tropes_by_category": {}, "similar": [{"name": "Harold and Jean Weir", "show": "Freaks and Geeks", "id": "freaks_and_geeks_harold_and_jean_weir", "similarity": 0.1481, "shared_tropes": 4}]}

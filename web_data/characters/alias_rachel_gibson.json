@@ -1,15 +1,1 @@
-{
-  "name": "Rachel Gibson",
-  "show": "Alias",
-  "trope_count": 7,
-  "tropes": [
-    "ActionGirl",
-    "TookALevelInBadass",
-    "SuspiciouslySimilarSubstitute",
-    "NaiveNewcomer",
-    "WesternTerrorists",
-    "JuniorCounterpart",
-    "PluckyGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rachel Gibson", "show": "Alias", "trope_count": 7, "tropes": ["ActionGirl", "TookALevelInBadass", "SuspiciouslySimilarSubstitute", "NaiveNewcomer", "WesternTerrorists", "JuniorCounterpart", "PluckyGirl"], "tropes_by_category": {}, "similar": [{"name": "Juliet O'Hara", "show": "Psych", "id": "psych_juliet_o_hara", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Miko Nakadai", "show": "Transformers Prime", "id": "transformers_prime_miko_nakadai", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Damien", "show": "Total Drama", "id": "total_drama_damien", "similarity": 0.0449, "shared_tropes": 4}]}

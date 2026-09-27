@@ -1,12 +1,1 @@
-{
-  "name": "Kiana",
-  "show": "Bratz",
-  "trope_count": 4,
-  "tropes": [
-    "BadassNative",
-    "CowBoy",
-    "BreakoutCharacter",
-    "TrueBlueFemininity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kiana", "show": "Bratz", "trope_count": 4, "tropes": ["BadassNative", "CowBoy", "BreakoutCharacter", "TrueBlueFemininity"], "tropes_by_category": {}, "similar": []}

@@ -1,18 +1,1 @@
-{
-  "name": "Queen Aleena",
-  "show": "Sonic Underground",
-  "trope_count": 10,
-  "tropes": [
-    "TheChessmaster",
-    "CoolCrown",
-    "BadassBoast",
-    "ActionMom",
-    "TheHighQueen",
-    "BigGood",
-    "GracefulLadiesLikePurple",
-    "InTheHood",
-    "MamaBear",
-    "LongHairIsFeminine"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Queen Aleena", "show": "Sonic Underground", "trope_count": 10, "tropes": ["TheChessmaster", "CoolCrown", "BadassBoast", "ActionMom", "TheHighQueen", "BigGood", "GracefulLadiesLikePurple", "InTheHood", "MamaBear", "LongHairIsFeminine"], "tropes_by_category": {}, "similar": [{"name": "Queen Delightful", "show": "The 7D", "id": "the_7d_queen_delightful", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Queen Angella", "show": "She-Ra and the Princesses of Power", "id": "she_ra_and_the_princesses_of_power_queen_angella", "similarity": 0.069, "shared_tropes": 4}, {"name": "Yui Ikari", "show": "Neon Genesis Evangelion", "id": "neon_genesis_evangelion_yui_ikari", "similarity": 0.0519, "shared_tropes": 4}]}

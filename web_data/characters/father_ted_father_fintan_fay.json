@@ -1,15 +1,1 @@
-{
-  "name": "Father Fintan Fay",
-  "show": "Father Ted",
-  "trope_count": 7,
-  "tropes": [
-    "CoolOldGuy",
-    "TheUnintelligible",
-    "NiceGuy",
-    "HiddenDepths",
-    "OneSteveLimit",
-    "IntelligibleUnintelligible",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Father Fintan Fay", "show": "Father Ted", "trope_count": 7, "tropes": ["CoolOldGuy", "TheUnintelligible", "NiceGuy", "HiddenDepths", "OneSteveLimit", "IntelligibleUnintelligible", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "\"Big\" Tom Buchanan", "show": "Survivor", "id": "survivor_big_tom_buchanan", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Timmy Burch", "show": "South Park", "id": "south_park_timmy_burch", "similarity": 0.1064, "shared_tropes": 5}, {"name": "Coco", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_coco", "similarity": 0.0909, "shared_tropes": 4}]}

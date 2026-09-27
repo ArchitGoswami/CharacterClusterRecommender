@@ -1,18 +1,1 @@
-{
-  "name": "Mrs. Estelle Dabney",
-  "show": "Good Luck Charlie",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "SassyBlackWoman",
-    "WorthyOpponent",
-    "SnarkToSnarkCombat",
-    "ManipulativeBastard",
-    "MistakenForMurderer",
-    "PolarOppositeTwins",
-    "EvilRedhead",
-    "ManipulativeBitch",
-    "UncannyFamilyResemblance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Estelle Dabney", "show": "Good Luck Charlie", "trope_count": 10, "tropes": ["DeadpanSnarker", "SassyBlackWoman", "WorthyOpponent", "SnarkToSnarkCombat", "ManipulativeBastard", "MistakenForMurderer", "PolarOppositeTwins", "EvilRedhead", "ManipulativeBitch", "UncannyFamilyResemblance"], "tropes_by_category": {}, "similar": [{"name": "Rachel Virginia Gatina", "show": "One Tree Hill", "id": "one_tree_hill_rachel_virginia_gatina", "similarity": 0.0769, "shared_tropes": 4}]}

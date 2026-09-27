@@ -1,18 +1,1 @@
-{
-  "name": "Terry",
-  "show": "Fawlty Towers",
-  "trope_count": 10,
-  "tropes": [
-    "HypercompetentSidekick",
-    "OnlySaneEmployee",
-    "WordOfGod",
-    "BerserkButton",
-    "ConsummateLiar",
-    "LethalChef",
-    "TeamChef",
-    "AmbiguousCriminalHistory",
-    "OnlySaneMan",
-    "SixthRanger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Terry", "show": "Fawlty Towers", "trope_count": 10, "tropes": ["HypercompetentSidekick", "OnlySaneEmployee", "WordOfGod", "BerserkButton", "ConsummateLiar", "LethalChef", "TeamChef", "AmbiguousCriminalHistory", "OnlySaneMan", "SixthRanger"], "tropes_by_category": {}, "similar": [{"name": "A.D.A. Dominick \"Sonny\" Carisi, Jr.", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_a_d_a_dominick_sonny_carisi_jr", "similarity": 0.0615, "shared_tropes": 4}, {"name": "The Baldrick Lineage", "show": "Blackadder", "id": "blackadder_the_baldrick_lineage", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Charles Foster Offdensen", "show": "Metalocalypse", "id": "metalocalypse_charles_foster_offdensen", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Hogan's Heroes", "show": "Hogan's Heroes", "id": "hogans_heroes_hogan_s_heroes", "similarity": 0.0352, "shared_tropes": 5}]}

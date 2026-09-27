@@ -1,13 +1,1 @@
-{
-  "name": "Mr. Spooner",
-  "show": "Are You Being Served?",
-  "trope_count": 5,
-  "tropes": [
-    "CasanovaWannabe",
-    "DeadpanSnarker",
-    "SensitiveGuyAndManlyMan",
-    "HiddenDepths",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Spooner", "show": "Are You Being Served?", "trope_count": 5, "tropes": ["CasanovaWannabe", "DeadpanSnarker", "SensitiveGuyAndManlyMan", "HiddenDepths", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Kevin Burke", "show": "Two of a Kind", "id": "two_of_a_kind_kevin_burke", "similarity": 0.3636, "shared_tropes": 4}, {"name": "Jackson Rod Stewart", "show": "Hannah Montana", "id": "hannah_montana_jackson_rod_stewart", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Kai", "show": "Ninjago", "id": "ninjago_kai", "similarity": 0.061, "shared_tropes": 5}, {"name": "Howard Wolowitz", "show": "The Big Bang Theory", "id": "the_big_bang_theory_howard_wolowitz", "similarity": 0.0562, "shared_tropes": 5}, {"name": "The Rockhopper Crew", "show": "3-2-1 Penguins!", "id": "3_2_1_penguins_the_rockhopper_crew", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Will Smith", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_will_smith", "similarity": 0.0424, "shared_tropes": 5}, {"name": "Johnny Bravo", "show": "Johnny Bravo", "id": "johnny_bravo_johnny_bravo", "similarity": 0.0352, "shared_tropes": 5}]}

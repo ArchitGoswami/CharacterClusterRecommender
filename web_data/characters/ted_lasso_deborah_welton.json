@@ -1,13 +1,1 @@
-{
-  "name": "Deborah Welton",
-  "show": "Ted Lasso",
-  "trope_count": 5,
-  "tropes": [
-    "PrefersProperNames",
-    "RelationshipRevolvingDoor",
-    "BourgeoisBohemian",
-    "ParentsAsPeople",
-    "ExtremeDoormat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Deborah Welton", "show": "Ted Lasso", "trope_count": 6, "tropes": ["ParentsAsPeople", "BourgeoisBohemian", "ExtremeDoormat", "RelationshipRevolvingDoor", "PrefersProperNames", "DesperatelyLookingForAPurposeInLife"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Sugar Bates",
-  "show": "Banshee",
-  "trope_count": 9,
-  "tropes": [
-    "CoolOldGuy",
-    "TeamDad",
-    "NiceGuy",
-    "ScaryBlackMan",
-    "VitriolicBestFriends",
-    "GoodGuyBar",
-    "BewareTheNiceOnes",
-    "RetiredBadass",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sugar Bates", "show": "Banshee", "trope_count": 9, "tropes": ["CoolOldGuy", "TeamDad", "NiceGuy", "ScaryBlackMan", "VitriolicBestFriends", "GoodGuyBar", "BewareTheNiceOnes", "RetiredBadass", "SecretKeeper"], "tropes_by_category": {}, "similar": [{"name": "Albert Reynolds/Pop-Pop", "show": "Loud House, The", "id": "loud_house_the_albert_reynolds_pop_pop", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Private Godfrey", "show": "Dad's Army", "id": "dads_army_private_godfrey", "similarity": 0.1724, "shared_tropes": 5}, {"name": "Master Fung", "show": "Xiaolin Showdown", "id": "xiaolin_showdown_master_fung", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Drederick Tatum", "show": "Simpsons,The", "id": "simpsonsthe_drederick_tatum", "similarity": 0.16, "shared_tropes": 4}, {"name": "Drederick Tatum", "show": "The Simpsons", "id": "the_simpsons_drederick_tatum", "similarity": 0.16, "shared_tropes": 4}, {"name": "Alfred Pennyworth", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_alfred_pennyworth", "similarity": 0.129, "shared_tropes": 4}, {"name": "Sergeant Wilson", "show": "Dad's Army", "id": "dads_army_sergeant_wilson", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Hudson", "show": "Gargoyles", "id": "gargoyles_hudson", "similarity": 0.1026, "shared_tropes": 4}]}

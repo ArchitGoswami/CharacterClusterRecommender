@@ -1,10 +1,1 @@
-{
-  "name": "Sergeant Boyle",
-  "show": "Murder She Wrote",
-  "trope_count": 2,
-  "tropes": [
-    "PoliceAreUseless",
-    "DeadpanSnarker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sergeant Boyle", "show": "Murder She Wrote", "trope_count": 2, "tropes": ["PoliceAreUseless", "DeadpanSnarker"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Thea Mipson",
-  "show": "As Told by Ginger",
-  "trope_count": 9,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "EvilSoundsDeep",
-    "GRatedDrug",
-    "JerkWithAHeartOfGold",
-    "OnlyInItForTheMoney",
-    "ValleyGirl",
-    "PunchClockVillain",
-    "OneSteveLimit",
-    "StrongFamilyResemblance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thea Mipson", "show": "As Told by Ginger", "trope_count": 10, "tropes": ["JerkWithAHeartOfGold", "OneSteveLimit", "PunchClockVillain", "ValleyGirl", "OnlyInItForTheMoney", "BecomingTheMask", "NoCelebritiesWereHarmed", "EvilSoundsDeep", "GRatedDrug", "StrongFamilyResemblance"], "tropes_by_category": {}, "similar": [{"name": "Escargoon (Escargon)", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_escargoon_escargon", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Knock Out", "show": "Transformers Prime", "id": "transformers_prime_knock_out", "similarity": 0.0408, "shared_tropes": 4}]}

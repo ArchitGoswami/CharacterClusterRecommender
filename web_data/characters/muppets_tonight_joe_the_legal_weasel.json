@@ -1,17 +1,1 @@
-{
-  "name": "Joe the Legal Weasel",
-  "show": "Muppets Tonight",
-  "trope_count": 9,
-  "tropes": [
-    "ScrewedByTheLawyers",
-    "SignatureLaugh",
-    "LaughingAtYourOwnJokes",
-    "DoNotTryThisAtHome",
-    "EvilLawyerJoke",
-    "EarlyBirdCameo",
-    "CannotTellAJoke",
-    "RattlingOffLegal",
-    "InUniverse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joe the Legal Weasel", "show": "Muppets Tonight", "trope_count": 9, "tropes": ["ScrewedByTheLawyers", "SignatureLaugh", "LaughingAtYourOwnJokes", "DoNotTryThisAtHome", "EvilLawyerJoke", "EarlyBirdCameo", "CannotTellAJoke", "RattlingOffLegal", "InUniverse"], "tropes_by_category": {}, "similar": [{"name": "Joe the Legal Weasel", "show": "Muppets,The", "id": "muppetsthe_joe_the_legal_weasel", "similarity": 1.0, "shared_tropes": 9}]}

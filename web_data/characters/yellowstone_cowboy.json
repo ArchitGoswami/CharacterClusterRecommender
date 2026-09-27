@@ -1,12 +1,1 @@
-{
-  "name": "Cowboy",
-  "show": "Yellowstone",
-  "trope_count": 4,
-  "tropes": [
-    "CoolOldGuy",
-    "ScrewThisImOuttaHere",
-    "EveryoneCallsHimBarkeep",
-    "SpottingTheThread"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cowboy", "show": "Yellowstone", "trope_count": 4, "tropes": ["CoolOldGuy", "ScrewThisImOuttaHere", "EveryoneCallsHimBarkeep", "SpottingTheThread"], "tropes_by_category": {}, "similar": []}

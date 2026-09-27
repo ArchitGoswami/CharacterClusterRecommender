@@ -1,13 +1,1 @@
-{
-  "name": "D-Struct",
-  "show": "Static Shock",
-  "trope_count": 5,
-  "tropes": [
-    "AdaptationalSuperpowerChange",
-    "ForcedTransformation",
-    "EnergyBeings",
-    "AdaptationalEarlyAppearance",
-    "AdaptationNameChange"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "D-Struct", "show": "Static Shock", "trope_count": 5, "tropes": ["AdaptationalSuperpowerChange", "ForcedTransformation", "EnergyBeings", "AdaptationalEarlyAppearance", "AdaptationNameChange"], "tropes_by_category": {}, "similar": []}

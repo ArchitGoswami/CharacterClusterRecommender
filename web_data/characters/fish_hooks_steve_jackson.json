@@ -1,12 +1,1 @@
-{
-  "name": "Steve Jackson",
-  "show": "Fish Hooks",
-  "trope_count": 4,
-  "tropes": [
-    "BigManOnCampus",
-    "ChickMagnet",
-    "NiceGuy",
-    "TheAce"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Steve Jackson", "show": "Fish Hooks", "trope_count": 4, "tropes": ["BigManOnCampus", "ChickMagnet", "NiceGuy", "TheAce"], "tropes_by_category": {}, "similar": [{"name": "Drew", "show": "Everybody Hates Chris", "id": "everybody_hates_chris_drew", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Nick Mallory", "show": "Grojband", "id": "grojband_nick_mallory", "similarity": 0.129, "shared_tropes": 4}, {"name": "Lee Su-hyeok", "show": "All Of Us Are Dead", "id": "all_of_us_are_dead_lee_su_hyeok", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Nathaniel Royal \"Nathan\" Scott", "show": "One Tree Hill", "id": "one_tree_hill_nathaniel_royal_nathan_scott", "similarity": 0.0354, "shared_tropes": 4}]}

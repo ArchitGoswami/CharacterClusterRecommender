@@ -1,18 +1,1 @@
-{
-  "name": "Jerry Ortega",
-  "show": "Hawaii Five-0",
-  "trope_count": 10,
-  "tropes": [
-    "BasementDweller",
-    "TearJerker",
-    "DeadpanSnarker",
-    "SuspiciouslySpecificDenial",
-    "ProperlyParanoid",
-    "ConspiracyTheorist",
-    "PutOnABus",
-    "CrazyHomelessPeople",
-    "CassandraTruth",
-    "MacGyvering"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jerry Ortega", "show": "Hawaii Five-0", "trope_count": 10, "tropes": ["BasementDweller", "TearJerker", "DeadpanSnarker", "SuspiciouslySpecificDenial", "ProperlyParanoid", "ConspiracyTheorist", "PutOnABus", "CrazyHomelessPeople", "CassandraTruth", "MacGyvering"], "tropes_by_category": {}, "similar": [{"name": "Sgt. John Munch", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_sgt_john_munch", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Patricia Williamson", "show": "House", "id": "house_patricia_williamson", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Sticks", "show": "Sonic Boom", "id": "sonic_boom_sticks", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Agent Fox Mulder", "show": "X-Files, The", "id": "x_files_the_agent_fox_mulder", "similarity": 0.0435, "shared_tropes": 4}]}

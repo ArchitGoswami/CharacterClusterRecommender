@@ -1,11 +1,1 @@
-{
-  "name": "Trill.EXE",
-  "show": "Megaman NT Warrior",
-  "trope_count": 3,
-  "tropes": [
-    "ChekhovsGunman",
-    "BadassAdorable",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Trill.EXE", "show": "Megaman NT Warrior", "trope_count": 5, "tropes": ["AlternateSelf", "ChekhovsGunman", "FusionDance", "CheerfulChild", "BadassAdorable"], "tropes_by_category": {}, "similar": []}

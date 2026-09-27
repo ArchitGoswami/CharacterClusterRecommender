@@ -1,15 +1,1 @@
-{
-  "name": "The Negatives",
-  "show": "Nate is Late",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "StatingTheSimpleSolution",
-    "ApologizesALot",
-    "UnwantedAssistance",
-    "BigDamnHeroes",
-    "LiteralSplitPersonality",
-    "DeliberatelyMonochrome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Negatives", "show": "Nate is Late", "trope_count": 8, "tropes": ["StatingTheSimpleSolution", "ApologizesALot", "GoOutWithASmile", "DeliberatelyMonochrome", "DeadpanSnarker", "BigDamnHeroes", "UnwantedAssistance", "LiteralSplitPersonality"], "tropes_by_category": {}, "similar": []}

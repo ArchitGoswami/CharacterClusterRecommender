@@ -1,13 +1,1 @@
-{
-  "name": "Hiram Wolfe",
-  "show": "Rocko's Modern Life",
-  "trope_count": 5,
-  "tropes": [
-    "Gasshole",
-    "JerkWithAHeartOfGold",
-    "GrumpyOldMan",
-    "PosthumousCharacter",
-    "RacistGrandpa"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hiram Wolfe", "show": "Rocko's Modern Life", "trope_count": 6, "tropes": ["RacistGrandpa", "FantasticRacism", "Gasshole", "JerkWithAHeartOfGold", "PosthumousCharacter", "GrumpyOldMan"], "tropes_by_category": {}, "similar": []}

@@ -1,13 +1,1 @@
-{
-  "name": "Howard Deville",
-  "show": "All Grown Up",
-  "trope_count": 5,
-  "tropes": [
-    "YoungerThanHeLooks",
-    "ChubbyMamaSkinnyPapa",
-    "VomitDiscretionShot",
-    "DemotedToExtra",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Howard Deville", "show": "All Grown Up", "trope_count": 5, "tropes": ["YoungerThanHeLooks", "ChubbyMamaSkinnyPapa", "VomitDiscretionShot", "DemotedToExtra", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "HowardDeVille", "show": "All Grown Up", "id": "all_grown_up_howarddeville", "similarity": 1.0, "shared_tropes": 5}]}

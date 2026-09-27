@@ -1,11 +1,1 @@
-{
-  "name": "Trilobite",
-  "show": "Walking with Monsters",
-  "trope_count": 3,
-  "tropes": [
-    "MonsterMunch",
-    "BigCreepyCrawlies",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Trilobite", "show": "Walking with Monsters", "trope_count": 3, "tropes": ["MonsterMunch", "BigCreepyCrawlies", "NoNameGiven"], "tropes_by_category": {}, "similar": []}

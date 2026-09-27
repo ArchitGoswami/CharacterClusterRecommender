@@ -1,16 +1,1 @@
-{
-  "name": "Canary Yellow",
-  "show": "Rainbow Brite",
-  "trope_count": 8,
-  "tropes": [
-    "HorribleJudgeOfCharacter",
-    "CircusBrat",
-    "YellowIsCheerful",
-    "GenkiGirl",
-    "CheerfulChild",
-    "MeaningfulName",
-    "Cloudcuckoolander",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Canary Yellow", "show": "Rainbow Brite", "trope_count": 8, "tropes": ["HorribleJudgeOfCharacter", "CircusBrat", "YellowIsCheerful", "GenkiGirl", "CheerfulChild", "MeaningfulName", "Cloudcuckoolander", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Rebecca the Happy Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_rebecca_the_happy_engine", "similarity": 0.0893, "shared_tropes": 5}, {"name": "Charlotte", "show": "Making Fiends", "id": "making_fiends_charlotte", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Ella", "show": "Total Drama", "id": "total_drama_ella", "similarity": 0.058, "shared_tropes": 4}, {"name": "Olga", "show": "Hey Arnold!", "id": "hey_arnold_olga", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Shirakami Fubuki", "show": "Real Time with Bill Maher", "id": "real_time_with_bill_maher_shirakami_fubuki", "similarity": 0.044, "shared_tropes": 4}, {"name": "#-G", "show": "Bob's Burgers", "id": "bobs_burgers_g", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Phineas Flynn", "show": "Phineas and Ferb", "id": "phineas_and_ferb_phineas_flynn", "similarity": 0.037, "shared_tropes": 4}, {"name": "Dee Dee", "show": "Dexter's Laboratory", "id": "dexters_laboratory_dee_dee", "similarity": 0.0364, "shared_tropes": 4}]}

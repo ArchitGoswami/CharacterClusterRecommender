@@ -1,14 +1,1 @@
-{
-  "name": "Anthony and Durrell",
-  "show": "Six Feet Under",
-  "trope_count": 6,
-  "tropes": [
-    "SiblingYinYang",
-    "FosterKid",
-    "HappilyAdopted",
-    "TheCutie",
-    "ParentalAbandonment",
-    "TroublingUnchildlikeBehaviour"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Anthony and Durrell", "show": "Six Feet Under", "trope_count": 6, "tropes": ["SiblingYinYang", "FosterKid", "HappilyAdopted", "TheCutie", "ParentalAbandonment", "TroublingUnchildlikeBehaviour"], "tropes_by_category": {}, "similar": []}

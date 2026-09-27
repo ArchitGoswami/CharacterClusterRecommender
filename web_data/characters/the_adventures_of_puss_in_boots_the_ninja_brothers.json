@@ -1,9 +1,1 @@
-{
-  "name": "The Ninja Brothers",
-  "show": "The Adventures of Puss in Boots",
-  "trope_count": 1,
-  "tropes": [
-    "BigBrotherBully"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Ninja Brothers", "show": "The Adventures of Puss in Boots", "trope_count": 4, "tropes": ["SelfServingMemory", "FiveManBand", "CorruptedCharacterCopy", "BigBrotherBully"], "tropes_by_category": {}, "similar": []}

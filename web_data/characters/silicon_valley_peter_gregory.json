@@ -1,15 +1,1 @@
-{
-  "name": "Peter Gregory",
-  "show": "Silicon Valley",
-  "trope_count": 7,
-  "tropes": [
-    "CharacterDeath",
-    "ReasonableAuthorityFigure",
-    "TheWonka",
-    "EccentricMentor",
-    "TheCharacterDiedWithHim",
-    "Cloudcuckoolander",
-    "WeUsedToBeFriends"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Peter Gregory", "show": "Silicon Valley", "trope_count": 7, "tropes": ["CharacterDeath", "ReasonableAuthorityFigure", "TheWonka", "EccentricMentor", "TheCharacterDiedWithHim", "Cloudcuckoolander", "WeUsedToBeFriends"], "tropes_by_category": {}, "similar": [{"name": "Death / Shinigami", "show": "Soul Eater", "id": "soul_eater_death_shinigami", "similarity": 0.0519, "shared_tropes": 4}]}

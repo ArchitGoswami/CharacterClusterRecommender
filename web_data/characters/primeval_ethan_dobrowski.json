@@ -1,17 +1,1 @@
-{
-  "name": "Ethan Dobrowski",
-  "show": "Primeval",
-  "trope_count": 9,
-  "tropes": [
-    "Foreshadowing",
-    "TheReveal",
-    "BombThrowingAnarchist",
-    "TerroristWithoutACause",
-    "SerialKiller",
-    "TheMentallyDisturbed",
-    "MysteriousPast",
-    "MoralityPet",
-    "ContrastingSequelAntagonist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ethan Dobrowski", "show": "Primeval", "trope_count": 9, "tropes": ["Foreshadowing", "TheReveal", "BombThrowingAnarchist", "TerroristWithoutACause", "SerialKiller", "TheMentallyDisturbed", "MysteriousPast", "MoralityPet", "ContrastingSequelAntagonist"], "tropes_by_category": {}, "similar": [{"name": "Tessa", "show": "Murder Drones", "id": "murder_drones_tessa", "similarity": 0.0532, "shared_tropes": 5}, {"name": "Vincent Sobel / Vigilante", "show": "Arrow", "id": "arrow_vincent_sobel_vigilante", "similarity": 0.0404, "shared_tropes": 4}]}

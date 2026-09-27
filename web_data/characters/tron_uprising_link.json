@@ -1,13 +1,1 @@
-{
-  "name": "Link",
-  "show": "Tron: Uprising",
-  "trope_count": 5,
-  "tropes": [
-    "HeroStoleMyBike",
-    "MauveShirt",
-    "HeroicBystander",
-    "GeniusDitz",
-    "TheGuardsMustBeCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Link", "show": "Tron: Uprising", "trope_count": 5, "tropes": ["HeroStoleMyBike", "MauveShirt", "HeroicBystander", "GeniusDitz", "TheGuardsMustBeCrazy"], "tropes_by_category": {}, "similar": []}

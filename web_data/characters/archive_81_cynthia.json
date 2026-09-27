@@ -1,13 +1,1 @@
-{
-  "name": "Cynthia",
-  "show": "Archive 81",
-  "trope_count": 5,
-  "tropes": [
-    "TheNicknamer",
-    "Jerkass",
-    "LackOfEmpathy",
-    "EvenEvilHasStandards",
-    "SirSwearsALot"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cynthia", "show": "Archive 81", "trope_count": 5, "tropes": ["TheNicknamer", "Jerkass", "LackOfEmpathy", "EvenEvilHasStandards", "SirSwearsALot"], "tropes_by_category": {}, "similar": [{"name": "Hadley", "show": "The Shawshank Redemption", "id": "the_shawshank_redemption_hadley", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Calvin Fischoeder", "show": "Bob's Burgers", "id": "bobs_burgers_calvin_fischoeder", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Chaka", "show": "Black Lagoon", "id": "black_lagoon_chaka", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Nate Jacobs", "show": "Euphoria", "id": "euphoria_nate_jacobs", "similarity": 0.0374, "shared_tropes": 4}]}

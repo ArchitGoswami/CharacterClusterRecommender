@@ -1,16 +1,1 @@
-{
-  "name": "TJ Botsford",
-  "show": "WordGirl",
-  "trope_count": 8,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "PublicHaterPrivateFan",
-    "AnnoyingYoungerSibling",
-    "TheUnfavorite",
-    "UndyingLoyalty",
-    "LovesMyAlterEgo",
-    "VocalDissonance",
-    "Fanboy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "TJ Botsford", "show": "WordGirl", "trope_count": 8, "tropes": ["JerkWithAHeartOfGold", "PublicHaterPrivateFan", "AnnoyingYoungerSibling", "TheUnfavorite", "UndyingLoyalty", "LovesMyAlterEgo", "VocalDissonance", "Fanboy"], "tropes_by_category": {}, "similar": [{"name": "Nick Birch", "show": "Big Mouth", "id": "big_mouth_nick_birch", "similarity": 0.0702, "shared_tropes": 4}, {"name": "The Vamp Kids", "show": "South Park", "id": "south_park_the_vamp_kids", "similarity": 0.0571, "shared_tropes": 4}]}

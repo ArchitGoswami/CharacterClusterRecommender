@@ -1,16 +1,1 @@
-{
-  "name": "Ron Donald",
-  "show": "Party Down",
-  "trope_count": 8,
-  "tropes": [
-    "BerserkButton",
-    "SelfServingMemory",
-    "StupidBoss",
-    "TheDeterminator",
-    "TheStoner",
-    "GloryDays",
-    "ImportantHaircut",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ron Donald", "show": "Party Down", "trope_count": 8, "tropes": ["BerserkButton", "SelfServingMemory", "StupidBoss", "TheDeterminator", "TheStoner", "GloryDays", "ImportantHaircut", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Stu Pickles", "show": "Rugrats", "id": "rugrats_stu_pickles", "similarity": 0.08, "shared_tropes": 4}]}

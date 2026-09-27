@@ -1,13 +1,1 @@
-{
-  "name": "Bulldust",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 5,
-  "tropes": [
-    "HeroicSacrifice",
-    "TheLeader",
-    "LargeAndInCharge",
-    "BigDamnHeroes",
-    "PapaWolf"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bulldust", "show": "Walking with Dinosaurs", "trope_count": 5, "tropes": ["HeroicSacrifice", "TheLeader", "LargeAndInCharge", "BigDamnHeroes", "PapaWolf"], "tropes_by_category": {}, "similar": [{"name": "Makarov Dreyar", "show": "Fairy Tail", "id": "fairy_tail_makarov_dreyar", "similarity": 0.0396, "shared_tropes": 4}]}

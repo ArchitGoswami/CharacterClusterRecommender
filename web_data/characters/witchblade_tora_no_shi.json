@@ -1,12 +1,1 @@
-{
-  "name": "Tora No Shi",
-  "show": "Witchblade",
-  "trope_count": 4,
-  "tropes": [
-    "EmpoweredBadassNormal",
-    "RedBaron",
-    "CharacterDeath",
-    "BackFromTheDead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tora No Shi", "show": "Witchblade", "trope_count": 4, "tropes": ["EmpoweredBadassNormal", "RedBaron", "CharacterDeath", "BackFromTheDead"], "tropes_by_category": {}, "similar": [{"name": "Wally West / Kid Flash", "show": "Arrow", "id": "arrow_wally_west_kid_flash", "similarity": 0.0367, "shared_tropes": 4}]}

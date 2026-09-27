@@ -1,14 +1,1 @@
-{
-  "name": "Talos",
-  "show": "Mummies Alive",
-  "trope_count": 6,
-  "tropes": [
-    "HeelFaceTurn",
-    "GiantMook",
-    "ArtificialHuman",
-    "EvilCounterpart",
-    "BloodKnight",
-    "LivingStatue"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Talos", "show": "Mummies Alive", "trope_count": 6, "tropes": ["HeelFaceTurn", "GiantMook", "ArtificialHuman", "EvilCounterpart", "BloodKnight", "LivingStatue"], "tropes_by_category": {}, "similar": []}

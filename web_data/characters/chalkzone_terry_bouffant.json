@@ -1,16 +1,1 @@
-{
-  "name": "Terry Bouffant",
-  "show": "ChalkZone",
-  "trope_count": 8,
-  "tropes": [
-    "TheConspiracy",
-    "StalkerWithoutACrush",
-    "Determinator",
-    "VillainTeamUp",
-    "EvilRedhead",
-    "FromNobodyToNightmare",
-    "EvenEvilHasStandards",
-    "KnightOfCerebus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Terry Bouffant", "show": "ChalkZone", "trope_count": 8, "tropes": ["TheConspiracy", "StalkerWithoutACrush", "Determinator", "VillainTeamUp", "EvilRedhead", "FromNobodyToNightmare", "EvenEvilHasStandards", "KnightOfCerebus"], "tropes_by_category": {}, "similar": [{"name": "Scott Tenorman", "show": "South Park", "id": "south_park_scott_tenorman", "similarity": 0.058, "shared_tropes": 4}, {"name": "Floch Forster", "show": "Attack on Titan", "id": "attack_on_titan_floch_forster", "similarity": 0.0388, "shared_tropes": 4}]}

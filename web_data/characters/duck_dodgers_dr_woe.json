@@ -1,13 +1,1 @@
-{
-  "name": "Dr. Woe",
-  "show": "Duck Dodgers",
-  "trope_count": 5,
-  "tropes": [
-    "TakeOverTheWorld",
-    "ArchEnemy",
-    "MorallyAmbiguousDoctorate",
-    "EvilVersusEvil",
-    "EvilGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Woe", "show": "Duck Dodgers", "trope_count": 6, "tropes": ["TakeOverTheWorld", "VillainOfAnotherStory", "MorallyAmbiguousDoctorate", "EvilGenius", "ArchEnemy", "EvilVersusEvil"], "tropes_by_category": {}, "similar": []}

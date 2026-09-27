@@ -1,17 +1,1 @@
-{
-  "name": "Ben Warren",
-  "show": "Grey's Anatomy",
-  "trope_count": 9,
-  "tropes": [
-    "ActionDad",
-    "RareMaleExample",
-    "NewMeat",
-    "NiceGuy",
-    "Transplant",
-    "NaiveNewcomer",
-    "FamilyVersusCareer",
-    "CareerEndingInjury",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ben Warren", "show": "Grey's Anatomy", "trope_count": 10, "tropes": ["NaiveNewcomer", "DarkAndTroubledPast", "Transplant", "NewMeat", "RankUp", "RareMaleExample", "NiceGuy", "ActionDad", "FamilyVersusCareer", "CareerEndingInjury"], "tropes_by_category": {}, "similar": [{"name": "Sgt. Odafin \"Fin\" Tutuola", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_sgt_odafin_fin_tutuola", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.0357, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Alex Underwood",
-  "show": "Witchblade",
-  "trope_count": 8,
-  "tropes": [
-    "DirtyCop",
-    "EmpoweredBadassNormal",
-    "IJustWantToBeNormal",
-    "ShellShockedVeteran",
-    "IntrepidReporter",
-    "WhipSword",
-    "LegacyCharacter",
-    "CombatTentacles"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alex Underwood", "show": "Witchblade", "trope_count": 8, "tropes": ["DirtyCop", "EmpoweredBadassNormal", "IJustWantToBeNormal", "ShellShockedVeteran", "IntrepidReporter", "WhipSword", "LegacyCharacter", "CombatTentacles"], "tropes_by_category": {}, "similar": [{"name": "Sara Pezzini", "show": "Witchblade", "id": "witchblade_sara_pezzini", "similarity": 0.0645, "shared_tropes": 4}]}

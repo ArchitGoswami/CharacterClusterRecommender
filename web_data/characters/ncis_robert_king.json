@@ -1,17 +1,1 @@
-{
-  "name": "Robert King",
-  "show": "NCIS",
-  "trope_count": 9,
-  "tropes": [
-    "LaserGuidedKarma",
-    "ArchEnemy",
-    "BigBad",
-    "ManipulativeBastard",
-    "OhCrap",
-    "WellIntentionedExtremist",
-    "TemptingFate",
-    "ItsAllAboutMe",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Robert King", "show": "NCIS", "trope_count": 9, "tropes": ["LaserGuidedKarma", "ArchEnemy", "BigBad", "ManipulativeBastard", "OhCrap", "WellIntentionedExtremist", "TemptingFate", "ItsAllAboutMe", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Jacob Broadsky", "show": "Bones", "id": "bones_jacob_broadsky", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Jonas Hodges", "show": "24", "id": "24_jonas_hodges", "similarity": 0.1087, "shared_tropes": 5}, {"name": "Gowron", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_gowron", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Yelena", "show": "Attack on Titan", "id": "attack_on_titan_yelena", "similarity": 0.0862, "shared_tropes": 5}, {"name": "Arthur Petrelli", "show": "Heroes", "id": "heroes_arthur_petrelli", "similarity": 0.0847, "shared_tropes": 5}, {"name": "Major Man", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_major_man", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Veronica Cale", "show": "Wonder Woman", "id": "wonder_woman_veronica_cale", "similarity": 0.0714, "shared_tropes": 6}, {"name": "Kyosuke Higuchi/Yotsuba Kira", "show": "Death Note", "id": "death_note_kyosuke_higuchi_yotsuba_kira", "similarity": 0.0685, "shared_tropes": 5}]}

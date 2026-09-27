@@ -1,15 +1,1 @@
-{
-  "name": "Pvt. Paul Conway",
-  "show": "M*A*S*H",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "MisplacedKindergartenTeacher",
-    "TheKlutz",
-    "NiceGuy",
-    "SupremeChef",
-    "OOCIsSeriousBusiness",
-    "WhatYouAreInTheDark"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pvt. Paul Conway", "show": "M*A*S*H", "trope_count": 7, "tropes": ["DeadpanSnarker", "MisplacedKindergartenTeacher", "TheKlutz", "NiceGuy", "SupremeChef", "OOCIsSeriousBusiness", "WhatYouAreInTheDark"], "tropes_by_category": {}, "similar": [{"name": "Mike Kellerman", "show": "Homicide: Life on the Street", "id": "homicide_life_on_the_street_mike_kellerman", "similarity": 0.044, "shared_tropes": 4}]}

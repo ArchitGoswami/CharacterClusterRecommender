@@ -1,12 +1,1 @@
-{
-  "name": "Professor Toybos",
-  "show": "Nate is Late",
-  "trope_count": 4,
-  "tropes": [
-    "ShrinkRay",
-    "BunglingInventor",
-    "AIIsACrapshoot",
-    "GaveUpTooSoon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Professor Toybos", "show": "Nate is Late", "trope_count": 4, "tropes": ["ShrinkRay", "BunglingInventor", "AIIsACrapshoot", "GaveUpTooSoon"], "tropes_by_category": {}, "similar": []}

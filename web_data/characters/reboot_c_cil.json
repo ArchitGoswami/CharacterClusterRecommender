@@ -1,14 +1,1 @@
-{
-  "name": "Cécil",
-  "show": "ReBoot",
-  "trope_count": 6,
-  "tropes": [
-    "DeadpanSnarker",
-    "Catchphrase",
-    "JerkWithAHeartOfGold",
-    "CampStraight",
-    "NationalStereotypes",
-    "PluckyComicRelief"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cécil", "show": "ReBoot", "trope_count": 6, "tropes": ["DeadpanSnarker", "Catchphrase", "JerkWithAHeartOfGold", "CampStraight", "NationalStereotypes", "PluckyComicRelief"], "tropes_by_category": {}, "similar": [{"name": "Hermes", "show": "Hercules", "id": "hercules_hermes", "similarity": 0.1818, "shared_tropes": 4}, {"name": "Michel Gerard", "show": "Gilmore Girls", "id": "gilmore_girls_michel_gerard", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Louis Litt", "show": "Suits", "id": "suits_louis_litt", "similarity": 0.0725, "shared_tropes": 5}]}

@@ -1,18 +1,1 @@
-{
-  "name": "TunaMcGillis",
-  "show": "Stoked",
-  "trope_count": 10,
-  "tropes": [
-    "GagPenis",
-    "MrFanservice",
-    "NoShirtLongJacket",
-    "MeanBoss",
-    "ShirtlessScene",
-    "NonUniformUniform",
-    "WalkingSwimsuitScene",
-    "WardrobeMalfunction",
-    "WalkingShirtlessScene",
-    "Pixellation"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "TunaMcGillis", "show": "Stoked", "trope_count": 10, "tropes": ["GagPenis", "MrFanservice", "NoShirtLongJacket", "MeanBoss", "ShirtlessScene", "NonUniformUniform", "WalkingSwimsuitScene", "WardrobeMalfunction", "WalkingShirtlessScene", "Pixellation"], "tropes_by_category": {}, "similar": [{"name": "Thief King Bakura", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_thief_king_bakura", "similarity": 0.0635, "shared_tropes": 4}]}

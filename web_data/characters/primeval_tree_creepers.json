@@ -1,11 +1,1 @@
-{
-  "name": "Tree Creepers",
-  "show": "Primeval",
-  "trope_count": 3,
-  "tropes": [
-    "FantasticFaunaCounterpart",
-    "RaptorAttack",
-    "ArtisticLicensePaleontology"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tree Creepers", "show": "Primeval", "trope_count": 4, "tropes": ["FantasticFaunaCounterpart", "RaptorAttack", "AllMythsAreTrue", "ArtisticLicensePaleontology"], "tropes_by_category": {}, "similar": []}

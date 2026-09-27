@@ -1,12 +1,1 @@
-{
-  "name": "Albert \"Al\" Harris",
-  "show": "Roseanne",
-  "trope_count": 4,
-  "tropes": [
-    "BusCrash",
-    "CerebusRetcon",
-    "TheGhost",
-    "AbusiveParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Albert \"Al\" Harris", "show": "Roseanne", "trope_count": 4, "tropes": ["BusCrash", "CerebusRetcon", "TheGhost", "AbusiveParents"], "tropes_by_category": {}, "similar": [{"name": "Albert \"Al\" Harris", "show": "Conners, The", "id": "conners_the_albert_al_harris", "similarity": 1.0, "shared_tropes": 4}]}

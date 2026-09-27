@@ -1,14 +1,1 @@
-{
-  "name": "Ike Prentiss",
-  "show": "Nurse Jackie",
-  "trope_count": 6,
-  "tropes": [
-    "PetTheDog",
-    "PutOnABus",
-    "DrJerk",
-    "Tsundere",
-    "DarkAndTroubledPast",
-    "TallDarkAndHandsome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ike Prentiss", "show": "Nurse Jackie", "trope_count": 6, "tropes": ["PetTheDog", "PutOnABus", "DrJerk", "Tsundere", "DarkAndTroubledPast", "TallDarkAndHandsome"], "tropes_by_category": {}, "similar": [{"name": "Fakir", "show": "Princess Tutu", "id": "princess_tutu_fakir", "similarity": 0.0385, "shared_tropes": 4}]}

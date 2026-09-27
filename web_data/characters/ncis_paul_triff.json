@@ -1,15 +1,1 @@
-{
-  "name": "Paul Triff",
-  "show": "NCIS",
-  "trope_count": 7,
-  "tropes": [
-    "AffablyEvil",
-    "CaptainObvious",
-    "FurAndLoathing",
-    "CreepyMonotone",
-    "BreadEggsMilkSquick",
-    "BloodIsTheNewBlack",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paul Triff", "show": "NCIS", "trope_count": 7, "tropes": ["AffablyEvil", "CaptainObvious", "FurAndLoathing", "CreepyMonotone", "BreadEggsMilkSquick", "BloodIsTheNewBlack", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": []}

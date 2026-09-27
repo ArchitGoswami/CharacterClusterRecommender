@@ -1,17 +1,1 @@
-{
-  "name": "Jess Bradley",
-  "show": "The Boys",
-  "trope_count": 9,
-  "tropes": [
-    "UnwittingPawn",
-    "ExplainExplainOhCrap",
-    "VillainousBreakdown",
-    "HiddenDepths",
-    "PromotedToScapegoat",
-    "EvenEvilHasStandards",
-    "OnlySaneMan",
-    "SexySecretary",
-    "OfficeRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jess Bradley", "show": "The Boys", "trope_count": 10, "tropes": ["HiddenDepths", "UnwittingPawn", "SexySecretary", "VillainousBreakdown", "ExplainExplainOhCrap", "PromotedToScapegoat", "OnlySaneMan", "AllegoricalCharacter", "EvenEvilHasStandards", "OfficeRomance"], "tropes_by_category": {}, "similar": [{"name": "Jess Bradley", "show": "Boys, The", "id": "boys_the_jess_bradley", "similarity": 1.0, "shared_tropes": 10}, {"name": "Skyler", "show": "Breaking Bad", "id": "breaking_bad_skyler", "similarity": 0.0455, "shared_tropes": 5}, {"name": "The Homelander", "show": "Boys, The", "id": "boys_the_the_homelander", "similarity": 0.0404, "shared_tropes": 4}, {"name": "The Homelander", "show": "The Boys", "id": "the_boys_the_homelander", "similarity": 0.0404, "shared_tropes": 4}]}

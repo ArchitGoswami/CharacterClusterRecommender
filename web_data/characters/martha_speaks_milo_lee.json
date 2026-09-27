@@ -1,15 +1,1 @@
-{
-  "name": "Milo Lee",
-  "show": "Martha Speaks",
-  "trope_count": 7,
-  "tropes": [
-    "PottyEmergency",
-    "LovableCoward",
-    "MissingMom",
-    "Keet",
-    "WhyDidItHaveToBeSnakes",
-    "AsianAndNerdy",
-    "NotSoImaginaryFriend"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Milo Lee", "show": "Martha Speaks", "trope_count": 7, "tropes": ["PottyEmergency", "LovableCoward", "MissingMom", "Keet", "WhyDidItHaveToBeSnakes", "AsianAndNerdy", "NotSoImaginaryFriend"], "tropes_by_category": {}, "similar": [{"name": "Panda", "show": "We Bare Bears", "id": "we_bare_bears_panda", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Chuckie Finster", "show": "Rugrats", "id": "rugrats_chuckie_finster", "similarity": 0.0421, "shared_tropes": 4}]}

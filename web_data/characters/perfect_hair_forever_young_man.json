@@ -1,16 +1,1 @@
-{
-  "name": "Young Man",
-  "show": "Perfect Hair Forever",
-  "trope_count": 8,
-  "tropes": [
-    "CatchPhrase",
-    "WouldHitAGirl",
-    "KilledOffForReal",
-    "Jerkass",
-    "EveryoneCallsHimBarkeep",
-    "KilledMidSentence",
-    "KinkySpanking",
-    "FriendToAllLivingThings"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Young Man", "show": "Perfect Hair Forever", "trope_count": 8, "tropes": ["CatchPhrase", "WouldHitAGirl", "KilledOffForReal", "Jerkass", "EveryoneCallsHimBarkeep", "KilledMidSentence", "KinkySpanking", "FriendToAllLivingThings"], "tropes_by_category": {}, "similar": [{"name": "Hou-Ting", "show": "Legend of Korra, The", "id": "legend_of_korra_the_hou_ting", "similarity": 0.0377, "shared_tropes": 4}]}

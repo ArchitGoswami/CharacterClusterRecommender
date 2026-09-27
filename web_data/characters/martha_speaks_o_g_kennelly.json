@@ -1,15 +1,1 @@
-{
-  "name": "O.G. Kennelly",
-  "show": "Martha Speaks",
-  "trope_count": 7,
-  "tropes": [
-    "LikeFatherLikeSon",
-    "CloudCuckooLander",
-    "NiceGuy",
-    "MrFixit",
-    "HairOfGoldHeartOfGold",
-    "GeniusDitz",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "O.G. Kennelly", "show": "Martha Speaks", "trope_count": 7, "tropes": ["LikeFatherLikeSon", "CloudCuckooLander", "NiceGuy", "MrFixit", "HairOfGoldHeartOfGold", "GeniusDitz", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Otto", "show": "Super Robot Monkey Team Hyperforce Go!", "id": "super_robot_monkey_team_hyperforce_go_otto", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Rom", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_rom", "similarity": 0.0741, "shared_tropes": 4}, {"name": "\"Woody\" Boyd", "show": "Cheers", "id": "cheers_woody_boyd", "similarity": 0.0727, "shared_tropes": 4}, {"name": "\"Old Man\"McGucket", "show": "Gravity Falls", "id": "gravity_falls_old_man_mcgucket", "similarity": 0.04, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Dr. Cathy Martin",
-  "show": "St. Elsewhere",
-  "trope_count": 10,
-  "tropes": [
-    "BrokenBird",
-    "AdaptationalSelfDefense",
-    "CreepyMortician",
-    "TraumaCongaLine",
-    "BunnyEarsLawyer",
-    "PutOnABus",
-    "ForgivenButNotForgotten",
-    "RescueRomance",
-    "CloudCuckoolander",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Cathy Martin", "show": "St. Elsewhere", "trope_count": 10, "tropes": ["BrokenBird", "AdaptationalSelfDefense", "CreepyMortician", "TraumaCongaLine", "BunnyEarsLawyer", "PutOnABus", "ForgivenButNotForgotten", "RescueRomance", "CloudCuckoolander", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Gia Goodman", "show": "Veronica Mars", "id": "veronica_mars_gia_goodman", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Carrie", "show": "Homeland", "id": "homeland_carrie", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Peyton Elizabeth Sawyer", "show": "One Tree Hill", "id": "one_tree_hill_peyton_elizabeth_sawyer", "similarity": 0.04, "shared_tropes": 4}]}

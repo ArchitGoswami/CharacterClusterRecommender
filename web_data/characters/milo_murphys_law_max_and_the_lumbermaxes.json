@@ -1,16 +1,1 @@
-{
-  "name": "Max and the Lumbermaxes",
-  "show": "Milo Murphy's Law",
-  "trope_count": 8,
-  "tropes": [
-    "LazyArtist",
-    "StealingTheCredit",
-    "Pun",
-    "ComicallyMissingThePoint",
-    "IdenticallyNamedGroup",
-    "TheBandMinusTheFace",
-    "ItsAllAboutMe",
-    "InUniverse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Max and the Lumbermaxes", "show": "Milo Murphy's Law", "trope_count": 9, "tropes": ["StealingTheCredit", "IdenticallyNamedGroup", "ComicallyMissingThePoint", "InUniverse", "BoyBand", "ItsAllAboutMe", "LazyArtist", "TheBandMinusTheFace", "Pun"], "tropes_by_category": {}, "similar": []}

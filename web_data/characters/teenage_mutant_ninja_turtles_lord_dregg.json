@@ -1,17 +1,1 @@
-{
-  "name": "Lord Dregg",
-  "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 9,
-  "tropes": [
-    "EngineeredPublicConfession",
-    "AdaptationalSpeciesChange",
-    "MonsterOfTheWeek",
-    "BigBad",
-    "CompositeCharacter",
-    "HeroesWithBadPublicity",
-    "KnightOfCerebus",
-    "VillainWithGoodPublicity",
-    "TheDon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lord Dregg", "show": "Teenage Mutant Ninja Turtles", "trope_count": 24, "tropes": ["KilledOffForReal", "FateWorseThanDeath", "EvilSoundsDeep", "KnightOfCerebus", "RevengeBeforeReason", "MonsterOfTheWeek", "BlackAndBlueAndScaryAllOver", "FinalBattle", "EngineeredPublicConfession", "YouHaveFailedMe", "VoluntaryShapeshifting", "BadBoss", "RedEyesTakeWarning", "HurlItIntoTheSun", "ObviouslyEvil", "ToylessToylineCharacter", "VillainousBreakdown", "BigBad", "FinalBoss", "MotiveDecay", "MyBrainIsBig", "FangsAreEvil", "VillainWithGoodPublicity", "ManipulativeBastard"], "tropes_by_category": {}, "similar": [{"name": "Snappity-Snap Fish", "show": "Wow! Wow! Wubbzy!", "id": "wow_wow_wubbzy_snappity_snap_fish", "similarity": 0.129, "shared_tropes": 4}, {"name": "Satan — in General", "show": "Touched by an Angel", "id": "touched_by_an_angel_satan_in_general", "similarity": 0.1282, "shared_tropes": 5}, {"name": "Lord Darkar/The Shadow Phoenix", "show": "Winx Club", "id": "winx_club_lord_darkar_the_shadow_phoenix", "similarity": 0.125, "shared_tropes": 6}, {"name": "Drex Stinklebaum", "show": "Henry Danger", "id": "henry_danger_drex_stinklebaum", "similarity": 0.125, "shared_tropes": 4}, {"name": "Werthrent", "show": "Final Space", "id": "final_space_werthrent", "similarity": 0.122, "shared_tropes": 5}, {"name": "The Dark Dragon", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_the_dark_dragon", "similarity": 0.1176, "shared_tropes": 8}, {"name": "Andre Drazen", "show": "24", "id": "24_andre_drazen", "similarity": 0.1163, "shared_tropes": 5}, {"name": "Skip Mason", "show": "Elsbeth", "id": "elsbeth_skip_mason", "similarity": 0.1111, "shared_tropes": 4}]}

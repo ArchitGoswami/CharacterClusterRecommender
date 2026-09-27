@@ -1,15 +1,1 @@
-{
-  "name": "Conroy Blanc",
-  "show": "Rocket Power",
-  "trope_count": 7,
-  "tropes": [
-    "CoolTeacher",
-    "BerserkButton",
-    "ReasonableAuthorityFigure",
-    "OOCIsSeriousBusiness",
-    "HiddenDepths",
-    "IntergenerationalFriendship",
-    "FirstNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Conroy Blanc", "show": "Rocket Power", "trope_count": 7, "tropes": ["CoolTeacher", "BerserkButton", "ReasonableAuthorityFigure", "OOCIsSeriousBusiness", "HiddenDepths", "IntergenerationalFriendship", "FirstNameBasis"], "tropes_by_category": {}, "similar": [{"name": "Jeff Rosso", "show": "Freaks and Geeks", "id": "freaks_and_geeks_jeff_rosso", "similarity": 0.1667, "shared_tropes": 4}, {"name": "The Kembleford Police", "show": "Father Brown", "id": "father_brown_the_kembleford_police", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Officer Keys", "show": "Big City Greens", "id": "big_city_greens_officer_keys", "similarity": 0.0962, "shared_tropes": 5}, {"name": "LaunchpadMcQuack", "show": "DuckTales", "id": "ducktales_launchpadmcquack", "similarity": 0.0781, "shared_tropes": 5}, {"name": "David Van Driessen", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_david_van_driessen", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Al Calavicci", "show": "Quantum Leap", "id": "quantum_leap_al_calavicci", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Ted Lasso", "show": "Ted Lasso", "id": "ted_lasso_ted_lasso", "similarity": 0.0521, "shared_tropes": 5}, {"name": "Peggy Hill", "show": "King of the Hill", "id": "king_of_the_hill_peggy_hill", "similarity": 0.0421, "shared_tropes": 4}]}

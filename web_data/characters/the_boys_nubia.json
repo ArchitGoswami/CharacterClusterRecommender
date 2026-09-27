@@ -1,16 +1,1 @@
-{
-  "name": "Nubia",
-  "show": "The Boys",
-  "trope_count": 8,
-  "tropes": [
-    "CameBackWrong",
-    "EmptyShell",
-    "AndIMustScream",
-    "BlackGirlDiesFirst",
-    "MercyKill",
-    "TokenMinority",
-    "DeathSeeker",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nubia", "show": "The Boys", "trope_count": 8, "tropes": ["CameBackWrong", "EmptyShell", "AndIMustScream", "BlackGirlDiesFirst", "MercyKill", "TokenMinority", "DeathSeeker", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Nubia", "show": "Boys, The", "id": "boys_the_nubia", "similarity": 1.0, "shared_tropes": 8}]}

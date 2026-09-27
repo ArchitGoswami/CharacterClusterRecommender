@@ -1,15 +1,1 @@
-{
-  "name": "Yuuji Mita/Oh Blue",
-  "show": "Chouriki Sentai Ohranger",
-  "trope_count": 7,
-  "tropes": [
-    "RoaringRampageOfRevenge",
-    "TheLancer",
-    "DistressedDude",
-    "FriendToAllChildren",
-    "KidAppealCharacter",
-    "MeaningfulName",
-    "SignatureMove"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Yuuji Mita/Oh Blue", "show": "Chouriki Sentai Ohranger", "trope_count": 7, "tropes": ["RoaringRampageOfRevenge", "TheLancer", "DistressedDude", "FriendToAllChildren", "KidAppealCharacter", "MeaningfulName", "SignatureMove"], "tropes_by_category": {}, "similar": [{"name": "Saizō/Ninja Blue", "show": "Ninja Sentai Kakuranger", "id": "ninja_sentai_kakuranger_saiz_ninja_blue", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Omi", "show": "Xiaolin Showdown", "id": "xiaolin_showdown_omi", "similarity": 0.0417, "shared_tropes": 4}]}

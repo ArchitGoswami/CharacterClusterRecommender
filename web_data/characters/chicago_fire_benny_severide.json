@@ -1,16 +1,1 @@
-{
-  "name": "Benny Severide",
-  "show": "Chicago Fire",
-  "trope_count": 8,
-  "tropes": [
-    "RoaringRampageOfRevenge",
-    "TheCasanova",
-    "JerkWithAHeartOfGold",
-    "CharacterDeath",
-    "DisappearedDad",
-    "JerkAss",
-    "JerkAssHasAPoint",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Benny Severide", "show": "Chicago Fire", "trope_count": 8, "tropes": ["RoaringRampageOfRevenge", "TheCasanova", "JerkWithAHeartOfGold", "CharacterDeath", "DisappearedDad", "JerkAss", "JerkAssHasAPoint", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Christian", "show": "Lost", "id": "lost_christian", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Tony Almeida", "show": "24", "id": "24_tony_almeida", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Santino \"Sonny\" Corleone", "show": "The Godfather", "id": "the_godfather_santino_sonny_corleone", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Bellamy", "show": "100,The", "id": "100the_bellamy", "similarity": 0.0455, "shared_tropes": 4}]}

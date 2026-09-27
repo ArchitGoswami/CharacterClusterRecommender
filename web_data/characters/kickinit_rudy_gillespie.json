@@ -1,14 +1,1 @@
-{
-  "name": "Rudy Gillespie",
-  "show": "Kickin'it",
-  "trope_count": 6,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "BewareTheSillyOnes",
-    "CrouchingMoronHiddenBadass",
-    "TheNapoleon",
-    "SensitiveGuyAndManlyMan",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rudy Gillespie", "show": "Kickin'it", "trope_count": 6, "tropes": ["JerkWithAHeartOfGold", "BewareTheSillyOnes", "CrouchingMoronHiddenBadass", "TheNapoleon", "SensitiveGuyAndManlyMan", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Mr. Marion Moseby", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_mr_marion_moseby", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Sheen Estevez", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_sheen_estevez", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Carlton Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_carlton_banks", "similarity": 0.043, "shared_tropes": 4}, {"name": "Dave", "show": "Total Drama", "id": "total_drama_dave", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Jay", "show": "Ninjago", "id": "ninjago_jay", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Goofy Goof", "show": "Goof Troop", "id": "goof_troop_goofy_goof", "similarity": 0.0364, "shared_tropes": 4}, {"name": "Gary Goodspeed", "show": "Final Space", "id": "final_space_gary_goodspeed", "similarity": 0.036, "shared_tropes": 4}]}

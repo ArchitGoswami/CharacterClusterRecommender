@@ -1,17 +1,1 @@
-{
-  "name": "Natalie Vasquez",
-  "show": "Quantico",
-  "trope_count": 9,
-  "tropes": [
-    "ADeathInTheLimelight",
-    "ActionGirl",
-    "KilledOffForReal",
-    "TheRival",
-    "DefrostingIceQueen",
-    "PutOnABus",
-    "Determinator",
-    "VasquezAlwaysDies",
-    "SecondEpisodeIntroduction"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Natalie Vasquez", "show": "Quantico", "trope_count": 9, "tropes": ["ADeathInTheLimelight", "ActionGirl", "KilledOffForReal", "TheRival", "DefrostingIceQueen", "PutOnABus", "Determinator", "VasquezAlwaysDies", "SecondEpisodeIntroduction"], "tropes_by_category": {}, "similar": [{"name": "Saxa", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_saxa", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Kanade Tachibana / Angel", "show": "Angel Beats!", "id": "angel_beats_kanade_tachibana_angel", "similarity": 0.0388, "shared_tropes": 4}]}

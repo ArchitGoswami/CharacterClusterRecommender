@@ -1,17 +1,1 @@
-{
-  "name": "Lt. Mickey Baker",
-  "show": "M*A*S*H",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "ADayInTheLimelight",
-    "SuddenNameChange",
-    "TomboyishName",
-    "FriendToAllChildren",
-    "AlphabeticalThemeNaming",
-    "MilitaryAlphabet",
-    "CharacterizationMarchesOn",
-    "DependingOnTheWriter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lt. Mickey Baker", "show": "M*A*S*H", "trope_count": 9, "tropes": ["DeadpanSnarker", "ADayInTheLimelight", "SuddenNameChange", "TomboyishName", "FriendToAllChildren", "AlphabeticalThemeNaming", "MilitaryAlphabet", "CharacterizationMarchesOn", "DependingOnTheWriter"], "tropes_by_category": {}, "similar": [{"name": "Geoffrey Butler", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_geoffrey_butler", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Jesse Katsopolis", "show": "Full House", "id": "full_house_jesse_katsopolis", "similarity": 0.08, "shared_tropes": 4}, {"name": "Lenny Leonard/Lenford and Carl Carlson", "show": "Simpsons,The", "id": "simpsonsthe_lenny_leonard_lenford_and_carl_carlson", "similarity": 0.0649, "shared_tropes": 5}, {"name": "Lenny Leonard/Lenford and Carl Carlson", "show": "The Simpsons", "id": "the_simpsons_lenny_leonard_lenford_and_carl_carlson", "similarity": 0.0649, "shared_tropes": 5}, {"name": "Kid Flash III/Burst", "show": "Flash, The", "id": "flash_the_kid_flash_iii_burst", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Kid Flash III/Burst", "show": "The Flash", "id": "the_flash_kid_flash_iii_burst", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Jimbo Jones, Dolph Starbeam/Shapiro, and Kearney Zzyzwicz Sr.", "show": "Simpsons,The", "id": "simpsonsthe_jimbo_jones_dolph_starbeam_shapiro_and_kearney_zzy", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Jimbo Jones, Dolph Starbeam/Shapiro, and Kearney Zzyzwicz Sr.", "show": "The Simpsons", "id": "the_simpsons_jimbo_jones_dolph_starbeam_shapiro_and_kearney_zzy", "similarity": 0.0526, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Price",
-  "show": "Sharpe",
-  "trope_count": 8,
-  "tropes": [
-    "DeathByAdaptation",
-    "CompositeCharacter",
-    "TheAlcoholic",
-    "HiddenDepths",
-    "OneSteveLimit",
-    "DemotedToExtra",
-    "TheCharmer",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Price", "show": "Sharpe", "trope_count": 12, "tropes": ["HiddenDepths", "CrouchingMoronHiddenBadass", "CompositeCharacter", "ReallyGetsAround", "DemotedToExtra", "OneSteveLimit", "Mascot", "RankUp", "TheCharmer", "DeathByAdaptation", "TrueCompanions", "TheAlcoholic"], "tropes_by_category": {}, "similar": [{"name": "Bonnie Plunkett", "show": "Mom", "id": "mom_bonnie_plunkett", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Barney Gumble", "show": "Simpsons,The", "id": "simpsonsthe_barney_gumble", "similarity": 0.0769, "shared_tropes": 5}, {"name": "Barney Gumble", "show": "The Simpsons", "id": "the_simpsons_barney_gumble", "similarity": 0.0769, "shared_tropes": 5}, {"name": "Roger Sterling", "show": "Mad Men", "id": "mad_men_roger_sterling", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Garry \"Jerry\" Gergich", "show": "Parks and Recreation", "id": "parks_and_recreation_garry_jerry_gergich", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Shawn Hunter", "show": "Boy Meets World", "id": "boy_meets_world_shawn_hunter", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Pam Poovey", "show": "Archer", "id": "archer_pam_poovey", "similarity": 0.0485, "shared_tropes": 5}, {"name": "Jules Vaughn", "show": "Euphoria", "id": "euphoria_jules_vaughn", "similarity": 0.0396, "shared_tropes": 4}]}

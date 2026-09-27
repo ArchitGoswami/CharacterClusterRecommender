@@ -1,16 +1,1 @@
-{
-  "name": "Governor Royce",
-  "show": "Designated Survivor",
-  "trope_count": 8,
-  "tropes": [
-    "StarterVillain",
-    "SmugSnake",
-    "LaserGuidedKarma",
-    "Profiling",
-    "NoPartyGiven",
-    "Hypocrite",
-    "InsistentTerminology",
-    "PoliticallyIncorrectVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Governor Royce", "show": "Designated Survivor", "trope_count": 8, "tropes": ["StarterVillain", "SmugSnake", "LaserGuidedKarma", "Profiling", "NoPartyGiven", "Hypocrite", "InsistentTerminology", "PoliticallyIncorrectVillain"], "tropes_by_category": {}, "similar": [{"name": "Katie Killjoy", "show": "Hazbin Hotel", "id": "hazbin_hotel_katie_killjoy", "similarity": 0.0465, "shared_tropes": 4}]}

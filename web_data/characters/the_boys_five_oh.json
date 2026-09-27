@@ -1,14 +1,1 @@
-{
-  "name": "Five-Oh",
-  "show": "The Boys",
-  "trope_count": 6,
-  "tropes": [
-    "MrExposition",
-    "UncleTomFoolery",
-    "UndyingLoyalty",
-    "JerkAss",
-    "PoliticallyIncorrectVillain",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Five-Oh", "show": "The Boys", "trope_count": 6, "tropes": ["MrExposition", "UncleTomFoolery", "UndyingLoyalty", "JerkAss", "PoliticallyIncorrectVillain", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Five-Oh", "show": "Boys, The", "id": "boys_the_five_oh", "similarity": 1.0, "shared_tropes": 6}]}

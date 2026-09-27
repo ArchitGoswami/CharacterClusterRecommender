@@ -1,16 +1,1 @@
-{
-  "name": "Bean",
-  "show": "All Grown Up",
-  "trope_count": 8,
-  "tropes": [
-    "JumpScare",
-    "DeathGlare",
-    "DeadAllAlong",
-    "TookALevelInJerkass",
-    "TheStoic",
-    "RedEyesTakeWarning",
-    "ReallySevenHundredYearsOld",
-    "WalkingSpoiler"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bean", "show": "All Grown Up", "trope_count": 8, "tropes": ["JumpScare", "DeathGlare", "DeadAllAlong", "TookALevelInJerkass", "TheStoic", "RedEyesTakeWarning", "ReallySevenHundredYearsOld", "WalkingSpoiler"], "tropes_by_category": {}, "similar": [{"name": "Shawn", "show": "Good Place, The", "id": "good_place_the_shawn", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Shawn", "show": "The Good Place", "id": "the_good_place_shawn", "similarity": 0.0488, "shared_tropes": 4}]}

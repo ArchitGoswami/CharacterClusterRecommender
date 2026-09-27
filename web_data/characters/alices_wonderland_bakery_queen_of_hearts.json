@@ -1,15 +1,1 @@
-{
-  "name": "Queen of Hearts",
-  "show": "Alice's Wonderland Bakery",
-  "trope_count": 7,
-  "tropes": [
-    "AdaptationalAttractiveness",
-    "DramaQueen",
-    "AdaptationalNiceGuy",
-    "Gonk",
-    "AdaptationalNationality",
-    "FatBastard",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Queen of Hearts", "show": "Alice's Wonderland Bakery", "trope_count": 7, "tropes": ["AdaptationalAttractiveness", "DramaQueen", "AdaptationalNiceGuy", "Gonk", "AdaptationalNationality", "FatBastard", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Dr. Ivo \"Eggman\" Robotnik", "show": "Sonic X", "id": "sonic_x_dr_ivo_eggman_robotnik", "similarity": 0.0471, "shared_tropes": 4}]}

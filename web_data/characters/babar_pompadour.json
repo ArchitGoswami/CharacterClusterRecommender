@@ -1,16 +1,1 @@
-{
-  "name": "Pompadour",
-  "show": "Babar",
-  "trope_count": 8,
-  "tropes": [
-    "HighClassGlass",
-    "AnimalGenderBender",
-    "CanonForeigner",
-    "NervousWreck",
-    "HeterosexualLifePartners",
-    "ObstructiveBureaucrat",
-    "AmbiguouslyGay",
-    "MeaningfulName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pompadour", "show": "Babar", "trope_count": 8, "tropes": ["HighClassGlass", "AnimalGenderBender", "CanonForeigner", "NervousWreck", "HeterosexualLifePartners", "ObstructiveBureaucrat", "AmbiguouslyGay", "MeaningfulName"], "tropes_by_category": {}, "similar": []}

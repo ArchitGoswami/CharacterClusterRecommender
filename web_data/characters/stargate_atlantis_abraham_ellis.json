@@ -1,12 +1,1 @@
-{
-  "name": "Abraham Ellis",
-  "show": "Stargate Atlantis",
-  "trope_count": 4,
-  "tropes": [
-    "ColonelBadass",
-    "JerkAss",
-    "ReplacementFlatCharacter",
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Abraham Ellis", "show": "Stargate Atlantis", "trope_count": 5, "tropes": ["ReplacementFlatCharacter", "HeroOfAnotherStory", "SuspiciouslySimilarSubstitute", "ColonelBadass", "JerkAss"], "tropes_by_category": {}, "similar": []}

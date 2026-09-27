@@ -1,16 +1,1 @@
-{
-  "name": "Johnny Johnson",
-  "show": "NewsRadio",
-  "trope_count": 8,
-  "tropes": [
-    "AffablyEvil",
-    "NobleDemon",
-    "EvilSoundsDeep",
-    "PokeThePoodle",
-    "RepetitiveName",
-    "LoopholeAbuse",
-    "TheAlcoholic",
-    "CardCarryingVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Johnny Johnson", "show": "NewsRadio", "trope_count": 8, "tropes": ["AffablyEvil", "NobleDemon", "EvilSoundsDeep", "PokeThePoodle", "RepetitiveName", "LoopholeAbuse", "TheAlcoholic", "CardCarryingVillain"], "tropes_by_category": {}, "similar": [{"name": "Monstroso", "show": "Venture Bros., The", "id": "venture_bros_the_monstroso", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Thailog", "show": "Gargoyles", "id": "gargoyles_thailog", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Demon King Dabra / Dabura", "show": "Dragon Ball Z", "id": "dragon_ball_z_demon_king_dabra_dabura", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Red", "show": "Blacklist", "id": "blacklist_red", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Luci", "show": "Disenchantment", "id": "disenchantment_luci", "similarity": 0.0392, "shared_tropes": 4}]}

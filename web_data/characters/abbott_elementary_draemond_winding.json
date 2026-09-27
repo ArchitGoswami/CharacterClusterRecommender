@@ -1,15 +1,1 @@
-{
-  "name": "Draemond Winding",
-  "show": "Abbott Elementary",
-  "trope_count": 7,
-  "tropes": [
-    "AffablyEvil",
-    "NiceJobFixingItVillain",
-    "ArcVillain",
-    "JerkassHasAPoint",
-    "SmugSnake",
-    "MisplacedRetribution",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Draemond Winding", "show": "Abbott Elementary", "trope_count": 7, "tropes": ["AffablyEvil", "NiceJobFixingItVillain", "ArcVillain", "JerkassHasAPoint", "SmugSnake", "MisplacedRetribution", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Araminta", "show": "Bridgerton", "id": "bridgerton_araminta", "similarity": 0.087, "shared_tropes": 4}, {"name": "The Original Loki", "show": "Loki", "id": "loki_the_original_loki", "similarity": 0.0381, "shared_tropes": 4}]}

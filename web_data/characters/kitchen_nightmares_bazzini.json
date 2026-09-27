@@ -1,15 +1,1 @@
-{
-  "name": "Bazzini",
-  "show": "Kitchen Nightmares",
-  "trope_count": 7,
-  "tropes": [
-    "TheSilentBob",
-    "PointyHairedBoss",
-    "HypercompetentSidekick",
-    "ScrewThisImOuttaHere",
-    "BrilliantButLazy",
-    "ComplexityAddiction",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bazzini", "show": "Kitchen Nightmares", "trope_count": 8, "tropes": ["BrilliantButLazy", "PointyHairedBoss", "TheReasonYouSuckSpeech", "HypercompetentSidekick", "ComplexityAddiction", "TheWoobie", "TheSilentBob", "ScrewThisImOuttaHere"], "tropes_by_category": {}, "similar": [{"name": "Bazzini", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_bazzini", "similarity": 1.0, "shared_tropes": 8}, {"name": "Piccolo Teatro", "show": "Kitchen Nightmares", "id": "kitchen_nightmares_piccolo_teatro", "similarity": 0.16, "shared_tropes": 4}, {"name": "Piccolo Teatro", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_piccolo_teatro", "similarity": 0.16, "shared_tropes": 4}]}

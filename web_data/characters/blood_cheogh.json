@@ -1,15 +1,1 @@
-{
-  "name": "Cheogh",
-  "show": "Blood+",
-  "trope_count": 7,
-  "tropes": [
-    "TheResenter",
-    "AchillesHeel",
-    "FirstPersonDyingPerspective",
-    "WeaksauceWeakness",
-    "WakeUpCallBoss",
-    "LightningBruiser",
-    "BossInMookClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cheogh", "show": "Blood+", "trope_count": 10, "tropes": ["GreenEyedMonster", "TheResenter", "BossInMookClothing", "AllThereInTheScript", "MonsterLord", "FirstPersonDyingPerspective", "LightningBruiser", "WakeUpCallBoss", "AchillesHeel", "WeaksauceWeakness"], "tropes_by_category": {}, "similar": []}

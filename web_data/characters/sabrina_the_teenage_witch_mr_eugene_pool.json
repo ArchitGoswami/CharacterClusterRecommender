@@ -1,16 +1,1 @@
-{
-  "name": "Mr. Eugene Pool",
-  "show": "Sabrina, the Teenage Witch",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "ChuckCunninghamSyndrome",
-    "CoolTeacher",
-    "BadassTeacher",
-    "PunnyName",
-    "BunnyEarsLawyer",
-    "Downplayed",
-    "Scotireland"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Eugene Pool", "show": "Sabrina, the Teenage Witch", "trope_count": 8, "tropes": ["DeadpanSnarker", "ChuckCunninghamSyndrome", "CoolTeacher", "BadassTeacher", "PunnyName", "BunnyEarsLawyer", "Downplayed", "Scotireland"], "tropes_by_category": {}, "similar": [{"name": "Winslow High Staff", "show": "Boston Public", "id": "boston_public_winslow_high_staff", "similarity": 0.0532, "shared_tropes": 5}, {"name": "Haley Bob James", "show": "One Tree Hill", "id": "one_tree_hill_haley_bob_james", "similarity": 0.046, "shared_tropes": 4}]}

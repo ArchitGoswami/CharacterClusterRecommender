@@ -1,18 +1,1 @@
-{
-  "name": "Agent Ames",
-  "show": "Dark Angel",
-  "trope_count": 10,
-  "tropes": [
-    "IronicName",
-    "BigBad",
-    "AncientConspiracy",
-    "EvenEvilHasLovedOnes",
-    "AntagonisticOffspring",
-    "SentIntoHiding",
-    "CainAndAbel",
-    "SmugSnake",
-    "FantasticRacism",
-    "ContrastingSequelAntagonist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Agent Ames", "show": "Dark Angel", "trope_count": 10, "tropes": ["IronicName", "BigBad", "AncientConspiracy", "EvenEvilHasLovedOnes", "AntagonisticOffspring", "SentIntoHiding", "CainAndAbel", "SmugSnake", "FantasticRacism", "ContrastingSequelAntagonist"], "tropes_by_category": {}, "similar": [{"name": "Agent White", "show": "Dark Angel", "id": "dark_angel_agent_white", "similarity": 1.0, "shared_tropes": 10}, {"name": "Seitarou Yagiri", "show": "Durarara!!", "id": "durarara_seitarou_yagiri", "similarity": 0.2, "shared_tropes": 4}, {"name": "Phoebe Frady", "show": "Heroes", "id": "heroes_phoebe_frady", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Tsarmina Greeneyes", "show": "Redwall", "id": "redwall_tsarmina_greeneyes", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Prince Kalmaar", "show": "Ninjago", "id": "ninjago_prince_kalmaar", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Amanda Killman", "show": "Bunsen Is a Beast", "id": "bunsen_is_a_beast_amanda_killman", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Freakshow", "show": "Danny Phantom", "id": "danny_phantom_freakshow", "similarity": 0.0755, "shared_tropes": 4}, {"name": "The Highbreed", "show": "Ben 10", "id": "ben_10_the_highbreed", "similarity": 0.0702, "shared_tropes": 4}]}

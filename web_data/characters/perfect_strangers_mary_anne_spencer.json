@@ -1,15 +1,1 @@
-{
-  "name": "Mary-Anne Spencer",
-  "show": "Perfect Strangers",
-  "trope_count": 7,
-  "tropes": [
-    "Deuteragonist",
-    "TheDitz",
-    "DumbBlonde",
-    "GeniusDitz",
-    "HappilyMarried",
-    "NiceGirl",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mary-Anne Spencer", "show": "Perfect Strangers", "trope_count": 7, "tropes": ["Deuteragonist", "TheDitz", "DumbBlonde", "GeniusDitz", "HappilyMarried", "NiceGirl", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Jillian Russell", "show": "Family Guy", "id": "family_guy_jillian_russell", "similarity": 0.2381, "shared_tropes": 5}, {"name": "Britney Tenelli", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_britney_tenelli", "similarity": 0.2273, "shared_tropes": 5}, {"name": "Paisley Houndstooth", "show": "A.N.T Farm", "id": "ant_farm_paisley_houndstooth", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Kevin Thompson", "show": "Daria", "id": "daria_kevin_thompson", "similarity": 0.1, "shared_tropes": 4}, {"name": "Annie Knitts", "show": "South Park", "id": "south_park_annie_knitts", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Rose Nylund", "show": "Golden Girls, The", "id": "golden_girls_the_rose_nylund", "similarity": 0.0893, "shared_tropes": 5}, {"name": "Brittany Taylor", "show": "Daria", "id": "daria_brittany_taylor", "similarity": 0.0862, "shared_tropes": 5}, {"name": "Krystal Goderitch", "show": "Orphan Black", "id": "orphan_black_krystal_goderitch", "similarity": 0.0816, "shared_tropes": 4}]}

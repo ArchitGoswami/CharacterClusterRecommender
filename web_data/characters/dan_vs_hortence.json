@@ -1,17 +1,1 @@
-{
-  "name": "Hortence",
-  "show": "Dan Vs.",
-  "trope_count": 9,
-  "tropes": [
-    "PetTheDog",
-    "MayDecemberRomance",
-    "RomancingTheWidow",
-    "GeniusDitz",
-    "ShipTease",
-    "EarlyBirdCameo",
-    "ImpossibleHourglassFigure",
-    "BurgerFool",
-    "SheCleansUpNicely"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hortence", "show": "Dan Vs.", "trope_count": 9, "tropes": ["PetTheDog", "MayDecemberRomance", "RomancingTheWidow", "GeniusDitz", "ShipTease", "EarlyBirdCameo", "ImpossibleHourglassFigure", "BurgerFool", "SheCleansUpNicely"], "tropes_by_category": {}, "similar": [{"name": "Vincent Vega", "show": "Pulp Fiction", "id": "pulp_fiction_vincent_vega", "similarity": 0.0635, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Penny Waxman",
-  "show": "Muppets Tonight",
-  "trope_count": 10,
-  "tropes": [
-    "FieryRedhead",
-    "JerkWithAHeartOfGold",
-    "BlazingInfernoHellfireSauce",
-    "BrutalHonesty",
-    "AmbiguouslyJewish",
-    "BigEater",
-    "FanDisservice",
-    "NewOldFlame",
-    "YokoOhNo",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Penny Waxman", "show": "Muppets Tonight", "trope_count": 10, "tropes": ["FieryRedhead", "JerkWithAHeartOfGold", "BlazingInfernoHellfireSauce", "BrutalHonesty", "AmbiguouslyJewish", "BigEater", "FanDisservice", "NewOldFlame", "YokoOhNo", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": [{"name": "Penny Waxman", "show": "Muppets,The", "id": "muppetsthe_penny_waxman", "similarity": 1.0, "shared_tropes": 10}, {"name": "Swift Wind", "show": "She-Ra and the Princesses of Power", "id": "she_ra_and_the_princesses_of_power_swift_wind", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Elaine Benes", "show": "Seinfeld", "id": "seinfeld_elaine_benes", "similarity": 0.058, "shared_tropes": 4}, {"name": "Chowder", "show": "Chowder", "id": "chowder_chowder", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Monterey Jack, aka \"Monty\"", "show": "Chip 'n Dale Rescue Rangers", "id": "chip_n_dale_rescue_rangers_monterey_jack_aka_monty", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Cuphead", "show": "The Cuphead Show", "id": "the_cuphead_show_cuphead", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.037, "shared_tropes": 4}, {"name": "Cat", "show": "Red Dwarf", "id": "red_dwarf_cat", "similarity": 0.037, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Professor Pac",
-  "show": "Pac-Man",
-  "trope_count": 6,
-  "tropes": [
-    "MrExposition",
-    "MentorArchetype",
-    "DivergentCharacterEvolution",
-    "AmbiguouslyRelated",
-    "MortarboardOfIntelligence",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Professor Pac", "show": "Pac-Man", "trope_count": 11, "tropes": ["GadgeteerGenius", "MrExposition", "SpryOldGuy", "OlderSidekick", "MentorArchetype", "ZigzaggedTrope", "OutOfFocus", "AmbiguouslyRelated", "DivergentCharacterEvolution", "FlatCharacter", "MortarboardOfIntelligence"], "tropes_by_category": {}, "similar": []}

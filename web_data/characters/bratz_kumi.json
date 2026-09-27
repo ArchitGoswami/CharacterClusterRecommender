@@ -1,14 +1,1 @@
-{
-  "name": "Kumi",
-  "show": "Bratz",
-  "trope_count": 6,
-  "tropes": [
-    "WeUsedToBeFriends",
-    "InconsistentColoring",
-    "WordOfGod",
-    "LadyOfAdventure",
-    "AllegedLookAlikes",
-    "CameraFiend"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kumi", "show": "Bratz", "trope_count": 6, "tropes": ["WeUsedToBeFriends", "InconsistentColoring", "WordOfGod", "LadyOfAdventure", "AllegedLookAlikes", "CameraFiend"], "tropes_by_category": {}, "similar": []}

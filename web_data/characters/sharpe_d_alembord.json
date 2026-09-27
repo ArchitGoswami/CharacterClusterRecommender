@@ -1,13 +1,1 @@
-{
-  "name": "D'Alembord",
-  "show": "Sharpe",
-  "trope_count": 5,
-  "tropes": [
-    "CrouchingMoronHiddenBadass",
-    "HeritageDisconnect",
-    "CombatPragmatist",
-    "DemotedToExtra",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "D'Alembord", "show": "Sharpe", "trope_count": 12, "tropes": ["HeritageDisconnect", "CrouchingMoronHiddenBadass", "CombatPragmatist", "TrueCompanions", "DemotedToExtra", "AccidentalMurder", "ItsPersonal", "SteppingOutForAQuickCupOfCoffee", "EveryoneHasStandards", "CategoryTraitor", "Retirony", "AnArmAndALeg"], "tropes_by_category": {}, "similar": [{"name": "The Percy-Darling Lineage", "show": "Blackadder", "id": "blackadder_the_percy_darling_lineage", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Bumi II", "show": "Legend of Korra, The", "id": "legend_of_korra_the_bumi_ii", "similarity": 0.0421, "shared_tropes": 4}]}

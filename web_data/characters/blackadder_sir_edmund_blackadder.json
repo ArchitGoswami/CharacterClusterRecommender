@@ -1,13 +1,1 @@
-{
-  "name": "Sir Edmund Blackadder",
-  "show": "Blackadder",
-  "trope_count": 5,
-  "tropes": [
-    "DirtyCoward",
-    "TheKingslayer",
-    "SoleSurvivor",
-    "OnlySaneMan",
-    "IdenticalGrandson"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sir Edmund Blackadder", "show": "Blackadder", "trope_count": 5, "tropes": ["DirtyCoward", "TheKingslayer", "SoleSurvivor", "OnlySaneMan", "IdenticalGrandson"], "tropes_by_category": {}, "similar": [{"name": "The Percy-Darling Lineage", "show": "Blackadder", "id": "blackadder_the_percy_darling_lineage", "similarity": 0.0714, "shared_tropes": 4}]}

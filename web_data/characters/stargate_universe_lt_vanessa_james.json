@@ -1,16 +1,1 @@
-{
-  "name": "Lt. Vanessa James",
-  "show": "Stargate Universe",
-  "trope_count": 8,
-  "tropes": [
-    "ActionGirl",
-    "MsFanservice",
-    "DarkerAndEdgier",
-    "RomanticFalseLead",
-    "MyEyesAreUpHere",
-    "BuxomBeautyStandard",
-    "HiddenBuxom",
-    "MadeOfIron"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lt. Vanessa James", "show": "Stargate Universe", "trope_count": 8, "tropes": ["ActionGirl", "MsFanservice", "DarkerAndEdgier", "RomanticFalseLead", "MyEyesAreUpHere", "BuxomBeautyStandard", "HiddenBuxom", "MadeOfIron"], "tropes_by_category": {}, "similar": [{"name": "Sarah \"Mac\"MacKenzie", "show": "JAG", "id": "jag_sarah_mac_mackenzie", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Erica", "show": "Teen Wolf", "id": "teen_wolf_erica", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Kate", "show": "Lost", "id": "lost_kate", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Hungary - Elizabeta Héderváry", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_hungary_elizabeta_h_derv_ry", "similarity": 0.0645, "shared_tropes": 4}]}

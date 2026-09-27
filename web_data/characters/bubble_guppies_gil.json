@@ -1,17 +1,1 @@
-{
-  "name": "Gil",
-  "show": "Bubble Guppies",
-  "trope_count": 9,
-  "tropes": [
-    "OddNameOut",
-    "RedOniBlueOni",
-    "CowardlyLion",
-    "CurtainsMatchTheWindow",
-    "AerithAndBob",
-    "InSeriesNickname",
-    "MeaningfulName",
-    "Keet",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gil", "show": "Bubble Guppies", "trope_count": 9, "tropes": ["OddNameOut", "RedOniBlueOni", "CowardlyLion", "CurtainsMatchTheWindow", "AerithAndBob", "InSeriesNickname", "MeaningfulName", "Keet", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Molly", "show": "Bubble Guppies", "id": "bubble_guppies_molly", "similarity": 0.25, "shared_tropes": 4}, {"name": "Tweek Tweak", "show": "South Park", "id": "south_park_tweek_tweak", "similarity": 0.0779, "shared_tropes": 6}, {"name": "Jeanette Miller", "show": "Alvin and the Chipmunks", "id": "alvin_and_the_chipmunks_jeanette_miller", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Gwizdo", "show": "Dragon Hunters", "id": "dragon_hunters_gwizdo", "similarity": 0.0588, "shared_tropes": 5}, {"name": "Gus", "show": "Recess", "id": "recess_gus", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Corey Jaron Riffin", "show": "Grojband", "id": "grojband_corey_jaron_riffin", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Main Hamsters", "show": "Hamtaro", "id": "hamtaro_main_hamsters", "similarity": 0.0382, "shared_tropes": 5}, {"name": "Jay", "show": "Ninjago", "id": "ninjago_jay", "similarity": 0.0367, "shared_tropes": 4}]}

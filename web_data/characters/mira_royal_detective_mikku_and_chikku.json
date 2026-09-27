@@ -1,16 +1,1 @@
-{
-  "name": "Mikku and Chikku",
-  "show": "Mira, Royal Detective",
-  "trope_count": 8,
-  "tropes": [
-    "ThoseTwoGuys",
-    "RealMenWearPink",
-    "RedOniBlueOni",
-    "TalkingAnimal",
-    "BigEater",
-    "HypocriticalHumor",
-    "NonHumanSidekick",
-    "InsistentTerminology"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mikku and Chikku", "show": "Mira, Royal Detective", "trope_count": 8, "tropes": ["ThoseTwoGuys", "RealMenWearPink", "RedOniBlueOni", "TalkingAnimal", "BigEater", "HypocriticalHumor", "NonHumanSidekick", "InsistentTerminology"], "tropes_by_category": {}, "similar": [{"name": "Fu Dog", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_fu_dog", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Michelangelo", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_michelangelo", "similarity": 0.0563, "shared_tropes": 4}, {"name": "As a whole", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_as_a_whole", "similarity": 0.036, "shared_tropes": 4}, {"name": "Jack Fenton", "show": "Danny Phantom", "id": "danny_phantom_jack_fenton", "similarity": 0.0357, "shared_tropes": 4}]}

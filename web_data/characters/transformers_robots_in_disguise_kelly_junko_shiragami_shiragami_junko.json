@@ -1,17 +1,1 @@
-{
-  "name": "Kelly (Junko Shiragami (白神 ジュンコshiragami junko))",
-  "show": "Transformers: Robots in Disguise",
-  "trope_count": 9,
-  "tropes": [
-    "UnluckyExtra",
-    "DoomedNewClothes",
-    "MsFanservice",
-    "AllThereInTheManual",
-    "RecurringExtra",
-    "TheCameo",
-    "DubNameChange",
-    "OnceAnEpisode",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kelly (Junko Shiragami (白神 ジュンコshiragami junko))", "show": "Transformers: Robots in Disguise", "trope_count": 9, "tropes": ["UnluckyExtra", "DoomedNewClothes", "MsFanservice", "AllThereInTheManual", "RecurringExtra", "TheCameo", "DubNameChange", "OnceAnEpisode", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Travis", "show": "Hazbin Hotel", "id": "hazbin_hotel_travis", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Main Characters", "show": "Barney & Friends", "id": "barney_and_friends_main_characters", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Shaggy Rogers", "show": "Scooby-Doo", "id": "scooby_doo_shaggy_rogers", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Ezekiel", "show": "Total Drama", "id": "total_drama_ezekiel", "similarity": 0.0412, "shared_tropes": 4}]}

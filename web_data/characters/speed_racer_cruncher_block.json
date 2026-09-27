@@ -1,12 +1,1 @@
-{
-  "name": "Cruncher Block",
-  "show": "Speed Racer",
-  "trope_count": 4,
-  "tropes": [
-    "BadBoss",
-    "VenturousSmuggler",
-    "NonActionGuy",
-    "TheDragon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cruncher Block", "show": "Speed Racer", "trope_count": 11, "tropes": ["BigBadassRig", "TheHeavy", "MythologyGag", "Hypocrite", "RedAndBlackAndEvilAllOver", "BigBad", "DarkIsEvil", "NeckLift", "EvilBrit", "LondonGangster", "EstablishingCharacterMoment"], "tropes_by_category": {}, "similar": [{"name": "The Night Master", "show": "Yin Yang Yo!", "id": "yin_yang_yo_the_night_master", "similarity": 0.0952, "shared_tropes": 4}, {"name": "The Operative", "show": "Firefly", "id": "firefly_the_operative", "similarity": 0.0667, "shared_tropes": 5}, {"name": "The Rooters", "show": "Ben 10", "id": "ben_10_the_rooters", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Diesel", "show": "Thomas & Friends", "id": "thomas_and_friends_diesel", "similarity": 0.0606, "shared_tropes": 6}, {"name": "Joseph Crackstone", "show": "Wednesday", "id": "wednesday_joseph_crackstone", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Van Zant", "show": "Dragon Ball Z", "id": "dragon_ball_z_van_zant", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Sheryl Goodspeed", "show": "Final Space", "id": "final_space_sheryl_goodspeed", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Female Changeling", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_female_changeling", "similarity": 0.046, "shared_tropes": 4}]}

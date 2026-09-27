@@ -1,17 +1,1 @@
-{
-  "name": "Lass",
-  "show": "Sharpe",
-  "trope_count": 9,
-  "tropes": [
-    "SuddenlyVoiced",
-    "ClothingDamage",
-    "AttemptedRape",
-    "BewareTheQuietOnes",
-    "CanonForeigner",
-    "HeroicBSOD",
-    "SilkHidingSteel",
-    "BadassPreacher",
-    "OnlyKnownByTheirNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lass", "show": "Sharpe", "trope_count": 12, "tropes": ["AllLoveIsUnrequited", "AttemptedRape", "BewareTheQuietOnes", "TheSpeechless", "OnlyKnownByTheirNickname", "SuddenlyVoiced", "BadassPreacher", "ClothingDamage", "CanonForeigner", "HeroicBSOD", "SilkHidingSteel", "CuteMute"], "tropes_by_category": {}, "similar": [{"name": "Margaret Lenny \"Maggie\" Simpson", "show": "Simpsons,The", "id": "simpsonsthe_margaret_lenny_maggie_simpson", "similarity": 0.0495, "shared_tropes": 5}, {"name": "Margaret Lenny \"Maggie\" Simpson", "show": "The Simpsons", "id": "the_simpsons_margaret_lenny_maggie_simpson", "similarity": 0.0495, "shared_tropes": 5}]}

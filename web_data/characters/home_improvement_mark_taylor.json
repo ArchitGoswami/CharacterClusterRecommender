@@ -1,18 +1,1 @@
-{
-  "name": "Mark Taylor",
-  "show": "Home Improvement",
-  "trope_count": 10,
-  "tropes": [
-    "TheDogBitesBack",
-    "DeadpanSnarker",
-    "Goth",
-    "TheBabyOfTheBunch",
-    "MandatoryLine",
-    "SensitiveGuyAndManlyMan",
-    "BigLittleBrother",
-    "TheGenericGuy",
-    "OutOfFocus",
-    "KiddieKid"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mark Taylor", "show": "Home Improvement", "trope_count": 10, "tropes": ["TheDogBitesBack", "DeadpanSnarker", "Goth", "TheBabyOfTheBunch", "MandatoryLine", "SensitiveGuyAndManlyMan", "BigLittleBrother", "TheGenericGuy", "OutOfFocus", "KiddieKid"], "tropes_by_category": {}, "similar": [{"name": "Rex Powers", "show": "Victorious", "id": "victorious_rex_powers", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Beck Oliver", "show": "Victorious", "id": "victorious_beck_oliver", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Ferbs \"Ferb\" Fletcher", "show": "Phineas and Ferb", "id": "phineas_and_ferb_ferbs_ferb_fletcher", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Josh Nichols", "show": "Drake & Josh", "id": "drake_and_josh_josh_nichols", "similarity": 0.04, "shared_tropes": 4}, {"name": "Chris Griffin", "show": "Family Guy", "id": "family_guy_chris_griffin", "similarity": 0.0381, "shared_tropes": 4}]}

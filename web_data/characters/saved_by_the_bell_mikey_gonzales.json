@@ -1,12 +1,1 @@
-{
-  "name": "Mikey Gonzales",
-  "show": "Saved by the Bell",
-  "trope_count": 4,
-  "tropes": [
-    "DeadpanSnarker",
-    "EightiesHair",
-    "VitriolicBestBuds",
-    "SensitiveGuyAndManlyMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mikey Gonzales", "show": "Saved by the Bell", "trope_count": 4, "tropes": ["DeadpanSnarker", "EightiesHair", "VitriolicBestBuds", "SensitiveGuyAndManlyMan"], "tropes_by_category": {}, "similar": [{"name": "Jesse Katsopolis", "show": "Full House", "id": "full_house_jesse_katsopolis", "similarity": 0.0889, "shared_tropes": 4}]}

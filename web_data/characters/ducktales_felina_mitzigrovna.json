@@ -1,15 +1,1 @@
-{
-  "name": "Felina Mitzigrovna",
-  "show": "DuckTales",
-  "trope_count": 7,
-  "tropes": [
-    "RightfulKingReturns",
-    "SpyCatsuit",
-    "TrueBlueFemininity",
-    "RoyalsWhoActuallyDoSomething",
-    "SexyCatPerson",
-    "DamselInDistress",
-    "NumberOneDime"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Felina Mitzigrovna", "show": "DuckTales", "trope_count": 7, "tropes": ["RightfulKingReturns", "SpyCatsuit", "TrueBlueFemininity", "RoyalsWhoActuallyDoSomething", "SexyCatPerson", "DamselInDistress", "NumberOneDime"], "tropes_by_category": {}, "similar": [{"name": "Catwoman", "show": "The Dark Knight", "id": "the_dark_knight_catwoman", "similarity": 0.0364, "shared_tropes": 4}]}

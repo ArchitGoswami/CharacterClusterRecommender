@@ -1,13 +1,1 @@
-{
-  "name": "Jeremiah",
-  "show": "Peaky Blinders",
-  "trope_count": 5,
-  "tropes": [
-    "CombatMedic",
-    "PreacherMan",
-    "DreadlockRasta",
-    "BadassPreacher",
-    "NoHistoricalFiguresWereHarmed"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeremiah", "show": "Peaky Blinders", "trope_count": 5, "tropes": ["CombatMedic", "PreacherMan", "DreadlockRasta", "BadassPreacher", "NoHistoricalFiguresWereHarmed"], "tropes_by_category": {}, "similar": []}

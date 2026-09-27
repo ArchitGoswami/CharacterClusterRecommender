@@ -1,13 +1,1 @@
-{
-  "name": "Dr. Aubrey Hunter",
-  "show": "CSI: NY",
-  "trope_count": 5,
-  "tropes": [
-    "WeHardlyKnewYe",
-    "ChuckCunninghamSyndrome",
-    "AbortedArc",
-    "PutOnABus",
-    "LoveTriangle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Aubrey Hunter", "show": "CSI: NY", "trope_count": 5, "tropes": ["WeHardlyKnewYe", "ChuckCunninghamSyndrome", "AbortedArc", "PutOnABus", "LoveTriangle"], "tropes_by_category": {}, "similar": []}

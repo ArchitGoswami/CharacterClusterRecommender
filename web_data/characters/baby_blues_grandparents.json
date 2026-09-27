@@ -1,13 +1,1 @@
-{
-  "name": "Grandparents",
-  "show": "Baby Blues",
-  "trope_count": 5,
-  "tropes": [
-    "IWantGrandkids",
-    "ObnoxiousInLaws",
-    "TheQuietOne",
-    "StrongFamilyResemblance",
-    "NeatFreak"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Grandparents", "show": "Baby Blues", "trope_count": 5, "tropes": ["IWantGrandkids", "ObnoxiousInLaws", "TheQuietOne", "StrongFamilyResemblance", "NeatFreak"], "tropes_by_category": {}, "similar": []}

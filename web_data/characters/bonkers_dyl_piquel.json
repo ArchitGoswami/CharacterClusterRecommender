@@ -1,16 +1,1 @@
-{
-  "name": "Dyl Piquel",
-  "show": "Bonkers",
-  "trope_count": 8,
-  "tropes": [
-    "ADayInTheLimelight",
-    "PrettyInMink",
-    "HairOfGoldHeartOfGold",
-    "PunnyName",
-    "TrueBlueFemininity",
-    "UglyGuyHotWife",
-    "MamaBear",
-    "InSeriesNickname"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dyl Piquel", "show": "Bonkers", "trope_count": 8, "tropes": ["ADayInTheLimelight", "PrettyInMink", "HairOfGoldHeartOfGold", "PunnyName", "TrueBlueFemininity", "UglyGuyHotWife", "MamaBear", "InSeriesNickname"], "tropes_by_category": {}, "similar": [{"name": "Lynn Loud Sr. & Rita Loud (née Reynolds)", "show": "Loud House, The", "id": "loud_house_the_lynn_loud_sr_rita_loud_n_e_reynolds", "similarity": 0.0417, "shared_tropes": 5}, {"name": "Clover Ewing", "show": "Totally Spies!", "id": "totally_spies_clover_ewing", "similarity": 0.0417, "shared_tropes": 4}]}

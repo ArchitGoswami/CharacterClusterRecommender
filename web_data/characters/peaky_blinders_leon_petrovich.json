@@ -1,14 +1,1 @@
-{
-  "name": "Leon Petrovich",
-  "show": "Peaky Blinders",
-  "trope_count": 6,
-  "tropes": [
-    "AristocratsAreEvil",
-    "TheAlcoholic",
-    "BigEater",
-    "HenpeckedHusband",
-    "PoliticallyIncorrectVillain",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Leon Petrovich", "show": "Peaky Blinders", "trope_count": 6, "tropes": ["AristocratsAreEvil", "TheAlcoholic", "BigEater", "HenpeckedHusband", "PoliticallyIncorrectVillain", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": []}

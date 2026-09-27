@@ -1,17 +1,1 @@
-{
-  "name": "Kyle",
-  "show": "Ghosts US",
-  "trope_count": 9,
-  "tropes": [
-    "OddFriendship",
-    "HappilyMarried",
-    "CommonalityConnection",
-    "MirrorCharacter",
-    "GenderFlip",
-    "TheFriendNobodyLikes",
-    "BigEater",
-    "ThereIsAnother",
-    "HellholePrison"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kyle", "show": "Ghosts US", "trope_count": 11, "tropes": ["BigEater", "MirrorCharacter", "AscendedExtra", "GenderFlip", "HappilyMarried", "ExtremeDoormat", "ThereIsAnother", "CommonalityConnection", "HellholePrison", "OddFriendship", "TheFriendNobodyLikes"], "tropes_by_category": {}, "similar": [{"name": "Jeff Smith (né Fischer)", "show": "American Dad", "id": "american_dad_jeff_smith_n_fischer", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Garry \"Jerry\" Gergich", "show": "Parks and Recreation", "id": "parks_and_recreation_garry_jerry_gergich", "similarity": 0.0541, "shared_tropes": 4}]}

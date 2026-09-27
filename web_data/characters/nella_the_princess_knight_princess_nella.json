@@ -1,13 +1,1 @@
-{
-  "name": "Princess Nella",
-  "show": "Nella the Princess Knight",
-  "trope_count": 5,
-  "tropes": [
-    "TheStraightAndArrowPath",
-    "KnightlySwordAndShield",
-    "TheAce",
-    "MorphWeapon",
-    "JoustingLance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Princess Nella", "show": "Nella the Princess Knight", "trope_count": 5, "tropes": ["TheStraightAndArrowPath", "KnightlySwordAndShield", "TheAce", "MorphWeapon", "JoustingLance"], "tropes_by_category": {}, "similar": []}

@@ -1,15 +1,1 @@
-{
-  "name": "Rainer",
-  "show": "Lost Girl",
-  "trope_count": 7,
-  "tropes": [
-    "TheReveal",
-    "KilledOffForReal",
-    "SuperpowerLottery",
-    "ThirdOptionLoveInterest",
-    "StarCrossedLovers",
-    "LoveTriangle",
-    "RetGone"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rainer", "show": "Lost Girl", "trope_count": 7, "tropes": ["TheReveal", "KilledOffForReal", "SuperpowerLottery", "ThirdOptionLoveInterest", "StarCrossedLovers", "LoveTriangle", "RetGone"], "tropes_by_category": {}, "similar": [{"name": "Rainer", "show": "Lost", "id": "lost_rainer", "similarity": 1.0, "shared_tropes": 7}]}

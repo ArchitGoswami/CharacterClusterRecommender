@@ -1,17 +1,1 @@
-{
-  "name": "Richie",
-  "show": "Malcolm in the Middle",
-  "trope_count": 9,
-  "tropes": [
-    "BasementDweller",
-    "TheBusCameBack",
-    "TooDumbToLive",
-    "ToxicFriendInfluence",
-    "PutOnABus",
-    "Delinquents",
-    "HypocriticalHumor",
-    "TheSlacker",
-    "BurgerFool"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Richie", "show": "Malcolm in the Middle", "trope_count": 9, "tropes": ["BasementDweller", "TheBusCameBack", "TooDumbToLive", "ToxicFriendInfluence", "PutOnABus", "Delinquents", "HypocriticalHumor", "TheSlacker", "BurgerFool"], "tropes_by_category": {}, "similar": [{"name": "Augustus Polk and Patrick Mahon", "show": "The Wire", "id": "the_wire_augustus_polk_and_patrick_mahon", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Augustus Polk and Patrick Mahon", "show": "Wire, The", "id": "wire_the_augustus_polk_and_patrick_mahon", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Lindsay Fünke", "show": "Arrested Development", "id": "arrested_development_lindsay_f_nke", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Michael Kelso", "show": "That '70s Show", "id": "that_70s_show_michael_kelso", "similarity": 0.0455, "shared_tropes": 4}]}

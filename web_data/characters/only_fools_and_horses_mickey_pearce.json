@@ -1,18 +1,1 @@
-{
-  "name": "Mickey Pearce",
-  "show": "Only Fools and Horses",
-  "trope_count": 10,
-  "tropes": [
-    "CasanovaWannabe",
-    "ThoseTwoGuys",
-    "Jerkass",
-    "RunningGag",
-    "TwoTone",
-    "SmallNameBigEgo",
-    "WithFriendsLikeThese",
-    "FalseFriend",
-    "DiscoDan",
-    "SmugSnake"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mickey Pearce", "show": "Only Fools and Horses", "trope_count": 10, "tropes": ["CasanovaWannabe", "ThoseTwoGuys", "Jerkass", "RunningGag", "TwoTone", "SmallNameBigEgo", "WithFriendsLikeThese", "FalseFriend", "DiscoDan", "SmugSnake"], "tropes_by_category": {}, "similar": [{"name": "Shawn Cohen", "show": "Survivor", "id": "survivor_shawn_cohen", "similarity": 0.2857, "shared_tropes": 4}, {"name": "Dave", "show": "Flight of the Conchords", "id": "flight_of_the_conchords_dave", "similarity": 0.2, "shared_tropes": 4}, {"name": "Junior Coalition Party", "show": "Thick Of It", "id": "thick_of_it_junior_coalition_party", "similarity": 0.1026, "shared_tropes": 4}, {"name": "\"Cliff\" Clavin", "show": "Cheers", "id": "cheers_cliff_clavin", "similarity": 0.0794, "shared_tropes": 5}, {"name": "Cliff Clavin", "show": "Cheers", "id": "cheers_cliff_clavin_2", "similarity": 0.0781, "shared_tropes": 5}, {"name": "Jonah", "show": "Veep", "id": "veep_jonah", "similarity": 0.0769, "shared_tropes": 5}, {"name": "Nathan", "show": "South Park", "id": "south_park_nathan", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Richard \"Richie\" Richard", "show": "Bottom", "id": "bottom_richard_richie_richard", "similarity": 0.0694, "shared_tropes": 5}]}

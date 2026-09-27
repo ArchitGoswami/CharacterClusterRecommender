@@ -1,18 +1,1 @@
-{
-  "name": "Ingway",
-  "show": "Trigun",
-  "trope_count": 10,
-  "tropes": [
-    "NobleDemon",
-    "SpoiledBrat",
-    "IHaveYourWife",
-    "BlatantLies",
-    "NotWorthKilling",
-    "AntiVillain",
-    "CallToAgriculture",
-    "DarkAndTroubledPast",
-    "ShowdownAtHighNoon",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ingway", "show": "Trigun", "trope_count": 10, "tropes": ["NobleDemon", "SpoiledBrat", "IHaveYourWife", "BlatantLies", "NotWorthKilling", "AntiVillain", "CallToAgriculture", "DarkAndTroubledPast", "ShowdownAtHighNoon", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": []}

@@ -1,16 +1,1 @@
-{
-  "name": "Hallie Thomas",
-  "show": "Chicago Fire",
-  "trope_count": 8,
-  "tropes": [
-    "KilledOffForReal",
-    "RelationshipRevolvingDoor",
-    "HospitalHottie",
-    "BrainyBrunette",
-    "ChildHater",
-    "NiceGirl",
-    "SatelliteLoveInterest",
-    "TheLostLenore"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hallie Thomas", "show": "Chicago Fire", "trope_count": 8, "tropes": ["KilledOffForReal", "RelationshipRevolvingDoor", "HospitalHottie", "BrainyBrunette", "ChildHater", "NiceGirl", "SatelliteLoveInterest", "TheLostLenore"], "tropes_by_category": {}, "similar": [{"name": "Emma", "show": "The Fosters", "id": "the_fosters_emma", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Sara", "show": "Prison Break", "id": "prison_break_sara", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Dr. Lisa Cuddy", "show": "House", "id": "house_dr_lisa_cuddy", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Jessica Moore", "show": "Supernatural", "id": "supernatural_jessica_moore", "similarity": 0.069, "shared_tropes": 4}, {"name": "Talisa Maegyr", "show": "Game of Thrones", "id": "game_of_thrones_talisa_maegyr", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Belle/Lacey French", "show": "Once Upon a Time", "id": "once_upon_a_time_belle_lacey_french", "similarity": 0.0532, "shared_tropes": 5}]}

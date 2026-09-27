@@ -1,18 +1,1 @@
-{
-  "name": "Ahpossno",
-  "show": "Alien Nation",
-  "trope_count": 10,
-  "tropes": [
-    "HeelFaceTurn",
-    "OmnidisciplinaryScientist",
-    "DamnYouMuscleMemory",
-    "YourSoulIsMine",
-    "KickTheDog",
-    "WhereDoesHeGetAllThoseWonderfulToys",
-    "MyGodWhatHaveIDone",
-    "ArrogantKungFuGuy",
-    "WarriorMonk",
-    "VillainousCrush"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ahpossno", "show": "Alien Nation", "trope_count": 10, "tropes": ["HeelFaceTurn", "OmnidisciplinaryScientist", "DamnYouMuscleMemory", "YourSoulIsMine", "KickTheDog", "WhereDoesHeGetAllThoseWonderfulToys", "MyGodWhatHaveIDone", "ArrogantKungFuGuy", "WarriorMonk", "VillainousCrush"], "tropes_by_category": {}, "similar": []}

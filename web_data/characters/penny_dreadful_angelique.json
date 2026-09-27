@@ -1,16 +1,1 @@
-{
-  "name": "Angelique",
-  "show": "Penny Dreadful",
-  "trope_count": 8,
-  "tropes": [
-    "TransTribulations",
-    "BirdsOfAFeather",
-    "HighClassCallGirl",
-    "HookerWithAHeartOfGold",
-    "NightmareFetishist",
-    "MoodWhiplash",
-    "MoralityPet",
-    "BeneathTheMask"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Angelique", "show": "Penny Dreadful", "trope_count": 8, "tropes": ["TransTribulations", "BirdsOfAFeather", "HighClassCallGirl", "HookerWithAHeartOfGold", "NightmareFetishist", "MoodWhiplash", "MoralityPet", "BeneathTheMask"], "tropes_by_category": {}, "similar": [{"name": "Brona Croft / Lily Frankenstein", "show": "Penny Dreadful", "id": "penny_dreadful_brona_croft_lily_frankenstein", "similarity": 0.0909, "shared_tropes": 4}]}

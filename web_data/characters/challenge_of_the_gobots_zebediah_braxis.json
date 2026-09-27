@@ -1,15 +1,1 @@
-{
-  "name": "Zebediah Braxis",
-  "show": "Challenge of the GoBots",
-  "trope_count": 7,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "Expy",
-    "MadScientist",
-    "TheQuisling",
-    "AssholeVictim",
-    "SanitySlippage",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zebediah Braxis", "show": "Challenge of the GoBots", "trope_count": 7, "tropes": ["JerkWithAHeartOfGold", "Expy", "MadScientist", "TheQuisling", "AssholeVictim", "SanitySlippage", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Will Harangue", "show": "Ben 10", "id": "ben_10_will_harangue", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Baxter Stockman", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_baxter_stockman", "similarity": 0.0816, "shared_tropes": 4}]}

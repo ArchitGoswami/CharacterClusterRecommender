@@ -1,17 +1,1 @@
-{
-  "name": "Cheri Shotwell",
-  "show": "Fillmore!",
-  "trope_count": 9,
-  "tropes": [
-    "PerpetualSmiler",
-    "AmbiguouslyRelated",
-    "TheGlomp",
-    "PunnyName",
-    "StepfordSmiler",
-    "HypocriticalHumor",
-    "LovableAlphaBitch",
-    "HiddenDepths",
-    "TallDarkAndHandsome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cheri Shotwell", "show": "Fillmore!", "trope_count": 9, "tropes": ["PerpetualSmiler", "AmbiguouslyRelated", "TheGlomp", "PunnyName", "StepfordSmiler", "HypocriticalHumor", "LovableAlphaBitch", "HiddenDepths", "TallDarkAndHandsome"], "tropes_by_category": {}, "similar": [{"name": "Quinn Morgendorffer", "show": "Daria", "id": "daria_quinn_morgendorffer", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Main Characters", "show": "Sonny With A Chance", "id": "sonny_with_a_chance_main_characters", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Ryōji Kaji", "show": "Neon Genesis Evangelion", "id": "neon_genesis_evangelion_ry_ji_kaji", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Ross", "show": "Friends", "id": "friends_ross", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Pearl Krabs", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_pearl_krabs", "similarity": 0.0374, "shared_tropes": 4}]}

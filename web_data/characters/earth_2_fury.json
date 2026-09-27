@@ -1,17 +1,1 @@
-{
-  "name": "Fury",
-  "show": "Earth 2",
-  "trope_count": 9,
-  "tropes": [
-    "HeelFaceTurn",
-    "AdaptationalVillainy",
-    "DarkActionGirl",
-    "Stripperiffic",
-    "CompositeCharacter",
-    "RelatedInTheAdaptation",
-    "TheDragon",
-    "StrongFamilyResemblance",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fury", "show": "Earth 2", "trope_count": 9, "tropes": ["HeelFaceTurn", "AdaptationalVillainy", "DarkActionGirl", "Stripperiffic", "CompositeCharacter", "RelatedInTheAdaptation", "TheDragon", "StrongFamilyResemblance", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Sable Manfredi / Silver Sable", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_sable_manfredi_silver_sable", "similarity": 0.2727, "shared_tropes": 6}, {"name": "Karai", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_karai", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Foot Recruit", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_foot_recruit", "similarity": 0.1087, "shared_tropes": 5}, {"name": "John Henry Irons / Steel / The Stranger", "show": "Superman & Lois", "id": "superman_and_lois_john_henry_irons_steel_the_stranger", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Ecco/Mummer", "show": "Gotham", "id": "gotham_ecco_mummer", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Helena Bertinelli / Huntress", "show": "Arrow", "id": "arrow_helena_bertinelli_huntress", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Moira Queen", "show": "Arrow", "id": "arrow_moira_queen", "similarity": 0.05, "shared_tropes": 4}, {"name": "Veran", "show": "Legend Of Zelda, The", "id": "legend_of_zelda_the_veran", "similarity": 0.0471, "shared_tropes": 4}]}

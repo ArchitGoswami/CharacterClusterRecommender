@@ -1,17 +1,1 @@
-{
-  "name": "Bobbie, Tobbie, and Flobbie Rotten",
-  "show": "Lazytown",
-  "trope_count": 9,
-  "tropes": [
-    "HeelFaceTurn",
-    "SurroundedByIdiots",
-    "TheLeader",
-    "Expy",
-    "HarmlessVillain",
-    "BeingEvilSucks",
-    "TheQuietOne",
-    "GoonsJustWantToHaveFun",
-    "MinionWithAnFInEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bobbie, Tobbie, and Flobbie Rotten", "show": "Lazytown", "trope_count": 9, "tropes": ["HeelFaceTurn", "SurroundedByIdiots", "TheLeader", "Expy", "HarmlessVillain", "BeingEvilSucks", "TheQuietOne", "GoonsJustWantToHaveFun", "MinionWithAnFInEvil"], "tropes_by_category": {}, "similar": [{"name": "Waspinator", "show": "Beast Wars", "id": "beast_wars_waspinator", "similarity": 0.0392, "shared_tropes": 4}]}

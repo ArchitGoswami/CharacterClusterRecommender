@@ -1,12 +1,1 @@
-{
-  "name": "Gordon the Foot",
-  "show": "Rocko's Modern Life",
-  "trope_count": 4,
-  "tropes": [
-    "ThoseTwoGuys",
-    "NoCelebritiesWereHarmed",
-    "Catchphrase",
-    "RunningGag"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gordon the Foot", "show": "Rocko's Modern Life", "trope_count": 4, "tropes": ["ThoseTwoGuys", "NoCelebritiesWereHarmed", "Catchphrase", "RunningGag"], "tropes_by_category": {}, "similar": [{"name": "Ed Wuncler III", "show": "Boondocks,The", "id": "boondocksthe_ed_wuncler_iii", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Major Francis Monogram", "show": "Phineas and Ferb", "id": "phineas_and_ferb_major_francis_monogram", "similarity": 0.0667, "shared_tropes": 4}]}

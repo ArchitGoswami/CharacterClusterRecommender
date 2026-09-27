@@ -1,14 +1,1 @@
-{
-  "name": "Robert \"Dakota Bob\" Shaefer",
-  "show": "The Boys",
-  "trope_count": 6,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "PresidentEvil",
-    "FacialHorror",
-    "ScrewTheRulesIHaveMoney",
-    "ReasonableAuthorityFigure",
-    "TakeThat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Robert \"Dakota Bob\" Shaefer", "show": "The Boys", "trope_count": 6, "tropes": ["NoCelebritiesWereHarmed", "PresidentEvil", "FacialHorror", "ScrewTheRulesIHaveMoney", "ReasonableAuthorityFigure", "TakeThat"], "tropes_by_category": {}, "similar": [{"name": "Robert \"Dakota Bob\" Shaefer", "show": "Boys, The", "id": "boys_the_robert_dakota_bob_shaefer", "similarity": 1.0, "shared_tropes": 6}]}

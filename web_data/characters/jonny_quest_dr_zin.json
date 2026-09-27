@@ -1,16 +1,1 @@
-{
-  "name": "Dr. Zin",
-  "show": "Jonny Quest",
-  "trope_count": 8,
-  "tropes": [
-    "CallBack",
-    "VillainousBreakdown",
-    "ArchEnemy",
-    "MadScientist",
-    "WouldHurtAChild",
-    "BaldOfEvil",
-    "YellowPeril",
-    "PreemptiveThreatElimination"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Zin", "show": "Jonny Quest", "trope_count": 8, "tropes": ["CallBack", "VillainousBreakdown", "ArchEnemy", "MadScientist", "WouldHurtAChild", "BaldOfEvil", "YellowPeril", "PreemptiveThreatElimination"], "tropes_by_category": {}, "similar": [{"name": "Mantrid, Bio-Vizier to His Divine Shadow", "show": "Lexx", "id": "lexx_mantrid_bio_vizier_to_his_divine_shadow", "similarity": 0.1176, "shared_tropes": 4}, {"name": "The Cruel Veterinarian", "show": "Courage the Cowardly Dog", "id": "courage_the_cowardly_dog_the_cruel_veterinarian", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Dr. Hinelar", "show": "Denji Sentai Megaranger", "id": "denji_sentai_megaranger_dr_hinelar", "similarity": 0.0667, "shared_tropes": 4}, {"name": "SpaceGodzilla", "show": "Godzilla", "id": "godzilla_spacegodzilla", "similarity": 0.0444, "shared_tropes": 4}, {"name": "Lex Luthor", "show": "Superman & Lois", "id": "superman_and_lois_lex_luthor", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Schillinger", "show": "Oz", "id": "oz_schillinger", "similarity": 0.0412, "shared_tropes": 4}, {"name": "MECH", "show": "Transformers Prime", "id": "transformers_prime_mech", "similarity": 0.04, "shared_tropes": 5}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Bobby Badoing",
-  "show": "The Boys",
-  "trope_count": 4,
-  "tropes": [
-    "BlessedWithSuck",
-    "BigEater",
-    "WhatKindOfLamePowerIsHeartAnyway",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bobby Badoing", "show": "The Boys", "trope_count": 4, "tropes": ["BlessedWithSuck", "BigEater", "WhatKindOfLamePowerIsHeartAnyway", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Bobby Badoing", "show": "Boys, The", "id": "boys_the_bobby_badoing", "similarity": 1.0, "shared_tropes": 4}]}

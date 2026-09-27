@@ -1,15 +1,1 @@
-{
-  "name": "Mr. Trollheimer",
-  "show": "Trollz",
-  "trope_count": 7,
-  "tropes": [
-    "CoolOldGuy",
-    "HotTeacher",
-    "MentorArchetype",
-    "CoolTeacher",
-    "Really700YearsOld",
-    "TheSmartGuy",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Trollheimer", "show": "Trollz", "trope_count": 7, "tropes": ["CoolOldGuy", "HotTeacher", "MentorArchetype", "CoolTeacher", "Really700YearsOld", "TheSmartGuy", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Overworld Tribe", "show": "Chaotic", "id": "chaotic_overworld_tribe", "similarity": 0.0548, "shared_tropes": 4}]}

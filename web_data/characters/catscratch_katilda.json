@@ -1,17 +1,1 @@
-{
-  "name": "Katilda",
-  "show": "Catscratch",
-  "trope_count": 9,
-  "tropes": [
-    "SavvyGuyEnergeticGirl",
-    "ActorAllusion",
-    "HumanoidFemaleAnimal",
-    "GirlishPigtails",
-    "AccessoryWearingCartoonAnimal",
-    "TheBigGirl",
-    "TomboyAndGirlyGirl",
-    "TheSixthRanger",
-    "AlwaysSomeoneBetter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Katilda", "show": "Catscratch", "trope_count": 9, "tropes": ["SavvyGuyEnergeticGirl", "ActorAllusion", "HumanoidFemaleAnimal", "GirlishPigtails", "AccessoryWearingCartoonAnimal", "TheBigGirl", "TomboyAndGirlyGirl", "TheSixthRanger", "AlwaysSomeoneBetter"], "tropes_by_category": {}, "similar": [{"name": "Nova", "show": "Super Robot Monkey Team Hyperforce Go!", "id": "super_robot_monkey_team_hyperforce_go_nova", "similarity": 0.0476, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "The StarshipVoyager",
-  "show": "Star Trek",
-  "trope_count": 7,
-  "tropes": [
-    "FamedInStory",
-    "AbortedArc",
-    "UncertainDoom",
-    "CoolStarship",
-    "LegacyVesselNaming",
-    "RetiredBadass",
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The StarshipVoyager", "show": "Star Trek", "trope_count": 7, "tropes": ["FamedInStory", "AbortedArc", "UncertainDoom", "CoolStarship", "LegacyVesselNaming", "RetiredBadass", "HeroOfAnotherStory"], "tropes_by_category": {}, "similar": [{"name": "The StarshipEnterprise", "show": "Star Trek", "id": "star_trek_the_starshipenterprise", "similarity": 0.3333, "shared_tropes": 5}]}

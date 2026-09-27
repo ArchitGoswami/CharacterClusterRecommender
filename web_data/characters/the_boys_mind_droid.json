@@ -1,13 +1,1 @@
-{
-  "name": "Mind-Droid",
-  "show": "The Boys",
-  "trope_count": 5,
-  "tropes": [
-    "RidiculouslyHumanRobots",
-    "ScrewThisImOuttaHere",
-    "UselessUsefulSpell",
-    "FanDisservice",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mind-Droid", "show": "The Boys", "trope_count": 5, "tropes": ["RidiculouslyHumanRobots", "ScrewThisImOuttaHere", "UselessUsefulSpell", "FanDisservice", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Mind-Droid", "show": "Boys, The", "id": "boys_the_mind_droid", "similarity": 1.0, "shared_tropes": 5}]}

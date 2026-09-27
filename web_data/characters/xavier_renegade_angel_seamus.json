@@ -1,14 +1,1 @@
-{
-  "name": "Seamus",
-  "show": "Xavier, Renegade Angel",
-  "trope_count": 6,
-  "tropes": [
-    "TheAntichrist",
-    "HeelFaceTurn",
-    "SlasherSmile",
-    "EnfantTerrible",
-    "TroublingUnchildlikeBehavior",
-    "PedophilePriest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Seamus", "show": "Xavier, Renegade Angel", "trope_count": 7, "tropes": ["EnfantTerrible", "TheAntichrist", "SlasherSmile", "TroublingUnchildlikeBehavior", "PedophilePriest", "HeelFaceTurn", "LaserGuidedKarma"], "tropes_by_category": {}, "similar": [{"name": "BOB/Killer Bob", "show": "Twin Peaks", "id": "twin_peaks_bob_killer_bob", "similarity": 0.0435, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Paul",
-  "show": "Birdgirl",
-  "trope_count": 5,
-  "tropes": [
-    "CargoShip",
-    "CampGay",
-    "Fanboy",
-    "WhyDidItHaveToBeSnakes",
-    "AmbiguousGenderIdentity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paul", "show": "Birdgirl", "trope_count": 5, "tropes": ["CargoShip", "CampGay", "Fanboy", "WhyDidItHaveToBeSnakes", "AmbiguousGenderIdentity"], "tropes_by_category": {}, "similar": []}

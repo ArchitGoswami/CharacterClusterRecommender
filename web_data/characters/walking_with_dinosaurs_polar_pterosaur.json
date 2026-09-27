@@ -1,12 +1,1 @@
-{
-  "name": "Polar Pterosaur",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 4,
-  "tropes": [
-    "TheFaceless",
-    "WackyWaysideTribe",
-    "NoNameGiven",
-    "ReusedCharacterDesign"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Polar Pterosaur", "show": "Walking with Dinosaurs", "trope_count": 5, "tropes": ["FlyingSouthForTheWinter", "NoNameGiven", "LivingProp", "TheFaceless", "ReusedCharacterDesign"], "tropes_by_category": {}, "similar": []}

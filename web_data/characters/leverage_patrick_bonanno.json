@@ -1,14 +1,1 @@
-{
-  "name": "Patrick Bonanno",
-  "show": "Leverage",
-  "trope_count": 6,
-  "tropes": [
-    "EngineeredPublicConfession",
-    "WordOfGod",
-    "ReasonableAuthorityFigure",
-    "FriendOnTheForce",
-    "ContinuityNod",
-    "HeKnowsTooMuch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Patrick Bonanno", "show": "Leverage", "trope_count": 6, "tropes": ["EngineeredPublicConfession", "WordOfGod", "ReasonableAuthorityFigure", "FriendOnTheForce", "ContinuityNod", "HeKnowsTooMuch"], "tropes_by_category": {}, "similar": [{"name": "Erwin Smith", "show": "Attack on Titan", "id": "attack_on_titan_erwin_smith", "similarity": 0.0381, "shared_tropes": 4}]}

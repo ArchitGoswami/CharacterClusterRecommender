@@ -1,18 +1,1 @@
-{
-  "name": "Samuel Abrams",
-  "show": "Chicago Med",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "JerkWithAHeartOfGold",
-    "Expy",
-    "BrutalHonesty",
-    "TakeAThirdOption",
-    "MayDecemberRomance",
-    "DrJerk",
-    "HiddenDepths",
-    "OnlySaneMan",
-    "TheCynic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Samuel Abrams", "show": "Chicago Med", "trope_count": 10, "tropes": ["DeadpanSnarker", "JerkWithAHeartOfGold", "Expy", "BrutalHonesty", "TakeAThirdOption", "MayDecemberRomance", "DrJerk", "HiddenDepths", "OnlySaneMan", "TheCynic"], "tropes_by_category": {}, "similar": [{"name": "Dr. John Becker", "show": "Becker", "id": "becker_dr_john_becker", "similarity": 0.2174, "shared_tropes": 5}, {"name": "Albert Rosenfield", "show": "Twin Peaks", "id": "twin_peaks_albert_rosenfield", "similarity": 0.1724, "shared_tropes": 5}, {"name": "Heather Davis", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_heather_davis", "similarity": 0.1562, "shared_tropes": 5}, {"name": "Mr. McKenzie", "show": "Inbetweeners, The", "id": "inbetweeners_the_mr_mckenzie", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Dr. Knox", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_dr_knox", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Jennifer Barkley", "show": "Parks and Recreation", "id": "parks_and_recreation_jennifer_barkley", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Jay Pritchett", "show": "Modern Family", "id": "modern_family_jay_pritchett", "similarity": 0.1071, "shared_tropes": 6}, {"name": "Meredith Sulez", "show": "The Vampire Diaries", "id": "the_vampire_diaries_meredith_sulez", "similarity": 0.1053, "shared_tropes": 4}]}

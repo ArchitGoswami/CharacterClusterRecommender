@@ -1,16 +1,1 @@
-{
-  "name": "SharkBot",
-  "show": "Street Sharks",
-  "trope_count": 8,
-  "tropes": [
-    "ArmCannon",
-    "ThisIsADrill",
-    "ChuckCunninghamSyndrome",
-    "ChainsawGood",
-    "RobotMe",
-    "RoboticPsychopath",
-    "EvilTwin",
-    "ThirdPersonPerson"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "SharkBot", "show": "Street Sharks", "trope_count": 8, "tropes": ["ArmCannon", "ThisIsADrill", "ChuckCunninghamSyndrome", "ChainsawGood", "RobotMe", "RoboticPsychopath", "EvilTwin", "ThirdPersonPerson"], "tropes_by_category": {}, "similar": []}

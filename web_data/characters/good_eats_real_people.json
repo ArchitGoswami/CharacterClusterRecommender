@@ -1,16 +1,1 @@
-{
-  "name": "Real people",
-  "show": "Good Eats",
-  "trope_count": 8,
-  "tropes": [
-    "NoFourthWall",
-    "StalkerWithACrush",
-    "RunningGag",
-    "DropInCharacter",
-    "CelebrityParadox",
-    "SpeakOfTheDevil",
-    "StraightMan",
-    "NotActuallyTheUltimateQuestion"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Real people", "show": "Good Eats", "trope_count": 8, "tropes": ["NoFourthWall", "StalkerWithACrush", "RunningGag", "DropInCharacter", "CelebrityParadox", "SpeakOfTheDevil", "StraightMan", "NotActuallyTheUltimateQuestion"], "tropes_by_category": {}, "similar": [{"name": "Craig Pelton", "show": "Community", "id": "community_craig_pelton", "similarity": 0.0606, "shared_tropes": 4}]}

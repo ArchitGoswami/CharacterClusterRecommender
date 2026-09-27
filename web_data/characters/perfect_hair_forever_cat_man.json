@@ -1,15 +1,1 @@
-{
-  "name": "Cat Man",
-  "show": "Perfect Hair Forever",
-  "trope_count": 7,
-  "tropes": [
-    "BFG",
-    "MinionWithAnFInEvil",
-    "CatGirl",
-    "CatsAreMean",
-    "PunchClockVillain",
-    "OnlySaneMan",
-    "HelpfulMook"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cat Man", "show": "Perfect Hair Forever", "trope_count": 7, "tropes": ["BFG", "MinionWithAnFInEvil", "CatGirl", "CatsAreMean", "PunchClockVillain", "OnlySaneMan", "HelpfulMook"], "tropes_by_category": {}, "similar": [{"name": "Cheetah", "show": "Justice League", "id": "justice_league_cheetah", "similarity": 0.044, "shared_tropes": 4}, {"name": "Cheetah", "show": "Justice League Unlimited", "id": "justice_league_unlimited_cheetah", "similarity": 0.044, "shared_tropes": 4}]}

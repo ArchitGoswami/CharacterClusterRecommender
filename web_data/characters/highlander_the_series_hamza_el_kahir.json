@@ -1,18 +1,1 @@
-{
-  "name": "Hamza el Kahir",
-  "show": "Highlander: The Series",
-  "trope_count": 10,
-  "tropes": [
-    "HeroicSacrifice",
-    "ScrewThisImOuttaHere",
-    "ReligiousBruiser",
-    "KnowWhenToFoldEm",
-    "TheTeetotaler",
-    "MentorOccupationalHazard",
-    "UnknownRival",
-    "VitriolicBestBuds",
-    "FaceDeathWithDignity",
-    "AlwaysSomeoneBetter"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hamza el Kahir", "show": "Highlander: The Series", "trope_count": 10, "tropes": ["HeroicSacrifice", "ScrewThisImOuttaHere", "ReligiousBruiser", "KnowWhenToFoldEm", "TheTeetotaler", "MentorOccupationalHazard", "UnknownRival", "VitriolicBestBuds", "FaceDeathWithDignity", "AlwaysSomeoneBetter"], "tropes_by_category": {}, "similar": [{"name": "Third Hokage - Hiruzen Sarutobi", "show": "Naruto", "id": "naruto_third_hokage_hiruzen_sarutobi", "similarity": 0.036, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Miss Argentina",
-  "show": "Beetlejuice",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "SequelNonEntity",
-    "ServileSnarker",
-    "UndeathlyPallor",
-    "BeleagueredBureaucrat",
-    "DrivenToSuicide",
-    "OnlyKnownByTheirNickname",
-    "FreezeFrameBonus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Miss Argentina", "show": "Beetlejuice", "trope_count": 10, "tropes": ["StepfordSmiler", "MinorCharacterMajorSong", "AscendedExtra", "DrivenToSuicide", "AdaptationalNiceGuy", "SignificantDoubleCasting", "GratuitousSpanish", "AfterlifeAngst", "BigSisterInstinct", "Foil"], "tropes_by_category": {}, "similar": [{"name": "Delia", "show": "Beetlejuice", "id": "beetlejuice_delia", "similarity": 0.1667, "shared_tropes": 4}]}

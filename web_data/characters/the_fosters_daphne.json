@@ -1,13 +1,1 @@
-{
-  "name": "Daphne",
-  "show": "The Fosters",
-  "trope_count": 5,
-  "tropes": [
-    "WhatTheHellHero",
-    "ReformedCriminal",
-    "AbsurdlyYouthfulMother",
-    "ParentsAsPeople",
-    "SassyBlackWoman"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Daphne", "show": "The Fosters", "trope_count": 5, "tropes": ["WhatTheHellHero", "ReformedCriminal", "AbsurdlyYouthfulMother", "ParentsAsPeople", "SassyBlackWoman"], "tropes_by_category": {}, "similar": []}

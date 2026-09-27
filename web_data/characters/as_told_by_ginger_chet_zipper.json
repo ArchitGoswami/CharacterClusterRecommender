@@ -1,18 +1,1 @@
-{
-  "name": "Chet Zipper",
-  "show": "As Told by Ginger",
-  "trope_count": 10,
-  "tropes": [
-    "LikeParentLikeSpouse",
-    "RealisticDictionIsUnrealistic",
-    "PairTheSpares",
-    "YoungerThanTheyLook",
-    "OOCIsSeriousBusiness",
-    "HiddenDepths",
-    "TheStoic",
-    "DullSurprise",
-    "GeekPhysiques",
-    "FatIdiot"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chet Zipper", "show": "As Told by Ginger", "trope_count": 13, "tropes": ["DistantFinale", "DullSurprise", "OOCIsSeriousBusiness", "HiddenDepths", "PairTheSpares", "FatIdiot", "GeekPhysiques", "BabiesEverAfter", "RealisticDictionIsUnrealistic", "YouthfulFreckles", "LikeParentLikeSpouse", "TheStoic", "YoungerThanTheyLook"], "tropes_by_category": {}, "similar": [{"name": "Kent", "show": "Veep", "id": "veep_kent", "similarity": 0.082, "shared_tropes": 5}, {"name": "Wade Load", "show": "Kim Possible", "id": "kim_possible_wade_load", "similarity": 0.08, "shared_tropes": 4}, {"name": "Luna Loud", "show": "Loud House, The", "id": "loud_house_the_luna_loud", "similarity": 0.0519, "shared_tropes": 4}, {"name": "April Ludgate", "show": "Parks and Recreation", "id": "parks_and_recreation_april_ludgate", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Muscle Man", "show": "Regular Show", "id": "regular_show_muscle_man", "similarity": 0.0423, "shared_tropes": 6}, {"name": "Lucy L. Loud", "show": "Loud House, The", "id": "loud_house_the_lucy_l_loud", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Choji Akimichi", "show": "Naruto", "id": "naruto_choji_akimichi", "similarity": 0.0385, "shared_tropes": 4}]}

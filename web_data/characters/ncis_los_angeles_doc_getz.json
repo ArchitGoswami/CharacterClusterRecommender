@@ -1,16 +1,1 @@
-{
-  "name": "Doc Getz",
-  "show": "NCIS: Los Angeles",
-  "trope_count": 8,
-  "tropes": [
-    "ADayInTheLimelight",
-    "TookALevelInBadass",
-    "CommutingOnABus",
-    "PutOnABus",
-    "NonActionGuy",
-    "HiddenDepths",
-    "TheProfiler",
-    "PlayedForLaughs"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Doc Getz", "show": "NCIS: Los Angeles", "trope_count": 8, "tropes": ["ADayInTheLimelight", "TookALevelInBadass", "CommutingOnABus", "PutOnABus", "NonActionGuy", "HiddenDepths", "TheProfiler", "PlayedForLaughs"], "tropes_by_category": {}, "similar": [{"name": "Sister", "show": "Red vs Blue", "id": "red_vs_blue_sister", "similarity": 0.0421, "shared_tropes": 4}, {"name": "Jerry Smith", "show": "Rick and Morty", "id": "rick_and_morty_jerry_smith", "similarity": 0.0385, "shared_tropes": 5}]}

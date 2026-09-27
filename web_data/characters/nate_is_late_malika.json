@@ -1,15 +1,1 @@
-{
-  "name": "Malika",
-  "show": "Nate is Late",
-  "trope_count": 7,
-  "tropes": [
-    "ActionGirl",
-    "NotSoAboveItAll",
-    "InTheHood",
-    "PassionateSportsGirl",
-    "SecretLegacy",
-    "LettingHerHairDown",
-    "StraightMan"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Malika", "show": "Nate is Late", "trope_count": 7, "tropes": ["ActionGirl", "NotSoAboveItAll", "InTheHood", "PassionateSportsGirl", "SecretLegacy", "LettingHerHairDown", "StraightMan"], "tropes_by_category": {}, "similar": [{"name": "Ralph and Melissa Raccoon", "show": "Raccoons, The", "id": "raccoons_the_ralph_and_melissa_raccoon", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Melissa Chase", "show": "Milo Murphy's Law", "id": "milo_murphys_law_melissa_chase", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Jennifer Ann \"Moze\" Mosely", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_jennifer_ann_moze_mosely", "similarity": 0.0435, "shared_tropes": 4}]}

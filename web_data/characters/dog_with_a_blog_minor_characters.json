@@ -1,17 +1,1 @@
-{
-  "name": "Minor Characters",
-  "show": "Dog With A Blog",
-  "trope_count": 9,
-  "tropes": [
-    "TheScream",
-    "SadisticChoice",
-    "TheDreaded",
-    "ILied",
-    "MadScientist",
-    "TalkingAnimal",
-    "WouldHurtAChild",
-    "AvertedTrope",
-    "HoistByHisOwnPetard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Minor Characters", "show": "Dog With A Blog", "trope_count": 9, "tropes": ["TheScream", "SadisticChoice", "TheDreaded", "ILied", "MadScientist", "TalkingAnimal", "WouldHurtAChild", "AvertedTrope", "HoistByHisOwnPetard"], "tropes_by_category": {}, "similar": [{"name": "The Huntsman (Huntsmaster)", "show": "American Dragon: Jake Long", "id": "american_dragon_jake_long_the_huntsman_huntsmaster", "similarity": 0.0467, "shared_tropes": 5}]}

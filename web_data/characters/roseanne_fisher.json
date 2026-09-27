@@ -1,16 +1,1 @@
-{
-  "name": "Fisher",
-  "show": "Roseanne",
-  "trope_count": 8,
-  "tropes": [
-    "WouldHitAGirl",
-    "BewareOfTheNiceOnes",
-    "VerySpecialEpisode",
-    "NiceGuy",
-    "FriendToAllChildren",
-    "DomesticAbuse",
-    "OnlyOneName",
-    "AgeGapRomance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fisher", "show": "Roseanne", "trope_count": 8, "tropes": ["WouldHitAGirl", "BewareOfTheNiceOnes", "VerySpecialEpisode", "NiceGuy", "FriendToAllChildren", "DomesticAbuse", "OnlyOneName", "AgeGapRomance"], "tropes_by_category": {}, "similar": [{"name": "Fisher", "show": "Conners, The", "id": "conners_the_fisher", "similarity": 1.0, "shared_tropes": 8}]}

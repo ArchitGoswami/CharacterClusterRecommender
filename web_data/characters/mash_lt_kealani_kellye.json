@@ -1,17 +1,1 @@
-{
-  "name": "Lt. Kealani Kellye",
-  "show": "M*A*S*H",
-  "trope_count": 9,
-  "tropes": [
-    "ADayInTheLimelight",
-    "DudeWheresMyRespect",
-    "SuddenNameChange",
-    "GirlishPigtails",
-    "TheDanza",
-    "JerkAss",
-    "HiddenDepths",
-    "AlliterativeName",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lt. Kealani Kellye", "show": "M*A*S*H", "trope_count": 9, "tropes": ["ADayInTheLimelight", "DudeWheresMyRespect", "SuddenNameChange", "GirlishPigtails", "TheDanza", "JerkAss", "HiddenDepths", "AlliterativeName", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Jackie Aprile Jr.", "show": "Sopranos,The", "id": "sopranosthe_jackie_aprile_jr", "similarity": 0.0374, "shared_tropes": 4}, {"name": "Jackie Aprile Jr.", "show": "The Sopranos", "id": "the_sopranos_jackie_aprile_jr", "similarity": 0.0374, "shared_tropes": 4}]}

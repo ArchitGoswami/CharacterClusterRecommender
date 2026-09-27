@@ -1,13 +1,1 @@
-{
-  "name": "Theda Funnie",
-  "show": "Doug",
-  "trope_count": 5,
-  "tropes": [
-    "AmazinglyEmbarrassingParents",
-    "HappilyMarried",
-    "GoodParents",
-    "HiddenDepths",
-    "FullNameUltimatum"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Theda Funnie", "show": "Doug", "trope_count": 5, "tropes": ["AmazinglyEmbarrassingParents", "HappilyMarried", "GoodParents", "HiddenDepths", "FullNameUltimatum"], "tropes_by_category": {}, "similar": [{"name": "Phil Funnie", "show": "Doug", "id": "doug_phil_funnie", "similarity": 0.3333, "shared_tropes": 4}, {"name": "Judy Neutron", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_judy_neutron", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Leela's Family", "show": "Futurama", "id": "futurama_leela_s_family", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Rafael and Angie Diaz", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_rafael_and_angie_diaz", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Bee and Oum Boonchuy", "show": "Amphibia", "id": "amphibia_bee_and_oum_boonchuy", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Linda Flynn-Fletcher and Lawrence Fletcher", "show": "Phineas and Ferb", "id": "phineas_and_ferb_linda_flynn_fletcher_and_lawrence_fletcher", "similarity": 0.0727, "shared_tropes": 4}]}

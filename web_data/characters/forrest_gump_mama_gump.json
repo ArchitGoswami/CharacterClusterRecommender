@@ -1,15 +1,1 @@
-{
-  "name": "Mama Gump",
-  "show": "Forrest Gump",
-  "trope_count": 7,
-  "tropes": [
-    "EstablishingCharacterMoment",
-    "UnnamedParent",
-    "WhoNamesTheirKidDude",
-    "GoodParents",
-    "HowTheyTreatTheHelp",
-    "MamaBear",
-    "FaceDeathWithDignity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mama Gump", "show": "Forrest Gump", "trope_count": 7, "tropes": ["EstablishingCharacterMoment", "UnnamedParent", "WhoNamesTheirKidDude", "GoodParents", "HowTheyTreatTheHelp", "MamaBear", "FaceDeathWithDignity"], "tropes_by_category": {}, "similar": [{"name": "Violet Crawley", "show": "Downton Abbey", "id": "downton_abbey_violet_crawley", "similarity": 0.0526, "shared_tropes": 4}]}

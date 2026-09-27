@@ -1,17 +1,1 @@
-{
-  "name": "Lepidus",
-  "show": "Rome",
-  "trope_count": 9,
-  "tropes": [
-    "AdaptationalWimp",
-    "AFatherToHisMen",
-    "PoliticallyIncorrectVillain",
-    "GeneralFailure",
-    "PutOnABus",
-    "NumberTwo",
-    "KickedUpstairs",
-    "OvershadowedByAwesome",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lepidus", "show": "Rome", "trope_count": 9, "tropes": ["AdaptationalWimp", "AFatherToHisMen", "PoliticallyIncorrectVillain", "GeneralFailure", "PutOnABus", "NumberTwo", "KickedUpstairs", "OvershadowedByAwesome", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "John Bosley", "show": "Charlie's Angels", "id": "charlies_angels_john_bosley", "similarity": 0.1905, "shared_tropes": 4}]}

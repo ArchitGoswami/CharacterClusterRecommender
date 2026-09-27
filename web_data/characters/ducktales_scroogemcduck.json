@@ -1,12 +1,1 @@
-{
-  "name": "ScroogeMcDuck",
-  "show": "DuckTales",
-  "trope_count": 4,
-  "tropes": [
-    "VainSorceress",
-    "Flashback",
-    "Verse",
-    "Rival"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "ScroogeMcDuck", "show": "DuckTales", "trope_count": 4, "tropes": ["VainSorceress", "Flashback", "Verse", "Rival"], "tropes_by_category": {}, "similar": []}

@@ -1,14 +1,1 @@
-{
-  "name": "Charlie Todd",
-  "show": "Dawson's Creek",
-  "trope_count": 6,
-  "tropes": [
-    "MrFanservice",
-    "SuspiciouslySimilarSubstitute",
-    "LadykillerInLove",
-    "VitriolicBestBuds",
-    "TheWoobie",
-    "SatelliteLoveInterest"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charlie Todd", "show": "Dawson's Creek", "trope_count": 6, "tropes": ["MrFanservice", "SuspiciouslySimilarSubstitute", "LadykillerInLove", "VitriolicBestBuds", "TheWoobie", "SatelliteLoveInterest"], "tropes_by_category": {}, "similar": []}

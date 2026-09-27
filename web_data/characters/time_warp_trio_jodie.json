@@ -1,16 +1,1 @@
-{
-  "name": "Jodie",
-  "show": "Time Warp Trio",
-  "trope_count": 8,
-  "tropes": [
-    "TheLeader",
-    "SpoiledBrat",
-    "PetTheDog",
-    "TownGirls",
-    "TheAce",
-    "HeterosexualLifePartners",
-    "CoolBigSis",
-    "TwoFirstNames"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jodie", "show": "Time Warp Trio", "trope_count": 8, "tropes": ["TheLeader", "SpoiledBrat", "PetTheDog", "TownGirls", "TheAce", "HeterosexualLifePartners", "CoolBigSis", "TwoFirstNames"], "tropes_by_category": {}, "similar": [{"name": "Keigo Atobe", "show": "Prince of Tennis", "id": "prince_of_tennis_keigo_atobe", "similarity": 0.08, "shared_tropes": 4}, {"name": "Reggie Mantle", "show": "Riverdale", "id": "riverdale_reggie_mantle", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Trina Vega", "show": "Victorious", "id": "victorious_trina_vega", "similarity": 0.0354, "shared_tropes": 4}]}

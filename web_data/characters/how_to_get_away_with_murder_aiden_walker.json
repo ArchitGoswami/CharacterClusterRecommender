@@ -1,17 +1,1 @@
-{
-  "name": "Aiden Walker",
-  "show": "How to get away with murder",
-  "trope_count": 9,
-  "tropes": [
-    "Blackmail",
-    "LousyLoversAreLosers",
-    "Jerkass",
-    "SituationalSexuality",
-    "NiceGuy",
-    "UptownGuy",
-    "OldFriend",
-    "DisproportionateRetribution",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Aiden Walker", "show": "How to get away with murder", "trope_count": 9, "tropes": ["Blackmail", "LousyLoversAreLosers", "Jerkass", "SituationalSexuality", "NiceGuy", "UptownGuy", "OldFriend", "DisproportionateRetribution", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "Michael Bluth", "show": "Arrested Development", "id": "arrested_development_michael_bluth", "similarity": 0.0541, "shared_tropes": 4}]}

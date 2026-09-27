@@ -1,16 +1,1 @@
-{
-  "name": "Mr Charles Bingley",
-  "show": "Pride and Prejudice",
-  "trope_count": 8,
-  "tropes": [
-    "LoveAtFirstSight",
-    "BirdsOfAFeather",
-    "NiceGuy",
-    "OddCouple",
-    "TokenGoodTeammate",
-    "HeterosexualLifePartners",
-    "PerpetualSmiler",
-    "ExtremeDoormat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr Charles Bingley", "show": "Pride and Prejudice", "trope_count": 8, "tropes": ["LoveAtFirstSight", "BirdsOfAFeather", "NiceGuy", "OddCouple", "TokenGoodTeammate", "HeterosexualLifePartners", "PerpetualSmiler", "ExtremeDoormat"], "tropes_by_category": {}, "similar": [{"name": "Chase Matthews", "show": "Zoey 101", "id": "zoey_101_chase_matthews", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Hi-Five Ghost", "show": "Regular Show", "id": "regular_show_hi_five_ghost", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Wayne Rigsby", "show": "Mentalist, The", "id": "mentalist_the_wayne_rigsby", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Chris Pearson", "show": "Dan Vs.", "id": "dan_vs_chris_pearson", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Jacob Hill", "show": "Abbott Elementary", "id": "abbott_elementary_jacob_hill", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Ben Wyatt", "show": "Parks and Recreation", "id": "parks_and_recreation_ben_wyatt", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Karamatsu Matsuno", "show": "Osomatsu-san", "id": "osomatsu_san_karamatsu_matsuno", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Stimpson \"Stimpy\" J. Cat", "show": "Ren & Stimpy \"Adult Party Cartoon\"", "id": "ren_and_stimpy_adult_party_cartoon_stimpson_stimpy_j_cat", "similarity": 0.04, "shared_tropes": 5}]}

@@ -1,15 +1,1 @@
-{
-  "name": "Colonel Douglas Stowe",
-  "show": "Banshee",
-  "trope_count": 7,
-  "tropes": [
-    "BigBad",
-    "OneManArmy",
-    "AxCrazy",
-    "StealingFromThieves",
-    "Determinator",
-    "GeniusBruiser",
-    "FromCamouflageToCriminal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Colonel Douglas Stowe", "show": "Banshee", "trope_count": 7, "tropes": ["BigBad", "OneManArmy", "AxCrazy", "StealingFromThieves", "Determinator", "GeniusBruiser", "FromCamouflageToCriminal"], "tropes_by_category": {}, "similar": [{"name": "Gorilla Grodd", "show": "Flash, The", "id": "flash_the_gorilla_grodd", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Gorilla Grodd", "show": "The Flash", "id": "the_flash_gorilla_grodd", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Zodd", "show": "Berserk", "id": "berserk_zodd", "similarity": 0.0417, "shared_tropes": 4}]}

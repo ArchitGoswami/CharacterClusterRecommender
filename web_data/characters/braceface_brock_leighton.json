@@ -1,18 +1,1 @@
-{
-  "name": "Brock Leighton",
-  "show": "Braceface",
-  "trope_count": 10,
-  "tropes": [
-    "CasanovaWannabe",
-    "OfficialCouple",
-    "WellDoneSonGuy",
-    "ClassClown",
-    "WithFriendsLikeThese",
-    "CoolShades",
-    "KindheartedCatLover",
-    "GarageBand",
-    "InsecureLoveInterest",
-    "LastNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Brock Leighton", "show": "Braceface", "trope_count": 10, "tropes": ["CasanovaWannabe", "OfficialCouple", "WellDoneSonGuy", "ClassClown", "WithFriendsLikeThese", "CoolShades", "KindheartedCatLover", "GarageBand", "InsecureLoveInterest", "LastNameBasis"], "tropes_by_category": {}, "similar": [{"name": "Schmidt", "show": "New Girl", "id": "new_girl_schmidt", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0364, "shared_tropes": 4}]}

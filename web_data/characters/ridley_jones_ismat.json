@@ -1,18 +1,1 @@
-{
-  "name": "Ismat",
-  "show": "Ridley Jones",
-  "trope_count": 10,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "SpoiledSweet",
-    "TokenHuman",
-    "TomboyAndGirlyGirl",
-    "GirlyGirl",
-    "DownPlayed",
-    "VitriolicBestBuds",
-    "RoyalsWhoActuallyDoSomething",
-    "RoyalBrat",
-    "WhyDidItHaveToBeSnakes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ismat", "show": "Ridley Jones", "trope_count": 10, "tropes": ["JerkWithAHeartOfGold", "SpoiledSweet", "TokenHuman", "TomboyAndGirlyGirl", "GirlyGirl", "DownPlayed", "VitriolicBestBuds", "RoyalsWhoActuallyDoSomething", "RoyalBrat", "WhyDidItHaveToBeSnakes"], "tropes_by_category": {}, "similar": [{"name": "Eva", "show": "America's Next Top Model", "id": "americas_next_top_model_eva", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Rosie", "show": "Caillou", "id": "caillou_rosie", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Emily Leduc", "show": "Arthur", "id": "arthur_emily_leduc", "similarity": 0.1, "shared_tropes": 4}, {"name": "Courtney Gripling", "show": "As Told by Ginger", "id": "as_told_by_ginger_courtney_gripling", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Mary Alice \"Muffy\" Crosswire", "show": "Arthur", "id": "arthur_mary_alice_muffy_crosswire", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Main Characters", "show": "Hi Hi Puffy AmiYumi", "id": "hi_hi_puffy_amiyumi_main_characters", "similarity": 0.0625, "shared_tropes": 5}, {"name": "Emma Ross", "show": "Jessie", "id": "jessie_emma_ross", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Amy Rose", "show": "Sonic X", "id": "sonic_x_amy_rose", "similarity": 0.0541, "shared_tropes": 4}]}

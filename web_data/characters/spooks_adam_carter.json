@@ -1,16 +1,1 @@
-{
-  "name": "Adam Carter",
-  "show": "Spooks",
-  "trope_count": 8,
-  "tropes": [
-    "HeroicSacrifice",
-    "SurvivorGuilt",
-    "HeroicBSOD",
-    "SuspiciouslySimilarSubstitute",
-    "TheAce",
-    "TortureTechnician",
-    "BrokenAce",
-    "WigDressAccent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Adam Carter", "show": "Spooks", "trope_count": 8, "tropes": ["HeroicSacrifice", "SurvivorGuilt", "HeroicBSOD", "SuspiciouslySimilarSubstitute", "TheAce", "TortureTechnician", "BrokenAce", "WigDressAccent"], "tropes_by_category": {}, "similar": [{"name": "Shisui Uchiha", "show": "Naruto", "id": "naruto_shisui_uchiha", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Billie Jenkins", "show": "Charmed", "id": "charmed_billie_jenkins", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Drew Torres", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_drew_torres", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Daniel Shaw", "show": "Chuck", "id": "chuck_daniel_shaw", "similarity": 0.0556, "shared_tropes": 4}]}

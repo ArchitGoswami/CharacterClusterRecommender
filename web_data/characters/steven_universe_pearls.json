@@ -1,17 +1,1 @@
-{
-  "name": "Pearls",
-  "show": "Steven Universe",
-  "trope_count": 9,
-  "tropes": [
-    "DaintyLittleBalletDancers",
-    "StandardHeroReward",
-    "GagNose",
-    "NoodlePeople",
-    "BeautifulSlaveGirl",
-    "UncattyResemblance",
-    "PersonOfHolding",
-    "ServantRace",
-    "GeniusLoci"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pearls", "show": "Steven Universe", "trope_count": 10, "tropes": ["NoodlePeople", "PersonOfHolding", "InformedAttribute", "GagNose", "GeniusLoci", "ServantRace", "StandardHeroReward", "UncattyResemblance", "BeautifulSlaveGirl", "DaintyLittleBalletDancers"], "tropes_by_category": {}, "similar": []}

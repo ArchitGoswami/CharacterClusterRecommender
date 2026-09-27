@@ -1,11 +1,1 @@
-{
-  "name": "Bubble Puppy",
-  "show": "Bubble Guppies",
-  "trope_count": 3,
-  "tropes": [
-    "RidiculouslyCuteCritter",
-    "BewitchedAmphibians",
-    "ForcedTransformation"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bubble Puppy", "show": "Bubble Guppies", "trope_count": 3, "tropes": ["RidiculouslyCuteCritter", "BewitchedAmphibians", "ForcedTransformation"], "tropes_by_category": {}, "similar": []}

@@ -1,18 +1,1 @@
-{
-  "name": "Diana Davis",
-  "show": "Sliders",
-  "trope_count": 10,
-  "tropes": [
-    "HeelFaceTurn",
-    "BlackAndNerdy",
-    "BookSmart",
-    "SuspiciouslySimilarSubstitute",
-    "MadScientist",
-    "AlliterativeName",
-    "TomboyAndGirlyGirl",
-    "BreakTheCutie",
-    "DitzyGenius",
-    "SheCleansUpNicely"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Diana Davis", "show": "Sliders", "trope_count": 10, "tropes": ["HeelFaceTurn", "BlackAndNerdy", "BookSmart", "SuspiciouslySimilarSubstitute", "MadScientist", "AlliterativeName", "TomboyAndGirlyGirl", "BreakTheCutie", "DitzyGenius", "SheCleansUpNicely"], "tropes_by_category": {}, "similar": [{"name": "Quinn Pensky", "show": "Zoey 101", "id": "zoey_101_quinn_pensky", "similarity": 0.0943, "shared_tropes": 5}, {"name": "Riley Matthews", "show": "Girl Meets World", "id": "girl_meets_world_riley_matthews", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Simon \"Cookie\" Nelson-Cook", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_simon_cookie_nelson_cook", "similarity": 0.069, "shared_tropes": 4}, {"name": "Simon Nelson \"Cookie\" Cook", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_simon_nelson_cookie_cook", "similarity": 0.069, "shared_tropes": 4}, {"name": "Lunella Lafayette/Moon Girl", "show": "Moon Girl & Devil Dinosaur", "id": "moon_girl_and_devil_dinosaur_lunella_lafayette_moon_girl", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Nina Einstein", "show": "Code Geass", "id": "code_geass_nina_einstein", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Jess", "show": "New Girl", "id": "new_girl_jess", "similarity": 0.041, "shared_tropes": 5}]}

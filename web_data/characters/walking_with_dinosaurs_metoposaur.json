@@ -1,12 +1,1 @@
-{
-  "name": "Metoposaur",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 4,
-  "tropes": [
-    "WackyWaysideTribe",
-    "EndOfAnAge",
-    "AmphibianAtLarge",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Metoposaur", "show": "Walking with Dinosaurs", "trope_count": 4, "tropes": ["WackyWaysideTribe", "EndOfAnAge", "AmphibianAtLarge", "NoNameGiven"], "tropes_by_category": {}, "similar": []}

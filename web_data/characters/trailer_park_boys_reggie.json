@@ -1,13 +1,1 @@
-{
-  "name": "Reggie",
-  "show": "Trailer Park Boys",
-  "trope_count": 5,
-  "tropes": [
-    "CoolOldGuy",
-    "IKnowMaddenKombat",
-    "SirSwearsAlot",
-    "AmbiguousSituation",
-    "BestialityIsDepraved"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Reggie", "show": "Trailer Park Boys", "trope_count": 5, "tropes": ["CoolOldGuy", "IKnowMaddenKombat", "SirSwearsAlot", "AmbiguousSituation", "BestialityIsDepraved"], "tropes_by_category": {}, "similar": []}

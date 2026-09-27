@@ -1,11 +1,1 @@
-{
-  "name": "Jillian Vegan",
-  "show": "Johnny Test",
-  "trope_count": 3,
-  "tropes": [
-    "PrecociousCrush",
-    "RebelliousPrincess",
-    "HumanAliens"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jillian Vegan", "show": "Johnny Test", "trope_count": 5, "tropes": ["HumanAliens", "PrecociousCrush", "AliensSpeakingEnglish", "DeadpanSnarker", "RebelliousPrincess"], "tropes_by_category": {}, "similar": []}

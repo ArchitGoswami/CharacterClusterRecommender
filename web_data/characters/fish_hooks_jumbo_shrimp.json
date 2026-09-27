@@ -1,13 +1,1 @@
-{
-  "name": "Jumbo Shrimp",
-  "show": "Fish Hooks",
-  "trope_count": 5,
-  "tropes": [
-    "OfficialCouple",
-    "NiceGuy",
-    "HeterosexualLifePartners",
-    "TheSmartGuy",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jumbo Shrimp", "show": "Fish Hooks", "trope_count": 5, "tropes": ["OfficialCouple", "NiceGuy", "HeterosexualLifePartners", "TheSmartGuy", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Billy Katagiri", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_billy_katagiri", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Tails", "show": "Sonic Boom", "id": "sonic_boom_tails", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Zane", "show": "Ninjago", "id": "ninjago_zane", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Lopez", "show": "Red vs Blue", "id": "red_vs_blue_lopez", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Shawn", "show": "Total Drama", "id": "total_drama_shawn", "similarity": 0.0408, "shared_tropes": 4}, {"name": "Team Avatar", "show": "Avatar: The Last Airbender", "id": "avatar_the_last_airbender_team_avatar", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0381, "shared_tropes": 4}, {"name": "Phineas Flynn", "show": "Phineas and Ferb", "id": "phineas_and_ferb_phineas_flynn", "similarity": 0.0381, "shared_tropes": 4}]}

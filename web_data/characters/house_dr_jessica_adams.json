@@ -1,15 +1,1 @@
-{
-  "name": "Dr. Jessica Adams",
-  "show": "House",
-  "trope_count": 7,
-  "tropes": [
-    "TheGenericGirl",
-    "BrainyBrunette",
-    "SuspiciouslySimilarSubstitute",
-    "BerserkButton",
-    "WomanScorned",
-    "JackOfAllTrades",
-    "LastNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Jessica Adams", "show": "House", "trope_count": 7, "tropes": ["TheGenericGirl", "BrainyBrunette", "SuspiciouslySimilarSubstitute", "BerserkButton", "WomanScorned", "JackOfAllTrades", "LastNameBasis"], "tropes_by_category": {}, "similar": []}

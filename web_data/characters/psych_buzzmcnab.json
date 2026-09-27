@@ -1,16 +1,1 @@
-{
-  "name": "BuzzMcNab",
-  "show": "Psych",
-  "trope_count": 8,
-  "tropes": [
-    "ShipperOnDeck",
-    "FairCop",
-    "NiceGuy",
-    "DownplayedTrope",
-    "SarcasmMode",
-    "BunnyEarsLawyer",
-    "MeaningfulName",
-    "SincerityMode"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "BuzzMcNab", "show": "Psych", "trope_count": 8, "tropes": ["ShipperOnDeck", "FairCop", "NiceGuy", "DownplayedTrope", "SarcasmMode", "BunnyEarsLawyer", "MeaningfulName", "SincerityMode"], "tropes_by_category": {}, "similar": [{"name": "Erwin Sikowitz", "show": "Victorious", "id": "victorious_erwin_sikowitz", "similarity": 0.125, "shared_tropes": 4}, {"name": "Maes Hughes", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_maes_hughes", "similarity": 0.069, "shared_tropes": 4}, {"name": "Dr. Henry Killinger", "show": "Venture Bros., The", "id": "venture_bros_the_dr_henry_killinger", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Mung Daal", "show": "Chowder", "id": "chowder_mung_daal", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Cameron Howe", "show": "Halt & Catch Fire", "id": "halt_and_catch_fire_cameron_howe", "similarity": 0.0506, "shared_tropes": 4}]}

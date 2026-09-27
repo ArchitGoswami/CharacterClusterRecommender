@@ -1,11 +1,1 @@
-{
-  "name": "Carrie Ingalls",
-  "show": "Little House on the Prairie",
-  "trope_count": 3,
-  "tropes": [
-    "ShrinkingViolet",
-    "CoolBigSis",
-    "DelicateAndSickly"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carrie Ingalls", "show": "Little House on the Prairie", "trope_count": 14, "tropes": ["ChildrenAreInnocent", "KiddieKid", "DelicateAndSickly", "PutOnABus", "DemotedToExtra", "OneSteveLimit", "OutOfFocus", "CheerfulChild", "AbledInTheAdaptation", "TheCutie", "GirlishPigtails", "AgeLift", "IntelligibleUnintelligible", "BabyTalk"], "tropes_by_category": {}, "similar": [{"name": "Grace Ingalls", "show": "Little House on the Prairie", "id": "little_house_on_the_prairie_grace_ingalls", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Ginshirou and Yae Toyama", "show": "The Wallflower", "id": "the_wallflower_ginshirou_and_yae_toyama", "similarity": 0.1905, "shared_tropes": 4}, {"name": "Aryll", "show": "Legend Of Zelda, The", "id": "legend_of_zelda_the_aryll", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Holly Wheeler", "show": "Stranger Things", "id": "stranger_things_holly_wheeler", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Marron", "show": "Dragon Ball", "id": "dragon_ball_marron", "similarity": 0.087, "shared_tropes": 4}, {"name": "Pistol Pete", "show": "Goof Troop", "id": "goof_troop_pistol_pete", "similarity": 0.087, "shared_tropes": 4}, {"name": "Cody", "show": "Total DramaRama", "id": "total_dramarama_cody", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Chibi-Chibi/Sailor Chibi-Chibi Moon", "show": "Sailor Moon", "id": "sailor_moon_chibi_chibi_sailor_chibi_chibi_moon", "similarity": 0.0714, "shared_tropes": 5}]}

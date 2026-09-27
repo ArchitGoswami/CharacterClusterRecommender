@@ -1,12 +1,1 @@
-{
-  "name": "Erika",
-  "show": "Abbott Elementary",
-  "trope_count": 4,
-  "tropes": [
-    "OldFriend",
-    "TheGadfly",
-    "GossipyHens",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Erika", "show": "Abbott Elementary", "trope_count": 5, "tropes": ["HiddenDepths", "TheGadfly", "GossipyHens", "NiceGirl", "OldFriend"], "tropes_by_category": {}, "similar": []}

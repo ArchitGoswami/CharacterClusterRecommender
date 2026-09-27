@@ -1,18 +1,1 @@
-{
-  "name": "Spudgun and Dave Hedgehog",
-  "show": "Bottom",
-  "trope_count": 10,
-  "tropes": [
-    "BigGuyLittleGuy",
-    "CloudCuckooLander",
-    "DeadpanSnarker",
-    "OnlyKnownByTheirNickname",
-    "ItMakesSenseInContext",
-    "ComicallyMissingThePoint",
-    "EarlyInstallmentWeirdness",
-    "OnlySaneMan",
-    "ElderAbuse",
-    "CharacterizationMarchesOn"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Spudgun and Dave Hedgehog", "show": "Bottom", "trope_count": 10, "tropes": ["BigGuyLittleGuy", "CloudCuckooLander", "DeadpanSnarker", "OnlyKnownByTheirNickname", "ItMakesSenseInContext", "ComicallyMissingThePoint", "EarlyInstallmentWeirdness", "OnlySaneMan", "ElderAbuse", "CharacterizationMarchesOn"], "tropes_by_category": {}, "similar": [{"name": "The Marquess of Queensberry", "show": "Mike Tyson Mysteries", "id": "mike_tyson_mysteries_the_marquess_of_queensberry", "similarity": 0.093, "shared_tropes": 4}, {"name": "Red", "show": "The Shawshank Redemption", "id": "the_shawshank_redemption_red", "similarity": 0.0833, "shared_tropes": 4}, {"name": "The Baldrick Lineage", "show": "Blackadder", "id": "blackadder_the_baldrick_lineage", "similarity": 0.0658, "shared_tropes": 5}, {"name": "#-G", "show": "Bob's Burgers", "id": "bobs_burgers_g", "similarity": 0.0566, "shared_tropes": 6}, {"name": "Jeff Boomhauer", "show": "King of the Hill", "id": "king_of_the_hill_jeff_boomhauer", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Main Cast", "show": "Still Game", "id": "still_game_main_cast", "similarity": 0.05, "shared_tropes": 4}, {"name": "Neil Sutherland", "show": "Inbetweeners, The", "id": "inbetweeners_the_neil_sutherland", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Amy Rose", "show": "Sonic Boom", "id": "sonic_boom_amy_rose", "similarity": 0.044, "shared_tropes": 4}]}

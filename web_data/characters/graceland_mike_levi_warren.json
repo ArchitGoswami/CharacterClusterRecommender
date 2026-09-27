@@ -1,18 +1,1 @@
-{
-  "name": "Mike \"Levi\" Warren",
-  "show": "Graceland",
-  "trope_count": 10,
-  "tropes": [
-    "TheInfiltration",
-    "MrFanservice",
-    "GoodIsNotNice",
-    "BadassBookworm",
-    "QuickDraw",
-    "TookALevelInJerkass",
-    "ImprobableAimingSkills",
-    "InSeriesNickname",
-    "StreetSmart",
-    "NewMeat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mike \"Levi\" Warren", "show": "Graceland", "trope_count": 10, "tropes": ["TheInfiltration", "MrFanservice", "GoodIsNotNice", "BadassBookworm", "QuickDraw", "TookALevelInJerkass", "ImprobableAimingSkills", "InSeriesNickname", "StreetSmart", "NewMeat"], "tropes_by_category": {}, "similar": [{"name": "Hornblower", "show": "Horatio Hornblower", "id": "horatio_hornblower_hornblower", "similarity": 0.069, "shared_tropes": 4}, {"name": "Ryan Atwood", "show": "O.C., The", "id": "oc_the_ryan_atwood", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Jackson \"Jax\" Teller", "show": "Sons of Anarchy", "id": "sons_of_anarchy_jackson_jax_teller", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Kurogane", "show": "Tsubasa RESERVoir CHRoNiCLE", "id": "tsubasa_reservoir_chronicle_kurogane", "similarity": 0.044, "shared_tropes": 4}, {"name": "Agent Fox Mulder", "show": "X-Files, The", "id": "x_files_the_agent_fox_mulder", "similarity": 0.0435, "shared_tropes": 4}]}

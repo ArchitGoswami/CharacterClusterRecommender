@@ -1,17 +1,1 @@
-{
-  "name": "Prince Veer",
-  "show": "Mira, Royal Detective",
-  "trope_count": 9,
-  "tropes": [
-    "SiblingYinYang",
-    "KnowNothingKnowItAll",
-    "JerkWithAHeartOfGold",
-    "RedOniBlueOni",
-    "Foil",
-    "TheChainsOfCommanding",
-    "DemotedToExtra",
-    "ModestRoyalty",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Prince Veer", "show": "Mira, Royal Detective", "trope_count": 9, "tropes": ["SiblingYinYang", "KnowNothingKnowItAll", "JerkWithAHeartOfGold", "RedOniBlueOni", "Foil", "TheChainsOfCommanding", "DemotedToExtra", "ModestRoyalty", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Prince Neel", "show": "Mira, Royal Detective", "id": "mira_royal_detective_prince_neel", "similarity": 0.7, "shared_tropes": 7}, {"name": "Tonraq", "show": "Legend of Korra, The", "id": "legend_of_korra_the_tonraq", "similarity": 0.0943, "shared_tropes": 5}, {"name": "Gene Belcher", "show": "Bob's Burgers", "id": "bobs_burgers_gene_belcher", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Main Hamsters", "show": "Hamtaro", "id": "hamtaro_main_hamsters", "similarity": 0.0382, "shared_tropes": 5}, {"name": "Mac", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_mac", "similarity": 0.0367, "shared_tropes": 4}]}

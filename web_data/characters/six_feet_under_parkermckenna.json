@@ -1,13 +1,1 @@
-{
-  "name": "ParkerMcKenna",
-  "show": "Six Feet Under",
-  "trope_count": 5,
-  "tropes": [
-    "MushroomSamba",
-    "ChuckCunninghamSyndrome",
-    "HilarityEnsues",
-    "BrilliantButLazy",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "ParkerMcKenna", "show": "Six Feet Under", "trope_count": 5, "tropes": ["MushroomSamba", "ChuckCunninghamSyndrome", "HilarityEnsues", "BrilliantButLazy", "ReallyGetsAround"], "tropes_by_category": {}, "similar": []}

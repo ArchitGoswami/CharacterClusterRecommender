@@ -1,15 +1,1 @@
-{
-  "name": "Tammi",
-  "show": "Squidbillies",
-  "trope_count": 7,
-  "tropes": [
-    "ImmuneToSlapstick",
-    "ADayInTheLimelight",
-    "ReasonableAuthorityFigure",
-    "EarnYourHappyEnding",
-    "CloserToEarth",
-    "BewareTheNiceOnes",
-    "BloodyHilarious"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tammi", "show": "Squidbillies", "trope_count": 7, "tropes": ["ImmuneToSlapstick", "ADayInTheLimelight", "ReasonableAuthorityFigure", "EarnYourHappyEnding", "CloserToEarth", "BewareTheNiceOnes", "BloodyHilarious"], "tropes_by_category": {}, "similar": []}

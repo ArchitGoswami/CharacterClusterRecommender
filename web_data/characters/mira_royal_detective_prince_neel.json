@@ -1,16 +1,1 @@
-{
-  "name": "Prince Neel",
-  "show": "Mira, Royal Detective",
-  "trope_count": 8,
-  "tropes": [
-    "SiblingYinYang",
-    "KnowNothingKnowItAll",
-    "Catchphrase",
-    "JerkWithAHeartOfGold",
-    "RedOniBlueOni",
-    "Foil",
-    "ModestRoyalty",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Prince Neel", "show": "Mira, Royal Detective", "trope_count": 8, "tropes": ["SiblingYinYang", "KnowNothingKnowItAll", "Catchphrase", "JerkWithAHeartOfGold", "RedOniBlueOni", "Foil", "ModestRoyalty", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Prince Veer", "show": "Mira, Royal Detective", "id": "mira_royal_detective_prince_veer", "similarity": 0.7, "shared_tropes": 7}, {"name": "Tonraq", "show": "Legend of Korra, The", "id": "legend_of_korra_the_tonraq", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Zachary \"Zach\" Varmitech", "show": "Wild Kratts", "id": "wild_kratts_zachary_zach_varmitech", "similarity": 0.069, "shared_tropes": 4}, {"name": "Gene Belcher", "show": "Bob's Burgers", "id": "bobs_burgers_gene_belcher", "similarity": 0.0532, "shared_tropes": 5}, {"name": "Mac", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_mac", "similarity": 0.037, "shared_tropes": 4}, {"name": "Princess Sally Acorn", "show": "Sonic the Hedgehog(SatAM)", "id": "sonic_the_hedgehogsatam_princess_sally_acorn", "similarity": 0.0352, "shared_tropes": 5}, {"name": "Nya", "show": "Ninjago", "id": "ninjago_nya", "similarity": 0.0351, "shared_tropes": 4}]}

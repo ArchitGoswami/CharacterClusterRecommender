@@ -1,12 +1,1 @@
-{
-  "name": "Kaoru Yakushima",
-  "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 4,
-  "tropes": [
-    "BigBad",
-    "NonActionBigBad",
-    "VillainWithGoodPublicity",
-    "CopKiller"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kaoru Yakushima", "show": "Ghost in the Shell: Stand Alone Complex", "trope_count": 4, "tropes": ["BigBad", "NonActionBigBad", "VillainWithGoodPublicity", "CopKiller"], "tropes_by_category": {}, "similar": [{"name": "Prater", "show": "Dexter", "id": "dexter_prater", "similarity": 0.0784, "shared_tropes": 4}]}

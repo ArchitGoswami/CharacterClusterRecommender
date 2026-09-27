@@ -1,13 +1,1 @@
-{
-  "name": "Stewart Wooten",
-  "show": "Jessie",
-  "trope_count": 5,
-  "tropes": [
-    "StalkerWithACrush",
-    "DoggedNiceGuy",
-    "NiceGuy",
-    "SpearCounterpart",
-    "AbhorrentAdmirer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Stewart Wooten", "show": "Jessie", "trope_count": 5, "tropes": ["StalkerWithACrush", "DoggedNiceGuy", "NiceGuy", "SpearCounterpart", "AbhorrentAdmirer"], "tropes_by_category": {}, "similar": [{"name": "Arwin Hawkhauser", "show": "Suite Life of Zack and Cody,The", "id": "suite_life_of_zack_and_codythe_arwin_hawkhauser", "similarity": 0.3077, "shared_tropes": 4}, {"name": "Ceviché", "show": "Chowder", "id": "chowder_cevich", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Det. Wells", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_det_wells", "similarity": 0.1724, "shared_tropes": 5}, {"name": "Chachi Arcola", "show": "Happy Days", "id": "happy_days_chachi_arcola", "similarity": 0.125, "shared_tropes": 4}, {"name": "Screech Powers", "show": "Saved by the Bell", "id": "saved_by_the_bell_screech_powers", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Sheldon", "show": "My Life as a Teenage Robot", "id": "my_life_as_a_teenage_robot_sheldon", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Irwin", "show": "Grim Adventures of Billy & Mandy, The", "id": "grim_adventures_of_billy_and_mandy_the_irwin", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Cody", "show": "Total Drama", "id": "total_drama_cody", "similarity": 0.0421, "shared_tropes": 4}]}

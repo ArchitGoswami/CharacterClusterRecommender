@@ -1,13 +1,1 @@
-{
-  "name": "Gonzo's Family",
-  "show": "Muppets Tonight",
-  "trope_count": 5,
-  "tropes": [
-    "SearchingForTheLostRelative",
-    "StrangeMindsThinkAlike",
-    "NiceGuy",
-    "ActOfTrueLove",
-    "LongLostRelative"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gonzo's Family", "show": "Muppets Tonight", "trope_count": 5, "tropes": ["SearchingForTheLostRelative", "StrangeMindsThinkAlike", "NiceGuy", "ActOfTrueLove", "LongLostRelative"], "tropes_by_category": {}, "similar": [{"name": "Gonzo's Family", "show": "Muppets,The", "id": "muppetsthe_gonzo_s_family", "similarity": 1.0, "shared_tropes": 5}]}

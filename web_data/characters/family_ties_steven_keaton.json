@@ -1,16 +1,1 @@
-{
-  "name": "Steven Keaton",
-  "show": "Family Ties",
-  "trope_count": 8,
-  "tropes": [
-    "WildTeenParty",
-    "AwLookTheyReallyDoLoveEachOther",
-    "NiceGuy",
-    "WhereDidWeGoWrong",
-    "TranquilFury",
-    "BewareTheNiceOnes",
-    "PapaWolf",
-    "DomCom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Steven Keaton", "show": "Family Ties", "trope_count": 8, "tropes": ["WildTeenParty", "AwLookTheyReallyDoLoveEachOther", "NiceGuy", "WhereDidWeGoWrong", "TranquilFury", "BewareTheNiceOnes", "PapaWolf", "DomCom"], "tropes_by_category": {}, "similar": [{"name": "Robin I / Nightwing", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_robin_i_nightwing", "similarity": 0.0519, "shared_tropes": 4}, {"name": "The Brockmans", "show": "Outnumbered", "id": "outnumbered_the_brockmans", "similarity": 0.0442, "shared_tropes": 5}, {"name": "Philip Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_philip_banks", "similarity": 0.0377, "shared_tropes": 4}]}

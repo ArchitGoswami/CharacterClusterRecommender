@@ -1,17 +1,1 @@
-{
-  "name": "Max Taylor (Ryuta Kodai)",
-  "show": "Dinosaur King",
-  "trope_count": 9,
-  "tropes": [
-    "IdiotHero",
-    "Catchphrase",
-    "RedOniBlueOni",
-    "AcquiredSituationalNarcissism",
-    "AnimeHair",
-    "SignatureMon",
-    "ShockAndAwe",
-    "SeriousBusiness",
-    "HotBlooded"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Max Taylor (Ryuta Kodai)", "show": "Dinosaur King", "trope_count": 9, "tropes": ["IdiotHero", "Catchphrase", "RedOniBlueOni", "AcquiredSituationalNarcissism", "AnimeHair", "SignatureMon", "ShockAndAwe", "SeriousBusiness", "HotBlooded"], "tropes_by_category": {}, "similar": [{"name": "Dipsy", "show": "Teletubbies", "id": "teletubbies_dipsy", "similarity": 0.125, "shared_tropes": 4}, {"name": "Lillian \"Lilly\" Truscott", "show": "Hannah Montana", "id": "hannah_montana_lillian_lilly_truscott", "similarity": 0.08, "shared_tropes": 4}, {"name": "Dexter Douglas/Freakazoid and Family", "show": "Freakazoid!", "id": "freakazoid_dexter_douglas_freakazoid_and_family", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Kai", "show": "Ninjago", "id": "ninjago_kai", "similarity": 0.046, "shared_tropes": 4}, {"name": "Thomas the Tank Engine", "show": "Thomas & Friends", "id": "thomas_and_friends_thomas_the_tank_engine", "similarity": 0.0439, "shared_tropes": 5}, {"name": "Kiba Inuzuka", "show": "Naruto", "id": "naruto_kiba_inuzuka", "similarity": 0.043, "shared_tropes": 4}, {"name": "Peter Petrelli", "show": "Heroes", "id": "heroes_peter_petrelli", "similarity": 0.0388, "shared_tropes": 4}]}

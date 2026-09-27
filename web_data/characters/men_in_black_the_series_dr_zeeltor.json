@@ -1,15 +1,1 @@
-{
-  "name": "Dr. Zeeltor",
-  "show": "Men in Black: The Series",
-  "trope_count": 7,
-  "tropes": [
-    "PerpetualSmiler",
-    "MadScientist",
-    "AmusingAlien",
-    "MoodDissonance",
-    "TheSmartGuy",
-    "SixthRanger",
-    "GadgeteerGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Zeeltor", "show": "Men in Black: The Series", "trope_count": 7, "tropes": ["PerpetualSmiler", "MadScientist", "AmusingAlien", "MoodDissonance", "TheSmartGuy", "SixthRanger", "GadgeteerGenius"], "tropes_by_category": {}, "similar": [{"name": "Velma Dinkley", "show": "Scooby-Doo", "id": "scooby_doo_velma_dinkley", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Artificer", "show": "Dungeons & Dragons", "id": "dungeons_and_dragons_artificer", "similarity": 0.036, "shared_tropes": 4}]}

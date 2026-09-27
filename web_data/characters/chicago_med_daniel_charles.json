@@ -1,18 +1,1 @@
-{
-  "name": "Daniel Charles",
-  "show": "Chicago Med",
-  "trope_count": 10,
-  "tropes": [
-    "DaChief",
-    "BrokenBird",
-    "DisappearedDad",
-    "INeedAFreakingDrink",
-    "BigEater",
-    "BewareTheNiceOnes",
-    "ThereAreNoTherapists",
-    "TheShrink",
-    "AllLovingHero",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Daniel Charles", "show": "Chicago Med", "trope_count": 10, "tropes": ["DaChief", "BrokenBird", "DisappearedDad", "INeedAFreakingDrink", "BigEater", "BewareTheNiceOnes", "ThereAreNoTherapists", "TheShrink", "AllLovingHero", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "The Centre Pursuit Team", "show": "Pretender, The", "id": "pretender_the_the_centre_pursuit_team", "similarity": 0.0588, "shared_tropes": 4}, {"name": "All three", "show": "We Bare Bears", "id": "we_bare_bears_all_three", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Mal", "show": "Firefly", "id": "firefly_mal", "similarity": 0.0424, "shared_tropes": 5}, {"name": "Forrest Gump", "show": "Forrest Gump", "id": "forrest_gump_forrest_gump", "similarity": 0.04, "shared_tropes": 4}, {"name": "Ted Lasso", "show": "Ted Lasso", "id": "ted_lasso_ted_lasso", "similarity": 0.04, "shared_tropes": 4}, {"name": "Kirby", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_kirby", "similarity": 0.037, "shared_tropes": 4}, {"name": "Jarod and His Family", "show": "Pretender, The", "id": "pretender_the_jarod_and_his_family", "similarity": 0.0367, "shared_tropes": 4}, {"name": "Mac", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_mac", "similarity": 0.0364, "shared_tropes": 4}]}

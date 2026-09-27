@@ -1,11 +1,1 @@
-{
-  "name": "Splasher",
-  "show": "Bob the Builder",
-  "trope_count": 3,
-  "tropes": [
-    "Catchphrase",
-    "AmphibiousAutomobile",
-    "MeaningfulName"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Splasher", "show": "Bob the Builder", "trope_count": 3, "tropes": ["Catchphrase", "AmphibiousAutomobile", "MeaningfulName"], "tropes_by_category": {}, "similar": []}

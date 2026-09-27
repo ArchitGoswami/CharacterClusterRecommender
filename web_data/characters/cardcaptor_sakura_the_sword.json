@@ -1,14 +1,1 @@
-{
-  "name": "The Sword",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 6,
-  "tropes": [
-    "AbsurdlySharpBlade",
-    "CoolSword",
-    "WeaponWieldsYou",
-    "RoyalRapier",
-    "ImplausibleFencingPowers",
-    "TouchTheIntangible"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Sword", "show": "Cardcaptor Sakura", "trope_count": 6, "tropes": ["AbsurdlySharpBlade", "CoolSword", "WeaponWieldsYou", "RoyalRapier", "ImplausibleFencingPowers", "TouchTheIntangible"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Mr. Omar",
-  "show": "Everybody Hates Chris",
-  "trope_count": 9,
-  "tropes": [
-    "Catchphrase",
-    "ReallyGetsAround",
-    "LargeHam",
-    "ManipulativeBastard",
-    "ComfortingTheWidow",
-    "IntergenerationalFriendship",
-    "CharacterizationMarchesOn",
-    "AscendedExtra",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Omar", "show": "Everybody Hates Chris", "trope_count": 9, "tropes": ["Catchphrase", "ReallyGetsAround", "LargeHam", "ManipulativeBastard", "ComfortingTheWidow", "IntergenerationalFriendship", "CharacterizationMarchesOn", "AscendedExtra", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Jerome \"Chef\"McElroy", "show": "South Park", "id": "south_park_jerome_chef_mcelroy", "similarity": 0.05, "shared_tropes": 4}, {"name": "Lionel Luthor", "show": "Smallville", "id": "smallville_lionel_luthor", "similarity": 0.0439, "shared_tropes": 5}]}

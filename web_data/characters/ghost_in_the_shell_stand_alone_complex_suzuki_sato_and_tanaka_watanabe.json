@@ -1,18 +1,1 @@
-{
-  "name": "Suzuki Sato and Tanaka Watanabe",
-  "show": "Ghost in the Shell: Stand Alone Complex",
-  "trope_count": 10,
-  "tropes": [
-    "TheManBehindTheMan",
-    "TalkToTheFist",
-    "StockForeignName",
-    "ManipulativeBastard",
-    "MrSmith",
-    "HateSink",
-    "LackOfEmpathy",
-    "ButNotTooForeign",
-    "HeKnowsTooMuch",
-    "FromCamouflageToCriminal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Suzuki Sato and Tanaka Watanabe", "show": "Ghost in the Shell: Stand Alone Complex", "trope_count": 10, "tropes": ["TheManBehindTheMan", "TalkToTheFist", "StockForeignName", "ManipulativeBastard", "MrSmith", "HateSink", "LackOfEmpathy", "ButNotTooForeign", "HeKnowsTooMuch", "FromCamouflageToCriminal"], "tropes_by_category": {}, "similar": [{"name": "Hoffman & Fenske", "show": "Breaking Bad", "id": "breaking_bad_hoffman_fenske", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Clarence \"Clay\" Morrow", "show": "Sons of Anarchy", "id": "sons_of_anarchy_clarence_clay_morrow", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Lydia Rodarte-Quayle", "show": "Breaking Bad", "id": "breaking_bad_lydia_rodarte_quayle", "similarity": 0.0421, "shared_tropes": 4}]}

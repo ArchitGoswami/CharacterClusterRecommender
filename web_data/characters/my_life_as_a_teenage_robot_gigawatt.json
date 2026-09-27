@@ -1,16 +1,1 @@
-{
-  "name": "Gigawatt",
-  "show": "My Life as a Teenage Robot",
-  "trope_count": 8,
-  "tropes": [
-    "EvilIsHammy",
-    "BewareTheSillyOnes",
-    "EvilIsBigger",
-    "AchillesHeel",
-    "OurVampiresAreDifferent",
-    "VillainOfTheWeek",
-    "CurbStompBattle",
-    "WalkingTechbane"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gigawatt", "show": "My Life as a Teenage Robot", "trope_count": 8, "tropes": ["EvilIsHammy", "BewareTheSillyOnes", "EvilIsBigger", "AchillesHeel", "OurVampiresAreDifferent", "VillainOfTheWeek", "CurbStompBattle", "WalkingTechbane"], "tropes_by_category": {}, "similar": [{"name": "Dr. Blowhole", "show": "Penguins of Madagascar, The", "id": "penguins_of_madagascar_the_dr_blowhole", "similarity": 0.0702, "shared_tropes": 4}]}

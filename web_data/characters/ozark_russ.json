@@ -1,14 +1,1 @@
-{
-  "name": "Russ",
-  "show": "Ozark",
-  "trope_count": 6,
-  "tropes": [
-    "WouldHitAGirl",
-    "JerkWithAHeartOfGold",
-    "ArmoredClosetGay",
-    "BoomerangBigot",
-    "HighVoltageDeath",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Russ", "show": "Ozark", "trope_count": 6, "tropes": ["WouldHitAGirl", "JerkWithAHeartOfGold", "ArmoredClosetGay", "BoomerangBigot", "HighVoltageDeath", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": [{"name": "Russ", "show": "Oz", "id": "oz_russ", "similarity": 1.0, "shared_tropes": 6}]}

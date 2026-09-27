@@ -1,15 +1,1 @@
-{
-  "name": "Tate Dutton",
-  "show": "Yellowstone",
-  "trope_count": 7,
-  "tropes": [
-    "IGotBigger",
-    "TimeSkip",
-    "SingleLineOfDescent",
-    "ChildrenAreInnocent",
-    "TheLoad",
-    "TraumaCongaLine",
-    "AsYouKnow"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tate Dutton", "show": "Yellowstone", "trope_count": 8, "tropes": ["TheLoad", "ChildrenAreInnocent", "AsYouKnow", "IGotBigger", "TraumaCongaLine", "PastExperienceNightmare", "SingleLineOfDescent", "TimeSkip"], "tropes_by_category": {}, "similar": []}

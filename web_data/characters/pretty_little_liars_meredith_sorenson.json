@@ -1,17 +1,1 @@
-{
-  "name": "Meredith Sorenson",
-  "show": "Pretty Little Liars",
-  "trope_count": 9,
-  "tropes": [
-    "FauxAffablyEvil",
-    "SympatheticAdulterer",
-    "NearDeathExperience",
-    "Yandere",
-    "AdaptationalVillainy",
-    "PutOnABus",
-    "NewOldFlame",
-    "Frameup",
-    "AdaptationNameChange"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Meredith Sorenson", "show": "Pretty Little Liars", "trope_count": 9, "tropes": ["FauxAffablyEvil", "SympatheticAdulterer", "NearDeathExperience", "Yandere", "AdaptationalVillainy", "PutOnABus", "NewOldFlame", "Frameup", "AdaptationNameChange"], "tropes_by_category": {}, "similar": [{"name": "Jenna Marshall", "show": "Pretty Little Liars", "id": "pretty_little_liars_jenna_marshall", "similarity": 0.1212, "shared_tropes": 4}]}

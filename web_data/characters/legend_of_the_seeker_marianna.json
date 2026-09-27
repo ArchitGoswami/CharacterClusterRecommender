@@ -1,18 +1,1 @@
-{
-  "name": "Marianna",
-  "show": "Legend of the Seeker",
-  "trope_count": 10,
-  "tropes": [
-    "BlackMagic",
-    "MythologyGag",
-    "BlackShirt",
-    "AntiMagic",
-    "SuspiciouslySimilarSubstitute",
-    "BloodMagic",
-    "WhyDontYaJustShootHim",
-    "EvilGenius",
-    "TheDragon",
-    "BackFromTheDead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Marianna", "show": "Legend of the Seeker", "trope_count": 10, "tropes": ["BlackMagic", "MythologyGag", "BlackShirt", "AntiMagic", "SuspiciouslySimilarSubstitute", "BloodMagic", "WhyDontYaJustShootHim", "EvilGenius", "TheDragon", "BackFromTheDead"], "tropes_by_category": {}, "similar": [{"name": "Nicci", "show": "Legend of the Seeker", "id": "legend_of_the_seeker_nicci", "similarity": 0.0889, "shared_tropes": 4}]}

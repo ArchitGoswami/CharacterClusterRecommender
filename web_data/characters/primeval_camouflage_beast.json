@@ -1,15 +1,1 @@
-{
-  "name": "Camouflage Beast",
-  "show": "Primeval",
-  "trope_count": 7,
-  "tropes": [
-    "Foreshadowing",
-    "GripingAboutGremlins",
-    "Invisibility",
-    "ItCanThink",
-    "WouldHurtAChild",
-    "OurGoblinsAreDifferent",
-    "DoingInTheWizard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Camouflage Beast", "show": "Primeval", "trope_count": 8, "tropes": ["Foreshadowing", "Invisibility", "DoingInTheWizard", "GripingAboutGremlins", "OurGoblinsAreDifferent", "AllMythsAreTrue", "ItCanThink", "WouldHurtAChild"], "tropes_by_category": {}, "similar": []}

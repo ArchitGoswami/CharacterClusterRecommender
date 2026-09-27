@@ -1,17 +1,1 @@
-{
-  "name": "Dr. Potterswheel",
-  "show": "Moral Orel",
-  "trope_count": 9,
-  "tropes": [
-    "NeverMyFault",
-    "BerserkButton",
-    "TheNoseless",
-    "DrJerk",
-    "LackOfEmpathy",
-    "ComicallyIneptHealing",
-    "HiddenDepths",
-    "DrFeelgood",
-    "NightmareFetishist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Potterswheel", "show": "Moral Orel", "trope_count": 9, "tropes": ["NeverMyFault", "BerserkButton", "TheNoseless", "DrJerk", "LackOfEmpathy", "ComicallyIneptHealing", "HiddenDepths", "DrFeelgood", "NightmareFetishist"], "tropes_by_category": {}, "similar": [{"name": "Jo", "show": "Total Drama", "id": "total_drama_jo", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Mikado Ryugamine", "show": "Durarara!!", "id": "durarara_mikado_ryugamine", "similarity": 0.0396, "shared_tropes": 4}, {"name": "Samantha \"Sam\" Puckett", "show": "iCarly", "id": "icarly_samantha_sam_puckett", "similarity": 0.0394, "shared_tropes": 5}]}

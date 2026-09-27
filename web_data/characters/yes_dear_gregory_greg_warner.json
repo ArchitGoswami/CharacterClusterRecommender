@@ -1,16 +1,1 @@
-{
-  "name": "Gregory \"Greg\" Warner",
-  "show": "Yes, Dear",
-  "trope_count": 8,
-  "tropes": [
-    "ObnoxiousInLaws",
-    "DeadpanSnarker",
-    "OOCIsSeriousBusiness",
-    "SlobsVsSnobs",
-    "PerpetualFrowner",
-    "HenpeckedHusband",
-    "AbnormalAllergy",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gregory \"Greg\" Warner", "show": "Yes, Dear", "trope_count": 8, "tropes": ["ObnoxiousInLaws", "DeadpanSnarker", "OOCIsSeriousBusiness", "SlobsVsSnobs", "PerpetualFrowner", "HenpeckedHusband", "AbnormalAllergy", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Richard Bucket", "show": "Keeping Up Appearances", "id": "keeping_up_appearances_richard_bucket", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Henry Cogsworth", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_henry_cogsworth", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Chris Pearson", "show": "Dan Vs.", "id": "dan_vs_chris_pearson", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Jeff Smith (né Fischer)", "show": "American Dad", "id": "american_dad_jeff_smith_n_fischer", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.0364, "shared_tropes": 4}]}

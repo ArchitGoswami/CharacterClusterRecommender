@@ -1,17 +1,1 @@
-{
-  "name": "CliffMcCormack",
-  "show": "Veronica Mars",
-  "trope_count": 9,
-  "tropes": [
-    "JadedWashout",
-    "ChainedToABed",
-    "DeadpanSnarker",
-    "EvilCounterpart",
-    "BrutalHonesty",
-    "AmoralAttorney",
-    "TheAlcoholic",
-    "Dismotivation",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "CliffMcCormack", "show": "Veronica Mars", "trope_count": 9, "tropes": ["JadedWashout", "ChainedToABed", "DeadpanSnarker", "EvilCounterpart", "BrutalHonesty", "AmoralAttorney", "TheAlcoholic", "Dismotivation", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Principal Moss", "show": "King of the Hill", "id": "king_of_the_hill_principal_moss", "similarity": 0.2632, "shared_tropes": 5}, {"name": "Alan Cornwall", "show": "Frasier", "id": "frasier_alan_cornwall", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Pigeon", "show": "Mike Tyson Mysteries", "id": "mike_tyson_mysteries_pigeon", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Professor Annalise Keating (née Anna Mae Harkness)", "show": "How to get away with murder", "id": "how_to_get_away_with_murder_professor_annalise_keating_n_e_anna_mae_harkness", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Karen Walker", "show": "Will & Grace", "id": "will_and_grace_karen_walker", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Rust Cohle", "show": "True Detective", "id": "true_detective_rust_cohle", "similarity": 0.037, "shared_tropes": 4}]}

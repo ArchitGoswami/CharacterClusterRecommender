@@ -1,14 +1,1 @@
-{
-  "name": "Karen Scarfolli",
-  "show": "Freaks and Geeks",
-  "trope_count": 6,
-  "tropes": [
-    "CallBack",
-    "Jerkass",
-    "TheBully",
-    "WhatHappenedToTheMouse",
-    "TheLadette",
-    "ReallyGetsAround"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Karen Scarfolli", "show": "Freaks and Geeks", "trope_count": 6, "tropes": ["CallBack", "Jerkass", "TheBully", "WhatHappenedToTheMouse", "TheLadette", "ReallyGetsAround"], "tropes_by_category": {}, "similar": [{"name": "Luke Ward", "show": "O.C., The", "id": "oc_the_luke_ward", "similarity": 0.1818, "shared_tropes": 4}]}

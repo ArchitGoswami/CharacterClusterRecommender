@@ -1,18 +1,1 @@
-{
-  "name": "Jean-Claude Pitrel",
-  "show": "Taken",
-  "trope_count": 10,
-  "tropes": [
-    "DirtyCop",
-    "FallenHero",
-    "UncertainDoom",
-    "EvenEvilHasLovedOnes",
-    "ReasonableAuthorityFigure",
-    "AssholeVictim",
-    "FrenchJerk",
-    "GroinAttack",
-    "BitchInSheepsClothing",
-    "WeUsedToBeFriends"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jean-Claude Pitrel", "show": "Taken", "trope_count": 10, "tropes": ["DirtyCop", "FallenHero", "UncertainDoom", "EvenEvilHasLovedOnes", "ReasonableAuthorityFigure", "AssholeVictim", "FrenchJerk", "GroinAttack", "BitchInSheepsClothing", "WeUsedToBeFriends"], "tropes_by_category": {}, "similar": [{"name": "Mooney", "show": "Justified", "id": "justified_mooney", "similarity": 0.1667, "shared_tropes": 4}, {"name": "Hunter", "show": "Justified", "id": "justified_hunter", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Singed", "show": "Arcane", "id": "arcane_singed", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Mr. Chang", "show": "Black Lagoon", "id": "black_lagoon_mr_chang", "similarity": 0.0471, "shared_tropes": 4}]}

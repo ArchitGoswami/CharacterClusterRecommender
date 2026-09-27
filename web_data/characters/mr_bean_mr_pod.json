@@ -1,18 +1,1 @@
-{
-  "name": "Mr. Pod",
-  "show": "Mr. Bean",
-  "trope_count": 10,
-  "tropes": [
-    "IdenticalTwinIDTag",
-    "IWantMyBelovedToBeHappy",
-    "NiceGuy",
-    "SupremeChef",
-    "LastEpisodeNewCharacter",
-    "PlanetOfHats",
-    "TheAce",
-    "LaserGuidedAmnesia",
-    "HumanAliens",
-    "IdenticalStranger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Pod", "show": "Mr. Bean", "trope_count": 10, "tropes": ["IdenticalTwinIDTag", "IWantMyBelovedToBeHappy", "NiceGuy", "SupremeChef", "LastEpisodeNewCharacter", "PlanetOfHats", "TheAce", "LaserGuidedAmnesia", "HumanAliens", "IdenticalStranger"], "tropes_by_category": {}, "similar": [{"name": "Kimihiro Watanuki", "show": "xxx HOLiC", "id": "xxx_holic_kimihiro_watanuki", "similarity": 0.044, "shared_tropes": 4}]}

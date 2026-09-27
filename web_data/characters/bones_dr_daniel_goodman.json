@@ -1,18 +1,1 @@
-{
-  "name": "Dr. Daniel Goodman",
-  "show": "Bones",
-  "trope_count": 10,
-  "tropes": [
-    "LongBusTrip",
-    "DeadpanSnarker",
-    "ChuckCunninghamSyndrome",
-    "FamilyMan",
-    "BigScaryBlackMan",
-    "TheMcCoy",
-    "ReasonableAuthorityFigure",
-    "PutOnABus",
-    "StopHavingFunGuy",
-    "ActuallyPrettyFunny"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Daniel Goodman", "show": "Bones", "trope_count": 10, "tropes": ["LongBusTrip", "DeadpanSnarker", "ChuckCunninghamSyndrome", "FamilyMan", "BigScaryBlackMan", "TheMcCoy", "ReasonableAuthorityFigure", "PutOnABus", "StopHavingFunGuy", "ActuallyPrettyFunny"], "tropes_by_category": {}, "similar": []}

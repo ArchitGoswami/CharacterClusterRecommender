@@ -1,18 +1,1 @@
-{
-  "name": "RileyMcCallister",
-  "show": "NCIS",
-  "trope_count": 10,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "WhyWeAreBummedCommunismFell",
-    "Jerkass",
-    "SickbedSlayIng",
-    "GoneHorriblyRight",
-    "RevealingCoverUp",
-    "ItsAllAboutMe",
-    "SmugSnake",
-    "DidntSeeThatComing",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "RileyMcCallister", "show": "NCIS", "trope_count": 10, "tropes": ["SmallRoleBigImpact", "WhyWeAreBummedCommunismFell", "Jerkass", "SickbedSlayIng", "GoneHorriblyRight", "RevealingCoverUp", "ItsAllAboutMe", "SmugSnake", "DidntSeeThatComing", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": []}

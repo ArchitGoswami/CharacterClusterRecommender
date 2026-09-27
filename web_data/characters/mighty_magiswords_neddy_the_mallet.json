@@ -1,18 +1,1 @@
-{
-  "name": "Neddy the Mallet",
-  "show": "Mighty Magiswords",
-  "trope_count": 10,
-  "tropes": [
-    "EveryoneWentToSchoolTogether",
-    "Catchphrase",
-    "DumbMuscle",
-    "Jerkass",
-    "WeaksauceWeakness",
-    "ArrogantKungFuGuy",
-    "BigEater",
-    "TheThingThatWouldNotLeave",
-    "BearsAreBadNews",
-    "CompanionCube"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Neddy the Mallet", "show": "Mighty Magiswords", "trope_count": 10, "tropes": ["EveryoneWentToSchoolTogether", "Catchphrase", "DumbMuscle", "Jerkass", "WeaksauceWeakness", "ArrogantKungFuGuy", "BigEater", "TheThingThatWouldNotLeave", "BearsAreBadNews", "CompanionCube"], "tropes_by_category": {}, "similar": [{"name": "Fuzzy Lumpkins", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_fuzzy_lumpkins", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Ryoma Echizen", "show": "Prince of Tennis", "id": "prince_of_tennis_ryoma_echizen", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Infernites", "show": "Mixels", "id": "mixels_infernites", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Job Centre", "show": "League, The", "id": "league_the_job_centre", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Lightning", "show": "Total Drama", "id": "total_drama_lightning", "similarity": 0.0412, "shared_tropes": 4}]}

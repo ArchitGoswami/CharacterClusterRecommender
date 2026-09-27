@@ -1,13 +1,1 @@
-{
-  "name": "Madame",
-  "show": "Babar",
-  "trope_count": 5,
-  "tropes": [
-    "TokenHuman",
-    "GoodParents",
-    "DemotedToExtra",
-    "NoNameGiven",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Madame", "show": "Babar", "trope_count": 5, "tropes": ["TokenHuman", "GoodParents", "DemotedToExtra", "NoNameGiven", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Max Tennyson", "show": "Ben 10", "id": "ben_10_max_tennyson", "similarity": 0.058, "shared_tropes": 4}]}

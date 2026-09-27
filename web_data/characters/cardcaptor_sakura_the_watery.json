@@ -1,16 +1,1 @@
-{
-  "name": "The Watery",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 8,
-  "tropes": [
-    "LogicalWeakness",
-    "WaterIsWomanly",
-    "MakingASplash",
-    "WingedHumanoid",
-    "BeefGate",
-    "NonHumansLackAttributes",
-    "PerpetualFrowner",
-    "OurMermaidsAreDifferent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Watery", "show": "Cardcaptor Sakura", "trope_count": 8, "tropes": ["LogicalWeakness", "WaterIsWomanly", "MakingASplash", "WingedHumanoid", "BeefGate", "NonHumansLackAttributes", "PerpetualFrowner", "OurMermaidsAreDifferent"], "tropes_by_category": {}, "similar": [{"name": "Aquarius", "show": "Fairy Tail", "id": "fairy_tail_aquarius", "similarity": 0.0519, "shared_tropes": 4}]}

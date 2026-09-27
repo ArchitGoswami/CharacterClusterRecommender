@@ -1,15 +1,1 @@
-{
-  "name": "Skunky Beaumont",
-  "show": "Doug",
-  "trope_count": 7,
-  "tropes": [
-    "LivingLegend",
-    "TheGhost",
-    "UnseenNoMore",
-    "EmbarrassingFirstName",
-    "SurferDude",
-    "ShroudedInMyth",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Skunky Beaumont", "show": "Doug", "trope_count": 7, "tropes": ["LivingLegend", "TheGhost", "UnseenNoMore", "EmbarrassingFirstName", "SurferDude", "ShroudedInMyth", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Grandpa Son Gohan", "show": "Dragon Ball", "id": "dragon_ball_grandpa_son_gohan", "similarity": 0.1176, "shared_tropes": 4}]}

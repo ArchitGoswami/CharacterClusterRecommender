@@ -1,13 +1,1 @@
-{
-  "name": "Lauren Cruz",
-  "show": "White Collar",
-  "trope_count": 5,
-  "tropes": [
-    "ChuckCunninghamSyndrome",
-    "FBIAgent",
-    "SuspiciouslySimilarSubstitute",
-    "GenkiGirl",
-    "TwoferTokenMinority"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lauren Cruz", "show": "White Collar", "trope_count": 5, "tropes": ["ChuckCunninghamSyndrome", "FBIAgent", "SuspiciouslySimilarSubstitute", "GenkiGirl", "TwoferTokenMinority"], "tropes_by_category": {}, "similar": [{"name": "Diana Barrigan", "show": "White Collar", "id": "white_collar_diana_barrigan", "similarity": 0.2667, "shared_tropes": 4}]}

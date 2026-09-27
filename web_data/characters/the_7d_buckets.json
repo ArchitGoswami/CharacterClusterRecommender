@@ -1,17 +1,1 @@
-{
-  "name": "Buckets",
-  "show": "The 7D",
-  "trope_count": 9,
-  "tropes": [
-    "FogFeet",
-    "FriendlyGhost",
-    "InkSuitActor",
-    "CuteGhostGirl",
-    "NiceGirl",
-    "OneShotCharacter",
-    "OnlyKnownByTheirNickname",
-    "NightmareFetishist",
-    "GlowingEyesOfDoom"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Buckets", "show": "The 7D", "trope_count": 9, "tropes": ["FogFeet", "FriendlyGhost", "InkSuitActor", "CuteGhostGirl", "NiceGirl", "OneShotCharacter", "OnlyKnownByTheirNickname", "NightmareFetishist", "GlowingEyesOfDoom"], "tropes_by_category": {}, "similar": [{"name": "Carrie Krueger", "show": "Amazing World of Gumball, The", "id": "amazing_world_of_gumball_the_carrie_krueger", "similarity": 0.0444, "shared_tropes": 4}]}

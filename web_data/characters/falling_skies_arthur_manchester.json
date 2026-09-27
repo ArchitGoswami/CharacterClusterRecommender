@@ -1,16 +1,1 @@
-{
-  "name": "Arthur Manchester",
-  "show": "Falling Skies",
-  "trope_count": 8,
-  "tropes": [
-    "BrokenPedestal",
-    "SacrificialLion",
-    "TheMole",
-    "WellIntentionedExtremist",
-    "DrunkWithPower",
-    "ShadowArchetype",
-    "HeKnowsTooMuch",
-    "HeelFaceRevolvingDoor"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Arthur Manchester", "show": "Falling Skies", "trope_count": 8, "tropes": ["BrokenPedestal", "SacrificialLion", "TheMole", "WellIntentionedExtremist", "DrunkWithPower", "ShadowArchetype", "HeKnowsTooMuch", "HeelFaceRevolvingDoor"], "tropes_by_category": {}, "similar": [{"name": "Moira Queen", "show": "Arrow", "id": "arrow_moira_queen", "similarity": 0.0641, "shared_tropes": 5}]}

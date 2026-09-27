@@ -1,18 +1,1 @@
-{
-  "name": "Lt. Connor",
-  "show": "Elsbeth",
-  "trope_count": 10,
-  "tropes": [
-    "AffirmativeActionLegacy",
-    "IncrediblyLameFun",
-    "PoliticalCorrectnessIsEvil",
-    "OOCIsSeriousBusiness",
-    "TheBore",
-    "HiddenDepths",
-    "TheStoic",
-    "EveryoneHasStandards",
-    "AsianAndNerdy",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lt. Connor", "show": "Elsbeth", "trope_count": 10, "tropes": ["AffirmativeActionLegacy", "IncrediblyLameFun", "PoliticalCorrectnessIsEvil", "OOCIsSeriousBusiness", "TheBore", "HiddenDepths", "TheStoic", "EveryoneHasStandards", "AsianAndNerdy", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Jonah", "show": "Oz", "id": "oz_jonah", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Jonah", "show": "Ozark", "id": "ozark_jonah", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Vince Masuka", "show": "Dexter", "id": "dexter_vince_masuka", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Gary", "show": "Veep", "id": "veep_gary", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Sir Malcolm Murray", "show": "Penny Dreadful", "id": "penny_dreadful_sir_malcolm_murray", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Rudy", "show": "Misfits", "id": "misfits_rudy", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Phoebe", "show": "Hey Arnold!", "id": "hey_arnold_phoebe", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Quinn Morgendorffer", "show": "Daria", "id": "daria_quinn_morgendorffer", "similarity": 0.0488, "shared_tropes": 4}]}

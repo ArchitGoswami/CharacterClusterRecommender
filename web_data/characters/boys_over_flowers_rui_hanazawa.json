@@ -1,17 +1,1 @@
-{
-  "name": "Rui Hanazawa",
-  "show": "Boys Over Flowers",
-  "trope_count": 9,
-  "tropes": [
-    "SugarAndIcePersonality",
-    "NoSocialSkills",
-    "TheQuietOne",
-    "ElegantClassicalMusician",
-    "ShrinkingViolet",
-    "SensitiveGuyAndManlyMan",
-    "DubNameChange",
-    "Cloudcuckoolander",
-    "DidNotGetTheGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rui Hanazawa", "show": "Boys Over Flowers", "trope_count": 9, "tropes": ["SugarAndIcePersonality", "NoSocialSkills", "TheQuietOne", "ElegantClassicalMusician", "ShrinkingViolet", "SensitiveGuyAndManlyMan", "DubNameChange", "Cloudcuckoolander", "DidNotGetTheGirl"], "tropes_by_category": {}, "similar": [{"name": "Tsukasa Domyoji", "show": "Boys Over Flowers", "id": "boys_over_flowers_tsukasa_domyoji", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Knight of VI — Anya Alstreim", "show": "Code Geass", "id": "code_geass_knight_of_vi_anya_alstreim", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Snake", "show": "Black Butler", "id": "black_butler_snake", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Carl Wheezer", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_carl_wheezer", "similarity": 0.0658, "shared_tropes": 5}, {"name": "Dr. Rajesh \"Raj\" Koothrappali", "show": "The Big Bang Theory", "id": "the_big_bang_theory_dr_rajesh_raj_koothrappali", "similarity": 0.0562, "shared_tropes": 5}, {"name": "Ichimatsu Matsuno", "show": "Osomatsu-san", "id": "osomatsu_san_ichimatsu_matsuno", "similarity": 0.0519, "shared_tropes": 4}]}

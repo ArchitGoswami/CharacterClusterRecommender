@@ -1,16 +1,1 @@
-{
-  "name": "Pepper Corn",
-  "show": "Summer Camp Island",
-  "trope_count": 8,
-  "tropes": [
-    "Expy",
-    "ADayInTheLimelight",
-    "TheBabyOfTheBunch",
-    "ActorAllusion",
-    "WordOfGod",
-    "PunnyName",
-    "HiddenDepths",
-    "Sleepyhead"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pepper Corn", "show": "Summer Camp Island", "trope_count": 8, "tropes": ["Expy", "ADayInTheLimelight", "TheBabyOfTheBunch", "ActorAllusion", "WordOfGod", "PunnyName", "HiddenDepths", "Sleepyhead"], "tropes_by_category": {}, "similar": [{"name": "Champions of the King", "show": "Craig of the Creek", "id": "craig_of_the_creek_champions_of_the_king", "similarity": 0.1316, "shared_tropes": 5}, {"name": "Wade Load", "show": "Kim Possible", "id": "kim_possible_wade_load", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Cat Valentine", "show": "Victorious", "id": "victorious_cat_valentine", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Kitty Katswell", "show": "T.U.F.F. Puppy", "id": "tuff_puppy_kitty_katswell", "similarity": 0.0444, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Lisa Rentel",
-  "show": "Sheep in the Big City",
-  "trope_count": 9,
-  "tropes": [
-    "SpoiledBrat",
-    "KnowWhenToFoldEm",
-    "PunnyName",
-    "AmazingTechnicolorPopulation",
-    "ObfuscatingStupidity",
-    "ObstructiveBureaucrat",
-    "BrattyHalfPint",
-    "KidsAreCruel",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lisa Rentel", "show": "Sheep in the Big City", "trope_count": 9, "tropes": ["SpoiledBrat", "KnowWhenToFoldEm", "PunnyName", "AmazingTechnicolorPopulation", "ObfuscatingStupidity", "ObstructiveBureaucrat", "BrattyHalfPint", "KidsAreCruel", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Princess Morbucks", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_princess_morbucks", "similarity": 0.036, "shared_tropes": 5}, {"name": "Riley Freeman", "show": "Boondocks,The", "id": "boondocksthe_riley_freeman", "similarity": 0.0351, "shared_tropes": 4}]}

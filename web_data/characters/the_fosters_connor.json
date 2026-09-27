@@ -1,14 +1,1 @@
-{
-  "name": "Connor",
-  "show": "The Fosters",
-  "trope_count": 6,
-  "tropes": [
-    "PutOnABus",
-    "StraightGay",
-    "NoodleIncident",
-    "FirstLove",
-    "AmbiguouslyBi",
-    "AbusiveParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Connor", "show": "The Fosters", "trope_count": 6, "tropes": ["PutOnABus", "StraightGay", "NoodleIncident", "FirstLove", "AmbiguouslyBi", "AbusiveParents"], "tropes_by_category": {}, "similar": []}

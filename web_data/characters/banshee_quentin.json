@@ -1,16 +1,1 @@
-{
-  "name": "Quentin",
-  "show": "Banshee",
-  "trope_count": 8,
-  "tropes": [
-    "AffablyEvil",
-    "WorthyOpponent",
-    "CombatPragmatist",
-    "HonorBeforeReason",
-    "DiedStandingUp",
-    "OffWithHisHead",
-    "FauxAffablyEvil",
-    "LetsFightLikeGentlemen"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Quentin", "show": "Banshee", "trope_count": 8, "tropes": ["AffablyEvil", "WorthyOpponent", "CombatPragmatist", "HonorBeforeReason", "DiedStandingUp", "OffWithHisHead", "FauxAffablyEvil", "LetsFightLikeGentlemen"], "tropes_by_category": {}, "similar": [{"name": "Senator Arnold Vinick (R-CA)", "show": "West Wing, The", "id": "west_wing_the_senator_arnold_vinick_r_ca", "similarity": 0.1333, "shared_tropes": 4}, {"name": "The Slicer Brothers", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_the_slicer_brothers", "similarity": 0.1026, "shared_tropes": 4}, {"name": "Early", "show": "Firefly", "id": "firefly_early", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Dreadwing", "show": "Transformers Prime", "id": "transformers_prime_dreadwing", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Ganondorf", "show": "Legend Of Zelda, The", "id": "legend_of_zelda_the_ganondorf", "similarity": 0.0426, "shared_tropes": 6}]}

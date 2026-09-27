@@ -1,14 +1,1 @@
-{
-  "name": "Ōki Yaba",
-  "show": "Alice In Borderland",
-  "trope_count": 6,
-  "tropes": [
-    "NobleDemon",
-    "AliceAllusion",
-    "EvenEvilHasStandards",
-    "ALighterShadeOfBlack",
-    "VillainousFriendship",
-    "IChooseToStay"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ōki Yaba", "show": "Alice In Borderland", "trope_count": 6, "tropes": ["NobleDemon", "AliceAllusion", "EvenEvilHasStandards", "ALighterShadeOfBlack", "VillainousFriendship", "IChooseToStay"], "tropes_by_category": {}, "similar": [{"name": "Sunato Banda", "show": "Alice In Borderland", "id": "alice_in_borderland_sunato_banda", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Carl Elias", "show": "Person of Interest", "id": "person_of_interest_carl_elias", "similarity": 0.0482, "shared_tropes": 4}, {"name": "O'Reily", "show": "Oz", "id": "oz_o_reily", "similarity": 0.046, "shared_tropes": 4}]}

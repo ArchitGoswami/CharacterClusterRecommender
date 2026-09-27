@@ -1,14 +1,1 @@
-{
-  "name": "Aaron Mitrano",
-  "show": "Hell's Kitchen",
-  "trope_count": 6,
-  "tropes": [
-    "BewareTheQuietOnes",
-    "TheQuietOne",
-    "SuspiciouslySimilarSubstitute",
-    "RuleOfThree",
-    "TheStoic",
-    "OutOfFocus"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Aaron Mitrano", "show": "Hell's Kitchen", "trope_count": 7, "tropes": ["TheQuietOne", "BewareTheQuietOnes", "OutOfFocus", "SuspiciouslySimilarSubstitute", "GentleGiant", "RuleOfThree", "TheStoic"], "tropes_by_category": {}, "similar": [{"name": "Opal", "show": "Steven Universe", "id": "steven_universe_opal", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Yasutora \"Chad\" Sado", "show": "Bleach", "id": "bleach_yasutora_chad_sado", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Ronnie Gardocki", "show": "Shield,The", "id": "shieldthe_ronnie_gardocki", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Ferbs \"Ferb\" Fletcher", "show": "Phineas and Ferb", "id": "phineas_and_ferb_ferbs_ferb_fletcher", "similarity": 0.05, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Avery Barkley",
-  "show": "Nashville",
-  "trope_count": 10,
-  "tropes": [
-    "OddFriendship",
-    "TheRival",
-    "OldMaid",
-    "TheAce",
-    "TookALevelInKindness",
-    "LongHairedPrettyBoy",
-    "AmicableExes",
-    "PapaWolf",
-    "SmugSnake",
-    "CastingCouch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Avery Barkley", "show": "Nashville", "trope_count": 10, "tropes": ["OddFriendship", "TheRival", "OldMaid", "TheAce", "TookALevelInKindness", "LongHairedPrettyBoy", "AmicableExes", "PapaWolf", "SmugSnake", "CastingCouch"], "tropes_by_category": {}, "similar": [{"name": "Gunnar Scott", "show": "Nashville", "id": "nashville_gunnar_scott", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Andy Dwyer", "show": "Parks and Recreation", "id": "parks_and_recreation_andy_dwyer", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Jess Mariano", "show": "Gilmore Girls", "id": "gilmore_girls_jess_mariano", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Princess Carolyn", "show": "BoJack Horseman", "id": "bojack_horseman_princess_carolyn", "similarity": 0.0505, "shared_tropes": 5}, {"name": "Margaret \"Peggy\" Olson", "show": "Mad Men", "id": "mad_men_margaret_peggy_olson", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Yamcha", "show": "Dragon Ball", "id": "dragon_ball_yamcha", "similarity": 0.0426, "shared_tropes": 6}]}

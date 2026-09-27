@@ -1,17 +1,1 @@
-{
-  "name": "Gumbo",
-  "show": "Chowder",
-  "trope_count": 9,
-  "tropes": [
-    "TheRival",
-    "BigBadWannabe",
-    "ConMan",
-    "KarmicButtMonkey",
-    "UnknownRival",
-    "DisproportionateRetribution",
-    "EvenEvilHasStandards",
-    "EvilCounterpart",
-    "Lampshaded"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gumbo", "show": "Chowder", "trope_count": 11, "tropes": ["Lampshaded", "TheRival", "EvilCounterpart", "DisproportionateRetribution", "UnknownRival", "ConMan", "EvenEvilHasStandards", "HoistByHisOwnPetard", "KnowWhenToFoldEm", "KarmicButtMonkey", "BigBadWannabe"], "tropes_by_category": {}, "similar": [{"name": "Cayden James", "show": "Arrow", "id": "arrow_cayden_james", "similarity": 0.0769, "shared_tropes": 5}, {"name": "Granny Goodness", "show": "Superman: The Animated Series", "id": "superman_the_animated_series_granny_goodness", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Nathan", "show": "South Park", "id": "south_park_nathan", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Salvatore Maroni", "show": "The Dark Knight", "id": "the_dark_knight_salvatore_maroni", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Jose Porla", "show": "Fairy Tail", "id": "fairy_tail_jose_porla", "similarity": 0.0685, "shared_tropes": 5}, {"name": "Neil Kandy", "show": "Breaking Bad", "id": "breaking_bad_neil_kandy", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Dr. Psychobos", "show": "Ben 10", "id": "ben_10_dr_psychobos", "similarity": 0.058, "shared_tropes": 4}, {"name": "Juan Bolsa", "show": "Breaking Bad", "id": "breaking_bad_juan_bolsa", "similarity": 0.0541, "shared_tropes": 4}]}

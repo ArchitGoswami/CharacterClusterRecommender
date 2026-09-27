@@ -1,18 +1,1 @@
-{
-  "name": "Prince Michael of Moldavia",
-  "show": "Dynasty",
-  "trope_count": 10,
-  "tropes": [
-    "Hunk",
-    "WhatHappenedToTheMouse",
-    "TheDanza",
-    "NobilityMarriesMoney",
-    "PutOnABus",
-    "AntagonisticOffspring",
-    "LoveTriangle",
-    "MissingMom",
-    "TheCharmer",
-    "NotEvenBotheringWithTheAccent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Prince Michael of Moldavia", "show": "Dynasty", "trope_count": 10, "tropes": ["Hunk", "WhatHappenedToTheMouse", "TheDanza", "NobilityMarriesMoney", "PutOnABus", "AntagonisticOffspring", "LoveTriangle", "MissingMom", "TheCharmer", "NotEvenBotheringWithTheAccent"], "tropes_by_category": {}, "similar": [{"name": "Cloudy Jay \"CJ\"", "show": "Regular Show", "id": "regular_show_cloudy_jay_cj", "similarity": 0.0488, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Easter",
-  "show": "American Gods",
-  "trope_count": 8,
-  "tropes": [
-    "FertilityGoddess",
-    "KissOfLife",
-    "BigBeautifulWoman",
-    "ChekhovsGunman",
-    "StepfordSmiler",
-    "NiceGirl",
-    "BreakTheCutie",
-    "FertileFeet"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Easter", "show": "American Gods", "trope_count": 8, "tropes": ["FertilityGoddess", "KissOfLife", "BigBeautifulWoman", "ChekhovsGunman", "StepfordSmiler", "NiceGirl", "BreakTheCutie", "FertileFeet"], "tropes_by_category": {}, "similar": [{"name": "Rose Quartzes (Zoo)", "show": "Steven Universe", "id": "steven_universe_rose_quartzes_zoo", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Krystal Goderitch", "show": "Orphan Black", "id": "orphan_black_krystal_goderitch", "similarity": 0.08, "shared_tropes": 4}]}

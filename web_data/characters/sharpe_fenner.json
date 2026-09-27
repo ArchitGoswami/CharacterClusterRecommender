@@ -1,18 +1,1 @@
-{
-  "name": "Fenner",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "AristocratsAreEvil",
-    "AffablyEvil",
-    "TheManBehindTheMan",
-    "AdaptationalAttractiveness",
-    "VillainousBreakdown",
-    "BigBad",
-    "KnowWhenToFoldEm",
-    "KickTheDog",
-    "TheStoic",
-    "VillainWithGoodPublicity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fenner", "show": "Sharpe", "trope_count": 10, "tropes": ["AristocratsAreEvil", "AffablyEvil", "TheManBehindTheMan", "AdaptationalAttractiveness", "VillainousBreakdown", "BigBad", "KnowWhenToFoldEm", "KickTheDog", "TheStoic", "VillainWithGoodPublicity"], "tropes_by_category": {}, "similar": [{"name": "Tatsuoki Furumizu", "show": "Witchblade", "id": "witchblade_tatsuoki_furumizu", "similarity": 0.2, "shared_tropes": 4}, {"name": "James Kendrick", "show": "Burn Notice", "id": "burn_notice_james_kendrick", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Evie Cho", "show": "Orphan Black", "id": "orphan_black_evie_cho", "similarity": 0.125, "shared_tropes": 4}, {"name": "Kasane Kujiragi", "show": "Durarara!!", "id": "durarara_kasane_kujiragi", "similarity": 0.1111, "shared_tropes": 5}, {"name": "Kurt Caldwell", "show": "Dexter", "id": "dexter_kurt_caldwell", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Damon Pope", "show": "Sons of Anarchy", "id": "sons_of_anarchy_damon_pope", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Hades", "show": "Once Upon a Time", "id": "once_upon_a_time_hades", "similarity": 0.1042, "shared_tropes": 5}, {"name": "Maurice Levy", "show": "The Wire", "id": "the_wire_maurice_levy", "similarity": 0.093, "shared_tropes": 4}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Mr. Moulterd",
-  "show": "Are You Being Served?",
-  "trope_count": 4,
-  "tropes": [
-    "NoIndoorVoice",
-    "LowerClassLout",
-    "AbhorrentAdmirer",
-    "OldShame"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Moulterd", "show": "Are You Being Served?", "trope_count": 4, "tropes": ["NoIndoorVoice", "LowerClassLout", "AbhorrentAdmirer", "OldShame"], "tropes_by_category": {}, "similar": []}

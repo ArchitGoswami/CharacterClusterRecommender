@@ -1,12 +1,1 @@
-{
-  "name": "Dark Washu",
-  "show": "Tenchi in Tokyo",
-  "trope_count": 4,
-  "tropes": [
-    "EvilCounterpart",
-    "RedemptionEqualsDeath",
-    "BreakingTheFourthWall",
-    "AntiVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dark Washu", "show": "Tenchi in Tokyo", "trope_count": 4, "tropes": ["EvilCounterpart", "RedemptionEqualsDeath", "BreakingTheFourthWall", "AntiVillain"], "tropes_by_category": {}, "similar": [{"name": "Dark Washu", "show": "Tenchi Muyo! Ryo-Ohki", "id": "tenchi_muyo_ryo_ohki_dark_washu", "similarity": 1.0, "shared_tropes": 4}, {"name": "Dark Washu", "show": "Tenchi Universe", "id": "tenchi_universe_dark_washu", "similarity": 1.0, "shared_tropes": 4}]}

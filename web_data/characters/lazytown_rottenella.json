@@ -1,16 +1,1 @@
-{
-  "name": "Rottenella",
-  "show": "Lazytown",
-  "trope_count": 8,
-  "tropes": [
-    "CheatersNeverProsper",
-    "AtrociousAlias",
-    "TheRival",
-    "KickTheDog",
-    "PurpleIsPowerful",
-    "SilentSnarker",
-    "SilentAntagonist",
-    "RobotGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rottenella", "show": "Lazytown", "trope_count": 8, "tropes": ["CheatersNeverProsper", "AtrociousAlias", "TheRival", "KickTheDog", "PurpleIsPowerful", "SilentSnarker", "SilentAntagonist", "RobotGirl"], "tropes_by_category": {}, "similar": []}

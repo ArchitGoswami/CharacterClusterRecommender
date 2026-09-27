@@ -1,16 +1,1 @@
-{
-  "name": "Don Jalapeño",
-  "show": "Victor and Valentino",
-  "trope_count": 8,
-  "tropes": [
-    "IronicName",
-    "PottyEmergency",
-    "TheMole",
-    "TheMindIsAPlaythingOfTheBody",
-    "IgnoredExpert",
-    "LikesOlderWomen",
-    "OverlyNervousFlopSweat",
-    "FatIdiot"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Don Jalapeño", "show": "Victor and Valentino", "trope_count": 8, "tropes": ["IronicName", "PottyEmergency", "TheMole", "TheMindIsAPlaythingOfTheBody", "IgnoredExpert", "LikesOlderWomen", "OverlyNervousFlopSweat", "FatIdiot"], "tropes_by_category": {}, "similar": []}

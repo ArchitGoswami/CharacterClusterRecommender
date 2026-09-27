@@ -1,17 +1,1 @@
-{
-  "name": "Penny Kirkman",
-  "show": "Designated Survivor",
-  "trope_count": 9,
-  "tropes": [
-    "DeadpanSnarker",
-    "AllGirlsLikePonies",
-    "HairOfGoldHeartOfGold",
-    "AffectionateNickname",
-    "TheCutie",
-    "AdorablyPrecociousChild",
-    "InnocenceLost",
-    "RankUp",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Penny Kirkman", "show": "Designated Survivor", "trope_count": 9, "tropes": ["DeadpanSnarker", "AllGirlsLikePonies", "HairOfGoldHeartOfGold", "AffectionateNickname", "TheCutie", "AdorablyPrecociousChild", "InnocenceLost", "RankUp", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "James Lucas \"Jamie\" Scott", "show": "One Tree Hill", "id": "one_tree_hill_james_lucas_jamie_scott", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Miles \"Tails\" Prower", "show": "Sonic the Hedgehog(SatAM)", "id": "sonic_the_hedgehogsatam_miles_tails_prower", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Lana L. Loud", "show": "Loud House, The", "id": "loud_house_the_lana_l_loud", "similarity": 0.0658, "shared_tropes": 5}, {"name": "Former Main Dancers", "show": "Dance Moms!!", "id": "dance_moms_former_main_dancers", "similarity": 0.0407, "shared_tropes": 5}, {"name": "Henry Mills", "show": "Once Upon a Time", "id": "once_upon_a_time_henry_mills", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Pip Pirrup", "show": "South Park", "id": "south_park_pip_pirrup", "similarity": 0.0364, "shared_tropes": 4}, {"name": "Rebecca Bunch", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_rebecca_bunch", "similarity": 0.0357, "shared_tropes": 4}]}

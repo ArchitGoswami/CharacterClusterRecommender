@@ -1,15 +1,1 @@
-{
-  "name": "Sadness",
-  "show": "Bravest Warriors",
-  "trope_count": 7,
-  "tropes": [
-    "HeelFaceTurn",
-    "FluffyTheTerrible",
-    "CanonForeigner",
-    "SadClown",
-    "DeadGuyPuppet",
-    "ArcVillain",
-    "CurbStompBattle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sadness", "show": "Bravest Warriors", "trope_count": 7, "tropes": ["HeelFaceTurn", "FluffyTheTerrible", "CanonForeigner", "SadClown", "DeadGuyPuppet", "ArcVillain", "CurbStompBattle"], "tropes_by_category": {}, "similar": []}

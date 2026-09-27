@@ -1,17 +1,1 @@
-{
-  "name": "Ray Stabler",
-  "show": "Mom",
-  "trope_count": 9,
-  "tropes": [
-    "OddFriendship",
-    "TheStoner",
-    "FatalFlaw",
-    "TheAlcoholic",
-    "PlayedForDrama",
-    "TwoferTokenMinority",
-    "JerkassHasAPoint",
-    "MoodWhiplash",
-    "Pride"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ray Stabler", "show": "Mom", "trope_count": 9, "tropes": ["OddFriendship", "TheStoner", "FatalFlaw", "TheAlcoholic", "PlayedForDrama", "TwoferTokenMinority", "JerkassHasAPoint", "MoodWhiplash", "Pride"], "tropes_by_category": {}, "similar": [{"name": "Martin Hart", "show": "True Detective", "id": "true_detective_martin_hart", "similarity": 0.0625, "shared_tropes": 5}]}

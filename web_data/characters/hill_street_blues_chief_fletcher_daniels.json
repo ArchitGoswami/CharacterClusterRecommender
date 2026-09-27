@@ -1,16 +1,1 @@
-{
-  "name": "Chief Fletcher Daniels",
-  "show": "Hill Street Blues",
-  "trope_count": 8,
-  "tropes": [
-    "Foil",
-    "AmbitionIsEvil",
-    "JerkAss",
-    "PlayedWith",
-    "MagnificentBastard",
-    "ObstructiveBureaucrat",
-    "HoistByHisOwnPetard",
-    "CorruptBureaucrat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chief Fletcher Daniels", "show": "Hill Street Blues", "trope_count": 8, "tropes": ["Foil", "AmbitionIsEvil", "JerkAss", "PlayedWith", "MagnificentBastard", "ObstructiveBureaucrat", "HoistByHisOwnPetard", "CorruptBureaucrat"], "tropes_by_category": {}, "similar": []}

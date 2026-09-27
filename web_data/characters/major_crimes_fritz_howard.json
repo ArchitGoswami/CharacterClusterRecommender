@@ -1,18 +1,1 @@
-{
-  "name": "Fritz Howard",
-  "show": "Major Crimes",
-  "trope_count": 10,
-  "tropes": [
-    "DaChief",
-    "AndStarring",
-    "FBIAgent",
-    "BerserkButton",
-    "TheTeetotaler",
-    "HappilyMarried",
-    "WorkingTheSameCase",
-    "TheAlcoholic",
-    "BewareTheNiceOnes",
-    "JurisdictionFriction"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Fritz Howard", "show": "Major Crimes", "trope_count": 10, "tropes": ["DaChief", "AndStarring", "FBIAgent", "BerserkButton", "TheTeetotaler", "HappilyMarried", "WorkingTheSameCase", "TheAlcoholic", "BewareTheNiceOnes", "JurisdictionFriction"], "tropes_by_category": {}, "similar": [{"name": "Fritz Howard", "show": "Closer, The", "id": "closer_the_fritz_howard", "similarity": 1.0, "shared_tropes": 10}, {"name": "Roger Sterling", "show": "Mad Men", "id": "mad_men_roger_sterling", "similarity": 0.0588, "shared_tropes": 4}]}

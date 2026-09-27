@@ -1,17 +1,1 @@
-{
-  "name": "Kenny James",
-  "show": "My Name Is Earl",
-  "trope_count": 9,
-  "tropes": [
-    "OddFriendship",
-    "HaveIMentionedIAmHeterosexualToday",
-    "NiceGuy",
-    "ClubKid",
-    "SomethingElseAlsoRises",
-    "LateComingOut",
-    "TheSmartGuy",
-    "SixthRanger",
-    "ExtremeDoormat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kenny James", "show": "My Name Is Earl", "trope_count": 9, "tropes": ["OddFriendship", "HaveIMentionedIAmHeterosexualToday", "NiceGuy", "ClubKid", "SomethingElseAlsoRises", "LateComingOut", "TheSmartGuy", "SixthRanger", "ExtremeDoormat"], "tropes_by_category": {}, "similar": [{"name": "Martin Prince", "show": "Simpsons,The", "id": "simpsonsthe_martin_prince", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Martin Prince", "show": "The Simpsons", "id": "the_simpsons_martin_prince", "similarity": 0.0656, "shared_tropes": 4}]}

@@ -1,15 +1,1 @@
-{
-  "name": "King Mumbo Jumbo",
-  "show": "ChalkZone",
-  "trope_count": 7,
-  "tropes": [
-    "HeroicSacrifice",
-    "SealedEvilInADuel",
-    "BigGood",
-    "HeterosexualLifePartners",
-    "RoyalsWhoActuallyDoSomething",
-    "ReallySevenHundredYearsOld",
-    "TheGoodKing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "King Mumbo Jumbo", "show": "ChalkZone", "trope_count": 7, "tropes": ["HeroicSacrifice", "SealedEvilInADuel", "BigGood", "HeterosexualLifePartners", "RoyalsWhoActuallyDoSomething", "ReallySevenHundredYearsOld", "TheGoodKing"], "tropes_by_category": {}, "similar": [{"name": "The Pharaoh", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_the_pharaoh", "similarity": 0.1538, "shared_tropes": 4}]}

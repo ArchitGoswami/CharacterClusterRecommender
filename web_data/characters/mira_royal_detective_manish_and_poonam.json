@@ -1,14 +1,1 @@
-{
-  "name": "Manish and Poonam",
-  "show": "Mira, Royal Detective",
-  "trope_count": 6,
-  "tropes": [
-    "AllThereInTheScript",
-    "WeWillMeetAgain",
-    "TheUnmasking",
-    "FairPlayWhodunnit",
-    "PaperThinDisguise",
-    "DidntThinkThisThrough"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Manish and Poonam", "show": "Mira, Royal Detective", "trope_count": 6, "tropes": ["AllThereInTheScript", "WeWillMeetAgain", "TheUnmasking", "FairPlayWhodunnit", "PaperThinDisguise", "DidntThinkThisThrough"], "tropes_by_category": {}, "similar": []}

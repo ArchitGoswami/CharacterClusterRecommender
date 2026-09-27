@@ -1,14 +1,1 @@
-{
-  "name": "Mario Calderón",
-  "show": "Yo soy Betty, la Fea",
-  "trope_count": 6,
-  "tropes": [
-    "TheCasanova",
-    "RedOniBlueOni",
-    "WhatDoesHeSeeInHer",
-    "ManipulativeBastard",
-    "LackOfEmpathy",
-    "BreakThemByTalking"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mario Calderón", "show": "Yo soy Betty, la Fea", "trope_count": 6, "tropes": ["TheCasanova", "RedOniBlueOni", "WhatDoesHeSeeInHer", "ManipulativeBastard", "LackOfEmpathy", "BreakThemByTalking"], "tropes_by_category": {}, "similar": [{"name": "Charlie Harper", "show": "Two and a Half Men", "id": "two_and_a_half_men_charlie_harper", "similarity": 0.0354, "shared_tropes": 4}]}

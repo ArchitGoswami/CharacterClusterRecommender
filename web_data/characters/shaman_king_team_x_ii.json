@@ -1,16 +1,1 @@
-{
-  "name": "Team X-II",
-  "show": "Shaman King",
-  "trope_count": 8,
-  "tropes": [
-    "BrokenPedestal",
-    "HeroicSacrifice",
-    "TheBigGuy",
-    "WorthyOpponent",
-    "BerserkButton",
-    "KillSat",
-    "UndyingLoyalty",
-    "TheLostLenore"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Team X-II", "show": "Shaman King", "trope_count": 8, "tropes": ["BrokenPedestal", "HeroicSacrifice", "TheBigGuy", "WorthyOpponent", "BerserkButton", "KillSat", "UndyingLoyalty", "TheLostLenore"], "tropes_by_category": {}, "similar": [{"name": "Tatsuya (Tate), Ayu (Allie), and Futoshi (Frederick)", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_tatsuya_tate_ayu_allie_and_futoshi_frederick", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Ianto Jones", "show": "Torchwood", "id": "torchwood_ianto_jones", "similarity": 0.0625, "shared_tropes": 5}, {"name": "Noboru Gongenzaka (Gong Strong)", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_noboru_gongenzaka_gong_strong", "similarity": 0.0444, "shared_tropes": 4}, {"name": "Veronica Lodge", "show": "Riverdale", "id": "riverdale_veronica_lodge", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Captain Grimothy \"Grime\"", "show": "Amphibia", "id": "amphibia_captain_grimothy_grime", "similarity": 0.0354, "shared_tropes": 4}]}

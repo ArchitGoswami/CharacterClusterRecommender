@@ -1,18 +1,1 @@
-{
-  "name": "Carrie Wilson",
-  "show": "Julie and the Phantoms",
-  "trope_count": 10,
-  "tropes": [
-    "LonelyRichKid",
-    "GirlPosse",
-    "AlphaBitch",
-    "PinkMeansFeminine",
-    "RichBitch",
-    "GirlyGirl",
-    "CharacterDevelopment",
-    "ItsAllAboutMe",
-    "JerkassHasAPoint",
-    "WeUsedToBeFriends"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Carrie Wilson", "show": "Julie and the Phantoms", "trope_count": 10, "tropes": ["LonelyRichKid", "GirlPosse", "AlphaBitch", "PinkMeansFeminine", "RichBitch", "GirlyGirl", "CharacterDevelopment", "ItsAllAboutMe", "JerkassHasAPoint", "WeUsedToBeFriends"], "tropes_by_category": {}, "similar": [{"name": "Clare Brewster", "show": "Beetlejuice", "id": "beetlejuice_clare_brewster", "similarity": 0.1667, "shared_tropes": 5}, {"name": "Nina Harper", "show": "Braceface", "id": "braceface_nina_harper", "similarity": 0.125, "shared_tropes": 4}, {"name": "Courtney Wheeler", "show": "Bob's Burgers", "id": "bobs_burgers_courtney_wheeler", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Moody Margaret Millicent Maudita Smythe", "show": "Horrid Henry", "id": "horrid_henry_moody_margaret_millicent_maudita_smythe", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Isadora Artiñán", "show": "Elite", "id": "elite_isadora_arti_n", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Missy Meany", "show": "Ned's Declassified School Survival Guide", "id": "neds_declassified_school_survival_guide_missy_meany", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Mitzi", "show": "Winx Club", "id": "winx_club_mitzi", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Brittney Wong", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_brittney_wong", "similarity": 0.1053, "shared_tropes": 4}]}

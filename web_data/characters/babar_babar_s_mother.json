@@ -1,18 +1,1 @@
-{
-  "name": "Babar's mother",
-  "show": "Babar",
-  "trope_count": 10,
-  "tropes": [
-    "HeroicSacrifice",
-    "KilledOffForReal",
-    "DyingMomentOfAwesome",
-    "GoodParents",
-    "MamaBear",
-    "BloodlessCarnage",
-    "PosthumousCharacter",
-    "ForTheEvulz",
-    "NoNameGiven",
-    "AdaptationalBadass"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Babar's mother", "show": "Babar", "trope_count": 10, "tropes": ["HeroicSacrifice", "KilledOffForReal", "DyingMomentOfAwesome", "GoodParents", "MamaBear", "BloodlessCarnage", "PosthumousCharacter", "ForTheEvulz", "NoNameGiven", "AdaptationalBadass"], "tropes_by_category": {}, "similar": [{"name": "Belle's Mother", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_belle_s_mother", "similarity": 0.2, "shared_tropes": 4}, {"name": "The Empress", "show": "Samurai Jack", "id": "samurai_jack_the_empress", "similarity": 0.2, "shared_tropes": 4}, {"name": "Mr. and Mrs. Ackerman", "show": "Attack on Titan", "id": "attack_on_titan_mr_and_mrs_ackerman", "similarity": 0.1739, "shared_tropes": 4}, {"name": "The Hunter", "show": "Babar", "id": "babar_the_hunter", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Ellen Harvelle", "show": "Supernatural", "id": "supernatural_ellen_harvelle", "similarity": 0.1111, "shared_tropes": 5}, {"name": "Might Duy", "show": "Naruto", "id": "naruto_might_duy", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Zor-El & Alura In-Ze", "show": "Supergirl", "id": "supergirl_zor_el_alura_in_ze", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Toga, The Great Dog Demon", "show": "InuYasha", "id": "inuyasha_toga_the_great_dog_demon", "similarity": 0.069, "shared_tropes": 4}]}

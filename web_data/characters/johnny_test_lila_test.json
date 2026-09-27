@@ -1,16 +1,1 @@
-{
-  "name": "Lila Test",
-  "show": "Johnny Test",
-  "trope_count": 8,
-  "tropes": [
-    "MyBelovedSmother",
-    "LethalChef",
-    "ActionMom",
-    "MamaBear",
-    "TomboyWithAGirlyStreak",
-    "JustifiedTrope",
-    "OutOfFocus",
-    "Workaholic"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lila Test", "show": "Johnny Test", "trope_count": 8, "tropes": ["MyBelovedSmother", "LethalChef", "ActionMom", "MamaBear", "TomboyWithAGirlyStreak", "JustifiedTrope", "OutOfFocus", "Workaholic"], "tropes_by_category": {}, "similar": [{"name": "Maria Casagrande-Santiago", "show": "Casagrandes, The", "id": "casagrandes_the_maria_casagrande_santiago", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Maria Casagrande-Santiago", "show": "Loud House, The", "id": "loud_house_the_maria_casagrande_santiago", "similarity": 0.1739, "shared_tropes": 4}, {"name": "Kushina Uzumaki", "show": "Naruto", "id": "naruto_kushina_uzumaki", "similarity": 0.044, "shared_tropes": 4}, {"name": "Yoko Littner", "show": "Tengen Toppa Gurren Lagann", "id": "tengen_toppa_gurren_lagann_yoko_littner", "similarity": 0.041, "shared_tropes": 5}, {"name": "Sgt. Amanda Rollins", "show": "Law & Order: Special Victims Unit", "id": "law_and_order_special_victims_unit_sgt_amanda_rollins", "similarity": 0.0381, "shared_tropes": 4}]}

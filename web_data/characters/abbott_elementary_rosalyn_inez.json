@@ -1,14 +1,1 @@
-{
-  "name": "Rosalyn Inez",
-  "show": "Abbott Elementary",
-  "trope_count": 6,
-  "tropes": [
-    "OnlySaneWoman",
-    "ActorAllusion",
-    "FriendToAllChildren",
-    "ObstructiveBureaucrat",
-    "HiddenDepths",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rosalyn Inez", "show": "Abbott Elementary", "trope_count": 6, "tropes": ["OnlySaneWoman", "ActorAllusion", "FriendToAllChildren", "ObstructiveBureaucrat", "HiddenDepths", "NiceGirl"], "tropes_by_category": {}, "similar": [{"name": "Zoey Howser", "show": "Proud Family, The", "id": "proud_family_the_zoey_howser", "similarity": 0.1, "shared_tropes": 4}, {"name": "Characters played by David Walliams", "show": "Little Britain", "id": "little_britain_characters_played_by_david_walliams", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Kitty Katswell", "show": "T.U.F.F. Puppy", "id": "tuff_puppy_kitty_katswell", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Leni L. Loud", "show": "Loud House, The", "id": "loud_house_the_leni_l_loud", "similarity": 0.037, "shared_tropes": 4}]}

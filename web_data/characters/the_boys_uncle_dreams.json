@@ -1,16 +1,1 @@
-{
-  "name": "Uncle Dreams",
-  "show": "The Boys",
-  "trope_count": 8,
-  "tropes": [
-    "RacistGrandma",
-    "SubParSupremacist",
-    "Deconstruction",
-    "OldSuperhero",
-    "PoliticallyIncorrectHero",
-    "PottyFailure",
-    "ScatterbrainedSenior",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Uncle Dreams", "show": "The Boys", "trope_count": 8, "tropes": ["RacistGrandma", "SubParSupremacist", "Deconstruction", "OldSuperhero", "PoliticallyIncorrectHero", "PottyFailure", "ScatterbrainedSenior", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Uncle Dreams", "show": "Boys, The", "id": "boys_the_uncle_dreams", "similarity": 1.0, "shared_tropes": 8}]}

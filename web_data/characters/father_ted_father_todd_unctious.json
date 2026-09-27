@@ -1,14 +1,1 @@
-{
-  "name": "Father Todd Unctious",
-  "show": "Father Ted",
-  "trope_count": 6,
-  "tropes": [
-    "DressingAsTheEnemy",
-    "SinisterMinister",
-    "BaldOfEvil",
-    "NoNameGiven",
-    "BitchInSheepsClothing",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Father Todd Unctious", "show": "Father Ted", "trope_count": 6, "tropes": ["DressingAsTheEnemy", "SinisterMinister", "BaldOfEvil", "NoNameGiven", "BitchInSheepsClothing", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Cornello", "show": "Fullmetal Alchemist", "id": "fullmetal_alchemist_cornello", "similarity": 0.1176, "shared_tropes": 4}]}

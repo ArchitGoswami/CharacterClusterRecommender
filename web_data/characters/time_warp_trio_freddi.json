@@ -1,13 +1,1 @@
-{
-  "name": "Freddi",
-  "show": "Time Warp Trio",
-  "trope_count": 5,
-  "tropes": [
-    "OnlySaneWoman",
-    "Catchphrase",
-    "LovableCoward",
-    "TownGirls",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Freddi", "show": "Time Warp Trio", "trope_count": 5, "tropes": ["OnlySaneWoman", "Catchphrase", "LovableCoward", "TownGirls", "NiceGirl"], "tropes_by_category": {}, "similar": [{"name": "Phoebe", "show": "Friends", "id": "friends_phoebe", "similarity": 0.0357, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Connie James",
-  "show": "Spooks",
-  "trope_count": 8,
-  "tropes": [
-    "TheReveal",
-    "Expy",
-    "RunningGag",
-    "TheMole",
-    "LadyDrunk",
-    "NeverMessWithGranny",
-    "CombatPragmatist",
-    "RedemptionEqualsDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Connie James", "show": "Spooks", "trope_count": 8, "tropes": ["TheReveal", "Expy", "RunningGag", "TheMole", "LadyDrunk", "NeverMessWithGranny", "CombatPragmatist", "RedemptionEqualsDeath"], "tropes_by_category": {}, "similar": [{"name": "Malory Archer", "show": "Archer", "id": "archer_malory_archer", "similarity": 0.0413, "shared_tropes": 5}, {"name": "Vincent Sobel / Vigilante", "show": "Arrow", "id": "arrow_vincent_sobel_vigilante", "similarity": 0.0408, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Pixel",
-  "show": "Bravest Warriors",
-  "trope_count": 6,
-  "tropes": [
-    "WordOfGod",
-    "CrazyJealousGuy",
-    "WhatHappenedToTheMouse",
-    "MurderTheHypotenuse",
-    "UnwittingInstigatorOfDoom",
-    "CrossDressingVoices"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Pixel", "show": "Bravest Warriors", "trope_count": 6, "tropes": ["WordOfGod", "CrazyJealousGuy", "WhatHappenedToTheMouse", "MurderTheHypotenuse", "UnwittingInstigatorOfDoom", "CrossDressingVoices"], "tropes_by_category": {}, "similar": []}

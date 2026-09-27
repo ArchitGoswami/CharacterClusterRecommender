@@ -1,14 +1,1 @@
-{
-  "name": "Kendall",
-  "show": "Alias",
-  "trope_count": 6,
-  "tropes": [
-    "MrExposition",
-    "JerkWithAHeartOfGold",
-    "TookALevelInBadass",
-    "SameCharacterButDifferent",
-    "ObstructiveBureaucrat",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kendall", "show": "Alias", "trope_count": 6, "tropes": ["MrExposition", "JerkWithAHeartOfGold", "TookALevelInBadass", "SameCharacterButDifferent", "ObstructiveBureaucrat", "NoNameGiven"], "tropes_by_category": {}, "similar": []}

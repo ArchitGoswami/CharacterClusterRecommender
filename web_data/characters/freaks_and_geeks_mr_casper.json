@@ -1,16 +1,1 @@
-{
-  "name": "Mr. Casper",
-  "show": "Freaks and Geeks",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "SurroundedByIdiots",
-    "SadistTeacher",
-    "BreakTheHaughty",
-    "Jerkass",
-    "ApatheticTeacher",
-    "AmbiguouslyGay",
-    "SmugSnake"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Casper", "show": "Freaks and Geeks", "trope_count": 8, "tropes": ["DeadpanSnarker", "SurroundedByIdiots", "SadistTeacher", "BreakTheHaughty", "Jerkass", "ApatheticTeacher", "AmbiguouslyGay", "SmugSnake"], "tropes_by_category": {}, "similar": [{"name": "Elizabeth Hoover", "show": "Simpsons,The", "id": "simpsonsthe_elizabeth_hoover", "similarity": 0.125, "shared_tropes": 4}, {"name": "Elizabeth Hoover", "show": "The Simpsons", "id": "the_simpsons_elizabeth_hoover", "similarity": 0.125, "shared_tropes": 4}, {"name": "Mr. Gilbert", "show": "Inbetweeners, The", "id": "inbetweeners_the_mr_gilbert", "similarity": 0.122, "shared_tropes": 5}, {"name": "Season  9", "show": "Simpsons,The", "id": "simpsonsthe_season_9", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Season  9", "show": "The Simpsons", "id": "the_simpsons_season_9", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Edna Krabappel", "show": "Simpsons,The", "id": "simpsonsthe_edna_krabappel", "similarity": 0.08, "shared_tropes": 4}, {"name": "Edna Krabappel", "show": "The Simpsons", "id": "the_simpsons_edna_krabappel", "similarity": 0.08, "shared_tropes": 4}, {"name": "Coach Buzzcut", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_coach_buzzcut", "similarity": 0.0635, "shared_tropes": 4}]}

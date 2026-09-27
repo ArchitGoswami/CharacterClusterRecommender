@@ -1,12 +1,1 @@
-{
-  "name": "Laura Carrot",
-  "show": "VeggieTales",
-  "trope_count": 4,
-  "tropes": [
-    "BadassAdorable",
-    "YouthfulFreckles",
-    "HairofGoldHeartofGold",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Laura Carrot", "show": "VeggieTales", "trope_count": 4, "tropes": ["BadassAdorable", "YouthfulFreckles", "HairofGoldHeartofGold", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Laura Carrot", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_laura_carrot", "similarity": 1.0, "shared_tropes": 4}]}

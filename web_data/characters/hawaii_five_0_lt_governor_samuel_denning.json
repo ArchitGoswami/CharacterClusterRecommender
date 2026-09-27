@@ -1,14 +1,1 @@
-{
-  "name": "Lt. Governor Samuel Denning",
-  "show": "Hawaii Five-0",
-  "trope_count": 6,
-  "tropes": [
-    "AntagonisticGovernor",
-    "LawfulNeutral",
-    "ReasonableAuthorityFigure",
-    "PutOnABus",
-    "ObstructiveBureaucrat",
-    "NamedAfterSomebodyFamous"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lt. Governor Samuel Denning", "show": "Hawaii Five-0", "trope_count": 6, "tropes": ["AntagonisticGovernor", "LawfulNeutral", "ReasonableAuthorityFigure", "PutOnABus", "ObstructiveBureaucrat", "NamedAfterSomebodyFamous"], "tropes_by_category": {}, "similar": []}

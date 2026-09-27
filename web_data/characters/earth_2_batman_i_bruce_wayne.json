@@ -1,13 +1,1 @@
-{
-  "name": "Batman I (Bruce Wayne)",
-  "show": "Earth 2",
-  "trope_count": 5,
-  "tropes": [
-    "HeroicSacrifice",
-    "YoureNotMyFather",
-    "HappilyMarried",
-    "SuicideMission",
-    "DatingCatwoman"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Batman I (Bruce Wayne)", "show": "Earth 2", "trope_count": 5, "tropes": ["HeroicSacrifice", "YoureNotMyFather", "HappilyMarried", "SuicideMission", "DatingCatwoman"], "tropes_by_category": {}, "similar": []}

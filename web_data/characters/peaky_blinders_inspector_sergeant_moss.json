@@ -1,14 +1,1 @@
-{
-  "name": "Inspector/Sergeant Moss",
-  "show": "Peaky Blinders",
-  "trope_count": 6,
-  "tropes": [
-    "DirtyCop",
-    "DeadpanSnarker",
-    "ReasonableAuthorityFigure",
-    "FriendOnTheForce",
-    "GroinAttack",
-    "ScrewTheMoneyIHaveRules"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Inspector/Sergeant Moss", "show": "Peaky Blinders", "trope_count": 6, "tropes": ["DirtyCop", "DeadpanSnarker", "ReasonableAuthorityFigure", "FriendOnTheForce", "GroinAttack", "ScrewTheMoneyIHaveRules"], "tropes_by_category": {}, "similar": []}

@@ -1,15 +1,1 @@
-{
-  "name": "Ninjaka, the Ninjazouaves",
-  "show": "PJ Masks",
-  "trope_count": 7,
-  "tropes": [
-    "MiniMook",
-    "AmbiguouslyHuman",
-    "GratuitousNinja",
-    "SmallNameBigEgo",
-    "AdorableEvilMinions",
-    "ColorCodedCharacters",
-    "HighlyVisibleNinja"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ninjaka, the Ninjazouaves", "show": "PJ Masks", "trope_count": 7, "tropes": ["MiniMook", "AmbiguouslyHuman", "GratuitousNinja", "SmallNameBigEgo", "AdorableEvilMinions", "ColorCodedCharacters", "HighlyVisibleNinja"], "tropes_by_category": {}, "similar": [{"name": "Night Ninja and the Ninjalinos", "show": "PJ Masks", "id": "pj_masks_night_ninja_and_the_ninjalinos", "similarity": 0.2059, "shared_tropes": 7}]}

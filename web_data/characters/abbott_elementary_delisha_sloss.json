@@ -1,13 +1,1 @@
-{
-  "name": "Delisha Sloss",
-  "show": "Abbott Elementary",
-  "trope_count": 5,
-  "tropes": [
-    "Blackmail",
-    "JerkWithAHeartofJerk",
-    "AssholeVictim",
-    "JerkAss",
-    "Hypocrite"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Delisha Sloss", "show": "Abbott Elementary", "trope_count": 9, "tropes": ["Hypocrite", "ProperLady", "JerkWithAHeartofJerk", "EvilCounterpart", "PoliticallyIncorrectVillain", "AssholeVictim", "Blackmail", "JerkAss", "AlphaBitch"], "tropes_by_category": {}, "similar": [{"name": "Edie Poovey", "show": "Archer", "id": "archer_edie_poovey", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Doctor Valentin Narcisse", "show": "Boardwalk Empire", "id": "boardwalk_empire_doctor_valentin_narcisse", "similarity": 0.0615, "shared_tropes": 4}, {"name": "The Vexicons", "show": "Mysticons", "id": "mysticons_the_vexicons", "similarity": 0.0606, "shared_tropes": 4}, {"name": "The Commodore", "show": "Boardwalk Empire", "id": "boardwalk_empire_the_commodore", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Eli Thompson", "show": "Boardwalk Empire", "id": "boardwalk_empire_eli_thompson", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Jackie Aprile Jr.", "show": "Sopranos,The", "id": "sopranosthe_jackie_aprile_jr", "similarity": 0.0472, "shared_tropes": 5}, {"name": "Jackie Aprile Jr.", "show": "The Sopranos", "id": "the_sopranos_jackie_aprile_jr", "similarity": 0.0472, "shared_tropes": 5}, {"name": "Preston Northwest", "show": "Gravity Falls", "id": "gravity_falls_preston_northwest", "similarity": 0.0431, "shared_tropes": 5}]}

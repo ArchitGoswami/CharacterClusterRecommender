@@ -1,14 +1,1 @@
-{
-  "name": "William Cross",
-  "show": "Kings",
-  "trope_count": 6,
-  "tropes": [
-    "TheChessmaster",
-    "GotMeDoingIt",
-    "WarForFunAndProfit",
-    "EvenEvilHasStandards",
-    "PapaWolf",
-    "EvilUncle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "William Cross", "show": "Kings", "trope_count": 6, "tropes": ["TheChessmaster", "GotMeDoingIt", "WarForFunAndProfit", "EvenEvilHasStandards", "PapaWolf", "EvilUncle"], "tropes_by_category": {}, "similar": []}

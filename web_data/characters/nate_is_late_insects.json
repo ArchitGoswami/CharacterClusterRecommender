@@ -1,14 +1,1 @@
-{
-  "name": "Insects",
-  "show": "Nate is Late",
-  "trope_count": 6,
-  "tropes": [
-    "DarkIsNotEvil",
-    "Fartillery",
-    "ChangedMyMindKid",
-    "WhatMeasureIsANonHuman",
-    "FantasticRacism",
-    "UngratefulBastard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Insects", "show": "Nate is Late", "trope_count": 7, "tropes": ["Fartillery", "WhatMeasureIsANonHuman", "FantasticRacism", "DarkIsNotEvil", "TheCameo", "ChangedMyMindKid", "UngratefulBastard"], "tropes_by_category": {}, "similar": []}

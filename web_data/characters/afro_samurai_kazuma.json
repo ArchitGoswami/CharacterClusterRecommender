@@ -1,15 +1,1 @@
-{
-  "name": "Kazuma",
-  "show": "Afro Samurai",
-  "trope_count": 7,
-  "tropes": [
-    "RedOniBlueOni",
-    "Expy",
-    "NerdGlasses",
-    "WhatHappenedToTheMouse",
-    "RuleOfThree",
-    "SesquipedalianLoquaciousness",
-    "MotorMouth"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kazuma", "show": "Afro Samurai", "trope_count": 7, "tropes": ["RedOniBlueOni", "Expy", "NerdGlasses", "WhatHappenedToTheMouse", "RuleOfThree", "SesquipedalianLoquaciousness", "MotorMouth"], "tropes_by_category": {}, "similar": [{"name": "Dexter Douglas/Freakazoid and Family", "show": "Freakazoid!", "id": "freakazoid_dexter_douglas_freakazoid_and_family", "similarity": 0.0494, "shared_tropes": 4}, {"name": "UK Side", "show": "Whose Line Is It Anyway?", "id": "whose_line_is_it_anyway_uk_side", "similarity": 0.036, "shared_tropes": 4}]}

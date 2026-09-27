@@ -1,18 +1,1 @@
-{
-  "name": "Ferret",
-  "show": "Static Shock",
-  "trope_count": 10,
-  "tropes": [
-    "GagNose",
-    "GrandFinale",
-    "HarmlessVillain",
-    "GoofyBuckteeth",
-    "TheNoseKnows",
-    "VillainousGlutton",
-    "SissyVillain",
-    "Gonk",
-    "EvenEvilHasStandards",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Ferret", "show": "Static Shock", "trope_count": 10, "tropes": ["GagNose", "GrandFinale", "HarmlessVillain", "GoofyBuckteeth", "TheNoseKnows", "VillainousGlutton", "SissyVillain", "Gonk", "EvenEvilHasStandards", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Dr. Eggman", "show": "Sonic Boom", "id": "sonic_boom_dr_eggman", "similarity": 0.0379, "shared_tropes": 5}]}

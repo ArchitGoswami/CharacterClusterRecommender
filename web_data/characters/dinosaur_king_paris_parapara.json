@@ -1,17 +1,1 @@
-{
-  "name": "Paris (Parapara)",
-  "show": "Dinosaur King",
-  "trope_count": 9,
-  "tropes": [
-    "GentleGiant",
-    "SummonBiggerFish",
-    "FourLegsGoodTwoLegsBetter",
-    "MakeSomeNoise",
-    "WhiteMagicianGirl",
-    "GreenThumb",
-    "CuteButCacophonic",
-    "CharacterTic",
-    "GlassCannon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paris (Parapara)", "show": "Dinosaur King", "trope_count": 11, "tropes": ["CuteButCacophonic", "WhiteMagicianGirl", "FourLegsGoodTwoLegsBetter", "SocialOrnithopod", "MakeSomeNoise", "GlassCannon", "CharacterTic", "AquaticHadrosaurs", "GreenThumb", "SummonBiggerFish", "GentleGiant"], "tropes_by_category": {}, "similar": [{"name": "Grass Dinosaurs", "show": "Dinosaur King", "id": "dinosaur_king_grass_dinosaurs", "similarity": 0.1053, "shared_tropes": 4}]}

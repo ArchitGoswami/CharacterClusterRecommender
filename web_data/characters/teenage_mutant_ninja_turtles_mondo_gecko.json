@@ -1,13 +1,1 @@
-{
-  "name": "Mondo Gecko",
-  "show": "Teenage Mutant Ninja Turtles",
-  "trope_count": 5,
-  "tropes": [
-    "HeelFaceTurn",
-    "NonMammalianHair",
-    "TotallyRadical",
-    "Metamorphosis",
-    "LovableLizard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mondo Gecko", "show": "Teenage Mutant Ninja Turtles", "trope_count": 16, "tropes": ["CompositeCharacter", "LovableLizard", "TheVoiceless", "NonMammalianHair", "AdaptationalVillainy", "PunchClockVillain", "CoolBoard", "ApologeticAttacker", "HeelFaceTurn", "TotallyRadical", "InterspeciesRomance", "TheGlomp", "BearHug", "Downplayed", "TokenGoodTeammate", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Colossus", "show": "X-Men: Evolution", "id": "x_men_evolution_colossus", "similarity": 0.1081, "shared_tropes": 4}, {"name": "The Ultimen", "show": "Justice League", "id": "justice_league_the_ultimen", "similarity": 0.0784, "shared_tropes": 4}, {"name": "The Ultimen", "show": "Justice League Unlimited", "id": "justice_league_unlimited_the_ultimen", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Ishizu Ishtar", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_ishizu_ishtar", "similarity": 0.069, "shared_tropes": 4}, {"name": "Henchman", "show": "The Cuphead Show", "id": "the_cuphead_show_henchman", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Pac-Man Jr. / Pac-Boy", "show": "Pac-Man", "id": "pac_man_pac_man_jr_pac_boy", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Avalanche", "show": "X-Men: Evolution", "id": "x_men_evolution_avalanche", "similarity": 0.0541, "shared_tropes": 4}, {"name": "The Justice Lords", "show": "Justice League", "id": "justice_league_the_justice_lords", "similarity": 0.0476, "shared_tropes": 4}]}

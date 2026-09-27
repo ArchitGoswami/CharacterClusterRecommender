@@ -1,18 +1,1 @@
-{
-  "name": "Maj. Lawrence Weems",
-  "show": "M*A*S*H",
-  "trope_count": 10,
-  "tropes": [
-    "EngineeredPublicConfession",
-    "OhCrap",
-    "PoliticallyIncorrectHero",
-    "RacistGrandpa",
-    "BadBoss",
-    "InsaneTrollLogic",
-    "Lampshaded",
-    "VillainWithGoodPublicity",
-    "BornInTheWrongCentury",
-    "VillainousFriendship"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Maj. Lawrence Weems", "show": "M*A*S*H", "trope_count": 10, "tropes": ["EngineeredPublicConfession", "OhCrap", "PoliticallyIncorrectHero", "RacistGrandpa", "BadBoss", "InsaneTrollLogic", "Lampshaded", "VillainWithGoodPublicity", "BornInTheWrongCentury", "VillainousFriendship"], "tropes_by_category": {}, "similar": [{"name": "Otto Octavius / Doctor Octopus", "show": "Spectacular Spider-Man, The", "id": "spectacular_spider_man_the_otto_octavius_doctor_octopus", "similarity": 0.0449, "shared_tropes": 4}, {"name": "Sentinel Prime", "show": "Transformers Animated", "id": "transformers_animated_sentinel_prime", "similarity": 0.0357, "shared_tropes": 4}]}

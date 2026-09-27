@@ -1,18 +1,1 @@
-{
-  "name": "Joanne Glotz",
-  "show": "Everybody Loves Raymond",
-  "trope_count": 10,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "Jerkass",
-    "SlutShaming",
-    "PaperTiger",
-    "HateSink",
-    "AwfulWeddedLife",
-    "Hypocrite",
-    "PrecisionFStrike",
-    "DivorceAssetsConflict",
-    "FriendsWithBenefits"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Joanne Glotz", "show": "Everybody Loves Raymond", "trope_count": 11, "tropes": ["PaperTiger", "Hypocrite", "SmallRoleBigImpact", "SlutShaming", "DivorceAssetsConflict", "Jerkass", "PrecisionFStrike", "HeelFaceDoorSlam", "AwfulWeddedLife", "FriendsWithBenefits", "HateSink"], "tropes_by_category": {}, "similar": [{"name": "Lola Ugfuglio Skumpy", "show": "Big Mouth", "id": "big_mouth_lola_ugfuglio_skumpy", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Kat Hernandez", "show": "Euphoria", "id": "euphoria_kat_hernandez", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Loly Aivirrne", "show": "Bleach", "id": "bleach_loly_aivirrne", "similarity": 0.061, "shared_tropes": 5}, {"name": "Nate Jacobs", "show": "Euphoria", "id": "euphoria_nate_jacobs", "similarity": 0.0446, "shared_tropes": 5}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Bull Black",
-  "show": "Seijuu Sentai Gingaman",
-  "trope_count": 9,
-  "tropes": [
-    "HeroicSacrifice",
-    "PetTheDog",
-    "Foil",
-    "ItsPersonal",
-    "AntiHero",
-    "SymbioticPossession",
-    "WellIntentionedExtremist",
-    "RedemptionEqualsDeath",
-    "TogetherInDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bull Black", "show": "Seijuu Sentai Gingaman", "trope_count": 9, "tropes": ["HeroicSacrifice", "PetTheDog", "Foil", "ItsPersonal", "AntiHero", "SymbioticPossession", "WellIntentionedExtremist", "RedemptionEqualsDeath", "TogetherInDeath"], "tropes_by_category": {}, "similar": [{"name": "Queen Gerda", "show": "Once Upon a Time", "id": "once_upon_a_time_queen_gerda", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Jim Cutler", "show": "Mad Men", "id": "mad_men_jim_cutler", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Alone", "show": "Saint Seiya", "id": "saint_seiya_alone", "similarity": 0.093, "shared_tropes": 4}, {"name": "White Knight", "show": "Generator Rex", "id": "generator_rex_white_knight", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Depth Charge", "show": "Beast Wars", "id": "beast_wars_depth_charge", "similarity": 0.069, "shared_tropes": 4}, {"name": "H.G. Wells", "show": "Warehouse 13", "id": "warehouse_13_h_g_wells", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Vedek/Kai Winn Adami", "show": "Star Trek", "id": "star_trek_vedek_kai_winn_adami", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Vedek/Kai Winn Adami", "show": "Star Trek: Deep Space Nine", "id": "star_trek_deep_space_nine_vedek_kai_winn_adami", "similarity": 0.0667, "shared_tropes": 4}]}

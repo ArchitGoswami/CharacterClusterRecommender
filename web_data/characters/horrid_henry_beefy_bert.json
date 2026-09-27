@@ -1,17 +1,1 @@
-{
-  "name": "Beefy Bert",
-  "show": "Horrid Henry",
-  "trope_count": 9,
-  "tropes": [
-    "GentleGiant",
-    "IronicName",
-    "Catchphrase",
-    "VocalEvolution",
-    "TheDitz",
-    "DumbIsGood",
-    "SimpletonVoice",
-    "HiddenDepths",
-    "FatIdiot"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Beefy Bert", "show": "Horrid Henry", "trope_count": 9, "tropes": ["GentleGiant", "IronicName", "Catchphrase", "VocalEvolution", "TheDitz", "DumbIsGood", "SimpletonVoice", "HiddenDepths", "FatIdiot"], "tropes_by_category": {}, "similar": [{"name": "The Brain", "show": "Top Cat", "id": "top_cat_the_brain", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Big Billy", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_big_billy", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Ralph Theodore Guard", "show": "Animaniacs", "id": "animaniacs_ralph_theodore_guard", "similarity": 0.125, "shared_tropes": 4}, {"name": "John Paul \"J.P.\" Mercer", "show": "Craig of the Creek", "id": "craig_of_the_creek_john_paul_j_p_mercer", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Penny Lefkowitz", "show": "Mighty B!, The", "id": "mighty_b_the_penny_lefkowitz", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Larry the Cucumber", "show": "VeggieTales", "id": "veggietales_larry_the_cucumber", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Larry the Cucumber", "show": "VeggieTales in the House", "id": "veggietales_in_the_house_larry_the_cucumber", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Zack Johnson", "show": "The Big Bang Theory", "id": "the_big_bang_theory_zack_johnson", "similarity": 0.1081, "shared_tropes": 4}]}

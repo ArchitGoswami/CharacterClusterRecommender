@@ -1,14 +1,1 @@
-{
-  "name": "Velociraptor",
-  "show": "Animal Armageddon",
-  "trope_count": 6,
-  "tropes": [
-    "AnachronisticAnimal",
-    "FeatheredFiend",
-    "RaptorAttack",
-    "LightningBruiser",
-    "EatsBabies",
-    "AnachronismStew"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Velociraptor", "show": "Animal Armageddon", "trope_count": 6, "tropes": ["AnachronisticAnimal", "FeatheredFiend", "RaptorAttack", "LightningBruiser", "EatsBabies", "AnachronismStew"], "tropes_by_category": {}, "similar": [{"name": "Dromaeosaur", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_dromaeosaur", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Phorusrhacos", "show": "Walking with Beasts", "id": "walking_with_beasts_phorusrhacos", "similarity": 0.2353, "shared_tropes": 4}]}

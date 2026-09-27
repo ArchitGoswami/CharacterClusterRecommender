@@ -1,14 +1,1 @@
-{
-  "name": "Elliot Rollins",
-  "show": "Pretty Little Liars",
-  "trope_count": 6,
-  "tropes": [
-    "EvilBrit",
-    "BigBadDuumvirate",
-    "RedHerring",
-    "BigBadEnsemble",
-    "HateSink",
-    "TheSociopath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Elliot Rollins", "show": "Pretty Little Liars", "trope_count": 6, "tropes": ["EvilBrit", "BigBadDuumvirate", "RedHerring", "BigBadEnsemble", "HateSink", "TheSociopath"], "tropes_by_category": {}, "similar": [{"name": "Hakeswill", "show": "Sharpe", "id": "sharpe_hakeswill", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Malcolm Hargrove", "show": "Red vs Blue", "id": "red_vs_blue_malcolm_hargrove", "similarity": 0.058, "shared_tropes": 4}, {"name": "Lydia Rodarte-Quayle", "show": "Breaking Bad", "id": "breaking_bad_lydia_rodarte_quayle", "similarity": 0.044, "shared_tropes": 4}]}

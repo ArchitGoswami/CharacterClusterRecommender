@@ -1,15 +1,1 @@
-{
-  "name": "Sebastian Chen",
-  "show": "Quantico",
-  "trope_count": 7,
-  "tropes": [
-    "HolierThanThou",
-    "TookALevelInBadass",
-    "RedHerring",
-    "ArmoredClosetGay",
-    "InscrutableOriental",
-    "DrivenToSuicide",
-    "AmbiguouslyBi"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sebastian Chen", "show": "Quantico", "trope_count": 7, "tropes": ["HolierThanThou", "TookALevelInBadass", "RedHerring", "ArmoredClosetGay", "InscrutableOriental", "DrivenToSuicide", "AmbiguouslyBi"], "tropes_by_category": {}, "similar": [{"name": "Vito Spatafore", "show": "Sopranos,The", "id": "sopranosthe_vito_spatafore", "similarity": 0.05, "shared_tropes": 4}, {"name": "Vito Spatafore", "show": "The Sopranos", "id": "the_sopranos_vito_spatafore", "similarity": 0.05, "shared_tropes": 4}]}

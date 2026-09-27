@@ -1,11 +1,1 @@
-{
-  "name": "The Song",
-  "show": "Cardcaptor Sakura",
-  "trope_count": 3,
-  "tropes": [
-    "AstonishinglyAppropriateAppearance",
-    "TheBait",
-    "VoiceChangeling"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Song", "show": "Cardcaptor Sakura", "trope_count": 3, "tropes": ["AstonishinglyAppropriateAppearance", "TheBait", "VoiceChangeling"], "tropes_by_category": {}, "similar": []}

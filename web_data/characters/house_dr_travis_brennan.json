@@ -1,17 +1,1 @@
-{
-  "name": "Dr. Travis Brennan",
-  "show": "House",
-  "trope_count": 9,
-  "tropes": [
-    "TokenEvilTeammate",
-    "Jerkass",
-    "MadDoctor",
-    "SingleIssueWonk",
-    "WhatHappenedToTheMouse",
-    "WellIntentionedExtremist",
-    "MotiveRant",
-    "SanityHasAdvantages",
-    "JerkassHasAPoint"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Travis Brennan", "show": "House", "trope_count": 9, "tropes": ["TokenEvilTeammate", "Jerkass", "MadDoctor", "SingleIssueWonk", "WhatHappenedToTheMouse", "WellIntentionedExtremist", "MotiveRant", "SanityHasAdvantages", "JerkassHasAPoint"], "tropes_by_category": {}, "similar": [{"name": "Dr. Arthur Beeman", "show": "Secret Saturdays, The", "id": "secret_saturdays_the_dr_arthur_beeman", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Kyosuke Higuchi/Yotsuba Kira", "show": "Death Note", "id": "death_note_kyosuke_higuchi_yotsuba_kira", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Baron Draxum", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_baron_draxum", "similarity": 0.044, "shared_tropes": 4}, {"name": "Floch Forster", "show": "Attack on Titan", "id": "attack_on_titan_floch_forster", "similarity": 0.0385, "shared_tropes": 4}, {"name": "Dr. Julian Albert / Dr. Alchemy", "show": "Arrow", "id": "arrow_dr_julian_albert_dr_alchemy", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Sentinel Prime", "show": "Transformers Animated", "id": "transformers_animated_sentinel_prime", "similarity": 0.036, "shared_tropes": 4}]}

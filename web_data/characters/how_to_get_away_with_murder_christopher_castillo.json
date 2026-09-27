@@ -1,16 +1,1 @@
-{
-  "name": "Christopher Castillo",
-  "show": "How to get away with murder",
-  "trope_count": 8,
-  "tropes": [
-    "DistantFinale",
-    "ChildrenAreInnocent",
-    "ButNotTooForeign",
-    "SomeoneToRememberHimBy",
-    "DeadGuyJunior",
-    "MoralityChain",
-    "MoralityPet",
-    "IdenticalGrandson"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Christopher Castillo", "show": "How to get away with murder", "trope_count": 8, "tropes": ["DistantFinale", "ChildrenAreInnocent", "ButNotTooForeign", "SomeoneToRememberHimBy", "DeadGuyJunior", "MoralityChain", "MoralityPet", "IdenticalGrandson"], "tropes_by_category": {}, "similar": [{"name": "Henry Mills", "show": "Once Upon a Time", "id": "once_upon_a_time_henry_mills", "similarity": 0.0392, "shared_tropes": 4}]}

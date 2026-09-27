@@ -1,15 +1,1 @@
-{
-  "name": "Reginald Steinglass",
-  "show": "Martha Speaks",
-  "trope_count": 7,
-  "tropes": [
-    "NerdyBully",
-    "JerkWithAHeartOfGold",
-    "DorkInASweater",
-    "JewishAndNerdy",
-    "AmbiguouslyJewish",
-    "SesquipedalianLoquaciousness",
-    "LeanAndMean"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Reginald Steinglass", "show": "Martha Speaks", "trope_count": 7, "tropes": ["NerdyBully", "JerkWithAHeartOfGold", "DorkInASweater", "JewishAndNerdy", "AmbiguouslyJewish", "SesquipedalianLoquaciousness", "LeanAndMean"], "tropes_by_category": {}, "similar": [{"name": "Contestants in general", "show": "Total Drama", "id": "total_drama_contestants_in_general", "similarity": 0.037, "shared_tropes": 5}, {"name": "Noah", "show": "Total Drama", "id": "total_drama_noah", "similarity": 0.0351, "shared_tropes": 4}]}

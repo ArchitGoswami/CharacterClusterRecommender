@@ -1,16 +1,1 @@
-{
-  "name": "Kate Randall",
-  "show": "Pretty Little Liars",
-  "trope_count": 8,
-  "tropes": [
-    "TheBusCameBack",
-    "InformedAbility",
-    "KarmaHoudini",
-    "ShrinkingViolet",
-    "PutOnABus",
-    "BitchInSheepsClothing",
-    "AdaptationDistillation",
-    "AdaptationDyeJob"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kate Randall", "show": "Pretty Little Liars", "trope_count": 8, "tropes": ["TheBusCameBack", "InformedAbility", "KarmaHoudini", "ShrinkingViolet", "PutOnABus", "BitchInSheepsClothing", "AdaptationDistillation", "AdaptationDyeJob"], "tropes_by_category": {}, "similar": [{"name": "Jenny Humphrey", "show": "Gossip Girl", "id": "gossip_girl_jenny_humphrey", "similarity": 0.069, "shared_tropes": 4}, {"name": "The Kids", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_the_kids", "similarity": 0.0385, "shared_tropes": 4}]}

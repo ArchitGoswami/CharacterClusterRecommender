@@ -1,17 +1,1 @@
-{
-  "name": "Sheldon Hawkes",
-  "show": "CSI: NY",
-  "trope_count": 9,
-  "tropes": [
-    "TheMedic",
-    "BlackAndNerdy",
-    "ThereShouldBeALaw",
-    "HeroDoesPublicService",
-    "NotThatKindOfDoctor",
-    "BewareTheNiceOnes",
-    "ClearMyName",
-    "StandardCopBackstory",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sheldon Hawkes", "show": "CSI: NY", "trope_count": 9, "tropes": ["TheMedic", "BlackAndNerdy", "ThereShouldBeALaw", "HeroDoesPublicService", "NotThatKindOfDoctor", "BewareTheNiceOnes", "ClearMyName", "StandardCopBackstory", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Kevin Atwater", "show": "Chicago PD", "id": "chicago_pd_kevin_atwater", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Kim Burgess", "show": "Chicago PD", "id": "chicago_pd_kim_burgess", "similarity": 0.0519, "shared_tropes": 4}]}

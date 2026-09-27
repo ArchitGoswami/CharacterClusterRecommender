@@ -1,15 +1,1 @@
-{
-  "name": "Lucinda",
-  "show": "Hannah Montana",
-  "trope_count": 7,
-  "tropes": [
-    "TheMovie",
-    "KarmaHoudini",
-    "BigBad",
-    "NonActionBigBad",
-    "TheUnfought",
-    "PyrrhicVictory",
-    "SecretChaser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lucinda", "show": "Hannah Montana", "trope_count": 7, "tropes": ["TheMovie", "KarmaHoudini", "BigBad", "NonActionBigBad", "TheUnfought", "PyrrhicVictory", "SecretChaser"], "tropes_by_category": {}, "similar": [{"name": "James Stillwell", "show": "Boys, The", "id": "boys_the_james_stillwell", "similarity": 0.129, "shared_tropes": 4}, {"name": "James Stillwell", "show": "The Boys", "id": "the_boys_james_stillwell", "similarity": 0.129, "shared_tropes": 4}, {"name": "HeinzDoofenshmirtz-2", "show": "Phineas and Ferb", "id": "phineas_and_ferb_heinzdoofenshmirtz_2", "similarity": 0.0597, "shared_tropes": 4}]}

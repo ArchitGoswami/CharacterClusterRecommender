@@ -1,17 +1,1 @@
-{
-  "name": "Tantrum",
-  "show": "Static Shock",
-  "trope_count": 9,
-  "tropes": [
-    "TraumaInducedTransformation",
-    "HulkingOut",
-    "HulkMashUp",
-    "SuperPoweredEvilSide",
-    "DisproportionateRetribution",
-    "VictoryByEndurance",
-    "AbusiveParents",
-    "ObliviouslyEvil",
-    "AsianAndNerdy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tantrum", "show": "Static Shock", "trope_count": 9, "tropes": ["TraumaInducedTransformation", "HulkingOut", "HulkMashUp", "SuperPoweredEvilSide", "DisproportionateRetribution", "VictoryByEndurance", "AbusiveParents", "ObliviouslyEvil", "AsianAndNerdy"], "tropes_by_category": {}, "similar": []}

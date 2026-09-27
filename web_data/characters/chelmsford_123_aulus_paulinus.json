@@ -1,13 +1,1 @@
-{
-  "name": "Aulus Paulinus",
-  "show": "Chelmsford 123",
-  "trope_count": 5,
-  "tropes": [
-    "ObfuscatingInsanity",
-    "DeadpanSnarker",
-    "Slimeball",
-    "BestialityisDepraved",
-    "MyHovercraftIsFullOfEels"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Aulus Paulinus", "show": "Chelmsford 123", "trope_count": 24, "tropes": ["HatedByAll", "MyHovercraftIsFullOfEels", "TheConscience", "SitcomArchnemesis", "ObfuscatingInsanity", "UnwantedSpouse", "BenevolentBoss", "LousyLoversAreLosers", "GuileHero", "ReassignedToAntarctica", "BestialityisDepraved", "EveryoneHasStandards", "Hunk", "PetTheDog", "FairWeatherFriend", "PlayedForLaughs", "AssassinationAttempt", "DeadpanSnarker", "EveryoneCanSeeIt", "NoHistoricalFiguresWereHarmed", "PrincelyYoungMan", "Slimeball", "BrutalHonesty", "SlimeBall"], "tropes_by_category": {}, "similar": [{"name": "Clayton Webb", "show": "JAG", "id": "jag_clayton_webb", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Pigeon", "show": "Mike Tyson Mysteries", "id": "mike_tyson_mysteries_pigeon", "similarity": 0.0735, "shared_tropes": 5}, {"name": "Peter Venkman", "show": "Real Ghostbusters, The", "id": "real_ghostbusters_the_peter_venkman", "similarity": 0.0602, "shared_tropes": 5}, {"name": "Beverly Hofstadter", "show": "The Big Bang Theory", "id": "the_big_bang_theory_beverly_hofstadter", "similarity": 0.0588, "shared_tropes": 5}, {"name": "The Whites", "show": "South Park", "id": "south_park_the_whites", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Dr. Eric Foreman", "show": "House", "id": "house_dr_eric_foreman", "similarity": 0.0563, "shared_tropes": 4}, {"name": "George Edward Lopez", "show": "George Lopez", "id": "george_lopez_george_edward_lopez", "similarity": 0.0562, "shared_tropes": 5}, {"name": "LeoMcGarry, Chief of Staff", "show": "West Wing, The", "id": "west_wing_the_leomcgarry_chief_of_staff", "similarity": 0.0562, "shared_tropes": 5}]}

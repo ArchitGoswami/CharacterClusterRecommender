@@ -1,18 +1,1 @@
-{
-  "name": "Slash",
-  "show": "Street Sharks",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "ChuckCunninghamSyndrome",
-    "ThisIsADrill",
-    "RunningGag",
-    "PaperThinDisguise",
-    "UpliftedAnimal",
-    "SssssnakeTalk",
-    "MoreTeethThanTheOsmondFamily",
-    "MonsterModesty",
-    "BadassBiker"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Slash", "show": "Street Sharks", "trope_count": 10, "tropes": ["DeadpanSnarker", "ChuckCunninghamSyndrome", "ThisIsADrill", "RunningGag", "PaperThinDisguise", "UpliftedAnimal", "SssssnakeTalk", "MoreTeethThanTheOsmondFamily", "MonsterModesty", "BadassBiker"], "tropes_by_category": {}, "similar": [{"name": "Slobster", "show": "Street Sharks", "id": "street_sharks_slobster", "similarity": 0.2941, "shared_tropes": 5}, {"name": "Killamari", "show": "Street Sharks", "id": "street_sharks_killamari", "similarity": 0.25, "shared_tropes": 5}]}

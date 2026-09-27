@@ -1,18 +1,1 @@
-{
-  "name": "Petra Hammerhold",
-  "show": "Buzz Lightyear of Star Command",
-  "trope_count": 10,
-  "tropes": [
-    "DeadpanSnarker",
-    "Expy",
-    "GreenSkinnedSpaceBabe",
-    "InterspeciesRomance",
-    "MilitarySchool",
-    "FatAndSkinny",
-    "OneShotCharacter",
-    "BrattyTeenageDaughter",
-    "DatingWhatDaddyHates",
-    "FantasticRacism"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Petra Hammerhold", "show": "Buzz Lightyear of Star Command", "trope_count": 10, "tropes": ["DeadpanSnarker", "Expy", "GreenSkinnedSpaceBabe", "InterspeciesRomance", "MilitarySchool", "FatAndSkinny", "OneShotCharacter", "BrattyTeenageDaughter", "DatingWhatDaddyHates", "FantasticRacism"], "tropes_by_category": {}, "similar": [{"name": "Alex Manes", "show": "Roswell", "id": "roswell_alex_manes", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Ralph Stilton", "show": "BoJack Horseman", "id": "bojack_horseman_ralph_stilton", "similarity": 0.1, "shared_tropes": 4}, {"name": "Mira Nova", "show": "Buzz Lightyear of Star Command", "id": "buzz_lightyear_of_star_command_mira_nova", "similarity": 0.0909, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Mr. Jacquel",
-  "show": "American Gods",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "AutopsySnackTime",
-    "TerseTalker",
-    "ImAHumanitarian",
-    "CreepyGood",
-    "VoluntaryShapeshifting",
-    "DontFearTheReaper",
-    "LouisCypher"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Jacquel", "show": "American Gods", "trope_count": 8, "tropes": ["DeadpanSnarker", "AutopsySnackTime", "TerseTalker", "ImAHumanitarian", "CreepyGood", "VoluntaryShapeshifting", "DontFearTheReaper", "LouisCypher"], "tropes_by_category": {}, "similar": []}

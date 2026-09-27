@@ -1,11 +1,1 @@
-{
-  "name": "Chadd",
-  "show": "Horatio Hornblower",
-  "trope_count": 3,
-  "tropes": [
-    "TheQuietOne",
-    "NoNameGiven",
-    "CharacterDeath"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chadd", "show": "Horatio Hornblower", "trope_count": 3, "tropes": ["TheQuietOne", "NoNameGiven", "CharacterDeath"], "tropes_by_category": {}, "similar": []}

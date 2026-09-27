@@ -1,17 +1,1 @@
-{
-  "name": "Sue Ellen Ewing",
-  "show": "Dallas",
-  "trope_count": 9,
-  "tropes": [
-    "SugarAndIcePersonality",
-    "BrokenBird",
-    "MrsRobinson",
-    "LadyDrunk",
-    "MamaBear",
-    "TheAlcoholic",
-    "CainAndAbel",
-    "MasochismTango",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sue Ellen Ewing", "show": "Dallas", "trope_count": 9, "tropes": ["SugarAndIcePersonality", "BrokenBird", "MrsRobinson", "LadyDrunk", "MamaBear", "TheAlcoholic", "CainAndAbel", "MasochismTango", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Kirsten Cohen", "show": "O.C., The", "id": "oc_the_kirsten_cohen", "similarity": 0.2381, "shared_tropes": 5}, {"name": "Adelle De Witt", "show": "Dollhouse", "id": "dollhouse_adelle_de_witt", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Deborah Helen \"Deb\" Lee-Scott", "show": "One Tree Hill", "id": "one_tree_hill_deborah_helen_deb_lee_scott", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Karen Wheeler", "show": "Stranger Things", "id": "stranger_things_karen_wheeler", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Beth Dutton", "show": "Yellowstone", "id": "yellowstone_beth_dutton", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Bree Van de Kamp", "show": "Desperate Housewives", "id": "desperate_housewives_bree_van_de_kamp", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Malory Archer", "show": "Archer", "id": "archer_malory_archer", "similarity": 0.041, "shared_tropes": 5}]}

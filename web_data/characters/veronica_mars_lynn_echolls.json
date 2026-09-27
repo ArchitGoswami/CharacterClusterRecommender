@@ -1,16 +1,1 @@
-{
-  "name": "Lynn Echolls",
-  "show": "Veronica Mars",
-  "trope_count": 8,
-  "tropes": [
-    "BrokenBird",
-    "UselessBystanderParent",
-    "AlcoholicParent",
-    "ParentalNeglect",
-    "DomesticAbuse",
-    "StacysMom",
-    "NeverFoundTheBody",
-    "DrivenToSuicide"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lynn Echolls", "show": "Veronica Mars", "trope_count": 8, "tropes": ["BrokenBird", "UselessBystanderParent", "AlcoholicParent", "ParentalNeglect", "DomesticAbuse", "StacysMom", "NeverFoundTheBody", "DrivenToSuicide"], "tropes_by_category": {}, "similar": [{"name": "Susan Hargrove", "show": "Stranger Things", "id": "stranger_things_susan_hargrove", "similarity": 0.25, "shared_tropes": 5}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Eddie Gibson",
-  "show": "NYPD Blue",
-  "trope_count": 4,
-  "tropes": [
-    "CloudCuckoolander",
-    "AscendedExtra",
-    "FriendToAllChildren",
-    "BunnyEarsLawyer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eddie Gibson", "show": "NYPD Blue", "trope_count": 4, "tropes": ["CloudCuckoolander", "AscendedExtra", "FriendToAllChildren", "BunnyEarsLawyer"], "tropes_by_category": {}, "similar": [{"name": "Miss Grotke", "show": "Recess", "id": "recess_miss_grotke", "similarity": 0.0909, "shared_tropes": 4}]}

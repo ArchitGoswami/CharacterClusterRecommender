@@ -1,15 +1,1 @@
-{
-  "name": "Knight",
-  "show": "Duel Masters",
-  "trope_count": 7,
-  "tropes": [
-    "DeadpanSnarker",
-    "TheMentor",
-    "NotSoAboveItAll",
-    "CanonForeigner",
-    "SarcasmMode",
-    "CloudCuckoolander",
-    "TallDarkAndHandsome"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Knight", "show": "Duel Masters", "trope_count": 7, "tropes": ["DeadpanSnarker", "TheMentor", "NotSoAboveItAll", "CanonForeigner", "SarcasmMode", "CloudCuckoolander", "TallDarkAndHandsome"], "tropes_by_category": {}, "similar": [{"name": "Amy Rose", "show": "Sonic Boom", "id": "sonic_boom_amy_rose", "similarity": 0.0455, "shared_tropes": 4}]}

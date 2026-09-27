@@ -1,18 +1,1 @@
-{
-  "name": "Eduardo \"Thumper\" Orozco",
-  "show": "Veronica Mars",
-  "trope_count": 10,
-  "tropes": [
-    "TokenEvilTeammate",
-    "LaserGuidedKarma",
-    "TheMole",
-    "BigBadFriend",
-    "NumberTwo",
-    "KarmicDeath",
-    "StupidEvil",
-    "CruelAndUnusualDeath",
-    "TyrantTakesTheHelm",
-    "RewardedAsATraitorDeserves"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Eduardo \"Thumper\" Orozco", "show": "Veronica Mars", "trope_count": 10, "tropes": ["TokenEvilTeammate", "LaserGuidedKarma", "TheMole", "BigBadFriend", "NumberTwo", "KarmicDeath", "StupidEvil", "CruelAndUnusualDeath", "TyrantTakesTheHelm", "RewardedAsATraitorDeserves"], "tropes_by_category": {}, "similar": [{"name": "Nina Myers", "show": "24", "id": "24_nina_myers", "similarity": 0.093, "shared_tropes": 4}, {"name": "Mason Verger", "show": "Hannibal", "id": "hannibal_mason_verger", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Bryce Walker", "show": "Thirteen Reasons Why", "id": "thirteen_reasons_why_bryce_walker", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Hou-Ting", "show": "Legend of Korra, The", "id": "legend_of_korra_the_hou_ting", "similarity": 0.037, "shared_tropes": 4}]}

@@ -1,12 +1,1 @@
-{
-  "name": "The Restaurant Owner",
-  "show": "Mr. Bean",
-  "trope_count": 4,
-  "tropes": [
-    "LeanAndMean",
-    "Greed",
-    "FrenchJerk",
-    "PetTheDog"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Restaurant Owner", "show": "Mr. Bean", "trope_count": 4, "tropes": ["LeanAndMean", "Greed", "FrenchJerk", "PetTheDog"], "tropes_by_category": {}, "similar": []}

@@ -1,12 +1,1 @@
-{
-  "name": "Loretta's beauty parlor",
-  "show": "Murder She Wrote",
-  "trope_count": 4,
-  "tropes": [
-    "MrsRobinson",
-    "PluckyComicRelief",
-    "ShadyRealEstateAgent",
-    "GossipyHens"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Loretta's beauty parlor", "show": "Murder She Wrote", "trope_count": 4, "tropes": ["MrsRobinson", "PluckyComicRelief", "ShadyRealEstateAgent", "GossipyHens"], "tropes_by_category": {}, "similar": []}

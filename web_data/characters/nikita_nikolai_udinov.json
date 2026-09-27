@@ -1,18 +1,1 @@
-{
-  "name": "Nikolai Udinov",
-  "show": "Nikita",
-  "trope_count": 10,
-  "tropes": [
-    "InnocentBlueEyes",
-    "DiesWideOpen",
-    "SpiritAdvisor",
-    "Expy",
-    "EvenEvilHasLovedOnes",
-    "GoodParents",
-    "PosthumousCharacter",
-    "IcyBlueEyes",
-    "PapaWolf",
-    "CorruptCorporateExecutive"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nikolai Udinov", "show": "Nikita", "trope_count": 10, "tropes": ["InnocentBlueEyes", "DiesWideOpen", "SpiritAdvisor", "Expy", "EvenEvilHasLovedOnes", "GoodParents", "PosthumousCharacter", "IcyBlueEyes", "PapaWolf", "CorruptCorporateExecutive"], "tropes_by_category": {}, "similar": [{"name": "Jonathan Kent", "show": "Smallville", "id": "smallville_jonathan_kent", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Moira Queen", "show": "Arrow", "id": "arrow_moira_queen", "similarity": 0.0494, "shared_tropes": 4}, {"name": "Veronica Cale", "show": "Wonder Woman", "id": "wonder_woman_veronica_cale", "similarity": 0.046, "shared_tropes": 4}, {"name": "Tommy", "show": "Peaky Blinders", "id": "peaky_blinders_tommy", "similarity": 0.0394, "shared_tropes": 5}, {"name": "David Xanatos", "show": "Gargoyles", "id": "gargoyles_david_xanatos", "similarity": 0.0365, "shared_tropes": 5}]}

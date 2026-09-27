@@ -1,13 +1,1 @@
-{
-  "name": "Clay Sizemore",
-  "show": "Soul Eater NOT!",
-  "trope_count": 5,
-  "tropes": [
-    "CoolSword",
-    "SatelliteCharacter",
-    "MeaningfulName",
-    "ContinuityNod",
-    "DitzyGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Clay Sizemore", "show": "Soul Eater NOT!", "trope_count": 5, "tropes": ["CoolSword", "SatelliteCharacter", "MeaningfulName", "ContinuityNod", "DitzyGenius"], "tropes_by_category": {}, "similar": [{"name": "Clay Sizemore", "show": "Soul Eater", "id": "soul_eater_clay_sizemore", "similarity": 1.0, "shared_tropes": 5}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Agent  57",
-  "show": "Danger Mouse",
-  "trope_count": 6,
-  "tropes": [
-    "InexplicablyIdenticalIndividuals",
-    "MasterOfDisguise",
-    "LegacyCharacter",
-    "MeaningfulName",
-    "InvoluntaryShapeshifting",
-    "PolarBearsAndPenguins"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Agent  57", "show": "Danger Mouse", "trope_count": 7, "tropes": ["InvoluntaryShapeshifting", "LegacyCharacter", "InexplicablyIdenticalIndividuals", "MasterOfDisguise", "PolarBearsAndPenguins", "UnseenTrueForm", "MeaningfulName"], "tropes_by_category": {}, "similar": []}

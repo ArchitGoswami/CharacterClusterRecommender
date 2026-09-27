@@ -1,15 +1,1 @@
-{
-  "name": "Dallman Ross",
-  "show": "Highlander: The Series",
-  "trope_count": 7,
-  "tropes": [
-    "FailedASpotCheck",
-    "NiceGuy",
-    "Revenge",
-    "HappilyMarried",
-    "SacrificialLion",
-    "CassandraTruth",
-    "PoorCommunicationKills"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dallman Ross", "show": "Highlander: The Series", "trope_count": 7, "tropes": ["FailedASpotCheck", "NiceGuy", "Revenge", "HappilyMarried", "SacrificialLion", "CassandraTruth", "PoorCommunicationKills"], "tropes_by_category": {}, "similar": [{"name": "Alan Wells", "show": "Highlander: The Series", "id": "highlander_the_series_alan_wells", "similarity": 0.5, "shared_tropes": 4}, {"name": "York", "show": "Red vs Blue", "id": "red_vs_blue_york", "similarity": 0.0519, "shared_tropes": 4}, {"name": "Season  9", "show": "MasterChef", "id": "masterchef_season_9", "similarity": 0.0444, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Xin Zhang / The Mandarin",
-  "show": "Iron Man: Armored Adventures",
-  "trope_count": 9,
-  "tropes": [
-    "KarmaHoudini",
-    "TheUsurper",
-    "DecompositeCharacter",
-    "PutOnABus",
-    "UnrelatedInTheAdaptation",
-    "VirtueIsWeakness",
-    "EvilOldFolks",
-    "JerkassHasAPoint",
-    "AbusiveParents"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Xin Zhang / The Mandarin", "show": "Iron Man: Armored Adventures", "trope_count": 10, "tropes": ["VirtueIsWeakness", "PutOnABus", "KarmaHoudini", "JerkassHasAPoint", "EvilOldFolks", "AbusiveParents", "DecompositeCharacter", "UnrelatedInTheAdaptation", "TheUsurper", "UnwittingInstigatorOfDoom"], "tropes_by_category": {}, "similar": [{"name": "Old Prisoner", "show": "Once Upon a Time", "id": "once_upon_a_time_old_prisoner", "similarity": 0.0667, "shared_tropes": 5}, {"name": "Professor Souichi Tomoe/Germatoid", "show": "Sailor Moon", "id": "sailor_moon_professor_souichi_tomoe_germatoid", "similarity": 0.0506, "shared_tropes": 4}, {"name": "Reverse-Flash III (Daniel West)", "show": "Flash, The", "id": "flash_the_reverse_flash_iii_daniel_west", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Reverse-Flash III (Daniel West)", "show": "The Flash", "id": "the_flash_reverse_flash_iii_daniel_west", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Garmadon", "show": "Ninjago", "id": "ninjago_garmadon", "similarity": 0.04, "shared_tropes": 5}]}

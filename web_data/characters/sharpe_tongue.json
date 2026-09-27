@@ -1,18 +1,1 @@
-{
-  "name": "Tongue",
-  "show": "Sharpe",
-  "trope_count": 10,
-  "tropes": [
-    "SparedByTheAdaptation",
-    "TheQuietOne",
-    "WhatHappenedToTheMouse",
-    "NeverBareheaded",
-    "SensorCharacter",
-    "ClickHello",
-    "AsTheGoodBookSays",
-    "AdaptationalPersonalityChange",
-    "PerpetualFrowner",
-    "MysteriousPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tongue", "show": "Sharpe", "trope_count": 10, "tropes": ["SparedByTheAdaptation", "TheQuietOne", "WhatHappenedToTheMouse", "NeverBareheaded", "SensorCharacter", "ClickHello", "AsTheGoodBookSays", "AdaptationalPersonalityChange", "PerpetualFrowner", "MysteriousPast"], "tropes_by_category": {}, "similar": []}

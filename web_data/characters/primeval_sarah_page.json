@@ -1,18 +1,1 @@
-{
-  "name": "Sarah Page",
-  "show": "Primeval",
-  "trope_count": 10,
-  "tropes": [
-    "ADayInTheLimelight",
-    "KilledOffscreen",
-    "PoliticallyCorrectHistory",
-    "StayInTheKitchen",
-    "GirlyGirl",
-    "AesopAmnesia",
-    "TwoferTokenMinority",
-    "TomboyAndGirlyGirl",
-    "WhyDidItHaveToBeSnakes",
-    "TheSmartGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sarah Page", "show": "Primeval", "trope_count": 15, "tropes": ["GirlyGirl", "ADayInTheLimelight", "ConfirmationBias", "BigBad", "TheSmartGuy", "AesopAmnesia", "TwoferTokenMinority", "BadassBookworm", "StayInTheKitchen", "PoliticallyCorrectHistory", "ShutUpHannibal", "KilledOffscreen", "EvilPlan", "WhyDidItHaveToBeSnakes", "TomboyAndGirlyGirl"], "tropes_by_category": {}, "similar": [{"name": "Emily Leduc", "show": "Arthur", "id": "arthur_emily_leduc", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Piper", "show": "Storm Hawks", "id": "storm_hawks_piper", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Yumiko and Kuri", "show": "Sailor Moon", "id": "sailor_moon_yumiko_and_kuri", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Gretchen", "show": "Recess", "id": "recess_gretchen", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Egon Spengler", "show": "Real Ghostbusters, The", "id": "real_ghostbusters_the_egon_spengler", "similarity": 0.0526, "shared_tropes": 4}, {"name": "Dr. Temperance \"Bones\" Brennan", "show": "Bones", "id": "bones_dr_temperance_bones_brennan", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Cigarette-Smoking Man", "show": "Lone Gunmen, The", "id": "lone_gunmen_the_cigarette_smoking_man", "similarity": 0.0392, "shared_tropes": 4}, {"name": "Cigarette-Smoking Man", "show": "X-Files, The", "id": "x_files_the_cigarette_smoking_man", "similarity": 0.0392, "shared_tropes": 4}]}

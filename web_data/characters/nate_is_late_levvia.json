@@ -1,15 +1,1 @@
-{
-  "name": "Levvia",
-  "show": "Nate is Late",
-  "trope_count": 7,
-  "tropes": [
-    "ActionGirl",
-    "HeroicSacrifice",
-    "ScrewDestiny",
-    "SpeaksFluentAnimal",
-    "TheHeroDies",
-    "TheBeastmaster",
-    "FaceDeathWithDignity"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Levvia", "show": "Nate is Late", "trope_count": 8, "tropes": ["ScrewDestiny", "ActionGirl", "TheBeastmaster", "HeroicSacrifice", "SpeaksFluentAnimal", "FaceDeathWithDignity", "TheHeroDies", "NatureHero"], "tropes_by_category": {}, "similar": []}

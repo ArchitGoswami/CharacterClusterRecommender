@@ -1,17 +1,1 @@
-{
-  "name": "Rebecca LoweAKA Rachel Turner",
-  "show": "White Collar",
-  "trope_count": 9,
-  "tropes": [
-    "DarkActionGirl",
-    "BigBad",
-    "ConMan",
-    "InLoveWithTheMark",
-    "HoneyTrap",
-    "EvilCounterpart",
-    "ColdSniper",
-    "WalkingSpoiler",
-    "TheStarscream"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rebecca LoweAKA Rachel Turner", "show": "White Collar", "trope_count": 9, "tropes": ["DarkActionGirl", "BigBad", "ConMan", "InLoveWithTheMark", "HoneyTrap", "EvilCounterpart", "ColdSniper", "WalkingSpoiler", "TheStarscream"], "tropes_by_category": {}, "similar": [{"name": "Bandon", "show": "Shannara Chronicles, The", "id": "shannara_chronicles_the_bandon", "similarity": 0.129, "shared_tropes": 4}, {"name": "Ravess", "show": "Storm Hawks", "id": "storm_hawks_ravess", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Toni Bevell", "show": "Supernatural", "id": "supernatural_toni_bevell", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Phantasm", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_phantasm", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Martin Mertens", "show": "Adventure Time", "id": "adventure_time_martin_mertens", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Veran", "show": "Legend Of Zelda, The", "id": "legend_of_zelda_the_veran", "similarity": 0.0471, "shared_tropes": 4}, {"name": "Janja", "show": "Lion Guard, The", "id": "lion_guard_the_janja", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Death Gun", "show": "Sword Art Online", "id": "sword_art_online_death_gun", "similarity": 0.037, "shared_tropes": 4}]}

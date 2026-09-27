@@ -1,17 +1,1 @@
-{
-  "name": "Mr. Fezziwig",
-  "show": "A Christmas Carol",
-  "trope_count": 9,
-  "tropes": [
-    "CoolOldGuy",
-    "BenevolentBoss",
-    "SparedByTheAdaptation",
-    "BigFun",
-    "NiceGuy",
-    "BoisterousBruiser",
-    "MatingDance",
-    "AdaptationNameChange",
-    "DeathByOriginStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Fezziwig", "show": "A Christmas Carol", "trope_count": 9, "tropes": ["CoolOldGuy", "BenevolentBoss", "SparedByTheAdaptation", "BigFun", "NiceGuy", "BoisterousBruiser", "MatingDance", "AdaptationNameChange", "DeathByOriginStory"], "tropes_by_category": {}, "similar": [{"name": "Autobot Brothers", "show": "Transformers: Robots in Disguise", "id": "transformers_robots_in_disguise_autobot_brothers", "similarity": 0.093, "shared_tropes": 4}, {"name": "The Outlaws", "show": "Robin Hood", "id": "robin_hood_the_outlaws", "similarity": 0.058, "shared_tropes": 4}, {"name": "The Fat Controller / Sir Topham Hatt", "show": "Thomas & Friends", "id": "thomas_and_friends_the_fat_controller_sir_topham_hatt", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Bumi II", "show": "Legend of Korra, The", "id": "legend_of_korra_the_bumi_ii", "similarity": 0.0435, "shared_tropes": 4}]}

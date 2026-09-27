@@ -1,18 +1,1 @@
-{
-  "name": "Walter & Perry",
-  "show": "Home Movies",
-  "trope_count": 10,
-  "tropes": [
-    "TheDividual",
-    "CuteAndPsycho",
-    "HoYay",
-    "HeterosexualLifePartners",
-    "AmbiguouslyBrown",
-    "EarlyInstallmentWeirdness",
-    "AmbiguouslyBi",
-    "BitchInSheepsClothing",
-    "CharacterTic",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Walter & Perry", "show": "Home Movies", "trope_count": 10, "tropes": ["TheDividual", "CuteAndPsycho", "HoYay", "HeterosexualLifePartners", "AmbiguouslyBrown", "EarlyInstallmentWeirdness", "AmbiguouslyBi", "BitchInSheepsClothing", "CharacterTic", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Katie and Sadie", "show": "Total Drama", "id": "total_drama_katie_and_sadie", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Beck Oliver", "show": "Victorious", "id": "victorious_beck_oliver", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Noah", "show": "Total Drama", "id": "total_drama_noah", "similarity": 0.0431, "shared_tropes": 5}, {"name": "Main Characters", "show": "My Babysitter's a Vampire", "id": "my_babysitters_a_vampire_main_characters", "similarity": 0.04, "shared_tropes": 4}]}

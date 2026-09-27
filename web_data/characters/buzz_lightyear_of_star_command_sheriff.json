@@ -1,11 +1,1 @@
-{
-  "name": "Sheriff",
-  "show": "Buzz Lightyear of Star Command",
-  "trope_count": 3,
-  "tropes": [
-    "ScrewTheRulesImDoingWhatsRight",
-    "ReasonableAuthorityFigure",
-    "TheGreys"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sheriff", "show": "Buzz Lightyear of Star Command", "trope_count": 3, "tropes": ["ScrewTheRulesImDoingWhatsRight", "ReasonableAuthorityFigure", "TheGreys"], "tropes_by_category": {}, "similar": []}

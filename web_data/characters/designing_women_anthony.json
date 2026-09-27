@@ -1,13 +1,1 @@
-{
-  "name": "Anthony",
-  "show": "Designing Women",
-  "trope_count": 5,
-  "tropes": [
-    "OddFriendship",
-    "UnwantedSpouse",
-    "UnluckyEverydude",
-    "ToxicFriendInfluence",
-    "TheOneGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Anthony", "show": "Designing Women", "trope_count": 5, "tropes": ["OddFriendship", "UnwantedSpouse", "UnluckyEverydude", "ToxicFriendInfluence", "TheOneGuy"], "tropes_by_category": {}, "similar": []}

@@ -1,14 +1,1 @@
-{
-  "name": "Akane Hoshi",
-  "show": "Soul Eater NOT!",
-  "trope_count": 6,
-  "tropes": [
-    "ShonenHair",
-    "AnimeHair",
-    "ExoticEyeDesigns",
-    "MeaningfulName",
-    "ContinuityNod",
-    "InhumanEyeConcealers"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Akane Hoshi", "show": "Soul Eater NOT!", "trope_count": 6, "tropes": ["ShonenHair", "AnimeHair", "ExoticEyeDesigns", "MeaningfulName", "ContinuityNod", "InhumanEyeConcealers"], "tropes_by_category": {}, "similar": [{"name": "Akane Hoshi", "show": "Soul Eater", "id": "soul_eater_akane_hoshi", "similarity": 1.0, "shared_tropes": 6}]}

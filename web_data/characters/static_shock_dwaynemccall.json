@@ -1,18 +1,1 @@
-{
-  "name": "DwayneMcCall",
-  "show": "Static Shock",
-  "trope_count": 10,
-  "tropes": [
-    "BrokenPedestal",
-    "HeelFaceTurn",
-    "ThePowerOfCreation",
-    "SuperpowerLottery",
-    "TheFettered",
-    "ManOfKryptonite",
-    "NotEvilJustMisunderstood",
-    "ChildrenAreInnocent",
-    "BigBrotherWorship",
-    "ImaginationBasedSuperpower"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "DwayneMcCall", "show": "Static Shock", "trope_count": 11, "tropes": ["ManOfKryptonite", "ChildrenAreInnocent", "TheFettered", "NotEvilJustMisunderstood", "BrokenPedestal", "SuperpowerLottery", "ThePowerOfCreation", "BigBrotherWorship", "HeelFaceTurn", "ImaginationBasedSuperpower", "TransformationRay"], "tropes_by_category": {}, "similar": []}

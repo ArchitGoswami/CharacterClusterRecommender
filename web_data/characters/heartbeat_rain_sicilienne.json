@@ -1,15 +1,1 @@
-{
-  "name": "Rain Sicilienne",
-  "show": "Heartbeat",
-  "trope_count": 7,
-  "tropes": [
-    "LogicalWeakness",
-    "Leitmotif",
-    "DuelBoss",
-    "Foil",
-    "ZeroEffortBoss",
-    "EarlyBirdCameo",
-    "LivingEmotionalCrutch"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Rain Sicilienne", "show": "Heartbeat", "trope_count": 7, "tropes": ["LogicalWeakness", "Leitmotif", "DuelBoss", "Foil", "ZeroEffortBoss", "EarlyBirdCameo", "LivingEmotionalCrutch"], "tropes_by_category": {}, "similar": []}

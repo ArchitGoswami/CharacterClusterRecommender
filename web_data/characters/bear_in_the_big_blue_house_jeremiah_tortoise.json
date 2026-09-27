@@ -1,12 +1,1 @@
-{
-  "name": "Jeremiah Tortoise",
-  "show": "Bear in the Big Blue House",
-  "trope_count": 4,
-  "tropes": [
-    "ForgetfulJones",
-    "SpeciesSurname",
-    "SnailMail",
-    "FriendlyShopkeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeremiah Tortoise", "show": "Bear in the Big Blue House", "trope_count": 5, "tropes": ["SnailMail", "FurryReminder", "SpeciesSurname", "FriendlyShopkeeper", "ForgetfulJones"], "tropes_by_category": {}, "similar": []}

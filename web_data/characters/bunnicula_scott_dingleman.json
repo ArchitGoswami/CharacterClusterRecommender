@@ -1,15 +1,1 @@
-{
-  "name": "Scott Dingleman",
-  "show": "Bunnicula",
-  "trope_count": 7,
-  "tropes": [
-    "NiceGuy",
-    "PluckyComicRelief",
-    "ShipTease",
-    "MellowFellow",
-    "TheConfidant",
-    "InsecureLoveInterest",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Scott Dingleman", "show": "Bunnicula", "trope_count": 7, "tropes": ["NiceGuy", "PluckyComicRelief", "ShipTease", "MellowFellow", "TheConfidant", "InsecureLoveInterest", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Pacey John Witter", "show": "Dawson's Creek", "id": "dawsons_creek_pacey_john_witter", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Cole", "show": "Ninjago", "id": "ninjago_cole", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0374, "shared_tropes": 4}]}

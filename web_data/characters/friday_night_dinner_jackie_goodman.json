@@ -1,18 +1,1 @@
-{
-  "name": "Jackie Goodman",
-  "show": "Friday Night Dinner",
-  "trope_count": 10,
-  "tropes": [
-    "DrowningMySorrows",
-    "SupremeChef",
-    "StraightMan",
-    "SitcomCharacterArchetypes",
-    "AffectionateNickname",
-    "VerbalTic",
-    "ObliquelyObfuscatedOccupation",
-    "WhyDidItHaveToBeSnakes",
-    "OnlySaneMan",
-    "JewishMother"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jackie Goodman", "show": "Friday Night Dinner", "trope_count": 10, "tropes": ["DrowningMySorrows", "SupremeChef", "StraightMan", "SitcomCharacterArchetypes", "AffectionateNickname", "VerbalTic", "ObliquelyObfuscatedOccupation", "WhyDidItHaveToBeSnakes", "OnlySaneMan", "JewishMother"], "tropes_by_category": {}, "similar": [{"name": "As a whole", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_as_a_whole", "similarity": 0.0354, "shared_tropes": 4}]}

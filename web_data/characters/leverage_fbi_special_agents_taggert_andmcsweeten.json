@@ -1,16 +1,1 @@
-{
-  "name": "FBI Special Agents Taggert andMcSweeten",
-  "show": "Leverage",
-  "trope_count": 8,
-  "tropes": [
-    "ThoseTwoGuys",
-    "DoggedNiceGuy",
-    "NiceGuy",
-    "PutOnABus",
-    "HeterosexualLifePartners",
-    "HiddenDepths",
-    "InspectorLestrade",
-    "DayInTheLimelight"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "FBI Special Agents Taggert andMcSweeten", "show": "Leverage", "trope_count": 9, "tropes": ["DoggedNiceGuy", "HiddenDepths", "DayInTheLimelight", "PutOnABus", "WordOfGod", "HeterosexualLifePartners", "InspectorLestrade", "ThoseTwoGuys", "NiceGuy"], "tropes_by_category": {}, "similar": [{"name": "Yuuichirou Kumada", "show": "Sailor Moon", "id": "sailor_moon_yuuichirou_kumada", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0463, "shared_tropes": 5}]}

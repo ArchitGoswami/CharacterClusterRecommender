@@ -1,18 +1,1 @@
-{
-  "name": "Brian O'Brien",
-  "show": "Birdgirl",
-  "trope_count": 10,
-  "tropes": [
-    "EndangeringNewsBroadcast",
-    "StarterVillain",
-    "CantStopTheSignal",
-    "NoSell",
-    "NiceJobFixingItVillain",
-    "MyGodWhatHaveIDone",
-    "HiddenDepths",
-    "ReformedCriminal",
-    "SixthRanger",
-    "AmbiguouslyBi"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Brian O'Brien", "show": "Birdgirl", "trope_count": 10, "tropes": ["EndangeringNewsBroadcast", "StarterVillain", "CantStopTheSignal", "NoSell", "NiceJobFixingItVillain", "MyGodWhatHaveIDone", "HiddenDepths", "ReformedCriminal", "SixthRanger", "AmbiguouslyBi"], "tropes_by_category": {}, "similar": [{"name": "Sheila Broflovski", "show": "South Park", "id": "south_park_sheila_broflovski", "similarity": 0.0435, "shared_tropes": 4}]}

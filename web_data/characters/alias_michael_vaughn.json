@@ -1,16 +1,1 @@
-{
-  "name": "Michael Vaughn",
-  "show": "Alias",
-  "trope_count": 8,
-  "tropes": [
-    "BabiesEverAfter",
-    "HeroicBSOD",
-    "NiceGuy",
-    "TookALevelInBadass",
-    "TheHandler",
-    "FakingTheDead",
-    "TheMasqueradeWillKillYourDatingLife",
-    "EveryoneLooksSexierIfFrench"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Michael Vaughn", "show": "Alias", "trope_count": 8, "tropes": ["BabiesEverAfter", "HeroicBSOD", "NiceGuy", "TookALevelInBadass", "TheHandler", "FakingTheDead", "TheMasqueradeWillKillYourDatingLife", "EveryoneLooksSexierIfFrench"], "tropes_by_category": {}, "similar": [{"name": "Paige Matthews", "show": "Charmed", "id": "charmed_paige_matthews", "similarity": 0.0357, "shared_tropes": 4}]}

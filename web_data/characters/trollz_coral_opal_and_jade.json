@@ -1,17 +1,1 @@
-{
-  "name": "Coral, Opal, and Jade",
-  "show": "Trollz",
-  "trope_count": 9,
-  "tropes": [
-    "FieryRedhead",
-    "GirlPosse",
-    "AlphaBitch",
-    "Jerkass",
-    "LaserGuidedKarma",
-    "EvilLaugh",
-    "SatelliteCharacter",
-    "TheVoiceless",
-    "CruelCheerleader"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Coral, Opal, and Jade", "show": "Trollz", "trope_count": 9, "tropes": ["FieryRedhead", "GirlPosse", "AlphaBitch", "Jerkass", "LaserGuidedKarma", "EvilLaugh", "SatelliteCharacter", "TheVoiceless", "CruelCheerleader"], "tropes_by_category": {}, "similar": [{"name": "Reese's Bullies", "show": "Malcolm in the Middle", "id": "malcolm_in_the_middle_reese_s_bullies", "similarity": 0.3636, "shared_tropes": 4}, {"name": "Clare Brewster", "show": "Beetlejuice", "id": "beetlejuice_clare_brewster", "similarity": 0.1724, "shared_tropes": 5}, {"name": "Hazel Aden", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_hazel_aden", "similarity": 0.1429, "shared_tropes": 4}, {"name": "The Ashleys", "show": "Recess", "id": "recess_the_ashleys", "similarity": 0.0893, "shared_tropes": 5}, {"name": "Miranda Killgallen", "show": "As Told by Ginger", "id": "as_told_by_ginger_miranda_killgallen", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Rachel Virginia Gatina", "show": "One Tree Hill", "id": "one_tree_hill_rachel_virginia_gatina", "similarity": 0.0784, "shared_tropes": 4}, {"name": "Paige Michalchuk", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_paige_michalchuk", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Amy", "show": "Total Drama", "id": "total_drama_amy", "similarity": 0.0508, "shared_tropes": 6}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Critter",
-  "show": "The Boys",
-  "trope_count": 6,
-  "tropes": [
-    "BlessedWithSuck",
-    "StopBeingStereotypical",
-    "OnlySaneMan",
-    "JerkassHasAPoint",
-    "PoliticallyIncorrectVillain",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Critter", "show": "The Boys", "trope_count": 6, "tropes": ["BlessedWithSuck", "StopBeingStereotypical", "OnlySaneMan", "JerkassHasAPoint", "PoliticallyIncorrectVillain", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Critter", "show": "Boys, The", "id": "boys_the_critter", "similarity": 1.0, "shared_tropes": 6}, {"name": "Jack From Jupiter", "show": "Boys, The", "id": "boys_the_jack_from_jupiter", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Jack From Jupiter", "show": "The Boys", "id": "the_boys_jack_from_jupiter", "similarity": 0.1, "shared_tropes": 4}]}

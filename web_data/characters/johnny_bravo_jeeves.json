@@ -1,13 +1,1 @@
-{
-  "name": "Jeeves",
-  "show": "Johnny Bravo",
-  "trope_count": 5,
-  "tropes": [
-    "AmazingTechnicolorWildlife",
-    "SuddenlySpeaking",
-    "TheDogWasTheMastermind",
-    "RememberTheNewGuy",
-    "AccessoryWearingCartoonAnimal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeeves", "show": "Johnny Bravo", "trope_count": 5, "tropes": ["AmazingTechnicolorWildlife", "SuddenlySpeaking", "TheDogWasTheMastermind", "RememberTheNewGuy", "AccessoryWearingCartoonAnimal"], "tropes_by_category": {}, "similar": []}

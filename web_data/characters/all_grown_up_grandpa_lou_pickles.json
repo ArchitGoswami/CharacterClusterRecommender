@@ -1,14 +1,1 @@
-{
-  "name": "Grandpa Lou Pickles",
-  "show": "All Grown Up",
-  "trope_count": 6,
-  "tropes": [
-    "CoolOldGuy",
-    "DeadpanSnarker",
-    "OpposedMentors",
-    "RetiredBadass",
-    "DemotedToExtra",
-    "OldSoldier"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Grandpa Lou Pickles", "show": "All Grown Up", "trope_count": 6, "tropes": ["CoolOldGuy", "DeadpanSnarker", "OpposedMentors", "RetiredBadass", "DemotedToExtra", "OldSoldier"], "tropes_by_category": {}, "similar": [{"name": "Hudson", "show": "Gargoyles", "id": "gargoyles_hudson", "similarity": 0.1111, "shared_tropes": 4}, {"name": "Book", "show": "Firefly", "id": "firefly_book", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Martin Crane", "show": "Frasier", "id": "frasier_martin_crane", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Ratchet", "show": "Transformers Prime", "id": "transformers_prime_ratchet", "similarity": 0.0494, "shared_tropes": 4}]}

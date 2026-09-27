@@ -1,15 +1,1 @@
-{
-  "name": "Miss Mush",
-  "show": "Wayside",
-  "trope_count": 7,
-  "tropes": [
-    "ForeignQueasine",
-    "BigFun",
-    "ReasonableAuthorityFigure",
-    "NonIndicativeName",
-    "FunnyForeigner",
-    "TomboyAndGirlyGirl",
-    "YouNoTakeCandle"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Miss Mush", "show": "Wayside", "trope_count": 12, "tropes": ["ChubbyChef", "OOCIsSeriousBusiness", "CordonBleughChef", "HiddenDepths", "MindScrew", "KissingUnderTheInfluence", "BondOneLiner", "BigDamnHeroes", "PieInTheFace", "NiceGuy", "BewareTheNiceOnes", "SupremeChef"], "tropes_by_category": {}, "similar": [{"name": "Maurice Lalonde", "show": "Highlander: The Series", "id": "highlander_the_series_maurice_lalonde", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Kevin", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_kevin", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Aunt May", "show": "Spider-Man", "id": "spider_man_aunt_may", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Officer Keys", "show": "Big City Greens", "id": "big_city_greens_officer_keys", "similarity": 0.069, "shared_tropes": 4}, {"name": "Kitty Forman", "show": "That '70s Show", "id": "that_70s_show_kitty_forman", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Rose Nylund", "show": "Golden Girls, The", "id": "golden_girls_the_rose_nylund", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Theodore Seville", "show": "Alvin and the Chipmunks", "id": "alvin_and_the_chipmunks_theodore_seville", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Season  7", "show": "MasterChef", "id": "masterchef_season_7", "similarity": 0.0606, "shared_tropes": 4}]}

@@ -1,16 +1,1 @@
-{
-  "name": "Macho Man Randy Cuyler",
-  "show": "Squidbillies",
-  "trope_count": 8,
-  "tropes": [
-    "NotAllowedToGrowUp",
-    "NoCelebritiesWereHarmed",
-    "ShoutOut",
-    "HalfHumanHybrid",
-    "AllOfTheOtherReindeer",
-    "AdorablyPrecociousChild",
-    "CrapsackWorld",
-    "CheerfulChild"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Macho Man Randy Cuyler", "show": "Squidbillies", "trope_count": 8, "tropes": ["NotAllowedToGrowUp", "NoCelebritiesWereHarmed", "ShoutOut", "HalfHumanHybrid", "AllOfTheOtherReindeer", "AdorablyPrecociousChild", "CrapsackWorld", "CheerfulChild"], "tropes_by_category": {}, "similar": [{"name": "Baby Doll", "show": "Batman: The Animated Series", "id": "batman_the_animated_series_baby_doll", "similarity": 0.0426, "shared_tropes": 4}, {"name": "Kelvin Timeline", "show": "Star Trek", "id": "star_trek_kelvin_timeline", "similarity": 0.0421, "shared_tropes": 4}, {"name": "Kelvin Timeline", "show": "Young Sheldon", "id": "young_sheldon_kelvin_timeline", "similarity": 0.0421, "shared_tropes": 4}]}

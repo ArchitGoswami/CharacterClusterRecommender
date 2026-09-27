@@ -1,18 +1,1 @@
-{
-  "name": "Mary Lightly",
-  "show": "Psych",
-  "trope_count": 10,
-  "tropes": [
-    "Psychopomp",
-    "KilledOffForReal",
-    "GenderBlenderName",
-    "RedHerring",
-    "CreepyGood",
-    "FriendlessBackground",
-    "BunnyEarsLawyer",
-    "MisunderstoodLonerWithAHeartOfGold",
-    "PlayedForLaughs",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mary Lightly", "show": "Psych", "trope_count": 10, "tropes": ["Psychopomp", "KilledOffForReal", "GenderBlenderName", "RedHerring", "CreepyGood", "FriendlessBackground", "BunnyEarsLawyer", "MisunderstoodLonerWithAHeartOfGold", "PlayedForLaughs", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": [{"name": "Tessa", "show": "Murder Drones", "id": "murder_drones_tessa", "similarity": 0.0417, "shared_tropes": 4}]}

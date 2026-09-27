@@ -1,18 +1,1 @@
-{
-  "name": "Kai",
-  "show": "Kickin'it",
-  "trope_count": 10,
-  "tropes": [
-    "ClashingCousins",
-    "UngratefulBastard",
-    "ArchEnemy",
-    "JerkWithAHeartOfJerk",
-    "KickTheDog",
-    "HateSink",
-    "EnemyMine",
-    "DueltotheDeath",
-    "EvilCounterpart",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kai", "show": "Kickin'it", "trope_count": 10, "tropes": ["ClashingCousins", "UngratefulBastard", "ArchEnemy", "JerkWithAHeartOfJerk", "KickTheDog", "HateSink", "EnemyMine", "DueltotheDeath", "EvilCounterpart", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Eustace Strych", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_eustace_strych", "similarity": 0.1667, "shared_tropes": 7}, {"name": "Zack Powers", "show": "George Lopez", "id": "george_lopez_zack_powers", "similarity": 0.1333, "shared_tropes": 6}, {"name": "DCI Roy \"The Slag\" Slater", "show": "Only Fools and Horses", "id": "only_fools_and_horses_dci_roy_the_slag_slater", "similarity": 0.119, "shared_tropes": 5}, {"name": "Kevin C. Cucumber", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_kevin_c_cucumber", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Dep. Ch. Wuntch", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_dep_ch_wuntch", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Wangler", "show": "Oz", "id": "oz_wangler", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Jimmy Pesto Sr.", "show": "Bob's Burgers", "id": "bobs_burgers_jimmy_pesto_sr", "similarity": 0.0778, "shared_tropes": 7}, {"name": "Michael Morningstar / Darkstar", "show": "Ben 10", "id": "ben_10_michael_morningstar_darkstar", "similarity": 0.0737, "shared_tropes": 7}]}

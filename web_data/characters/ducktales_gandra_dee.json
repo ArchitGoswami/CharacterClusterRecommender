@@ -1,18 +1,1 @@
-{
-  "name": "Gandra Dee",
-  "show": "DuckTales",
-  "trope_count": 10,
-  "tropes": [
-    "OfficialCouple",
-    "IMinoredInTropology",
-    "HumongousMecha",
-    "StatuesqueStunner",
-    "EveryoneLovesBlondes",
-    "TrueBlueFemininity",
-    "MeaningfulName",
-    "HiddenDepths",
-    "SatelliteLoveInterest",
-    "RelationshipUpgrade"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gandra Dee", "show": "DuckTales", "trope_count": 10, "tropes": ["OfficialCouple", "IMinoredInTropology", "HumongousMecha", "StatuesqueStunner", "EveryoneLovesBlondes", "TrueBlueFemininity", "MeaningfulName", "HiddenDepths", "SatelliteLoveInterest", "RelationshipUpgrade"], "tropes_by_category": {}, "similar": [{"name": "Emma", "show": "The Fosters", "id": "the_fosters_emma", "similarity": 0.125, "shared_tropes": 4}, {"name": "Judah Mannowdog", "show": "BoJack Horseman", "id": "bojack_horseman_judah_mannowdog", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Stacy Hirano", "show": "Phineas and Ferb", "id": "phineas_and_ferb_stacy_hirano", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Anew Returner", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_anew_returner", "similarity": 0.0625, "shared_tropes": 4}, {"name": "Margaret Smith", "show": "Regular Show", "id": "regular_show_margaret_smith", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Sibyl", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_sibyl", "similarity": 0.0521, "shared_tropes": 5}, {"name": "Recurring Characters", "show": "My Family", "id": "my_family_recurring_characters", "similarity": 0.05, "shared_tropes": 4}, {"name": "Tweek Tweak", "show": "South Park", "id": "south_park_tweek_tweak", "similarity": 0.05, "shared_tropes": 4}]}

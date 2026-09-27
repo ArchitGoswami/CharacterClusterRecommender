@@ -1,14 +1,1 @@
-{
-  "name": "Mordac",
-  "show": "Dilbert",
-  "trope_count": 6,
-  "tropes": [
-    "ThoseTwoGuys",
-    "HoistByTheirOwnPetard",
-    "ReversePsychology",
-    "BullyingADragon",
-    "ForTheEvulz",
-    "DemotedToExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mordac", "show": "Dilbert", "trope_count": 6, "tropes": ["ThoseTwoGuys", "HoistByTheirOwnPetard", "ReversePsychology", "BullyingADragon", "ForTheEvulz", "DemotedToExtra"], "tropes_by_category": {}, "similar": []}

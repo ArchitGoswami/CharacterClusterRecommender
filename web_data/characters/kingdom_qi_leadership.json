@@ -1,14 +1,1 @@
-{
-  "name": "Qi Leadership",
-  "show": "Kingdom",
-  "trope_count": 6,
-  "tropes": [
-    "SnakesAreSinister",
-    "CreepyGood",
-    "BunnyEarsLawyer",
-    "OldFriend",
-    "BigEater",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Qi Leadership", "show": "Kingdom", "trope_count": 6, "tropes": ["SnakesAreSinister", "CreepyGood", "BunnyEarsLawyer", "OldFriend", "BigEater", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": [{"name": "Anko Mitarashi", "show": "Naruto", "id": "naruto_anko_mitarashi", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Walter Bishop", "show": "Fringe", "id": "fringe_walter_bishop", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Walter Bishop", "show": "The Fringe", "id": "the_fringe_walter_bishop", "similarity": 0.0645, "shared_tropes": 4}]}

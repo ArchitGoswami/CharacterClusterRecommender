@@ -1,14 +1,1 @@
-{
-  "name": "Dr. Annie Cavanero",
-  "show": "St. Elsewhere",
-  "trope_count": 6,
-  "tropes": [
-    "MistakenForGay",
-    "BerserkButton",
-    "PutOnABus",
-    "ValuesDissonance",
-    "MarriedToTheJob",
-    "BoomerangBigot"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Annie Cavanero", "show": "St. Elsewhere", "trope_count": 6, "tropes": ["MistakenForGay", "BerserkButton", "PutOnABus", "ValuesDissonance", "MarriedToTheJob", "BoomerangBigot"], "tropes_by_category": {}, "similar": [{"name": "\" 62 Truck\"/The Crew", "show": "Rescue Me", "id": "rescue_me_62_truck_the_crew", "similarity": 0.0357, "shared_tropes": 4}]}

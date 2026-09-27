@@ -1,15 +1,1 @@
-{
-  "name": "SarahMcGee",
-  "show": "NCIS",
-  "trope_count": 7,
-  "tropes": [
-    "BigBrotherInstinct",
-    "LaserGuidedAmnesia",
-    "BigBrotherWorship",
-    "NerdsAreSexy",
-    "ClearMyName",
-    "DamselInDistress",
-    "IntelligenceEqualsIsolation"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "SarahMcGee", "show": "NCIS", "trope_count": 7, "tropes": ["BigBrotherInstinct", "LaserGuidedAmnesia", "BigBrotherWorship", "NerdsAreSexy", "ClearMyName", "DamselInDistress", "IntelligenceEqualsIsolation"], "tropes_by_category": {}, "similar": []}

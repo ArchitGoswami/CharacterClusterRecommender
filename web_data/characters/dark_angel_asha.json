@@ -1,17 +1,1 @@
-{
-  "name": "Asha",
-  "show": "Dark Angel",
-  "trope_count": 9,
-  "tropes": [
-    "AllThereInTheManual",
-    "UnrequitedLove",
-    "Foil",
-    "IntrepidReporter",
-    "PairTheSpares",
-    "LockedOutOfTheLoop",
-    "RomanticFalseLead",
-    "LaResistance",
-    "DarkAndTroubledPast"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Asha", "show": "Dark Angel", "trope_count": 9, "tropes": ["AllThereInTheManual", "UnrequitedLove", "Foil", "IntrepidReporter", "PairTheSpares", "LockedOutOfTheLoop", "RomanticFalseLead", "LaResistance", "DarkAndTroubledPast"], "tropes_by_category": {}, "similar": []}

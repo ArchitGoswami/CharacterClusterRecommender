@@ -1,16 +1,1 @@
-{
-  "name": "Frenchie",
-  "show": "In Living Color",
-  "trope_count": 8,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "EveryEpisodeEnding",
-    "Leitmotif",
-    "ComicallyMissingThePoint",
-    "TheFriendNobodyLikes",
-    "PerpetualSmiler",
-    "DiscoDan",
-    "TheCharmer"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Frenchie", "show": "In Living Color", "trope_count": 8, "tropes": ["NoCelebritiesWereHarmed", "EveryEpisodeEnding", "Leitmotif", "ComicallyMissingThePoint", "TheFriendNobodyLikes", "PerpetualSmiler", "DiscoDan", "TheCharmer"], "tropes_by_category": {}, "similar": [{"name": "Karamatsu Matsuno", "show": "Osomatsu-san", "id": "osomatsu_san_karamatsu_matsuno", "similarity": 0.0506, "shared_tropes": 4}]}

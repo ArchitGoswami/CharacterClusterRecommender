@@ -1,11 +1,1 @@
-{
-  "name": "The Stranger",
-  "show": "Tenacious D",
-  "trope_count": 3,
-  "tropes": [
-    "HarmlessVillain",
-    "DidntThinkThisThrough",
-    "ToThePain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Stranger", "show": "Tenacious D", "trope_count": 3, "tropes": ["HarmlessVillain", "DidntThinkThisThrough", "ToThePain"], "tropes_by_category": {}, "similar": []}

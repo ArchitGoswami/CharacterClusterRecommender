@@ -1,18 +1,1 @@
-{
-  "name": "Zack",
-  "show": "Dark Angel",
-  "trope_count": 10,
-  "tropes": [
-    "NeuroVault",
-    "BigBrotherInstinct",
-    "FakeMemories",
-    "AndIMustScream",
-    "NotBloodSiblings",
-    "PutOnABus",
-    "TimeshiftedActor",
-    "BigDamnHeroes",
-    "KnightTemplarBigBrother",
-    "BrainwashedAndCrazy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Zack", "show": "Dark Angel", "trope_count": 10, "tropes": ["NeuroVault", "BigBrotherInstinct", "FakeMemories", "AndIMustScream", "NotBloodSiblings", "PutOnABus", "TimeshiftedActor", "BigDamnHeroes", "KnightTemplarBigBrother", "BrainwashedAndCrazy"], "tropes_by_category": {}, "similar": [{"name": "Peter Hale", "show": "Teen Wolf", "id": "teen_wolf_peter_hale", "similarity": 0.0851, "shared_tropes": 4}, {"name": "Other Characters", "show": "Zoids Chaotic Century", "id": "zoids_chaotic_century_other_characters", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Yugo", "show": "Yu-Gi-Oh Arc V", "id": "yu_gi_oh_arc_v_yugo", "similarity": 0.0467, "shared_tropes": 5}]}

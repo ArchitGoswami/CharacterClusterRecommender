@@ -1,18 +1,1 @@
-{
-  "name": "Momma Cherri's Soul Food Shack",
-  "show": "Kitchen Nightmares",
-  "trope_count": 10,
-  "tropes": [
-    "SupremeChef",
-    "BadassBoast",
-    "BoringButPractical",
-    "TaughtByExperience",
-    "MotorMouth",
-    "Determinator",
-    "HumbleHero",
-    "NiceGirl",
-    "UnskilledButStrong",
-    "SkilledButNaive"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Momma Cherri's Soul Food Shack", "show": "Kitchen Nightmares", "trope_count": 10, "tropes": ["SupremeChef", "BadassBoast", "BoringButPractical", "TaughtByExperience", "MotorMouth", "Determinator", "HumbleHero", "NiceGirl", "UnskilledButStrong", "SkilledButNaive"], "tropes_by_category": {}, "similar": [{"name": "Momma Cherri's Soul Food Shack", "show": "Ramsay's Kitchen Nightmares", "id": "ramsays_kitchen_nightmares_momma_cherri_s_soul_food_shack", "similarity": 1.0, "shared_tropes": 10}]}

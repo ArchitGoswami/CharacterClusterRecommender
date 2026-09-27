@@ -1,16 +1,1 @@
-{
-  "name": "Frederick",
-  "show": "Unbreakable Kimmy Schmidt",
-  "trope_count": 8,
-  "tropes": [
-    "PrinceCharming",
-    "ShelteredAristocrat",
-    "UptownGirl",
-    "ParentalNeglect",
-    "PlayedWith",
-    "NamedAfterSomebodyFamous",
-    "PlayedForLaughs",
-    "UncannyFamilyResemblance"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Frederick", "show": "Unbreakable Kimmy Schmidt", "trope_count": 8, "tropes": ["PrinceCharming", "ShelteredAristocrat", "UptownGirl", "ParentalNeglect", "PlayedWith", "NamedAfterSomebodyFamous", "PlayedForLaughs", "UncannyFamilyResemblance"], "tropes_by_category": {}, "similar": []}

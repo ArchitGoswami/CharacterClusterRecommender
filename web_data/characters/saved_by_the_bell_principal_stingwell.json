@@ -1,13 +1,1 @@
-{
-  "name": "Principal Stingwell",
-  "show": "Saved by the Bell",
-  "trope_count": 5,
-  "tropes": [
-    "HappilyMarried",
-    "BunnyEarsLawyer",
-    "TheWonka",
-    "ThePrankster",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Principal Stingwell", "show": "Saved by the Bell", "trope_count": 5, "tropes": ["HappilyMarried", "BunnyEarsLawyer", "TheWonka", "ThePrankster", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Gina Linetti", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_gina_linetti", "similarity": 0.0494, "shared_tropes": 4}]}

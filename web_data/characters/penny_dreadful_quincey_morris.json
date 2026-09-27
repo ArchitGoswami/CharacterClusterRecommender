@@ -1,15 +1,1 @@
-{
-  "name": "Quincey Morris",
-  "show": "Penny Dreadful",
-  "trope_count": 7,
-  "tropes": [
-    "PromotedToLoveInterest",
-    "HeroicSacrifice",
-    "SparedByTheAdaptation",
-    "UncertainDoom",
-    "GenderFlip",
-    "AdaptedOut",
-    "AdaptationalFriendship"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Quincey Morris", "show": "Penny Dreadful", "trope_count": 7, "tropes": ["PromotedToLoveInterest", "HeroicSacrifice", "SparedByTheAdaptation", "UncertainDoom", "GenderFlip", "AdaptedOut", "AdaptationalFriendship"], "tropes_by_category": {}, "similar": [{"name": "Lucy Westenra", "show": "Penny Dreadful", "id": "penny_dreadful_lucy_westenra", "similarity": 0.3333, "shared_tropes": 5}]}

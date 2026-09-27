@@ -1,14 +1,1 @@
-{
-  "name": "Everything Horse Commercial Girl",
-  "show": "Total DramaRama",
-  "trope_count": 6,
-  "tropes": [
-    "PinkMeansFeminine",
-    "PinkProductPloy",
-    "TheDitz",
-    "GirlishPigtails",
-    "AnatomyAnomaly",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Everything Horse Commercial Girl", "show": "Total DramaRama", "trope_count": 6, "tropes": ["PinkMeansFeminine", "PinkProductPloy", "TheDitz", "GirlishPigtails", "AnatomyAnomaly", "NoNameGiven"], "tropes_by_category": {}, "similar": [{"name": "Princess Penelope Poodle Commercial Girl", "show": "Total DramaRama", "id": "total_dramarama_princess_penelope_poodle_commercial_girl", "similarity": 0.6667, "shared_tropes": 4}]}

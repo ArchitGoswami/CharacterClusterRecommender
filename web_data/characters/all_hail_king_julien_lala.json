@@ -1,18 +1,1 @@
-{
-  "name": "LALA",
-  "show": "All Hail King Julien",
-  "trope_count": 10,
-  "tropes": [
-    "EasilyForgiven",
-    "AnimalGenderBender",
-    "NotSoHarmlessVillain",
-    "TookALevelInBadass",
-    "CreateYourOwnVillain",
-    "JumpingOffTheSlipperySlope",
-    "OddlySmallOrganization",
-    "InsaneTrollLogic",
-    "EvilCounterpart",
-    "DragonAscendant"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "LALA", "show": "All Hail King Julien", "trope_count": 10, "tropes": ["EasilyForgiven", "AnimalGenderBender", "NotSoHarmlessVillain", "TookALevelInBadass", "CreateYourOwnVillain", "JumpingOffTheSlipperySlope", "OddlySmallOrganization", "InsaneTrollLogic", "EvilCounterpart", "DragonAscendant"], "tropes_by_category": {}, "similar": [{"name": "Ashur", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_ashur", "similarity": 0.0412, "shared_tropes": 4}]}

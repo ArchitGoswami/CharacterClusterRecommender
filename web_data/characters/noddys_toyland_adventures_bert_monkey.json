@@ -1,13 +1,1 @@
-{
-  "name": "Bert Monkey",
-  "show": "Noddy's Toyland Adventures",
-  "trope_count": 5,
-  "tropes": [
-    "ChuckCunninghamSyndrome",
-    "ShrinkingViolet",
-    "OrganAutonomy",
-    "AdaptationPersonalityChange",
-    "AscendedExtra"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bert Monkey", "show": "Noddy's Toyland Adventures", "trope_count": 5, "tropes": ["ChuckCunninghamSyndrome", "ShrinkingViolet", "OrganAutonomy", "AdaptationPersonalityChange", "AscendedExtra"], "tropes_by_category": {}, "similar": [{"name": "Miho Nosaka", "show": "Yu-Gi-Oh!", "id": "yu_gi_oh_miho_nosaka", "similarity": 0.1333, "shared_tropes": 4}]}

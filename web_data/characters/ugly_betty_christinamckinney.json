@@ -1,18 +1,1 @@
-{
-  "name": "ChristinaMcKinney",
-  "show": "Ugly Betty",
-  "trope_count": 10,
-  "tropes": [
-    "FishOutOfWater",
-    "DeadpanSnarker",
-    "SnarkToSnarkCombat",
-    "OnlySaneEmployee",
-    "PutOnABus",
-    "FunnyForeigner",
-    "RealLifeWritesThePlot",
-    "OutOfFocus",
-    "TheArtifact",
-    "BestFriend"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "ChristinaMcKinney", "show": "Ugly Betty", "trope_count": 10, "tropes": ["FishOutOfWater", "DeadpanSnarker", "SnarkToSnarkCombat", "OnlySaneEmployee", "PutOnABus", "FunnyForeigner", "RealLifeWritesThePlot", "OutOfFocus", "TheArtifact", "BestFriend"], "tropes_by_category": {}, "similar": [{"name": "Juliet Darling", "show": "Dirty Sexy Money", "id": "dirty_sexy_money_juliet_darling", "similarity": 0.1429, "shared_tropes": 4}, {"name": "Osha", "show": "Game of Thrones", "id": "game_of_thrones_osha", "similarity": 0.0833, "shared_tropes": 4}, {"name": "Apu Nahasapeemapetilon", "show": "Simpsons,The", "id": "simpsonsthe_apu_nahasapeemapetilon", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Apu Nahasapeemapetilon", "show": "The Simpsons", "id": "the_simpsons_apu_nahasapeemapetilon", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Dr. Lisa Cuddy", "show": "House", "id": "house_dr_lisa_cuddy", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Kenzi", "show": "Lost", "id": "lost_kenzi", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Kenzi", "show": "Lost Girl", "id": "lost_girl_kenzi", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Kermit the Frog", "show": "Muppet Show,The", "id": "muppet_showthe_kermit_the_frog", "similarity": 0.0455, "shared_tropes": 4}]}

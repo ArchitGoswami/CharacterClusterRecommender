@@ -1,13 +1,1 @@
-{
-  "name": "Felicia",
-  "show": "Bratz",
-  "trope_count": 5,
-  "tropes": [
-    "TheBusCameBack",
-    "LadyOfAdventure",
-    "NatureLover",
-    "TheHost",
-    "SixthRanger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Felicia", "show": "Bratz", "trope_count": 5, "tropes": ["TheBusCameBack", "LadyOfAdventure", "NatureLover", "TheHost", "SixthRanger"], "tropes_by_category": {}, "similar": []}

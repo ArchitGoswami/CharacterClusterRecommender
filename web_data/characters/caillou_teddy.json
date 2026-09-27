@@ -1,16 +1,1 @@
-{
-  "name": "Teddy",
-  "show": "Caillou",
-  "trope_count": 8,
-  "tropes": [
-    "CoolOldGuy",
-    "SuddenlyVoiced",
-    "DeadpanSnarker",
-    "WideEyedIdealist",
-    "NiceGuy",
-    "SadClown",
-    "BearyFriendly",
-    "ALizardNamedLiz"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Teddy", "show": "Caillou", "trope_count": 8, "tropes": ["CoolOldGuy", "SuddenlyVoiced", "DeadpanSnarker", "WideEyedIdealist", "NiceGuy", "SadClown", "BearyFriendly", "ALizardNamedLiz"], "tropes_by_category": {}, "similar": [{"name": "Mike Kellerman", "show": "Homicide: Life on the Street", "id": "homicide_life_on_the_street_mike_kellerman", "similarity": 0.0435, "shared_tropes": 4}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0377, "shared_tropes": 4}]}

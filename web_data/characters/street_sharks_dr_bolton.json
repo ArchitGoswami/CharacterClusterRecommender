@@ -1,17 +1,1 @@
-{
-  "name": "Dr. Bolton",
-  "show": "Street Sharks",
-  "trope_count": 9,
-  "tropes": [
-    "MissionControl",
-    "ChuckCunninghamSyndrome",
-    "BodyHorror",
-    "TheGhost",
-    "DisappearedDad",
-    "BigBad",
-    "TheAce",
-    "SpannerInTheWorks",
-    "IdiotBall"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dr. Bolton", "show": "Street Sharks", "trope_count": 9, "tropes": ["MissionControl", "ChuckCunninghamSyndrome", "BodyHorror", "TheGhost", "DisappearedDad", "BigBad", "TheAce", "SpannerInTheWorks", "IdiotBall"], "tropes_by_category": {}, "similar": [{"name": "Mohinder Suresh", "show": "Heroes", "id": "heroes_mohinder_suresh", "similarity": 0.0656, "shared_tropes": 4}, {"name": "The Founding Seven", "show": "Justice League", "id": "justice_league_the_founding_seven", "similarity": 0.0625, "shared_tropes": 4}, {"name": "The Founding Seven", "show": "Justice League Unlimited", "id": "justice_league_unlimited_the_founding_seven", "similarity": 0.0625, "shared_tropes": 4}]}

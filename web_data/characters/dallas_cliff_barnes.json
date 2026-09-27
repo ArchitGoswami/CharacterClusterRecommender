@@ -1,15 +1,1 @@
-{
-  "name": "Cliff Barnes",
-  "show": "Dallas",
-  "trope_count": 7,
-  "tropes": [
-    "ChickMagnet",
-    "FallenHero",
-    "ArchEnemy",
-    "NotSoHarmless",
-    "WellIntentionedExtremist",
-    "TrademarkFavoriteFood",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cliff Barnes", "show": "Dallas", "trope_count": 7, "tropes": ["ChickMagnet", "FallenHero", "ArchEnemy", "NotSoHarmless", "WellIntentionedExtremist", "TrademarkFavoriteFood", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Larry the Lobster", "show": "SpongeBob SquarePants", "id": "spongebob_squarepants_larry_the_lobster", "similarity": 0.1053, "shared_tropes": 4}]}

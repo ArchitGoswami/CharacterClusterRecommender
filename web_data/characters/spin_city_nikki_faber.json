@@ -1,14 +1,1 @@
-{
-  "name": "Nikki Faber",
-  "show": "Spin City",
-  "trope_count": 6,
-  "tropes": [
-    "FieryRedhead",
-    "ChuckCunninghamSyndrome",
-    "MsFanservice",
-    "EthicalSlut",
-    "SexySecretary",
-    "UnresolvedSexualTension"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nikki Faber", "show": "Spin City", "trope_count": 6, "tropes": ["FieryRedhead", "ChuckCunninghamSyndrome", "MsFanservice", "EthicalSlut", "SexySecretary", "UnresolvedSexualTension"], "tropes_by_category": {}, "similar": [{"name": "Donna Paulsen", "show": "Suits", "id": "suits_donna_paulsen", "similarity": 0.1053, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Overtkill",
-  "show": "Spawn",
-  "trope_count": 10,
-  "tropes": [
-    "Cyborg",
-    "DeathByAdaptation",
-    "PsychoForHire",
-    "ShootTheMessenger",
-    "AxCrazy",
-    "WeCanRebuildHim",
-    "TheBrute",
-    "ReforgedIntoAMinion",
-    "LightningBruiser",
-    "PoliticallyIncorrectVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Overtkill", "show": "Spawn", "trope_count": 10, "tropes": ["Cyborg", "DeathByAdaptation", "PsychoForHire", "ShootTheMessenger", "AxCrazy", "WeCanRebuildHim", "TheBrute", "ReforgedIntoAMinion", "LightningBruiser", "PoliticallyIncorrectVillain"], "tropes_by_category": {}, "similar": [{"name": "Gladiator", "show": "Daredevil", "id": "daredevil_gladiator", "similarity": 0.16, "shared_tropes": 4}, {"name": "Black Krrsantan", "show": "The Mandalorian", "id": "the_mandalorian_black_krrsantan", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Reactron (Pre-Crisis & Post-Crisis)", "show": "Supergirl", "id": "supergirl_reactron_pre_crisis_post_crisis", "similarity": 0.0645, "shared_tropes": 4}, {"name": "Knight of X — Luciano Bradley", "show": "Code Geass", "id": "code_geass_knight_of_x_luciano_bradley", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Zodd", "show": "Berserk", "id": "berserk_zodd", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Jeremiah Gottwald", "show": "Code Geass", "id": "code_geass_jeremiah_gottwald", "similarity": 0.0364, "shared_tropes": 4}, {"name": "Rampage/Protoform X", "show": "Beast Wars", "id": "beast_wars_rampage_protoform_x", "similarity": 0.0354, "shared_tropes": 4}]}

@@ -1,13 +1,1 @@
-{
-  "name": "Major Brand",
-  "show": "ChalkZone",
-  "trope_count": 5,
-  "tropes": [
-    "PunnyName",
-    "KickTheDog",
-    "OhCrap",
-    "PowerNullifier",
-    "VillainousGlutton"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Major Brand", "show": "ChalkZone", "trope_count": 5, "tropes": ["PunnyName", "KickTheDog", "OhCrap", "PowerNullifier", "VillainousGlutton"], "tropes_by_category": {}, "similar": []}

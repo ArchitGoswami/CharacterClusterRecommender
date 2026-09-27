@@ -1,16 +1,1 @@
-{
-  "name": "Paula",
-  "show": "Home Movies",
-  "trope_count": 8,
-  "tropes": [
-    "DeadpanSnarker",
-    "TemporaryBulkChange",
-    "WeightWoe",
-    "OutOfFocus",
-    "NiceGirl",
-    "AmicableExes",
-    "ParentsAsPeople",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paula", "show": "Home Movies", "trope_count": 8, "tropes": ["DeadpanSnarker", "TemporaryBulkChange", "WeightWoe", "OutOfFocus", "NiceGirl", "AmicableExes", "ParentsAsPeople", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Lois Foutley", "show": "As Told by Ginger", "id": "as_told_by_ginger_lois_foutley", "similarity": 0.1471, "shared_tropes": 5}, {"name": "Helen Morgendorffer", "show": "Daria", "id": "daria_helen_morgendorffer", "similarity": 0.0952, "shared_tropes": 4}, {"name": "Helen", "show": "Justified", "id": "justified_helen", "similarity": 0.0909, "shared_tropes": 4}, {"name": "Jay Pritchett", "show": "Modern Family", "id": "modern_family_jay_pritchett", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Kitty Forman", "show": "That '70s Show", "id": "that_70s_show_kitty_forman", "similarity": 0.0702, "shared_tropes": 4}, {"name": "Lorelai Victoria Gilmore", "show": "Gilmore Girls", "id": "gilmore_girls_lorelai_victoria_gilmore", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Jamie Tartt", "show": "Ted Lasso", "id": "ted_lasso_jamie_tartt", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Frankie Foster", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_frankie_foster", "similarity": 0.0476, "shared_tropes": 4}]}

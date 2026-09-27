@@ -1,17 +1,1 @@
-{
-  "name": "Porkchop",
-  "show": "Doug",
-  "trope_count": 9,
-  "tropes": [
-    "HeroWithBadPublicity",
-    "SuperpoweredAlterEgo",
-    "ADayInTheLimelight",
-    "Expy",
-    "ImagineSpot",
-    "SilentSnarker",
-    "DubNameChange",
-    "NonHumanSidekick",
-    "CartoonDogBreed"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Porkchop", "show": "Doug", "trope_count": 9, "tropes": ["HeroWithBadPublicity", "SuperpoweredAlterEgo", "ADayInTheLimelight", "Expy", "ImagineSpot", "SilentSnarker", "DubNameChange", "NonHumanSidekick", "CartoonDogBreed"], "tropes_by_category": {}, "similar": [{"name": "Dick Dastardly & Muttley (Drivers of the Mean Machine)", "show": "Wacky Races", "id": "wacky_races_dick_dastardly_muttley_drivers_of_the_mean_machine", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Gurio Umino", "show": "Sailor Moon", "id": "sailor_moon_gurio_umino", "similarity": 0.0367, "shared_tropes": 4}]}

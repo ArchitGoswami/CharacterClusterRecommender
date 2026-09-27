@@ -1,17 +1,1 @@
-{
-  "name": "Jeremiah Bello",
-  "show": "Graceland",
-  "trope_count": 9,
-  "tropes": [
-    "LeaveNoWitnesses",
-    "ScaryBlackMan",
-    "ItsAllAboutMe",
-    "KickTheDog",
-    "LackOfEmpathy",
-    "TortureTechnician",
-    "RuthlessForeignGangsters",
-    "EyeScream",
-    "FauxAffablyEvil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Jeremiah Bello", "show": "Graceland", "trope_count": 9, "tropes": ["LeaveNoWitnesses", "ScaryBlackMan", "ItsAllAboutMe", "KickTheDog", "LackOfEmpathy", "TortureTechnician", "RuthlessForeignGangsters", "EyeScream", "FauxAffablyEvil"], "tropes_by_category": {}, "similar": [{"name": "Coyle", "show": "Oz", "id": "oz_coyle", "similarity": 0.093, "shared_tropes": 4}, {"name": "Cheng Zhi", "show": "24", "id": "24_cheng_zhi", "similarity": 0.0816, "shared_tropes": 4}, {"name": "Ash", "show": "Adventure Time", "id": "adventure_time_ash", "similarity": 0.08, "shared_tropes": 4}, {"name": "Void", "show": "Berserk", "id": "berserk_void", "similarity": 0.069, "shared_tropes": 4}, {"name": "Comte de Rochefort", "show": "Musketeers, The", "id": "musketeers_the_comte_de_rochefort", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Clarence \"Clay\" Morrow", "show": "Sons of Anarchy", "id": "sons_of_anarchy_clarence_clay_morrow", "similarity": 0.0571, "shared_tropes": 4}, {"name": "Windmark", "show": "Fringe", "id": "fringe_windmark", "similarity": 0.0548, "shared_tropes": 4}, {"name": "Windmark", "show": "The Fringe", "id": "the_fringe_windmark", "similarity": 0.0548, "shared_tropes": 4}]}

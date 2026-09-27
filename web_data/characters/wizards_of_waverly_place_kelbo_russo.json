@@ -1,15 +1,1 @@
-{
-  "name": "Kelbo Russo",
-  "show": "Wizards of Waverly Place",
-  "trope_count": 7,
-  "tropes": [
-    "DoesThisRemindYouOfAnything",
-    "BeethovenWasAnAlienSpy",
-    "TooDumbToLive",
-    "ManChild",
-    "AnnoyingYoungerSibling",
-    "TheDitz",
-    "AttractiveBentGender"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kelbo Russo", "show": "Wizards of Waverly Place", "trope_count": 7, "tropes": ["DoesThisRemindYouOfAnything", "BeethovenWasAnAlienSpy", "TooDumbToLive", "ManChild", "AnnoyingYoungerSibling", "TheDitz", "AttractiveBentGender"], "tropes_by_category": {}, "similar": [{"name": "Dog", "show": "CatDog", "id": "catdog_dog", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Michael Kelso", "show": "That '70s Show", "id": "that_70s_show_michael_kelso", "similarity": 0.0465, "shared_tropes": 4}, {"name": "United States of America — Alfred F. Jones", "show": "Hetalia - Axis Powers", "id": "hetalia_axis_powers_united_states_of_america_alfred_f_jones", "similarity": 0.0426, "shared_tropes": 4}]}

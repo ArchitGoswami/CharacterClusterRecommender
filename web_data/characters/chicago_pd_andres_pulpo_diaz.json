@@ -1,16 +1,1 @@
-{
-  "name": "Andres \"Pulpo\" Diaz",
-  "show": "Chicago PD",
-  "trope_count": 8,
-  "tropes": [
-    "AintTooProudToBeg",
-    "DirtyCoward",
-    "TooDumbToLive",
-    "NoSell",
-    "AxCrazy",
-    "HeroKiller",
-    "WouldHurtAChild",
-    "StarterVillain"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Andres \"Pulpo\" Diaz", "show": "Chicago PD", "trope_count": 8, "tropes": ["AintTooProudToBeg", "DirtyCoward", "TooDumbToLive", "NoSell", "AxCrazy", "HeroKiller", "WouldHurtAChild", "StarterVillain"], "tropes_by_category": {}, "similar": [{"name": "Kevin Bingham", "show": "Chicago PD", "id": "chicago_pd_kevin_bingham", "similarity": 0.2, "shared_tropes": 4}, {"name": "Main Cast", "show": "Harper's Island", "id": "harpers_island_main_cast", "similarity": 0.0513, "shared_tropes": 4}, {"name": "Temple", "show": "Red vs Blue", "id": "red_vs_blue_temple", "similarity": 0.041, "shared_tropes": 5}, {"name": "Ludo Avarius", "show": "Star Vs. The Forces of Evil", "id": "star_vs_the_forces_of_evil_ludo_avarius", "similarity": 0.0385, "shared_tropes": 5}]}

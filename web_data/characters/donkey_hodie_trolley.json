@@ -1,16 +1,1 @@
-{
-  "name": "Trolley",
-  "show": "Donkey Hodie",
-  "trope_count": 8,
-  "tropes": [
-    "GentleGiant",
-    "Leitmotif",
-    "ContinuityCameo",
-    "StarfishLanguage",
-    "ConnectedAllAlong",
-    "NoodleIncident",
-    "SentientVehicle",
-    "CoolCar"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Trolley", "show": "Donkey Hodie", "trope_count": 8, "tropes": ["GentleGiant", "Leitmotif", "ContinuityCameo", "StarfishLanguage", "ConnectedAllAlong", "NoodleIncident", "SentientVehicle", "CoolCar"], "tropes_by_category": {}, "similar": []}

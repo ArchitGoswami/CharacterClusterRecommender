@@ -1,15 +1,1 @@
-{
-  "name": "WandaMacPherson",
-  "show": "Baby Blues",
-  "trope_count": 7,
-  "tropes": [
-    "Housewife",
-    "DeadpanSnarker",
-    "Manchild",
-    "InelegantBlubbering",
-    "MamaBear",
-    "TomboyAndGirlyGirl",
-    "WhyDidItHaveToBeSnakes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "WandaMacPherson", "show": "Baby Blues", "trope_count": 7, "tropes": ["Housewife", "DeadpanSnarker", "Manchild", "InelegantBlubbering", "MamaBear", "TomboyAndGirlyGirl", "WhyDidItHaveToBeSnakes"], "tropes_by_category": {}, "similar": [{"name": "Gloria Ramirez Delgado Pritchett", "show": "Modern Family", "id": "modern_family_gloria_ramirez_delgado_pritchett", "similarity": 0.0615, "shared_tropes": 4}, {"name": "Pam Poovey", "show": "Archer", "id": "archer_pam_poovey", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Nick", "show": "New Girl", "id": "new_girl_nick", "similarity": 0.0354, "shared_tropes": 4}]}

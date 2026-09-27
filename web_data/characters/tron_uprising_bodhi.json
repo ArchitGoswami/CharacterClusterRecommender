@@ -1,17 +1,1 @@
-{
-  "name": "Bodhi",
-  "show": "Tron: Uprising",
-  "trope_count": 9,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "WeHardlyKnewYe",
-    "DoNotTauntCthulhu",
-    "FriendlyRivalry",
-    "TheGenericGuy",
-    "ChekhovsGun",
-    "SacrificialLamb",
-    "HotBlooded",
-    "DeathByOriginStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bodhi", "show": "Tron: Uprising", "trope_count": 9, "tropes": ["SmallRoleBigImpact", "WeHardlyKnewYe", "DoNotTauntCthulhu", "FriendlyRivalry", "TheGenericGuy", "ChekhovsGun", "SacrificialLamb", "HotBlooded", "DeathByOriginStory"], "tropes_by_category": {}, "similar": [{"name": "Combo", "show": "Breaking Bad", "id": "breaking_bad_combo", "similarity": 0.2105, "shared_tropes": 4}, {"name": "Other Autobots", "show": "Transformers Prime", "id": "transformers_prime_other_autobots", "similarity": 0.2, "shared_tropes": 4}]}

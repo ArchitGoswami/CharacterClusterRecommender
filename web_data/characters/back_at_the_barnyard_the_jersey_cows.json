@@ -1,14 +1,1 @@
-{
-  "name": "The Jersey Cows",
-  "show": "Back at the Barnyard",
-  "trope_count": 6,
-  "tropes": [
-    "BigThinShortTrio",
-    "JerkWithAHeartOfGold",
-    "AdaptationalJerkass",
-    "BigDamnHeroes",
-    "DemotedToExtra",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Jersey Cows", "show": "Back at the Barnyard", "trope_count": 6, "tropes": ["BigThinShortTrio", "JerkWithAHeartOfGold", "AdaptationalJerkass", "BigDamnHeroes", "DemotedToExtra", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Renee Montoya", "show": "Gotham", "id": "gotham_renee_montoya", "similarity": 0.129, "shared_tropes": 4}]}

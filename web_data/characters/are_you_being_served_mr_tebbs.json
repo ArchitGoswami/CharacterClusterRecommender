@@ -1,14 +1,1 @@
-{
-  "name": "Mr. Tebbs",
-  "show": "Are You Being Served?",
-  "trope_count": 6,
-  "tropes": [
-    "SitcomArchnemesis",
-    "HappilyMarried",
-    "ControlFreak",
-    "PutOnABus",
-    "GrumpyOldMan",
-    "WhamLine"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mr. Tebbs", "show": "Are You Being Served?", "trope_count": 6, "tropes": ["SitcomArchnemesis", "HappilyMarried", "ControlFreak", "PutOnABus", "GrumpyOldMan", "WhamLine"], "tropes_by_category": {}, "similar": []}

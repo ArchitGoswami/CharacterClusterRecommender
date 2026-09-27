@@ -1,11 +1,1 @@
-{
-  "name": "Alphonse",
-  "show": "Johnny Bravo",
-  "trope_count": 3,
-  "tropes": [
-    "LorreLookalike",
-    "OrderliesAreCreeps",
-    "AmazingTechnicolorPopulation"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Alphonse", "show": "Johnny Bravo", "trope_count": 3, "tropes": ["LorreLookalike", "OrderliesAreCreeps", "AmazingTechnicolorPopulation"], "tropes_by_category": {}, "similar": []}

@@ -1,16 +1,1 @@
-{
-  "name": "Thomas",
-  "show": "The Boys",
-  "trope_count": 8,
-  "tropes": [
-    "TheJeeves",
-    "ServileSnarker",
-    "OldRetainer",
-    "BlatantLies",
-    "MeaningfulName",
-    "EtTuBrute",
-    "MistreatmentInducedBetrayal",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Thomas", "show": "The Boys", "trope_count": 8, "tropes": ["TheJeeves", "ServileSnarker", "OldRetainer", "BlatantLies", "MeaningfulName", "EtTuBrute", "MistreatmentInducedBetrayal", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Thomas", "show": "Boys, The", "id": "boys_the_thomas", "similarity": 1.0, "shared_tropes": 8}, {"name": "Bernadette \"Mina\" Beff", "show": "Grojband", "id": "grojband_bernadette_mina_beff", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Winslow High Staff", "show": "Boston Public", "id": "boston_public_winslow_high_staff", "similarity": 0.0421, "shared_tropes": 4}]}

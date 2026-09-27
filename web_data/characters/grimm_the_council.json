@@ -1,15 +1,1 @@
-{
-  "name": "The Council",
-  "show": "Grimm",
-  "trope_count": 7,
-  "tropes": [
-    "TheMasquerade",
-    "ReasonableAuthorityFigure",
-    "AssholeVictim",
-    "WellIntentionedExtremist",
-    "EnemyMine",
-    "WitchHunt",
-    "KnightTemplar"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Council", "show": "Grimm", "trope_count": 7, "tropes": ["TheMasquerade", "ReasonableAuthorityFigure", "AssholeVictim", "WellIntentionedExtremist", "EnemyMine", "WitchHunt", "KnightTemplar"], "tropes_by_category": {}, "similar": [{"name": "Helen Cutter", "show": "Primeval", "id": "primeval_helen_cutter", "similarity": 0.1081, "shared_tropes": 4}, {"name": "Sam Owens", "show": "Stranger Things", "id": "stranger_things_sam_owens", "similarity": 0.1, "shared_tropes": 4}, {"name": "The Operative", "show": "Firefly", "id": "firefly_the_operative", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Saïd", "show": "Oz", "id": "oz_sa_d", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Jason Carver", "show": "Stranger Things", "id": "stranger_things_jason_carver", "similarity": 0.0413, "shared_tropes": 5}, {"name": "Martin Brenner", "show": "Stranger Things", "id": "stranger_things_martin_brenner", "similarity": 0.0412, "shared_tropes": 4}]}

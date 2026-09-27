@@ -1,18 +1,1 @@
-{
-  "name": "G-Tech Pilots",
-  "show": "Wipeout",
-  "trope_count": 10,
-  "tropes": [
-    "TokenEvilTeammate",
-    "TheCasanova",
-    "BewareTheQuietOnes",
-    "HeroicBuild",
-    "TheRival",
-    "HiddenDepths",
-    "WorkoutFanservice",
-    "BloodKnight",
-    "PinkGirlBlueBoy",
-    "ScrewTheMoneyIHaveRules"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "G-Tech Pilots", "show": "Wipeout", "trope_count": 10, "tropes": ["TokenEvilTeammate", "TheCasanova", "BewareTheQuietOnes", "HeroicBuild", "TheRival", "HiddenDepths", "WorkoutFanservice", "BloodKnight", "PinkGirlBlueBoy", "ScrewTheMoneyIHaveRules"], "tropes_by_category": {}, "similar": [{"name": "Jayne", "show": "Firefly", "id": "firefly_jayne", "similarity": 0.04, "shared_tropes": 4}]}

@@ -1,14 +1,1 @@
-{
-  "name": "Sir Desmond",
-  "show": "Yes, Minister",
-  "trope_count": 6,
-  "tropes": [
-    "MorallyBankruptBanker",
-    "ThePiratesWhoDontDoAnything",
-    "TheDitz",
-    "ClicheStorm",
-    "Flanderization",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sir Desmond", "show": "Yes, Minister", "trope_count": 6, "tropes": ["MorallyBankruptBanker", "ThePiratesWhoDontDoAnything", "TheDitz", "ClicheStorm", "Flanderization", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Sir Desmond", "show": "Yes, Prime Minister", "id": "yes_prime_minister_sir_desmond", "similarity": 1.0, "shared_tropes": 6}, {"name": "Father Dougal", "show": "Father Ted", "id": "father_ted_father_dougal", "similarity": 0.0755, "shared_tropes": 4}]}

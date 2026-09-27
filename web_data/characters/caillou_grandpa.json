@@ -1,13 +1,1 @@
-{
-  "name": "Grandpa",
-  "show": "Caillou",
-  "trope_count": 5,
-  "tropes": [
-    "CoolOldGuy",
-    "RailEnthusiast",
-    "NiceGuy",
-    "TheStoryteller",
-    "HappilyMarried"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Grandpa", "show": "Caillou", "trope_count": 5, "tropes": ["CoolOldGuy", "RailEnthusiast", "NiceGuy", "TheStoryteller", "HappilyMarried"], "tropes_by_category": {}, "similar": []}

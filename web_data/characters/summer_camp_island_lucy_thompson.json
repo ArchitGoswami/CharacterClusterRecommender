@@ -1,12 +1,1 @@
-{
-  "name": "Lucy Thompson",
-  "show": "Summer Camp Island",
-  "trope_count": 4,
-  "tropes": [
-    "DeadpanSnarker",
-    "Bookworm",
-    "Expy",
-    "TomboyAndGirlyGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Lucy Thompson", "show": "Summer Camp Island", "trope_count": 4, "tropes": ["DeadpanSnarker", "Bookworm", "Expy", "TomboyAndGirlyGirl"], "tropes_by_category": {}, "similar": [{"name": "Cindy Vortex", "show": "Adventures of Jimmy Neutron: Boy Genius, The", "id": "adventures_of_jimmy_neutron_boy_genius_the_cindy_vortex", "similarity": 0.043, "shared_tropes": 4}]}

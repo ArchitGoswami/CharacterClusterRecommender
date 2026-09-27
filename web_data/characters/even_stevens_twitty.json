@@ -1,12 +1,1 @@
-{
-  "name": "Twitty",
-  "show": "Even Stevens",
-  "trope_count": 4,
-  "tropes": [
-    "ChickMagnet",
-    "TheMovie",
-    "MyGodWhatHaveIDone",
-    "LastNameBasis"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Twitty", "show": "Even Stevens", "trope_count": 4, "tropes": ["ChickMagnet", "TheMovie", "MyGodWhatHaveIDone", "LastNameBasis"], "tropes_by_category": {}, "similar": []}

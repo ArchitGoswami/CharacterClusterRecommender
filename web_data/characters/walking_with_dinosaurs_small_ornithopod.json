@@ -1,12 +1,1 @@
-{
-  "name": "Small Ornithopod",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 4,
-  "tropes": [
-    "MonsterMunch",
-    "PaletteSwap",
-    "NoNameGiven",
-    "LivingProp"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Small Ornithopod", "show": "Walking with Dinosaurs", "trope_count": 5, "tropes": ["SocialOrnithopod", "MonsterMunch", "PaletteSwap", "NoNameGiven", "LivingProp"], "tropes_by_category": {}, "similar": [{"name": "DryosaurusandOthnielia", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_dryosaurusandothnielia", "similarity": 0.4, "shared_tropes": 4}, {"name": "Hadrosaurs", "show": "Prehistoric Planet", "id": "prehistoric_planet_hadrosaurs", "similarity": 0.4, "shared_tropes": 4}]}

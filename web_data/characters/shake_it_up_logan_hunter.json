@@ -1,16 +1,1 @@
-{
-  "name": "Logan Hunter",
-  "show": "Shake It Up",
-  "trope_count": 8,
-  "tropes": [
-    "OfficialCouple",
-    "HeroAntagonist",
-    "TheCastShowOff",
-    "Foil",
-    "EmbarrassingNickname",
-    "SiblingRivalry",
-    "YoungAndInCharge",
-    "BurgerFool"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Logan Hunter", "show": "Shake It Up", "trope_count": 8, "tropes": ["OfficialCouple", "HeroAntagonist", "TheCastShowOff", "Foil", "EmbarrassingNickname", "SiblingRivalry", "YoungAndInCharge", "BurgerFool"], "tropes_by_category": {}, "similar": []}

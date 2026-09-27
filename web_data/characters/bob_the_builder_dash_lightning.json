@@ -1,14 +1,1 @@
-{
-  "name": "Dash Lightning",
-  "show": "Bob the Builder",
-  "trope_count": 6,
-  "tropes": [
-    "ShowWithinAShow",
-    "Catchphrase",
-    "TheKnightsWhoSaySquee",
-    "AwesomeMcCoolname",
-    "EarlyBirdCameo",
-    "TwinkleSmile"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dash Lightning", "show": "Bob the Builder", "trope_count": 7, "tropes": ["FakeAmerican", "AwesomeMcCoolname", "ShowWithinAShow", "TwinkleSmile", "EarlyBirdCameo", "Catchphrase", "TheKnightsWhoSaySquee"], "tropes_by_category": {}, "similar": []}

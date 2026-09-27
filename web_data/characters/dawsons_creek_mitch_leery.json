@@ -1,15 +1,1 @@
-{
-  "name": "Mitch Leery",
-  "show": "Dawson's Creek",
-  "trope_count": 7,
-  "tropes": [
-    "SeriesContinuityError",
-    "PartingWordsRegret",
-    "ReasonableAuthorityFigure",
-    "GoodParents",
-    "OnlySaneMan",
-    "BackForTheDead",
-    "ParentalSubstitute"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mitch Leery", "show": "Dawson's Creek", "trope_count": 7, "tropes": ["SeriesContinuityError", "PartingWordsRegret", "ReasonableAuthorityFigure", "GoodParents", "OnlySaneMan", "BackForTheDead", "ParentalSubstitute"], "tropes_by_category": {}, "similar": [{"name": "Sheriff Noah Stilinski", "show": "Teen Wolf", "id": "teen_wolf_sheriff_noah_stilinski", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Max Tennyson", "show": "Ben 10", "id": "ben_10_max_tennyson", "similarity": 0.0563, "shared_tropes": 4}, {"name": "Soichiro Yagami/Yonjuro Asahi", "show": "Death Note", "id": "death_note_soichiro_yagami_yonjuro_asahi", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Red Forman", "show": "That '70s Show", "id": "that_70s_show_red_forman", "similarity": 0.037, "shared_tropes": 4}]}

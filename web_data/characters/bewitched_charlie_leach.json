@@ -1,17 +1,1 @@
-{
-  "name": "Charlie Leach",
-  "show": "Bewitched",
-  "trope_count": 9,
-  "tropes": [
-    "Jerkass",
-    "TooDumbToLive",
-    "UnwantedSpouse",
-    "UglyGuyHotWife",
-    "BullyingADragon",
-    "Determinator",
-    "MeaningfulName",
-    "Greed",
-    "ButtMonkey"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Charlie Leach", "show": "Bewitched", "trope_count": 9, "tropes": ["Jerkass", "TooDumbToLive", "UnwantedSpouse", "UglyGuyHotWife", "BullyingADragon", "Determinator", "MeaningfulName", "Greed", "ButtMonkey"], "tropes_by_category": {}, "similar": [{"name": "Larry Kline", "show": "Stranger Things", "id": "stranger_things_larry_kline", "similarity": 0.1333, "shared_tropes": 4}, {"name": "Darrin Stephens", "show": "Bewitched", "id": "bewitched_darrin_stephens", "similarity": 0.1143, "shared_tropes": 4}, {"name": "Mr. Shu / Sai'aku Shu", "show": "Dragon Ball Z", "id": "dragon_ball_z_mr_shu_sai_aku_shu", "similarity": 0.1081, "shared_tropes": 4}, {"name": "The Hood", "show": "Thunderbirds", "id": "thunderbirds_the_hood", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Oscar Proud", "show": "Proud Family, The", "id": "proud_family_the_oscar_proud", "similarity": 0.0426, "shared_tropes": 6}, {"name": "Hou-Ting", "show": "Legend of Korra, The", "id": "legend_of_korra_the_hou_ting", "similarity": 0.0374, "shared_tropes": 4}, {"name": "Princess Morbucks", "show": "Powerpuff Girls, The", "id": "powerpuff_girls_the_princess_morbucks", "similarity": 0.036, "shared_tropes": 5}]}

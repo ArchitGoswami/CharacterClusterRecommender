@@ -1,14 +1,1 @@
-{
-  "name": "Teddy Altman",
-  "show": "Grey's Anatomy",
-  "trope_count": 6,
-  "tropes": [
-    "TheBusCameBack",
-    "AllLoveIsUnrequited",
-    "ActionGirl",
-    "CitizenshipMarriage",
-    "PutOnABus",
-    "AmicableExes"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Teddy Altman", "show": "Grey's Anatomy", "trope_count": 6, "tropes": ["TheBusCameBack", "AllLoveIsUnrequited", "ActionGirl", "CitizenshipMarriage", "PutOnABus", "AmicableExes"], "tropes_by_category": {}, "similar": [{"name": "Alli Bhandari", "show": "Degrassi: The Next Generation", "id": "degrassi_the_next_generation_alli_bhandari", "similarity": 0.0784, "shared_tropes": 4}]}

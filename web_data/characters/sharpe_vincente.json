@@ -1,15 +1,1 @@
-{
-  "name": "Vincente",
-  "show": "Sharpe",
-  "trope_count": 7,
-  "tropes": [
-    "MyCountryRightOrWrong",
-    "HappilyMarried",
-    "BewareTheNiceOnes",
-    "OfficerAndAGentleman",
-    "FollowTheLeader",
-    "GoodCannotComprehendEvil",
-    "TheIdealist"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Vincente", "show": "Sharpe", "trope_count": 7, "tropes": ["MyCountryRightOrWrong", "HappilyMarried", "BewareTheNiceOnes", "OfficerAndAGentleman", "FollowTheLeader", "GoodCannotComprehendEvil", "TheIdealist"], "tropes_by_category": {}, "similar": [{"name": "Vicente", "show": "Sharpe", "id": "sharpe_vicente", "similarity": 0.875, "shared_tropes": 7}]}

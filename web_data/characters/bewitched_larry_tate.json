@@ -1,18 +1,1 @@
-{
-  "name": "Larry Tate",
-  "show": "Bewitched",
-  "trope_count": 10,
-  "tropes": [
-    "BenevolentBoss",
-    "Catchphrase",
-    "JerkWithAHeartOfGold",
-    "AndStarring",
-    "OpinionFlipflop",
-    "ReasonableAuthorityFigure",
-    "DubNameChange",
-    "IntergenerationalFriendship",
-    "EveryoneHasStandards",
-    "MrViceGuy"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Larry Tate", "show": "Bewitched", "trope_count": 10, "tropes": ["BenevolentBoss", "Catchphrase", "JerkWithAHeartOfGold", "AndStarring", "OpinionFlipflop", "ReasonableAuthorityFigure", "DubNameChange", "IntergenerationalFriendship", "EveryoneHasStandards", "MrViceGuy"], "tropes_by_category": {}, "similar": [{"name": "Howard Cunningham", "show": "Happy Days", "id": "happy_days_howard_cunningham", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Mary Alice \"Muffy\" Crosswire", "show": "Arthur", "id": "arthur_mary_alice_muffy_crosswire", "similarity": 0.0714, "shared_tropes": 4}, {"name": "Kermit the Frog", "show": "Muppet Show,The", "id": "muppet_showthe_kermit_the_frog", "similarity": 0.0575, "shared_tropes": 5}, {"name": "Chris Traeger", "show": "Parks and Recreation", "id": "parks_and_recreation_chris_traeger", "similarity": 0.0556, "shared_tropes": 4}, {"name": "The Fat Controller / Sir Topham Hatt", "show": "Thomas & Friends", "id": "thomas_and_friends_the_fat_controller_sir_topham_hatt", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Father Ted", "show": "Father Ted", "id": "father_ted_father_ted", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Tiff (Fumu)", "show": "Kirby: Right Back at Ya!", "id": "kirby_right_back_at_ya_tiff_fumu", "similarity": 0.0533, "shared_tropes": 4}, {"name": "Spinelli", "show": "Recess", "id": "recess_spinelli", "similarity": 0.0506, "shared_tropes": 4}]}

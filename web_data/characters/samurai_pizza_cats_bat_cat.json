@@ -1,17 +1,1 @@
-{
-  "name": "Bat Cat",
-  "show": "Samurai Pizza Cats",
-  "trope_count": 9,
-  "tropes": [
-    "ChickMagnet",
-    "ShoutOut",
-    "HeldBackInSchool",
-    "ImprobableWeaponUser",
-    "ImprobablePilotingSkills",
-    "MotorMouth",
-    "BookDumb",
-    "AwesomeBackpack",
-    "BlowYouAway"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Bat Cat", "show": "Samurai Pizza Cats", "trope_count": 9, "tropes": ["ChickMagnet", "ShoutOut", "HeldBackInSchool", "ImprobableWeaponUser", "ImprobablePilotingSkills", "MotorMouth", "BookDumb", "AwesomeBackpack", "BlowYouAway"], "tropes_by_category": {}, "similar": [{"name": "Ace Rimmer (What a guy!)", "show": "Red Dwarf", "id": "red_dwarf_ace_rimmer_what_a_guy", "similarity": 0.0548, "shared_tropes": 4}]}

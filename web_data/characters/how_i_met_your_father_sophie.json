@@ -1,17 +1,1 @@
-{
-  "name": "Sophie",
-  "show": "How I Met Your Father",
-  "trope_count": 9,
-  "tropes": [
-    "DisappearedDad",
-    "WhatTheHellHero",
-    "CelebrityParadox",
-    "ConsummateLiar",
-    "HairOfGoldHeartOfGold",
-    "GreenEyedMonster",
-    "NomDeMom",
-    "TimeshiftedActor",
-    "FreudianExcuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sophie", "show": "How I Met Your Father", "trope_count": 9, "tropes": ["DisappearedDad", "WhatTheHellHero", "CelebrityParadox", "ConsummateLiar", "HairOfGoldHeartOfGold", "GreenEyedMonster", "NomDeMom", "TimeshiftedActor", "FreudianExcuse"], "tropes_by_category": {}, "similar": [{"name": "Tommy Merlyn", "show": "Arrow", "id": "arrow_tommy_merlyn", "similarity": 0.0455, "shared_tropes": 4}, {"name": "Finn Hudson", "show": "Glee", "id": "glee_finn_hudson", "similarity": 0.044, "shared_tropes": 4}, {"name": "Henry Mills", "show": "Once Upon a Time", "id": "once_upon_a_time_henry_mills", "similarity": 0.0388, "shared_tropes": 4}, {"name": "Det. Eddie Thawne", "show": "Arrow", "id": "arrow_det_eddie_thawne", "similarity": 0.0377, "shared_tropes": 4}]}

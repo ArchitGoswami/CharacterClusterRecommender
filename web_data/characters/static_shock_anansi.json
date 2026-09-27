@@ -1,18 +1,1 @@
-{
-  "name": "Anansi",
-  "show": "Static Shock",
-  "trope_count": 10,
-  "tropes": [
-    "FightsLikeANormal",
-    "MasterOfIllusion",
-    "SneakySpider",
-    "WallCrawl",
-    "LegacyCharacter",
-    "SignatureHeadgear",
-    "BreakoutCharacter",
-    "AnimalThemedSuperbeing",
-    "CanonImmigrant",
-    "TheUnreveal"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Anansi", "show": "Static Shock", "trope_count": 11, "tropes": ["SneakySpider", "AnimalThemedSuperbeing", "FightsLikeANormal", "BreakoutCharacter", "LegacyCharacter", "WallCrawl", "TheUnreveal", "CanonImmigrant", "MasterOfIllusion", "NeverHeardThatOneBefore", "SignatureHeadgear"], "tropes_by_category": {}, "similar": []}

@@ -1,12 +1,1 @@
-{
-  "name": "Paul Stadler",
-  "show": "Grey's Anatomy",
-  "trope_count": 4,
-  "tropes": [
-    "AssholeVictim",
-    "HateSink",
-    "HoistByHisOwnPetard",
-    "DomesticAbuse"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Paul Stadler", "show": "Grey's Anatomy", "trope_count": 4, "tropes": ["AssholeVictim", "HateSink", "HoistByHisOwnPetard", "DomesticAbuse"], "tropes_by_category": {}, "similar": [{"name": "Ash", "show": "Adventure Time", "id": "adventure_time_ash", "similarity": 0.0889, "shared_tropes": 4}, {"name": "Mason Verger", "show": "Hannibal", "id": "hannibal_mason_verger", "similarity": 0.0519, "shared_tropes": 4}]}

@@ -1,18 +1,1 @@
-{
-  "name": "Major Roger Healey",
-  "show": "I Dream of Jeannie",
-  "trope_count": 10,
-  "tropes": [
-    "CasanovaWannabe",
-    "ChickMagnet",
-    "JerkWithAHeartOfGold",
-    "UndyingLoyalty",
-    "PlayedForLaughs",
-    "HeterosexualLifePartners",
-    "Greed",
-    "AmbiguouslyBi",
-    "TheDeterminator",
-    "SecretKeeper"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Major Roger Healey", "show": "I Dream of Jeannie", "trope_count": 10, "tropes": ["CasanovaWannabe", "ChickMagnet", "JerkWithAHeartOfGold", "UndyingLoyalty", "PlayedForLaughs", "HeterosexualLifePartners", "Greed", "AmbiguouslyBi", "TheDeterminator", "SecretKeeper"], "tropes_by_category": {}, "similar": [{"name": "Jean-Ralphio Saperstein", "show": "Parks and Recreation", "id": "parks_and_recreation_jean_ralphio_saperstein", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Rex Powers", "show": "Victorious", "id": "victorious_rex_powers", "similarity": 0.1053, "shared_tropes": 4}, {"name": "Dr. Guillaume \"Guy\" Secretan", "show": "Green Wing", "id": "green_wing_dr_guillaume_guy_secretan", "similarity": 0.0816, "shared_tropes": 4}, {"name": "JFK", "show": "Clone High", "id": "clone_high_jfk", "similarity": 0.08, "shared_tropes": 4}, {"name": "Cornfed", "show": "Duckman", "id": "duckman_cornfed", "similarity": 0.0755, "shared_tropes": 4}, {"name": "Fez", "show": "That '70s Show", "id": "that_70s_show_fez", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Eric Matthews", "show": "Boy Meets World", "id": "boy_meets_world_eric_matthews", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Lizzy", "show": "Murder Drones", "id": "murder_drones_lizzy", "similarity": 0.0597, "shared_tropes": 4}]}

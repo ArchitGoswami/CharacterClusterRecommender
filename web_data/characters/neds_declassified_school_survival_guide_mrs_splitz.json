@@ -1,15 +1,1 @@
-{
-  "name": "Mrs. Splitz",
-  "show": "Ned's Declassified School Survival Guide",
-  "trope_count": 7,
-  "tropes": [
-    "DrillSergeantNasty",
-    "SuddenlyShouting",
-    "BunnyEarsLawyer",
-    "BrilliantButLazy",
-    "GentleTouchVsFirmHand",
-    "MeaningfulName",
-    "DitzyGenius"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Splitz", "show": "Ned's Declassified School Survival Guide", "trope_count": 8, "tropes": ["BunnyEarsLawyer", "SuddenlyShouting", "BrilliantButLazy", "DitzyGenius", "GentleTouchVsFirmHand", "ReasonableAuthorityFigure", "DrillSergeantNasty", "MeaningfulName"], "tropes_by_category": {}, "similar": [{"name": "Mr. Steven Barkin", "show": "Kim Possible", "id": "kim_possible_mr_steven_barkin", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Dr. Grey", "show": "Red vs Blue", "id": "red_vs_blue_dr_grey", "similarity": 0.0597, "shared_tropes": 4}, {"name": "Professor Hubert J. Farnsworth", "show": "Futurama", "id": "futurama_professor_hubert_j_farnsworth", "similarity": 0.0379, "shared_tropes": 5}]}

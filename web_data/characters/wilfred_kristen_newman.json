@@ -1,16 +1,1 @@
-{
-  "name": "Kristen Newman",
-  "show": "Wilfred",
-  "trope_count": 8,
-  "tropes": [
-    "RaceFetish",
-    "JerkWithAHeartOfGold",
-    "TheUnfavorite",
-    "GoodParents",
-    "ItRunsInTheFamily",
-    "TookALevelInKindness",
-    "TallPoppySyndrome",
-    "LikeAnOldMarriedCouple"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kristen Newman", "show": "Wilfred", "trope_count": 8, "tropes": ["RaceFetish", "JerkWithAHeartOfGold", "TheUnfavorite", "GoodParents", "ItRunsInTheFamily", "TookALevelInKindness", "TallPoppySyndrome", "LikeAnOldMarriedCouple"], "tropes_by_category": {}, "similar": [{"name": "Ryan Newman", "show": "Wilfred", "id": "wilfred_ryan_newman", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Red Forman", "show": "That '70s Show", "id": "that_70s_show_red_forman", "similarity": 0.0367, "shared_tropes": 4}]}

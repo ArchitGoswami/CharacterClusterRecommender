@@ -1,16 +1,1 @@
-{
-  "name": "Dirk Mann",
-  "show": "Bizaardvark",
-  "trope_count": 8,
-  "tropes": [
-    "ShowWithinAShow",
-    "BruiserWithASoftCenter",
-    "Catchphrase",
-    "BigBrotherMentor",
-    "TheDitz",
-    "DumbBlonde",
-    "PutOnABus",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Dirk Mann", "show": "Bizaardvark", "trope_count": 8, "tropes": ["ShowWithinAShow", "BruiserWithASoftCenter", "Catchphrase", "BigBrotherMentor", "TheDitz", "DumbBlonde", "PutOnABus", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "The Kid Chorus", "show": "Histeria!", "id": "histeria_the_kid_chorus", "similarity": 0.069, "shared_tropes": 4}, {"name": "Tyler", "show": "Total Drama", "id": "total_drama_tyler", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Beavis", "show": "Beavis and Butt-Head", "id": "beavis_and_butt_head_beavis", "similarity": 0.0482, "shared_tropes": 4}, {"name": "Michelangelo", "show": "Rise of the Teenage Mutant Ninja Turtles", "id": "rise_of_the_teenage_mutant_ninja_turtles_michelangelo", "similarity": 0.0412, "shared_tropes": 4}, {"name": "Troy Barnes", "show": "Community", "id": "community_troy_barnes", "similarity": 0.04, "shared_tropes": 5}]}

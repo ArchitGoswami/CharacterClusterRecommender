@@ -1,16 +1,1 @@
-{
-  "name": "The Cartel",
-  "show": "Weeds",
-  "trope_count": 8,
-  "tropes": [
-    "AffablyEvil",
-    "WickedCultured",
-    "TimeSkip",
-    "KilledOffscreen",
-    "BigBad",
-    "BusCrash",
-    "SleazyPolitician",
-    "TheDragon"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Cartel", "show": "Weeds", "trope_count": 8, "tropes": ["AffablyEvil", "WickedCultured", "TimeSkip", "KilledOffscreen", "BigBad", "BusCrash", "SleazyPolitician", "TheDragon"], "tropes_by_category": {}, "similar": [{"name": "Dep. Ch. Wuntch", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_dep_ch_wuntch", "similarity": 0.093, "shared_tropes": 4}, {"name": "Arnold Rothstein", "show": "Boardwalk Empire", "id": "boardwalk_empire_arnold_rothstein", "similarity": 0.0488, "shared_tropes": 4}]}

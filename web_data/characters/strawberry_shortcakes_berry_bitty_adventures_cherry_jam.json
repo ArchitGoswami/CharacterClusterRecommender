@@ -1,18 +1,1 @@
-{
-  "name": "Cherry Jam",
-  "show": "Strawberry Shortcake's Berry Bitty Adventures",
-  "trope_count": 10,
-  "tropes": [
-    "IJustWantToBeNormal",
-    "PinkMeansFeminine",
-    "IdolSinger",
-    "PunnyName",
-    "GirlyGirl",
-    "CherryBlossoms",
-    "CelebrityIsOverrated",
-    "TokenMinority",
-    "SixthRanger",
-    "OohMeAccentsSlipping"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cherry Jam", "show": "Strawberry Shortcake's Berry Bitty Adventures", "trope_count": 10, "tropes": ["IJustWantToBeNormal", "PinkMeansFeminine", "IdolSinger", "PunnyName", "GirlyGirl", "CherryBlossoms", "CelebrityIsOverrated", "TokenMinority", "SixthRanger", "OohMeAccentsSlipping"], "tropes_by_category": {}, "similar": [{"name": "The Kids", "show": "Timothy Goes to School", "id": "timothy_goes_to_school_the_kids", "similarity": 0.0377, "shared_tropes": 4}]}

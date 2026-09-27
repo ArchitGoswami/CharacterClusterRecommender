@@ -1,17 +1,1 @@
-{
-  "name": "Beaver Boy",
-  "show": "Peep and the Big Wide World",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "TheNicknamer",
-    "FurryReminder",
-    "TheDitz",
-    "TrademarkFavoriteFood",
-    "FatBestFriend",
-    "ExtremeOmnivore",
-    "FatIdiot",
-    "KindheartedSimpleton"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Beaver Boy", "show": "Peep and the Big Wide World", "trope_count": 10, "tropes": ["BigEater", "FatIdiot", "TheDitz", "FurryReminder", "KindheartedSimpleton", "TheNicknamer", "TrademarkFavoriteFood", "JerkWithAHeartOfGold", "SensitiveGuyAndManlyMan", "FatBestFriend"], "tropes_by_category": {}, "similar": [{"name": "Kako", "show": "Oobi", "id": "oobi_kako", "similarity": 0.2353, "shared_tropes": 4}, {"name": "Milo", "show": "Fish Hooks", "id": "fish_hooks_milo", "similarity": 0.1579, "shared_tropes": 6}, {"name": "Gaston Gourmand", "show": "Wild Kratts", "id": "wild_kratts_gaston_gourmand", "similarity": 0.125, "shared_tropes": 4}, {"name": "Gonard", "show": "Kappa Mikey", "id": "kappa_mikey_gonard", "similarity": 0.125, "shared_tropes": 4}, {"name": "Harold", "show": "Bunnicula", "id": "bunnicula_harold", "similarity": 0.125, "shared_tropes": 4}, {"name": "Ralph Theodore Guard", "show": "Animaniacs", "id": "animaniacs_ralph_theodore_guard", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Owen", "show": "Total DramaRama", "id": "total_dramarama_owen", "similarity": 0.1176, "shared_tropes": 4}, {"name": "Penny Lefkowitz", "show": "Mighty B!, The", "id": "mighty_b_the_penny_lefkowitz", "similarity": 0.1176, "shared_tropes": 4}]}

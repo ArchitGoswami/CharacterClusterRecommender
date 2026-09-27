@@ -1,10 +1,1 @@
-{
-  "name": "Amunhotep",
-  "show": "Ghosts US",
-  "trope_count": 2,
-  "tropes": [
-    "SuperpowerLottery",
-    "AndIMustScream"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Amunhotep", "show": "Ghosts US", "trope_count": 5, "tropes": ["BackForTheFinale", "AncientEgypt", "AndIMustScream", "NiceGuy", "SuperpowerLottery"], "tropes_by_category": {}, "similar": []}

@@ -1,17 +1,1 @@
-{
-  "name": "Tapejara",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 9,
-  "tropes": [
-    "NoisyNature",
-    "PaletteSwap",
-    "GiantFlyer",
-    "BizarreSexualDimorphism",
-    "ArtisticLicensePaleontology",
-    "CompositeCharacter",
-    "AnachronismStew",
-    "MisplacedWildlife",
-    "HeroOfAnotherStory"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tapejara", "show": "Walking with Dinosaurs", "trope_count": 9, "tropes": ["NoisyNature", "PaletteSwap", "GiantFlyer", "BizarreSexualDimorphism", "ArtisticLicensePaleontology", "CompositeCharacter", "AnachronismStew", "MisplacedWildlife", "HeroOfAnotherStory"], "tropes_by_category": {}, "similar": [{"name": "Anurognathus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_anurognathus", "similarity": 0.3125, "shared_tropes": 5}, {"name": "Albertosaurus", "show": "Prehistoric Park", "id": "prehistoric_park_albertosaurus", "similarity": 0.2667, "shared_tropes": 4}, {"name": "Cryptoclidus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_cryptoclidus", "similarity": 0.25, "shared_tropes": 4}, {"name": "Quetzalcoatlus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_quetzalcoatlus", "similarity": 0.2, "shared_tropes": 4}, {"name": "Eustreptospondylus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_eustreptospondylus", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Ornithocheirus", "show": "Walking with Dinosaurs", "id": "walking_with_dinosaurs_ornithocheirus", "similarity": 0.1026, "shared_tropes": 4}]}

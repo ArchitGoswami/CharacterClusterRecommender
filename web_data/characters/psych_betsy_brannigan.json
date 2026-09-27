@@ -1,16 +1,1 @@
-{
-  "name": "Betsy Brannigan",
-  "show": "Psych",
-  "trope_count": 8,
-  "tropes": [
-    "IWorkAlone",
-    "Leitmotif",
-    "BunnyEarsLawyer",
-    "TheAce",
-    "CharacterDevelopment",
-    "DarkReprise",
-    "GirlyBruiser",
-    "EleventhHourRanger"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Betsy Brannigan", "show": "Psych", "trope_count": 8, "tropes": ["IWorkAlone", "Leitmotif", "BunnyEarsLawyer", "TheAce", "CharacterDevelopment", "DarkReprise", "GirlyBruiser", "EleventhHourRanger"], "tropes_by_category": {}, "similar": [{"name": "Dr. Henry Killinger", "show": "Venture Bros., The", "id": "venture_bros_the_dr_henry_killinger", "similarity": 0.0678, "shared_tropes": 4}, {"name": "Graham Aker", "show": "Mobile Suit Gundam 00", "id": "mobile_suit_gundam_00_graham_aker", "similarity": 0.0417, "shared_tropes": 4}, {"name": "Isabella Garcia-Shapiro", "show": "Phineas and Ferb", "id": "phineas_and_ferb_isabella_garcia_shapiro", "similarity": 0.0381, "shared_tropes": 4}]}

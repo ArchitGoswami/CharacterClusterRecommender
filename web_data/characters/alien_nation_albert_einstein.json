@@ -1,11 +1,1 @@
-{
-  "name": "Albert Einstein",
-  "show": "Alien Nation",
-  "trope_count": 3,
-  "tropes": [
-    "IronicName",
-    "ReallyGetsAround",
-    "BizarreAlienReproduction"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Albert Einstein", "show": "Alien Nation", "trope_count": 3, "tropes": ["IronicName", "ReallyGetsAround", "BizarreAlienReproduction"], "tropes_by_category": {}, "similar": []}

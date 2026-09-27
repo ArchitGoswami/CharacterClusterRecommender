@@ -1,16 +1,1 @@
-{
-  "name": "The Fearless Shrews",
-  "show": "Let's Go Luna!",
-  "trope_count": 8,
-  "tropes": [
-    "BirthdayEpisode",
-    "CordonBleughChef",
-    "LethalChef",
-    "SameSexTriplets",
-    "RecurringExtra",
-    "PokemonSpeak",
-    "InformedSpecies",
-    "NoNameGiven"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Fearless Shrews", "show": "Let's Go Luna!", "trope_count": 8, "tropes": ["BirthdayEpisode", "CordonBleughChef", "LethalChef", "SameSexTriplets", "RecurringExtra", "PokemonSpeak", "InformedSpecies", "NoNameGiven"], "tropes_by_category": {}, "similar": []}

@@ -1,11 +1,1 @@
-{
-  "name": "Huxley",
-  "show": "Walking with Dinosaurs",
-  "trope_count": 3,
-  "tropes": [
-    "TokenHuman",
-    "Expy",
-    "NamedAfterSomeoneFamous"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Huxley", "show": "Walking with Dinosaurs", "trope_count": 3, "tropes": ["TokenHuman", "Expy", "NamedAfterSomeoneFamous"], "tropes_by_category": {}, "similar": []}

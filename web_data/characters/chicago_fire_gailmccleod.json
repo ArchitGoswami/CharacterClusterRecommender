@@ -1,18 +1,1 @@
-{
-  "name": "GailMcCleod",
-  "show": "Chicago Fire",
-  "trope_count": 10,
-  "tropes": [
-    "ShutUpHannibal",
-    "NearVillainVictory",
-    "DeathGlare",
-    "VillainousBreakdown",
-    "TranquilFury",
-    "PersonaNonGrata",
-    "GetOut",
-    "FlatWhat",
-    "SmugSnake",
-    "TheReasonYouSuckSpeech"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "GailMcCleod", "show": "Chicago Fire", "trope_count": 10, "tropes": ["ShutUpHannibal", "NearVillainVictory", "DeathGlare", "VillainousBreakdown", "TranquilFury", "PersonaNonGrata", "GetOut", "FlatWhat", "SmugSnake", "TheReasonYouSuckSpeech"], "tropes_by_category": {}, "similar": [{"name": "Alexis \"Lex\" van den Berghe", "show": "Survivor", "id": "survivor_alexis_lex_van_den_berghe", "similarity": 0.1351, "shared_tropes": 5}, {"name": "Darren Musk", "show": "Cold Case", "id": "cold_case_darren_musk", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Darknet Hitmen", "show": "Criminal Minds", "id": "criminal_minds_darknet_hitmen", "similarity": 0.0488, "shared_tropes": 4}, {"name": "Shawn", "show": "Good Place, The", "id": "good_place_the_shawn", "similarity": 0.0476, "shared_tropes": 4}, {"name": "Shawn", "show": "The Good Place", "id": "the_good_place_shawn", "similarity": 0.0476, "shared_tropes": 4}, {"name": "C.C. Babcock", "show": "Nanny, The", "id": "nanny_the_c_c_babcock", "similarity": 0.0404, "shared_tropes": 4}, {"name": "George Marks", "show": "Cold Case", "id": "cold_case_george_marks", "similarity": 0.0354, "shared_tropes": 4}]}

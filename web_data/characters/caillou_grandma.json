@@ -1,12 +1,1 @@
-{
-  "name": "Grandma",
-  "show": "Caillou",
-  "trope_count": 4,
-  "tropes": [
-    "CoolOldLady",
-    "DoesNotLikeSpam",
-    "HappilyMarried",
-    "NiceGirl"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Grandma", "show": "Caillou", "trope_count": 4, "tropes": ["CoolOldLady", "DoesNotLikeSpam", "HappilyMarried", "NiceGirl"], "tropes_by_category": {}, "similar": []}

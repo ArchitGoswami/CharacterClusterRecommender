@@ -1,17 +1,1 @@
-{
-  "name": "Kazuya",
-  "show": "Alice In Borderland",
-  "trope_count": 9,
-  "tropes": [
-    "Yakuza",
-    "HeroicSacrifice",
-    "TheBigGuy",
-    "CanonForeigner",
-    "SuspiciouslySimilarSubstitute",
-    "NotSoStoic",
-    "BattleStrip",
-    "TattooedCrook",
-    "SignificantAnagram"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Kazuya", "show": "Alice In Borderland", "trope_count": 9, "tropes": ["Yakuza", "HeroicSacrifice", "TheBigGuy", "CanonForeigner", "SuspiciouslySimilarSubstitute", "NotSoStoic", "BattleStrip", "TattooedCrook", "SignificantAnagram"], "tropes_by_category": {}, "similar": [{"name": "Ginji Matsuzaki", "show": "Black Lagoon", "id": "black_lagoon_ginji_matsuzaki", "similarity": 0.0909, "shared_tropes": 4}]}

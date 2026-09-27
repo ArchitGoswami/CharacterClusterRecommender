@@ -1,14 +1,1 @@
-{
-  "name": "Gunpowder",
-  "show": "The Boys",
-  "trope_count": 6,
-  "tropes": [
-    "InUniverse",
-    "GunNut",
-    "Squick",
-    "EvenEvilHasStandards",
-    "AssShove",
-    "AlternateCompanyEquivalent"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gunpowder", "show": "The Boys", "trope_count": 6, "tropes": ["InUniverse", "GunNut", "Squick", "EvenEvilHasStandards", "AssShove", "AlternateCompanyEquivalent"], "tropes_by_category": {}, "similar": [{"name": "Gunpowder", "show": "Boys, The", "id": "boys_the_gunpowder", "similarity": 1.0, "shared_tropes": 6}]}

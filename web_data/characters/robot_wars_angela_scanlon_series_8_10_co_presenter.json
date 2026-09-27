@@ -1,15 +1,1 @@
-{
-  "name": "Angela Scanlon (Series 8- 10 Co-Presenter)",
-  "show": "Robot Wars",
-  "trope_count": 7,
-  "tropes": [
-    "FieryRedhead",
-    "PitGirls",
-    "RedOniBlueOni",
-    "MsFanservice",
-    "WrenchWench",
-    "StarMakingRole",
-    "BloodKnight"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Angela Scanlon (Series 8- 10 Co-Presenter)", "show": "Robot Wars", "trope_count": 7, "tropes": ["FieryRedhead", "PitGirls", "RedOniBlueOni", "MsFanservice", "WrenchWench", "StarMakingRole", "BloodKnight"], "tropes_by_category": {}, "similar": [{"name": "Black Canary", "show": "Justice League", "id": "justice_league_black_canary", "similarity": 0.087, "shared_tropes": 4}, {"name": "Black Canary", "show": "Justice League Unlimited", "id": "justice_league_unlimited_black_canary", "similarity": 0.087, "shared_tropes": 4}, {"name": "Friends/Allies", "show": "Freakazoid!", "id": "freakazoid_friends_allies", "similarity": 0.0519, "shared_tropes": 4}]}

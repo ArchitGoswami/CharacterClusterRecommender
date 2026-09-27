@@ -1,17 +1,1 @@
-{
-  "name": "Masami Iwasawa",
-  "show": "Angel Beats!",
-  "trope_count": 9,
-  "tropes": [
-    "ADeathInTheLimelight",
-    "PromotedToLoveInterest",
-    "WeHardlyKnewYe",
-    "InformedAbility",
-    "DyingMomentOfAwesome",
-    "BerserkButton",
-    "DarkAndTroubledPast",
-    "AscendedExtra",
-    "SacrificialLamb"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Masami Iwasawa", "show": "Angel Beats!", "trope_count": 9, "tropes": ["ADeathInTheLimelight", "PromotedToLoveInterest", "WeHardlyKnewYe", "InformedAbility", "DyingMomentOfAwesome", "BerserkButton", "DarkAndTroubledPast", "AscendedExtra", "SacrificialLamb"], "tropes_by_category": {}, "similar": [{"name": "Kaufmo", "show": "Amazing Digital Circus, The", "id": "amazing_digital_circus_the_kaufmo", "similarity": 0.05, "shared_tropes": 5}]}

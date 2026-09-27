@@ -1,13 +1,1 @@
-{
-  "name": "Coach Dick Novak",
-  "show": "AP Bio",
-  "trope_count": 5,
-  "tropes": [
-    "Jerkass",
-    "DrillSergeantNasty",
-    "TheBully",
-    "FatBastard",
-    "NoIndoorVoice"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Coach Dick Novak", "show": "AP Bio", "trope_count": 5, "tropes": ["Jerkass", "DrillSergeantNasty", "TheBully", "FatBastard", "NoIndoorVoice"], "tropes_by_category": {}, "similar": [{"name": "McGuirk", "show": "Home Movies", "id": "home_movies_mcguirk", "similarity": 0.1212, "shared_tropes": 4}, {"name": "Angry Grandpa", "show": "Angry Grandpa", "id": "angry_grandpa_angry_grandpa", "similarity": 0.0449, "shared_tropes": 4}]}

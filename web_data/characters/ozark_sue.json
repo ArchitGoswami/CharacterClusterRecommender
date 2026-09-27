@@ -1,11 +1,1 @@
-{
-  "name": "Sue",
-  "show": "Ozark",
-  "trope_count": 3,
-  "tropes": [
-    "DrJerk",
-    "TheShrink",
-    "TooDumbToLive"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Sue", "show": "Ozark", "trope_count": 3, "tropes": ["DrJerk", "TheShrink", "TooDumbToLive"], "tropes_by_category": {}, "similar": []}

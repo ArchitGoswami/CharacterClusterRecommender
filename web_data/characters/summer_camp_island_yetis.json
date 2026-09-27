@@ -1,14 +1,1 @@
-{
-  "name": "Yetis",
-  "show": "Summer Camp Island",
-  "trope_count": 6,
-  "tropes": [
-    "ChameleonCamouflage",
-    "ThemeNaming",
-    "BigfootSasquatchAndYeti",
-    "IntelligibleUnintelligible",
-    "HornedHumanoid",
-    "SpeakingSimlish"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Yetis", "show": "Summer Camp Island", "trope_count": 6, "tropes": ["ChameleonCamouflage", "ThemeNaming", "BigfootSasquatchAndYeti", "IntelligibleUnintelligible", "HornedHumanoid", "SpeakingSimlish"], "tropes_by_category": {}, "similar": []}

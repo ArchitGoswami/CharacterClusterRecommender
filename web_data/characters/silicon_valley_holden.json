@@ -1,15 +1,1 @@
-{
-  "name": "Holden",
-  "show": "Silicon Valley",
-  "trope_count": 7,
-  "tropes": [
-    "WhatExactlyIsHisJob",
-    "NiceGuy",
-    "OlderThanTheyLook",
-    "RiddleForTheAges",
-    "CharacterDevelopment",
-    "BreakTheCutie",
-    "ExtremeDoormat"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Holden", "show": "Silicon Valley", "trope_count": 7, "tropes": ["WhatExactlyIsHisJob", "NiceGuy", "OlderThanTheyLook", "RiddleForTheAges", "CharacterDevelopment", "BreakTheCutie", "ExtremeDoormat"], "tropes_by_category": {}, "similar": [{"name": "Jiminy Cricket/Dr. Archibald \"Archie\" Hopper", "show": "Once Upon a Time", "id": "once_upon_a_time_jiminy_cricket_dr_archibald_archie_hopper", "similarity": 0.1143, "shared_tropes": 4}]}

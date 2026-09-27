@@ -1,16 +1,1 @@
-{
-  "name": "Roger Phillips",
-  "show": "Happy Days",
-  "trope_count": 8,
-  "tropes": [
-    "CoolTeacher",
-    "FoolishSiblingResponsibleSibling",
-    "SuspiciouslySimilarSubstitute",
-    "EndearinglyDorky",
-    "RecurringExtra",
-    "TwoTimerDate",
-    "FlatCharacter",
-    "PromotionToOpeningTitles"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Roger Phillips", "show": "Happy Days", "trope_count": 8, "tropes": ["CoolTeacher", "FoolishSiblingResponsibleSibling", "SuspiciouslySimilarSubstitute", "EndearinglyDorky", "RecurringExtra", "TwoTimerDate", "FlatCharacter", "PromotionToOpeningTitles"], "tropes_by_category": {}, "similar": []}

@@ -1,18 +1,1 @@
-{
-  "name": "Tallulah Headbank",
-  "show": "CatDog",
-  "trope_count": 10,
-  "tropes": [
-    "NoCelebritiesWereHarmed",
-    "Jerkass",
-    "PetTheDog",
-    "CelebCrush",
-    "WhatDoesHeSeeInHer",
-    "NiceCharacterMeanActor",
-    "CatsAreMean",
-    "RichBitch",
-    "YankTheDogsChain",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Tallulah Headbank", "show": "CatDog", "trope_count": 10, "tropes": ["NoCelebritiesWereHarmed", "Jerkass", "PetTheDog", "CelebCrush", "WhatDoesHeSeeInHer", "NiceCharacterMeanActor", "CatsAreMean", "RichBitch", "YankTheDogsChain", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Mom", "show": "Futurama", "id": "futurama_mom", "similarity": 0.0893, "shared_tropes": 5}, {"name": "Lily", "show": "Kappa Mikey", "id": "kappa_mikey_lily", "similarity": 0.087, "shared_tropes": 4}, {"name": "Wizard Kelly", "show": "Proud Family, The", "id": "proud_family_the_wizard_kelly", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Selina", "show": "Veep", "id": "veep_selina", "similarity": 0.0588, "shared_tropes": 5}, {"name": "The Warden", "show": "Superjail!", "id": "superjail_the_warden", "similarity": 0.0588, "shared_tropes": 4}, {"name": "Katie Killjoy", "show": "Hazbin Hotel", "id": "hazbin_hotel_katie_killjoy", "similarity": 0.0575, "shared_tropes": 5}, {"name": "The Commodore", "show": "Boardwalk Empire", "id": "boardwalk_empire_the_commodore", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Main Characters", "show": "Sonny With A Chance", "id": "sonny_with_a_chance_main_characters", "similarity": 0.0449, "shared_tropes": 4}]}

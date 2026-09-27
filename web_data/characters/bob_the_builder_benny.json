@@ -1,11 +1,1 @@
-{
-  "name": "Benny",
-  "show": "Bob the Builder",
-  "trope_count": 3,
-  "tropes": [
-    "KidAppealCharacter",
-    "Catchphrase",
-    "CousinOliver"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Benny", "show": "Bob the Builder", "trope_count": 3, "tropes": ["KidAppealCharacter", "Catchphrase", "CousinOliver"], "tropes_by_category": {}, "similar": []}

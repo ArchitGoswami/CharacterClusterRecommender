@@ -1,14 +1,1 @@
-{
-  "name": "Morty Seinfeld",
-  "show": "Seinfeld",
-  "trope_count": 6,
-  "tropes": [
-    "GrumpyOldMan",
-    "TookALevelInJerkass",
-    "HappilyMarried",
-    "PapaWolf",
-    "WithFriendsLikeThese",
-    "EnmityWithAnObject"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Morty Seinfeld", "show": "Seinfeld", "trope_count": 6, "tropes": ["GrumpyOldMan", "TookALevelInJerkass", "HappilyMarried", "PapaWolf", "WithFriendsLikeThese", "EnmityWithAnObject"], "tropes_by_category": {}, "similar": []}

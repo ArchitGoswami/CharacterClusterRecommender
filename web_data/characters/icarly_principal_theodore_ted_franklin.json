@@ -1,18 +1,1 @@
-{
-  "name": "Principal Theodore \"Ted\" Franklin",
-  "show": "iCarly",
-  "trope_count": 10,
-  "tropes": [
-    "SadistTeacher",
-    "NiceGuy",
-    "OneOfTheKids",
-    "ReasonableAuthorityFigure",
-    "BunnyEarsLawyer",
-    "OOCIsSeriousBusiness",
-    "CrazyPrepared",
-    "TokenMinority",
-    "OnlySaneMan",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Principal Theodore \"Ted\" Franklin", "show": "iCarly", "trope_count": 10, "tropes": ["SadistTeacher", "NiceGuy", "OneOfTheKids", "ReasonableAuthorityFigure", "BunnyEarsLawyer", "OOCIsSeriousBusiness", "CrazyPrepared", "TokenMinority", "OnlySaneMan", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Oliver Frensky", "show": "Arthur", "id": "arthur_oliver_frensky", "similarity": 0.2222, "shared_tropes": 4}, {"name": "Gordon Cole", "show": "Twin Peaks", "id": "twin_peaks_gordon_cole", "similarity": 0.1613, "shared_tropes": 5}, {"name": "Bobby Finstock", "show": "Teen Wolf", "id": "teen_wolf_bobby_finstock", "similarity": 0.1538, "shared_tropes": 4}, {"name": "Jeff Rosso", "show": "Freaks and Geeks", "id": "freaks_and_geeks_jeff_rosso", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Wildcat", "show": "TaleSpin", "id": "talespin_wildcat", "similarity": 0.1379, "shared_tropes": 4}, {"name": "Argyle", "show": "Stranger Things", "id": "stranger_things_argyle", "similarity": 0.129, "shared_tropes": 4}, {"name": "Spencer Shay", "show": "iCarly", "id": "icarly_spencer_shay", "similarity": 0.0789, "shared_tropes": 6}, {"name": "Delta", "show": "Red vs Blue", "id": "red_vs_blue_delta", "similarity": 0.0784, "shared_tropes": 4}]}

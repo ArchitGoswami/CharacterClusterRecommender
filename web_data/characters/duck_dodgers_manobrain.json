@@ -1,12 +1,1 @@
-{
-  "name": "Manobrain",
-  "show": "Duck Dodgers",
-  "trope_count": 4,
-  "tropes": [
-    "LaserGuidedAmnesia",
-    "OctopoidAliens",
-    "WeUsedToBeFriends",
-    "Shoutout"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Manobrain", "show": "Duck Dodgers", "trope_count": 4, "tropes": ["LaserGuidedAmnesia", "OctopoidAliens", "WeUsedToBeFriends", "Shoutout"], "tropes_by_category": {}, "similar": []}

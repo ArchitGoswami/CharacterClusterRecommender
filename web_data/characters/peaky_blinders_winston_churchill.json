@@ -1,12 +1,1 @@
-{
-  "name": "Winston Churchill",
-  "show": "Peaky Blinders",
-  "trope_count": 4,
-  "tropes": [
-    "HistoricalDomainCharacter",
-    "DaChief",
-    "DeadpanSnarker",
-    "SympathyForTheDevil"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Winston Churchill", "show": "Peaky Blinders", "trope_count": 4, "tropes": ["HistoricalDomainCharacter", "DaChief", "DeadpanSnarker", "SympathyForTheDevil"], "tropes_by_category": {}, "similar": []}

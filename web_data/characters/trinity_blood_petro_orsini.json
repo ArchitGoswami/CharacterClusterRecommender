@@ -1,17 +1,1 @@
-{
-  "name": "Petro Orsini",
-  "show": "Trinity Blood",
-  "trope_count": 9,
-  "tropes": [
-    "JerkWithAHeartOfGold",
-    "RedOniBlueOni",
-    "ReligiousBruiser",
-    "BadassBoast",
-    "BadassNormal",
-    "Nepotism",
-    "ChewingTheScenery",
-    "BashBrothers",
-    "LightningBruiser"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Petro Orsini", "show": "Trinity Blood", "trope_count": 9, "tropes": ["JerkWithAHeartOfGold", "RedOniBlueOni", "ReligiousBruiser", "BadassBoast", "BadassNormal", "Nepotism", "ChewingTheScenery", "BashBrothers", "LightningBruiser"], "tropes_by_category": {}, "similar": [{"name": "Agent Six", "show": "Generator Rex", "id": "generator_rex_agent_six", "similarity": 0.0727, "shared_tropes": 4}, {"name": "Marcus Damon (Daimon Masaru)", "show": "Digimon", "id": "digimon_marcus_damon_daimon_masaru", "similarity": 0.0597, "shared_tropes": 4}, {"name": "JoeMacMillan", "show": "Halt & Catch Fire", "id": "halt_and_catch_fire_joemacmillan", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Raphael", "show": "Teenage Mutant Ninja Turtles", "id": "teenage_mutant_ninja_turtles_raphael", "similarity": 0.0541, "shared_tropes": 4}, {"name": "Black☆Star", "show": "Soul Eater", "id": "soul_eater_black_star", "similarity": 0.0426, "shared_tropes": 6}, {"name": "Spike Spiegel", "show": "Cowboy Bebop", "id": "cowboy_bebop_spike_spiegel", "similarity": 0.0357, "shared_tropes": 5}]}

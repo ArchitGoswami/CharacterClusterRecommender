@@ -1,18 +1,1 @@
-{
-  "name": "Hillinger",
-  "show": "La Femme Nikita",
-  "trope_count": 10,
-  "tropes": [
-    "ArchEnemy",
-    "KarmaHoudini",
-    "TheMole",
-    "ConsummateLiar",
-    "TeenGenius",
-    "InsufferableGenius",
-    "TheGadfly",
-    "FaceHeelTurn",
-    "TheDragon",
-    "UriahGambit"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Hillinger", "show": "La Femme Nikita", "trope_count": 10, "tropes": ["ArchEnemy", "KarmaHoudini", "TheMole", "ConsummateLiar", "TeenGenius", "InsufferableGenius", "TheGadfly", "FaceHeelTurn", "TheDragon", "UriahGambit"], "tropes_by_category": {}, "similar": [{"name": "Ursula (Sea Witch)", "show": "Once Upon a Time", "id": "once_upon_a_time_ursula_sea_witch", "similarity": 0.125, "shared_tropes": 4}, {"name": "Charles Logan", "show": "24", "id": "24_charles_logan", "similarity": 0.0659, "shared_tropes": 6}, {"name": "Ava", "show": "Justified", "id": "justified_ava", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Randall Flagg", "show": "Stand,The", "id": "standthe_randall_flagg", "similarity": 0.0408, "shared_tropes": 4}, {"name": "COBRA", "show": "G.I. Joe", "id": "gi_joe_cobra", "similarity": 0.0404, "shared_tropes": 4}, {"name": "Tarantulas", "show": "Beast Wars", "id": "beast_wars_tarantulas", "similarity": 0.0357, "shared_tropes": 4}]}

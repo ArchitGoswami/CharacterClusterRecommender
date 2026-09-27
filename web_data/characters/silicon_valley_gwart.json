@@ -1,13 +1,1 @@
-{
-  "name": "Gwart",
-  "show": "Silicon Valley",
-  "trope_count": 5,
-  "tropes": [
-    "SmallRoleBigImpact",
-    "Womanchild",
-    "BirdsOfAFeather",
-    "TheSpeechless",
-    "ParodiedTrope"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Gwart", "show": "Silicon Valley", "trope_count": 5, "tropes": ["SmallRoleBigImpact", "Womanchild", "BirdsOfAFeather", "TheSpeechless", "ParodiedTrope"], "tropes_by_category": {}, "similar": []}

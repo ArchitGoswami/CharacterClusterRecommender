@@ -1,18 +1,1 @@
-{
-  "name": "Nick Toscanni",
-  "show": "Dynasty",
-  "trope_count": 10,
-  "tropes": [
-    "ChickMagnet",
-    "HospitalHottie",
-    "DarkAndTroubledPast",
-    "Jerkass",
-    "WhatHappenedToTheMouse",
-    "DrJerk",
-    "ItsPersonal",
-    "DrivenToSuicide",
-    "TheCharmer",
-    "BitchInSheepsClothing"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Nick Toscanni", "show": "Dynasty", "trope_count": 10, "tropes": ["ChickMagnet", "HospitalHottie", "DarkAndTroubledPast", "Jerkass", "WhatHappenedToTheMouse", "DrJerk", "ItsPersonal", "DrivenToSuicide", "TheCharmer", "BitchInSheepsClothing"], "tropes_by_category": {}, "similar": [{"name": "Kate Morgan", "show": "24", "id": "24_kate_morgan", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Ben Harmon", "show": "American Horror Story", "id": "american_horror_story_ben_harmon", "similarity": 0.0976, "shared_tropes": 4}, {"name": "Josh Chan", "show": "Crazy Ex-Girlfriend", "id": "crazy_ex_girlfriend_josh_chan", "similarity": 0.0667, "shared_tropes": 4}, {"name": "Gaston", "show": "Beauty & the Beast", "id": "beauty_and_the_beast_gaston", "similarity": 0.0495, "shared_tropes": 5}]}

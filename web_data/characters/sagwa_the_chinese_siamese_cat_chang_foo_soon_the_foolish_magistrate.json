@@ -1,18 +1,1 @@
-{
-  "name": "Chang-Foo Soon (The Foolish Magistrate)",
-  "show": "Sagwa, the Chinese Siamese Cat",
-  "trope_count": 10,
-  "tropes": [
-    "ManChild",
-    "ReasonableAuthorityFigure",
-    "ScreamsLikeALittleGirl",
-    "NoMusicAllowed",
-    "TookALevelInKindness",
-    "AdaptationPersonalityChange",
-    "AdiposeRex",
-    "HenpeckedHusband",
-    "SillySovereign",
-    "TrademarkFavoriteFood"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Chang-Foo Soon (The Foolish Magistrate)", "show": "Sagwa, the Chinese Siamese Cat", "trope_count": 10, "tropes": ["ManChild", "ReasonableAuthorityFigure", "ScreamsLikeALittleGirl", "NoMusicAllowed", "TookALevelInKindness", "AdaptationPersonalityChange", "AdiposeRex", "HenpeckedHusband", "SillySovereign", "TrademarkFavoriteFood"], "tropes_by_category": {}, "similar": [{"name": "Sergeant/Lieutenant/Captain Terry Jeffords", "show": "Brooklyn Nine-Nine", "id": "brooklyn_nine_nine_sergeant_lieutenant_captain_terry_jeffords", "similarity": 0.0357, "shared_tropes": 4}]}

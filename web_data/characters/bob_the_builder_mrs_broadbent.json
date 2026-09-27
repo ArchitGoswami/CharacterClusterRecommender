@@ -1,11 +1,1 @@
-{
-  "name": "Mrs. Broadbent",
-  "show": "Bob the Builder",
-  "trope_count": 3,
-  "tropes": [
-    "NoFullNameGiven",
-    "OutOfFocus",
-    "ReusedCharacterDesign"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Mrs. Broadbent", "show": "Bob the Builder", "trope_count": 3, "tropes": ["NoFullNameGiven", "OutOfFocus", "ReusedCharacterDesign"], "tropes_by_category": {}, "similar": []}

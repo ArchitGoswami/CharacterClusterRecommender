@@ -1,18 +1,1 @@
-{
-  "name": "The Ryanban",
-  "show": "Tsubasa RESERVoir CHRoNiCLE",
-  "trope_count": 10,
-  "tropes": [
-    "TheDogBitesBack",
-    "DirtyCoward",
-    "OutOfCharacterAlert",
-    "IHaveYourWife",
-    "Mooks",
-    "KarmicDeath",
-    "Brainwash",
-    "EvilGloating",
-    "AdiposeRex",
-    "FatBastard"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "The Ryanban", "show": "Tsubasa RESERVoir CHRoNiCLE", "trope_count": 10, "tropes": ["TheDogBitesBack", "DirtyCoward", "OutOfCharacterAlert", "IHaveYourWife", "Mooks", "KarmicDeath", "Brainwash", "EvilGloating", "AdiposeRex", "FatBastard"], "tropes_by_category": {}, "similar": [{"name": "Fogle", "show": "Justified", "id": "justified_fogle", "similarity": 0.0506, "shared_tropes": 4}, {"name": "The Thousand", "show": "Spider-Man", "id": "spider_man_the_thousand", "similarity": 0.044, "shared_tropes": 4}, {"name": "Ashur", "show": "Spartacus: Blood and Sand", "id": "spartacus_blood_and_sand_ashur", "similarity": 0.0412, "shared_tropes": 4}]}

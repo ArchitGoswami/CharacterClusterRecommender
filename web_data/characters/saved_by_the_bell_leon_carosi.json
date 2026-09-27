@@ -1,16 +1,1 @@
-{
-  "name": "Leon Carosi",
-  "show": "Saved by the Bell",
-  "trope_count": 8,
-  "tropes": [
-    "HeelFaceTurn",
-    "Expy",
-    "ItMakesSenseInContext",
-    "TheRival",
-    "MeanBoss",
-    "PapaWolf",
-    "MoralityPet",
-    "LargeHam"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Leon Carosi", "show": "Saved by the Bell", "trope_count": 8, "tropes": ["HeelFaceTurn", "Expy", "ItMakesSenseInContext", "TheRival", "MeanBoss", "PapaWolf", "MoralityPet", "LargeHam"], "tropes_by_category": {}, "similar": [{"name": "Other characters", "show": "Jetsons,The", "id": "jetsonsthe_other_characters", "similarity": 0.0556, "shared_tropes": 4}, {"name": "Buck Strickland", "show": "King of the Hill", "id": "king_of_the_hill_buck_strickland", "similarity": 0.0465, "shared_tropes": 4}, {"name": "Bob Kelso", "show": "Scrubs", "id": "scrubs_bob_kelso", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Philip Banks", "show": "Fresh Prince of Bel-Air,The", "id": "fresh_prince_of_bel_airthe_philip_banks", "similarity": 0.0377, "shared_tropes": 4}, {"name": "Yamcha", "show": "Dragon Ball", "id": "dragon_ball_yamcha", "similarity": 0.0357, "shared_tropes": 5}]}

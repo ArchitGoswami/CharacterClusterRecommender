@@ -1,17 +1,1 @@
-{
-  "name": "Cora",
-  "show": "Astro Boy",
-  "trope_count": 9,
-  "tropes": [
-    "BoyishShortHair",
-    "DeadpanSnarker",
-    "PinkMeansFeminine",
-    "TheRunaway",
-    "CuteBruiser",
-    "ShipTease",
-    "TomboyWithAGirlyStreak",
-    "CoolBigSis",
-    "EveryoneHasStandards"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Cora", "show": "Astro Boy", "trope_count": 9, "tropes": ["BoyishShortHair", "DeadpanSnarker", "PinkMeansFeminine", "TheRunaway", "CuteBruiser", "ShipTease", "TomboyWithAGirlyStreak", "CoolBigSis", "EveryoneHasStandards"], "tropes_by_category": {}, "similar": [{"name": "Cindy \"Mac\" Mackenzie", "show": "Veronica Mars", "id": "veronica_mars_cindy_mac_mackenzie", "similarity": 0.093, "shared_tropes": 4}, {"name": "Callie", "show": "The Fosters", "id": "the_fosters_callie", "similarity": 0.0862, "shared_tropes": 5}, {"name": "Phil and LilDeVille", "show": "Rugrats", "id": "rugrats_phil_and_lildeville", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Zoey Brooks", "show": "Zoey 101", "id": "zoey_101_zoey_brooks", "similarity": 0.0769, "shared_tropes": 4}, {"name": "Lisa Raccoon", "show": "Raccoons, The", "id": "raccoons_the_lisa_raccoon", "similarity": 0.0741, "shared_tropes": 4}, {"name": "Cecelia \"CeCe\" Jones", "show": "Shake It Up", "id": "shake_it_up_cecelia_cece_jones", "similarity": 0.0656, "shared_tropes": 4}, {"name": "Babs Bunny", "show": "Tiny Toon Adventures", "id": "tiny_toon_adventures_babs_bunny", "similarity": 0.0635, "shared_tropes": 4}, {"name": "Yumiko and Kuri", "show": "Sailor Moon", "id": "sailor_moon_yumiko_and_kuri", "similarity": 0.0625, "shared_tropes": 4}]}

@@ -1,17 +1,1 @@
-{
-  "name": "Amanda \"Mandy\" Valdez",
-  "show": "iCarly",
-  "trope_count": 9,
-  "tropes": [
-    "Catchphrase",
-    "StalkerWithoutACrush",
-    "LoonyFan",
-    "RunningGag",
-    "MotorMouth",
-    "NiceGirl",
-    "DotingGrandparent",
-    "TheThingThatWouldNotLeave",
-    "Cloudcuckoolander"
-  ],
-  "tropes_by_category": {}
-}
+{"name": "Amanda \"Mandy\" Valdez", "show": "iCarly", "trope_count": 9, "tropes": ["Catchphrase", "StalkerWithoutACrush", "LoonyFan", "RunningGag", "MotorMouth", "NiceGirl", "DotingGrandparent", "TheThingThatWouldNotLeave", "Cloudcuckoolander"], "tropes_by_category": {}, "similar": [{"name": "Lorne", "show": "Adventures of Sam & Max: Freelance Police, The", "id": "adventures_of_sam_and_max_freelance_police_the_lorne", "similarity": 0.1481, "shared_tropes": 4}, {"name": "Irving Du Bois", "show": "Phineas and Ferb", "id": "phineas_and_ferb_irving_du_bois", "similarity": 0.1, "shared_tropes": 4}, {"name": "Goo Goo Ga Ga", "show": "Foster's Home for Imaginary Friends", "id": "fosters_home_for_imaginary_friends_goo_goo_ga_ga", "similarity": 0.0606, "shared_tropes": 4}, {"name": "Dee Dee", "show": "Dexter's Laboratory", "id": "dexters_laboratory_dee_dee", "similarity": 0.0455, "shared_tropes": 5}]}
