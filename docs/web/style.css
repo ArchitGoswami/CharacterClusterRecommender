@@ -421,6 +421,65 @@ header h1 {
     font-weight: 600;
 }
 
+/* Project notes */
+.project-notes {
+    margin-top: 3rem;
+}
+
+body.has-results .project-notes {
+    display: none;
+}
+
+.project-notes h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.project-notes-lead {
+    color: var(--text-secondary);
+    margin-bottom: 1.75rem;
+    max-width: 40rem;
+}
+
+.note {
+    background: var(--bg-secondary);
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 2px 8px var(--shadow-sm);
+}
+
+.note-kicker {
+    color: var(--accent-primary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.35rem;
+}
+
+.note h3 {
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+}
+
+.note p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    max-width: 42rem;
+}
+
+.note p:last-child {
+    margin-bottom: 0;
+}
+
+.note em {
+    color: var(--text-primary);
+    font-style: italic;
+}
+
 /* Footer */
 footer {
     text-align: center;
@@ -452,6 +511,14 @@ footer {
     .theme-toggle-container {
         top: 0.5rem;
         right: 0.5rem;
+    }
+
+    .note {
+        padding: 1.25rem;
+    }
+
+    .project-notes h2 {
+        font-size: 1.45rem;
     }
 }
 

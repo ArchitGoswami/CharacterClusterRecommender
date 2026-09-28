@@ -33,6 +33,34 @@
             <div id="suggestions" class="suggestions"></div>
         </div>
         <div id="results"></div>
+
+        <section class="project-notes" aria-labelledby="project-notes-title">
+            <h2 id="project-notes-title">Notes from building this</h2>
+            <p class="project-notes-lead">The search box is the product. These are the parts that took the longest to get right.</p>
+
+            <article class="note">
+                <p class="note-kicker">Challenges</p>
+                <h3>A character is buried inside the page</h3>
+                <p>TV Tropes is the right source for this, and it is not a table of characters. A show page is usually a hub that links out to team pages and character pages. One person is often split into alphabetical folders such as A–B and C–E. Those folders are groups of tropes. The first parser saved each folder as its own character, so Walter White arrived as a stack of letter ranges instead of one man with 545 tropes.</p>
+                <p>The addresses are a second puzzle. Slugs are CamelCase, a leading “The” belongs in the name, and a digit has to be spelled or the page 404s. <em>24</em> is TwentyFour. <em>2 Broke Girls</em> is TwoBrokeGirls. <em>King of Queens</em> exists only as TheKingOfQueens. An early crawl retried every missing URL and was on pace to run most of a day. Returning on the first 404, checking fewer namespaces, and skipping files already saved is what let a full pass finish.</p>
+                <p>The third failure showed up after the files looked complete. Jaccard similarity is shared tropes divided by the combined set, so a long list can share dozens of tropes and still score very small, because the union is huge. The page used to compare a character with the first 500 others and demand more than 5% overlap. Walter White never cleared that bar. The mirror image is a lead like Dr. House, whose show spent years adding quirks. He shares a little with almost everyone, and an unfiltered score seats him next to people he does not resemble.</p>
+            </article>
+
+            <article class="note">
+                <p class="note-kicker">Design decisions</p>
+                <h3>Filter the tropes, then score the sets</h3>
+                <p>A trope is a reusable storytelling move, so two characters can be alike when their shows never mention each other. Each character is stored as a set of those moves. The score is computed once, while the site is built, and saved on the character. Opening a page reads that list.</p>
+                <p>Candidates come from an inverted index: each trope points at the characters who have it. A trope that appears once cannot match anyone. A trope that appears on more than 1,000 characters nominates half the catalog and describes almost nothing particular, which is how a figure like House crowds every result. Those tropes stay in the final overlap, and they stay out of the search for candidates. Only the strongest few hundred candidates get a full comparison. A neighbor has to share at least four tropes and score at least 0.035. The page keeps eight.</p>
+                <p>The same name belongs to more than one person, so the index is a list and a card opens by id. Letter-bucket folders are merged back into the character named in the page title. Fandom listed people without tropes, and Reddit never produced a signal stable enough to combine with this one, so the live catalog is TV Tropes alone.</p>
+            </article>
+
+            <article class="note">
+                <p class="note-kicker">Outcomes</p>
+                <h3>46,868 characters, and a few arguments</h3>
+                <p>The index holds 46,868 characters across 1,117 shows. The original plan was a few hundred shows. The crawl that replaced it kept a page when it resolved to real character data, which is why the catalog is large and still uneven. Two titles for the same series can both survive.</p>
+                <p>Walter White is the check I trust. Tony Soprano is first, twice, because <em>The Sopranos</em> is filed under two titles, with 133 tropes in common and a similarity of 0.171. Saul Goodman, Gustavo Fring, and Jesse Pinkman follow from the same writers and the same moral weather. Then the list leaves the show: Eric Cartman, Tywin Lannister, Dexter Morgan. Cartman is the neighbor that shows the method working. The overlap is scheming, grievance, and a private code, counted across 148 shared tropes, with nobody deciding in advance that a chemistry teacher and a fourth grader belong in the same conversation.</p>
+            </article>
+        </section>
     </div>
 
     <footer>

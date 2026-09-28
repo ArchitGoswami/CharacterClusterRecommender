@@ -312,7 +312,7 @@ function displayCharacterChoices(characters) {
     });
     html += '</div>';
     resultsDiv.innerHTML = html;
-    resultsDiv.style.display = 'block';
+    revealResults(resultsDiv);
 }
 
 async function searchCharacterById(id) {
@@ -455,7 +455,7 @@ function displayCharacterDetails(character) {
     html += `<div id="similar-characters"><div class="loading">Finding similar characters...</div></div>`;
     
     resultsDiv.innerHTML = html;
-    resultsDiv.style.display = 'block';
+    revealResults(resultsDiv);
 }
 
 // Create a clickable trope link
@@ -622,28 +622,34 @@ function displayShowCharacters(showName, characters) {
     
     html += '</div>';
     resultsDiv.innerHTML = html;
-    resultsDiv.style.display = 'block';
+    revealResults(resultsDiv);
 }
 
 // Show loading state
 function showLoading() {
     const resultsDiv = document.getElementById('results');
     resultsDiv.innerHTML = '<div class="loading">Loading...</div>';
-    resultsDiv.style.display = 'block';
+    revealResults(resultsDiv);
 }
 
 // Show error message
 function showError(message) {
     const resultsDiv = document.getElementById('results');
     resultsDiv.innerHTML = `<div class="error-message">${escapeHtml(message)}</div>`;
-    resultsDiv.style.display = 'block';
+    revealResults(resultsDiv);
 }
 
 // Clear results
+function revealResults(resultsDiv) {
+    resultsDiv.style.display = 'block';
+    document.body.classList.add('has-results');
+}
+
 function clearResults() {
     const resultsDiv = document.getElementById('results');
     resultsDiv.innerHTML = '';
     resultsDiv.style.display = 'none';
+    document.body.classList.remove('has-results');
 }
 
 // Escape HTML to prevent XSS
