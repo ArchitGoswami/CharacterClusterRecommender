@@ -38,6 +38,9 @@ def load_show_characters(raw_dir):
                 not name
                 or len(name) > 80
                 or name.lower() in SKIP_NAMES
+                or name.lower().startswith("characters")
+                or re.search(r"\b(in general|as a whole|as a group|main characters)\b", name, re.I)
+                or re.search(r"tropes\s+[a-z]\s*(?:to|-)\s*[a-z]", name, re.I)
                 or re.fullmatch(r"[A-Z](?:\s*[-–—]\s*[A-Z])?", name)
             ):
                 continue
@@ -67,10 +70,24 @@ def assign_ids(records):
 
 
 def precompute_similar(records, limit=8):
-    """Rank similar characters from tropes that are shared but not universal."""
+    """Rank neighbors from trait vectors, then trope overlap when a vector is too thin."""
+    from trait_layer import attach_trait_similarity
+
+    stats = attach_trait_similarity(records, limit=limit)
+    missing = [
+        index for index, record in enumerate(records)
+        if not record["similar"] and len(record.get("tropes") or []) >= 2
+    ]
+    print(f"Trait similarity left {len(missing)} characters; scoring those from tropes", flush=True)
+    if missing:
+        _trope_similar_for(records, set(missing), limit)
+    return stats
+
+
+def _trope_similar_for(records, needed, limit=8):
+    """Jaccard fallback for characters whose tropes never became traits."""
     inverted = defaultdict(list)
     for index, record in enumerate(records):
-        record["similar"] = []
         record["trope_set"] = set(record["tropes"])
         for trope in record["trope_set"]:
             inverted[trope].append(index)
@@ -79,7 +96,8 @@ def precompute_similar(records, limit=8):
     useful = {trope: indexes for trope, indexes in inverted.items() if 1 < len(indexes) <= 1000}
     print(f"Using {len(useful)} distinctive tropes for similarity", flush=True)
 
-    for index, record in enumerate(records):
+    for index in needed:
+        record = records[index]
         if len(record["trope_set"]) < 2:
             continue
         shared_counts = defaultdict(int)
@@ -140,6 +158,7 @@ def process_characters():
             "trope_count": len(record["tropes"]),
             "tropes": record["tropes"],
             "tropes_by_category": {},
+            "traits": record.get("traits") or [],
             "similar": record["similar"],
         }
         with open(chars_dir / f"{record['id']}.json", "w", encoding="utf-8") as handle:

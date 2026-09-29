@@ -1,4 +1,4 @@
-# traits.py - CLEANED TRAIT TAXONOMY (638 traits)
+# traits.py - CLEANED TRAIT TAXONOMY (637 traits)
 
 POSITIVE_TRAITS = [
     "Accessible", "Active", "Adaptable", "Admirable", "Adventurous",
@@ -74,7 +74,7 @@ NEUTRAL_TRAITS = [
     "Unceremonious", "Unchanging", "Undemanding", "Unfathomable", "Unhurried",
     "Uninhibited", "Unpatriotic", "Unpredictable", "Unreligious", "Unsentimental",
     "Whimsical"
-]  # 112 traits
+]  # 111 traits
 
 NEGATIVE_TRAITS = [
     "Abrasive", "Abrupt", "Agonizing", "Aimless", "Airy",
@@ -149,7 +149,7 @@ TRAIT_CATEGORY = {
 }
 
 # Validation
-assert len(ALL_TRAITS) == 638, f"Expected 638 traits, got {len(ALL_TRAITS)}"
+assert len(ALL_TRAITS) == 637, f"Expected 637 traits, got {len(ALL_TRAITS)}"
 assert len(POSITIVE_TRAITS) == 234, f"Expected 234 positive, got {len(POSITIVE_TRAITS)}"
-assert len(NEUTRAL_TRAITS) == 112, f"Expected 112 neutral, got {len(NEUTRAL_TRAITS)}"
+assert len(NEUTRAL_TRAITS) == 111, f"Expected 111 neutral, got {len(NEUTRAL_TRAITS)}"
 assert len(NEGATIVE_TRAITS) == 292, f"Expected 292 negative, got {len(NEGATIVE_TRAITS)}"

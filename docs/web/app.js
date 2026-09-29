@@ -418,6 +418,7 @@ function displayCharacterDetails(character) {
             <p class="show-name">From: ${escapeHtml(character.show)}</p>
             <p class="trope-count">${character.trope_count} tropes</p>
         </div>
+        ${renderTraitSection(character)}
 
         <div class="tropes-section">
             <h3>Character Tropes</h3>
@@ -458,6 +459,23 @@ function displayCharacterDetails(character) {
     revealResults(resultsDiv);
 }
 
+function renderTraitSection(character) {
+    const traits = character.traits || [];
+    if (!traits.length) {
+        return '';
+    }
+    const pills = traits.map(trait =>
+        `<span class="trait-tag">${escapeHtml(trait.name)}</span>`
+    ).join('');
+    return `
+        <div class="traits-section">
+            <h3>Traits</h3>
+            <p class="traits-note">Inferred from tropes. Similarity uses this vector, not the raw trope names.</p>
+            <div class="traits-list">${pills}</div>
+        </div>
+    `;
+}
+
 // Create a clickable trope link
 function createTropeLink(trope) {
     const tropeUrl = `https://tvtropes.org/pmwiki/pmwiki.php/Main/${trope}`;
@@ -473,6 +491,7 @@ async function findSimilarCharacters(targetCharacter) {
             id: item.id,
             similarity: item.similarity,
             sharedTropes: item.shared_tropes,
+            sharedTraits: item.shared_traits || [],
             tropeCount: item.trope_count
         })));
         return;
@@ -567,15 +586,18 @@ function displaySimilarCharacters(similarChars) {
     
     similarChars.forEach(char => {
         const percentage = (char.similarity * 100).toFixed(1);
-        const safeName = escapeAttr(char.name);
+        const sharedTraits = char.sharedTraits || [];
+        const detail = sharedTraits.length
+            ? `${percentage}% similar · ${sharedTraits.slice(0, 3).map(escapeHtml).join(', ')}`
+            : `${percentage}% similar (${char.sharedTropes} shared tropes)`;
         html += `
             <div class="character-card similar-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
                 <h4>${escapeHtml(char.name)}</h4>
                 <p class="show-name">${escapeHtml(char.show)}</p>
                 <div class="similarity-bar">
-                    <div class="similarity-fill" style="width: ${percentage}%"></div>
+                    <div class="similarity-fill" style="width: ${Math.min(percentage, 100)}%"></div>
                 </div>
-                <p class="similarity-text">${percentage}% similar (${char.sharedTropes} shared tropes)</p>
+                <p class="similarity-text">${detail}</p>
             </div>
         `;
     });
