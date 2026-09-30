@@ -3,22 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000000">
     <title>Character Cluster Recommender | Archit Goswami</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=2">
+    <script>
+        try {
+            document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'dark');
+        } catch (e) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        }
+    </script>
 </head>
 <body>
-    <!-- Theme Toggle -->
-    <div class="theme-toggle-container">
-        <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
-            <span id="themeIcon">🌙</span>
-        </button>
-    </div>
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="https://architgoswami.com" class="logo">Archit Goswami</a>
+            <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
+                <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="12" cy="12" r="4"></circle>
+                    <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+                </svg>
+                <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M21 14.5A8.5 8.5 0 1 1 9.5 3 7 7 0 0 0 21 14.5z"></path>
+                </svg>
+            </button>
+        </div>
+    </header>
 
     <div class="container">
-        <header>
+        <div class="page-hero">
             <h1>Character Cluster Recommender</h1>
             <p class="subtitle">Discover similar characters across TV shows and media</p>
-        </header>
+        </div>
 
         <div class="search-section">
             <div class="search-container">
@@ -89,9 +108,9 @@
     </div>
 
     <footer>
-        <p>Data sourced from TV Tropes | Built by <a href="https://architgoswami.github.io" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Archit Goswami</a> and Alison Gunzler | <span class="footer-credit">Guided by Prof. David Eric Yarowsky</span></p>
+        <p>Data sourced from TV Tropes | Built by <a href="https://architgoswami.com">Archit Goswami</a> and Alison Gunzler | <span class="footer-credit">Guided by Prof. David Eric Yarowsky</span></p>
     </footer>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=2"></script>
 </body>
 </html>
