@@ -43,8 +43,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Load the index data
 async function loadIndex() {
     try {
-        const response = await fetch(`${BASE_URL}/index.json`);
+        const response = await fetch(`${BASE_URL}/index.json?v=3`);
         indexData = await response.json();
+        dropLetterBuckets(indexData);
         console.log('Character data loaded:', indexData);
     } catch (error) {
         console.error('Error loading index:', error);
@@ -78,6 +79,25 @@ function setupEventListeners() {
 
     searchButton.addEventListener('click', performSearch);
     themeToggle.addEventListener('click', toggleTheme);
+
+    const resultsDiv = document.getElementById('results');
+    if (resultsDiv) {
+        resultsDiv.addEventListener('click', (event) => {
+            const showLink = event.target.closest('.show-link');
+            if (!showLink) return;
+            event.preventDefault();
+            event.stopPropagation();
+            openShow(showLink.dataset.show);
+        }, true);
+        resultsDiv.addEventListener('click', (event) => {
+            const button = event.target.closest('.tropes-toggle');
+            if (!button) return;
+            const section = button.closest('.tropes-section');
+            const collapsed = section.classList.toggle('is-collapsed');
+            button.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+            button.textContent = collapsed ? 'Show all' : 'Show less';
+        });
+    }
 
     // Lucky button event listener
     const luckyBtn = document.getElementById('luckyBtn');
@@ -131,6 +151,27 @@ function showSuggestions(e) {
 
     const suggestions = getUnifiedSuggestions(query);
     displaySuggestions(suggestions);
+}
+
+function isLetterBucket(name) {
+    const text = String(name || '').trim().replace(/\s+/g, ' ');
+    if (/^[A-Z](?:\s*[-–—]\s*[A-Z])?$/.test(text)) return true;
+    if (/^#\s*[-–—]\s*[A-Z]$/.test(text)) return true;
+    if (/^[#A-Z]\s+to\s+[A-Z]$/i.test(text)) return true;
+    if (/tropes\s+(?:#\s*)?(?:[a-z]\s*)?(?:to|[-–—])\s*[a-z]/i.test(text)) return true;
+    return false;
+}
+
+function dropLetterBuckets(index) {
+    if (!index) return;
+    if (Array.isArray(index.characters)) {
+        index.characters = index.characters.filter(character => !isLetterBucket(character.name));
+    }
+    if (!index.shows) return;
+    for (const show of Object.keys(index.shows)) {
+        index.shows[show] = (index.shows[show] || []).filter(character => !isLetterBucket(character.name));
+        if (!index.shows[show].length) delete index.shows[show];
+    }
 }
 
 function characterList() {
@@ -292,6 +333,20 @@ async function performSearch() {
     await searchShow(best.name);
 }
 
+async function openShow(showName) {
+    if (!showName) return;
+    const input = document.getElementById('searchInput');
+    if (input) input.value = showName;
+    hideSuggestions();
+    await searchShow(showName);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showLinkHtml(show) {
+    const name = show || '';
+    return `<a class="show-link" href="#" data-show="${escapeAttr(name)}">${escapeHtml(name)}</a>`;
+}
+
 function displayCharacterChoices(characters) {
     const resultsDiv = document.getElementById('results');
     let html = `
@@ -305,7 +360,7 @@ function displayCharacterChoices(characters) {
         html += `
             <div class="character-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
                 <h4>${escapeHtml(char.name)}</h4>
-                <p class="show-name">${escapeHtml(char.show)}</p>
+                <p class="show-name">${showLinkHtml(char.show)}</p>
                 <p class="trope-count">${char.trope_count} tropes</p>
             </div>
         `;
@@ -404,6 +459,248 @@ async function loadCharacterDetails(characterName, characterId) {
     }
 }
 
+const mediaImageCache = new Map();
+
+function mediaLookupTitle(show) {
+    let name = String(show || '').trim().replace(/\s*\([^)]*\)\s*$/, '').trim();
+    const commaArticle = name.match(/^(.*?),\s*(the|a|an)$/i);
+    if (commaArticle) {
+        const article = commaArticle[2].toLowerCase();
+        name = `${article.charAt(0).toUpperCase()}${article.slice(1)} ${commaArticle[1].trim()}`;
+    }
+    return name;
+}
+
+function cachedLookup(key, loader) {
+    if (!mediaImageCache.has(key)) {
+        mediaImageCache.set(key, Promise.resolve().then(loader).catch(() => null));
+    }
+    return mediaImageCache.get(key);
+}
+
+function namesMatch(found, wanted) {
+    const normalize = value => String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+    const a = normalize(found);
+    const b = normalize(wanted);
+    return Boolean(a && b && (a === b || a.includes(b) || b.includes(a)));
+}
+
+async function wikipediaSummary(title) {
+    return cachedLookup(`wiki:${title.toLowerCase()}`, async () => {
+        const slug = encodeURIComponent(title.replace(/ /g, '_'));
+        const response = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${slug}`);
+        if (!response.ok) return null;
+        const data = await response.json();
+        if (!data || data.type === 'disambiguation') return null;
+        const src = (data.thumbnail && data.thumbnail.source) || (data.originalimage && data.originalimage.source) || '';
+        const extract = data.extract || '';
+        const description = data.description || '';
+        if (!src && !extract && !description) return null;
+        const desktop = data.content_urls && data.content_urls.desktop;
+        return {
+            src,
+            title: data.title || title,
+            description,
+            extract,
+            page: (desktop && desktop.page) || ''
+        };
+    });
+}
+
+function plainText(html) {
+    const node = document.createElement('div');
+    node.innerHTML = html || '';
+    return (node.textContent || '').replace(/\s+/g, ' ').trim();
+}
+
+function clipContext(text) {
+    const clean = String(text || '').replace(/\s+/g, ' ').trim();
+    const limit = 520;
+    if (clean.length <= limit) return clean;
+    const slice = clean.slice(0, limit);
+    const end = Math.max(slice.lastIndexOf('. '), slice.lastIndexOf('! '), slice.lastIndexOf('? '));
+    if (end > 160) return slice.slice(0, end + 1);
+    return `${slice.trimEnd()}…`;
+}
+
+async function tvmazePoster(title) {
+    const response = await fetch(`https://api.tvmaze.com/singlesearch/shows?q=${encodeURIComponent(title)}`);
+    if (!response.ok) return null;
+    const data = await response.json();
+    if (!namesMatch(data.name, title)) return null;
+    const src = (data.image && (data.image.medium || data.image.original)) || '';
+    const extract = plainText(data.summary);
+    if (!src && !extract) return null;
+    return {
+        src,
+        title: data.name || title,
+        page: data.url || '',
+        description: '',
+        extract
+    };
+}
+
+async function showImage(show) {
+    const title = mediaLookupTitle(show);
+    if (!title) return null;
+    const poster = await cachedLookup(`tv:${title.toLowerCase()}`, () => tvmazePoster(title));
+    if (poster) return poster;
+    return wikipediaSummary(title);
+}
+
+function pageMatchesCharacter(page, name) {
+    const title = page.title.toLowerCase();
+    const parts = name.toLowerCase().split(/\s+/).filter(part => part.length > 1);
+    return parts.length > 0 && parts.every(part => title.includes(part));
+}
+
+function pageMentionsShow(page, media) {
+    const blob = `${page.title} ${page.description} ${page.extract}`.toLowerCase();
+    const core = media.toLowerCase().replace(/^(the|a|an)\s+/, '');
+    const skip = new Set(['series', 'show', 'film', 'movie', 'story', 'from', 'with']);
+    const tokens = core.split(/[^a-z0-9]+/).filter(word => word.length > 3 && !skip.has(word));
+    if (!tokens.length) return blob.includes(core);
+    tokens.sort((a, b) => b.length - a.length);
+    return blob.includes(tokens[0]);
+}
+
+function isCharacterArticle(page) {
+    const title = (page.title || '').toLowerCase();
+    if (title.startsWith('list of ')) return false;
+    const description = (page.description || '').toLowerCase();
+    const extract = (page.extract || '').toLowerCase();
+    const head = `${description} ${extract.slice(0, 320)}`;
+    return /\b(character|protagonist|antagonist|portrayed by|voiced by)\b/.test(head);
+}
+
+function isShowArticle(page, media) {
+    if (!page || isCharacterArticle(page)) return false;
+    const description = (page.description || '').toLowerCase();
+    if (/\b(series|sitcom|anime|film|movie|franchise|miniseries)\b/.test(description)) return true;
+    const title = String(page.title || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+    const show = mediaLookupTitle(media).toLowerCase().replace(/[^a-z0-9]+/g, '');
+    return Boolean(title && show && title === show);
+}
+
+function contextIsShowBlurb(text, show) {
+    const clean = String(text || '').toLowerCase();
+    const head = clean.slice(0, 320);
+    if (/\b(character|protagonist|antagonist|portrayed by|voiced by)\b/.test(head)) return false;
+    const aboutSeries = /\b(television series|tv series|anime series|animated series|web series|sitcom|miniseries)\b/.test(head);
+    if (!aboutSeries) return false;
+    const title = mediaLookupTitle(show).toLowerCase();
+    return !title || clean.startsWith(title) || head.includes(title);
+}
+
+function lookupNames(name) {
+    const original = String(name || '').trim();
+    const pieces = original.split(/\s*[/|]\s*/).map(part => part.trim()).filter(Boolean);
+    const names = [];
+    const add = (value) => {
+        const text = String(value || '').replace(/\s+/g, ' ').trim();
+        if (!text || names.some(existing => existing.toLowerCase() === text.toLowerCase())) return;
+        names.push(text);
+    };
+    for (const piece of (pieces.length > 1 ? pieces : [original])) {
+        let spaced = piece.replace(/([a-z\d])([A-Z])/g, '$1 $2');
+        spaced = spaced.replace(/\bMac ([A-Z])/g, 'Mac$1').replace(/\bMc ([A-Z])/g, 'Mc$1');
+        add(spaced);
+        if (spaced !== piece) add(piece);
+    }
+    return names;
+}
+
+async function findCharacterPage(name, show) {
+    const media = mediaLookupTitle(show);
+    for (const candidate of lookupNames(name)) {
+        const titles = [`${candidate} (${media})`, `${candidate} (character)`, candidate];
+        for (const title of titles) {
+            const page = await wikipediaSummary(title);
+            if (!page || isShowArticle(page, media) || !pageMatchesCharacter(page, candidate)) continue;
+            if (title === candidate && !pageMentionsShow(page, media)) continue;
+            if (title.endsWith('(character)') && !pageMentionsShow(page, media)) continue;
+            return page;
+        }
+    }
+    return null;
+}
+
+async function characterImage(name, show) {
+    const page = await findCharacterPage(name, show);
+    const characterContext = page && isCharacterArticle(page)
+        ? clipContext(page.extract || page.description)
+        : '';
+    if (page && page.src) {
+        return {
+            src: page.src,
+            title: page.title,
+            page: page.page || '',
+            context: characterContext,
+            contextKind: 'character'
+        };
+    }
+    const poster = await showImage(show);
+    if (!poster && !characterContext) return null;
+    return {
+        src: (poster && poster.src) || '',
+        title: (poster && poster.title) || name,
+        page: (poster && poster.page) || '',
+        context: characterContext,
+        contextKind: 'character'
+    };
+}
+
+async function showProfile(show) {
+    const profile = await showImage(show);
+    if (!profile) return null;
+    return {
+        ...profile,
+        context: clipContext(profile.extract || profile.description),
+        contextKind: 'show'
+    };
+}
+
+function attachMediaImage(root, spec) {
+    if (!root) return;
+    const token = `${spec.kind}|${spec.name || ''}|${spec.show || ''}`;
+    root.dataset.imageToken = token;
+    const lookup = spec.kind === 'show'
+        ? showProfile(spec.show || spec.name)
+        : characterImage(spec.name, spec.show);
+    lookup.then(image => {
+        if (!image || !root.isConnected || root.dataset.imageToken !== token) return;
+        const link = root.querySelector('.media-portrait-link');
+        const img = root.querySelector('.media-portrait');
+        if (link && img && image.src) {
+            img.alt = image.title || spec.name || spec.show || '';
+            img.onerror = () => {
+                link.hidden = true;
+                root.classList.remove('has-image');
+            };
+            img.src = image.src;
+            if (image.page) {
+                link.href = image.page;
+                link.setAttribute('aria-label', img.alt);
+            }
+            link.hidden = false;
+            root.classList.add('has-image');
+        }
+        const blurb = root.querySelector('.media-context');
+        const showContextOnCharacter = spec.kind === 'character' && (
+            image.contextKind === 'show' || contextIsShowBlurb(image.context, spec.show)
+        );
+        if (blurb && image.context && !showContextOnCharacter) {
+            blurb.textContent = image.context;
+            blurb.hidden = false;
+            root.classList.add('has-context');
+        }
+    }).catch(() => {});
+}
+
+function mediaPortraitHtml() {
+    return `<a class="media-portrait-link" target="_blank" rel="noopener noreferrer" hidden><img class="media-portrait" alt=""></a>`;
+}
+
 // Display character details
 function displayCharacterDetails(character) {
     const resultsDiv = document.getElementById('results');
@@ -414,14 +711,23 @@ function displayCharacterDetails(character) {
     
     let html = `
         <div class="character-card main-character">
-            <h2>${escapeHtml(character.name)}</h2>
-            <p class="show-name">From: ${escapeHtml(character.show)}</p>
-            <p class="trope-count">${character.trope_count} tropes</p>
+            ${mediaPortraitHtml()}
+            <div class="media-copy">
+                <h2>${escapeHtml(character.name)}</h2>
+                <p class="show-name">From: ${showLinkHtml(character.show)}</p>
+                <p class="trope-count">${character.trope_count} tropes</p>
+                <p class="media-context" hidden></p>
+            </div>
         </div>
         ${renderTraitSection(character)}
+        <div id="similar-characters"><div class="loading">Finding similar characters...</div></div>
 
-        <div class="tropes-section">
-            <h3>Character Tropes</h3>
+        <div class="tropes-section is-collapsed">
+            <div class="tropes-heading">
+                <h3>Character Tropes</h3>
+                <button type="button" class="tropes-toggle" aria-expanded="false">Show all</button>
+            </div>
+            <div class="tropes-body">
     `;
 
     // Display tropes by category
@@ -452,11 +758,15 @@ function displayCharacterDetails(character) {
         html += `<p>No tropes available for this character.</p>`;
     }
 
-    html += `</div>`;
-    html += `<div id="similar-characters"><div class="loading">Finding similar characters...</div></div>`;
+    html += `</div></div>`;
     
     resultsDiv.innerHTML = html;
     revealResults(resultsDiv);
+    attachMediaImage(resultsDiv.querySelector('.main-character'), {
+        kind: 'character',
+        name: character.name,
+        show: character.show
+    });
 }
 
 function renderTraitSection(character) {
@@ -577,6 +887,7 @@ function displaySimilarCharacters(similarChars) {
         return;
     }
     
+    similarChars = (similarChars || []).filter(character => !isLetterBucket(character.name));
     if (similarChars.length === 0) {
         container.innerHTML = '<p>No similar characters found.</p>';
         return;
@@ -593,7 +904,7 @@ function displaySimilarCharacters(similarChars) {
         html += `
             <div class="character-card similar-card" onclick="searchCharacterById('${escapeAttr(char.id)}')">
                 <h4>${escapeHtml(char.name)}</h4>
-                <p class="show-name">${escapeHtml(char.show)}</p>
+                <p class="show-name">${showLinkHtml(char.show)}</p>
                 <div class="similarity-bar">
                     <div class="similarity-fill" style="width: ${Math.min(percentage, 100)}%"></div>
                 </div>
@@ -626,8 +937,12 @@ function displayShowCharacters(showName, characters) {
     
     let html = `
         <div class="show-header">
-            <h2>${escapeHtml(showName)}</h2>
-            <p>${characters.length} characters</p>
+            ${mediaPortraitHtml()}
+            <div class="media-copy">
+                <h2>${escapeHtml(showName)}</h2>
+                <p>${characters.length} characters</p>
+                <p class="media-context" hidden></p>
+            </div>
         </div>
         <div class="show-characters-grid">
     `;
@@ -645,6 +960,10 @@ function displayShowCharacters(showName, characters) {
     html += '</div>';
     resultsDiv.innerHTML = html;
     revealResults(resultsDiv);
+    attachMediaImage(resultsDiv.querySelector('.show-header'), {
+        kind: 'show',
+        show: showName
+    });
 }
 
 // Show loading state
@@ -685,3 +1004,62 @@ function escapeHtml(text) {
 function escapeAttr(text) {
     return text.replace(/'/g, '&#39;').replace(/"/g, '&quot;');
 }
+
+function initParticles() {
+    const canvas = document.getElementById('particles');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let dots = [];
+    let width = 0;
+    let height = 0;
+    let running = true;
+
+    function resize() {
+        const dpr = Math.min(window.devicePixelRatio || 1, 2);
+        width = window.innerWidth;
+        height = window.innerHeight;
+        canvas.width = Math.floor(width * dpr);
+        canvas.height = Math.floor(height * dpr);
+        canvas.style.width = width + 'px';
+        canvas.style.height = height + 'px';
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        const count = Math.max(28, Math.round((width * height) / 18000));
+        dots = Array.from({ length: count }, () => ({
+            x: Math.random() * width,
+            y: Math.random() * height,
+            r: Math.random() * 1.15 + 0.35,
+            o: Math.random() * 0.45 + 0.15,
+            vy: Math.random() * 0.18 + 0.04
+        }));
+    }
+
+    function frame() {
+        if (!running) return;
+        ctx.clearRect(0, 0, width, height);
+        const light = document.documentElement.getAttribute('data-theme') === 'light';
+        ctx.fillStyle = light ? '#111111' : '#ffffff';
+        for (const dot of dots) {
+            if (!reduceMotion) {
+                dot.y -= dot.vy;
+                if (dot.y < -2) dot.y = height + 2;
+            }
+            ctx.globalAlpha = dot.o;
+            ctx.beginPath();
+            ctx.arc(dot.x, dot.y, dot.r, 0, Math.PI * 2);
+            ctx.fill();
+        }
+        ctx.globalAlpha = 1;
+        requestAnimationFrame(frame);
+    }
+
+    resize();
+    frame();
+    window.addEventListener('resize', resize);
+    document.addEventListener('visibilitychange', () => {
+        running = !document.hidden;
+        if (running) frame();
+    });
+}
+
+initParticles();

@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="style.css?v=12">
     <script>
         try {
             document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'dark');
@@ -18,6 +18,7 @@
     </script>
 </head>
 <body>
+    <canvas id="particles" class="particles" aria-hidden="true"></canvas>
     <header class="site-header">
         <div class="header-inner">
             <a href="https://architgoswami.com" class="logo">Archit Goswami</a>
@@ -35,7 +36,7 @@
 
     <div class="container">
         <div class="page-hero">
-            <h1>Character Cluster Recommender</h1>
+            <h1><a class="home-link" href="./">Character Cluster Recommender</a></h1>
             <p class="subtitle">Discover similar characters across TV shows and media</p>
         </div>
 
@@ -100,8 +101,8 @@
 
             <article class="note">
                 <p class="note-kicker">Outcomes</p>
-                <h3>46,317 characters, and a few arguments</h3>
-                <p>The index holds 46,317 characters across 1,115 shows. The original plan was a few hundred shows. Pages that were only a letter range of tropes, or a heading like “in general,” are left out. Two titles for the same series can both survive.</p>
+                <h3>46,244 characters, and a few arguments</h3>
+                <p>The index holds 46,244 characters across 1,115 shows. The original plan was a few hundred shows. Pages that were only a letter range of tropes, or a heading like “in general,” are left out. Two titles for the same series can both survive.</p>
                 <p>Walter White’s vector comes out deceitful, heroic, scheming, and intelligent, with cruelty just behind. The neighbors are Lex Luthor, Rick Sanchez, Eric Cartman, and Gustavo Fring. Cartman is the one that shows the layer working: the shared part is cruelty and deceit, without requiring the same trope names. Gus is the same show, which the traits also catch. Tony Soprano sits closer to Hannibal Lecter and Junior Soprano: possessive, callous, and cruel, with less of Walter’s heroic self-image.</p>
             </article>
         </section>
@@ -111,6 +112,6 @@
         <p>Data sourced from TV Tropes | Built by <a href="https://architgoswami.com">Archit Goswami</a> and Alison Gunzler | <span class="footer-credit">Guided by Prof. David Eric Yarowsky</span></p>
     </footer>
 
-    <script src="app.js?v=2"></script>
+    <script src="app.js?v=19"></script>
 </body>
 </html>
