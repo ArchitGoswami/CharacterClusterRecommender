@@ -1,1 +1,1 @@
-{"name": "Sam", "show": "Oz", "trope_count": 4, "tropes": ["NiceGuy", "MyBelovedSmother", "ButtMonkey", "EarnYourHappyEnding"], "tropes_by_category": {}, "similar": [{"name": "Sam", "show": "Ozark", "id": "ozark_sam", "similarity": 1.0, "shared_tropes": 4}]}
+{"name": "Sam", "show": "Oz", "trope_count": 4, "tropes": ["NiceGuy", "MyBelovedSmother", "ButtMonkey", "EarnYourHappyEnding"], "tropes_by_category": {}, "traits": [{"name": "Kind", "score": 1.0}], "similar": [{"name": "Sam", "show": "Ozark", "id": "ozark_sam", "similarity": 1.0, "shared_tropes": 4}]}

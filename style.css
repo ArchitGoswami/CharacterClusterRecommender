@@ -421,6 +421,83 @@ header h1 {
     font-weight: 600;
 }
 
+/* Trait layer */
+.trait-layer {
+    margin-bottom: 3rem;
+}
+
+body.has-results .trait-layer {
+    display: none;
+}
+
+.trait-layer h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.trait-layer-lead {
+    color: var(--text-secondary);
+    margin-bottom: 1.75rem;
+}
+
+/* Project notes */
+.project-notes {
+    margin-top: 3rem;
+}
+
+body.has-results .project-notes {
+    display: none;
+}
+
+.project-notes h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.project-notes-lead {
+    color: var(--text-secondary);
+    margin-bottom: 1.75rem;
+}
+
+.note {
+    background: var(--bg-secondary);
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 2px 8px var(--shadow-sm);
+}
+
+.note-kicker {
+    color: var(--accent-primary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.35rem;
+}
+
+.note h3 {
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+}
+
+.note p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+}
+
+.note p:last-child {
+    margin-bottom: 0;
+}
+
+.note em {
+    color: var(--text-primary);
+    font-style: italic;
+}
+
 /* Footer */
 footer {
     text-align: center;
@@ -428,6 +505,17 @@ footer {
     margin-top: 4rem;
     border-top: 2px solid var(--border-color);
     color: var(--text-tertiary);
+}
+
+footer p {
+    max-width: 46rem;
+    margin: 0 auto;
+    line-height: 1.7;
+}
+
+.footer-credit {
+    display: inline-block;
+    white-space: nowrap;
 }
 
 /* Responsive Design */
@@ -452,6 +540,15 @@ footer {
     .theme-toggle-container {
         top: 0.5rem;
         right: 0.5rem;
+    }
+
+    .note {
+        padding: 1.25rem;
+    }
+
+    .project-notes h2,
+    .trait-layer h2 {
+        font-size: 1.45rem;
     }
 }
 
@@ -525,6 +622,43 @@ html {
 /* Make search container relative for dropdown positioning */
 .search-container {
     position: relative;
+}
+
+/* Trait tags */
+.traits-section {
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.traits-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.35rem;
+    color: var(--text-primary);
+}
+
+.traits-note {
+    color: var(--text-tertiary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.traits-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.trait-tag {
+    display: inline-block;
+    padding: 0.45rem 0.9rem;
+    background: var(--bg-primary);
+    color: var(--accent-secondary);
+    border: 1px solid var(--accent-primary);
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
 }
 
 /* Trope Tags as Links */
