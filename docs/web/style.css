@@ -436,48 +436,9 @@ body.has-results .trait-layer {
     margin-bottom: 0.5rem;
 }
 
-.trait-layer-lead,
-.trait-layer-note {
-    color: var(--text-secondary);
-}
-
 .trait-layer-lead {
-    margin-bottom: 1.5rem;
-}
-
-.layer-steps {
-    list-style: none;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-    margin-bottom: 1rem;
-}
-
-.layer-steps li {
-    background: var(--bg-secondary);
-    border: 2px solid var(--border-color);
-    border-radius: 12px;
-    padding: 1.25rem 1.35rem;
-}
-
-.layer-kicker {
-    display: block;
-    color: var(--accent-primary);
-    font-size: 0.8rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    margin-bottom: 0.35rem;
-}
-
-.layer-steps h3 {
-    font-size: 1.15rem;
-    margin-bottom: 0.5rem;
-}
-
-.layer-steps p {
     color: var(--text-secondary);
-    margin: 0;
+    margin-bottom: 1.75rem;
 }
 
 /* Project notes */
@@ -588,10 +549,6 @@ footer p {
     .project-notes h2,
     .trait-layer h2 {
         font-size: 1.45rem;
-    }
-
-    .layer-steps {
-        grid-template-columns: 1fr;
     }
 }
 

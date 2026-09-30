@@ -37,24 +37,25 @@
         <section class="trait-layer" aria-labelledby="trait-layer-title">
             <h2 id="trait-layer-title">The layer between a trope and a person</h2>
             <p class="trait-layer-lead">Two characters can share a personality and still miss each other when the match is only the trope name. Each person is placed in a vector of 637 traits, and similarity is how close those vectors are.</p>
-            <ol class="layer-steps">
-                <li>
-                    <span class="layer-kicker">Tropes</span>
-                    <h3>The page is a list of names</h3>
-                    <p>Affably Evil and Faux Affably Evil barely overlap as strings. They still describe the same kind of person: pleasant on the surface, cruel underneath.</p>
-                </li>
-                <li>
-                    <span class="layer-kicker">Traits</span>
-                    <h3>Names turn on a vector</h3>
-                    <p>Each trope lights a few slots. Deadpan Snarker turns on impassive and sarcastic. Anti-Hero turns on cynical, with a little heroic. “Evil” counts as cruelty once, not as every harsh synonym.</p>
-                </li>
-                <li>
-                    <span class="layer-kicker">Neighbors</span>
-                    <h3>The closest eight people</h3>
-                    <p>The cosine of those vectors is computed when the site is built. Rare traits are ignored. Very common ones, such as cruelty, stay at a lower weight so they connect people without making every villain identical.</p>
-                </li>
-            </ol>
-            <p class="trait-layer-note">If a character’s tropes never resolve to at least three traits, the page falls back to overlap of the trope names.</p>
+
+            <article class="note">
+                <p class="note-kicker">Tropes</p>
+                <h3>The page is a list of names</h3>
+                <p>Affably Evil and Faux Affably Evil barely overlap as strings. They still describe the same kind of person: pleasant on the surface, cruel underneath.</p>
+            </article>
+
+            <article class="note">
+                <p class="note-kicker">Traits</p>
+                <h3>Names turn on a vector</h3>
+                <p>Each trope lights a few slots. Deadpan Snarker turns on impassive and sarcastic. Anti-Hero turns on cynical, with a little heroic. “Evil” counts as cruelty once, not as every harsh synonym.</p>
+            </article>
+
+            <article class="note">
+                <p class="note-kicker">Neighbors</p>
+                <h3>The closest eight people</h3>
+                <p>The cosine of those vectors is computed when the site is built. Rare traits are ignored. Very common ones, such as cruelty, stay at a lower weight so they connect people without making every villain identical.</p>
+                <p>If a character’s tropes never resolve to at least three traits, the page falls back to overlap of the trope names.</p>
+            </article>
         </section>
 
         <section class="project-notes" aria-labelledby="project-notes-title">
